@@ -1417,5 +1417,265 @@
   "lon": 110.36444,
   "extract": "Yogyakarta — écrit Jogjakarta jusqu'à la réforme orthographique de 1972 et appelé souvent Jogja —, de son nom officiel Ngayogyakarta Hadiningrat, est une ville d'Indonésie, capitale du Territoire spécial de Yogyakarta, dans le centre de l'île de Java.",
   "article": "https://fr.wikipedia.org/wiki/Yogyakarta"
+ },
+ "Alona Beach": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Alona_Beach_Overview.jpg/1920px-Alona_Beach_Overview.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Alona_Beach_Overview.jpg",
+  "artist": "No machine-readable author provided. Magalhães assumed (based on copyright claims).",
+  "license": "Public domain",
+  "lat": 9.54861,
+  "lon": 123.77083
+ },
+ "Capas": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Capas_Municipal_Hall_drone_%28MacArthur_Highway%2C_Capas%2C_Tarlac%3B_02-15-2026%29.jpg/1920px-Capas_Municipal_Hall_drone_%28MacArthur_Highway%2C_Capas%2C_Tarlac%3B_02-15-2026%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Capas_Municipal_Hall_drone_(MacArthur_Highway,_Capas,_Tarlac;_02-15-2026).jpg",
+  "artist": "Patrickroque01",
+  "license": "CC BY-SA 4.0",
+  "lat": 15.3372,
+  "lon": 120.59,
+  "extract": "Capas est une ville de 1re classe située dans la province de Tarlac aux Philippines. Selon le recensement de 2007 elle est peuplée de 122 084 habitants. Les premiers habitants de cette municipalité furent les Kapampangan et les Aeta.",
+  "article": "https://fr.wikipedia.org/wiki/Capas"
+ },
+ "Chocolate Hills": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Chocolate_Hills_Bohol.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Chocolate_Hills_Bohol.JPG",
+  "artist": "P199",
+  "license": "CC BY-SA 3.0",
+  "lat": 9.91667,
+  "lon": 124.16667,
+  "extract": "Chocolate Hills est une formation géologique peu commune se situant sur l'île de Bohol aux Philippines. Cette formation est composée de 1 268 collines en forme de cône de tailles similaires. Ces collines sont réparties sur plus de 50 kilomètres carrés.",
+  "article": "https://fr.wikipedia.org/wiki/Chocolate_Hills"
+ },
+ "Coron, Palawan": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Coron_skyline_Tapyas_%28Coron%2C_Palwan%3B_03-16-2024%29.jpg/1920px-Coron_skyline_Tapyas_%28Coron%2C_Palwan%3B_03-16-2024%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Coron_skyline_Tapyas_(Coron,_Palwan;_03-16-2024).jpg",
+  "artist": "Patrickroque01",
+  "license": "CC BY-SA 4.0",
+  "lat": 11.9989,
+  "lon": 120.2053,
+  "extract": "Coron est une ville de 1re classe de la province de Palawan aux Philippines. Selon le recensement de 2015 elle compte 51 803 habitants.",
+  "article": "https://fr.wikipedia.org/wiki/Coron_(ville)"
+ },
+ "El Nido, Palawan": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/El_Nido_Bay_December_2018.jpg/1920px-El_Nido_Bay_December_2018.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:El_Nido_Bay_December_2018.jpg",
+  "artist": "Kalithecat00",
+  "license": "CC BY-SA 4.0",
+  "lat": 11.18,
+  "lon": 119.39,
+  "extract": "El Nido est une municipalité des Philippines et une zone protégée dans la province de Palawan aux Philippines.",
+  "article": "https://fr.wikipedia.org/wiki/El_Nido"
+ },
+ "File:04 Palawan tourism - island hopping tour B visiting Snake Island sandbar.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/04_Palawan_tourism_-_island_hopping_tour_B_visiting_Snake_Island_sandbar.jpg/1920px-04_Palawan_tourism_-_island_hopping_tour_B_visiting_Snake_Island_sandbar.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:04_Palawan_tourism_-_island_hopping_tour_B_visiting_Snake_Island_sandbar.jpg",
+  "artist": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+  "license": "CC BY 3.0"
+ },
+ "File:Big lagoon entrance, Miniloc island - panoramio.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Big_lagoon_entrance%2C_Miniloc_island_-_panoramio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Big_lagoon_entrance,_Miniloc_island_-_panoramio.jpg",
+  "artist": "Tuderna",
+  "license": "CC BY 3.0"
+ },
+ "File:Cambugahay Falls 01.JPG": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Cambugahay_Falls_01.JPG/1920px-Cambugahay_Falls_01.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Cambugahay_Falls_01.JPG",
+  "artist": "Lawrence Ruiz",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Crater lake Pinatubo.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Crater_lake_Pinatubo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Crater_lake_Pinatubo.jpg",
+  "artist": "anne jimenez from Q.C., Philippines",
+  "license": "CC BY 2.0"
+ },
+ "File:Kayangan Lake, Coron Island.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Kayangan_Lake%2C_Coron_Island.jpg/1920px-Kayangan_Lake%2C_Coron_Island.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kayangan_Lake,_Coron_Island.jpg",
+  "artist": "Lyndon Aguila",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Las Cabanas Beach - panoramio.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Las_Cabanas_Beach_-_panoramio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Las_Cabanas_Beach_-_panoramio.jpg",
+  "artist": "Tuderna",
+  "license": "CC BY 3.0"
+ },
+ "File:Loboc river cruise Bohol 2017.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Loboc_river_cruise_Bohol_2017.jpg/1920px-Loboc_river_cruise_Bohol_2017.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Loboc_river_cruise_Bohol_2017.jpg",
+  "artist": "Øyvind Holmstad",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Malcapuya Island, Palawan, Philippines.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Malcapuya_Island%2C_Palawan%2C_Philippines.jpg/1920px-Malcapuya_Island%2C_Palawan%2C_Philippines.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Malcapuya_Island,_Palawan,_Philippines.jpg",
+  "artist": ". Ray in Manila",
+  "license": "CC BY 2.0"
+ },
+ "File:Manila Bay, Baywalk, Philippines.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Manila_Bay%2C_Baywalk%2C_Philippines.jpg/1920px-Manila_Bay%2C_Baywalk%2C_Philippines.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Manila_Bay,_Baywalk,_Philippines.jpg",
+  "artist": "Vyacheslav Argenberg",
+  "license": "CC BY 4.0"
+ },
+ "File:Nacpan Beach in El Nido.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Nacpan_Beach_in_El_Nido.jpg/1920px-Nacpan_Beach_in_El_Nido.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Nacpan_Beach_in_El_Nido.jpg",
+  "artist": "Micluna",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Nagtabon Beach, Puerto Princesa (Unsplash).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Nagtabon_Beach%2C_Puerto_Princesa_%28Unsplash%29.jpg/1920px-Nagtabon_Beach%2C_Puerto_Princesa_%28Unsplash%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Nagtabon_Beach,_Puerto_Princesa_(Unsplash).jpg",
+  "artist": "Elise Iovenko pinpaletik",
+  "license": "CC0"
+ },
+ "File:Small Lagoon, El Nido, Philippines (36957476521).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Small_Lagoon%2C_El_Nido%2C_Philippines_%2836957476521%29.jpg/1920px-Small_Lagoon%2C_El_Nido%2C_Philippines_%2836957476521%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Small_Lagoon,_El_Nido,_Philippines_(36957476521).jpg",
+  "artist": "Fabio Achilli from Milano, Italy",
+  "license": "CC BY 2.0"
+ },
+ "File:Tarsier Sanctuary, Corella, Bohol (2052878890).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Tarsier_Sanctuary%2C_Corella%2C_Bohol_%282052878890%29.jpg/1920px-Tarsier_Sanctuary%2C_Corella%2C_Bohol_%282052878890%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tarsier_Sanctuary,_Corella,_Bohol_(2052878890).jpg",
+  "artist": "yeowatzup",
+  "license": "CC BY 2.0"
+ },
+ "File:Twin Lagoon Coron Palawan.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Twin_Lagoon_Coron_Palawan.jpg/1920px-Twin_Lagoon_Coron_Palawan.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Twin_Lagoon_Coron_Palawan.jpg",
+  "artist": "Franz C. Trinidad",
+  "license": "CC BY-SA 4.0"
+ },
+ "Intramuros": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Baluartillo_de_San_Jos%C3%A9%2C_Manila%2C_Filipinas%2C_2023-08-26%2C_DD_41.jpg/1920px-Baluartillo_de_San_Jos%C3%A9%2C_Manila%2C_Filipinas%2C_2023-08-26%2C_DD_41.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Baluartillo_de_San_Jos%C3%A9,_Manila,_Filipinas,_2023-08-26,_DD_41.jpg",
+  "artist": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "lat": 14.59147,
+  "lon": 120.97356,
+  "extract": "Intramuros est le quartier le plus ancien de Manille, la capitale des Philippines. Il est situé le long de la rive méridionale du fleuve Pasig et a été construit par les Espagnols au XVIe siècle.",
+  "article": "https://fr.wikipedia.org/wiki/Intramuros"
+ },
+ "Kayangan Lake": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Cayangan_Lake%2C_Coron_Islands%2C_Philippines_-_panoramio.jpg/1920px-Cayangan_Lake%2C_Coron_Islands%2C_Philippines_-_panoramio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cayangan_Lake,_Coron_Islands,_Philippines_-_panoramio.jpg",
+  "artist": "Monette Nyem",
+  "license": "CC BY 3.0",
+  "lat": 11.9541,
+  "lon": 120.2243
+ },
+ "Loboc River": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png",
+  "page": "https://en.wikipedia.org/wiki/File:Blank.png",
+  "artist": "See c:File:Blank.png",
+  "license": "PD",
+  "lat": 9.60087,
+  "lon": 124.00878
+ },
+ "Manila": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Cityscape_of_Manila%2C_2025_%2801%29.jpg/1920px-Cityscape_of_Manila%2C_2025_%2801%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cityscape_of_Manila,_2025_(01).jpg",
+  "artist": "Bahnfrend",
+  "license": "CC BY-SA 4.0",
+  "lat": 14.5958,
+  "lon": 120.9772,
+  "extract": "Manille, officiellement la Ville de Manille est la capitale des Philippines, et l'une des 17 villes de l'aire métropolitaine de Manille, l'une des plus peuplées au monde.",
+  "article": "https://fr.wikipedia.org/wiki/Manille"
+ },
+ "Manila Bay": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Earth_from_Space_Manila_Bay%2C_Manila%2C_The_Philippines_%2829657831394%29.jpg/1920px-Earth_from_Space_Manila_Bay%2C_Manila%2C_The_Philippines_%2829657831394%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Earth_from_Space_Manila_Bay,_Manila,_The_Philippines_(29657831394).jpg",
+  "artist": "Pierre Markuse from Hamm, Germany",
+  "license": "CC BY 2.0",
+  "lat": 14.51667,
+  "lon": 120.76667,
+  "extract": "La baie de Manille est un port naturel qui abrite le port de Manille sur l'île de Luçon aux Philippines. L'entrée fait 19 km de largeur et la baie s'avance de 48 km dans les terres.",
+  "article": "https://fr.wikipedia.org/wiki/Baie_de_Manille"
+ },
+ "Mount Pinatubo": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Mt_Pinatubo_trekking_-_panoramio_%285%29.jpg/1920px-Mt_Pinatubo_trekking_-_panoramio_%285%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mt_Pinatubo_trekking_-_panoramio_(5).jpg",
+  "artist": "Sindre Helvik",
+  "license": "CC BY 3.0",
+  "lat": 15.14167,
+  "lon": 120.35,
+  "extract": "Le Pinatubo est un stratovolcan actif situé dans l'ouest de l'île de Luçon aux Philippines, à moins d'une centaine de kilomètres au nord-ouest de la capitale Manille.",
+  "article": "https://fr.wikipedia.org/wiki/Pinatubo"
+ },
+ "Panglao, Bohol": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Panglao_coast%2C_Alona_Beach_from_air_%28Panglao%2C_Bohol%3B_01-09-2023%29.jpg/1920px-Panglao_coast%2C_Alona_Beach_from_air_%28Panglao%2C_Bohol%3B_01-09-2023%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Panglao_coast,_Alona_Beach_from_air_(Panglao,_Bohol;_01-09-2023).jpg",
+  "artist": "Patrickroque01",
+  "license": "CC BY-SA 4.0",
+  "lat": 9.579,
+  "lon": 123.745,
+  "extract": "Panglao est une île de la mer des Philippines, plus localement située en mer de Bohol. Elle constitue une municipalité de la province Bohol aux Philippines. Au recensement de 2007 il y avait 25 558 habitants.",
+  "article": "https://fr.wikipedia.org/wiki/Panglao"
+ },
+ "Philippine tarsier": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Philippine_tarsier_%28Carlito_syrichta_fraterculus%29_Bohol.jpg/1920px-Philippine_tarsier_%28Carlito_syrichta_fraterculus%29_Bohol.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Philippine_tarsier_(Carlito_syrichta_fraterculus)_Bohol.jpg",
+  "artist": "Charles J. Sharp",
+  "license": "CC BY-SA 4.0",
+  "extract": "Le Tarsier des Philippines, unique représentant du genre Carlito, est une espèce de tarsiers endémique des Philippines. C'est l'un des plus petits primates de la planète.",
+  "article": "https://fr.wikipedia.org/wiki/Tarsier_des_Philippines"
+ },
+ "Puerto Princesa": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Dos_Palmas_RP.JPG",
+  "page": "https://en.wikipedia.org/wiki/File:Dos_Palmas_RP.JPG",
+  "artist": "Leapmark (talk)",
+  "license": "CC-BY-SA-3.0",
+  "lat": 9.74,
+  "lon": 118.744,
+  "extract": "Puerto Princesa est une ville de 1re classe, capitale de la province de Palawan aux Philippines. Selon le recensement de 2010 elle compte 222 673 habitants.",
+  "article": "https://fr.wikipedia.org/wiki/Puerto_Princesa"
+ },
+ "Puerto Princesa Underground River": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Puerto-Princesa_Subterranean_River_National_Park-112012.jpg/1920px-Puerto-Princesa_Subterranean_River_National_Park-112012.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Puerto-Princesa_Subterranean_River_National_Park-112012.jpg",
+  "artist": "Ron Van Oers",
+  "license": "CC BY-SA 3.0 igo",
+  "lat": 10.16667,
+  "lon": 118.91667,
+  "extract": "Le parc national de la rivière souterraine de Puerto Princesa est situé à environ 50 km au nord de la ville de Puerto Princesa, dans la province de Palawan aux Philippines, dans la chaîne de montagnes Saint-Paul, sur la côte nord de l'île.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_de_la_rivi%C3%A8re_souterraine_de_Puerto_Princesa"
+ },
+ "Rizal Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Rizal_Monument_%28Manila%2C_2024%29.jpg/1920px-Rizal_Monument_%28Manila%2C_2024%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rizal_Monument_(Manila,_2024).jpg",
+  "artist": "Ernest Malsin",
+  "license": "CC BY 4.0",
+  "lat": 14.5825,
+  "lon": 120.97833,
+  "extract": "Rizal Park est un parc situé au cœur de Manille, capitale des Philippines, à l'extrémité nord du boulevard Roxas, près du quartier d'Intramuros. Il donne sur la baie de Manille.",
+  "article": "https://fr.wikipedia.org/wiki/Rizal_Park"
+ },
+ "Siete Pecados": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Siete_Pecados_%28Coron%2C_Palawan%3B_03-16-2024%29.jpg/1920px-Siete_Pecados_%28Coron%2C_Palawan%3B_03-16-2024%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Siete_Pecados_(Coron,_Palawan;_03-16-2024).jpg",
+  "artist": "Patrickroque01",
+  "license": "CC BY-SA 4.0",
+  "lat": 10.76667,
+  "lon": 122.68333
+ },
+ "Siquijor": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/St._Francis_of_Assisi_Church_%28Siquijor%2C_Siquijor%29.jpg/1920px-St._Francis_of_Assisi_Church_%28Siquijor%2C_Siquijor%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:St._Francis_of_Assisi_Church_(Siquijor,_Siquijor).jpg",
+  "artist": "Franz Miko Verzon",
+  "license": "CC BY-SA 4.0",
+  "lat": 9.18,
+  "lon": 123.58,
+  "extract": "Siquijor est une île de la mer des Philippines, plus précisément située en mer de Bohol, une mer intérieure de l'archipel philippin. Elle est aussi une province des Philippines faisant partie de la région des Visayas centrales.",
+  "article": "https://fr.wikipedia.org/wiki/Siquijor"
+ },
+ "File:Gruta da Pratinha - Chapada Diamantina.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Gruta_da_Pratinha_-_Chapada_Diamantina.jpg/1920px-Gruta_da_Pratinha_-_Chapada_Diamantina.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gruta_da_Pratinha_-_Chapada_Diamantina.jpg",
+  "artist": "Felipe Sartor",
+  "license": "CC BY-SA 3.0"
  }
 }

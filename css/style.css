@@ -212,6 +212,15 @@ button:disabled { cursor: default; }
   transition: box-shadow 0.3s;
 }
 @keyframes shimmer { to { background-position: -250% 0; } }
+/* A place without a photo gets a colour tile instead of a loading shimmer. */
+.front.nophoto {
+  background: linear-gradient(135deg, color-mix(in srgb, var(--c) 72%, #1b2130), color-mix(in srgb, var(--c) 38%, #1b2130));
+  animation: none;
+}
+.front.nophoto::before {
+  content: ''; position: absolute; right: -28px; top: -28px; width: 120px; height: 120px; border-radius: 50%;
+  background: rgba(255, 255, 255, 0.12);
+}
 .stop:hover .front { box-shadow: 0 14px 30px rgba(27, 33, 48, 0.26); }
 .front img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.7s, transform 0.6s; }
 .front img.loaded { opacity: 1; }
@@ -253,6 +262,14 @@ button:disabled { cursor: default; }
 
 .notes { list-style: none; margin: 14px 0 0; padding: 0; display: grid; gap: 8px; }
 .notes li { padding: 10px 14px; border-radius: 12px; border-left: 3px solid var(--accent); background: color-mix(in srgb, var(--accent) 9%, #fff); font-size: 13.5px; color: #3b4254; }
+.stay .price { margin-left: 8px; padding: 2px 9px; border-radius: 999px; background: rgba(27, 33, 48, 0.08); font-size: 12px; font-style: normal; font-weight: 700; white-space: nowrap; }
+.options { margin: 6px 0 0; padding-left: 18px; color: #3b4254; font-size: 13px; }
+.food, .ideas { margin: 0; padding-left: 20px; color: #3b4254; font-size: 14px; }
+.food li, .ideas li { margin: 6px 0; padding-left: 2px; }
+.ideas li::marker { color: var(--accent); }
+.ideas b { font-weight: 700; color: var(--ink); }
+.parts a, .options a, .food a, .ideas a, .notes a, .transport a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+.g-table a, .g-text a, .g-list a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
 .transport { list-style: none; margin: 14px 0 0; padding: 0; display: grid; gap: 8px; }
 .transport li { display: flex; align-items: baseline; gap: 10px; font-size: 14px; color: #3b4254; }
 .mode { flex: none; padding: 2px 9px; border-radius: 999px; background: rgba(27, 33, 48, 0.08); color: var(--ink); font-size: 11px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; }

@@ -2,7 +2,9 @@
   "id": "brazil",
   "title": "Brésil",
   "subtitle": "De Rio à Fortaleza : Ilha Grande, chutes d'Iguaçu, Bahia, Chapada Diamantina et dunes du Nordeste",
-  "travelers": ["En couple"],
+  "travelers": [
+    "En couple"
+  ],
   "cover": "Lençóis Maranhenses National Park",
   "days": [
     {
@@ -11,11 +13,35 @@
       "summary": "Arrivée à Rio vers 6 h du matin après le vol depuis Paris. Détente sur les plages, montée en téléphérique au Pain de Sucre et feijoada, le plat emblématique du Brésil.",
       "route": "none",
       "stops": [
-        { "name": "Copacabana", "wiki": "Copacabana, Rio de Janeiro", "culture": "Plage de 4 km ouverte sur l'Atlantique, célèbre pour son trottoir en vagues noires et blanches, dessiné par Roberto Burle Marx. Elle accueille chaque réveillon du Nouvel An près de deux millions de personnes." },
-        { "name": "Pain de Sucre", "wiki": "Sugarloaf Mountain", "culture": "Rocher de granit de 396 m à l'entrée de la baie de Guanabara. Son téléphérique, inauguré en 1912, est l'un des plus anciens du monde et monte en deux étapes, par la colline d'Urca." }
+        {
+          "name": "Copacabana",
+          "wiki": "Copacabana, Rio de Janeiro",
+          "culture": "Plage de 4 km ouverte sur l'Atlantique, célèbre pour son trottoir en vagues noires et blanches, dessiné par Roberto Burle Marx. Elle accueille chaque réveillon du Nouvel An près de deux millions de personnes."
+        },
+        {
+          "name": "Pain de Sucre",
+          "wiki": "Sugarloaf Mountain",
+          "culture": "Rocher de granit de 396 m à l'entrée de la baie de Guanabara. Son téléphérique, inauguré en 1912, est l'un des plus anciens du monde et monte en deux étapes, par la colline d'Urca."
+        }
       ],
-      "stay": { "name": "Rio de Janeiro", "coords": [-22.9711, -43.1823] },
-      "transport": [{ "mode": "flight", "text": "Vol Paris → Rio, arrivée vers 6 h du matin" }]
+      "stay": {
+        "name": "Rio de Janeiro",
+        "coords": [
+          -22.9711,
+          -43.1823
+        ],
+        "price": "115 EUR (pour 2)",
+        "note": "Hôtel confortable à Rio"
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol Paris → Rio, arrivée vers 6 h du matin"
+        }
+      ],
+      "food": [
+        "Feijoada, le plat brésilien emblématique, dans un restaurant local."
+      ]
     },
     {
       "n": 2,
@@ -23,10 +49,30 @@
       "summary": "Visite du Corcovado et du Christ Rédempteur, puis coucher de soleil sur la plage d'Ipanema et caipirinhas dans les bars locaux.",
       "route": "none",
       "stops": [
-        { "name": "Christ Rédempteur", "wiki": "Christ the Redeemer (statue)", "culture": "Statue de 30 m inaugurée en 1931 au sommet du Corcovado, à 710 m d'altitude. Le sculpteur français Paul Landowski a participé à sa conception. Elle compte parmi les Sept nouvelles merveilles du monde depuis 2007." },
-        { "name": "Ipanema", "wiki": "Ipanema", "photo": "File:Ipanema and Leblon as seen from Morro Dois Irmãos, with Lagoa and Cantagalo in the background, Rio de Janeiro, Brazil.jpg", "culture": "Plage célèbre pour ses couchers de soleil derrière les Dois Irmãos. Elle a inspiré en 1962 la chanson de bossa nova « Garota de Ipanema », de Tom Jobim et Vinicius de Moraes." }
+        {
+          "name": "Christ Rédempteur",
+          "wiki": "Christ the Redeemer (statue)",
+          "culture": "Statue de 30 m inaugurée en 1931 au sommet du Corcovado, à 710 m d'altitude. Le sculpteur français Paul Landowski a participé à sa conception. Elle compte parmi les Sept nouvelles merveilles du monde depuis 2007."
+        },
+        {
+          "name": "Ipanema",
+          "wiki": "Ipanema",
+          "photo": "File:Ipanema and Leblon as seen from Morro Dois Irmãos, with Lagoa and Cantagalo in the background, Rio de Janeiro, Brazil.jpg",
+          "culture": "Plage célèbre pour ses couchers de soleil derrière les Dois Irmãos. Elle a inspiré en 1962 la chanson de bossa nova « Garota de Ipanema », de Tom Jobim et Vinicius de Moraes."
+        }
       ],
-      "stay": { "name": "Rio de Janeiro", "coords": [-22.9711, -43.1823] }
+      "stay": {
+        "name": "Rio de Janeiro",
+        "coords": [
+          -22.9711,
+          -43.1823
+        ],
+        "price": "115 EUR (pour 2)",
+        "note": "Hôtel à Rio"
+      },
+      "food": [
+        "Caipirinhas, le cocktail traditionnel, dans les bars locaux."
+      ]
     },
     {
       "n": 3,
@@ -34,11 +80,31 @@
       "summary": "Exploration culturelle : le quartier bohème de Santa Teresa, les arches et les bars à samba de Lapa, puis le jardin botanique et sa collection d'orchidées.",
       "route": "none",
       "stops": [
-        { "name": "Santa Teresa", "wiki": "Santa Teresa, Rio de Janeiro", "culture": "Quartier bohème perché sur une colline, desservi par un petit tramway jaune. On y trouve l'escalier Selarón, recouvert de céramiques par l'artiste chilien Jorge Selarón." },
-        { "name": "Lapa et ses arches", "wiki": "Carioca Aqueduct", "culture": "Quartier de la samba et de la vie nocturne, dominé par les Arcos da Lapa, un aqueduc colonial du XVIIIe siècle devenu viaduc du tramway." },
-        { "name": "Jardin botanique", "wiki": "Rio de Janeiro Botanical Garden", "culture": "Fondé en 1808 par le prince régent João, futur roi João VI. Son allée de 134 palmiers impériaux mène à des collections de plus de 6 000 espèces." }
+        {
+          "name": "Santa Teresa",
+          "wiki": "Santa Teresa, Rio de Janeiro",
+          "culture": "Quartier bohème perché sur une colline, desservi par un petit tramway jaune. On y trouve l'escalier Selarón, recouvert de céramiques par l'artiste chilien Jorge Selarón."
+        },
+        {
+          "name": "Lapa et ses arches",
+          "wiki": "Carioca Aqueduct",
+          "culture": "Quartier de la samba et de la vie nocturne, dominé par les Arcos da Lapa, un aqueduc colonial du XVIIIe siècle devenu viaduc du tramway."
+        },
+        {
+          "name": "Jardin botanique",
+          "wiki": "Rio de Janeiro Botanical Garden",
+          "culture": "Fondé en 1808 par le prince régent João, futur roi João VI. Son allée de 134 palmiers impériaux mène à des collections de plus de 6 000 espèces."
+        }
       ],
-      "stay": { "name": "Rio de Janeiro", "coords": [-22.9711, -43.1823] }
+      "stay": {
+        "name": "Rio de Janeiro",
+        "coords": [
+          -22.9711,
+          -43.1823
+        ],
+        "price": "115 EUR (pour 2)",
+        "note": "Hôtel à Rio"
+      }
     },
     {
       "n": 4,
@@ -46,12 +112,56 @@
       "summary": "Transfert vers Ilha Grande, île sans voitures au large de la côte sud de l'État de Rio. Randonnée et plages : Lopes Mendes, Pico do Papagaio, cascade de la Feiticeira.",
       "route": "none",
       "stops": [
-        { "name": "Lopes Mendes", "photo": "File:Praia de Lopes Mendes, Ilha Grande.jpg", "coords": [-23.1710, -44.1280], "culture": "Plage de sable blanc d'environ 3 km, accessible à pied par un sentier ou en bateau, souvent citée parmi les plus belles du Brésil. On y organise des compétitions de surf." },
-        { "name": "Pico do Papagaio", "wiki": "Pico do Papagaio", "photo": "File:Pico do Papagaio - Ilha Grande - RJ.jpg", "culture": "Sommet de 982 m dont la forme rappelle un bec de perroquet, d'où son nom. Le sentier traverse la forêt atlantique et offre une vue sur toute l'île." },
-        { "name": "Cachoeira da Feiticeira", "photo": "File:Cachoeira da Feiticeira - Ilha Grande.JPG", "coords": [-23.1400, -44.2150], "culture": "Cascade nichée dans la forêt atlantique, avec un bassin où l'on peut se baigner. « Feiticeira » veut dire sorcière." }
+        {
+          "name": "Lopes Mendes",
+          "photo": "File:Praia de Lopes Mendes, Ilha Grande.jpg",
+          "coords": [
+            -23.171,
+            -44.128
+          ],
+          "culture": "Plage de sable blanc d'environ 3 km, accessible à pied par un sentier ou en bateau, souvent citée parmi les plus belles du Brésil. On y organise des compétitions de surf."
+        },
+        {
+          "name": "Pico do Papagaio",
+          "wiki": "Pico do Papagaio",
+          "photo": "File:Pico do Papagaio - Ilha Grande - RJ.jpg",
+          "culture": "Sommet de 982 m dont la forme rappelle un bec de perroquet, d'où son nom. Le sentier traverse la forêt atlantique et offre une vue sur toute l'île."
+        },
+        {
+          "name": "Cachoeira da Feiticeira",
+          "photo": "File:Cachoeira da Feiticeira - Ilha Grande.JPG",
+          "coords": [
+            -23.14,
+            -44.215
+          ],
+          "culture": "Cascade nichée dans la forêt atlantique, avec un bassin où l'on peut se baigner. « Feiticeira » veut dire sorcière."
+        }
       ],
-      "stay": { "name": "Ilha Grande", "wiki": "Ilha Grande", "note": "Nuit en pousada" },
-      "transport": [{ "mode": "car", "text": "Transfert privé vers Ilha Grande : ~2 h 30 (ou bus + ferry : 3 h + 1 h)" }]
+      "stay": {
+        "name": "Ilha Grande",
+        "wiki": "Ilha Grande",
+        "note": "Pousada à Ilha Grande",
+        "price": "115 EUR (pour 2)"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Transfert privé vers Ilha Grande : ~2 h 30 (ou bus + ferry : 3 h + 1 h)"
+        }
+      ],
+      "food": [
+        "Dégustation de fruits de mer frais."
+      ],
+      "ideas": [
+        {
+          "label": "Randonnée dans la jungle :",
+          "text": "Pico do Papagaio, sentiers menant à des plages isolées, parc d'État d'Ilha Grande, parc d'État marin d'Aventureiro, réserve biologique de Praia do Sul (fermée au public)."
+        },
+        {
+          "label": "Autre trajet :",
+          "text": "bus + ferry (3 h + 1 h) à la place du transfert privé."
+        }
+      ]
     },
     {
       "n": 5,
@@ -59,10 +169,35 @@
       "summary": "Excursion en bateau autour de l'île : snorkeling dans la Lagoa Azul et grottes marines.",
       "route": "none",
       "stops": [
-        { "name": "Lagoa Azul", "photo": "File:Lagoa Azul, Ilha Grande.jpg", "coords": [-23.1330, -44.2720], "culture": "Lagune aux eaux turquoise, abritée par un récif, où l'on nage au milieu de nombreux poissons et, souvent, de tortues." },
-        { "name": "Gruta do Acaiá", "wiki": "Ilha Grande", "coords": [-23.1900, -44.1900], "culture": "Grotte marine de la côte sud de l'île, que l'on visite en bateau lors de l'excursion." }
+        {
+          "name": "Lagoa Azul",
+          "photo": "File:Lagoa Azul, Ilha Grande.jpg",
+          "coords": [
+            -23.133,
+            -44.272
+          ],
+          "culture": "Lagune aux eaux turquoise, abritée par un récif, où l'on nage au milieu de nombreux poissons et, souvent, de tortues."
+        },
+        {
+          "name": "Gruta do Acaiá",
+          "wiki": "Ilha Grande",
+          "coords": [
+            -23.19,
+            -44.19
+          ],
+          "culture": "Grotte marine de la côte sud de l'île, que l'on visite en bateau lors de l'excursion."
+        }
       ],
-      "stay": { "name": "Ilha Grande", "wiki": "Ilha Grande", "note": "Nuit en pousada" }
+      "stay": {
+        "name": "Ilha Grande",
+        "wiki": "Ilha Grande",
+        "note": "Pousada à Ilha Grande",
+        "price": "115 EUR (pour 2)"
+      },
+      "ideas": [
+        "Autres étapes de l'excursion en bateau : Praia Vermelha, île de Jorge Grego, piscine naturelle de la Lagoa Azul.",
+        "Praia do Aventureiro, aussi accessible en snorkeling."
+      ]
     },
     {
       "n": 6,
@@ -70,10 +205,31 @@
       "summary": "Exploration et détente : la plage isolée d'Aventureiro et le snorkeling dans la Lagoa Verde.",
       "route": "none",
       "stops": [
-        { "name": "Praia do Aventureiro", "photo": "File:Praia do Aventureiro em Ilha Grande.jpg", "coords": [-23.1840, -44.3400], "culture": "Plage isolée de l'ouest de l'île, réputée pour son palmier incliné et son village de pêcheurs, sur une île où il n'y a aucune voiture." },
-        { "name": "Lagoa Verde", "photo": "File:Lagoa Verde em Ilha Grande-RJ-Brasil (1376956558).jpg", "coords": [-23.1250, -44.2650], "culture": "Lagune aux eaux vert émeraude, voisine de la Lagoa Azul et très prisée des amateurs de snorkeling." }
+        {
+          "name": "Praia do Aventureiro",
+          "photo": "File:Praia do Aventureiro em Ilha Grande.jpg",
+          "coords": [
+            -23.184,
+            -44.34
+          ],
+          "culture": "Plage isolée de l'ouest de l'île, réputée pour son palmier incliné et son village de pêcheurs, sur une île où il n'y a aucune voiture."
+        },
+        {
+          "name": "Lagoa Verde",
+          "photo": "File:Lagoa Verde em Ilha Grande-RJ-Brasil (1376956558).jpg",
+          "coords": [
+            -23.125,
+            -44.265
+          ],
+          "culture": "Lagune aux eaux vert émeraude, voisine de la Lagoa Azul et très prisée des amateurs de snorkeling."
+        }
       ],
-      "stay": { "name": "Ilha Grande", "wiki": "Ilha Grande", "note": "Nuit en pousada" }
+      "stay": {
+        "name": "Ilha Grande",
+        "wiki": "Ilha Grande",
+        "note": "Pousada à Ilha Grande",
+        "price": "115 EUR (pour 2)"
+      }
     },
     {
       "n": 7,
@@ -81,19 +237,63 @@
       "summary": "Journée de transition, avec une escale à Paraty à midi avant le vol vers Foz do Iguaçu.",
       "route": "none",
       "parts": [
-        { "label": "Matin", "text": "Départ d'Ilha Grande en speed boat vers Paraty." },
-        { "label": "Midi", "text": "Paraty : centre colonial aux ruelles pavées du XVIIIe siècle, dégustation de cachaça, excursion en bateau vers les îles et le Saco do Mamanguá." },
-        { "label": "Soir", "text": "Bus de Paraty à Rio, puis vol Rio → Foz do Iguaçu." }
+        {
+          "label": "Matin",
+          "text": "Départ d'Ilha Grande en speed boat vers Paraty."
+        },
+        {
+          "label": "Midi",
+          "text": "Paraty : centre colonial aux ruelles pavées du XVIIIe siècle, dégustation de cachaça, excursion en bateau vers les îles et le Saco do Mamanguá."
+        },
+        {
+          "label": "Soir",
+          "text": "Bus de Paraty à Rio, puis vol Rio → Foz do Iguaçu."
+        }
       ],
       "stops": [
-        { "name": "Paraty", "wiki": "Paraty", "culture": "Port colonial du XVIIe siècle, au centre historique aux rues pavées conçues pour être inondées par les grandes marées. Paraty est inscrite à l'UNESCO depuis 2019, avec Ilha Grande. Elle est réputée pour sa cachaça." },
-        { "name": "Saco do Mamanguá", "photo": "File:Saco do Mamanguá - Paraty - panoramio.jpg", "coords": [-23.2970, -44.6770], "culture": "Baie profonde d'environ 8 km, souvent présentée comme un fjord tropical, enserrée par la forêt atlantique et bordée de mangroves." }
+        {
+          "name": "Paraty",
+          "wiki": "Paraty",
+          "culture": "Port colonial du XVIIe siècle, au centre historique aux rues pavées conçues pour être inondées par les grandes marées. Paraty est inscrite à l'UNESCO depuis 2019, avec Ilha Grande. Elle est réputée pour sa cachaça."
+        },
+        {
+          "name": "Saco do Mamanguá",
+          "photo": "File:Saco do Mamanguá - Paraty - panoramio.jpg",
+          "coords": [
+            -23.297,
+            -44.677
+          ],
+          "culture": "Baie profonde d'environ 8 km, souvent présentée comme un fjord tropical, enserrée par la forêt atlantique et bordée de mangroves."
+        }
       ],
-      "stay": { "name": "Foz do Iguaçu", "wiki": "Foz do Iguaçu" },
+      "stay": {
+        "name": "Foz do Iguaçu",
+        "wiki": "Foz do Iguaçu",
+        "price": "115 EUR (pour 2)",
+        "note": "Hôtel à Foz do Iguaçu"
+      },
       "transport": [
-        { "mode": "boat", "text": "Speed boat Ilha Grande → Paraty : ~1 h 30" },
-        { "mode": "bus", "text": "Paraty → Rio : ~5 h" },
-        { "mode": "flight", "text": "Rio → Foz do Iguaçu : ~2 h" }
+        {
+          "mode": "boat",
+          "text": "Speed boat Ilha Grande → Paraty : ~1 h 30"
+        },
+        {
+          "mode": "bus",
+          "text": "Paraty → Rio : ~5 h"
+        },
+        {
+          "mode": "flight",
+          "text": "Rio → Foz do Iguaçu : ~2 h"
+        }
+      ],
+      "food": [
+        "Dégustation de cachaça, l'alcool local, à Paraty."
+      ],
+      "ideas": [
+        {
+          "label": "Excursion en bateau depuis Paraty :",
+          "text": "îles et plages isolées, avec la piscine naturelle de Cachadaço, Playa de Meio, le snorkeling vers Saco da Velha et l'île d'Algodon, Praia Vermelha et la piscine naturelle de la Lagoa Azul."
+        }
       ]
     },
     {
@@ -102,11 +302,37 @@
       "summary": "Les chutes côté argentin : randonnée dans la jungle, circuits supérieur et inférieur, Garganta del Diablo et excursion en bateau sous les chutes. Si le temps le permet, parc des oiseaux côté brésilien.",
       "route": "none",
       "stops": [
-        { "name": "Chutes d'Iguazú", "wiki": "Iguazu Falls", "culture": "Environ 275 chutes réparties sur près de 3 km, à la frontière entre l'Argentine et le Brésil. Le nom guarani signifie « grande eau ». On raconte qu'Eleanor Roosevelt aurait lâché en les voyant : « Pauvre Niagara ! »" },
-        { "name": "Garganta del Diablo", "photo": "File:Garganta del Diablo or Devil Throat Iguazu Falls Argentina Luca Galuzzi 2005.JPG", "coords": [-25.6953, -54.4367], "culture": "Gouffre en forme de U, haut d'environ 80 m, où se jette une grande partie de la rivière Iguazú. Une passerelle permet de s'avancer jusqu'au bord." },
-        { "name": "Parque das Aves", "wiki": "Parque das Aves", "culture": "Parc ornithologique d'environ 16 hectares, voisin des chutes, avec de grandes volières où l'on marche parmi les toucans et les aras." }
+        {
+          "name": "Chutes d'Iguazú",
+          "wiki": "Iguazu Falls",
+          "culture": "Environ 275 chutes réparties sur près de 3 km, à la frontière entre l'Argentine et le Brésil. Le nom guarani signifie « grande eau ». On raconte qu'Eleanor Roosevelt aurait lâché en les voyant : « Pauvre Niagara ! »"
+        },
+        {
+          "name": "Garganta del Diablo",
+          "photo": "File:Garganta del Diablo or Devil Throat Iguazu Falls Argentina Luca Galuzzi 2005.JPG",
+          "coords": [
+            -25.6953,
+            -54.4367
+          ],
+          "culture": "Gouffre en forme de U, haut d'environ 80 m, où se jette une grande partie de la rivière Iguazú. Une passerelle permet de s'avancer jusqu'au bord."
+        },
+        {
+          "name": "Parque das Aves",
+          "wiki": "Parque das Aves",
+          "culture": "Parc ornithologique d'environ 16 hectares, voisin des chutes, avec de grandes volières où l'on marche parmi les toucans et les aras."
+        }
       ],
-      "stay": { "name": "Foz do Iguaçu", "wiki": "Foz do Iguaçu" }
+      "stay": {
+        "name": "Foz do Iguaçu",
+        "wiki": "Foz do Iguaçu",
+        "price": "115 EUR (pour 2)",
+        "note": "Hôtel à Foz do Iguaçu"
+      },
+      "ideas": [
+        "Circuits supérieur et inférieur du parc : vues sur les chutes et observation de la faune.",
+        "Excursion en bateau sous les chutes.",
+        "Parc des oiseaux, côté brésilien, s'il y a le temps."
+      ]
     },
     {
       "n": 9,
@@ -114,10 +340,24 @@
       "summary": "Les chutes côté brésilien, pour la vue panoramique, puis vol vers Salvador de Bahia. Nuit à l'hôtel, sans visite de la ville.",
       "route": "none",
       "stops": [
-        { "name": "Parc national d'Iguaçu (côté brésilien)", "wiki": "Iguaçu National Park", "culture": "Inscrit à l'UNESCO depuis 1986, il protège une grande forêt atlantique. Côté brésilien, on embrasse du regard l'ensemble des chutes, de loin, depuis une longue passerelle." }
+        {
+          "name": "Parc national d'Iguaçu (côté brésilien)",
+          "wiki": "Iguaçu National Park",
+          "culture": "Inscrit à l'UNESCO depuis 1986, il protège une grande forêt atlantique. Côté brésilien, on embrasse du regard l'ensemble des chutes, de loin, depuis une longue passerelle."
+        }
       ],
-      "stay": { "name": "Salvador de Bahia", "wiki": "Salvador, Bahia" },
-      "transport": [{ "mode": "flight", "text": "Foz do Iguaçu → Salvador : ~4 h" }]
+      "stay": {
+        "name": "Salvador de Bahia",
+        "wiki": "Salvador, Bahia",
+        "price": "115 EUR (pour 2)",
+        "note": "Hôtel à Salvador, pour le soir, sans visiter"
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Foz do Iguaçu → Salvador : ~4 h"
+        }
+      ]
     },
     {
       "n": 10,
@@ -125,12 +365,34 @@
       "summary": "Ferry vers Tinharé, puis 4x4 jusqu'à Boipeba : plages isolées, sentiers dans la forêt tropicale et moqueca de poisson, la spécialité locale.",
       "route": "none",
       "stops": [
-        { "name": "Ilha de Boipeba", "wiki": "Boipeba", "culture": "Île paisible de l'archipel de Tinharé, bordée de plages désertes et de piscines naturelles que la marée basse dévoile." }
+        {
+          "name": "Ilha de Boipeba",
+          "wiki": "Boipeba",
+          "culture": "Île paisible de l'archipel de Tinharé, bordée de plages désertes et de piscines naturelles que la marée basse dévoile."
+        }
       ],
-      "stay": { "name": "Boipeba", "wiki": "Boipeba", "note": "Nuit en pousada" },
+      "stay": {
+        "name": "Boipeba",
+        "wiki": "Boipeba",
+        "note": "Pousada à Boipeba",
+        "price": "115 EUR (pour 2)"
+      },
       "transport": [
-        { "mode": "boat", "text": "Ferry Salvador → Tinharé : ~2 h 30" },
-        { "mode": "car", "text": "4x4 vers Boipeba : ~1 h 30" }
+        {
+          "mode": "boat",
+          "text": "Ferry Salvador → Tinharé : ~2 h 30"
+        },
+        {
+          "mode": "car",
+          "text": "4x4 vers Boipeba : ~1 h 30"
+        }
+      ],
+      "food": [
+        "Moqueca de poisson, la spécialité locale."
+      ],
+      "ideas": [
+        "Passage par Tinharé avant Boipeba.",
+        "À Boipeba : plages isolées, idylliques et préservées, et sentiers de randonnée dans la forêt tropicale."
       ]
     },
     {
@@ -139,10 +401,27 @@
       "summary": "Plages et nature : la plage de Moreré, snorkeling dans les piscines naturelles aux eaux cristallines et observation des oiseaux.",
       "route": "none",
       "stops": [
-        { "name": "Praia de Moreré", "photo": "File:Moreré - Boipeba.JPG", "coords": [-13.6700, -38.8990], "culture": "Plage de la côte est de l'île, bordée de cocotiers. À marée basse, le récif forme des piscines naturelles idéales pour le snorkeling." }
+        {
+          "name": "Praia de Moreré",
+          "photo": "File:Moreré - Boipeba.JPG",
+          "coords": [
+            -13.67,
+            -38.899
+          ],
+          "culture": "Plage de la côte est de l'île, bordée de cocotiers. À marée basse, le récif forme des piscines naturelles idéales pour le snorkeling."
+        }
       ],
-      "stay": { "name": "Boipeba", "wiki": "Boipeba", "note": "Nuit en pousada" },
-      "notes": ["Une nuit de plus à Boipeba est envisagée."]
+      "stay": {
+        "name": "Boipeba",
+        "wiki": "Boipeba",
+        "note": "Pousada à Boipeba",
+        "price": "115 EUR (pour 2)"
+      },
+      "ideas": [
+        "Snorkeling à la piscine naturelle, aux eaux cristallines.",
+        "Observation des oiseaux et de la faune locale.",
+        "Rajouter un jour de plus à Boipeba ?"
+      ]
     },
     {
       "n": 12,
@@ -150,17 +429,43 @@
       "summary": "Matinée à Boipeba, retour à Salvador dans l'après-midi pour visiter la ville, puis bus de nuit vers la Chapada Diamantina.",
       "route": "none",
       "parts": [
-        { "label": "Matin", "text": "Dernière matinée à Boipeba." },
-        { "label": "Après-midi", "text": "Retour à Salvador et visite de la ville." },
-        { "label": "Nuit", "text": "Bus à 23 h 30 vers Lençóis, dans la Chapada Diamantina." }
+        {
+          "label": "Matin",
+          "text": "Dernière matinée à Boipeba."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Retour à Salvador et visite de la ville."
+        },
+        {
+          "label": "Nuit",
+          "text": "Bus à 23 h 30 vers Lençóis, dans la Chapada Diamantina."
+        }
       ],
       "stops": [
-        { "name": "Pelourinho (Salvador)", "wiki": "Pelourinho", "culture": "Centre historique de Salvador, inscrit à l'UNESCO depuis 1985, avec ses maisons coloniales colorées. Salvador a été la première capitale du Brésil, de 1549 à 1763." }
+        {
+          "name": "Pelourinho (Salvador)",
+          "wiki": "Pelourinho",
+          "culture": "Centre historique de Salvador, inscrit à l'UNESCO depuis 1985, avec ses maisons coloniales colorées. Salvador a été la première capitale du Brésil, de 1549 à 1763."
+        }
       ],
-      "stay": { "name": "Bus de nuit", "coords": [-12.5625, -41.3903], "note": "Nuit dans le bus, arrivée à Lençóis au matin" },
+      "stay": {
+        "name": "Bus de nuit",
+        "coords": [
+          -12.5625,
+          -41.3903
+        ],
+        "note": "Nuit dans le bus, arrivée à Lençóis au matin"
+      },
       "transport": [
-        { "mode": "bus", "text": "Boipeba → Salvador : ~4 h" },
-        { "mode": "bus", "text": "Bus de nuit Salvador → Lençóis : ~6 h" }
+        {
+          "mode": "bus",
+          "text": "Boipeba → Salvador : ~4 h"
+        },
+        {
+          "mode": "bus",
+          "text": "Bus de nuit Salvador → Lençóis : ~6 h"
+        }
       ]
     },
     {
@@ -169,10 +474,34 @@
       "summary": "Randonnée et exploration du parc national de la Chapada Diamantina, avec ses cascades impressionnantes.",
       "route": "none",
       "stops": [
-        { "name": "Cachoeira da Fumaça", "wiki": "Cachoeira da Fumaça", "culture": "Chute de plus de 300 m, parmi les plus hautes du Brésil. Son nom, « fumée », vient de l'eau que le vent pulvérise avant qu'elle touche le sol." },
-        { "name": "Cachoeira do Buracão", "photo": "File:CACHOEIRA DO BURACÃO.jpg", "coords": [-13.4000, -41.2700], "culture": "Cascade d'environ 85 m qui tombe dans un bassin, au fond d'un canyon que l'on remonte à pied et à la nage." }
+        {
+          "name": "Cachoeira da Fumaça",
+          "wiki": "Cachoeira da Fumaça",
+          "culture": "Chute de plus de 300 m, parmi les plus hautes du Brésil. Son nom, « fumée », vient de l'eau que le vent pulvérise avant qu'elle touche le sol."
+        },
+        {
+          "name": "Cachoeira do Buracão",
+          "photo": "File:CACHOEIRA DO BURACÃO.jpg",
+          "coords": [
+            -13.4,
+            -41.27
+          ],
+          "culture": "Cascade d'environ 85 m qui tombe dans un bassin, au fond d'un canyon que l'on remonte à pied et à la nage."
+        }
       ],
-      "stay": { "name": "Vale do Pati", "coords": [-12.9100, -41.5500], "note": "Nuit chez Dona Raquel" }
+      "stay": {
+        "name": "Vale do Pati",
+        "coords": [
+          -12.91,
+          -41.55
+        ],
+        "note": "Chez Dona Raquel, dans le Vale do Pati",
+        "price": "115 EUR (pour 2)"
+      },
+      "ideas": [
+        "Parc national de la Chapada Diamantina : randonnées et cascades.",
+        "Cachoeira da Fumaça, chute d'eau de 380 m selon vos notes."
+      ]
     },
     {
       "n": 14,
@@ -180,9 +509,28 @@
       "summary": "Randonnée dans la vallée du Pati, aux paysages préservés et à la faune locale.",
       "route": "none",
       "stops": [
-        { "name": "Vale do Pati", "photo": "File:Vale do Pati, Chapada Diamantina, Bahia, Brasil.jpg", "coords": [-12.9100, -41.5500], "culture": "Vallée sauvage que l'on ne rejoint qu'à pied, par des treks de plusieurs jours. Des familles qui y vivent hébergent les randonneurs." }
+        {
+          "name": "Vale do Pati",
+          "photo": "File:Vale do Pati, Chapada Diamantina, Bahia, Brasil.jpg",
+          "coords": [
+            -12.91,
+            -41.55
+          ],
+          "culture": "Vallée sauvage que l'on ne rejoint qu'à pied, par des treks de plusieurs jours. Des familles qui y vivent hébergent les randonneurs."
+        }
       ],
-      "stay": { "name": "Vale do Pati", "coords": [-12.9100, -41.5500], "note": "Nuit chez Dona Raquel" }
+      "stay": {
+        "name": "Vale do Pati",
+        "coords": [
+          -12.91,
+          -41.55
+        ],
+        "note": "Chez Dona Raquel, dans le Vale do Pati",
+        "price": "115 EUR (pour 2)"
+      },
+      "ideas": [
+        "Randonnée dans la vallée de Pati : paysages préservés et faune locale."
+      ]
     },
     {
       "n": 15,
@@ -190,22 +538,69 @@
       "summary": "Dernière journée de randonnée et d'exploration dans la Chapada, avant le bus de nuit de retour vers Salvador.",
       "route": "none",
       "stops": [
-        { "name": "Poço Encantado", "wiki": "Poço Encantado", "culture": "Grotte inondée aux eaux d'un bleu intense, éclairées par un rayon de soleil à certaines périodes de l'année. La baignade y est interdite." },
-        { "name": "Morro do Pai Inácio", "photo": "File:Vale do Pai Inácio.jpg", "coords": [-12.4475, -41.4735], "culture": "Plateau d'environ 1 120 m qui domine la région, très prisé au coucher du soleil. Selon la légende, il porte le nom d'un esclave en fuite." }
+        {
+          "name": "Poço Encantado",
+          "wiki": "Poço Encantado",
+          "culture": "Grotte inondée aux eaux d'un bleu intense, éclairées par un rayon de soleil à certaines périodes de l'année. La baignade y est interdite."
+        },
+        {
+          "name": "Gruta da Pratinha",
+          "photo": "File:Gruta da Pratinha - Chapada Diamantina.jpg",
+          "coords": [
+            -12.4,
+            -41.6
+          ],
+          "culture": "Grotte et rivière aux eaux d'une transparence bleutée, où l'on nage et fait de la plongée en apnée."
+        },
+        {
+          "name": "Morro do Pai Inácio",
+          "photo": "File:Vale do Pai Inácio.jpg",
+          "coords": [
+            -12.4475,
+            -41.4735
+          ],
+          "culture": "Plateau d'environ 1 120 m qui domine la région, très prisé au coucher du soleil. Selon la légende, il porte le nom d'un esclave en fuite."
+        }
       ],
-      "stay": { "name": "Bus de nuit", "wiki": "Salvador, Bahia", "note": "Nuit dans le bus, arrivée à Salvador au matin" },
-      "transport": [{ "mode": "bus", "text": "Bus de nuit retour vers Salvador : ~6 h" }]
+      "stay": {
+        "name": "Bus de nuit",
+        "wiki": "Salvador, Bahia",
+        "note": "Nuit dans le bus, arrivée à Salvador au matin"
+      },
+      "transport": [
+        {
+          "mode": "bus",
+          "text": "Bus de nuit retour vers Salvador : ~6 h"
+        }
+      ],
+      "ideas": [
+        "Grottes de Pratinha : plongée dans des eaux limpides."
+      ]
     },
     {
       "n": 16,
       "title": "Salvador ➔ São Luís",
-      "summary": "Visite de Salvador le matin, vol vers São Luís l'après-midi et dîner sur place.",
+      "summary": "Visite de Salvador le matin, vol vers São Luís l'après-midi et dîner sur place, pour une journée coloniale.",
       "route": "none",
       "stops": [
-        { "name": "São Luís", "wiki": "São Luís, Maranhão", "culture": "Fondée par des Français en 1612, la ville doit son nom à Saint Louis et au roi Louis XIII. Son centre historique, inscrit à l'UNESCO en 1997, est orné de façades en azulejos portugais." }
+        {
+          "name": "São Luís",
+          "wiki": "São Luís, Maranhão",
+          "culture": "Fondée par des Français en 1612, la ville doit son nom à Saint Louis et au roi Louis XIII. Son centre historique, inscrit à l'UNESCO en 1997, est orné de façades en azulejos portugais."
+        }
       ],
-      "stay": { "name": "São Luís", "wiki": "São Luís, Maranhão" },
-      "transport": [{ "mode": "flight", "text": "Salvador → São Luís : ~4 h" }]
+      "stay": {
+        "name": "São Luís",
+        "wiki": "São Luís, Maranhão",
+        "price": "115 EUR (pour 2)",
+        "note": "Hôtel à São Luís"
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Salvador → São Luís : ~4 h"
+        }
+      ]
     },
     {
       "n": 17,
@@ -213,27 +608,76 @@
       "summary": "Transfert vers Barreirinhas, puis bateau jusqu'à Atins : exploration des dunes et baignade à la Lagoa Bonita.",
       "route": "none",
       "stops": [
-        { "name": "Parc national des Lençóis Maranhenses", "wiki": "Lençóis Maranhenses National Park", "culture": "Mer de dunes blanches de plus de 1 500 km². En saison des pluies, les creux se remplissent d'eau et forment des lagunes bleues et vertes, à leur maximum vers juillet-septembre. « Lençóis » signifie draps." },
-        { "name": "Lagoa Bonita", "photo": "File:Lagoa Bonita - Lencois Maranhenses.jpg", "coords": [-2.5167, -43.1167], "culture": "L'une des lagunes les plus visitées du parc : on s'y baigne au pied des dunes, surtout au coucher du soleil." }
+        {
+          "name": "Parc national des Lençóis Maranhenses",
+          "wiki": "Lençóis Maranhenses National Park",
+          "culture": "Mer de dunes blanches de plus de 1 500 km². En saison des pluies, les creux se remplissent d'eau et forment des lagunes bleues et vertes, à leur maximum vers juillet-septembre. « Lençóis » signifie draps."
+        },
+        {
+          "name": "Lagoa Bonita",
+          "photo": "File:Lagoa Bonita - Lencois Maranhenses.jpg",
+          "coords": [
+            -2.5167,
+            -43.1167
+          ],
+          "culture": "L'une des lagunes les plus visitées du parc : on s'y baigne au pied des dunes, surtout au coucher du soleil."
+        }
       ],
-      "stay": { "name": "Atins", "coords": [-2.5660, -42.7300], "note": "Nuit à l'hôtel" },
+      "stay": {
+        "name": "Atins",
+        "coords": [
+          -2.566,
+          -42.73
+        ],
+        "note": "Hôtel à Atins",
+        "price": "115 EUR (pour 2)"
+      },
       "transport": [
-        { "mode": "car", "text": "Transfert privé São Luís → Barreirinhas : ~3 h 30" },
-        { "mode": "boat", "text": "Bateau Barreirinhas → Atins : ~1 h" }
+        {
+          "mode": "car",
+          "text": "Transfert privé São Luís → Barreirinhas : ~3 h 30"
+        },
+        {
+          "mode": "boat",
+          "text": "Bateau Barreirinhas → Atins : ~1 h"
+        }
+      ],
+      "ideas": [
+        "Dunes spectaculaires et lagunes cristallines.",
+        "Baignade et paysages à couper le souffle à la Lagoa Bonita."
       ]
     },
     {
       "n": 18,
       "title": "Atins ➔ São Luís",
-      "summary": "Matinée dans les dunes, puis retour en bateau à Barreirinhas et en voiture à São Luís.",
+      "summary": "Exploration des dunes le matin, puis retour en bateau à Barreirinhas et en voiture à São Luís.",
       "route": "none",
       "stops": [
-        { "name": "Atins", "photo": "File:Atins - Lençois Maranhenses.jpg", "coords": [-2.5660, -42.7300], "culture": "Petit village de pêcheurs entre le rio Preguiças, les dunes et l'océan, que l'on rejoint en bateau depuis Barreirinhas." }
+        {
+          "name": "Atins",
+          "photo": "File:Atins - Lençois Maranhenses.jpg",
+          "coords": [
+            -2.566,
+            -42.73
+          ],
+          "culture": "Petit village de pêcheurs entre le rio Preguiças, les dunes et l'océan, que l'on rejoint en bateau depuis Barreirinhas."
+        }
       ],
-      "stay": { "name": "São Luís", "wiki": "São Luís, Maranhão" },
+      "stay": {
+        "name": "São Luís",
+        "wiki": "São Luís, Maranhão",
+        "price": "115 EUR (pour 2)",
+        "note": "Hôtel à São Luís"
+      },
       "transport": [
-        { "mode": "boat", "text": "Bateau Atins → Barreirinhas : ~1 h" },
-        { "mode": "car", "text": "Barreirinhas → São Luís : ~3 h 30" }
+        {
+          "mode": "boat",
+          "text": "Bateau Atins → Barreirinhas : ~1 h"
+        },
+        {
+          "mode": "car",
+          "text": "Barreirinhas → São Luís : ~3 h 30"
+        }
       ]
     },
     {
@@ -242,11 +686,28 @@
       "summary": "Longue journée en 4x4 vers Jericoacoara, pour une première soirée dans ce village de dunes.",
       "route": "none",
       "stops": [
-        { "name": "Jericoacoara", "wiki": "Jericoacoara National Park", "photo": "File:Jericoacoara-beach-center.jpg", "culture": "Ancien village de pêcheurs aux rues de sable, devenu parc national en 2002. Le coucher de soleil sur la grande dune y est un rituel quotidien." }
+        {
+          "name": "Jericoacoara",
+          "wiki": "Jericoacoara National Park",
+          "photo": "File:Jericoacoara-beach-center.jpg",
+          "culture": "Ancien village de pêcheurs aux rues de sable, devenu parc national en 2002. Le coucher de soleil sur la grande dune y est un rituel quotidien."
+        }
       ],
-      "stay": { "name": "Jericoacoara", "wiki": "Jericoacoara National Park", "note": "Nuit en pousada" },
-      "transport": [{ "mode": "car", "text": "4x4 São Luís → Jericoacoara : ~8 h" }],
-      "notes": ["Étape à confirmer : Jericoacoara, un autre village, ou un passage par Fortaleza."]
+      "stay": {
+        "name": "Jericoacoara",
+        "wiki": "Jericoacoara National Park",
+        "note": "Pousada à Jericoacoara (le prix figure sur la ligne du jour 20 de votre tableau)",
+        "price": "140 EUR (pour 2)"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "4x4 São Luís → Jericoacoara : ~8 h"
+        }
+      ],
+      "notes": [
+        "Étape à confirmer : Jericoacoara, un autre village, ou un passage par Fortaleza."
+      ]
     },
     {
       "n": 20,
@@ -254,13 +715,75 @@
       "summary": "Activités nautiques et détente à Jericoacoara, puis transfert en 4x4 vers Fortaleza par les beaux endroits de la côte. Souvenirs au marché artisanal et promenade sur l'Avenida Beira Mar.",
       "route": "none",
       "stops": [
-        { "name": "Pedra Furada", "photo": "File:Pedra Furada de Jericoacoara - Ceará.jpg", "coords": [-2.7950, -40.4880], "culture": "Arche rocheuse percée par l'érosion, emblème de la région. On l'atteint par la plage à marée basse ou en buggy." },
-        { "name": "Duna do Pôr do Sol", "photo": "File:Pôr do sol na Duna do Pôr do Sol (Jericoacoara).jpg", "coords": [-2.7930, -40.5230], "culture": "Grande dune au bord du village, où l'on vient chaque soir assister au coucher du soleil, au son des musiciens et des danseurs de capoeira." },
-        { "name": "Lagoa do Paraíso", "photo": "File:Lagoa do paraíso - Jericoacoara.JPG", "coords": [-2.9100, -40.4100], "culture": "Lagune d'eau douce d'une vingtaine de kilomètres du village, connue pour ses hamacs et ses tables installés directement dans l'eau." },
-        { "name": "Avenida Beira Mar (Fortaleza)", "wiki": "Fortaleza", "photo": "File:Avenida Beira Mar, Meireles, Fortaleza, setembro de 2023 (2).jpg", "coords": [-3.7250, -38.4900], "culture": "Le front de mer de Fortaleza, l'une des plus grandes villes du Brésil. Chaque soir, une feira d'artisanat s'y installe, idéale pour les souvenirs." }
+        {
+          "name": "Pedra Furada",
+          "photo": "File:Pedra Furada de Jericoacoara - Ceará.jpg",
+          "coords": [
+            -2.795,
+            -40.488
+          ],
+          "culture": "Arche rocheuse percée par l'érosion, emblème de la région. On l'atteint par la plage à marée basse ou en buggy."
+        },
+        {
+          "name": "Duna do Pôr do Sol",
+          "photo": "File:Pôr do sol na Duna do Pôr do Sol (Jericoacoara).jpg",
+          "coords": [
+            -2.793,
+            -40.523
+          ],
+          "culture": "Grande dune au bord du village, où l'on vient chaque soir assister au coucher du soleil, au son des musiciens et des danseurs de capoeira."
+        },
+        {
+          "name": "Lagoa do Paraíso",
+          "photo": "File:Lagoa do paraíso - Jericoacoara.JPG",
+          "coords": [
+            -2.91,
+            -40.41
+          ],
+          "culture": "Lagune d'eau douce d'une vingtaine de kilomètres du village, connue pour ses hamacs et ses tables installés directement dans l'eau."
+        },
+        {
+          "name": "Lagoa Azul",
+          "coords": [
+            -2.925,
+            -40.46
+          ],
+          "culture": "Lagune bleue voisine de la Lagoa do Paraíso, idéale pour le paddle et la baignade."
+        },
+        {
+          "name": "Avenida Beira Mar (Fortaleza)",
+          "wiki": "Fortaleza",
+          "photo": "File:Avenida Beira Mar, Meireles, Fortaleza, setembro de 2023 (2).jpg",
+          "coords": [
+            -3.725,
+            -38.49
+          ],
+          "culture": "Le front de mer de Fortaleza, l'une des plus grandes villes du Brésil. Chaque soir, une feira d'artisanat s'y installe, idéale pour les souvenirs."
+        },
+        {
+          "name": "Marché artisanal de Fortaleza",
+          "culture": "Marché où l'on trouve broderies, dentelles et objets d'artisanat du Ceará, idéal pour rapporter des souvenirs."
+        }
       ],
-      "stay": { "name": "Fortaleza", "wiki": "Fortaleza" },
-      "transport": [{ "mode": "car", "text": "4x4 Jericoacoara → Fortaleza : ~6 h" }]
+      "stay": {
+        "name": "Fortaleza",
+        "wiki": "Fortaleza"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "4x4 Jericoacoara → Fortaleza : ~6 h"
+        }
+      ],
+      "ideas": [
+        {
+          "label": "Activités nautiques :",
+          "text": "kitesurf ou surf."
+        },
+        "Promenade à cheval pour explorer les dunes et les plages.",
+        "Transfert privé par les beaux endroits de la côte jusqu'à Fortaleza.",
+        "Shopping souvenirs au marché artisanal de Fortaleza."
+      ]
     },
     {
       "n": 21,
@@ -281,18 +804,85 @@
       "blocks": [
         {
           "type": "table",
-          "columns": ["Rang", "Site", "État", "Ville de référence", "Distance", "Activités", "Spécificités et points remarquables"],
+          "columns": [
+            "Rang",
+            "Site",
+            "État",
+            "Ville de référence",
+            "Distance",
+            "Activités",
+            "Spécificités et points remarquables"
+          ],
           "rows": [
-            ["1", "Fernando de Noronha", "Pernambuco", "Salvador (via vol)", "545 km (vol)", "Plongée, snorkeling", "Archipel préservé, biodiversité exceptionnelle, Baía do Sancho, Baía dos Porcos, Baía dos Golfinhos (dauphins, tortues)"],
-            ["2", "Abrolhos", "Bahia", "Salvador", "70 km (bateau depuis Caravelas)", "Plongée, observation des baleines", "Plus grands récifs coralliens du Brésil, observation des baleines, Ilha de Santa Bárbara"],
-            ["3", "Maragogi", "Alagoas", "Salvador (via Maceió)", "125 km", "Snorkeling, excursions en bateau", "« Caraïbes brésiliennes », piscines naturelles (galés), eaux cristallines"],
-            ["4", "Praia do Forte", "Bahia", "Salvador", "80 km", "Snorkeling, écotourisme", "Piscines naturelles, Projeto Tamar (protection des tortues), récifs coralliens"],
-            ["5", "Ilha Grande", "Rio de Janeiro", "Rio de Janeiro", "150 km", "Snorkeling, kayak, plongée", "Diversité de la faune marine, Lagoa Azul, plages paradisiaques"],
-            ["6", "Arraial do Cabo", "Rio de Janeiro", "Rio de Janeiro", "165 km", "Plongée, snorkeling", "Falaises, eaux limpides, tortues et poissons colorés, Praia do Forno"],
-            ["7", "Parrachos de Maracajaú", "Rio Grande do Norte", "Fortaleza", "60 km", "Snorkeling, plongée", "« Caribe brasileiro », récifs accessibles en bateau, eaux turquoise"]
+            [
+              "1",
+              "Fernando de Noronha",
+              "Pernambuco",
+              "Salvador (via vol)",
+              "545 km (vol)",
+              "Plongée, snorkeling",
+              "Archipel préservé, biodiversité exceptionnelle, Baía do Sancho, Baía dos Porcos, Baía dos Golfinhos (dauphins, tortues)"
+            ],
+            [
+              "2",
+              "Abrolhos",
+              "Bahia",
+              "Salvador",
+              "70 km (bateau depuis Caravelas)",
+              "Plongée, observation des baleines",
+              "Plus grands récifs coralliens du Brésil, observation des baleines, Ilha de Santa Bárbara"
+            ],
+            [
+              "3",
+              "Maragogi",
+              "Alagoas",
+              "Salvador (via Maceió)",
+              "125 km",
+              "Snorkeling, excursions en bateau",
+              "« Caraïbes brésiliennes », piscines naturelles (galés), eaux cristallines"
+            ],
+            [
+              "4",
+              "Praia do Forte",
+              "Bahia",
+              "Salvador",
+              "80 km",
+              "Snorkeling, écotourisme",
+              "Piscines naturelles, Projeto Tamar (protection des tortues), récifs coralliens"
+            ],
+            [
+              "5",
+              "Ilha Grande",
+              "Rio de Janeiro",
+              "Rio de Janeiro",
+              "150 km",
+              "Snorkeling, kayak, plongée",
+              "Diversité de la faune marine, Lagoa Azul, plages paradisiaques"
+            ],
+            [
+              "6",
+              "Arraial do Cabo",
+              "Rio de Janeiro",
+              "Rio de Janeiro",
+              "165 km",
+              "Plongée, snorkeling",
+              "Falaises, eaux limpides, tortues et poissons colorés, Praia do Forno"
+            ],
+            [
+              "7",
+              "Parrachos de Maracajaú",
+              "Rio Grande do Norte",
+              "Fortaleza",
+              "60 km",
+              "Snorkeling, plongée",
+              "« Caribe brasileiro », récifs accessibles en bateau, eaux turquoise"
+            ]
           ]
         },
-        { "type": "heading", "text": "Ce qu'il faut retenir" },
+        {
+          "type": "heading",
+          "text": "Ce qu'il faut retenir"
+        },
         {
           "type": "list",
           "ordered": true,
@@ -314,18 +904,106 @@
       "blocks": [
         {
           "type": "table",
-          "columns": ["Rang", "Ville / village", "État", "Ville de référence", "Distance", "Population", "Paysages, histoire, points remarquables et spécialités"],
+          "columns": [
+            "Rang",
+            "Ville / village",
+            "État",
+            "Ville de référence",
+            "Distance",
+            "Population",
+            "Paysages, histoire, points remarquables et spécialités"
+          ],
           "rows": [
-            ["1", "Paraty", "Rio de Janeiro", "Rio de Janeiro", "250 km", "~45 000 habitants", "Paysages : mer et forêt de la Mata Atlântica. Histoire : ville portuaire du XVIIe siècle. À voir : Centro Histórico, plages de Trindade. Spécialités : pinga de Paraty, caldeirada (ragoût de fruits de mer)."],
-            ["2", "Trancoso", "Bahia", "Salvador", "390 km", "~10 000 habitants", "Paysages : plages paradisiaques, falaises. Histoire : fondée par les jésuites au XVIe siècle. À voir : Quadrado, Praia do Espelho. Spécialités : moqueca de peixe, acarajé."],
-            ["3", "Cachoeira", "Bahia", "Salvador", "120 km", "~34 000 habitants", "Paysages : bords du fleuve Paraguaçu. Histoire : lieu important pour l'indépendance. À voir : Igreja da Matriz, Convento do Carmo. Spécialités : maniçoba, bolinho de estudante."],
-            ["4", "Lençóis", "Bahia", "Salvador", "420 km", "~11 000 habitants", "Paysages : Chapada Diamantina. Histoire : ancienne ville minière. À voir : Poço do Diabo, Cachoeira da Fumaça. Spécialités : godó de banana, carne de sol com pirão."],
-            ["5", "Alcântara", "Maranhão", "São Luís", "22 km (traversée en bateau)", "~22 000 habitants", "Paysages : rive ouest de la baie de São Marcos. Histoire : ville coloniale avec ruines. À voir : Palácio Negro, Igreja Matriz de São Matias. Spécialités : arroz de cuxá, torta de camarão."],
-            ["6", "Jericoacoara", "Ceará", "Fortaleza", "300 km", "~3 000 habitants", "Paysages : dunes, lagunes, plages. Histoire : ancien village de pêcheurs. À voir : Duna do Pôr do Sol, Pedra Furada. Spécialités : peixe na telha, lagosta grelhada."],
-            ["7", "Canoa Quebrada", "Ceará", "Fortaleza", "165 km", "~5 000 habitants", "Paysages : falaises rouges, plages dorées. Histoire : découverte dans les années 1970. À voir : falésias, Rua Broadway. Spécialités : moqueca de arraia, carne de sol."],
-            ["8", "Guaramiranga", "Ceará", "Fortaleza", "110 km", "~5 000 habitants", "Paysages : montagnes, climat frais. Histoire : refuge pour échapper à la chaleur. À voir : Pico Alto, Parque das Trilhas. Spécialités : café régional, bolos."],
-            ["9", "Búzios", "Rio de Janeiro", "Rio de Janeiro", "180 km", "~34 000 habitants", "Paysages : péninsule entourée de plages. Histoire : popularisée par Brigitte Bardot dans les années 1960. À voir : Rua das Pedras, Praia de Geribá. Spécialités : fruits de mer, caipirinhas aux fruits tropicaux."],
-            ["10", "Praia do Forte", "Bahia", "Salvador", "80 km", "~3 000 habitants", "Paysages : plages bordées de cocotiers, récifs coralliens. Histoire : village de pêcheurs devenu une éco-destination. À voir : Projeto Tamar (centre de protection des tortues), Castelo Garcia d'Ávila. Spécialités : moqueca de camarão, cocada (confiserie à la noix de coco)."]
+            [
+              "1",
+              "Paraty",
+              "Rio de Janeiro",
+              "Rio de Janeiro",
+              "250 km",
+              "~45 000 habitants",
+              "Paysages : mer et forêt de la Mata Atlântica. Histoire : ville portuaire du XVIIe siècle. À voir : Centro Histórico, plages de Trindade. Spécialités : pinga de Paraty, caldeirada (ragoût de fruits de mer)."
+            ],
+            [
+              "2",
+              "Trancoso",
+              "Bahia",
+              "Salvador",
+              "390 km",
+              "~10 000 habitants",
+              "Paysages : plages paradisiaques, falaises. Histoire : fondée par les jésuites au XVIe siècle. À voir : Quadrado, Praia do Espelho. Spécialités : moqueca de peixe, acarajé."
+            ],
+            [
+              "3",
+              "Cachoeira",
+              "Bahia",
+              "Salvador",
+              "120 km",
+              "~34 000 habitants",
+              "Paysages : bords du fleuve Paraguaçu. Histoire : lieu important pour l'indépendance. À voir : Igreja da Matriz, Convento do Carmo. Spécialités : maniçoba, bolinho de estudante."
+            ],
+            [
+              "4",
+              "Lençóis",
+              "Bahia",
+              "Salvador",
+              "420 km",
+              "~11 000 habitants",
+              "Paysages : Chapada Diamantina. Histoire : ancienne ville minière. À voir : Poço do Diabo, Cachoeira da Fumaça. Spécialités : godó de banana, carne de sol com pirão."
+            ],
+            [
+              "5",
+              "Alcântara",
+              "Maranhão",
+              "São Luís",
+              "22 km (traversée en bateau)",
+              "~22 000 habitants",
+              "Paysages : rive ouest de la baie de São Marcos. Histoire : ville coloniale avec ruines. À voir : Palácio Negro, Igreja Matriz de São Matias. Spécialités : arroz de cuxá, torta de camarão."
+            ],
+            [
+              "6",
+              "Jericoacoara",
+              "Ceará",
+              "Fortaleza",
+              "300 km",
+              "~3 000 habitants",
+              "Paysages : dunes, lagunes, plages. Histoire : ancien village de pêcheurs. À voir : Duna do Pôr do Sol, Pedra Furada. Spécialités : peixe na telha, lagosta grelhada."
+            ],
+            [
+              "7",
+              "Canoa Quebrada",
+              "Ceará",
+              "Fortaleza",
+              "165 km",
+              "~5 000 habitants",
+              "Paysages : falaises rouges, plages dorées. Histoire : découverte dans les années 1970. À voir : falésias, Rua Broadway. Spécialités : moqueca de arraia, carne de sol."
+            ],
+            [
+              "8",
+              "Guaramiranga",
+              "Ceará",
+              "Fortaleza",
+              "110 km",
+              "~5 000 habitants",
+              "Paysages : montagnes, climat frais. Histoire : refuge pour échapper à la chaleur. À voir : Pico Alto, Parque das Trilhas. Spécialités : café régional, bolos."
+            ],
+            [
+              "9",
+              "Búzios",
+              "Rio de Janeiro",
+              "Rio de Janeiro",
+              "180 km",
+              "~34 000 habitants",
+              "Paysages : péninsule entourée de plages. Histoire : popularisée par Brigitte Bardot dans les années 1960. À voir : Rua das Pedras, Praia de Geribá. Spécialités : fruits de mer, caipirinhas aux fruits tropicaux."
+            ],
+            [
+              "10",
+              "Praia do Forte",
+              "Bahia",
+              "Salvador",
+              "80 km",
+              "~3 000 habitants",
+              "Paysages : plages bordées de cocotiers, récifs coralliens. Histoire : village de pêcheurs devenu une éco-destination. À voir : Projeto Tamar (centre de protection des tortues), Castelo Garcia d'Ávila. Spécialités : moqueca de camarão, cocada (confiserie à la noix de coco)."
+            ]
           ]
         }
       ]
@@ -337,18 +1015,95 @@
       "blocks": [
         {
           "type": "table",
-          "columns": ["Rang", "Lieu", "Ville de référence", "Durée de la meilleure randonnée", "Paysages et points remarquables", "Informations historiques"],
+          "columns": [
+            "Rang",
+            "Lieu",
+            "Ville de référence",
+            "Durée de la meilleure randonnée",
+            "Paysages et points remarquables",
+            "Informations historiques"
+          ],
           "rows": [
-            ["1", "Parc national de la Chapada Diamantina", "Salvador", "3 à 5 jours (trek multi-étapes)", "Cascades impressionnantes (Cachoeira da Fumaça : environ 340 m, deuxième plus haute chute du Brésil), Vale do Pati, Poço Encantado (grotte avec un lac d'eau cristalline), grottes calcaires (Gruta da Pratinha), plaines arides et forêts de montagne. Points de vue spectaculaires sur les plateaux et les vallées.", "Région historique de l'extraction du diamant (XIXe siècle), avec des villages comme Mucugê qui ont joué un rôle à cette époque."],
-            ["2", "Ilha Grande (Pico do Papagaio ou Praia do Aventureiro)", "Rio de Janeiro", "6 à 8 h aller-retour (Pico do Papagaio), 5 à 6 h (Praia do Aventureiro)", "Forêt tropicale dense, plages immaculées (Lopes Mendes, célèbre pour le surf), vues panoramiques depuis le Pico do Papagaio qui domine l'île, Praia do Aventureiro (célèbre pour son palmier incliné), contrastes entre montagnes et mer.", "Ancien repaire de pirates, puis colonie pénitentiaire jusqu'en 1994, aujourd'hui un paradis écologique protégé."],
-            ["3", "Serra dos Órgãos (traversée Petrópolis-Teresópolis)", "Rio de Janeiro", "2 à 3 jours (traversée Petrópolis-Teresópolis)", "Montagnes escarpées, forêts de nuages, cascades rafraîchissantes (Cachoeira do Alecrim), formations rocheuses comme le Dedo de Deus (pic en forme de doigt) ou la Pedra do Sino (sommet aux vues panoramiques).", "Parc national créé en 1939 pour protéger la forêt atlantique, avec des sentiers historiques comme la Trilha do Ouro (sentier de l'or)."],
-            ["4", "Lençóis Maranhenses (Lagoa Bonita)", "São Luís", "3 à 4 h", "Dunes de sable blanc sur des kilomètres, lagunes cristallines formées par les pluies saisonnières, paysage désertique unique face à l'Atlantique. À voir : Lagoa Azul, Lagoa Bonita, Rio Preguiças (rivière serpentant vers l'océan).", "Zone protégée depuis 1981, réputée pour son écosystème unique. Habitée par des communautés de pêcheurs traditionnelles, comme à Atins."],
-            ["5", "Parc national de Jericoacoara (Pedra Furada)", "Fortaleza", "2 à 3 h", "Dunes de sable géantes, formations rocheuses emblématiques comme la Pedra Furada, plages paradisiaques, lagunes d'eau douce, mangroves.", "Ancien village de pêcheurs devenu réserve écologique et site réputé pour le windsurf et le kitesurf."],
-            ["6", "Chapada das Mesas (Cachoeira de São Romão)", "São Luís", "5 à 6 h", "Chutes d'eau impressionnantes, canyons de grès rouge, cactus et végétation semi-aride, vues panoramiques depuis les plateaux.", "Écosystème préservé, encore peu exploré par le tourisme, entre paysages naturels et culture locale."],
-            ["7", "Parc national de la Serra da Capivara", "Teresina (à 5 h de São Luís)", "3 à 4 h", "Formations rocheuses sculptées, peintures rupestres anciennes, cavernes naturelles, canyons, végétation de la Caatinga. À voir : Pedra Furada (arc naturel), Baixão das Andorinhas, Toca do Boqueirão da Pedra Furada.", "Site classé à l'UNESCO : plus de 1 000 grottes ornées de peintures rupestres vieilles de plus de 25 000 ans, qui témoignent d'une occupation humaine très ancienne."],
-            ["8", "Parc national d'Itatiaia (Pico das Agulhas Negras)", "Rio de Janeiro", "8 à 10 h (ascension difficile)", "Massifs montagneux, forêts d'altitude, lacs glaciaires, panoramas sur les vallées profondes et les sommets acérés comme le Pico das Agulhas Negras.", "Premier parc national du Brésil, créé en 1937, d'une grande diversité biologique."],
-            ["9", "Morro do Pai Inácio", "Salvador (Chapada Diamantina)", "2 h", "Plaines et plateaux étendus, vues imprenables sur les vallées, paysages de cactus et formations rocheuses. Point de vue sur les montagnes de la Chapada Diamantina.", "Lieu historique où se réfugiaient des esclaves en fuite, entre beauté naturelle et histoire locale."],
-            ["10", "Parque Estadual da Pedra da Boca", "Fortaleza", "3 à 4 h", "Roches géantes en forme de « bouche », cavernes, vues spectaculaires sur des vallées arides, végétation de caatinga.", "Région tranquille et encore peu touristique, pour une aventure hors des sentiers battus, dans un paysage préservé."]
+            [
+              "1",
+              "Parc national de la Chapada Diamantina",
+              "Salvador",
+              "3 à 5 jours (trek multi-étapes)",
+              "Cascades impressionnantes (Cachoeira da Fumaça : environ 340 m, deuxième plus haute chute du Brésil), Vale do Pati, Poço Encantado (grotte avec un lac d'eau cristalline), grottes calcaires (Gruta da Pratinha), plaines arides et forêts de montagne. Points de vue spectaculaires sur les plateaux et les vallées.",
+              "Région historique de l'extraction du diamant (XIXe siècle), avec des villages comme Mucugê qui ont joué un rôle à cette époque."
+            ],
+            [
+              "2",
+              "Ilha Grande (Pico do Papagaio ou Praia do Aventureiro)",
+              "Rio de Janeiro",
+              "6 à 8 h aller-retour (Pico do Papagaio), 5 à 6 h (Praia do Aventureiro)",
+              "Forêt tropicale dense, plages immaculées (Lopes Mendes, célèbre pour le surf), vues panoramiques depuis le Pico do Papagaio qui domine l'île, Praia do Aventureiro (célèbre pour son palmier incliné), contrastes entre montagnes et mer.",
+              "Ancien repaire de pirates, puis colonie pénitentiaire jusqu'en 1994, aujourd'hui un paradis écologique protégé."
+            ],
+            [
+              "3",
+              "Serra dos Órgãos (traversée Petrópolis-Teresópolis)",
+              "Rio de Janeiro",
+              "2 à 3 jours (traversée Petrópolis-Teresópolis)",
+              "Montagnes escarpées, forêts de nuages, cascades rafraîchissantes (Cachoeira do Alecrim), formations rocheuses comme le Dedo de Deus (pic en forme de doigt) ou la Pedra do Sino (sommet aux vues panoramiques).",
+              "Parc national créé en 1939 pour protéger la forêt atlantique, avec des sentiers historiques comme la Trilha do Ouro (sentier de l'or)."
+            ],
+            [
+              "4",
+              "Lençóis Maranhenses (Lagoa Bonita)",
+              "São Luís",
+              "3 à 4 h",
+              "Dunes de sable blanc sur des kilomètres, lagunes cristallines formées par les pluies saisonnières, paysage désertique unique face à l'Atlantique. À voir : Lagoa Azul, Lagoa Bonita, Rio Preguiças (rivière serpentant vers l'océan).",
+              "Zone protégée depuis 1981, réputée pour son écosystème unique. Habitée par des communautés de pêcheurs traditionnelles, comme à Atins."
+            ],
+            [
+              "5",
+              "Parc national de Jericoacoara (Pedra Furada)",
+              "Fortaleza",
+              "2 à 3 h",
+              "Dunes de sable géantes, formations rocheuses emblématiques comme la Pedra Furada, plages paradisiaques, lagunes d'eau douce, mangroves.",
+              "Ancien village de pêcheurs devenu réserve écologique et site réputé pour le windsurf et le kitesurf."
+            ],
+            [
+              "6",
+              "Chapada das Mesas (Cachoeira de São Romão)",
+              "São Luís",
+              "5 à 6 h",
+              "Chutes d'eau impressionnantes, canyons de grès rouge, cactus et végétation semi-aride, vues panoramiques depuis les plateaux.",
+              "Écosystème préservé, encore peu exploré par le tourisme, entre paysages naturels et culture locale."
+            ],
+            [
+              "7",
+              "Parc national de la Serra da Capivara",
+              "Teresina (à 5 h de São Luís)",
+              "3 à 4 h",
+              "Formations rocheuses sculptées, peintures rupestres anciennes, cavernes naturelles, canyons, végétation de la Caatinga. À voir : Pedra Furada (arc naturel), Baixão das Andorinhas, Toca do Boqueirão da Pedra Furada.",
+              "Site classé à l'UNESCO : plus de 1 000 grottes ornées de peintures rupestres vieilles de plus de 25 000 ans, qui témoignent d'une occupation humaine très ancienne."
+            ],
+            [
+              "8",
+              "Parc national d'Itatiaia (Pico das Agulhas Negras)",
+              "Rio de Janeiro",
+              "8 à 10 h (ascension difficile)",
+              "Massifs montagneux, forêts d'altitude, lacs glaciaires, panoramas sur les vallées profondes et les sommets acérés comme le Pico das Agulhas Negras.",
+              "Premier parc national du Brésil, créé en 1937, d'une grande diversité biologique."
+            ],
+            [
+              "9",
+              "Morro do Pai Inácio",
+              "Salvador (Chapada Diamantina)",
+              "2 h",
+              "Plaines et plateaux étendus, vues imprenables sur les vallées, paysages de cactus et formations rocheuses. Point de vue sur les montagnes de la Chapada Diamantina.",
+              "Lieu historique où se réfugiaient des esclaves en fuite, entre beauté naturelle et histoire locale."
+            ],
+            [
+              "10",
+              "Parque Estadual da Pedra da Boca",
+              "Fortaleza",
+              "3 à 4 h",
+              "Roches géantes en forme de « bouche », cavernes, vues spectaculaires sur des vallées arides, végétation de caatinga.",
+              "Région tranquille et encore peu touristique, pour une aventure hors des sentiers battus, dans un paysage préservé."
+            ]
           ]
         }
       ]
@@ -360,16 +1115,441 @@
       "blocks": [
         {
           "type": "table",
-          "columns": ["Jour", "Lieu", "Trajet", "Durée du trajet", "Hébergement", "Activités", "Points d'intérêt"],
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Trajet",
+            "Durée du trajet",
+            "Transport (pour 2)",
+            "Hébergement (pour 2)",
+            "Activités",
+            "Points d'intérêt"
+          ],
           "rows": [
-            ["15", "Arrivée à Recife", "-", "-", "Hôtel de charme à Recife", "Détente et découverte", "Olinda (centre historique), plage de Boa Viagem"],
-            ["16", "Maragogi", "Bus Recife → Maragogi", "2 h 30", "Pousada en bord de mer", "Snorkeling", "Piscines naturelles de Galés (plongée en apnée dans les récifs)"],
-            ["17", "Maragogi", "-", "-", "Pousada", "Journée de snorkeling et détente, exploration des plages isolées", "Plage d'Antunes (calme et peu fréquentée), croisière en catamaran, plage de Barra Grande (idyllique et moins touristique)"],
-            ["18", "Porto de Galinhas", "Bus Maragogi → Porto de Galinhas", "1 h 30", "Hôtel de charme", "Snorkeling et détente", "Piscines naturelles, plage de Muro Alto"],
-            ["19", "Recife → Fernando de Noronha", "Bus pour Recife + vol Recife → Fernando de Noronha", "2 h 30 de bus + 1 h 15 de vol", "Pousada Maravilha", "Détente à la pousada", "Plage de Sueste (plongée, observation des tortues)"],
-            ["20", "Fernando de Noronha", "-", "-", "Pousada Maravilha", "Excursion en bateau", "Baía do Sancho (élue plus belle plage du monde), Baía dos Porcos"],
-            ["21", "Fernando de Noronha", "-", "-", "Pousada Maravilha", "Journée libre et plongée", "Plongée à la Baía do Sueste (raies et dauphins)"],
-            ["22", "Recife", "Vol retour Fernando de Noronha → Recife", "1 h 15", "-", "Vol retour", "Souvenirs au marché de São José"]
+            [
+              "Jour 15",
+              "Arrivée à Recife",
+              "-",
+              "-",
+              "-",
+              "Hôtel de charme à Recife (100 EUR)",
+              "Détente et découverte",
+              "Olinda (centre historique), plage de Boa Viagem"
+            ],
+            [
+              "Jour 16",
+              "Maragogi",
+              "Bus Recife → Maragogi",
+              "2 h 30",
+              "Bus (20 EUR)",
+              "Pousada en bord de mer (120 EUR)",
+              "Snorkeling",
+              "Piscines naturelles de Galés (plongée en apnée dans les récifs)"
+            ],
+            [
+              "Jour 17",
+              "Maragogi",
+              "-",
+              "-",
+              "-",
+              "Pousada (120 EUR)",
+              "Journée de snorkeling et détente, exploration des plages isolées",
+              "Plage d'Antunes (calme et peu fréquentée), croisière en catamaran, plage de Barra Grande (idyllique et moins touristique)"
+            ],
+            [
+              "Jour 18",
+              "Porto de Galinhas",
+              "Bus Maragogi → Porto de Galinhas",
+              "1 h 30",
+              "Bus (20 EUR)",
+              "Hôtel de charme (130 EUR)",
+              "Snorkeling et détente",
+              "Piscines naturelles, plage de Muro Alto"
+            ],
+            [
+              "Jour 19",
+              "Recife → Fernando de Noronha",
+              "Bus pour Recife + vol Recife → Fernando de Noronha",
+              "2 h 30 de bus + 1 h 15 de vol",
+              "Bus + vol (500 EUR)",
+              "Pousada Maravilha (550 EUR)",
+              "Détente à la pousada",
+              "Plage de Sueste (plongée, observation des tortues)"
+            ],
+            [
+              "Jour 20",
+              "Fernando de Noronha",
+              "-",
+              "-",
+              "-",
+              "Pousada Maravilha (550 EUR)",
+              "Excursion en bateau",
+              "Baía do Sancho (élue plus belle plage du monde), Baía dos Porcos"
+            ],
+            [
+              "Jour 21",
+              "Fernando de Noronha",
+              "-",
+              "-",
+              "-",
+              "Pousada Maravilha (550 EUR)",
+              "Journée libre et plongée",
+              "Plongée sous-marine à la Baía do Sueste (raies et dauphins)"
+            ],
+            [
+              "Jour 22",
+              "Recife",
+              "Vol retour Fernando de Noronha → Recife",
+              "1 h 15 de vol",
+              "Vol (500 EUR)",
+              "-",
+              "Vol retour",
+              "Shopping souvenirs (marché de São José)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "premiere-version",
+      "title": "Première version (ChatGPT)",
+      "summary": "La première proposition d'itinéraire, avec le détail des transports et des hébergements pour deux et leurs prix : Rio, Ilha Grande, Paraty, Iguaçu, Trancoso, Boipeba, Chapada Diamantina, Lençóis Maranhenses et Jericoacoara.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "L'idéal pour avoir plus de temps serait d'avoir 22 à 23 jours, soit 3 semaines complètes, week-ends de début et de fin inclus."
+        },
+        {
+          "type": "heading",
+          "text": "Semaine 1 : Rio, Ilha Grande, Paraty"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Trajet",
+            "Durée du trajet",
+            "Transport (pour 2)",
+            "Hébergement (pour 2)",
+            "Activités",
+            "Points d'intérêt"
+          ],
+          "rows": [
+            [
+              "Jour 1",
+              "Rio de Janeiro",
+              "Arrivée à Rio (vol international)",
+              "-",
+              "Vol international (1 800 EUR)",
+              "Hôtel confortable (115 EUR)",
+              "Détente sur les plages",
+              "Pain de Sucre (montée en téléphérique pour une vue panoramique de la ville et des plages), Copacabana (promenade le long de la célèbre plage), Feijoada (plat brésilien emblématique)"
+            ],
+            [
+              "Jour 2",
+              "Rio de Janeiro",
+              "-",
+              "-",
+              "-",
+              "Hôtel confortable (115 EUR)",
+              "Visite du Pain de Sucre",
+              "Christ Rédempteur (statue monumentale sur le Corcovado), Ipanema (plage célèbre pour ses couchers de soleil), Caipirinhas (cocktail traditionnel dans les bars locaux)"
+            ],
+            [
+              "Jour 3",
+              "Rio de Janeiro",
+              "-",
+              "-",
+              "-",
+              "Hôtel confortable (115 EUR)",
+              "Santa Teresa, Lapa",
+              "Jardin botanique (collection d'orchidées et de plantes tropicales), Santa Teresa (quartier bohème avec des ruelles pavées), Lapa (quartier animé avec ses arches historiques et ses bars à samba)"
+            ],
+            [
+              "Jour 4",
+              "Ilha Grande",
+              "Ferry vers Ilha Grande",
+              "2 h",
+              "Ferry + transfert (60 EUR)",
+              "Pousada à Ilha Grande (115 EUR)",
+              "Plages (Lagoa Azul)",
+              "Lopes Mendes (plage de sable blanc réputée pour le surf), randonnée dans la jungle (Pico do Papagaio, sentiers menant à des plages isolées, Parque Estadual da Ilha Grande, Parque Estadual Marinho do Aventureiro, Reserva Biológica da Praia do Sul fermée au public), dégustation de fruits de mer frais"
+            ],
+            [
+              "Jour 5",
+              "Ilha Grande",
+              "-",
+              "-",
+              "-",
+              "Pousada (115 EUR)",
+              "Excursion en bateau",
+              "Lagoa Verde (site de snorkeling aux eaux turquoise), Cachoeira da Feiticeira (cascade pittoresque, baignade rafraîchissante), grottes sous-marines (Gruta do Acaiá), Lagoa Azul (piscine naturelle) et Praia do Aventureiro (snorkeling), Praia Vermelha, île de Jorge Grego"
+            ],
+            [
+              "Jour 6",
+              "Paraty",
+              "Ferry + bus vers Paraty",
+              "3 h",
+              "Ferry + bus (60 EUR)",
+              "Pousada à Paraty (125 EUR)",
+              "Visite historique",
+              "Centre colonial (ruelles pavées et bâtiments colorés du XVIIIe siècle), dégustation de cachaça (alcool local dans une distillerie), excursion en bateau (découverte des îles et plages isolées)"
+            ],
+            [
+              "Jour 7",
+              "Paraty",
+              "-",
+              "-",
+              "-",
+              "Pousada (125 EUR)",
+              "Plages, exploration",
+              "Praia do Sono (plage tranquille accessible par un sentier de randonnée), Saco do Mamanguá (fjord tropical avec mangroves et vues imprenables), randonnée et baignade"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Semaine 2 : Iguaçu, Trancoso, Boipeba"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Trajet",
+            "Durée du trajet",
+            "Transport (pour 2)",
+            "Hébergement (pour 2)",
+            "Activités",
+            "Points d'intérêt"
+          ],
+          "rows": [
+            [
+              "Jour 8",
+              "Foz do Iguaçu",
+              "Paraty → Rio (bus) + Rio → Foz (vol)",
+              "5 h + 2 h de vol",
+              "Bus (40 EUR) + vol (200 EUR)",
+              "Hôtel à Foz (115 EUR)",
+              "Chutes d'Iguaçu (Brésil)",
+              "Chutes d'Iguaçu (côté brésilien pour des vues panoramiques), Garganta del Diablo (point de vue spectaculaire au sommet des chutes)"
+            ],
+            [
+              "Jour 9",
+              "Foz do Iguaçu",
+              "-",
+              "-",
+              "-",
+              "Hôtel (115 EUR)",
+              "Chutes côté argentin",
+              "Parc national d'Iguazú (randonnée à travers la forêt tropicale), excursion en bateau (passage sous les chutes pour une expérience immersive)"
+            ],
+            [
+              "Jour 10",
+              "Trancoso",
+              "Vol vers Porto Seguro + bus",
+              "2 h de vol + 1 h de bus",
+              "Vol (200 EUR) + transfert (20 EUR)",
+              "Hôtel à Trancoso (140 EUR)",
+              "Exploration du village",
+              "Quadrado (place centrale entourée de maisons colorées), plages de sable doré, restaurants locaux (pour découvrir la cuisine bahianaise)"
+            ],
+            [
+              "Jour 11",
+              "Trancoso",
+              "-",
+              "-",
+              "-",
+              "Hôtel (140 EUR)",
+              "Journée détente",
+              "Plage de Nativos (idéale pour le farniente), coucher de soleil à la plage (ambiance romantique)"
+            ],
+            [
+              "Jour 12",
+              "Trancoso",
+              "-",
+              "-",
+              "-",
+              "Hôtel (140 EUR)",
+              "Journée libre",
+              "Praia do Espelho (plage isolée aux eaux cristallines), restaurants de fruits de mer"
+            ],
+            [
+              "Jour 13",
+              "Boipeba",
+              "Bus + ferry vers Boipeba",
+              "4 h",
+              "Bus + ferry (60 EUR)",
+              "Pousada à Boipeba (115 EUR)",
+              "Détente à Boipeba",
+              "Plages désertes (idylliques et préservées), sentiers de randonnée (à travers la forêt tropicale), moqueca de poisson (spécialité locale)"
+            ],
+            [
+              "Jour 14",
+              "Boipeba",
+              "-",
+              "-",
+              "-",
+              "Pousada (115 EUR)",
+              "Excursion en bateau",
+              "Piscines naturelles (plongée avec masque et tuba), rencontre avec les pêcheurs locaux, exploration des mangroves"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Semaine 3 : Chapada Diamantina, Lençóis Maranhenses, Jericoacoara"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Trajet",
+            "Durée du trajet",
+            "Transport (pour 2)",
+            "Hébergement (pour 2)",
+            "Activités",
+            "Points d'intérêt"
+          ],
+          "rows": [
+            [
+              "Jour 15",
+              "Lençóis (Chapada Diamantina)",
+              "Boipeba → Salvador (bus + ferry) + bus pour Lençóis",
+              "2 h de ferry + 6 h de bus",
+              "Bus + ferry (80 EUR)",
+              "Hôtel à Lençóis (115 EUR)",
+              "Détente à Lençóis",
+              "Parc national de la Chapada Diamantina (randonnée, cascades), Cachoeira da Fumaça (chute spectaculaire de 380 m)"
+            ],
+            [
+              "Jour 16",
+              "Chapada Diamantina",
+              "Trek dans la Chapada Diamantina",
+              "-",
+              "-",
+              "Hôtel (115 EUR)",
+              "Randonnée et exploration",
+              "Poço Encantado (cavité inondée aux eaux cristallines), grottes de Pratinha (plongée en eaux limpides)"
+            ],
+            [
+              "Jour 17",
+              "Chapada Diamantina",
+              "-",
+              "-",
+              "-",
+              "Hôtel (115 EUR)",
+              "Visite des grottes et montagnes",
+              "Morro do Pai Inácio (vue panoramique depuis le sommet), Cachoeira do Buracão (cascade impressionnante)"
+            ],
+            [
+              "Jour 18",
+              "Barreirinhas",
+              "Bus vers Barreirinhas (Lençóis Maranhenses)",
+              "4 à 5 h",
+              "Bus (60 EUR)",
+              "Hôtel à Barreirinhas (115 EUR)",
+              "Excursion dans le parc",
+              "Dunes et lagunes des Lençóis Maranhenses (balade en 4x4 à travers les dunes, baignade dans les lagunes)"
+            ],
+            [
+              "Jour 19",
+              "Lençóis Maranhenses",
+              "-",
+              "-",
+              "-",
+              "Hôtel (115 EUR)",
+              "Excursion dans les dunes",
+              "Lagune Bonita (baignade et vue époustouflante au coucher du soleil), piscines naturelles (eaux cristallines formées par les pluies)"
+            ],
+            [
+              "Jour 20",
+              "Jericoacoara",
+              "Bus vers Jericoacoara",
+              "6 h",
+              "Bus (60 EUR)",
+              "Pousada à Jericoacoara (140 EUR)",
+              "Kitesurf, détente",
+              "Plage de Pedra Furada (formation rocheuse emblématique), Lagon Azul (lieu idéal pour le paddle et la baignade)"
+            ],
+            [
+              "Jour 21",
+              "Jericoacoara",
+              "-",
+              "-",
+              "-",
+              "Pousada (140 EUR)",
+              "Journée libre et détente",
+              "Lagon de Paraíso (hamacs flottants dans l'eau), coucher de soleil depuis la Duna do Pôr do Sol (célèbre pour ses vues spectaculaires)"
+            ],
+            [
+              "Jour 22",
+              "Fortaleza",
+              "Bus vers Fortaleza (ou vol) + vol retour",
+              "6 h de bus ou 1 h de vol",
+              "Bus (60 EUR) ou vol (200 EUR)",
+              "-",
+              "Retour en France",
+              "Shopping souvenirs (marché artisanal de Fortaleza), promenade sur l'Avenida Beira Mar"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "Résumé des coûts",
+      "summary": "Estimation du budget pour deux personnes.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Catégorie",
+            "Estimation"
+          ],
+          "rows": [
+            [
+              "Vol international aller-retour",
+              "2 000 €"
+            ],
+            [
+              "Transports internes",
+              "1 000 €"
+            ],
+            [
+              "Hébergement (22 nuits)",
+              "2 500 €"
+            ],
+            [
+              "Activités et repas (22 jours)",
+              "2 200 €"
+            ],
+            [
+              "Total estimé pour 2 personnes",
+              "7 700 €"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "liens-ressources",
+      "title": "Liens et ressources",
+      "summary": "Articles et carnets de voyage consultés pour préparer le voyage au Brésil.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "[My Hidden Gems : top 5 des endroits où séjourner au Brésil](https://myhiddengems.co.uk/2014/06/my-top-5-places-to-stay-in-brazil/)",
+            "[Carnet de voyage de noces : idylle au Brésil](https://salonalliancemariagepacs.fr/2018/07/04/mariage-toulouse-voyage-de-noces-carnet-de-voyage-idylle-au-bresil/)",
+            "[Itinéraire au Brésil en 9 étapes de rêve (One Day One Travel)](https://onedayonetravel.com/itineraire-au-bresil-en-9-etapes-de-reve-par-onedayonetravel/)",
+            "[Ilha Grande (Clairexplore)](https://www.clairexplore.com/ilha-grande-bresil)",
+            "[Visite de Paraty (Avencurieux)](https://www.avencurieux.com/visite-de-paraty/)",
+            "[Lençóis Maranhenses : conseils pour votre visite (Voyage Brésil)](https://www.voyageperou.info/lencois-maranhenses/)",
+            "[Visiter Rio de Janeiro en 4 jours (Une part du monde)](https://unepartdumonde.fr/visiter-rio-de-janeiro-en-4-jours/)",
+            "[Le Brésil en famille : Ilha de Boipeba (Book de voyage)](https://www.bookdevoyage.com/post/le-bresil-en-famille-ilha-de-boipeba)"
           ]
         }
       ]

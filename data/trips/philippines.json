@@ -1,0 +1,1153 @@
+{
+  "id": "philippines",
+  "title": "Philippines",
+  "subtitle": "De Luzon à Siquijor : volcan Pinatubo, lagons de Palawan, croisière vers Coron, Bohol et île mystique",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "File:Kayangan Lake, Coron Island.jpg",
+  "days": [
+    {
+      "n": 1,
+      "title": "Paris ➔ Manille",
+      "summary": "Vol international vers Manille.",
+      "hero": "Manila",
+      "route": "none",
+      "stops": [],
+      "stay": {
+        "name": "Manille",
+        "wiki": "Manila",
+        "note": "Nuit dans l'avion ou à l'hôtel"
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Paris → Manille : 10 h en direct, 17 à 20 h avec escale"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Manille ➔ Mont Pinatubo",
+      "summary": "Repos ou visite de Manille (Intramuros, Rizal Park, Greenhills, quartier BGC), puis transfert privé vers un hôtel avec piscine près du Pinatubo.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Intramuros",
+          "wiki": "Intramuros",
+          "culture": "Ville fortifiée fondée par les Espagnols en 1571, cœur historique de Manille, ceinte de remparts d'environ 4 km. Elle a été presque détruite pendant la bataille de Manille, en 1945."
+        },
+        {
+          "name": "Rizal Park",
+          "wiki": "Rizal Park",
+          "culture": "Grand parc de Manille consacré au héros national José Rizal, fusillé à cet endroit en 1896. Son monument abrite ses restes."
+        },
+        {
+          "name": "Greenhills",
+          "coords": [
+            14.601,
+            121.0466
+          ],
+          "culture": "Quartier de San Juan, dans l'agglomération de Manille, connu pour son centre commercial où l'on marchande perles, gadgets et vêtements."
+        },
+        {
+          "name": "Quartier BGC",
+          "coords": [
+            14.5504,
+            121.0485
+          ],
+          "culture": "Quartier d'affaires moderne bâti sur l'ancienne base militaire de Fort Bonifacio, avec ses tours, ses parcs et ses fresques de rue."
+        }
+      ],
+      "stay": {
+        "name": "Capas (Mont Pinatubo)",
+        "wiki": "Capas",
+        "note": "Hôtel avec piscine près du Pinatubo"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Manille → Pinatubo : transfert privé"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Mont Pinatubo ➔ Manille",
+      "summary": "Randonnée du mont Pinatubo en 4x4 puis à pied, retour à Manille et coucher de soleil sur la baie, à Baywalk.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Mont Pinatubo",
+          "wiki": "Mount Pinatubo",
+          "photo": "File:Crater lake Pinatubo.jpg",
+          "culture": "Volcan dont l'éruption de juin 1991 est l'une des plus puissantes du XXe siècle : elle a fait baisser la température moyenne du globe d'environ 0,5 °C pendant plus d'un an. Son cratère abrite aujourd'hui un lac turquoise."
+        },
+        {
+          "name": "Baywalk (baie de Manille)",
+          "wiki": "Manila Bay",
+          "photo": "File:Manila Bay, Baywalk, Philippines.jpg",
+          "coords": [
+            14.578,
+            120.974
+          ],
+          "culture": "La promenade de Baywalk longe la baie de Manille, réputée pour ses couchers de soleil sur la mer de Chine méridionale."
+        }
+      ],
+      "stay": {
+        "name": "Manille",
+        "wiki": "Manila",
+        "note": "Nuit à l'hôtel, à Manille",
+        "options": [
+          "Bayleaf Intramuros",
+          "Sofitel"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "4x4 pour la randonnée, puis retour à Manille"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Manille ➔ Puerto Princesa",
+      "summary": "Vol vers Palawan et exploration de Puerto Princesa : rivière souterraine, tour des lucioles et du plancton bioluminescent sur l'Iwahig River, plage de Nagtabon.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Rivière souterraine de Puerto Princesa",
+          "wiki": "Puerto Princesa Underground River",
+          "culture": "Rivière d'environ 8 km qui traverse des grottes et se jette directement dans la mer. Inscrite à l'UNESCO en 1999, elle a été élue l'une des Sept nouvelles merveilles de la nature."
+        },
+        {
+          "name": "Iwahig River",
+          "coords": [
+            9.7,
+            118.7
+          ],
+          "culture": "Rivière de la côte de Puerto Princesa, où des bateaux emmènent le soir observer des lucioles dans la mangrove."
+        },
+        {
+          "name": "Plage de Nagtabon",
+          "photo": "File:Nagtabon Beach, Puerto Princesa (Unsplash).jpg",
+          "coords": [
+            9.733,
+            118.583
+          ],
+          "culture": "Plage de sable blanc sauvage, à l'ouest de Puerto Princesa, adossée à la forêt."
+        }
+      ],
+      "stay": {
+        "name": "Puerto Princesa",
+        "wiki": "Puerto Princesa",
+        "note": "Nuit à l'hôtel"
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Manille → Puerto Princesa, avec transferts privés"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Puerto Princesa ➔ El Nido",
+      "summary": "Détente et réveillon du Nouvel An à El Nido : Nacpan Beach, plages cachées, snorkeling à Coral Garden, Las Cabanas, Lio Beach, Maremegmeg et Vanilla Beach.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Nacpan Beach",
+          "photo": "File:Nacpan Beach in El Nido.jpg",
+          "coords": [
+            11.261,
+            119.356
+          ],
+          "culture": "Plage de sable blanc de quatre kilomètres, bordée de cocotiers, au nord d'El Nido. Elle figure souvent parmi les plus belles des Philippines."
+        },
+        {
+          "name": "Caalan Beach",
+          "coords": [
+            11.248,
+            119.359
+          ],
+          "culture": "Plage voisine de Nacpan, plus tranquille, proposée pour le réveillon du Nouvel An."
+        },
+        {
+          "name": "Las Cabanas Beach",
+          "photo": "File:Las Cabanas Beach - panoramio.jpg",
+          "coords": [
+            11.1565,
+            119.364
+          ],
+          "culture": "Plage d'El Nido réputée pour ses couchers de soleil, avec des bars de plage au bord de l'eau."
+        },
+        {
+          "name": "Coral Garden (El Nido)",
+          "culture": "Site de snorkeling de la baie de Bacuit, aux récifs de corail colorés."
+        },
+        {
+          "name": "Lio Beach",
+          "coords": [
+            11.2097,
+            119.4128
+          ],
+          "culture": "Plage de sable blanc au nord d'El Nido, aménagée avec des cafés et des boutiques."
+        },
+        {
+          "name": "Maremegmeg Beach"
+        },
+        {
+          "name": "Vanilla Beach"
+        }
+      ],
+      "stay": {
+        "name": "El Nido",
+        "wiki": "El Nido, Palawan",
+        "note": "Nuit à El Nido, pour le Nouvel An",
+        "options": [
+          "The Birdhouse",
+          "Panorama Resort",
+          "Diwatu Villas",
+          "Morgan Villas"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Transfert privé Puerto Princesa → El Nido : ~6 h"
+        }
+      ],
+      "food": [
+        "Angkla Beach Club, à Nacpan Beach.",
+        "Shaka El Nido, déjeuner à Lio Beach.",
+        "Maremegmeg Beach Club.",
+        "BigBad Thai, restaurant."
+      ],
+      "ideas": [
+        {
+          "label": "Spots pour le Nouvel An :",
+          "text": "Caalan Beach (voir [ce sujet TripAdvisor](https://www.tripadvisor.com/ShowTopic-g294256-i9213-k14762621-New_Years_Eve_in_El_Nido-El_Nido_Palawan_Island_Palawan_Province_Mimaropa.html)) ou Las Cabanas Beach."
+        },
+        "Plages cachées, à explorer."
+      ]
+    },
+    {
+      "n": 6,
+      "title": "El Nido : island hopping, puis croisière",
+      "summary": "Island hopping dans la baie de Bacuit : Big Lagoon, Small Lagoon et Snake Island, puis départ de la croisière de deux nuits vers Coron.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Big Lagoon",
+          "photo": "File:Big lagoon entrance, Miniloc island - panoramio.jpg",
+          "coords": [
+            11.186,
+            119.343
+          ],
+          "culture": "Lagon entouré de falaises calcaires sur l'île de Miniloc, l'un des sites les plus célèbres de l'archipel de Bacuit. On le parcourt en kayak."
+        },
+        {
+          "name": "Small Lagoon",
+          "photo": "File:Small Lagoon, El Nido, Philippines (36957476521).jpg",
+          "coords": [
+            11.187,
+            119.345
+          ],
+          "culture": "Lagon plus étroit, voisin du Big Lagoon, accessible à travers une ouverture dans la falaise, que l'on franchit en kayak ou à la nage."
+        },
+        {
+          "name": "Snake Island",
+          "photo": "File:04 Palawan tourism - island hopping tour B visiting Snake Island sandbar.jpg",
+          "coords": [
+            11.19,
+            119.39
+          ],
+          "culture": "Banc de sable en forme de S, qui relie deux îlots à marée basse et disparaît sous l'eau à marée haute."
+        },
+        {
+          "name": "Papaya Beach"
+        },
+        {
+          "name": "Talisay Beach"
+        }
+      ],
+      "stay": {
+        "name": "Croisière",
+        "coords": [
+          11.6,
+          119.85
+        ],
+        "note": "Nuit sur le bateau"
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Island hopping, puis croisière de 2 nuits vers Coron"
+        }
+      ],
+      "food": [
+        "Panorama Beach Club, pour le coucher de soleil.",
+        "La Moro Hill Bakery, petit déjeuner à Lio Beach.",
+        "Bella Vita, déjeuner.",
+        "Dayo El Nido, petit déjeuner."
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Croisière El Nido ➔ Coron",
+      "summary": "Deuxième jour de croisière entre El Nido et Coron.",
+      "hero": "Coron, Palawan",
+      "route": "none",
+      "stops": [],
+      "stay": {
+        "name": "Croisière",
+        "coords": [
+          11.6,
+          119.85
+        ],
+        "note": "Nuit sur le bateau"
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Croisière"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Arrivée à Coron",
+      "summary": "Fin de la croisière et arrivée à Coron, avec une exploration marine.",
+      "route": "none",
+      "stops": [],
+      "stay": {
+        "name": "Coron",
+        "wiki": "Coron, Palawan",
+        "note": "Hôtel à Coron, peut-être sur pilotis",
+        "options": [
+          "Paolyn Houseboat",
+          "Un hôtel sur pilotis, à étudier"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Croisière, arrivée à Coron"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Coron : lacs et lagons",
+      "summary": "Island hopping en tour privé : Kayangan Lake, Twin Lagoon, snorkeling à Siete Pecados et plage de Pasandigan, puis tour des lucioles et du plancton bioluminescent à Kingfisher Park.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Kayangan Lake",
+          "wiki": "Kayangan Lake",
+          "culture": "Lac d'eau douce et salée, entouré de falaises calcaires, souvent cité comme l'un des lacs les plus propres d'Asie."
+        },
+        {
+          "name": "Twin Lagoon",
+          "photo": "File:Twin Lagoon Coron Palawan.jpg",
+          "culture": "Deux lagons séparés par une paroi calcaire que l'on franchit à la nage, avec de l'eau plus chaude sous la couche de surface."
+        },
+        {
+          "name": "Siete Pecados",
+          "wiki": "Siete Pecados",
+          "culture": "Réserve marine proche de la ville de Coron, aux récifs de corail que l'on explore directement en snorkeling."
+        },
+        {
+          "name": "Plage de Pasandigan"
+        },
+        {
+          "name": "Kingfisher Park",
+          "culture": "Parc de Coron avec mangrove où l'on observe, le soir, des lucioles et du plancton bioluminescent."
+        }
+      ],
+      "stay": {
+        "name": "Coron",
+        "wiki": "Coron, Palawan",
+        "note": "Nuit à Coron"
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Island hopping (tour privé)"
+        }
+      ],
+      "notes": [
+        "Pour le plancton bioluminescent et les lucioles, vérifier les [phases de la lune](https://www.timeanddate.com/moon/@6942291?month=12&year=2025). Le coucher de soleil est vers 17 h 45 et les meilleurs jours sont à partir du 5 janvier."
+      ],
+      "ideas": [
+        "Kingfisher Park : tour des lucioles et du plancton bioluminescent. Voir aussi Calamianes Expeditions, mais les avis sont mitigés."
+      ]
+    },
+    {
+      "n": 10,
+      "title": "Coron : épave et îles",
+      "summary": "Island hopping en tour privé et découverte libre : épave de la canonnière Lusong, Coral Garden, île de Malcapuya, randonnée ou exploration libre.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Épave de la canonnière Lusong",
+          "culture": "Épave d'un navire japonais coulé en 1944 lors d'un raid américain sur la baie de Coron, assez peu profonde pour être explorée en snorkeling."
+        },
+        {
+          "name": "Coral Garden (Coron)"
+        },
+        {
+          "name": "Île de Malcapuya",
+          "photo": "File:Malcapuya Island, Palawan, Philippines.jpg",
+          "culture": "Île isolée aux plages de sable blanc, bordées d'eaux turquoise et de récifs, au sud de Coron."
+        }
+      ],
+      "stay": {
+        "name": "Coron",
+        "wiki": "Coron, Palawan",
+        "note": "Nuit à Coron"
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Island hopping (tour privé)"
+        }
+      ],
+      "ideas": [
+        "Randonnée ou exploration libre."
+      ]
+    },
+    {
+      "n": 11,
+      "title": "Coron ➔ Bohol",
+      "summary": "Vol intérieur via Cebu vers Bohol, puis exploration terrestre : Chocolate Hills, sanctuaire des tarsiers, rivière Loboc, rizières de Cambuyo, plage, et dîner avec lucioles sur l'Abatan River ou la Loay River.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Chocolate Hills",
+          "wiki": "Chocolate Hills",
+          "culture": "Plus de 1 200 collines herbeuses en cônes presque réguliers, qui brunissent en saison sèche, d'où leur nom. Elles sont l'emblème de Bohol."
+        },
+        {
+          "name": "Sanctuaire des tarsiers",
+          "wiki": "Philippine tarsier",
+          "photo": "File:Tarsier Sanctuary, Corella, Bohol (2052878890).jpg",
+          "coords": [
+            9.69,
+            123.925
+          ],
+          "culture": "Sanctuaire du tarsier des Philippines, l'un des plus petits primates du monde, haut de 10 à 15 cm environ, aux yeux immenses."
+        },
+        {
+          "name": "Rivière Loboc",
+          "photo": "File:Loboc river cruise Bohol 2017.jpg",
+          "wiki": "Loboc River",
+          "culture": "Rivière de Bohol bordée de jungle, que l'on descend en bateau-restaurant avec musique en direct."
+        },
+        {
+          "name": "Rizières de Cambuyo"
+        },
+        {
+          "name": "Abatan River ou Loay River",
+          "culture": "Rivières de Bohol où l'on dîne en bateau, avant d'observer des lucioles dans la mangrove."
+        },
+        {
+          "name": "Plage de Bohol"
+        }
+      ],
+      "stay": {
+        "name": "Panglao",
+        "wiki": "Panglao, Bohol",
+        "note": "Écolodge à Panglao",
+        "options": [
+          "Amarela Resort"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Coron → Bohol via Cebu : vol intérieur + transferts privés"
+        }
+      ],
+      "notes": [
+        "Idées en plus du côté de Cebu : canyoning aux Kawasan Falls, sardine run à Moalboal, belles chutes de Mantayupan."
+      ]
+    },
+    {
+      "n": 12,
+      "title": "Bohol : Panglao",
+      "summary": "Exploration marine : plongée à Balicasag Island et plage d'Alona.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Balicasag Island",
+          "coords": [
+            9.517,
+            123.68
+          ],
+          "culture": "Petite île de Panglao dotée d'une réserve marine, réputée pour ses tombants de corail, ses tortues et ses bancs de poissons."
+        },
+        {
+          "name": "Plage d'Alona",
+          "wiki": "Alona Beach",
+          "culture": "Plage de sable blanc de Panglao, animée, bordée de restaurants et de centres de plongée."
+        }
+      ],
+      "stay": {
+        "name": "Panglao",
+        "wiki": "Panglao, Bohol",
+        "note": "Écolodge à Panglao",
+        "options": [
+          "Amarela Resort"
+        ]
+      }
+    },
+    {
+      "n": 13,
+      "title": "Panglao ➔ Siquijor",
+      "summary": "Ferry depuis le port de Tagbilaran vers Siquijor, puis cascades et plages.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Siquijor",
+          "wiki": "Siquijor",
+          "culture": "Surnommée « l'île du feu » pour les lucioles qui s'y rassemblent dans les arbres. Pour les Philippins, c'est aussi l'île des guérisseurs et de la sorcellerie."
+        }
+      ],
+      "stay": {
+        "name": "Siquijor",
+        "wiki": "Siquijor",
+        "note": "Hôtel Coco Grove",
+        "options": [
+          "Hôtel Coco Grove Siquijor (le meilleur prix se trouve sur Agoda)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry Tagbilaran → Siquijor : [Oceanjet](https://www.oceanjet.net/booking/process), Apekop ou [Lite Shipping](https://liteshipping.barkota.com/schedules) (plus lent)"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "title": "Siquijor : cascades et plages",
+      "summary": "Tour de l'île en scooter : cascades et plages, avec un cocktail au coucher du soleil à Lambojon Terraces ou au Bu Café.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Cambugahay Falls",
+          "photo": "File:Cambugahay Falls 01.JPG",
+          "coords": [
+            9.15,
+            123.5
+          ],
+          "culture": "Cascade à étages aux eaux turquoise, dans la jungle de Siquijor. Des cordes permettent de se jeter dans les bassins."
+        },
+        {
+          "name": "Lambojon Terraces"
+        },
+        {
+          "name": "Bu Café"
+        }
+      ],
+      "stay": {
+        "name": "Siquijor",
+        "wiki": "Siquijor",
+        "note": "Hôtel Coco Grove"
+      },
+      "transport": [
+        {
+          "mode": "transit",
+          "text": "Scooter"
+        }
+      ],
+      "food": [
+        "Cocktail au coucher du soleil à Lambojon Terraces ou au Bu Café."
+      ]
+    },
+    {
+      "n": 15,
+      "title": "Siquijor",
+      "summary": "Dernière journée de cascades et de plages, en scooter.",
+      "hero": "Siquijor",
+      "route": "none",
+      "stops": [],
+      "stay": {
+        "name": "Siquijor",
+        "wiki": "Siquijor",
+        "note": "Hôtel Coco Grove"
+      },
+      "transport": [
+        {
+          "mode": "transit",
+          "text": "Scooter"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "title": "Siquijor ➔ Manille ➔ Paris",
+      "summary": "Vol retour vers Paris, via Manille.",
+      "hero": "Siquijor",
+      "route": "none",
+      "stops": [],
+      "stay": null,
+      "end": "Vol retour vers Paris, via Manille",
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Siquijor → Manille → Paris"
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "climat",
+      "title": "Climat",
+      "summary": "Les saisons sont inversées selon la zone du pays : ce qu'il faut savoir en janvier et en août.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Les saisons sont inversées selon la zone du pays."
+        },
+        {
+          "type": "list",
+          "items": [
+            "En janvier : saison sèche à Luzon (Nord), dans les Visayas et à Palawan. Saison des pluies à Siargao, Camiguin, Mindanao et Legazpi / Bicol.",
+            "En août : l'inverse."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iles-comparatif",
+      "title": "Comparatif des principales îles",
+      "summary": "Ambiance, points forts et notes sur 10 pour 28 îles et régions des Philippines.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Destination",
+            "Ambiance et activités principales",
+            "Points d'intérêt principaux",
+            "Idéal pour",
+            "Accès (/10)",
+            "Plages (/10)",
+            "Nature et randonnées (/10)",
+            "Tourisme (/10)",
+            "Voyage de noces (/10)"
+          ],
+          "rows": [
+            [
+              "Luzon",
+              "Culturelle, variée : montagnes, plages, villes animées",
+              "Manille : Intramuros, vie urbaine. Banaue : rizières en terrasses UNESCO. Vigan : ville coloniale. Mt. Pulag : randonnée et mer de nuages. Plages de Zambales et de Bicol.",
+              "Amateurs de culture, aventuriers",
+              "10 : vols directs vers Manille, routes bien développées",
+              "7 (beaux spots, mais plages souvent urbaines)",
+              "9 (montagnes, volcans et paysages variés)",
+              "9 (infrastructure dense, tourisme varié)",
+              "7 : idéal pour les couples actifs ou explorateurs"
+            ],
+            [
+              "Batanes Islands (nord de Luzon)",
+              "Unique, dramatique : paysages à couper le souffle, culture",
+              "Marlboro Hills : collines verdoyantes. Honesty Coffee Shop : lieu emblématique. Sabtang Island : villages traditionnels.",
+              "Amateurs de nature et d'aventure hors des sentiers battus",
+              "5 : vols limités vers Basco (temps imprévisible)",
+              "7 (peu de plages, mais côtes spectaculaires)",
+              "10 (paysages uniques et intacts)",
+              "2 (tourisme minimal, accès difficile)",
+              "9 : idéal pour les couples qui recherchent des expériences inédites"
+            ],
+            [
+              "Central Palawan",
+              "Paradisiaque, préservée : îles, plages, grottes",
+              "Puerto Princesa : rivière souterraine (UNESCO). San Vicente : plages isolées.",
+              "Amoureux de plages et de nature spectaculaire",
+              "8 : vols vers Puerto Princesa ou Coron",
+              "10 (plages parfaites, très préservées)",
+              "10 (paysages karstiques et marins uniques)",
+              "7 (infrastructure en développement)",
+              "10 : paradis tropical parfait pour les couples"
+            ],
+            [
+              "Coron (nord de Palawan)",
+              "Sauvage, intacte : plongée sur épave, lagons et lacs intérieurs",
+              "Kayangan Lake : lac cristallin. Barracuda Lake : plongée unique. Épaves de la Seconde Guerre mondiale.",
+              "Plongeurs, couples aventureux",
+              "8 : vol vers Busuanga + route vers Coron Town",
+              "9 (plages immaculées et isolées)",
+              "9 (lacs et montagnes, exploration possible)",
+              "6 (infrastructure limitée mais développée à Coron Town)",
+              "9 : parfait pour une expérience romantique et nature"
+            ],
+            [
+              "Culion (nord de Palawan)",
+              "Historique, tranquille, nature : plongée, culture, détente",
+              "Culion Museum and Archives : plongée dans l'histoire de la léproserie. Église de l'Immaculée Conception : architecture coloniale espagnole. Malcapuya Beach : plages isolées et paisibles. Baies, lagons et récifs : similaires à ceux de Coron, mais moins fréquentés.",
+              "Voyageurs en quête de tranquillité, amateurs d'histoire et de plongée",
+              "6 : accès en bateau depuis Coron (1 à 2 h), moins direct que d'autres îles",
+              "8 : plages magnifiques et souvent désertes",
+              "8 : paysages marins, récifs coralliens et petites collines",
+              "5 : tourisme modéré, peu d'infrastructures développées",
+              "9 : atmosphère paisible, nature intacte et hébergements exclusifs"
+            ],
+            [
+              "El Nido (Palawan)",
+              "Paradisiaque, romantique : excursions en bateau, plages, plongée, baies karstiques",
+              "Bacuit Archipelago : lagons et karsts calcaires. Nacpan Beach : plage idyllique. Big Lagoon et Small Lagoon.",
+              "Couples, amateurs de paysages spectaculaires",
+              "7 : vol vers Puerto Princesa + route (5 à 6 h) ou vol direct vers El Nido",
+              "10 (plages parfaites et bien préservées)",
+              "9 (paysages sublimes, mais peu de randonnées)",
+              "6 (tourisme croissant, mais encore gérable)",
+              "10 : idéal pour un voyage de noces romantique et luxueux"
+            ],
+            [
+              "Balabac (sud de Palawan)",
+              "Isolée, paradisiaque : îlots sauvages, plages",
+              "Onuk Island : sable blanc et eaux turquoise, tortues. Candaraman Island : observation des étoiles de mer. Espangga Island : forêts de mangroves.",
+              "Aventuriers et amoureux de nature brute",
+              "5 : vol vers Puerto Princesa + long trajet terrestre et en bateau",
+              "10 (plages immaculées et désertes)",
+              "10 (paysages préservés, récifs coralliens)",
+              "3 (tourisme quasi inexistant, besoin d'autonomie)",
+              "10 : isolation parfaite, idéal pour les couples qui recherchent une expérience unique"
+            ],
+            [
+              "Mindoro (nord des Visayas)",
+              "Nature préservée : plongée, randonnées",
+              "Puerto Galera : récifs coralliens, plages. Mt. Halcon : randonnée intense. Naujan Lake : observation des oiseaux. Apo Reef : site de plongée exceptionnel.",
+              "Plongeurs, randonneurs, amoureux de la nature",
+              "8 : ferries réguliers depuis Batangas",
+              "8 (plages et récifs magnifiques)",
+              "9 (montagnes, jungles et récifs)",
+              "7 (infrastructure concentrée à Puerto Galera)",
+              "8 : nature intacte et plages, parfait pour les couples actifs"
+            ],
+            [
+              "Romblon (nord des Visayas)",
+              "Préservée, nature : plongée, plages, artisanat",
+              "Cresta de Gallo : îlot isolé. Bonbon Beach : plage accessible à marée basse. Récifs coralliens.",
+              "Amateurs de nature et d'isolement",
+              "6 : vol vers Tablas + ferry local",
+              "9 (plages intactes et peu fréquentées)",
+              "8 (paysages côtiers et récifs)",
+              "4 (infrastructure touristique minimale)",
+              "9 : nature intacte, parfaite pour un couple qui cherche le calme"
+            ],
+            [
+              "Carabao / San Jose (nord des Visayas)",
+              "Intacte, paisible : plages, détente",
+              "Lanas Beach : plage isolée et paisible. Cliff jumping : activité populaire. Exploration sous-marine et snorkeling.",
+              "Voyageurs qui cherchent le calme près de Boracay",
+              "7 : accessible en bateau depuis Boracay",
+              "9 (plages tranquilles et magnifiques)",
+              "8 (paysages côtiers, nature intacte)",
+              "4 (tourisme émergent)",
+              "9 : alternative paisible à Boracay"
+            ],
+            [
+              "Tablas (nord des Visayas)",
+              "Naturelle, tranquille : plages, randonnées",
+              "Binucot Beach : couchers de soleil spectaculaires. Grotte de Calatrava : exploration souterraine. San Agustin : petites îles voisines et snorkeling.",
+              "Amateurs de tranquillité et de nature",
+              "6 : vols limités depuis Manille + ferries locaux",
+              "8 (plages peu fréquentées)",
+              "8 (nature intacte et activités diverses)",
+              "5 (infrastructure minimale)",
+              "8 : charme naturel pour un voyage paisible"
+            ],
+            [
+              "Sibuyan (nord des Visayas)",
+              "Montagneuse, aventureuse : randonnées, cascades",
+              "Mont Guiting-Guiting : randonnée difficile aux paysages spectaculaires. Cascade de Cresta Blanca. Récifs coralliens pour le snorkeling et la plongée.",
+              "Aventuriers, amoureux de nature sauvage",
+              "5 : ferry depuis Tablas ou Romblon",
+              "7 (plages rares mais belles)",
+              "10 (nature brute, montagnes et rivières)",
+              "3 (tourisme minimal, infrastructure basique)",
+              "8 : idéal pour les couples en quête d'aventure"
+            ],
+            [
+              "Masbate (nord des Visayas)",
+              "Équestre, rurale : nature intacte, plages",
+              "Burias Island : plages immaculées. Rodeo Masbateño : festival équestre annuel. Plages de sable rose : unique et pittoresque.",
+              "Aventuriers, plongeurs, amateurs de culture rurale",
+              "6 : ferries limités, vols disponibles depuis Luzon",
+              "8 (plages intactes, moins connues)",
+              "8 (paysages marins et terrestres vierges)",
+              "4 (infrastructure touristique limitée)",
+              "7 : parfait pour des couples aventureux en quête de lieux exclusifs"
+            ],
+            [
+              "Ticao (nord des Visayas)",
+              "Aventure, nature : chutes d'eau, plongée",
+              "Manta Bowl : plongée avec raies manta. Catandayagan Falls : cascade spectaculaire tombant dans la mer. Plongée avec requins-marteaux.",
+              "Plongeurs, amoureux de nature",
+              "6 : accessible depuis Masbate",
+              "9 (plages intactes)",
+              "8 (paysages marins et terrestres vierges)",
+              "4 (infrastructure touristique modérée)",
+              "8 : parfait pour les couples aventuriers"
+            ],
+            [
+              "Boracay (Visayas occidentales)",
+              "Animée, festive : plages, sports nautiques, fêtes",
+              "White Beach : plage emblématique. Bulabog Beach : kitesurf et sports nautiques. Sunset sailing : couchers de soleil spectaculaires.",
+              "Fêtards, familles, couples qui cherchent le confort",
+              "9 : vols vers Caticlan ou Kalibo + ferry rapide",
+              "9 (plage iconique, mais fréquentée)",
+              "6 (nature limitée, île petite)",
+              "9 (infrastructure haut de gamme, animations constantes)",
+              "8 : luxe et commodités pour les couples en quête d'une ambiance festive"
+            ],
+            [
+              "Panay (Visayas occidentales)",
+              "Authentique, diversifiée : nature, plages, culture",
+              "Iloilo City : églises anciennes, gastronomie. Antique : randonnée et sources thermales. Gigantes Islands : plages et formations rocheuses uniques. Kalibo : festival Ati-Atihan. Aklan : proche de Boracay pour des plages idylliques.",
+              "Voyageurs intéressés par la culture et des plages moins touristiques",
+              "8 : vols vers Iloilo ou Kalibo",
+              "8 (plages tranquilles sur Gigantes et Antique)",
+              "8 (rivières, montagnes, plages)",
+              "7 (tourisme modéré hors de Boracay)",
+              "8 : bonne alternative à Boracay pour des couples qui cherchent calme et culture"
+            ],
+            [
+              "Negros (Visayas centrales)",
+              "Nature, plages, montagnes : plongée, volcans, cascades",
+              "Dumaguete : universités, ambiance culturelle. Apo Island : plongée et snorkeling (sanctuaire marin). Silay : héritage colonial. Mt. Kanlaon : volcan actif et randonnées. Sipalay : plages paisibles et Sugar Beach. Casaroro Falls : cascades impressionnantes.",
+              "Plongeurs, randonneurs, couples en quête de tranquillité",
+              "8 : vols vers Dumaguete ou Bacolod",
+              "8 (plages paisibles, préservées)",
+              "9 (volcans, cascades et jungles)",
+              "7 (infrastructure modérée, sauf Dumaguete)",
+              "8 : atmosphère relaxante et nature intacte"
+            ],
+            [
+              "Cebu (Visayas centrales)",
+              "Culturelle, balnéaire : plages, plongée, histoire",
+              "Cebu City : basilique du Santo Niño, croix de Magellan. Moalboal : sardine run, plongée et snorkeling. Kawasan Falls : cascades turquoise. Oslob : nager avec les requins-baleines. Malapascua Island : plongée avec requins-renards (Monad Shoal).",
+              "Voyageurs actifs, plongeurs, familles",
+              "10 : vols directs vers Cebu City",
+              "8 (plages pittoresques, mais parfois bondées)",
+              "8 (chutes d'eau, montagnes)",
+              "8 (tourisme bien développé, diversifié)",
+              "8 : diversité d'activités, bons services pour les couples"
+            ],
+            [
+              "Camotes Islands (Visayas centrales)",
+              "Paisible, naturelle : plages, grottes, exploration et détente",
+              "Lake Danao : grand lac pour le kayak et la détente. Buho Rock : plateforme naturelle pour sauter dans l'eau. Santiago Bay : plage de sable blanc calme. Timubo Cave : piscine naturelle souterraine. Bukilat Cave : grottes impressionnantes avec lumière naturelle.",
+              "Voyageurs qui veulent éviter les foules, amateurs de nature et de tranquillité",
+              "6 : ferry depuis Cebu City (2 à 3 h) ou Ormoc City (1 h 30)",
+              "8 : plages calmes et préservées, sans tourisme de masse",
+              "7 : grottes, lacs et paysages côtiers paisibles",
+              "4 : tourisme limité, peu d'infrastructures modernes",
+              "8 : atmosphère romantique et intime, idéal pour les couples en quête de simplicité"
+            ],
+            [
+              "Bohol (Visayas centrales)",
+              "Nature spectaculaire : collines, rivières, plages",
+              "Chocolate Hills : paysages emblématiques. Panglao Island : plages et plongée. Loboc River : croisières fluviales. Sanctuaire des tarsiers : faune unique. Balicasag : récifs coralliens pour la plongée.",
+              "Amateurs de nature, familles, couples détendus",
+              "9 : vols vers Panglao / Bohol ou ferry depuis Cebu",
+              "9 (plages pittoresques, bien entretenues)",
+              "8 (collines, forêts, rivières)",
+              "8 (bonne infrastructure touristique)",
+              "9 : nature et plages adaptées au romantisme"
+            ],
+            [
+              "Siquijor (Visayas centrales)",
+              "Mystique, paisible : cascades, plages, spiritualité",
+              "Cambugahay Falls : cascades pittoresques. Salagdoong Beach : sauts de falaise. Églises anciennes et forêts d'arbres centenaires.",
+              "Couples qui recherchent le calme et le mysticisme",
+              "7 : ferry depuis Dumaguete ou Cebu",
+              "8 (plages belles mais pas très variées)",
+              "9 (nature préservée, ambiance unique)",
+              "6 (infrastructure limitée mais suffisante)",
+              "9 : atmosphère unique et romantique, idéale pour un voyage de noces"
+            ],
+            [
+              "Leyte (Visayas orientales)",
+              "Historique, calme : plages, sites culturels",
+              "San Juanico Bridge : pont emblématique. Kalanggaman Island : langue de sable isolée. Ormoc : lacs et montagnes. Tacloban : mémoriaux historiques (Seconde Guerre mondiale). Cuatro Islas : exploration insulaire.",
+              "Voyageurs curieux d'histoire, amoureux de plages isolées",
+              "7 : vols vers Tacloban ou Ormoc, ferries disponibles",
+              "7 (plages magnifiques mais parfois isolées)",
+              "8 (lacs, montagnes, nature préservée)",
+              "6 (tourisme encore émergent)",
+              "7 : atmosphère paisible pour des couples aventureux"
+            ],
+            [
+              "Samar (Visayas orientales)",
+              "Sauvage, aventureuse : nature brute, plages, grottes",
+              "Sohoton Natural Bridge : exploration naturelle. Samar Island Natural Park : faune et randonnées. Basey : artisanat local et grottes. Lulugayan Falls : chutes spectaculaires. Plages isolées : très peu développées.",
+              "Aventuriers, amateurs de nature brute",
+              "6 : routes limitées, ferries depuis Luzon ou Cebu",
+              "8 (plages vierges et isolées)",
+              "9 (jungles, rivières et cascades)",
+              "4 (infrastructure touristique très limitée)",
+              "8 : sauvage et romantique pour les couples qui cherchent la solitude"
+            ],
+            [
+              "Camiguin (nord de Mindanao)",
+              "Intacte, montagneuse : sources chaudes, randonnées, plongée",
+              "White Island : banc de sable idyllique. Hibok-Hibok Volcano : randonnée volcanique. Sunken Cemetery : site historique.",
+              "Amateurs de nature et d'histoire",
+              "6 : vol vers Cagayan de Oro + ferry ou bateau direct limité",
+              "8 (plages belles mais moins spectaculaires)",
+              "9 (volcans, sources chaudes, cascades)",
+              "5 (infrastructure touristique limitée)",
+              "8 : nature authentique, expérience paisible et romantique"
+            ],
+            [
+              "Dinagat Islands (nord de Mindanao)",
+              "Mystique, nature : exploration, plages",
+              "Îlots isolés et falaises calcaires. Plage de Bitaog : sable blanc et eaux claires. Sanctuaire de la grotte d'Albor.",
+              "Aventuriers, amateurs de tranquillité",
+              "5 : ferries depuis Surigao City",
+              "9 (plages peu fréquentées)",
+              "9 (paysages uniques et préservés)",
+              "3 (infrastructure minimale)",
+              "9 : atmosphère romantique et paisible"
+            ],
+            [
+              "Siargao (nord de Mindanao)",
+              "Surf, nature : surf, randonnées, plages",
+              "Cloud 9 : spot de surf iconique. Sugba Lagoon : kayak et exploration. Magpupungko Rock Pools. Tri Island Tour.",
+              "Surfeurs, couples actifs",
+              "8 : vol vers l'aéroport de Sayak + route courte",
+              "8 (plages magnifiques, mais focus sur le surf)",
+              "9 (nature intacte, lagons, forêts)",
+              "7 (tourisme croissant, mais bien préservé)",
+              "8 : idéal pour un couple actif et aventureux"
+            ],
+            [
+              "Mindanao",
+              "Authentique, nature sauvage : volcans, plages, immersion culturelle",
+              "Cagayan de Oro : rafting. Camiguin : île volcanique avec sources chaudes. Siargao : capitale du surf. Mt. Apo : randonnée sur le plus haut sommet. Samal Island : plages proches de Davao.",
+              "Aventuriers, couples amoureux de la nature",
+              "8 : vols vers Davao, Cagayan ou Siargao",
+              "8 (plages variées, sauvages)",
+              "9 (volcans, jungles, chutes d'eau)",
+              "6 (moins développé, tourisme en croissance)",
+              "8 : nature sauvage et immersion culturelle unique"
+            ],
+            [
+              "Basilan Island (ouest de Mindanao)",
+              "Authentique et préservée : exploration culturelle, plages",
+              "Malamawi Island : plages vierges. Basilan Weaving Center : artisanat traditionnel. Alano White Beach : détente.",
+              "Voyageurs en quête d'immersion culturelle",
+              "5 : vol vers Zamboanga + ferry",
+              "9 (plages vierges et peu touristiques)",
+              "7 (beauté naturelle, mais peu développée)",
+              "3 (tourisme limité en raison de l'emplacement)",
+              "8 : atmosphère unique et intimiste, peu fréquentée"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alternatives-luzon",
+      "title": "Alternatives à Luzon",
+      "summary": "Deux idées pour remplacer ou compléter le début du voyage : Banaue et ses rizières, ou le volcan Mayon et les requins-baleines de Donsol.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Banaue et Batad"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Transport",
+            "Hébergement",
+            "Activités",
+            "Points d'intérêt"
+          ],
+          "rows": [
+            [
+              "0",
+              "Manille → Banaue",
+              "Bus de nuit (9 h)",
+              "Bus de nuit",
+              "Trajet",
+              "Manille la journée, trajet le soir"
+            ],
+            [
+              "1",
+              "Banaue",
+              "-",
+              "Auberge à Banaue ou Batad",
+              "Exploration et randonnée",
+              "Rizières de Banaue et de Batad, cascade de Tappiya"
+            ],
+            [
+              "2",
+              "Banaue → Manille",
+              "Bus de nuit (9 h)",
+              "Bus de nuit",
+              "Exploration et randonnée",
+              "Terrasses de Bangaan, village de Batad"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Mont Mayon et Donsol"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Transport",
+            "Hébergement",
+            "Activités",
+            "Points d'intérêt"
+          ],
+          "rows": [
+            [
+              "1",
+              "Manille → Legazpi (mont Mayon)",
+              "Vol",
+              "Hôtel à Legazpi",
+              "Découverte du volcan Mayon",
+              "Mont Mayon, parc écologique de Ligñon Hill, ruines de Cagsawa, balade en ATV"
+            ],
+            [
+              "2",
+              "Legazpi → Donsol",
+              "Transfert privé",
+              "Hôtel à Donsol",
+              "Détente et exploration",
+              "Quitinday Hills, plages environnantes"
+            ],
+            [
+              "3",
+              "Donsol",
+              "Tour requins-baleines + lucioles",
+              "Hôtel à Donsol",
+              "Exploration marine",
+              "Tour des requins-baleines, tour des lucioles de l'Ogod River"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alternative-camiguin",
+      "title": "Alternative : Camiguin",
+      "summary": "Trois jours à Camiguin, à la place de Siquijor.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Transport",
+            "Hébergement",
+            "Activités",
+            "Points d'intérêt"
+          ],
+          "rows": [
+            [
+              "1",
+              "Panglao → Camiguin",
+              "Ferry + van local",
+              "Hôtel à Camiguin (Balai sa Baibai)",
+              "Exploration marine",
+              "White Island, snorkeling"
+            ],
+            [
+              "2",
+              "Camiguin",
+              "-",
+              "Hôtel à Camiguin",
+              "Exploration nature",
+              "Sources chaudes d'Ardent, cascade de Katibawasan"
+            ],
+            [
+              "3",
+              "Camiguin",
+              "-",
+              "Hôtel à Camiguin",
+              "Découverte culturelle et marine",
+              "Île de Mantigue, Sunken Cemetery"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reserver-sur-agoda",
+      "title": "Astuce : réserver sur Agoda",
+      "summary": "Comment obtenir les meilleurs tarifs d'hôtel sur Agoda, d'après un professionnel qui y réserve environ 20 chambres par semaine.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Agoda utilise tous les moyens possibles pour ajuster ses prix : géolocalisation et adresse IP, historique de recherche et de réservation sur votre profil, lien par lequel vous arrivez sur le site, hôtels consultés plus tôt, mêmes dates recherchées dans les dernières heures, passage par un partenaire de parrainage, affichage des prix avant ou après taxes, et la liste continue."
+        },
+        {
+          "type": "text",
+          "text": "Il existe en pratique deux chemins vers le meilleur tarif. Le premier : arriver par un moteur de recherche pour la ville, dans un navigateur en navigation privée, avec une adresse IP en Asie du Sud-Est. Ce sont alors les tarifs les moins chers. On peut se connecter à son compte Agoda après avoir fait la recherche sur la page d'accueil. En revanche, on ne peut pas utiliser de portail de cashback, et la remise est d'environ 5 %, donc le cashback peut valoir davantage."
+        },
+        {
+          "type": "text",
+          "text": "Pour le cashback, les règles sont les mêmes : navigation privée toute neuve, adresse IP en Asie du Sud-Est, passage par le portail jusqu'à la page d'accueil, recherche, puis connexion."
+        }
+      ]
+    },
+    {
+      "id": "idees-bohol",
+      "title": "Bohol et alentours : idées",
+      "summary": "Pistes en plus pour Bohol, Leyte et Malapascua.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Louer une voiture avec Klook.",
+            "Talawa Resort.",
+            "Baie de Sogod (Leyte) pour le snorkeling.",
+            "Malapascua : les plages de la côte est.",
+            "[Itinéraire DIY de 2 jours et 1 nuit à Bohol, avec les prix (Reddit)](https://www.reddit.com/r/Bohol/comments/1fu744h/ultimate_diy_bohol_itinerary_2d1n_with_prices/)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "liens-ressources",
+      "title": "Liens et ressources",
+      "summary": "Articles, carnets et vidéos consultés pour préparer le voyage aux Philippines.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "[Coron (Big Dream Boatman Coron)](https://bigdreamboatmancoron.com/fr/blogs/coron-secrets/coron)",
+            "[Carnet de voyage : 3 semaines aux Philippines en février-mars (I) : Palawan et Coron (Routard)](https://www.routard.com/forums/t/carnet-de-voyage-3-semaines-aux-philippines-en-fevrier-mars-i-palawan-et-coron/342290)",
+            "[Récit et photos de voyage aux Philippines : 4 semaines en janvier 2024 (Routard)](https://www.routard.com/forums/t/recit-et-photos-de-voyages-aux-philippines-4-semaines-en-janver-2024/400440)",
+            "[Voyage aux Philippines : circuit de 3 semaines entre Luçon et Palawan (Vanille & Paprika)](https://vanilleetpaprika.com/voyages/voyage-philippines-3-semaines/)",
+            "[Blog voyage aux Philippines : carnets de route et guide pratique (Les Globe Blogueurs)](https://lesglobeblogueurs.com/philippines/)",
+            "[Nos coups de cœur aux Philippines (Fou d'un monde)](https://foudunmonde.wordpress.com/2024/04/22/nos-coups-de-coeur-aux-philippines/)",
+            "[Philippines (Une Petite Parenthèse)](https://www.unepetiteparenthese.fr/category/carnet-de-voyage/asie/philippines/)",
+            "[Que faire aux Philippines ? Top 20 des lieux à visiter en 2025 (Tour du mondiste)](https://www.tourdumondiste.com/que-faire-aux-philippines)",
+            "[Palawan : El Nido et Coron, le joyau des Philippines (Mamzelles en vadrouille)](https://mamzellesenvadrouille.com/palawan-entre-el-nido-coron-decouvrez-le-joyau-des-philippines/)",
+            "[Visiter l'île de Coron (Amoureux du Monde)](https://amoureux-du-monde.com/destinations/asie/philippines/ile-de-coron-philippines/)",
+            "[Island hop in El Nido without crowds (The Globe Wanderers)](https://globewanderers.com/el-nido-how-to-island-hop-without-any-crowds/)",
+            "[Vidéo (Two Frequent Flyers)](https://www.youtube.com/watch?v=q0ditnFRNN0)",
+            "[Vidéo (Two Frequent Flyers)](https://www.youtube.com/watch?v=ji19QwBTwaw)",
+            "[Vidéo (Kristi Travel Escape)](https://www.youtube.com/watch?v=eRtiMB6CZKU)"
+          ]
+        }
+      ]
+    }
+  ]
+}

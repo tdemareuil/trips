@@ -12,6 +12,8 @@ let current = null;   // mounted view: { kind, tripId, goTo?, destroy }
 // --- Helpers ---------------------------------------------------------------
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+// Escaped text where [label](https://...) becomes a link.
+const rich = s => esc(s).replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
 const clamp = (v, lo, hi) => Math.min(Math.max(v, lo), hi);
 const fc = features => ({ type: 'FeatureCollection', features });
 const EMPTY = fc([]);
@@ -309,14 +311,14 @@ function mountLock(trip) {
 
 function blockHTML(b) {
   if (b.type === 'heading') return `<h2 class="g-heading">${esc(b.text)}</h2>`;
-  if (b.type === 'text') return `<p class="g-text">${esc(b.text)}</p>`;
+  if (b.type === 'text') return `<p class="g-text">${rich(b.text)}</p>`;
   if (b.type === 'list') {
     const tag = b.ordered ? 'ol' : 'ul';
-    return `<${tag} class="g-list">${b.items.map(i => `<li>${esc(i)}</li>`).join('')}</${tag}>`;
+    return `<${tag} class="g-list">${b.items.map(i => `<li>${rich(i)}</li>`).join('')}</${tag}>`;
   }
   if (b.type === 'table') {
     const head = b.columns.map(c => `<th>${esc(c)}</th>`).join('');
-    const rows = b.rows.map(r => `<tr>${r.map((c, i) => `<td data-label="${esc(b.columns[i])}">${esc(c)}</td>`).join('')}</tr>`).join('');
+    const rows = b.rows.map(r => `<tr>${r.map((c, i) => `<td data-label="${esc(b.columns[i])}">${rich(c)}</td>`).join('')}</tr>`).join('');
     return `<div class="g-table-wrap"><table class="g-table"><thead><tr>${head}</tr></thead><tbody>${rows}</tbody></table></div>`;
   }
   return '';
@@ -372,6 +374,7 @@ function mountStory(trip, start) {
   let front = 0;
   let bgToken = 0;
   let markers = [];
+  let stopPins = []; // marker of each stop by index (a stop without a position has none)
 
   const go = delta => {
     let j = idx + delta;
@@ -427,14 +430,14 @@ function mountStory(trip, start) {
   }
 
   function dayHTML(day) {
-    const parts = day.parts ? `<ul class="parts">${day.parts.map(p => `<li><b>${esc(p.label)}</b><span>${esc(p.text)}</span></li>`).join('')}</ul>` : '';
+    const parts = day.parts ? `<ul class="parts">${day.parts.map(p => `<li><b>${esc(p.label)}</b><span>${rich(p.text)}</span></li>`).join('')}</ul>` : '';
     const stops = day.stops.map((s, k) => {
       const article = data.images[s.wiki];
       const text = s.culture || article?.extract;
       return `
       <div class="stop" data-k="${k}" tabindex="0" role="button" aria-pressed="false" aria-label="${esc(s.name)}">
         <div class="flip">
-          <div class="face front">
+          <div class="face front${s.img ? '' : ' nophoto'}" style="--c:${day.color}">
             ${s.img ? `<img src="${thumb(s.img.url, 500)}" alt="${esc(s.name)}" loading="lazy" onload="this.classList.add('loaded')" onerror="this.remove()">` : ''}
             <span class="num" style="--c:${day.color}">${k + 1}</span>
             <span class="name">${esc(s.name)}</span>
@@ -450,9 +453,9 @@ function mountStory(trip, start) {
       </div>`;
     }).join('');
     const stay = day.stay
-      ? `<div class="stay"><span class="glyph">☾</span><div><small>${esc(day.stay.note || 'Nuit à')}</small><b>${esc(day.stay.name)}</b></div></div>`
+      ? `<div class="stay"><span class="glyph">☾</span><div><small>${rich(day.stay.note || 'Nuit à')}</small><b>${esc(day.stay.name)}</b>${day.stay.price ? `<em class="price">${esc(day.stay.price)}</em>` : ''}${day.stay.options?.length ? `<ul class="options">${day.stay.options.map(o => `<li>${rich(o)}</li>`).join('')}</ul>` : ''}</div></div>`
       : day.end ? `<div class="stay"><span class="glyph">✈</span><div><small>Fin du voyage</small><b>${esc(day.end)}</b></div></div>` : '';
-    const transport = (day.transport || []).map(t => `<li><span class="mode">${MODE_LABEL[t.mode] || ''}</span>${esc(t.text)}</li>`).join('');
+    const transport = (day.transport || []).map(t => `<li><span class="mode">${MODE_LABEL[t.mode] || ''}</span>${rich(t.text)}</li>`).join('');
     return `
       <p class="eyebrow" style="--c:${day.color}"><span class="swatch"></span>Jour ${day.n}</p>
       ${day.dateLong ? `<p class="date" style="--c:${day.color}">${esc(day.dateLong)}${day.when ? ` <small>${esc(day.when)}</small>` : ''}</p>` : ''}
@@ -462,7 +465,9 @@ function mountStory(trip, start) {
       ${day.stops.length ? `<h2 class="section">Lieux</h2><div class="stops">${stops}</div>` : ''}
       ${stay}
       ${transport ? `<ul class="transport">${transport}</ul>` : ''}
-      ${day.notes?.length ? `<ul class="notes">${day.notes.map(n => `<li>${esc(n)}</li>`).join('')}</ul>` : ''}
+      ${day.food?.length ? `<h2 class="section">Où manger et boire</h2><ul class="food">${day.food.map(f => `<li>${rich(f)}</li>`).join('')}</ul>` : ''}
+      ${day.ideas?.length ? `<h2 class="section">Idées, variantes et alternatives</h2><ul class="ideas">${day.ideas.map(i => `<li>${typeof i === 'string' ? rich(i) : `<b>${esc(i.label)}</b> ${rich(i.text)}`}</li>`).join('')}</ul>` : ''}
+      ${day.notes?.length ? `<ul class="notes">${day.notes.map(n => `<li>${rich(n)}</li>`).join('')}</ul>` : ''}
       ${credit}`;
   }
 
@@ -506,6 +511,7 @@ function mountStory(trip, start) {
     if (i !== idx) return;
     markers.forEach(m => m.remove());
     markers = [];
+    stopPins = [];
     $('.map-reset').classList.toggle('show', i > 0);
     if (i === 0) {
       cancelAnimationFrame(anim.raf);
@@ -517,7 +523,10 @@ function mountStory(trip, start) {
     const day = days[i - 1];
     setLayerOpacity(map, { routes: 0.15, points: ['case', ['==', ['get', 'day'], day.n], 0, 0.5] });
     day.stops.forEach((s, k) => {
-      if (s.pos) markers.push(new maplibregl.Marker({ element: pinMarker(k + 1, day.color, { delay: 300 + k * 130 }) }).setLngLat(s.pos).addTo(map));
+      if (!s.pos) return;
+      const marker = new maplibregl.Marker({ element: pinMarker(k + 1, day.color, { delay: 300 + k * 130 }) }).setLngLat(s.pos).addTo(map);
+      markers.push(marker);
+      stopPins[k] = marker;
     });
     if (day.stay?.pos) {
       markers.push(new maplibregl.Marker({ element: pinMarker('☾', day.color, { stay: true, delay: 300 + day.stops.length * 130 }) }).setLngLat(day.stay.pos).addTo(map));
@@ -532,7 +541,7 @@ function mountStory(trip, start) {
   }
 
   function hotStop(k, on) {
-    const pin = markers[k]?.getElement().querySelector('.pin');
+    const pin = stopPins[k]?.getElement().querySelector('.pin');
     if (pin) pin.classList.toggle('hot', on);
   }
 

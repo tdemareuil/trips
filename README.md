@@ -22,10 +22,16 @@ scripts/build_data.py fills the two generated files
 
 ## Adding a trip
 
-1. Create `data/trips/<id>.json` and add `<id>` to `data/trips.json`. `california.json` is the reference. The trip has a `start` date (`YYYY-MM-DD`), and each day gets its date from it; an optional `altStart` shows an alternative departure date on the overview. Each day has a title, a summary, optional `parts` (for example one line per person), `stops` (can be empty), a `stay`, `transport` lines (modes: `car`, `transit`, `flight`, `boat`, `bus`, `train`), and optional `notes` (short warnings or logistics, shown in a highlighted box). A trip without `start` simply shows no dates.
+1. Create `data/trips/<id>.json` and add `<id>` to `data/trips.json`. `california.json` is the reference. The trip has a `start` date (`YYYY-MM-DD`), and each day gets its date from it; an optional `altStart` shows an alternative departure date on the overview. Each day has a title, a summary, optional `parts` (for example one line per person), `stops` (can be empty), a `stay`, `transport` lines (modes: `car`, `transit`, `flight`, `boat`, `bus`, `train`), and optional `notes` (short warnings or logistics, shown in a highlighted box). A day can also carry:
+   - `stay.options` (hotel names), `stay.price` and `stay.note`;
+   - `food`, a list of restaurants, cafés and beach clubs, shown as "Où manger et boire";
+   - `ideas`, optional spots, variants and alternatives, shown as "Idées, variantes et alternatives" (strings, or `{ "label", "text" }`).
+
+   Every text field accepts links written as `[label](https://...)`. A trip without `start` simply shows no dates.
 2. Each stop needs a `wiki` field, the title of its English Wikipedia article. The script takes the lead photo and the coordinates from it. A stop can also set:
    - `coords: [lat, lon]` to override or supply the position (needed when the article has no coordinates, or none exists);
    - `photo: "File:Name.jpg"` to use a specific Wikimedia Commons file instead of the article's lead image;
+   - A stop with no `wiki` and no `photo` still appears, as a colour tile; with no `coords` either, it has no pin on the map.
    - `culture: "..."`, a sentence or two shown on the back of the tile. Without it, the tile falls back to the intro of the French Wikipedia article, which is often dry, so it is worth writing one.
 3. Set `"route": "drive"` on days that are made by car to get a road geometry. Other days get a dashed straight line between their places.
 4. Run the script, then reload the page:
