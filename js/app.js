@@ -194,6 +194,26 @@ function pinMarker(label, color, { stay = false, delay = 0 } = {}) {
   return el;
 }
 
+// --- Access code -----------------------------------------------------------
+// A light gate, not security: the code is checked in the browser against a SHA-256
+// hash stored in the trip (`lock`), and the trip data stays readable in the repo.
+
+const UNLOCK_KEY = 'trips-unlocked';
+const unlocked = new Set();
+try { JSON.parse(sessionStorage.getItem(UNLOCK_KEY) || '[]').forEach(id => unlocked.add(id)); } catch { /* no storage: ask again on reload */ }
+
+const isLocked = trip => Boolean(trip.lock) && !unlocked.has(trip.id);
+
+function markUnlocked(id) {
+  unlocked.add(id);
+  try { sessionStorage.setItem(UNLOCK_KEY, JSON.stringify([...unlocked])); } catch { /* ignore */ }
+}
+
+async function sha256(text) {
+  const bytes = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text));
+  return [...new Uint8Array(bytes)].map(b => b.toString(16).padStart(2, '0')).join('');
+}
+
 // --- Router ----------------------------------------------------------------
 
 function renderTopbar(trip) {
@@ -205,6 +225,7 @@ function route() {
   const [id, arg] = location.hash.replace(/^#\/?/, '').split('/');
   const trip = data.trips[id];
   if (!trip) return show('home');
+  if (isLocked(trip)) return show('lock', trip);
   show('story', trip, clamp(parseInt(arg, 10) || 0, 0, trip.days.length));
 }
 
@@ -218,17 +239,19 @@ function show(kind, trip, slide) {
   window.scrollTo(0, 0);
   renderTopbar(trip);
   document.title = trip ? `${trip.title} · Trips` : 'Trips';
-  current = kind === 'home' ? mountHome() : mountStory(trip, slide);
+  current = kind === 'home' ? mountHome() : kind === 'lock' ? mountLock(trip) : mountStory(trip, slide);
 }
 
 // --- Home ------------------------------------------------------------------
+
+const LOCK_ICON = '<svg class="lock-icon" viewBox="0 0 16 16" width="12" height="12" aria-hidden="true"><path fill="currentColor" d="M8 1a3.5 3.5 0 0 0-3.5 3.5V6H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V7a1 1 0 0 0-1-1h-.5V4.5A3.5 3.5 0 0 0 8 1Zm-2 3.5a2 2 0 1 1 4 0V6H6V4.5Z"/></svg>';
 
 function mountHome() {
   const cards = data.order.map(id => {
     const t = data.trips[id];
     const bg = t.coverImg ? `style="--img:url('${thumb(t.coverImg.url, 1280)}')"` : '';
     return `<a class="trip-card" href="#/${t.id}" ${bg}>
-      <span class="meta">${t.days.length} jours</span>
+      <span class="meta">${isLocked(t) ? LOCK_ICON : ''}${t.days.length} jours</span>
       <h2>${esc(t.title)}</h2>
       <p>${esc(t.subtitle)}</p>
     </a>`;
@@ -240,6 +263,41 @@ function mountHome() {
     <div class="cards">${cards}</div>
   </section>`;
   return { kind: 'home', destroy() {} };
+}
+
+// --- Lock screen -----------------------------------------------------------
+
+function mountLock(trip) {
+  const bg = trip.coverImg ? `style="--img:url('${thumb(trip.coverImg.url, 1920)}')"` : '';
+  app.innerHTML = `<section class="lock" ${bg}>
+    <form class="lock-card" autocomplete="off">
+      <p class="eyebrow">Voyage protégé</p>
+      <h1 class="title">${esc(trip.title)}</h1>
+      <label class="lead" for="code">Entrez le code pour voir l'itinéraire.</label>
+      <input id="code" type="password" autocomplete="off">
+      <p class="lock-error" role="alert"></p>
+      <button class="cta" type="submit">Déverrouiller <span>→</span></button>
+      <a class="lock-back" href="#/">← Retour</a>
+    </form>
+  </section>`;
+  const form = app.querySelector('form');
+  const input = app.querySelector('input');
+  const error = app.querySelector('.lock-error');
+  form.addEventListener('submit', async e => {
+    e.preventDefault();
+    if (await sha256(input.value.trim()) === trip.lock) {
+      markUnlocked(trip.id);
+      route();
+      return;
+    }
+    error.textContent = 'Code incorrect.';
+    form.classList.remove('shake');
+    void form.offsetWidth; // restart the shake animation
+    form.classList.add('shake');
+    input.select();
+  });
+  input.focus();
+  return { kind: 'lock', destroy() {} };
 }
 
 // --- Story -----------------------------------------------------------------

@@ -36,6 +36,16 @@ scripts/build_data.py fills the two generated files
 
    Existing entries are kept, so only new places and changed days are fetched. `--refresh` fetches everything again. If Python reports a certificate error, point it at the system certificates with `SSL_CERT_FILE=/etc/ssl/cert.pem`.
 
+## Access code
+
+A trip can ask for a code before it opens. Add a `lock` field to its JSON with the SHA-256 hash of the code:
+
+```bash
+printf '%s' 'the-code' | shasum -a 256
+```
+
+The code is checked in the browser and remembered for the tab session. This is a light gate, not security: the trip files stay readable in the repository.
+
 ## Running locally
 
 ```bash

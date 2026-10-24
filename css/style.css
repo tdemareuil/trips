@@ -70,6 +70,31 @@ button:disabled { cursor: default; }
 .trip-card h2 { margin: 0 0 6px; font: 700 34px var(--display); }
 .trip-card p { margin: 0; font-size: 14px; opacity: 0.92; }
 
+/* --- Lock screen ----------------------------------------------------------- */
+
+.lock {
+  position: fixed; inset: 0; display: grid; place-items: center; padding: 24px;
+  background: linear-gradient(rgba(250, 247, 242, 0.86), rgba(250, 247, 242, 0.94)), var(--img, none) center / cover;
+}
+.lock-card {
+  width: min(100%, 420px); display: grid; gap: 14px; padding: 32px;
+  border-radius: 24px; background: var(--glass); backdrop-filter: blur(18px);
+  border: 1px solid var(--line); box-shadow: 0 24px 60px rgba(27, 33, 48, 0.18);
+}
+.lock-card .eyebrow, .lock-card .title { margin: 0; }
+.lock-card .lead { margin: 0; font-size: 15px; }
+.lock-card input {
+  padding: 12px 14px; border-radius: 14px; border: 1px solid var(--line); background: #fff; color: var(--ink);
+  font: 600 20px var(--body); letter-spacing: 0.3em; text-align: center;
+}
+.lock-card input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.lock-error { min-height: 1.3em; margin: 0; color: #c0392b; font-size: 13px; font-weight: 600; }
+.lock-card .cta { justify-content: center; border: 0; font: inherit; font-weight: 700; }
+.lock-back { color: var(--muted); font-size: 13px; text-align: center; }
+.lock-card.shake { animation: shake 0.4s; }
+@keyframes shake { 20%, 60% { transform: translateX(-8px); } 40%, 80% { transform: translateX(8px); } }
+.lock-icon { margin-right: 6px; vertical-align: -1px; }
+
 /* --- Story ----------------------------------------------------------------- */
 
 .story { position: fixed; inset: 0; overflow: hidden; }
