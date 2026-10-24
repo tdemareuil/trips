@@ -1,0 +1,208 @@
+{
+  "id": "rockies",
+  "title": "Rocheuses",
+  "subtitle": "De Denver à Salt Lake City : Colorado, Grand Teton et Yellowstone, au rythme d'un bébé",
+  "travelers": ["En famille"],
+  "start": "2028-09-30",
+  "altStart": "2028-09-23",
+  "cover": "Grand Teton National Park",
+  "days": [
+    {
+      "n": 1,
+      "title": "Arrivée à Denver",
+      "summary": "Arrivée à Denver par vol direct depuis Paris-CDG. Prise du véhicule (SUV ou minivan), installation à l'hôtel et repos.",
+      "hero": "Denver",
+      "route": "drive",
+      "stops": [
+        { "name": "Aéroport de Denver (DEN)", "wiki": "Denver International Airport", "coords": [39.8561, -104.6737], "culture": "Ouvert en 1995, c'est l'un des plus vastes aéroports des États-Unis. Le toit blanc en toile de son terminal évoque les sommets enneigés des Rocheuses." }
+      ],
+      "stay": { "name": "Denver", "coords": [39.7392, -104.9903], "note": "Nuit à ~1 600 m" },
+      "transport": [{ "mode": "car", "text": "Aéroport > hôtel : ~30 min" }],
+      "notes": ["Contrecoup du décalage horaire (+8 h) : pas d'activités prévues ce jour-là."]
+    },
+    {
+      "n": 2,
+      "title": "Denver ➔ Estes Park",
+      "summary": "Route vers Estes Park, porte du Rocky Mountain National Park. Balade facile autour de Bear Lake, sous les trembles dorés.",
+      "route": "drive",
+      "stops": [
+        { "name": "Estes Park", "wiki": "Estes Park, Colorado", "culture": "Station de montagne à l'entrée du parc national des Montagnes Rocheuses. Le Stanley Hotel (1909), qui a inspiré à Stephen King son roman Shining, s'y trouve." },
+        { "name": "Bear Lake", "wiki": "Bear Lake (Colorado)", "coords": [40.3125, -105.6451], "culture": "Lac glaciaire à environ 2 900 m d'altitude, au pied de Hallett Peak. Un sentier d'environ 1 km en fait le tour." }
+      ],
+      "stay": { "name": "Estes Park", "coords": [40.3772, -105.5217], "note": "Nuit à ~2 300 m, début de l'acclimatation" },
+      "transport": [{ "mode": "car", "text": "~1 h 30 (105 km)" }],
+      "notes": ["Montée progressive en altitude : veiller à bien hydrater le bébé."]
+    },
+    {
+      "n": 3,
+      "title": "Trail Ridge Road, Rocky Mountain NP",
+      "summary": "Traversée panoramique sur la Trail Ridge Road, route d'altitude à 3 700 m. Vues spectaculaires sur la Continental Divide et la forêt dorée.",
+      "route": "drive",
+      "stops": [
+        { "name": "Trail Ridge Road", "wiki": "Trail Ridge Road", "coords": [40.4339, -105.7536], "culture": "Route d'environ 77 km qui culmine à 3 713 m, au-dessus de la limite des arbres. C'est l'une des routes goudronnées les plus hautes des États-Unis, fermée en hiver." },
+        { "name": "Milner Pass (Continental Divide)", "wiki": "Milner Pass", "culture": "Col à 3 279 m où la route franchit la ligne de partage des eaux : d'un côté les rivières coulent vers le Pacifique, de l'autre vers le golfe du Mexique." }
+      ],
+      "stay": { "name": "Estes Park", "coords": [40.3772, -105.5217], "note": "Nuit à ~2 300 m" },
+      "transport": [{ "mode": "car", "text": "~2 h sur la journée" }],
+      "notes": ["Route en haute altitude en journée : prévoir des habits chauds. On redescend dormir plus bas."]
+    },
+    {
+      "n": 4,
+      "title": "Estes Park ➔ Aspen / Glenwood",
+      "summary": "Route à travers les Rocheuses du Colorado. Arrêt optionnel au lac d'altitude Dillon Reservoir ou visite du village d'Aspen.",
+      "route": "drive",
+      "stops": [
+        { "name": "Dillon Reservoir", "wiki": "Dillon Reservoir", "culture": "Grand lac de barrage à environ 2 750 m d'altitude, qui alimente en eau la ville de Denver. Il offre une vue sur la chaîne Tenmile." },
+        { "name": "Aspen", "wiki": "Aspen, Colorado", "culture": "Ancienne ville minière d'argent devenue station de ski chic et rendez-vous des célébrités. Elle doit son nom aux trembles (aspens) qui l'entourent." }
+      ],
+      "stay": { "name": "Aspen / Glenwood Springs", "coords": [39.5505, -107.3248], "note": "Nuit entre ~2 000 et 2 400 m" },
+      "transport": [{ "mode": "car", "text": "~3 h 30 (250 km)" }],
+      "notes": ["Trajet un peu plus long, mais découpé en pauses régulières dans la montagne."]
+    },
+    {
+      "n": 5,
+      "title": "Maroon Bells ou Black Canyon, puis Montrose",
+      "summary": "Au choix : les Maroon Bells, pics sombres reflétés dans le lac au milieu des trembles jaunes, ou le Black Canyon of the Gunnison et ses falaises noires vertigineuses.",
+      "route": "none",
+      "parts": [
+        { "label": "Option A", "text": "Maroon Bells : pics sombres reflétés dans le lac, trembles jaunes." },
+        { "label": "Option B", "text": "Black Canyon of the Gunnison : falaises noires vertigineuses." }
+      ],
+      "stops": [
+        { "name": "Maroon Bells", "wiki": "Maroon Bells", "culture": "Deux pics jumeaux de plus de 4 200 m, parmi les montagnes les plus photographiées d'Amérique du Nord, reflétés dans Maroon Lake. L'accès se fait en navette en haute saison." },
+        { "name": "Black Canyon of the Gunnison", "wiki": "Black Canyon of the Gunnison National Park", "culture": "Canyon étroit aux parois de roche sombre, profond de plus de 800 m par endroits. Certaines parties reçoivent si peu de soleil que le fond reste dans l'ombre, d'où son nom." }
+      ],
+      "stay": { "name": "Montrose", "coords": [38.4783, -107.8762], "note": "Nuit à ~1 800 m" },
+      "transport": [{ "mode": "car", "text": "~3 h (220 km)" }],
+      "notes": ["Choix à adapter selon la réservation d'accès à Maroon Bells (navette obligatoire)."]
+    },
+    {
+      "n": 6,
+      "title": "Montrose ➔ Rock Springs : journée de transition",
+      "summary": "Journée « marathon » : traversée des grands espaces du sud du Wyoming, pour faire le lien entre le Colorado et Grand Teton.",
+      "route": "drive",
+      "stops": [
+        { "name": "Rock Springs", "wiki": "Rock Springs, Wyoming", "culture": "Ville née du charbon et du chemin de fer au milieu du désert du Wyoming. Ses mines ont attiré des ouvriers de dizaines de pays, ce qui lui vaut le surnom de « City of Diversity »." }
+      ],
+      "stay": { "name": "Rock Springs", "coords": [41.5875, -109.2029], "note": "Nuit à ~2 000 m" },
+      "transport": [{ "mode": "car", "text": "~5 h 30 à 6 h (520 km)" }],
+      "notes": ["Gros compromis de route : journée dédiée à la conduite, avec pauses biberon et poussette programmées."]
+    },
+    {
+      "n": 7,
+      "title": "Rock Springs ➔ Jackson",
+      "summary": "Arrivée dans la vallée de Jackson Hole. Première vue saisissante sur les dagues de granit du Grand Teton, qui jaillissent de la plaine.",
+      "route": "drive",
+      "stops": [
+        { "name": "Vallée de Jackson Hole", "wiki": "Jackson Hole", "culture": "Pour les trappeurs du XIXe siècle, un « hole » était une vallée encaissée entourée de montagnes. La place centrale de la ville de Jackson est ornée d'arches de bois de wapiti." },
+        { "name": "Chaîne du Grand Teton", "wiki": "Grand Teton", "culture": "Le Grand Teton culmine à 4 199 m et se dresse sans contreforts depuis la plaine. Son nom viendrait de « tétons », donné par des trappeurs francophones." }
+      ],
+      "stay": { "name": "Jackson", "coords": [43.4799, -110.7624], "note": "Nuit à ~1 900 m" },
+      "transport": [{ "mode": "car", "text": "~3 h (290 km)" }],
+      "notes": ["Transition de paysage brutale : du désert d'altitude à la haute montagne granitique."]
+    },
+    {
+      "n": 8,
+      "title": "Grand Teton National Park",
+      "summary": "Tour de Jenny Lake et de Mormon Row, ses granges historiques avec les pics en arrière-plan. Observation des élans et des wapitis au bord de la Snake River.",
+      "route": "drive",
+      "stops": [
+        { "name": "Jenny Lake", "wiki": "Jenny Lake", "culture": "Lac glaciaire nommé d'après Jenny Leigh, l'épouse shoshone d'un trappeur. Un bateau-navette permet de le traverser pour rejoindre les chutes de Hidden Falls." },
+        { "name": "Mormon Row", "wiki": "Mormon Row Historic District", "culture": "Hameau fondé par des colons mormons à la fin du XIXe siècle. Ses granges, comme la Moulton Barn, avec les Tetons en arrière-plan, comptent parmi les images les plus photographiées de l'Ouest américain." },
+        { "name": "Oxbow Bend (Snake River)", "wiki": "Snake River", "photo": "File:Oxbow Bend, Grand Teton National Park (9965544863).jpg", "coords": [43.8650, -110.5120], "culture": "Méandre de la Snake River aux eaux calmes, qui reflète le mont Moran. On y observe souvent élans, pélicans et pygargues à tête blanche." }
+      ],
+      "stay": { "name": "Jackson", "coords": [43.4799, -110.7624], "note": "Nuit à ~1 900 m" },
+      "transport": [{ "mode": "car", "text": "~1 h 30 sur la journée" }],
+      "notes": ["Balades très plates dans le fond de la vallée, idéales avec la poussette ou le porte-bébé."]
+    },
+    {
+      "n": 9,
+      "title": "Grand Teton ➔ Yellowstone (sud)",
+      "summary": "Entrée par le sud de Yellowstone. Visite du bassin d'Old Faithful et du Grand Prismatic Spring, source aux couleurs néon.",
+      "route": "drive",
+      "stops": [
+        { "name": "Old Faithful", "wiki": "Old Faithful", "culture": "Le geyser le plus célèbre du monde jaillit environ toutes les 90 minutes, à plus de 30 m de haut. L'Old Faithful Inn (1904) est l'un des plus grands bâtiments en rondins du monde." },
+        { "name": "Grand Prismatic Spring", "wiki": "Grand Prismatic Spring", "culture": "La plus grande source chaude des États-Unis, large de plus de 100 m. Ses anneaux orange, jaune et vert viennent de bactéries qui vivent dans l'eau chaude." }
+      ],
+      "stay": { "name": "West Thumb / lac Yellowstone", "coords": [44.4160, -110.5740], "note": "Nuit à ~2 200 m" },
+      "transport": [{ "mode": "car", "text": "~2 h (120 km)" }],
+      "notes": ["Passerelles en bois très faciles en poussette. Odeur de soufre autour des geysers."]
+    },
+    {
+      "n": 10,
+      "title": "Yellowstone : Norris et le Grand Canyon",
+      "summary": "Exploration du Norris Geyser Basin (sources bouillonnantes) et du Grand Canyon de la Yellowstone, avec ses cascades dans la roche ocre et jaune.",
+      "route": "drive",
+      "stops": [
+        { "name": "Norris Geyser Basin", "wiki": "Geothermal areas of Yellowstone", "photo": "File:Porcelain Basin Norris YNP2.jpg", "coords": [44.7266, -110.7036], "culture": "Le bassin géothermique le plus chaud et le plus ancien de Yellowstone. Il abrite le Steamboat Geyser, le plus haut geyser actif du monde, dont les éruptions rares et imprévisibles dépassent 90 m." },
+        { "name": "Grand Canyon de la Yellowstone", "wiki": "Grand Canyon of the Yellowstone", "culture": "Gorge de 32 km de long, aux parois jaunes et ocre colorées par la roche hydrothermale. Les Lower Falls tombent de 94 m, bien plus haut que les chutes du Niagara. Le parc doit son nom à ces roches jaunes." }
+      ],
+      "stay": { "name": "Yellowstone (centre)", "coords": [44.7357, -110.4958], "note": "Nuit à ~2 200 m" },
+      "transport": [{ "mode": "car", "text": "~2 h 30 sur la journée" }],
+      "notes": ["Matins frais, avec de petites gelées possibles : habiller bébé en plusieurs couches."]
+    },
+    {
+      "n": 11,
+      "title": "Yellowstone : Lamar Valley",
+      "summary": "Excursion tôt le matin dans la Lamar Valley, le « Serengeti de l'Amérique » : grands troupeaux de bisons en liberté.",
+      "route": "drive",
+      "stops": [
+        { "name": "Lamar Valley", "wiki": "Lamar Valley", "culture": "Surnommée le « Serengeti de l'Amérique », elle abrite de grands troupeaux de bisons, des grizzlis et des loups, réintroduits dans le parc en 1995. Les meilleurs moments d'observation sont l'aube et le crépuscule." }
+      ],
+      "stay": { "name": "Yellowstone (nord)", "coords": [44.9100, -110.4140], "note": "Nuit entre ~2 000 et 2 200 m" },
+      "transport": [{ "mode": "car", "text": "~2 h 30 sur la journée" }],
+      "notes": ["Les bisons peuvent bloquer la route (« bison jam ») : garder de la marge dans le timing."]
+    },
+    {
+      "n": 12,
+      "title": "Yellowstone : Mammoth Hot Springs",
+      "summary": "Visite des terrasses calcaires blanches de Mammoth Hot Springs. Journée au rythme fluide, pour revoir ses endroits préférés du parc.",
+      "route": "drive",
+      "stops": [
+        { "name": "Mammoth Hot Springs", "wiki": "Mammoth Hot Springs", "culture": "Terrasses de travertin blanc formées par l'eau chaude chargée de calcaire, en changement permanent. L'armée américaine y a administré le parc, depuis Fort Yellowstone, de 1886 à 1918." }
+      ],
+      "stay": { "name": "Mammoth Hot Springs", "coords": [44.9764, -110.7026], "note": "Nuit entre ~1 900 et 2 200 m" },
+      "transport": [{ "mode": "car", "text": "~2 h sur la journée" }],
+      "notes": ["Dernier jour à Yellowstone : idéal pour faire des pauses selon la fatigue accumulée."]
+    },
+    {
+      "n": 13,
+      "title": "Yellowstone ➔ Pocatello / Bear Lake",
+      "summary": "Sortie sud-ouest de Yellowstone. Route de liaison paisible à travers l'Idaho, vers les paysages préalpins de Bear Lake.",
+      "hero": "Bear Lake (Idaho–Utah)",
+      "route": "drive",
+      "stops": [],
+      "stay": { "name": "Pocatello / Bear Lake", "coords": [42.8713, -112.4455], "note": "Nuit entre ~1 300 et 1 800 m, descente progressive" },
+      "transport": [{ "mode": "car", "text": "~3 h 30 (320 km)" }],
+      "notes": ["Étape intermédiaire pour éviter un long trajet direct jusqu'à Salt Lake City."]
+    },
+    {
+      "n": 14,
+      "title": "Pocatello ➔ Salt Lake City",
+      "summary": "Arrivée au Grand Lac Salé. Visite du centre de Salt Lake City (Temple Square, vues sur les montagnes Wasatch) et préparation des bagages.",
+      "route": "drive",
+      "stops": [
+        { "name": "Grand Lac Salé", "wiki": "Great Salt Lake", "coords": [40.7367, -112.2055], "culture": "Le plus grand lac salé de l'hémisphère occidental. Sa salinité, bien supérieure à celle de l'océan, ne laisse vivre que des crevettes de saumure et des algues, et fait flotter les baigneurs." },
+        { "name": "Temple Square", "wiki": "Temple Square", "culture": "Cœur historique de l'Église de Jésus-Christ des Saints des Derniers Jours, fondée par des pionniers mormons arrivés en 1847. Le Temple, en granit, a été achevé en 1893 après quarante ans de travaux." },
+        { "name": "Montagnes Wasatch", "wiki": "Wasatch Range", "coords": [40.7928, -111.8857], "culture": "La chaîne qui domine la ville frôle les 3 600 m. Ses stations de ski, dont Park City et Deer Valley, ont accueilli des épreuves des Jeux olympiques d'hiver de 2002." }
+      ],
+      "stay": { "name": "Salt Lake City", "coords": [40.7608, -111.8910], "note": "Nuit à ~1 300 m" },
+      "transport": [{ "mode": "car", "text": "~2 h 30 (260 km)" }],
+      "notes": ["Fin du road trip : prévoir la logistique de restitution de la voiture de location."]
+    },
+    {
+      "n": 15,
+      "title": "Retour à Paris",
+      "summary": "Matinée libre, enregistrement à l'aéroport de Salt Lake City, puis vol direct vers Paris-CDG.",
+      "hero": "Wasatch Range",
+      "route": "drive",
+      "stops": [
+        { "name": "Aéroport de Salt Lake City (SLC)", "wiki": "Salt Lake City International Airport", "culture": "Un des grands hubs de la compagnie Delta. L'aéroport, entièrement reconstruit et rouvert en 2020, offre de belles vues sur les montagnes Wasatch." }
+      ],
+      "stay": null,
+      "end": "Vol direct vers Paris-CDG",
+      "transport": [{ "mode": "car", "text": "Trajet jusqu'à l'aéroport : ~20 min" }],
+      "notes": ["Un vol retour de nuit est très pratique pour le sommeil de l'enfant."]
+    }
+  ]
+}

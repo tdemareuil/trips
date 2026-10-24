@@ -1,0 +1,514 @@
+'use strict';
+
+const STYLE_URL = 'https://tiles.openfreemap.org/styles/liberty';
+const MODE_LABEL = { car: 'Route', transit: 'Transports' };
+
+const app = document.getElementById('app');
+const topbar = document.getElementById('topbar');
+
+let data = null;      // { trips, images, routes }
+let current = null;   // mounted view: { kind, tripId, goTo?, destroy }
+
+// --- Helpers ---------------------------------------------------------------
+
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const clamp = (v, lo, hi) => Math.min(Math.max(v, lo), hi);
+const fc = features => ({ type: 'FeatureCollection', features });
+const EMPTY = fc([]);
+
+// Wikimedia only serves a fixed set of thumbnail widths (500, 960, 1280, 1920...).
+const thumb = (url, w) => (url ? url.replace(/\/\d+px-/, `/${w}px-`) : null);
+
+// Teal at the start of the trip, coral at the end.
+const dayColor = (i, n) => `hsl(${Math.round(190 - 175 * (n > 1 ? i / (n - 1) : 0))}, 85%, 41%)`;
+
+// Dates are computed in UTC so the displayed day never shifts with the viewer's timezone.
+const dateFmt = opts => new Intl.DateTimeFormat('fr-FR', { timeZone: 'UTC', ...opts });
+const LONG_DATE = dateFmt({ weekday: 'long', day: 'numeric', month: 'long' });
+const SHORT_DATE = dateFmt({ weekday: 'short', day: 'numeric', month: 'short' });
+const RANGE_DATE = dateFmt({ day: 'numeric', month: 'long', year: 'numeric' });
+const capitalize = s => s.charAt(0).toUpperCase() + s.slice(1);
+const addDays = (d, n) => new Date(d.getTime() + n * 86400000);
+
+// --- Data ------------------------------------------------------------------
+
+async function loadData() {
+  const getJson = url => fetch(url).then(r => (r.ok ? r.json() : {}));
+  const [index, images, routes] = await Promise.all([
+    getJson('data/trips.json'), getJson('data/images.json'), getJson('data/routes.json'),
+  ]);
+  const list = await Promise.all(index.map(id => getJson(`data/trips/${id}.json`)));
+  data = { trips: {}, images, routes };
+  list.forEach(trip => { hydrate(trip); data.trips[trip.id] = trip; });
+  data.order = index;
+}
+
+// Attach photos, positions and route geometry to a trip, in place.
+function hydrate(trip) {
+  const img = key => (key && data.images[key]?.url ? data.images[key] : null);
+  const lngLat = (coords, wiki) => {
+    if (coords) return [coords[1], coords[0]];
+    const a = data.images[wiki];
+    return a && a.lat != null ? [a.lon, a.lat] : null;
+  };
+  trip.coverImg = img(trip.cover);
+  const start = trip.start ? new Date(`${trip.start}T00:00:00Z`) : null;
+  if (start) trip.range = RANGE_DATE.formatRange(start, addDays(start, trip.days.length - 1));
+  if (trip.altStart) trip.altLabel = LONG_DATE.format(new Date(`${trip.altStart}T00:00:00Z`));
+  trip.days.forEach((day, i) => {
+    const qualifier = (day.weekday || '').split(' ').slice(1);
+    day.dateLong = start ? capitalize(LONG_DATE.format(addDays(start, i))) : (day.weekday || '');
+    day.dateShort = start ? capitalize(SHORT_DATE.format(addDays(start, i))) : (day.weekday || '');
+    day.when = start ? qualifier.join(' ') : ''; // "soir" in "Mercredi soir"
+    day.color = dayColor(i, trip.days.length);
+    day.stops.forEach(s => { s.img = img(s.photo || s.wiki); s.pos = lngLat(s.coords, s.wiki); });
+    if (day.stay) day.stay.pos = lngLat(day.stay.coords, day.stay.wiki);
+    day.bg = img(day.hero) || day.stops.map(s => s.img).find(Boolean) || trip.coverImg;
+
+    const line = data.routes[trip.id]?.[day.n]?.line;
+    const prev = trip.days[i - 1]?.stay?.pos;
+    day.dashed = !line;
+    day.path = line || [prev, ...day.stops.map(s => s.pos), day.stay?.pos].filter(Boolean);
+  });
+}
+
+// --- Map helpers -----------------------------------------------------------
+
+const pointFeature = (pos, props) => ({ type: 'Feature', properties: props, geometry: { type: 'Point', coordinates: pos } });
+
+function tripFeatures(trip) {
+  const routes = [];
+  const points = [];
+  const seenStays = new Set();
+  trip.days.forEach(day => {
+    if (day.path.length > 1) {
+      routes.push({ type: 'Feature', properties: { day: day.n, color: day.color, dashed: day.dashed }, geometry: { type: 'LineString', coordinates: day.path } });
+    }
+    day.stops.forEach(s => {
+      if (s.pos) points.push(pointFeature(s.pos, { day: day.n, color: day.color, kind: 'stop', name: s.name, img: thumb(s.img?.url, 500) || '' }));
+    });
+    const stay = day.stay;
+    if (stay?.pos && !seenStays.has(stay.name)) {
+      seenStays.add(stay.name);
+      points.push(pointFeature(stay.pos, { day: day.n, color: day.color, kind: 'stay', name: `Nuit : ${stay.name}`, img: '' }));
+    }
+  });
+  return { routes: fc(routes), points: fc(points) };
+}
+
+function addTripLayers(map, trip) {
+  const { routes, points } = tripFeatures(trip);
+  const layout = { 'line-cap': 'round', 'line-join': 'round' };
+  // A cream veil over the basemap (below its labels) tones down its greens and blues
+  // while routes and points, added after, keep their colours.
+  const firstLabel = map.getStyle().layers.find(l => l.type === 'symbol')?.id;
+  map.addLayer({ id: 'veil', type: 'background', paint: { 'background-color': '#f5f2ea', 'background-opacity': 0.4 } }, firstLabel);
+  map.addSource('routes', { type: 'geojson', data: routes });
+  map.addSource('points', { type: 'geojson', data: points });
+  map.addSource('active', { type: 'geojson', data: EMPTY });
+  map.addLayer({ id: 'routes', type: 'line', source: 'routes', filter: ['==', ['get', 'dashed'], false], layout, paint: { 'line-color': ['get', 'color'], 'line-width': 3, 'line-opacity': 0.4 } });
+  map.addLayer({ id: 'routes-dashed', type: 'line', source: 'routes', filter: ['==', ['get', 'dashed'], true], layout, paint: { 'line-color': ['get', 'color'], 'line-width': 2.5, 'line-opacity': 0.4, 'line-dasharray': [1, 2] } });
+  map.addLayer({ id: 'active-glow', type: 'line', source: 'active', layout, paint: { 'line-color': ['get', 'color'], 'line-width': 14, 'line-blur': 10, 'line-opacity': 0.5 } });
+  map.addLayer({ id: 'active', type: 'line', source: 'active', layout, paint: { 'line-color': ['get', 'color'], 'line-width': 4.5 } });
+  map.addLayer({
+    id: 'points', type: 'circle', source: 'points',
+    paint: {
+      'circle-radius': ['case', ['==', ['get', 'kind'], 'stay'], 6, 4.5],
+      'circle-color': ['get', 'color'],
+      'circle-stroke-color': '#ffffff',
+      'circle-stroke-width': 1.5,
+      'circle-opacity': 0.8,
+      'circle-stroke-opacity': 0.8,
+    },
+  });
+  map.on('mouseenter', 'points', () => { map.getCanvas().style.cursor = 'pointer'; });
+  map.on('mouseleave', 'points', () => { map.getCanvas().style.cursor = ''; });
+  map.on('click', 'points', e => {
+    const f = e.features[0];
+    new maplibregl.Popup({ offset: 12, closeButton: false, maxWidth: '240px' })
+      .setLngLat(f.geometry.coordinates).setHTML(popupHTML(trip, f.properties)).addTo(map);
+  });
+}
+
+function createMap(container, trip) {
+  const map = new maplibregl.Map({ container, style: STYLE_URL, center: [-119.5, 36.5], zoom: 5, attributionControl: false });
+  map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
+  map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
+  const ready = new Promise(resolve => map.on('load', () => {
+    addTripLayers(map, trip);
+    resolve();
+  }));
+  return { map, ready };
+}
+
+function popupHTML(trip, p) {
+  const day = trip.days[p.day - 1];
+  return `<div class="pop">
+    ${p.img ? `<img src="${esc(p.img)}" alt="" onerror="this.remove()">` : ''}
+    <div class="pop-body"><strong>${esc(p.name)}</strong><span>Jour ${day.n}${day.dateLong ? ` · ${esc(day.dateLong)}` : ''}</span><a href="#/${trip.id}/${day.n}">Voir le jour →</a></div>
+  </div>`;
+}
+
+const boundsOf = positions => positions.reduce((b, p) => b.extend(p), new maplibregl.LngLatBounds());
+const tripPositions = trip => trip.days.flatMap(d => d.path);
+
+function setLayerOpacity(map, { routes, points }) {
+  ['routes', 'routes-dashed'].forEach(id => map.setPaintProperty(id, 'line-opacity', routes));
+  map.setPaintProperty('points', 'circle-opacity', points);
+  map.setPaintProperty('points', 'circle-stroke-opacity', points);
+}
+
+// Reveal the first fraction f (0..1) of a path, interpolating the last segment.
+function pathUpTo(path, f) {
+  const x = f * (path.length - 1);
+  const k = Math.floor(x);
+  const out = path.slice(0, k + 1);
+  if (k < path.length - 1) {
+    const [a, b] = [path[k], path[k + 1]];
+    const r = x - k;
+    out.push([a[0] + (b[0] - a[0]) * r, a[1] + (b[1] - a[1]) * r]);
+  }
+  return out;
+}
+
+function drawRoute(map, day, anim) {
+  cancelAnimationFrame(anim.raf);
+  const src = map.getSource('active');
+  map.setPaintProperty('active', 'line-dasharray', day.dashed ? [1, 2] : [1, 0]);
+  if (day.path.length < 2) { src.setData(EMPTY); return; }
+  const feature = coords => fc([{ type: 'Feature', properties: { color: day.color }, geometry: { type: 'LineString', coordinates: coords } }]);
+  const t0 = performance.now();
+  const duration = day.dashed ? 900 : 1800;
+  const step = now => {
+    const t = clamp((now - t0) / duration, 0, 1); // rAF timestamps can precede t0
+    src.setData(feature(pathUpTo(day.path, 1 - Math.pow(1 - t, 3))));
+    if (t < 1) anim.raf = requestAnimationFrame(step);
+  };
+  anim.raf = requestAnimationFrame(step);
+}
+
+function pinMarker(label, color, { stay = false, delay = 0 } = {}) {
+  const el = document.createElement('div');
+  el.className = 'pin-wrap';
+  el.innerHTML = `<div class="pin${stay ? ' stay' : ''}" style="--c:${color};animation-delay:${delay}ms"><span>${label}</span></div>`;
+  return el;
+}
+
+// --- Router ----------------------------------------------------------------
+
+function renderTopbar(trip) {
+  const crumb = trip ? `<span class="crumb">${esc(trip.title)}</span>` : '';
+  topbar.innerHTML = `<a class="brand" href="#/">Trips</a>${crumb}`;
+}
+
+function route() {
+  const [id, arg] = location.hash.replace(/^#\/?/, '').split('/');
+  const trip = data.trips[id];
+  if (!trip) return show('home');
+  show('story', trip, clamp(parseInt(arg, 10) || 0, 0, trip.days.length));
+}
+
+function show(kind, trip, slide) {
+  if (current && kind === 'story' && current.kind === 'story' && current.tripId === trip.id) {
+    current.goTo(slide);
+    return;
+  }
+  if (current) current.destroy();
+  app.innerHTML = '';
+  window.scrollTo(0, 0);
+  renderTopbar(trip);
+  document.title = trip ? `${trip.title} · Trips` : 'Trips';
+  current = kind === 'home' ? mountHome() : mountStory(trip, slide);
+}
+
+// --- Home ------------------------------------------------------------------
+
+function mountHome() {
+  const cards = data.order.map(id => {
+    const t = data.trips[id];
+    const bg = t.coverImg ? `style="--img:url('${thumb(t.coverImg.url, 1280)}')"` : '';
+    return `<a class="trip-card" href="#/${t.id}" ${bg}>
+      <span class="meta">${t.days.length} jours</span>
+      <h2>${esc(t.title)}</h2>
+      <p>${esc(t.subtitle)}</p>
+    </a>`;
+  }).join('');
+  app.innerHTML = `<section class="home">
+    <p class="eyebrow">Prochains voyages</p>
+    <h1 class="title big">Où va-t-on ensuite ?</h1>
+    <p class="lead">Itinéraires jour par jour, cartes et photos.</p>
+    <div class="cards">${cards}</div>
+  </section>`;
+  return { kind: 'home', destroy() {} };
+}
+
+// --- Story -----------------------------------------------------------------
+
+function mountStory(trip, start) {
+  const days = trip.days;
+  const N = days.length;
+  const credit = '<p class="credits">Photos : Wikipédia / Wikimedia Commons, sous licences libres. Le © de chaque photo renvoie à son auteur.</p>';
+
+  const dots = ['Aperçu', ...days.map(d => `Jour ${d.n}${d.dateLong ? ` · ${d.dateLong}` : ''}`)].map((label, i) => `
+    <a class="dot" href="#/${trip.id}/${i}" data-i="${i}" data-label="${esc(label)}" style="left:${(i / N) * 100}%;--c:${i ? days[i - 1].color : '#1b2130'}" aria-label="${esc(label)}">${i || '◎'}</a>`).join('');
+
+  app.innerHTML = `<section class="story">
+    <div class="bg"><div class="bg-layer"></div><div class="bg-layer"></div></div>
+    <div class="stage">
+      <article class="card" aria-live="polite"></article>
+      <div class="map-panel"><div class="map"></div><button class="map-reset" type="button">Vue du jour</button></div>
+    </div>
+    <button class="nav nav-prev" type="button" aria-label="Jour précédent">‹</button>
+    <button class="nav nav-next" type="button" aria-label="Jour suivant">›</button>
+    <nav class="rail">
+      <button class="rail-btn" data-d="-1" type="button" aria-label="Jour précédent">‹</button>
+      <div class="track"><div class="track-fill"></div>${dots}</div>
+      <button class="rail-btn" data-d="1" type="button" aria-label="Jour suivant">›</button>
+    </nav>
+  </section>`;
+
+  const $ = sel => app.querySelector(sel);
+  const card = $('.card');
+  const stage = $('.stage');
+  const layers = [...app.querySelectorAll('.bg-layer')];
+  const { map, ready } = createMap($('.map'), trip);
+  const anim = { raf: 0 };
+  let idx = -1;
+  let front = 0;
+  let bgToken = 0;
+  let markers = [];
+
+  const go = delta => {
+    let j = idx + delta;
+    if (j > N) j = 0; // right of the last day: back to the overview
+    j = clamp(j, 0, N);
+    if (j !== idx) location.hash = `#/${trip.id}/${j}`;
+  };
+
+  // --- Background photo, cross-faded
+  function setBg(img) {
+    const url = img ? thumb(img.url, 1920) : null;
+    const token = ++bgToken;
+    const swap = () => {
+      if (token !== bgToken) return;
+      const next = layers[1 - front];
+      next.style.backgroundImage = url ? `url("${url}")` : '';
+      next.classList.add('on');
+      layers[front].classList.remove('on');
+      front = 1 - front;
+    };
+    if (!url) { swap(); return; }
+    const im = new Image();
+    im.onload = swap;
+    im.onerror = swap;
+    im.src = url;
+  }
+
+  // --- Card
+  function introHTML() {
+    const stats = [
+      [N, 'jours'],
+      [days.filter(d => d.stay).length, 'nuits'],
+    ].map(([n, label]) => `<div><dt>${n}</dt><dd>${label}</dd></div>`).join('');
+    const list = days.map(d => `
+      <li><a href="#/${trip.id}/${d.n}" style="--c:${d.color}"><span class="swatch"></span><b>${d.n}</b><span>${esc(d.title)}</span>${d.dateShort ? `<time>${esc(d.dateShort)}</time>` : ''}</a></li>`).join('');
+    return `
+      <p class="eyebrow">${esc(trip.travelers.join(' & '))}</p>
+      <h1 class="title big">${esc(trip.title)}</h1>
+      ${trip.range ? `<p class="dates">${esc(trip.range)}</p>` : ''}
+      ${trip.altLabel ? `<p class="alt-dates">Option : départ le ${esc(trip.altLabel)}</p>` : ''}
+      <p class="lead">${esc(trip.subtitle)}</p>
+      <dl class="stats">${stats}</dl>
+      <a class="cta" href="#/${trip.id}/1">Commencer le voyage <span>→</span></a>
+      <h2 class="section">Vue d'ensemble</h2>
+      <ol class="overview">${list}</ol>
+      ${credit}`;
+  }
+
+  function dayHTML(day) {
+    const parts = day.parts ? `<ul class="parts">${day.parts.map(p => `<li><b>${esc(p.label)}</b><span>${esc(p.text)}</span></li>`).join('')}</ul>` : '';
+    const stops = day.stops.map((s, k) => {
+      const article = data.images[s.wiki];
+      const text = s.culture || article?.extract;
+      return `
+      <div class="stop" data-k="${k}" tabindex="0" role="button" aria-pressed="false" aria-label="${esc(s.name)}">
+        <div class="flip">
+          <div class="face front">
+            ${s.img ? `<img src="${thumb(s.img.url, 500)}" alt="${esc(s.name)}" loading="lazy" onload="this.classList.add('loaded')" onerror="this.remove()">` : ''}
+            <span class="num" style="--c:${day.color}">${k + 1}</span>
+            <span class="name">${esc(s.name)}</span>
+            <span class="hint" aria-hidden="true">↻</span>
+            ${s.img ? `<a class="credit" href="${esc(s.img.page)}" target="_blank" rel="noopener" title="${esc(`Photo : ${s.img.artist || 'Wikimedia Commons'} · ${s.img.license}`)}">©</a>` : ''}
+          </div>
+          <div class="face back" style="--c:${day.color}">
+            <h3>${esc(s.name)}</h3>
+            <p>${esc(text || 'Pas encore de notes sur ce lieu.')}</p>
+            ${article?.article ? `<a href="${esc(article.article)}" target="_blank" rel="noopener">Wikipédia →</a>` : ''}
+          </div>
+        </div>
+      </div>`;
+    }).join('');
+    const stay = day.stay
+      ? `<div class="stay"><span class="glyph">☾</span><div><small>${esc(day.stay.note || 'Nuit à')}</small><b>${esc(day.stay.name)}</b></div></div>`
+      : day.end ? `<div class="stay"><span class="glyph">✈</span><div><small>Fin du voyage</small><b>${esc(day.end)}</b></div></div>` : '';
+    const transport = (day.transport || []).map(t => `<li><span class="mode">${MODE_LABEL[t.mode] || ''}</span>${esc(t.text)}</li>`).join('');
+    return `
+      <p class="eyebrow" style="--c:${day.color}"><span class="swatch"></span>Jour ${day.n}</p>
+      ${day.dateLong ? `<p class="date" style="--c:${day.color}">${esc(day.dateLong)}${day.when ? ` <small>${esc(day.when)}</small>` : ''}</p>` : ''}
+      <h1 class="title">${esc(day.title)}</h1>
+      <p class="lead">${esc(day.summary)}</p>
+      ${parts}
+      ${day.stops.length ? `<h2 class="section">Lieux</h2><div class="stops">${stops}</div>` : ''}
+      ${stay}
+      ${transport ? `<ul class="transport">${transport}</ul>` : ''}
+      ${day.notes?.length ? `<ul class="notes">${day.notes.map(n => `<li>${esc(n)}</li>`).join('')}</ul>` : ''}
+      ${credit}`;
+  }
+
+  function renderCard(i, dir) {
+    card.innerHTML = i === 0 ? introHTML() : dayHTML(days[i - 1]);
+    card.dataset.dir = dir;
+    [...card.children].forEach((c, n) => c.style.setProperty('--n', n));
+    card.scrollTop = 0;
+    stage.scrollTop = 0;
+    card.classList.remove('enter');
+    void card.offsetWidth; // restart the CSS entrance animation
+    card.classList.add('enter');
+  }
+
+  // --- Rail
+  function updateRail(i) {
+    $('.track-fill').style.width = `${(i / N) * 100}%`;
+    app.querySelectorAll('.dot').forEach(d => {
+      const n = +d.dataset.i;
+      d.classList.toggle('on', n === i);
+      d.classList.toggle('past', n < i);
+      d.toggleAttribute('aria-current', n === i);
+    });
+    $('.nav-prev').disabled = i === 0;
+    const last = i === N;
+    app.querySelectorAll('.nav-next, .rail-btn[data-d="1"]').forEach(b => {
+      b.textContent = last ? '↺' : '›';
+      b.setAttribute('aria-label', last ? "Retour à l'aperçu" : 'Jour suivant');
+    });
+    app.querySelector('.rail-btn[data-d="-1"]').disabled = i === 0;
+  }
+
+  // --- Map
+  function fitDay(day) {
+    const positions = [...day.path, ...day.stops.map(s => s.pos), day.stay?.pos].filter(Boolean);
+    map.fitBounds(boundsOf(positions), { padding: 70, maxZoom: 12, pitch: 30, bearing: 0, duration: 1800 });
+  }
+
+  async function updateMap(i) {
+    await ready;
+    if (i !== idx) return;
+    markers.forEach(m => m.remove());
+    markers = [];
+    $('.map-reset').classList.toggle('show', i > 0);
+    if (i === 0) {
+      cancelAnimationFrame(anim.raf);
+      map.getSource('active').setData(EMPTY);
+      setLayerOpacity(map, { routes: 0.75, points: 0.9 });
+      map.fitBounds(boundsOf(tripPositions(trip)), { padding: 50, pitch: 0, bearing: 0, duration: 2000 });
+      return;
+    }
+    const day = days[i - 1];
+    setLayerOpacity(map, { routes: 0.15, points: ['case', ['==', ['get', 'day'], day.n], 0, 0.5] });
+    day.stops.forEach((s, k) => {
+      if (s.pos) markers.push(new maplibregl.Marker({ element: pinMarker(k + 1, day.color, { delay: 300 + k * 130 }) }).setLngLat(s.pos).addTo(map));
+    });
+    if (day.stay?.pos) {
+      markers.push(new maplibregl.Marker({ element: pinMarker('☾', day.color, { stay: true, delay: 300 + day.stops.length * 130 }) }).setLngLat(day.stay.pos).addTo(map));
+    }
+    drawRoute(map, day, anim);
+    fitDay(day);
+  }
+
+  function focusStop(k) {
+    const pos = days[idx - 1]?.stops[k]?.pos;
+    if (pos) map.flyTo({ center: pos, zoom: 12.5, pitch: 45, duration: 1400 });
+  }
+
+  function hotStop(k, on) {
+    const pin = markers[k]?.getElement().querySelector('.pin');
+    if (pin) pin.classList.toggle('hot', on);
+  }
+
+  // --- Navigation
+  function goTo(i) {
+    i = clamp(i, 0, N);
+    if (i === idx) return;
+    const dir = i > idx || (idx === N && i === 0) ? 'next' : 'prev';
+    idx = i;
+    setBg(i === 0 ? trip.coverImg : days[i - 1].bg);
+    renderCard(i, dir);
+    updateRail(i);
+    updateMap(i);
+  }
+
+  const onKey = e => {
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+    if (e.key === 'ArrowRight') go(1);
+    else if (e.key === 'ArrowLeft') go(-1);
+    else if (e.key === 'Home') go(-idx);
+    else if (e.key === 'End') go(N - idx);
+  };
+  document.addEventListener('keydown', onKey);
+
+  $('.nav-prev').addEventListener('click', () => go(-1));
+  $('.nav-next').addEventListener('click', () => go(1));
+  app.querySelectorAll('.rail-btn').forEach(b => b.addEventListener('click', () => go(+b.dataset.d)));
+  $('.map-reset').addEventListener('click', () => idx > 0 && fitDay(days[idx - 1]));
+
+  // A tile flips to its cultural note; flipping it also flies the map to the place.
+  function toggleStop(stop) {
+    const flipped = stop.classList.toggle('flipped');
+    stop.setAttribute('aria-pressed', flipped);
+    if (flipped) focusStop(+stop.dataset.k);
+  }
+  card.addEventListener('click', e => {
+    const stop = e.target.closest('.stop');
+    if (stop && !e.target.closest('a')) toggleStop(stop);
+  });
+  card.addEventListener('keydown', e => {
+    const stop = e.target.closest('.stop');
+    if (stop && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); toggleStop(stop); }
+  });
+  card.addEventListener('mouseover', e => { const s = e.target.closest('.stop'); if (s) hotStop(+s.dataset.k, true); });
+  card.addEventListener('mouseout', e => { const s = e.target.closest('.stop'); if (s) hotStop(+s.dataset.k, false); });
+
+  // Swipe left/right on the text side to change day (the map keeps its own gestures).
+  let touch = null;
+  stage.addEventListener('touchstart', e => {
+    touch = e.target.closest('.map-panel') ? null : [e.touches[0].clientX, e.touches[0].clientY];
+  }, { passive: true });
+  stage.addEventListener('touchend', e => {
+    if (!touch) return;
+    const dx = e.changedTouches[0].clientX - touch[0];
+    const dy = e.changedTouches[0].clientY - touch[1];
+    touch = null;
+    if (Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy) * 1.5) go(dx < 0 ? 1 : -1);
+  });
+
+  goTo(start);
+  return {
+    kind: 'story',
+    tripId: trip.id,
+    goTo,
+    destroy() {
+      document.removeEventListener('keydown', onKey);
+      cancelAnimationFrame(anim.raf);
+      map.remove();
+    },
+  };
+}
+
+// --- Boot ------------------------------------------------------------------
+
+loadData().then(() => {
+  window.addEventListener('hashchange', route);
+  route();
+}).catch(err => {
+  app.innerHTML = `<p class="lead" style="padding:120px 24px">Impossible de charger les voyages : ${esc(err.message)}</p>`;
+});

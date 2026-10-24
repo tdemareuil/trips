@@ -1,0 +1,688 @@
+{
+ "Apple Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/1920px-Aerial_view_of_Apple_Park_dllu.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Apple_Park_dllu.jpg",
+  "artist": "Daniel L. Lu (user:dllu)",
+  "license": "CC BY-SA 4.0",
+  "lat": 37.3349,
+  "lon": -122.009,
+  "extract": "Apple Park, nommé Apple Campus 2 durant sa construction, est le siège social d'Apple situé à Cupertino en Californie depuis avril 2017 remplaçant l'Apple Campus ou Infinite Loop, l'ancien campus d'Apple.",
+  "article": "https://fr.wikipedia.org/wiki/Apple_Park"
+ },
+ "Bixby Creek Bridge": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bixby_Creek_Bridge%2C_California%2C_USA_-_May_2013.jpg/1920px-Bixby_Creek_Bridge%2C_California%2C_USA_-_May_2013.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bixby_Creek_Bridge,_California,_USA_-_May_2013.jpg",
+  "artist": "Diliff",
+  "license": "CC BY-SA 3.0",
+  "lat": 36.37139,
+  "lon": -121.90194,
+  "extract": "Le pont de Bixby Creek est un pont en arc en béton armé situé sur la côte de Big Sur, en Californie, à 190 km au sud de San Francisco et 21 km au sud de Carmel-by-the-Sea, dans le comté de Monterey.",
+  "article": "https://fr.wikipedia.org/wiki/Bixby_Creek_Bridge"
+ },
+ "Cambria, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Delosperma_cooperi_plantings_at_waterfront%2C_Cambria_Calif.JPEG/1920px-Delosperma_cooperi_plantings_at_waterfront%2C_Cambria_Calif.JPEG",
+  "page": "https://commons.wikimedia.org/wiki/File:Delosperma_cooperi_plantings_at_waterfront,_Cambria_Calif.JPEG",
+  "artist": "Peter D. Tillman",
+  "license": "CC BY-SA 2.0",
+  "lat": 35.55417,
+  "lon": -121.0875,
+  "extract": "Cambria est une census-designated place située dans le comté de San Luis Obispo, dans l’État de Californie, aux États-Unis. Cambria comptait 6 032 habitants lors du recensement de 2010.",
+  "article": "https://fr.wikipedia.org/wiki/Cambria_(Californie)"
+ },
+ "Carmel-by-the-Sea, California": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Carmel_Mission_Church.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Carmel_Mission_Church.jpg",
+  "artist": "McGhiever",
+  "license": "CC BY-SA 4.0",
+  "lat": 36.55528,
+  "lon": -121.92333,
+  "extract": "Carmel-by-the-Sea est une ville américaine située dans le comté de Monterey, dans l'État de Californie, à environ 150 km au sud de San Francisco, sur la côte centrale. D'après le recensement des États-Unis de 2010, sa population s'élève à 3 722 habitants.",
+  "article": "https://fr.wikipedia.org/wiki/Carmel-by-the-Sea"
+ },
+ "Chinatown, San Francisco": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/San_Francisco_China_Town_MC.jpg/1920px-San_Francisco_China_Town_MC.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_China_Town_MC.jpg",
+  "artist": "Christian Mehlführer, User:Chmehl",
+  "license": "CC BY 3.0",
+  "lat": 37.79417,
+  "lon": -122.40694,
+  "extract": "Le Chinatown de San Francisco est le plus ancien quartier chinois d'Amérique du Nord, il compte la plus grande communauté chinoise hors d'Asie. Le quartier a été fondé vers les années 1848.",
+  "article": "https://fr.wikipedia.org/wiki/Chinatown_(San_Francisco)"
+ },
+ "File:Autumn vineyard in Napa Valley.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Autumn_vineyard_in_Napa_Valley.jpg/1920px-Autumn_vineyard_in_Napa_Valley.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Autumn_vineyard_in_Napa_Valley.jpg",
+  "artist": "Brocken Inaglory",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Cambria, California.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Cambria%2C_California.jpg/1920px-Cambria%2C_California.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cambria,_California.jpg",
+  "artist": "Tatianafri",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Los Angeles International Airport by Don Ramey Logan.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Los_Angeles_International_Airport_by_Don_Ramey_Logan.jpg/1920px-Los_Angeles_International_Airport_by_Don_Ramey_Logan.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Los_Angeles_International_Airport_by_Don_Ramey_Logan.jpg",
+  "artist": "Don Ramey Logan",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Santa monica pier entrance evening.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Santa_monica_pier_entrance_evening.jpg/1920px-Santa_monica_pier_entrance_evening.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Santa_monica_pier_entrance_evening.jpg",
+  "artist": "web4camguy",
+  "license": "CC BY-SA 2.0"
+ },
+ "File:Stanford University Arches with Memorial Church in the background.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg/1920px-Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
+  "artist": "Jawed",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Vineyards in Napa Valley 7.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Vineyards_in_Napa_Valley_7.jpg/1920px-Vineyards_in_Napa_Valley_7.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Vineyards_in_Napa_Valley_7.jpg",
+  "artist": "Brocken Inaglory",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Yountville CA 67 - panoramio.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Yountville_CA_67_-_panoramio.jpg/1920px-Yountville_CA_67_-_panoramio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Yountville_CA_67_-_panoramio.jpg",
+  "artist": "Vince Migliore",
+  "license": "CC BY 3.0"
+ },
+ "Financial District, San Francisco": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Financial_District%2C_San_Francisco.jpg/1920px-Financial_District%2C_San_Francisco.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Financial_District,_San_Francisco.jpg",
+  "artist": "Podstawko",
+  "license": "CC BY-SA 4.0",
+  "lat": 37.7952,
+  "lon": -122.4029,
+  "extract": "Le Financial District est le quartier d'affaires de la ville américaine de San Francisco, en Californie.",
+  "article": "https://fr.wikipedia.org/wiki/Financial_District_(San_Francisco)"
+ },
+ "Fisherman's Wharf, San Francisco": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Fishermans_Wharf_Sign%2C_SF%2C_CA%2C_jjron_25.03.2012.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fishermans_Wharf_Sign,_SF,_CA,_jjron_25.03.2012.jpg",
+  "artist": "jjron",
+  "license": "GFDL 1.2",
+  "lat": 37.80833,
+  "lon": -122.41556,
+  "extract": "Le Fisherman's Wharf est un quartier de la ville de San Francisco en Californie. Son principal commerce a fait faillite à la suite de l'apparition de nouvelles technologies.",
+  "article": "https://fr.wikipedia.org/wiki/Fisherman%27s_Wharf_(San_Francisco)"
+ },
+ "Golden Gate Bridge": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/1920px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+  "artist": "Frank Schulenburg",
+  "license": "CC BY-SA 4.0",
+  "lat": 37.81972,
+  "lon": -122.47861,
+  "extract": "Le pont du Golden Gate est un pont suspendu américain situé dans l'État de Californie, traversant le Golden Gate, détroit par lequel la baie de San Francisco débouche dans l'océan Pacifique.",
+  "article": "https://fr.wikipedia.org/wiki/Pont_du_Golden_Gate"
+ },
+ "Googleplex": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Google_Campus%2C_Mountain_View%2C_CA.jpg/1920px-Google_Campus%2C_Mountain_View%2C_CA.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Google_Campus,_Mountain_View,_CA.jpg",
+  "artist": "Austin McKinley",
+  "license": "CC BY 3.0",
+  "lat": 37.422,
+  "lon": -122.084,
+  "extract": "Le Googleplex est le siège social de Google, situé au 1600 Amphitheatre Parkway à Mountain View, en Californie près de San José.",
+  "article": "https://fr.wikipedia.org/wiki/Googleplex"
+ },
+ "Griffith Observatory": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Griffith_observatory_2006.jpg/1920px-Griffith_observatory_2006.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Griffith_observatory_2006.jpg",
+  "artist": "Matthew Field",
+  "license": "CC BY 2.5",
+  "lat": 34.11833,
+  "lon": -118.30033,
+  "extract": "L'observatoire Griffith est un observatoire astronomique construit en 1935 à Los Angeles dans l'État de Californie aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Observatoire_Griffith"
+ },
+ "HP Garage": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/HP_Garage.jpg/1920px-HP_Garage.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:HP_Garage.jpg",
+  "artist": "Oysterboy9",
+  "license": "CC BY-SA 4.0",
+  "lat": 37.44307,
+  "lon": -122.15481,
+  "extract": "Le garage Hewlett-Packard est un ancien garage de Palo Alto, dans la baie de San Francisco, en Californie, devenu lieu historique de Californie et des États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Garage_Hewlett-Packard"
+ },
+ "Hollywood Walk of Fame": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Walk_of_Fame%2C_Hollywood_%2820986072759%29.jpg/1920px-Walk_of_Fame%2C_Hollywood_%2820986072759%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Walk_of_Fame,_Hollywood_(20986072759).jpg",
+  "artist": "Fabio Achilli from Milano, Italy",
+  "license": "CC BY 2.0",
+  "extract": "Le Hollywood Walk of Fame est un trottoir décoré du quartier d'Hollywood à Los Angeles. Il est situé sur Hollywood Boulevard, entre Gower Street et La Brea Avenue, ainsi que sur Vine Street entre Yucca Street et Sunset Boulevard.",
+  "article": "https://fr.wikipedia.org/wiki/Hollywood_Walk_of_Fame"
+ },
+ "Joshua Tree National Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Joshua_Tree_-_Cyclops_%2B_Potato_Head_-_Sunrise.jpg/1920px-Joshua_Tree_-_Cyclops_%2B_Potato_Head_-_Sunrise.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Joshua_Tree_-_Cyclops_%2B_Potato_Head_-_Sunrise.jpg",
+  "artist": "Jarek Tuszyński",
+  "license": "CC BY-SA 3.0",
+  "lat": 34.1,
+  "lon": -116.27,
+  "extract": "Le parc national de Joshua Tree est un parc national situé dans le sud-est de la Californie. Le parc doit son nom aux arbres de Josué originaires du désert de Mojave.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_de_Joshua_Tree"
+ },
+ "Joshua Tree, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Joshua_Tree%2C_California_01.jpg/1920px-Joshua_Tree%2C_California_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Joshua_Tree,_California_01.jpg",
+  "artist": "Bernard Gagnon",
+  "license": "CC BY-SA 3.0",
+  "lat": 34.13472,
+  "lon": -116.31167,
+  "extract": "Joshua Tree est un census-designated place situé dans le comté de San Bernardino, en Californie. Sa population était de 7 414 habitants en 2010.",
+  "article": "https://fr.wikipedia.org/wiki/Joshua_Tree_(Californie)"
+ },
+ "La Jolla": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/La_Jolla_Shores_view.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:La_Jolla_Shores_view.jpg",
+  "artist": "Dirk Hansen",
+  "license": "CC BY-SA 3.0",
+  "lat": 32.84,
+  "lon": -117.27694,
+  "extract": "La Jolla est un quartier de San Diego aux États-Unis. C'est une station balnéaire de la côte californienne, réputée pour ses plages de sable blanc, dont la Black's Beach.",
+  "article": "https://fr.wikipedia.org/wiki/La_Jolla"
+ },
+ "Little Italy, San Diego": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Little_Italy_Sign_in_San_Diego.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Little_Italy_Sign_in_San_Diego.jpg",
+  "artist": "",
+  "license": "Public domain",
+  "lat": 32.72417,
+  "lon": -117.16722,
+  "extract": "Little Italy est un quartier de San Diego, en Californie. Il tient son nom d'une communauté de pêcheurs d'origine italienne qui s'y était installée, après le tremblement de terre de San Francisco en 1906, pour se consacrer principalement au commerce du thon.",
+  "article": "https://fr.wikipedia.org/wiki/Little_Italy_(San_Diego)"
+ },
+ "Los Angeles": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/1920px-Hollywood_sign_%288485145044%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hollywood_sign_(8485145044).jpg",
+  "artist": "Gnaphron",
+  "license": "CC BY-SA 2.0",
+  "lat": 34.05,
+  "lon": -118.25,
+  "extract": "Los Angeles, souvent abrégé en L.A., est la deuxième plus grande ville des États-Unis en nombre d'habitants, juste après New York. Elle est située dans le Sud de l'État de Californie, dans la région de l'Ouest des États-Unis et sur la côte du Pacifique.",
+  "article": "https://fr.wikipedia.org/wiki/Los_Angeles"
+ },
+ "Los Angeles International Airport": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/LAX_blue_logo.svg/1920px-LAX_blue_logo.svg.png",
+  "page": "https://commons.wikimedia.org/wiki/File:LAX_blue_logo.svg",
+  "artist": "Los Angeles World Airports",
+  "license": "Public domain",
+  "lat": 33.9425,
+  "lon": -118.40806,
+  "extract": "L'aéroport international de Los Angeles, connu localement sous le sigle LAX, est un aéroport américain desservant Los Angeles et son agglomération.",
+  "article": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_de_Los_Angeles"
+ },
+ "Mill Valley, California": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Mill.Valley.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mill.Valley.jpg",
+  "artist": "SWENOWENSON",
+  "license": "CC BY-SA 4.0",
+  "lat": 37.90611,
+  "lon": -122.545,
+  "extract": "Mill Valley est une municipalité qui se trouve dans le comté de Marin en Californie. Sa population était de 14 231 habitants lors du recensement de 2020. Elle est située à 30 minutes au nord de la ville de San Francisco, de l'autre côté du pont du Golden Gate.",
+  "article": "https://fr.wikipedia.org/wiki/Mill_Valley"
+ },
+ "Morro Bay, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/View_of_the_Morro_Bay_Rock%2C_from_the_Black_Hill_trail_copy.jpg/1920px-View_of_the_Morro_Bay_Rock%2C_from_the_Black_Hill_trail_copy.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:View_of_the_Morro_Bay_Rock,_from_the_Black_Hill_trail_copy.jpg",
+  "artist": "Raleigh Littles",
+  "license": "CC BY-SA 4.0",
+  "lat": 35.36722,
+  "lon": -120.84667,
+  "extract": "Morro Bay est une ville du comté de San Luis Obispo, en Californie, États-Unis. La ville est célèbre pour son neck volcanique nommé Morro Rock.",
+  "article": "https://fr.wikipedia.org/wiki/Morro_Bay"
+ },
+ "Muir Woods National Monument": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Muir_Woods_National_Monument_%2847879029461%29.jpg/1920px-Muir_Woods_National_Monument_%2847879029461%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Muir_Woods_National_Monument_(47879029461).jpg",
+  "artist": "Matthew Dillon from Hollywood, CA, USA",
+  "license": "CC BY 2.0",
+  "lat": 37.89194,
+  "lon": -122.57083,
+  "extract": "Le monument national des bois Muir est un monument national américain de 224 hectares situé à environ 20 kilomètres au nord de San Francisco dans le comté de Marin, en Californie. Cette forêt de séquoias à feuilles d'if doit son nom au naturaliste John Muir.",
+  "article": "https://fr.wikipedia.org/wiki/Monument_national_des_bois_Muir"
+ },
+ "Palm Springs, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Palm_Springs_from_the_Museum_Trail.jpg/1920px-Palm_Springs_from_the_Museum_Trail.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Palm_Springs_from_the_Museum_Trail.jpg",
+  "artist": "Visitor7",
+  "license": "CC BY-SA 3.0",
+  "lat": 33.83028,
+  "lon": -116.54528,
+  "extract": "Palm Springs est une municipalité américaine située en Californie dans le comté de Riverside. En 2010 sa population s'élevait à 44 552 habitants. La ville est une station touristique appréciée, en particulier par la communauté LGBT.",
+  "article": "https://fr.wikipedia.org/wiki/Palm_Springs_(Californie)"
+ },
+ "Point Lobos": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Whaler%27s_Cove%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg/1920px-Whaler%27s_Cove%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Whaler%27s_Cove,_Point_Lobos,_CA,_US_-_May_2013.jpg",
+  "artist": "Diliff",
+  "license": "CC BY-SA 3.0",
+  "lat": 36.5171,
+  "lon": -121.9426
+ },
+ "Point Reyes National Seashore": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Chimney_Rock_Trail_Point_Reyes_December_2016_panorama_1.jpg/1920px-Chimney_Rock_Trail_Point_Reyes_December_2016_panorama_1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Chimney_Rock_Trail_Point_Reyes_December_2016_panorama_1.jpg",
+  "artist": "King of Hearts",
+  "license": "CC BY-SA 4.0",
+  "lat": 38.06667,
+  "lon": -122.88333,
+  "extract": "Le Point Reyes National Seashore est une aire protégée américaine située sur les bords de l'océan Pacifique, en Californie. Créée le 13 septembre 1962, elle protège 287,44 km2 dans le comté de Marin. Elle attire 2,5 millions de visiteurs par an.",
+  "article": "https://fr.wikipedia.org/wiki/Point_Reyes_National_Seashore"
+ },
+ "Rodeo Drive": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Rodeo_Drive%2C_Beverly_Hills%2C_LA%2C_CA%2C_jjron_21.03.2012.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rodeo_Drive,_Beverly_Hills,_LA,_CA,_jjron_21.03.2012.jpg",
+  "artist": "jjron",
+  "license": "GFDL 1.2",
+  "extract": "Rodeo Drive est une rue commerçante de la ville de Beverly Hills. Dès la fin des années 1960, Rodeo Drive devient mondialement renommée pour ses boutiques de luxe.",
+  "article": "https://fr.wikipedia.org/wiki/Rodeo_Drive"
+ },
+ "San Bernardino, California": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/SanBernardinoStationStreetside_%28cropped%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SanBernardinoStationStreetside_(cropped).jpg",
+  "artist": "User:Oakshade",
+  "license": "CC BY 2.5",
+  "lat": 34.10417,
+  "lon": -117.29222,
+  "extract": "San Bernardino est une ville de l'État de Californie, siège du comté de San Bernardino, aux États-Unis. En 2010, la population de la ville est de 209 924 habitants, ce qui en fait la 101e ville la plus peuplée des États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/San_Bernardino_(Californie)"
+ },
+ "San Francisco": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/1920px-Zeppelin-ride-020100925-195_%285029394846%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Zeppelin-ride-020100925-195_(5029394846).jpg",
+  "artist": "Craig Howell from San Carlos, CA, USA",
+  "license": "CC BY 2.0",
+  "lat": 37.7775,
+  "lon": -122.41639,
+  "extract": "San Francisco, officiellement « ville et comté de San Francisco », est une ville des États-Unis et l'un des comtés de l'État de Californie.",
+  "article": "https://fr.wikipedia.org/wiki/San_Francisco"
+ },
+ "San Francisco International Airport": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/San_Francisco_International_Airport_aerial_view%2C_Sept._2026_-_03.jpg/1920px-San_Francisco_International_Airport_aerial_view%2C_Sept._2026_-_03.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_International_Airport_aerial_view,_Sept._2026_-_03.jpg",
+  "artist": "SounderBruce",
+  "license": "CC BY-SA 4.0",
+  "lat": 37.61889,
+  "lon": -122.375,
+  "extract": "L'aéroport international de San Francisco, connu localement sous le sigle SFO, est un aéroport américain desservant San Francisco.",
+  "article": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_de_San_Francisco"
+ },
+ "San Francisco cable car system": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Cable_car_19_on_Hyde_Street%2C_July_2023.JPG/1920px-Cable_car_19_on_Hyde_Street%2C_July_2023.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Cable_car_19_on_Hyde_Street,_July_2023.JPG",
+  "artist": "Pi.1415926535",
+  "license": "CC BY-SA 4.0",
+  "extract": "Les Cable Cars de San Francisco sont les tramways à traction par câble de la ville américaine de San Francisco. Ils sont devenus l'une des icônes de San Francisco.",
+  "article": "https://fr.wikipedia.org/wiki/Cable_Cars_de_San_Francisco"
+ },
+ "Santa Barbara, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Santa_Barbara_Downtown_%28may_2012%29_%282%29_%28cropped%29.jpg/1920px-Santa_Barbara_Downtown_%28may_2012%29_%282%29_%28cropped%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Santa_Barbara_Downtown_(may_2012)_(2)_(cropped).jpg",
+  "artist": "Pierre André",
+  "license": "CC BY-SA 4.0",
+  "lat": 34.41667,
+  "lon": -119.7,
+  "extract": "Santa Barbara est une ville située sur la côte de l'État de Californie au pied des monts Santa Ynez, face à l'océan Pacifique, dans l'ouest des États-Unis, à une heure de route au nord-ouest de Los Angeles.",
+  "article": "https://fr.wikipedia.org/wiki/Santa_Barbara_(Californie)"
+ },
+ "Santa Monica, California": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Casa_del_Mar_Santa_Monica_%28cropped%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Casa_del_Mar_Santa_Monica_(cropped).jpg",
+  "artist": "User:User2004",
+  "license": "Public domain",
+  "lat": 34.02194,
+  "lon": -118.48139,
+  "extract": "Santa Monica est une ville côtière américaine située dans l'Ouest du comté de Los Angeles, dans l'État de Californie. Le territoire de Santa Monica est enclavé entre la ville de Los Angeles et l'océan Pacifique.",
+  "article": "https://fr.wikipedia.org/wiki/Santa_Monica"
+ },
+ "Sausalito, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sausalito.jpg/1920px-Sausalito.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sausalito.jpg",
+  "artist": "en:User:Squirrel 22",
+  "license": "Public domain",
+  "lat": 37.85917,
+  "lon": -122.48528,
+  "extract": "Sausalito est une municipalité américaine qui se trouve dans le comté de Marin, dans l'État de Californie, en banlieue nord de San Francisco, ville à laquelle elle est reliée par le célèbre pont du Golden Gate.",
+  "article": "https://fr.wikipedia.org/wiki/Sausalito_(Californie)"
+ },
+ "Stanford University": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Seal_of_Leland_Stanford_Junior_University.svg/1920px-Seal_of_Leland_Stanford_Junior_University.svg.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Seal_of_Leland_Stanford_Junior_University.svg",
+  "artist": "Arthur Bridgeman Clark",
+  "license": "Public domain",
+  "lat": 37.4275,
+  "lon": -122.17028,
+  "extract": "La Leland Stanford Junior University, plus connue sous le nom d'université Stanford, est une université américaine privée, située dans la Silicon Valley au sud de San Francisco.",
+  "article": "https://fr.wikipedia.org/wiki/Universit%C3%A9_Stanford"
+ },
+ "TCL Chinese Theatre": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Grauman%27s_Chinese_Theatre%2C_by_Carol_Highsmith_fixed_%26_straightened.jpg/1920px-Grauman%27s_Chinese_Theatre%2C_by_Carol_Highsmith_fixed_%26_straightened.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Grauman%27s_Chinese_Theatre,_by_Carol_Highsmith_fixed_%26_straightened.jpg",
+  "artist": "Carol M. Highsmith",
+  "license": "Public domain",
+  "lat": 34.10194,
+  "lon": -118.34097,
+  "extract": "Le Grauman's Chinese Theatre, aujourd'hui TCL Chinese Theatre, est une salle de cinéma située au 6925 Hollywood Boulevard, à Los Angeles en Californie.",
+  "article": "https://fr.wikipedia.org/wiki/Grauman%27s_Chinese_Theatre"
+ },
+ "Union Square, San Francisco": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/San_Francisco_Union_Square.jpg/1920px-San_Francisco_Union_Square.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_Union_Square.jpg",
+  "artist": "Lordsamp",
+  "license": "CC BY-SA 4.0",
+  "lat": 37.78806,
+  "lon": -122.4075,
+  "extract": "Union Square est le centre commerçant, hôtelier et théâtral de San Francisco, nommé d'après la place de ce nom délimitée par les rues de Post, Geary, Powell et Stockton.",
+  "article": "https://fr.wikipedia.org/wiki/Union_Square_(San_Francisco)"
+ },
+ "Venice, Los Angeles": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ocean_Front_Walk%2C_Venice_LA.jpg/1920px-Ocean_Front_Walk%2C_Venice_LA.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ocean_Front_Walk,_Venice_LA.jpg",
+  "artist": "DanielMichaelPerry",
+  "license": "CC0",
+  "lat": 33.99083,
+  "lon": -118.45917,
+  "extract": "Venice est un quartier de l'ouest de la ville de Los Angeles, dans l'État de Californie. Il est situé entre la ville de Santa Monica et le secteur non-incorporé de Marina Del Rey.",
+  "article": "https://fr.wikipedia.org/wiki/Venice_(Los_Angeles)"
+ },
+ "Yountville, California": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Veterans_Home_of_California_Yountville_%28cropped%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Veterans_Home_of_California_Yountville_(cropped).jpg",
+  "artist": "California Health and Human Services Agency",
+  "license": "Public domain",
+  "lat": 38.40306,
+  "lon": -122.36222,
+  "extract": "Yountville est une municipalité du comté de Napa, en Californie, aux États-Unis. Sa population était de 2 916 habitants selon le recensement de 2000.",
+  "article": "https://fr.wikipedia.org/wiki/Yountville"
+ },
+ "Aspen, Colorado": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Downtown_of_Aspen%2C_Colorado.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Downtown_of_Aspen,_Colorado.jpg",
+  "artist": "",
+  "license": "CC BY-SA 3.0",
+  "lat": 39.195,
+  "lon": -106.83667,
+  "extract": "La ville d’Aspen est le siège du comté de Pitkin, dans l’État du Colorado, aux États-Unis. Aspen est une station de ski dans les montagnes Rocheuses. Le nom vient de l'abondance des trembles dans la région.",
+  "article": "https://fr.wikipedia.org/wiki/Aspen"
+ },
+ "Bear Lake (Colorado)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bear_Lake_%2850445704286%29.jpg/1920px-Bear_Lake_%2850445704286%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bear_Lake_(50445704286).jpg",
+  "artist": "G. Lamar",
+  "license": "CC BY 2.0",
+  "extract": "Le lac Bear, en anglais Bear Lake, est un lac dans l'État américain du Colorado. Il est situé à une altitude de 2 890 m dans le comté de Larimer et le parc national de Rocky Mountain.",
+  "article": "https://fr.wikipedia.org/wiki/Lac_Bear_(Colorado)"
+ },
+ "Bear Lake (Idaho–Utah)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Bear_Lake.jpg/1920px-Bear_Lake.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bear_Lake.jpg",
+  "artist": "kla4067",
+  "license": "CC BY 2.0",
+  "lat": 42,
+  "lon": -111.33333,
+  "extract": "Le lac Bear est un lac américain dans le comté de Bear Lake, en Idaho, et le comté de Rich, en Utah. Il est situé à 1 806 mètres d'altitude.",
+  "article": "https://fr.wikipedia.org/wiki/Lac_Bear_(Idaho_et_Utah)"
+ },
+ "Black Canyon of the Gunnison National Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Black_Canyon_and_Gunnison_River_2008.jpg/1920px-Black_Canyon_and_Gunnison_River_2008.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Black_Canyon_and_Gunnison_River_2008.jpg",
+  "artist": "Terry Foote",
+  "license": "CC BY-SA 4.0",
+  "lat": 38.58,
+  "lon": -107.7275,
+  "extract": "Le parc national de Black Canyon of the Gunnison est un parc national situé dans l'ouest de l'État du Colorado, aux États-Unis d'Amérique, et géré par le National Park Service.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_de_Black_Canyon_of_the_Gunnison"
+ },
+ "Denver": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg/1920px-Denver%2C_Colorado_skyline_%28cropped_3x5%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Denver,_Colorado_skyline_(cropped_3x5).jpg",
+  "artist": "Quintin Soloviev",
+  "license": "CC BY 4.0",
+  "lat": 39.74,
+  "lon": -104.99,
+  "extract": "Denver est la capitale et la ville la plus peuplée de l'État du Colorado, aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Denver"
+ },
+ "Denver International Airport": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/DenverAirport2023.jpg/1920px-DenverAirport2023.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:DenverAirport2023.jpg",
+  "artist": "Murphpics",
+  "license": "CC BY-SA 4.0",
+  "extract": "L'aéroport international de Denver, connu localement sous le sigle DIA, est un aéroport américain situé à Denver, dans l'État du Colorado.",
+  "article": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_de_Denver"
+ },
+ "Dillon Reservoir": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Dillon_Reservoir.jpg/1920px-Dillon_Reservoir.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dillon_Reservoir.jpg",
+  "artist": "Runningonbrains",
+  "license": "CC BY 4.0",
+  "lat": 39.6074,
+  "lon": -106.0551
+ },
+ "Estes Park, Colorado": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/West_Elkhorn_Avenue%2C_Estes_Park_%282024%29-104A4568.jpg/1920px-West_Elkhorn_Avenue%2C_Estes_Park_%282024%29-104A4568.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:West_Elkhorn_Avenue,_Estes_Park_(2024)-104A4568.jpg",
+  "artist": "Frank Schulenburg",
+  "license": "CC BY-SA 4.0",
+  "lat": 40.38083,
+  "lon": -105.52222,
+  "extract": "Estes Park est une ville des États-Unis située dans le comté de Larimer, État du Colorado. C'est un centre de villégiature estival, notamment en raison de sa proximité avec le parc national de Rocky Mountain.",
+  "article": "https://fr.wikipedia.org/wiki/Estes_Park"
+ },
+ "File:Oxbow Bend, Grand Teton National Park (9965544863).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Oxbow_Bend%2C_Grand_Teton_National_Park_%289965544863%29.jpg/1920px-Oxbow_Bend%2C_Grand_Teton_National_Park_%289965544863%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Oxbow_Bend,_Grand_Teton_National_Park_(9965544863).jpg",
+  "artist": "Gregory \"Slobirdr\" Smith",
+  "license": "CC BY-SA 2.0"
+ },
+ "File:Porcelain Basin Norris YNP2.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Porcelain_Basin_Norris_YNP2.jpg/1920px-Porcelain_Basin_Norris_YNP2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Porcelain_Basin_Norris_YNP2.jpg",
+  "artist": "Acroterion",
+  "license": "CC BY-SA 4.0"
+ },
+ "Geothermal areas of Yellowstone": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Steamboat_Geyser_at_Norris_Geyser_Basin_in_Yellowstone-750px.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Steamboat_Geyser_at_Norris_Geyser_Basin_in_Yellowstone-750px.JPG",
+  "artist": "Mav at English Wikipedia",
+  "license": "CC BY-SA 3.0"
+ },
+ "Grand Canyon of the Yellowstone": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Grand_Canyon_of_Yellowstone_and_Lower_falls%2C_Wyoming%2C_United_States.jpg/1920px-Grand_Canyon_of_Yellowstone_and_Lower_falls%2C_Wyoming%2C_United_States.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_of_Yellowstone_and_Lower_falls,_Wyoming,_United_States.jpg",
+  "artist": "Erik Whalen",
+  "license": "CC BY-SA 4.0",
+  "lat": 44.77788,
+  "lon": -110.36367,
+  "extract": "Le Grand Canyon de Yellowstone est le premier grand canyon sur la rivière Yellowstone en aval des chutes Yellowstone dans le parc national de Yellowstone au Wyoming.",
+  "article": "https://fr.wikipedia.org/wiki/Grand_Canyon_de_Yellowstone"
+ },
+ "Grand Prismatic Spring": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Aerial_image_of_Grand_Prismatic_Spring_%28view_from_the_south%29.jpg/1920px-Aerial_image_of_Grand_Prismatic_Spring_%28view_from_the_south%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Grand_Prismatic_Spring_(view_from_the_south).jpg",
+  "artist": "Carsten Steger",
+  "license": "CC BY-SA 4.0",
+  "lat": 44.525,
+  "lon": -110.8381,
+  "extract": "Grand Prismatic Spring est une grande source chaude située dans le parc national de Yellowstone aux États-Unis. Il s'agit de la plus grande source chaude américaine connue, et la troisième plus importante au niveau mondial.",
+  "article": "https://fr.wikipedia.org/wiki/Grand_Prismatic_Spring"
+ },
+ "Grand Teton": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Grand_Teton_from_Hurricane_Pass_2026.jpg/1920px-Grand_Teton_from_Hurricane_Pass_2026.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Grand_Teton_from_Hurricane_Pass_2026.jpg",
+  "artist": "Joe Peacock",
+  "license": "CC BY-SA 4.0",
+  "lat": 43.74121,
+  "lon": -110.80241,
+  "extract": "Grand Teton est une montagne située dans le parc national de Grand Teton dans le nord-ouest du Wyoming aux États-Unis. Du haut de ses 4 197 mètres, elle est le point culminant du parc national ainsi que celle de la chaîne Teton.",
+  "article": "https://fr.wikipedia.org/wiki/Grand_Teton"
+ },
+ "Grand Teton National Park": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Barns_grand_tetons.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Barns_grand_tetons.jpg",
+  "artist": "Jon Sullivan, PD Photo.",
+  "license": "Public domain",
+  "lat": 43.83333,
+  "lon": -110.70083,
+  "extract": "Le parc national de Grand Teton, ou Grand Teton National Park en anglais, est un parc national américain situé au nord-ouest de l'État du Wyoming, aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_de_Grand_Teton"
+ },
+ "Great Salt Lake": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Great_Salt_Lake_by_Sentinel-2.jpg/1920px-Great_Salt_Lake_by_Sentinel-2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Great_Salt_Lake_by_Sentinel-2.jpg",
+  "artist": "Copernicus Sentinel-2, ESA",
+  "license": "CC BY-SA 3.0 igo",
+  "lat": 41.16667,
+  "lon": -112.53333,
+  "extract": "Le Grand Lac Salé, en anglais Great Salt Lake, est un lac du nord de l’État de l’Utah aux États-Unis. Il s'agit du plus grand lac salé du continent américain, du quatrième lac endoréique du monde et d'un des cinquante plus grands lacs de la planète.",
+  "article": "https://fr.wikipedia.org/wiki/Grand_Lac_Sal%C3%A9"
+ },
+ "Jackson Hole": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Barns_grand_tetons.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Barns_grand_tetons.jpg",
+  "artist": "Jon Sullivan, PD Photo.",
+  "license": "Public domain",
+  "lat": 43.51667,
+  "lon": -110.83333,
+  "extract": "Jackson Hole est une vallée de l’Ouest de l’État du Wyoming près de la frontière avec l’Idaho aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Jackson_Hole"
+ },
+ "Jenny Lake": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Aerial_image_of_Jenny_Lake_%28view_from_the_east%29.jpg/1920px-Aerial_image_of_Jenny_Lake_%28view_from_the_east%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Jenny_Lake_(view_from_the_east).jpg",
+  "artist": "Carsten Steger",
+  "license": "CC BY-SA 4.0",
+  "lat": 43.76389,
+  "lon": -110.73,
+  "extract": "Le lac Jenny est un lac situé dans le parc national de Grand Teton au nord-ouest du Wyoming aux États-Unis. Différentes activités nautiques et de randonnées sont proposées aux touristes venant visiter le parc national.",
+  "article": "https://fr.wikipedia.org/wiki/Lac_Jenny"
+ },
+ "Lamar Valley": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/LamarRiver1998.jpg/1920px-LamarRiver1998.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:LamarRiver1998.jpg",
+  "artist": "Jim Peaco",
+  "license": "Public domain",
+  "lat": 44.92917,
+  "lon": -110.40194,
+  "extract": "La rivière Lamar est une rivière située dans le parc national de Yellowstone aux États-Unis. D'une longueur de 64 km, il s'agit d'un affluent de la rivière Yellowstone.",
+  "article": "https://fr.wikipedia.org/wiki/Lamar_(rivi%C3%A8re)"
+ },
+ "Mammoth Hot Springs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Dead_trees_at_Mammoth_Hot_Springs.jpg/1920px-Dead_trees_at_Mammoth_Hot_Springs.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dead_trees_at_Mammoth_Hot_Springs.jpg",
+  "artist": "Brocken Inaglory",
+  "license": "CC BY-SA 3.0",
+  "lat": 44.96694,
+  "lon": -110.71222,
+  "extract": "Les Mammoth Hot Springs sont un édifice minéral calcaire naturel de type tufière se trouvant dans le parc national de Yellowstone aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Mammoth_Hot_Springs"
+ },
+ "Maroon Bells": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Maroon_Bells_%2811553%29a.jpg/1920px-Maroon_Bells_%2811553%29a.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Maroon_Bells_(11553)a.jpg",
+  "artist": "Rhododendrites",
+  "license": "CC BY-SA 4.0",
+  "lat": 39.07085,
+  "lon": -106.98899,
+  "extract": "Les Maroon Bells sont une montagne avec deux pics appelés Maroon Peak et North Maroon Peak, distants de quelque cinq-cents mètres.",
+  "article": "https://fr.wikipedia.org/wiki/Maroon_Bells"
+ },
+ "Milner Pass": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Milner_Pass_sign.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Milner_Pass_sign.jpg",
+  "artist": "Myth010101 at English Wikipedia",
+  "license": "Public domain",
+  "lat": 40.41972,
+  "lon": -105.81139,
+  "extract": "Le col Milner, en anglais Milner Pass, est un col de montagne à 3 279 m d'altitude dans les montagnes Rocheuses, dans le Nord du Colorado aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Col_Milner"
+ },
+ "Mormon Row Historic District": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Barns_grand_tetons.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Barns_grand_tetons.jpg",
+  "artist": "Jon Sullivan, PD Photo.",
+  "license": "Public domain",
+  "lat": 43.66056,
+  "lon": -110.66428,
+  "extract": "Le district historique de Mormon Row – ou Mormon Row Historic District en anglais – est un district historique du comté de Teton, dans le Wyoming, aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/District_historique_de_Mormon_Row"
+ },
+ "Old Faithful": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Yellowstone_National_Park_%28WY%2C_USA%29%2C_Old_Faithful_Geyser_--_2022_--_2599.jpg/1920px-Yellowstone_National_Park_%28WY%2C_USA%29%2C_Old_Faithful_Geyser_--_2022_--_2599.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_(WY,_USA),_Old_Faithful_Geyser_--_2022_--_2599.jpg",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0",
+  "lat": 44.46047,
+  "lon": -110.82814,
+  "extract": "L'Old Faithful est un geyser situé dans le parc national de Yellowstone, aux États-Unis. Ce geyser produit l'un des plus grands jets d'eau chaude et de vapeur au monde, avec le Strokkur islandais.",
+  "article": "https://fr.wikipedia.org/wiki/Old_Faithful"
+ },
+ "Rock Springs, Wyoming": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/RockSpringsWY.jpg/1920px-RockSpringsWY.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RockSpringsWY.jpg",
+  "artist": "Vasiliymeshko",
+  "license": "CC BY-SA 4.0",
+  "lat": 41.59083,
+  "lon": -109.2225,
+  "extract": "La ville de Rock Springs est située dans le comté de Sweetwater, dans l’État du Wyoming, aux États-Unis. Lors du recensement de 2010, sa population s’élevait à 23 036 habitants.",
+  "article": "https://fr.wikipedia.org/wiki/Rock_Springs_(Wyoming)"
+ },
+ "Salt Lake City International Airport": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/SLC_airport%2C_2010.jpg/1920px-SLC_airport%2C_2010.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SLC_airport,_2010.jpg",
+  "artist": "Doc Searls from Santa Barbara, USA",
+  "license": "CC BY 2.0",
+  "lat": 40.78833,
+  "lon": -111.97778,
+  "extract": "L’aéroport international de Salt Lake City, connu localement sous le sigle SLC, est un aéroport américain à usage civil et militaire situé à Salt Lake City, dans l’État de l'Utah aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_de_Salt_Lake_City"
+ },
+ "Snake River": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Adams_The_Tetons_and_the_Snake_River.jpg/1920px-Adams_The_Tetons_and_the_Snake_River.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Adams_The_Tetons_and_the_Snake_River.jpg",
+  "artist": "Ansel Adams",
+  "license": "Public domain",
+  "lat": 46.18611,
+  "lon": -119.02861,
+  "extract": "Le Snake ou plus communément la Snake River est une rivière américaine, qui coule dans le nord-ouest du pays.",
+  "article": "https://fr.wikipedia.org/wiki/Snake_(rivi%C3%A8re)"
+ },
+ "Temple Square": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Temple_Square%2C_Salt_Lake_City%2C_1899_retouched.jpg/1920px-Temple_Square%2C_Salt_Lake_City%2C_1899_retouched.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Temple_Square,_Salt_Lake_City,_1899_retouched.jpg",
+  "artist": "William Henry Jackson",
+  "license": "Public domain",
+  "lat": 40.77056,
+  "lon": -111.8925,
+  "extract": "Temple Square est un site de 40 000 m2 situé à Salt Lake City, Utah, aux États-Unis, appartenant à l'Église de Jésus-Christ des saints des derniers jours.",
+  "article": "https://fr.wikipedia.org/wiki/Temple_Square"
+ },
+ "Trail Ridge Road": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Trail_Ridge_Road_map_small.gif",
+  "page": "https://commons.wikimedia.org/wiki/File:Trail_Ridge_Road_map_small.gif",
+  "artist": "Darekk2",
+  "license": "CC BY-SA 3.0",
+  "lat": 40.4177,
+  "lon": -105.7467,
+  "extract": "La Trail Ridge Road est une route des comtés de Grand et Larimer, au Colorado, dans le centre des États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Trail_Ridge_Road"
+ },
+ "Wasatch Range": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Jan_14_06_eastern_Salt_Lake_County_UT_USA.JPG/1920px-Jan_14_06_eastern_Salt_Lake_County_UT_USA.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Jan_14_06_eastern_Salt_Lake_County_UT_USA.JPG",
+  "artist": "",
+  "license": "Public domain",
+  "lat": 40.49,
+  "lon": -111.69611,
+  "extract": "La chaîne Wasatch est un massif montagneux des États-Unis d'Amérique formant la bordure occidentale des montagnes Rocheuses.",
+  "article": "https://fr.wikipedia.org/wiki/Cha%C3%AEne_Wasatch"
+ }
+}
