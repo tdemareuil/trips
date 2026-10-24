@@ -1024,5 +1024,398 @@
   "lon": -44.3044,
   "extract": "São Luís, en Français Saint Louis, en Arpitan Sent Louis, est une ville du Brésil et la capitale de l'État du Maranhão. Elle est située sur l'île de même nom, entre les baies de São Marcos et de São José de Ribamar.",
   "article": "https://fr.wikipedia.org/wiki/S%C3%A3o_Lu%C3%ADs_(Maranh%C3%A3o)"
+ },
+ "Banyuwangi": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Stasiun-banyuwangi-kota.jpg/1920px-Stasiun-banyuwangi-kota.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Stasiun-banyuwangi-kota.jpg",
+  "artist": "The original uploader was Aryphrase at Indonesian Wikipedia.",
+  "license": "Public domain",
+  "lat": -8.2186,
+  "lon": 114.3669,
+  "extract": "Banyuwangi est une ville, capitale administrative du Kabupaten de Banyuwangi en Java oriental en Indonésie.",
+  "article": "https://fr.wikipedia.org/wiki/Banyuwangi_(ville)"
+ },
+ "Besakih": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Besakih_Bali_Indonesia_Pura-Besakih-02.jpg/1920px-Besakih_Bali_Indonesia_Pura-Besakih-02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Besakih_Bali_Indonesia_Pura-Besakih-02.jpg",
+  "artist": "CEphoto, Uwe Aranas",
+  "license": "CC BY-SA 3.0",
+  "lat": -8.37437,
+  "lon": 115.45094,
+  "extract": "Le temple de Besakih est un temple hindouiste situé près du mont Agung, dans l'Est de Bali, en Indonésie.",
+  "article": "https://fr.wikipedia.org/wiki/Temple_de_Besakih"
+ },
+ "Borobudur": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Pradaksina.jpg/1920px-Pradaksina.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pradaksina.jpg",
+  "artist": "Heri nugroho",
+  "license": "CC BY-SA 4.0",
+  "lat": -7.608,
+  "lon": 110.204,
+  "extract": "Le temple de Borobudur est une importante construction bouddhiste, bâtie aux VIIIe et IXe siècles à l'époque de la dynastie Sailendra dans le centre de l'île de Java en Indonésie.",
+  "article": "https://fr.wikipedia.org/wiki/Temple_de_Borobudur"
+ },
+ "Cemoro Lawang": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Sunrise_Cemoro_Lawang.jpg/1920px-Sunrise_Cemoro_Lawang.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunrise_Cemoro_Lawang.jpg",
+  "artist": "Rizaldby",
+  "license": "CC BY-SA 4.0",
+  "lat": -7.92278,
+  "lon": 112.96444
+ },
+ "File:19-Indonesia-Bali Nusa-Penida Manta-Point 14 (Manta Ray)-APiazza.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/19-Indonesia-Bali_Nusa-Penida_Manta-Point_14_%28Manta_Ray%29-APiazza.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:19-Indonesia-Bali_Nusa-Penida_Manta-Point_14_(Manta_Ray)-APiazza.JPG",
+  "artist": "Andrepiazza",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Beach, Gili Meno Island, Indonesia.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Beach%2C_Gili_Meno_Island%2C_Indonesia.jpg/1920px-Beach%2C_Gili_Meno_Island%2C_Indonesia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Beach,_Gili_Meno_Island,_Indonesia.jpg",
+  "artist": "Vyacheslav Argenberg",
+  "license": "CC BY 4.0"
+ },
+ "File:Broken Beach.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Broken_Beach.jpg/1920px-Broken_Beach.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Broken_Beach.jpg",
+  "artist": "Aaron Rentfrew",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Bukit Merese, Lombok.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bukit_Merese%2C_Lombok.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bukit_Merese,_Lombok.jpg",
+  "artist": "Uci Puspita",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Campuhan ridge walk Ubud Bali 20120827c.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Campuhan_ridge_walk_Ubud_Bali_20120827c.jpg/1920px-Campuhan_ridge_walk_Ubud_Bali_20120827c.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Campuhan_ridge_walk_Ubud_Bali_20120827c.jpg",
+  "artist": "Tigerente",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Crystal Bay, Nusa Penida 2017-08-20 (12).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Crystal_Bay%2C_Nusa_Penida_2017-08-20_%2812%29.jpg/1920px-Crystal_Bay%2C_Nusa_Penida_2017-08-20_%2812%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Crystal_Bay,_Nusa_Penida_2017-08-20_(12).jpg",
+  "artist": "Panina Manina",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Jatiluwih rice terraces.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jatiluwih_rice_terraces.jpg/1920px-Jatiluwih_rice_terraces.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Jatiluwih_rice_terraces.jpg",
+  "artist": "Imacim",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Kelingking Beach (T-Rex Bay) of Nusa Penida, Bali (2025) - img 08.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Kelingking_Beach_%28T-Rex_Bay%29_of_Nusa_Penida%2C_Bali_%282025%29_-_img_08.jpg/1920px-Kelingking_Beach_%28T-Rex_Bay%29_of_Nusa_Penida%2C_Bali_%282025%29_-_img_08.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kelingking_Beach_(T-Rex_Bay)_of_Nusa_Penida,_Bali_(2025)_-_img_08.jpg",
+  "artist": "Chainwit.",
+  "license": "CC BY 4.0"
+ },
+ "File:Kuta Lombok Mawun Beach.JPG": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Kuta_Lombok_Mawun_Beach.JPG/1920px-Kuta_Lombok_Mawun_Beach.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Kuta_Lombok_Mawun_Beach.JPG",
+  "artist": "User: (WT-shared) Whatsinaname at  wts wikivoyage",
+  "license": "Public domain"
+ },
+ "File:Lombok Island and Mount Rinjani from Gili Meno Island, Indonesia.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island%2C_Indonesia.jpg/1920px-Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island%2C_Indonesia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lombok_Island_and_Mount_Rinjani_from_Gili_Meno_Island,_Indonesia.jpg",
+  "artist": "Vyacheslav Argenberg",
+  "license": "CC BY 4.0"
+ },
+ "File:Mirror Stone Cave, Flores, Indonesia, 20250827 0928 3845.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Mirror_Stone_Cave%2C_Flores%2C_Indonesia%2C_20250827_0928_3845.jpg/1920px-Mirror_Stone_Cave%2C_Flores%2C_Indonesia%2C_20250827_0928_3845.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mirror_Stone_Cave,_Flores,_Indonesia,_20250827_0928_3845.jpg",
+  "artist": "Jakub Hałun",
+  "license": "CC BY 4.0"
+ },
+ "File:Padar Island, Komodo National Park, Indonesia, 20250822 0929 2659.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Padar_Island%2C_Komodo_National_Park%2C_Indonesia%2C_20250822_0929_2659.jpg/1920px-Padar_Island%2C_Komodo_National_Park%2C_Indonesia%2C_20250822_0929_2659.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Padar_Island,_Komodo_National_Park,_Indonesia,_20250822_0929_2659.jpg",
+  "artist": "Jakub Hałun",
+  "license": "CC BY 4.0"
+ },
+ "File:Pink Beach, Padar Island, Komodo National Park.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Pink_Beach%2C_Padar_Island%2C_Komodo_National_Park.jpg/1920px-Pink_Beach%2C_Padar_Island%2C_Komodo_National_Park.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pink_Beach,_Padar_Island,_Komodo_National_Park.jpg",
+  "artist": "Devagonal",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Pulau Kanawa, Flores, NTT.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Pulau_Kanawa%2C_Flores%2C_NTT.jpg/1920px-Pulau_Kanawa%2C_Flores%2C_NTT.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pulau_Kanawa,_Flores,_NTT.jpg",
+  "artist": "Stepgun",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:SIDEMEN EAST BALI RICE TERRACE.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/SIDEMEN_EAST_BALI_RICE_TERRACE.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SIDEMEN_EAST_BALI_RICE_TERRACE.jpg",
+  "artist": "Adimelali Bali",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Selong belanak beach, Lombok Island.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Selong_belanak_beach%2C_Lombok_Island.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Selong_belanak_beach,_Lombok_Island.jpg",
+  "artist": "Kaniasar23",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Traditional Sasak Village Sade Bale Desa Wisata Sade.JPG": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Traditional_Sasak_Village_Sade_Bale_Desa_Wisata_Sade.JPG/1920px-Traditional_Sasak_Village_Sade_Bale_Desa_Wisata_Sade.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Traditional_Sasak_Village_Sade_Bale_Desa_Wisata_Sade.JPG",
+  "artist": "Midori",
+  "license": "CC BY 3.0"
+ },
+ "File:USAT Liberty Wreck Dive.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/USAT_Liberty_Wreck_Dive.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:USAT_Liberty_Wreck_Dive.jpg",
+  "artist": "G patkar",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:View from Kelor Island, Komodo National Park, Indonesia, 20250825 1654 3265.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/View_from_Kelor_Island%2C_Komodo_National_Park%2C_Indonesia%2C_20250825_1654_3265.jpg/1920px-View_from_Kelor_Island%2C_Komodo_National_Park%2C_Indonesia%2C_20250825_1654_3265.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:View_from_Kelor_Island,_Komodo_National_Park,_Indonesia,_20250825_1654_3265.jpg",
+  "artist": "Jakub Hałun",
+  "license": "CC BY 4.0"
+ },
+ "Gili Islands": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Gili_Islands_Region_map.png/1920px-Gili_Islands_Region_map.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gili_Islands_Region_map.png",
+  "artist": "User:(WT-shared) Burmesedays,OpenStreetMap",
+  "license": "CC BY-SA 3.0",
+  "lat": -8.35,
+  "lon": 116.06,
+  "extract": "Les îles Gili, Gili Islands en anglais,, ou îles Troupel, est un terme qui désigne trois petites îles d'Indonésie situées au large de la côte nord-ouest de l'île de Lombok : Air, Meno et Trawangan.",
+  "article": "https://fr.wikipedia.org/wiki/%C3%8Eles_Gili"
+ },
+ "Goa Gajah": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Bali_-_Goa_Gajah_%282022%29_-_img_20.jpg/1920px-Bali_-_Goa_Gajah_%282022%29_-_img_20.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bali_-_Goa_Gajah_(2022)_-_img_20.jpg",
+  "artist": "Chainwit.",
+  "license": "CC BY 4.0",
+  "lat": -8.52339,
+  "lon": 115.28636,
+  "extract": "Le temple de Goa Gajah, Cave de l'éléphant ou Grotte de l'éléphant, est un temple d'Indonésie situé sur l'île de Bali, à Bedulu, près d'Ubud.",
+  "article": "https://fr.wikipedia.org/wiki/Goa_Gajah"
+ },
+ "Ijen": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sulfur_mining_in_Kawah_Ijen_-_Indonesia_-_20110608.jpg/1920px-Sulfur_mining_in_Kawah_Ijen_-_Indonesia_-_20110608.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sulfur_mining_in_Kawah_Ijen_-_Indonesia_-_20110608.jpg",
+  "artist": "Sémhur (talk)",
+  "license": "CC BY-SA 4.0",
+  "lat": -8.06278,
+  "lon": 114.26194,
+  "extract": "L'Ijen est un volcan d'Indonésie situé sur l'île de Java et se présentant sous la forme d'une caldeira, la caldeira de Kendeng, bordée au sud par plusieurs cônes et cratères volcaniques dont le Kawah Ijen qui renferme un lac acide.",
+  "article": "https://fr.wikipedia.org/wiki/Ijen"
+ },
+ "Jatiluwih": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pura_Ulun_Danu_Bratan%2C_2022.jpg/1920px-Pura_Ulun_Danu_Bratan%2C_2022.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pura_Ulun_Danu_Bratan,_2022.jpg",
+  "artist": "LukeTriton",
+  "license": "CC BY-SA 4.0",
+  "lat": -8.55115,
+  "lon": 115.12161,
+  "extract": "Le kabupaten de Tabanan, en indonésien Kabupaten Tabanan, est un kabupaten d'Indonésie dans la province de Bali. Son chef-lieu s'appelle également Tabanan.",
+  "article": "https://fr.wikipedia.org/wiki/Kabupaten_de_Tabanan"
+ },
+ "Kecak": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Kecak_dancers_cliffside_Uluwatu.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kecak_dancers_cliffside_Uluwatu.jpg",
+  "artist": "Rollan Budi from Kuta, Bali,, Indonesia",
+  "license": "CC BY-SA 2.0",
+  "extract": "Le Kecak est un chœur de percussions vocales balinais accompagnant originellement des transes lors de rituels.",
+  "article": "https://fr.wikipedia.org/wiki/Kecak"
+ },
+ "Komodo National Park": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Komodo_dragon_at_Komodo_National_Park.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Komodo_dragon_at_Komodo_National_Park.jpg",
+  "artist": "Adhi Rachdian from Indonesia",
+  "license": "CC BY 2.0",
+  "lat": -8.54333,
+  "lon": 119.48944,
+  "extract": "Le parc national de Komodo est un parc national situé en Indonésie, dans les Petites Îles de la Sonde, à la limite des provinces des petites îles de la Sonde occidentales et des petites îles de la Sonde orientales.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_de_Komodo"
+ },
+ "Kraton Ngayogyakarta Hadiningrat": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Jogja_-_Kraton_Yogyakarta_-_Donopratono_gate_%282025%29_-_img_02.jpg/1920px-Jogja_-_Kraton_Yogyakarta_-_Donopratono_gate_%282025%29_-_img_02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Jogja_-_Kraton_Yogyakarta_-_Donopratono_gate_(2025)_-_img_02.jpg",
+  "artist": "Chainwit.",
+  "license": "CC BY 4.0",
+  "lat": -7.80569,
+  "lon": 110.36406,
+  "extract": "Le Kraton Ngayogyakarta Hadiningrat est un kraton, palais royal, situé à Yogyakarta en Indonésie. Il est le siège du sultan de Yogyakarta.",
+  "article": "https://fr.wikipedia.org/wiki/Kraton_Ngayogyakarta_Hadiningrat"
+ },
+ "Kuta, Lombok": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Picking_fishes_%40_Kuta_beach%2C_Lombok.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Picking_fishes_@_Kuta_beach,_Lombok.jpg",
+  "artist": "Tanti Ruwani from Jakarta, Indonesia",
+  "license": "CC BY 2.0",
+  "lat": -8.91667,
+  "lon": 116.28333,
+  "extract": "Kuta est un village de la côte sud de l'île de Lombok en Indonésie, situé dans une baie bordée par une plage de sable blanc. Portail de l’océan Indien Portail du tourisme Portail de l’Indonésie",
+  "article": "https://fr.wikipedia.org/wiki/Kuta_(Lombok)"
+ },
+ "Labuan Bajo": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Labuan_Bajo%2C_a_port_in_West_Flores%2C_Nusa_Tenggara%2C_Indonesia%3B_January_2020.jpg/1920px-Labuan_Bajo%2C_a_port_in_West_Flores%2C_Nusa_Tenggara%2C_Indonesia%3B_January_2020.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Labuan_Bajo,_a_port_in_West_Flores,_Nusa_Tenggara,_Indonesia;_January_2020.jpg",
+  "artist": "Tiket2",
+  "license": "CC BY 2.0",
+  "lat": -8.5,
+  "lon": 119.88333,
+  "extract": "Labuan Bajo est une ville de pêcheurs d'Indonésie, située à l'extrémité occidentale de l'île de Florès. Elle a le statut de desa dans la province de Nusa Tenggara oriental.",
+  "article": "https://fr.wikipedia.org/wiki/Labuan_Bajo"
+ },
+ "Lake Tamblingan": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Lake_Tamblingan.jpg/1920px-Lake_Tamblingan.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lake_Tamblingan.jpg",
+  "artist": "Dave",
+  "license": "CC BY 2.0",
+  "lat": -8.25706,
+  "lon": 115.097
+ },
+ "Malioboro": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Malioboro_Street%2C_Yogyakarta.JPG/1920px-Malioboro_Street%2C_Yogyakarta.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Malioboro_Street,_Yogyakarta.JPG",
+  "artist": "Gunawan Kartapranata",
+  "license": "CC BY-SA 3.0",
+  "lat": -7.79336,
+  "lon": 110.36571
+ },
+ "Menjangan Island": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Pura_Taman_Kelenting_Sari_-_Menjangan_Island.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pura_Taman_Kelenting_Sari_-_Menjangan_Island.jpg",
+  "artist": "ŭn-sŭng",
+  "license": "CC BY 2.0",
+  "lat": -8.08333,
+  "lon": 114.517,
+  "extract": "Menjangan, l'« île du cerf », est une petite île d'une superficie de 1.6 kilomètres carrés, située au large du nord-ouest de l'île de Bali. Inhabitée et protégée, elle fait partie administrativement du parc national de Bali Barat.",
+  "article": "https://fr.wikipedia.org/wiki/Menjangan"
+ },
+ "Mount Bromo": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bromo-Semeru-Batok-Widodaren.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bromo-Semeru-Batok-Widodaren.jpg",
+  "artist": "Riza Nugraha ? from Utrecht, The Netherlands",
+  "license": "CC BY 2.0",
+  "lat": -7.94167,
+  "lon": 112.95,
+  "extract": "Le Bromo ou Brama, en indonésien Gunung Bromo, est un volcan d'Indonésie encore en activité, situé dans l'est de Java, à 78 kilomètres au sud-sud-est de Surabaya, dans la caldeira Tengger.",
+  "article": "https://fr.wikipedia.org/wiki/Bromo"
+ },
+ "Mount Semeru": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Mount_Semeru.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mount_Semeru.jpg",
+  "artist": "Pambudiyoga",
+  "license": "CC BY-SA 4.0",
+  "lat": -8.10778,
+  "lon": 112.92194,
+  "extract": "Le Semeru est un volcan d'Indonésie, dans la province de Java oriental, dans l'Est de Java dont il est le point culminant à 3 657 ou 3 676 mètres d'altitude.",
+  "article": "https://fr.wikipedia.org/wiki/Semeru"
+ },
+ "Nusa Lembongan": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Blue_Lagoon%2CNusa_Lembongan-Bali.jpg/1920px-Blue_Lagoon%2CNusa_Lembongan-Bali.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Blue_Lagoon,Nusa_Lembongan-Bali.jpg",
+  "artist": "AkbarWilliams",
+  "license": "CC BY-SA 4.0",
+  "lat": -8.68177,
+  "lon": 115.45112,
+  "extract": "Nusa Lembongan est une île située au sud-est de Bali et au nord-ouest de Nusa Penida dans le kabupaten de Klungkung, en Indonésie. Une autre petite île se trouve à proximité : Nusa Ceningan. L'île se situe en mer de Bali.",
+  "article": "https://fr.wikipedia.org/wiki/Nusa_Lembongan"
+ },
+ "Nusa Penida": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Broken_Bay%2C_Nusa_Penida.jpg/1920px-Broken_Bay%2C_Nusa_Penida.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Broken_Bay,_Nusa_Penida.jpg",
+  "artist": "Georgi Kovachev",
+  "license": "CC BY-SA 4.0",
+  "lat": -8.73333,
+  "lon": 115.53333,
+  "extract": "Nusa Penida est une île de la province de Bali située au sud-est de l'île du même nom, en Indonésie. Administrativement, elle a un statut de kecamatan et est rattachée au kabupaten de Klungkung.",
+  "article": "https://fr.wikipedia.org/wiki/Nusa_Penida"
+ },
+ "Padar": {},
+ "Prambanan": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Prambanan_Temple_Yogyakarta_Indonesia.jpg/1920px-Prambanan_Temple_Yogyakarta_Indonesia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Prambanan_Temple_Yogyakarta_Indonesia.jpg",
+  "artist": "Christopher Michel",
+  "license": "CC BY-SA 4.0",
+  "lat": -7.75222,
+  "lon": 110.49167,
+  "extract": "Prambanan, que les Javanais appellent aussi Candi Rara Jonggrang, est un ensemble de 240 temples shivaites, construits au IXe siècle sous la dynastie Sanjaya du premier royaume de Mataram dans la région de Java central, à proximité de Yogyakarta.",
+  "article": "https://fr.wikipedia.org/wiki/Temple_de_Prambanan"
+ },
+ "Rinca": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Rinca2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rinca2.jpg",
+  "artist": "Markofjohnson at English Wikipedia",
+  "license": "Public domain",
+  "lat": -8.7,
+  "lon": 119.68,
+  "extract": "Rinca est une petite île près de Komodo, dans la province indonésienne des Petites îles de la Sonde orientales. Elle fait partie des Petites îles de la Sonde.",
+  "article": "https://fr.wikipedia.org/wiki/Rinca"
+ },
+ "Ruteng": {
+  "lat": -8.61265,
+  "lon": 120.463,
+  "extract": "Ruteng, sur l'île de Florès, est un kecamatan d'Indonésie dans le kabupaten de Manggarai dans la province de Nusa Tenggara oriental. C'est le chef-lieu du kabupaten. La ville est le siège d'un diocèse.",
+  "article": "https://fr.wikipedia.org/wiki/Ruteng"
+ },
+ "Sidemen": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sidemen_collage_5.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sidemen_collage_5.jpg",
+  "artist": "inzinghyMILLION DOLLAZ WORTH OF GAMEFaZe JasperGymshark (x2)Tom Roberts GolfSoccer Aid",
+  "license": "CC BY 3.0"
+ },
+ "Taman Sari (Yogyakarta)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Tower_in_Taman_Sari%2C_2014-05-19.jpg/1920px-Tower_in_Taman_Sari%2C_2014-05-19.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tower_in_Taman_Sari,_2014-05-19.jpg",
+  "artist": "Crisco 1492",
+  "license": "CC BY-SA 3.0",
+  "lat": -7.81015,
+  "lon": 110.35895,
+  "extract": "Le Taman Sari est un site de la ville de Yogyakarta en Indonésie, où se trouvait un jardin créé par le premier sultan. Il est situé à environ 200 mètres à l'ouest du Kraton, le palais royal.",
+  "article": "https://fr.wikipedia.org/wiki/Taman_Sari"
+ },
+ "Tegallalang": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Indonesia_Gianyar_Tegallalang_district_location_map.svg/1920px-Indonesia_Gianyar_Tegallalang_district_location_map.svg.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Indonesia_Gianyar_Tegallalang_district_location_map.svg",
+  "artist": "Joseagush",
+  "license": "CC BY-SA 4.0",
+  "lat": -8.43333,
+  "lon": 115.28333,
+  "extract": "Le Tegallalang est un kecamatan indonésien du kabupaten de Gianyar de la province de Bali.",
+  "article": "https://fr.wikipedia.org/wiki/Tegallalang"
+ },
+ "Tirta Empul": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bali_-_bathing_%28Melukat%29_at_Pura_Tirta_Empul_%282025%29_-_img_07.jpg/1920px-Bali_-_bathing_%28Melukat%29_at_Pura_Tirta_Empul_%282025%29_-_img_07.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bali_-_bathing_(Melukat)_at_Pura_Tirta_Empul_(2025)_-_img_07.jpg",
+  "artist": "Chainwit.",
+  "license": "CC BY 4.0",
+  "lat": -8.41639,
+  "lon": 115.31472
+ },
+ "USAT Liberty": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/USAT_Liberty.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:USAT_Liberty.jpg",
+  "artist": "U.S. Naval Historical Center Photograph.",
+  "license": "Public domain",
+  "extract": "L’USAT Liberty est un cargo de l’United States Army construit en 1918. Navire de classe 1037, sa construction est commandée par l’United States Shipping Board dans le cadre de la Première Guerre mondiale.",
+  "article": "https://fr.wikipedia.org/wiki/USAT_Liberty"
+ },
+ "Waerebo": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Wae_Rebo_di_Pagi_Hari.jpg/1920px-Wae_Rebo_di_Pagi_Hari.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Wae_Rebo_di_Pagi_Hari.jpg",
+  "artist": "Mahmur marganti",
+  "license": "CC BY-SA 4.0",
+  "lat": -8.77,
+  "lon": 120.28417
+ },
+ "Yogyakarta": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Jogja_-_Tugu_Monument_%282025%29_-_img_06.jpg/1920px-Jogja_-_Tugu_Monument_%282025%29_-_img_06.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Jogja_-_Tugu_Monument_(2025)_-_img_06.jpg",
+  "artist": "Chainwit.",
+  "license": "CC BY 4.0",
+  "lat": -7.80139,
+  "lon": 110.36444,
+  "extract": "Yogyakarta — écrit Jogjakarta jusqu'à la réforme orthographique de 1972 et appelé souvent Jogja —, de son nom officiel Ngayogyakarta Hadiningrat, est une ville d'Indonésie, capitale du Territoire spécial de Yogyakarta, dans le centre de l'île de Java.",
+  "article": "https://fr.wikipedia.org/wiki/Yogyakarta"
  }
 }

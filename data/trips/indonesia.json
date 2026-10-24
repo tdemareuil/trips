@@ -1,0 +1,401 @@
+{
+  "id": "indonesia",
+  "title": "Indonésie",
+  "subtitle": "De Java à Flores : temples, volcans, rizières de Bali, plages des îles Gili et dragons de Komodo",
+  "travelers": ["En couple"],
+  "cover": "File:Padar Island, Komodo National Park, Indonesia, 20250822 0929 2659.jpg",
+  "days": [
+    {
+      "n": 1,
+      "title": "Paris ➔ Yogyakarta",
+      "summary": "Vol international avec escale, puis repos à Yogyakarta. Visite de la ville d'escale s'il y a le temps, sinon direction l'hôtel.",
+      "hero": "Yogyakarta",
+      "route": "none",
+      "stops": [],
+      "stay": { "name": "Yogyakarta", "wiki": "Yogyakarta" },
+      "transport": [{ "mode": "flight", "text": "Paris → Yogyakarta, avec escale : ~20 h" }],
+      "notes": ["Remplir les documents d'entrée à l'avance."]
+    },
+    {
+      "n": 2,
+      "title": "Yogyakarta : palais, Prambanan et Taman Sari",
+      "summary": "Centre-ville et temples : palais du sultan, marché de Malioboro, tour en calèche traditionnelle, temples de Prambanan et balade au Taman Sari, le château d'eau.",
+      "route": "none",
+      "stops": [
+        { "name": "Palais du sultan (Kraton)", "wiki": "Kraton Ngayogyakarta Hadiningrat", "culture": "Palais construit à partir de 1756 et toujours habité par le sultan. Yogyakarta est la seule région d'Indonésie dirigée par un sultan héréditaire." },
+        { "name": "Rue Malioboro", "wiki": "Malioboro", "culture": "Grande rue commerçante de Yogyakarta, bordée d'étals de batik et d'artisanat. On s'y déplace en cyclo-pousse (becak) ou en calèche (andong)." },
+        { "name": "Taman Sari", "wiki": "Taman Sari (Yogyakarta)", "culture": "Ancien jardin d'eau du sultan, bâti au XVIIIe siècle, avec ses bassins, ses passages souterrains et sa mosquée enterrée." },
+        { "name": "Temples de Prambanan", "wiki": "Prambanan", "culture": "Le plus grand ensemble de temples hindous d'Indonésie, élevé au IXe siècle pour Shiva, Vishnou et Brahma. Inscrit à l'UNESCO en 1991, il accueille en soirée un ballet du Ramayana." }
+      ],
+      "stay": { "name": "Yogyakarta", "wiki": "Yogyakarta" },
+      "notes": ["Le ballet du Ramayana à Prambanan a lieu le mardi à 19 h 30."]
+    },
+    {
+      "n": 3,
+      "title": "Yogyakarta ➔ Borobudur ➔ Bromo",
+      "summary": "Route vers Borobudur, avec exploration des stupas, déjeuner à Magelang et visite d'un atelier de batik, puis longue route vers le mont Bromo.",
+      "route": "none",
+      "stops": [
+        { "name": "Borobudur", "wiki": "Borobudur", "culture": "Le plus grand temple bouddhiste du monde, bâti vers l'an 800 : neuf terrasses, 504 statues de Bouddha et plus de 2 600 panneaux sculptés. Il est inscrit à l'UNESCO depuis 1991." }
+      ],
+      "stay": { "name": "Cemoro Lawang (Bromo)", "wiki": "Cemoro Lawang", "note": "Nuit en lodge près du Bromo" },
+      "transport": [
+        { "mode": "car", "text": "Yogyakarta → Borobudur : ~1 h 30" },
+        { "mode": "car", "text": "Borobudur → Cemoro Lawang : ~7 h 30" }
+      ],
+      "notes": ["Borobudur est fermé le lundi et les places sont limitées."]
+    },
+    {
+      "n": 4,
+      "title": "Mont Bromo ➔ Banyuwangi",
+      "summary": "Lever de soleil sur le mont Bromo (départ vers 3 h du matin) et randonnée au cratère, avec la vue sur le Semeru. Déjeuner à Probolinggo, puis arrivée à Banyuwangi.",
+      "route": "none",
+      "stops": [
+        { "name": "Mont Bromo", "wiki": "Mount Bromo", "culture": "Volcan actif de 2 329 m, au milieu d'une caldeira appelée la « mer de sable ». Chaque année, les Tenggerais y jettent des offrandes dans le cratère pendant la cérémonie hindoue du Yadnya Kasada." },
+        { "name": "Mont Semeru", "wiki": "Mount Semeru", "culture": "Plus haut sommet de Java, à 3 676 m, et l'un des volcans les plus actifs du pays. Son panache de fumée rythme la vue depuis le Bromo." }
+      ],
+      "stay": { "name": "Banyuwangi", "wiki": "Banyuwangi", "note": "Nuit en hôtel" },
+      "transport": [{ "mode": "car", "text": "Bromo → Banyuwangi : ~6 h" }],
+      "notes": ["Prévoir un foulard contre l'odeur de soufre."]
+    },
+    {
+      "n": 5,
+      "title": "Kawah Ijen ➔ Pemuteran (Bali)",
+      "summary": "Ascension du Kawah Ijen jusqu'aux flammes bleues (de nuit) et au lac acide, puis traversée en ferry vers Bali et dîner au bord de l'eau à Pemuteran, avec peut-être du plancton bioluminescent.",
+      "route": "none",
+      "stops": [
+        { "name": "Kawah Ijen", "wiki": "Ijen", "culture": "Volcan de l'est de Java dont le cratère abrite un lac acide turquoise. La nuit, des flammes bleues de gaz sulfureux s'y enflamment, et des mineurs remontent à pied des blocs de soufre." }
+      ],
+      "stay": { "name": "Pemuteran", "coords": [-8.1464, 114.6564], "note": "Nuit à Pemuteran, au nord de Bali" },
+      "transport": [
+        { "mode": "car", "text": "Banyuwangi → Kawah Ijen : ~1 h, puis ~2 h de marche" },
+        { "mode": "boat", "text": "Ferry vers Bali : ~1 h" },
+        { "mode": "car", "text": "Transfert vers Pemuteran : ~1 h" }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Pemuteran ➔ Munduk ➔ Ubud",
+      "summary": "Snorkeling autour de l'île de Menjangan le matin, puis route vers Munduk, ses lacs jumeaux et ses cascades, avant de rejoindre Ubud.",
+      "route": "none",
+      "stops": [
+        { "name": "Île de Menjangan", "wiki": "Menjangan Island", "culture": "Île du parc national de Bali Barat, réputée pour ses tombants de corail, parmi les meilleurs sites de plongée de Bali. « Menjangan » signifie cerf." },
+        { "name": "Lacs Tamblingan et Buyan", "wiki": "Lake Tamblingan", "coords": [-8.2580, 115.0900], "culture": "Deux lacs jumeaux dans les caldeiras du nord de Bali, entourés de forêt. Un temple hindou se dresse au bord du lac Tamblingan." }
+      ],
+      "stay": { "name": "Ubud", "coords": [-8.5069, 115.2625], "note": "Nuit en hôtel" },
+      "transport": [
+        { "mode": "car", "text": "Pemuteran → Munduk : ~1 h 30" },
+        { "mode": "car", "text": "Munduk → Ubud : ~2 h" }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Ubud : temples, danse et rizières",
+      "summary": "Découverte culturelle et détente autour d'Ubud : temples, sources sacrées, rizières de Tegalalang et soirée de danse traditionnelle (kecak, la danse du feu).",
+      "route": "none",
+      "stops": [
+        { "name": "Tirta Empul", "wiki": "Tirta Empul", "culture": "Temple du Xe siècle construit autour d'une source sacrée, où les fidèles se purifient dans des bassins, sous des fontaines." },
+        { "name": "Goa Gajah", "wiki": "Goa Gajah", "culture": "La « grotte de l'éléphant » est un sanctuaire creusé dans la roche vers le XIe siècle, dont l'entrée est sculptée de figures grimaçantes." },
+        { "name": "Campuhan Ridge Walk", "photo": "File:Campuhan ridge walk Ubud Bali 20120827c.jpg", "coords": [-8.5000, 115.2480], "culture": "Sentier de crête d'environ 2 km à l'ouest d'Ubud, entre deux rivières et des prairies d'herbes hautes. On le parcourt surtout au lever et au coucher du soleil." },
+        { "name": "Rizières de Tegalalang", "wiki": "Tegallalang", "culture": "Rizières en terrasses irriguées selon le système traditionnel du subak, que l'UNESCO a reconnu avec d'autres paysages de Bali." },
+        { "name": "Danse kecak (Pura Dalem Ubud)", "wiki": "Kecak", "coords": [-8.5069, 115.2625], "culture": "La danse du feu est chantée par un chœur d'une centaine d'hommes qui scandent « cak » en cercle. Elle a été mise en forme dans les années 1930 avec le peintre Walter Spies." }
+      ],
+      "stay": { "name": "Ubud", "coords": [-8.5069, 115.2625], "note": "Nuit en hôtel" },
+      "transport": [{ "mode": "transit", "text": "Scooter, avec le permis de conduire international" }]
+    },
+    {
+      "n": 8,
+      "title": "Ubud ➔ Sidemen",
+      "summary": "Découverte naturelle et culturelle : randonnée dans les rizières, villages traditionnels, rizières de Jatiluwih et dégustation de café balinais dans une plantation.",
+      "route": "none",
+      "stops": [
+        { "name": "Rizières de Jatiluwih", "wiki": "Jatiluwih", "photo": "File:Jatiluwih rice terraces.jpg", "coords": [-8.3667, 115.1319], "culture": "Rizières en terrasses inscrites à l'UNESCO en 2012, avec le système d'irrigation subak. « Jatiluwih » signifie « vraiment merveilleux »." },
+        { "name": "Sidemen", "wiki": "Sidemen", "photo": "File:SIDEMEN EAST BALI RICE TERRACE.jpg", "coords": [-8.4800, 115.4600], "culture": "Vallée rurale de l'est de Bali au pied du mont Agung, entourée de rizières et connue pour ses ateliers de tissage de songket et d'ikat." }
+      ],
+      "stay": { "name": "Sidemen", "coords": [-8.4800, 115.4600], "note": "Nuit en écolodge" },
+      "transport": [{ "mode": "car", "text": "Ubud → Sidemen : ~1 h 30" }]
+    },
+    {
+      "n": 9,
+      "title": "Sidemen ➔ Amed",
+      "summary": "Exploration et détente, plongée et snorkeling : temple de Besakih, balades dans la campagne, snorkeling à Jemeluk Bay et plongée sur l'épave de l'USS Liberty à Tulamben.",
+      "route": "none",
+      "stops": [
+        { "name": "Temple de Besakih", "wiki": "Besakih", "culture": "Le « temple mère » de Bali : un ensemble d'une vingtaine de temples sur les pentes du mont Agung, à environ 1 000 m d'altitude, le plus grand et le plus sacré de l'île." },
+        { "name": "Épave de l'USS Liberty (Tulamben)", "wiki": "USAT Liberty", "photo": "File:USAT Liberty Wreck Dive.jpg", "coords": [-8.2730, 115.5930], "culture": "Cargo américain torpillé en 1942, échoué à Tulamben, devenu l'une des épaves les plus accessibles du monde, à quelques mètres du rivage." }
+      ],
+      "stay": { "name": "Amed", "coords": [-8.3400, 115.6600], "note": "Nuit à Amed" },
+      "transport": [{ "mode": "car", "text": "Sidemen → Amed : ~2 h" }]
+    },
+    {
+      "n": 10,
+      "title": "Amed ➔ Nusa Penida",
+      "summary": "Bateau rapide vers Nusa Penida, puis exploration et snorkeling : Kelingking Beach, Crystal Bay et Broken Beach.",
+      "route": "none",
+      "stops": [
+        { "name": "Kelingking Beach", "photo": "File:Kelingking Beach (T-Rex Bay) of Nusa Penida, Bali (2025) - img 08.jpg", "coords": [-8.7503, 115.4733], "culture": "Falaise en forme de tête de dinosaure, surnommée « T-Rex », qui domine une plage de sable blanc. Un escalier très abrupt descend jusqu'au sable." },
+        { "name": "Broken Beach", "photo": "File:Broken Beach.jpg", "coords": [-8.7330, 115.4510], "culture": "Arche naturelle creusée dans la falaise, qui encadre une crique ronde ouverte sur la mer, comme on la voit depuis le haut." },
+        { "name": "Crystal Bay", "photo": "File:Crystal Bay, Nusa Penida 2017-08-20 (12).jpg", "coords": [-8.7170, 115.4440], "culture": "Baie de sable blanc à l'ouest de l'île, prisée pour le snorkeling et les couchers de soleil." }
+      ],
+      "stay": { "name": "Nusa Penida", "wiki": "Nusa Penida", "note": "Nuit à Nusa Penida" },
+      "transport": [{ "mode": "boat", "text": "Bateau rapide Amed → Nusa Penida : ~1 h" }]
+    },
+    {
+      "n": 11,
+      "title": "Nusa Penida : raies manta et plages",
+      "summary": "Snorkeling avec les raies manta à Manta Point, exploration d'Atuh Beach et plancton bioluminescent à Nusa Lembongan.",
+      "route": "none",
+      "stops": [
+        { "name": "Manta Point", "photo": "File:19-Indonesia-Bali Nusa-Penida Manta-Point 14 (Manta Ray)-APiazza.JPG", "coords": [-8.7900, 115.4500], "culture": "Station de nettoyage où de grandes raies manta, qui peuvent dépasser 4 m d'envergure, viennent se faire débarrasser de leurs parasites par de petits poissons." },
+        { "name": "Nusa Lembongan", "wiki": "Nusa Lembongan", "culture": "Petite île voisine de Nusa Penida, connue pour ses mangroves, ses cultures d'algues et ses spots de surf." }
+      ],
+      "stay": { "name": "Nusa Penida", "wiki": "Nusa Penida", "note": "Nuit à Nusa Penida" }
+    },
+    {
+      "n": 12,
+      "title": "Nusa Penida ➔ Gili Meno",
+      "summary": "Bateau rapide vers Gili Meno, installation dans un bungalow, relaxation et balade : kayak transparent, lagon pour le snorkeling, plage déserte, yoga.",
+      "route": "none",
+      "stops": [
+        { "name": "Gili Meno", "wiki": "Gili Islands", "photo": "File:Beach, Gili Meno Island, Indonesia.jpg", "coords": [-8.3510, 116.0560], "culture": "La plus calme des trois îles Gili : ni voitures ni scooters, on s'y déplace à pied, à vélo ou en charrette à cheval. Des tortues vivent près de ses côtes." }
+      ],
+      "stay": { "name": "Gili Meno", "coords": [-8.3510, 116.0560], "note": "Nuit en bungalow" },
+      "transport": [{ "mode": "boat", "text": "Bateau rapide Nusa Penida → Gili Meno : ~2 h 30 (ou direct depuis Padang Bai, ~1 h 45)" }]
+    },
+    {
+      "n": 13,
+      "title": "Gili Meno",
+      "summary": "Relaxation et balade : snorkeling avec les tortues, tour de snorkeling autour des trois Gilis, coucher de soleil et plancton bioluminescent.",
+      "route": "none",
+      "stops": [
+        { "name": "Vue sur le Rinjani depuis Gili Meno", "photo": "File:Lombok Island and Mount Rinjani from Gili Meno Island, Indonesia.jpg", "coords": [-8.3510, 116.0560], "culture": "Depuis la plage, on voit le Rinjani, volcan de 3 726 m qui domine Lombok et que l'on peut gravir en plusieurs jours." }
+      ],
+      "stay": { "name": "Gili Meno", "coords": [-8.3510, 116.0560], "note": "Nuit en bungalow" }
+    },
+    {
+      "n": 14,
+      "title": "Gili Meno ➔ Lombok",
+      "summary": "Bateau rapide vers Lombok puis route jusqu'à Kuta Lombok : surf à Selong Belanak, plages de Mawun, coucher de soleil à Bukit Merese et village de Sade.",
+      "route": "none",
+      "stops": [
+        { "name": "Selong Belanak", "photo": "File:Selong belanak beach, Lombok Island.jpg", "coords": [-8.9000, 116.1700], "culture": "Longue plage en demi-lune au sud de Lombok, aux vagues douces, idéale pour apprendre le surf." },
+        { "name": "Plage de Mawun", "photo": "File:Kuta Lombok Mawun Beach.JPG", "coords": [-8.9000, 116.2800], "culture": "Crique de sable blanc en croissant, abritée par des falaises, au sud de l'île." },
+        { "name": "Bukit Merese", "photo": "File:Bukit Merese, Lombok.jpg", "coords": [-8.9000, 116.3300], "culture": "Colline herbeuse au-dessus de la baie de Tanjung Aan, un belvédère très prisé pour le coucher de soleil." },
+        { "name": "Village de Sade", "photo": "File:Traditional Sasak Village Sade Bale Desa Wisata Sade.JPG", "coords": [-8.8420, 116.2970], "culture": "Village sasak aux maisons à toit de chaume, dont les sols sont enduits de bouse de buffle. Les femmes y tissent des étoffes traditionnelles." }
+      ],
+      "stay": { "name": "Kuta Lombok", "wiki": "Kuta, Lombok", "note": "Nuit en hôtel" },
+      "transport": [
+        { "mode": "boat", "text": "Bateau rapide Gili Meno → Bangsal : ~30 min" },
+        { "mode": "car", "text": "Bangsal → Kuta Lombok : ~2 h" }
+      ]
+    },
+    {
+      "n": 15,
+      "title": "Lombok ➔ parc national de Komodo",
+      "summary": "Début d'une croisière de 3 jours et 2 nuits dans le parc national de Komodo : rencontre avec les dragons sur l'île de Rinca, Kelor Island, récifs et plancton bioluminescent à Kanawa Island.",
+      "route": "none",
+      "stops": [
+        { "name": "Île de Rinca", "wiki": "Rinca", "culture": "Île du parc national de Komodo où l'on observe de près les dragons, accompagné de rangers armés de bâtons fourchus. Le parc est inscrit à l'UNESCO depuis 1991." },
+        { "name": "Kelor Island", "photo": "File:View from Kelor Island, Komodo National Park, Indonesia, 20250825 1654 3265.jpg", "coords": [-8.5000, 119.8500], "culture": "Petit îlot de savane aux collines arrondies, près de Labuan Bajo, avec un sentier facile jusqu'à un belvédère." },
+        { "name": "Kanawa Island", "photo": "File:Pulau Kanawa, Flores, NTT.jpg", "coords": [-8.4800, 119.8830], "culture": "Île de sable blanc entourée de récifs coralliens, prisée pour le snorkeling. Le plancton bioluminescent y est visible la nuit." }
+      ],
+      "stay": { "name": "Bateau (croisière de 3 jours)", "wiki": "Komodo National Park", "note": "Nuit sur le bateau" },
+      "transport": [{ "mode": "boat", "text": "Croisière de 3 jours et 2 nuits dans le parc de Komodo" }]
+    },
+    {
+      "n": 16,
+      "title": "Komodo : Padar et Pink Beach",
+      "summary": "Randonnée sur Padar Island, avec un panorama incroyable, baignade à Long Beach et à Pink Beach, et observation possible des baleines dans le détroit de Lintah.",
+      "route": "none",
+      "stops": [
+        { "name": "Padar Island", "wiki": "Padar", "photo": "File:Padar Island, Komodo National Park, Indonesia, 20250822 0929 2659.jpg", "coords": [-8.6540, 119.5800], "culture": "Île montagneuse dont le sommet offre la fameuse vue sur trois baies aux plages de couleurs différentes : blanche, rose et noire." },
+        { "name": "Pink Beach", "photo": "File:Pink Beach, Padar Island, Komodo National Park.jpg", "coords": [-8.6630, 119.7570], "culture": "Sa teinte rose vient de petits fragments de corail rouge mêlés au sable blanc." }
+      ],
+      "stay": { "name": "Bateau (croisière de 3 jours)", "wiki": "Komodo National Park", "note": "Nuit sur le bateau" }
+    },
+    {
+      "n": 17,
+      "title": "Komodo : snorkeling",
+      "summary": "Snorkeling à Manta Point (Karang Makassar), à Batu Bolong et à Sebayur Kecil, avant la nuit dans un lodge sur une île.",
+      "route": "none",
+      "stops": [
+        { "name": "Récifs du parc de Komodo", "wiki": "Komodo National Park", "coords": [-8.5500, 119.6500], "culture": "Les eaux du parc comptent parmi les plus riches d'Indonésie, avec des raies manta, des tortues et de grands bancs de poissons. À Batu Bolong, un rocher percé en pleine mer, les courants sont forts." }
+      ],
+      "stay": { "name": "Lodge sur une île", "wiki": "Komodo National Park", "note": "Nuit en lodge" }
+    },
+    {
+      "n": 18,
+      "title": "Labuan Bajo ➔ Ruteng (Flores)",
+      "summary": "Route vers Ruteng et découverte culturelle et naturelle : village traditionnel de Wae Rebo, rizières en toile d'araignée de Cancar, rizières en terrasses.",
+      "route": "none",
+      "stops": [
+        { "name": "Village de Wae Rebo", "wiki": "Waerebo", "culture": "Village de sept maisons coniques traditionnelles (mbaru niang), à environ 1 100 m d'altitude, que l'on rejoint après plusieurs heures de marche. Sa restauration a reçu un prix de l'UNESCO en 2012." }
+      ],
+      "stay": { "name": "Ruteng", "wiki": "Ruteng", "note": "Nuit en hôtel" },
+      "transport": [{ "mode": "car", "text": "Labuan Bajo → Ruteng : ~4 h" }]
+    },
+    {
+      "n": 19,
+      "title": "Ruteng ➔ Labuan Bajo",
+      "summary": "Retour à Labuan Bajo et détente : coucher de soleil à Bukit Sylvia, découverte de la ville portuaire, grottes de Batu Cermin et marché de poissons frais.",
+      "route": "none",
+      "stops": [
+        { "name": "Grotte de Batu Cermin", "photo": "File:Mirror Stone Cave, Flores, Indonesia, 20250827 0928 3845.jpg", "coords": [-8.4840, 119.8860], "culture": "La « grotte du rocher miroir » : un rayon de soleil s'y reflète sur les parois en milieu de journée. On y voit des fossiles marins." }
+      ],
+      "stay": { "name": "Labuan Bajo", "wiki": "Labuan Bajo", "note": "Nuit en hôtel" },
+      "transport": [{ "mode": "car", "text": "Ruteng → Labuan Bajo : ~4 h" }]
+    },
+    {
+      "n": 20,
+      "title": "Retour à Paris",
+      "summary": "Vol retour depuis Labuan Bajo, via Jakarta.",
+      "hero": "Labuan Bajo",
+      "route": "none",
+      "stops": [],
+      "stay": null,
+      "end": "Vol retour vers Paris, via Jakarta",
+      "transport": [{ "mode": "flight", "text": "Labuan Bajo → Jakarta → Paris" }]
+    }
+  ],
+  "guides": [
+    {
+      "id": "iles-archipels",
+      "title": "Comparatif des îles et archipels",
+      "summary": "Ambiance, points forts, activités et notes sur 10 des principales destinations d'Indonésie.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": ["Destination", "Ambiance", "Points d'intérêt principaux", "Activités principales", "Idéal pour", "Accès (/10)", "Plages (/10)", "Nature et randonnées (/10)", "Tourisme (/10)"],
+          "rows": [
+            ["Java", "Culture, aventure et paysages volcaniques", "Borobudur : lever de soleil sur le plus grand temple bouddhiste du monde, classé à l'UNESCO. Prambanan : ensemble majestueux de temples hindous aux sculptures détaillées. Mont Bromo : lever de soleil sur un paysage lunaire, avec le Semeru en arrière-plan. Kawah Ijen : trek nocturne pour observer les flammes bleues et un lac acide turquoise.", "Temples historiques, volcans, trekking, paysages lunaires", "Amateurs de culture, d'histoire et de randonnées", "9 (très accessible, aéroports internationaux, bons transports)", "6 (plages peu remarquables, quelques côtes pittoresques)", "8 (volcans, temples, paysages variés)", "7 (lieux populaires mais encore préservés par endroits)"],
+            ["Bali", "Culture, nature et spiritualité", "Ubud : centre spirituel de Bali, forêt des singes, rizières de Tegalalang, temples et marchés d'art. Sidemen : randonnées dans les rizières en terrasses, temples cachés, villages traditionnels.", "Temples, yoga, rizières, arts, randonnées", "Amoureux de la culture, de la nature et du bien-être", "10 (accès facile depuis l'aéroport de Denpasar)", "7 (plages variées, certaines très fréquentées)", "8 (rizières, collines, forêts luxuriantes)", "10 (très touristique, nombreuses infrastructures)"],
+            ["Nusa Penida", "Nature sauvage et aventure", "Kelingking Beach : falaise époustouflante en forme de T-Rex. Manta Point : snorkeling avec les raies manta. Angel's Billabong : piscines naturelles entre les falaises.", "Plongée, snorkeling, exploration des falaises", "Aventuriers et amateurs d'activités aquatiques", "6 (accès en bateau depuis Bali, mer parfois agitée)", "9 (plages spectaculaires mais difficiles d'accès)", "9 (paysages côtiers époustouflants)", "6 (encore assez sauvage mais de plus en plus connu)"],
+            ["Lombok", "Plages isolées et randonnées", "Kuta Lombok : surf et plages paradisiaques comme Tanjung Aan et Selong Belanak. Mont Rinjani : trek de plusieurs jours jusqu'au sommet, avec vue sur le lac Segara Anak.", "Surf, plages désertes, trekking sur un volcan", "Amateurs de randonnée, de surf et de paysages sauvages", "7 (aéroport international, moins fréquenté que Bali)", "9 (plages vierges, sable blanc, eaux turquoise)", "10 (mont Rinjani, paysages spectaculaires)", "5 (moins touristique que Bali mais en croissance)"],
+            ["Îles Gili", "Fêtes, plongée et détente", "Gili Air : snorkeling avec tortues et récifs coralliens. Gili Trawangan : vie nocturne animée, couchers de soleil. Gili Meno : ambiance paisible, plongée avec sculptures sous-marines.", "Plongée, snorkeling, soirées, relaxation, îles sans voitures", "Ceux qui cherchent un mélange de fête et de détente", "8 (facilement accessibles depuis Lombok ou Bali)", "8 (beaux récifs coralliens, sable fin)", "6 (petites îles, peu de randonnées)", "9 (très fréquentées, surtout Gili Trawangan)"],
+            ["Komodo", "Aventure et faune sauvage", "Dragons de Komodo : plus nombreux sur l'île de Rinca. Pink Beach : plage de sable rose unique au monde. Padar Island : randonnée pour une vue panoramique sur trois plages colorées. Kanawa Island : superbes plages et plancton bioluminescent. Whale-watching : le détroit de Lintah, entre Komodo et Rinca, est une voie migratoire clé pour les cétacés.", "Snorkeling, plongée, randonnée, exploration de la faune sauvage", "Explorateurs et passionnés de nature et de vie sauvage", "5 (accès limité via Labuan Bajo)", "8 (plages magnifiques mais isolées)", "9 (paysages uniques, faune emblématique)", "4 (relativement préservé en raison de l'accès limité)"],
+            ["Raja Ampat", "Paradis isolé et joyau de la biodiversité marine", "Randonnée à Pianemo ou sur Wayag, avec un point de vue panoramique sur des îlots karstiques. Banc de sable isolé. Plongée : récifs parmi les plus préservés au monde, avec une biodiversité incroyable. Plongée en bouteille : Cape Kri, Blue Magic, Manta Ridge, Chicken Reef, Sardine Reef, Kawe Island (Eagle Rock), Batanta Island (muck diving), Misool Island (Magic Mountain, Boo Windows), Waigeo Island (Mayhem Reef, Kabui Bay / The Passage, Aljui Bay). Snorkeling : Pianemo / îles Fam, Mansuar Island, Manta Sandy, Friwen Wall, Mioskon Reef, Arborek Island, Batanta Island, Misool Island (lagon), Yillet Island, Waigeo Island (lagons), Gam Island (Mangrove Point).", "Plongée, snorkeling, exploration en bateau", "Plongeurs expérimentés et amoureux de la nature préservée", "3 (accès difficile, vols limités puis bateau)", "10 (plages immaculées, biodiversité marine incroyable)", "10 (nature intacte, forêts denses, récifs)", "2 (faible afflux touristique en raison de l'isolement)"],
+            ["Flores", "Nature, volcans et culture traditionnelle", "Kelimutu : lacs de cratère aux couleurs changeantes. Labuan Bajo : port d'entrée pour l'archipel de Komodo. Bajawa : villages traditionnels ngada. Baie de Maumere (nord-est) : connue pour ses récifs coralliens, avec aussi de l'observation de baleines et de dauphins. Plage de Koka.", "Randonnées volcaniques, exploration culturelle", "Amateurs de paysages naturels et de culture locale", "6 (accès via Labuan Bajo, liaisons aériennes limitées)", "7 (plages belles mais souvent rocailleuses)", "9 (lacs colorés, volcans, villages traditionnels)", "5 (encore peu touristique mais en développement)"],
+            ["Petites îles de la Sonde (Sumbawa, Rote)", "Surf, nature et aventure", "Sumbawa : surf de classe mondiale à Lakey Peak, randonnée vers le volcan Tambora. Île de Rote : plages préservées et spots de surf.", "Surf, exploration des plages isolées, trekking", "Surfeurs et amateurs de nature sauvage", "5 (accès limité, surtout par bateau)", "9 (plages sauvages, parfaites pour le surf)", "8 (paysages volcaniques, côtes préservées)", "3 (relativement isolé et peu fréquenté)"],
+            ["Sulawesi (Célèbes)", "Culture, plongée et paysages karstiques", "Tana Toraja : cérémonies funéraires traditionnelles. Bunaken : réserve marine réputée pour la plongée. Îles Togean : îlots reculés pour le snorkeling. Archipel de Wakatobi : réserve marine, Tomia Island. Archipel de Selayar : plage de Pantai Pinang, réserve marine de Takabonerate. Détroit de Lembeh : paradis du muck diving.", "Plongée, découvertes culturelles, exploration des grottes", "Aventuriers, plongeurs et explorateurs culturels", "6 (vols disponibles mais transports locaux difficiles)", "7 (plages variées mais souvent accidentées)", "9 (cérémonies, paysages karstiques)", "4 (moins connu mais attire les plongeurs)"],
+            ["Sumatra", "Jungle, faune sauvage et volcans", "Bukit Lawang : rencontre avec les orangs-outans. Lac Toba : plus grand lac volcanique d'Asie. Parc du Gunung Leuser : trek dans la jungle dense.", "Trekking, observation de la faune, exploration volcanique", "Amoureux de la nature et des treks sauvages", "6 (vols domestiques, routes parfois en mauvais état)", "5 (plages moins réputées, souvent boueuses)", "10 (faune sauvage, jungles denses)", "3 (relativement sauvage, peu de touristes)"],
+            ["Sumba", "Culture traditionnelle et plages sauvages", "Waikabubak : villages traditionnels aux toits de chaume et tombes mégalithiques. Pantai Nihiwatu : l'une des plus belles plages d'Indonésie, surf et couchers de soleil, resort Nihi Sumba. Festival Pasola : rituel traditionnel où des cavaliers s'affrontent avec des lances.", "Exploration culturelle, surf, plages isolées", "Surfeurs, amateurs de culture locale", "5 (vols limités)", "9 (plages sauvages et vierges)", "8 (collines, savanes, traditions locales)", "4 (encore peu touristique)"],
+            ["Maluku (Moluques)", "Plongée, culture et histoire", "Ambon : capitale coloniale et spots de plongée. Îles Banda : « îles aux épices », centre historique de la noix de muscade, récifs spectaculaires. Ora Beach : plage paradisiaque avec bungalows sur pilotis.", "Plongée, snorkeling, découverte historique", "Aventuriers, plongeurs, passionnés d'histoire", "5 (accès via Ambon)", "8 (plages isolées, récifs coralliens)", "9 (îlots, forêts tropicales)", "3 (préservé du tourisme de masse)"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "climat-septembre",
+      "title": "Climat en septembre",
+      "summary": "Ce que l'on peut attendre de la météo en septembre dans les différentes régions du voyage.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Java, Bali, Lombok, îles Gili et Nusa Penida : septembre marque la fin de la saison sèche, avec un climat chaud et ensoleillé, idéal pour explorer les temples, randonner et profiter des plages. Les précipitations sont encore très faibles, ce qui est parfait pour la randonnée et les activités en extérieur.",
+            "Komodo : septembre est également idéal. C'est la meilleure saison pour voir les dragons de Komodo, faire du snorkeling et observer des raies manta, car l'eau est claire et la météo favorable.",
+            "Raja Ampat : la région est assez isolée et reçoit des pluies toute l'année, mais septembre fait partie de la période relativement sèche (entre octobre et avril, la mousson est plus forte). Les conditions pour le snorkeling et la plongée sont généralement excellentes, avec une visibilité sous-marine exceptionnelle."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "especes-marines",
+      "title": "Espèces marines à observer",
+      "summary": "Les espèces marines classées de la plus facile à la plus difficile à voir en snorkeling à Bali, Nusa Penida ou Komodo.",
+      "blocks": [
+        { "type": "heading", "text": "Faciles à observer" },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Demoiselles : très communes sur tous les récifs, peu farouches.",
+            "Labres : fréquents dans les récifs coralliens, très actifs.",
+            "Poisson clown : visible dans les anémones, présent dans presque toutes les zones récifales.",
+            "Poisson chirurgien : abondant, souvent en bancs dans les récifs.",
+            "Idole maure : commune près des coraux et des fonds rocheux.",
+            "Baliste ondulé : visible dans les zones récifales et sableuses, assez commun.",
+            "Poisson coffre : observable sur les récifs.",
+            "Poisson perroquet : actif sur les coraux, en train de se nourrir.",
+            "Étoile de mer à bosses : très fréquente dans les récifs peu profonds.",
+            "Étoile-coussin granuleuse : très courante dans les lagons et les zones récifales."
+          ]
+        },
+        { "type": "heading", "text": "Modérément faciles à observer" },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Tortue verte : fréquente à Nusa Penida et à Komodo, observable en zones récifales.",
+            "Murène : souvent dissimulée dans les rochers et les coraux.",
+            "Poisson papillon : facile à repérer mais timide.",
+            "Poisson flûte : souvent dans les eaux calmes, bien camouflé.",
+            "Platax : fréquemment en bancs, près des coraux et des épaves.",
+            "Gobies : communs mais difficiles à repérer en raison de leur petite taille.",
+            "Poisson cocher : modérément commun dans les récifs.",
+            "Poisson porc-épic : souvent dans les zones récifales calmes.",
+            "Baliste clown : moins commun que le baliste ondulé, mais observable.",
+            "Poisson ange nain : discret, mais pas rare dans les récifs coralliens.",
+            "Poisson globe : présent dans les récifs et les zones sableuses.",
+            "Poisson rasoir : en petits bancs, souvent bien cachés près des coraux."
+          ]
+        },
+        { "type": "heading", "text": "Assez difficiles à observer" },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Bénitier géant : localisé dans certains récifs bien préservés.",
+            "Tortue imbriquée : moins fréquente que la tortue verte.",
+            "Poisson ange empereur : souvent discret et méfiant.",
+            "Poisson trompette : se fond dans l'environnement, souvent en eaux peu profondes.",
+            "Poisson vache : rare mais présent dans les zones récifales.",
+            "Poulpe : cryptique, souvent caché dans les anfractuosités.",
+            "Poisson napoléon : impressionnant mais peu fréquent, surtout à Komodo.",
+            "Requin à pointes noires : observable près des récifs, mais souvent de loin.",
+            "Requin gris de récif : plutôt dans les zones éloignées, comme Komodo.",
+            "Poisson grenouille : très bien camouflé, difficile à repérer.",
+            "Poisson mandarin : actif surtout au crépuscule, très discret."
+          ]
+        },
+        { "type": "heading", "text": "Très difficiles à observer" },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Raie pastenague : occasionnelle sur les fonds sableux.",
+            "Raie léopard : rare dans la région mais possible à Komodo.",
+            "Hippocampe : extrêmement discret, souvent dans les herbiers ou les coraux mous.",
+            "Requin tapis : cryptique, présent sur les fonds sableux à Komodo.",
+            "Poisson pierre : très bien camouflé, mais présent dans les zones rocheuses.",
+            "Môle (poisson-lune) : observé surtout à Nusa Penida en saison, de juillet à septembre.",
+            "Requin baleine : rare dans cette région, mais possible dans certaines zones comme Komodo.",
+            "Raie manta : observable à Manta Point ou à Manta Bay à Nusa Penida, mais selon les conditions.",
+            "Tortue caouanne : rare dans cette région, mais possible à Komodo.",
+            "Poisson volant : très difficile à observer en snorkeling."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "option-raja-ampat",
+      "title": "Option : Raja Ampat (7 jours)",
+      "summary": "Une autre troisième semaine : sept jours à Raja Ampat, à la place de Komodo et de Flores.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": ["Jour", "Lieu", "Transport", "Hébergement", "Activités et points d'intérêt"],
+          "rows": [
+            ["17", "Lombok → Sorong", "Vol interne via Makassar (5 h)", "Éco-resort à Raja Ampat", "Arrivée à Raja Ampat, détente sur la plage, snorkeling autour du récif."],
+            ["18", "Raja Ampat", "Bateau privé", "Resort", "Plongée sous-marine avec raies manta et récifs coralliens, découverte des poissons tropicaux."],
+            ["19", "Raja Ampat", "-", "Resort", "Excursion à Pianemo (paysages karstiques), randonnée pour la vue panoramique."],
+            ["20", "Raja Ampat", "-", "Resort", "Kayak autour des îlots, journée sur un banc de sable isolé, observation des oiseaux tropicaux."],
+            ["21", "Raja Ampat", "-", "Resort", "Journée plongée, visite d'un village de pêcheurs, pêche traditionnelle, détente au spa."],
+            ["22", "Raja Ampat", "-", "Resort", "Snorkeling autour du resort, dîner romantique sur la plage."],
+            ["23", "Raja Ampat → Bali → Jakarta", "Vol retour via Jakarta", "-", "Vol de retour pour Paris via Jakarta, shopping de dernière minute."]
+          ]
+        }
+      ]
+    }
+  ]
+}
