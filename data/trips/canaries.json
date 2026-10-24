@@ -1,0 +1,780 @@
+{
+  "id": "canaries",
+  "title": "Canaries",
+  "subtitle": "Fuerteventura, Lanzarote et La Graciosa, avec une escale à Madrid : une minimoon de 8 jours entre volcans, dunes et plages",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "File:Lanzarote Playas de Papagayo R24.jpg",
+  "days": [
+    {
+      "n": 1,
+      "title": "Paris ➔ Fuerteventura (Betancuria)",
+      "summary": "Arrivée à l'aéroport de Fuerteventura et route vers le centre de l'île, par le mirador de Guise y Ayose, jusqu'à Betancuria.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Après-midi",
+          "text": "Arrivée à l'aéroport de Fuerteventura. Hôtel dans le centre de l'île, à Betancuria, en passant par le mirador de Guise y Ayose. Betancuria : beau village, avec un mirador en haut."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner à Betancuria, chez Casa Santa Maria, à réserver à l'avance."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Mirador de Guise y Ayose",
+          "photo": "File:Estatuas de Guise y Ayose – Betancuria – 01.jpg",
+          "culture": "Belvédère orné de deux grandes statues, celles de Guise et d'Ayose, les deux derniers rois de l'île avant la conquête, à la fin du XVe siècle."
+        },
+        {
+          "name": "Betancuria",
+          "wiki": "Betancuria",
+          "culture": "Ancienne capitale de Fuerteventura, fondée en 1404 par le conquérant normand Jean de Béthencourt, dans une vallée à l'abri des pirates."
+        }
+      ],
+      "stay": {
+        "name": "Betancuria",
+        "wiki": "Betancuria",
+        "note": "Hôtel dans le centre de l'île"
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Paris → Fuerteventura (voir « Vols et aéroports »)"
+        }
+      ],
+      "food": [
+        "Casa Santa Maria, à Betancuria : à réserver à l'avance."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Fuerteventura : de Betancuria à Cofete et Sotavento",
+      "summary": "Boutiques, belle route FV30 et miradors, marché de Morro Jable, plage de Cofete et plage de Sotavento, puis nuit dans le sud.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "(Optionnel) Visite d'un domaine de fromage de chèvre local (queso majorero), comme Finca Pepe à Betancuria, à l'ouverture à 9h30 : ferme traditionnelle avec dégustations et élevage des chèvres majoreras. Petites boutiques. Très belle route FV30 entre Pajara et Antigua (ou dans l'autre sens en venant de Betancuria), avec l'Arco de las Peñitas et plusieurs miradors. Mercadillo à Morro Jable (1h30 de Betancuria hors détours) le lundi, et grande plage de sable sans vagues."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Plage de Cofete (30 min de Morro Jable, 2 h de Betancuria). Plage de Sotavento."
+        },
+        {
+          "label": "Soir",
+          "text": "Hôtel dans le sud. Dîner à La Laja, à Morro Jable, en bord de mer."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Finca Pepe",
+          "culture": "Ferme traditionnelle de Betancuria qui élève des chèvres majoreras et propose des dégustations de fromage, à l'ouverture à 9h30."
+        },
+        {
+          "name": "Route FV30 et Arco de las Peñitas",
+          "culture": "Très belle route entre Pajara et Antigua, avec l'Arco de las Peñitas et plusieurs miradors, comme celui de las Peñitas et celui del Risco de Las Peñas."
+        },
+        {
+          "name": "Plage d'Ajuy",
+          "photo": "File:Fuerteventura - Ajuy (Beach).jpg",
+          "coords": [
+            28.4005,
+            -14.152
+          ],
+          "culture": "Village de pêcheurs de la côte ouest, avec une plage de sable noir et des grottes marines creusées dans les plus anciennes falaises des Canaries."
+        },
+        {
+          "name": "Morro Jable",
+          "wiki": "Morro Jable",
+          "culture": "Station balnéaire du sud de l'île, au bout de la péninsule de Jandía, dotée d'une grande plage de sable fin."
+        },
+        {
+          "name": "Plage de Cofete",
+          "wiki": "Cofete",
+          "culture": "Plage sauvage de plus de 10 km sur la côte nord de la péninsule de Jandía, sous des montagnes de plus de 800 m. La mystérieuse villa Winter la domine."
+        },
+        {
+          "name": "Sentier de Gran Valle",
+          "culture": "Sentier de 2 h 30 entre le mirador de Gran Valle et la plage de Cofete."
+        },
+        {
+          "name": "Grotte de Los Ojos",
+          "culture": "Grotte secrète, tout au bout de la péninsule de Jandía."
+        },
+        {
+          "name": "Plage de Sotavento",
+          "culture": "Longue plage du sud-est de la péninsule de Jandía, où la marée basse dévoile des bancs de sable blanc et un lagon."
+        },
+        {
+          "name": "Plage de la Pared",
+          "culture": "Spot de surf connu, avec une belle route pour y aller, mais moins belle que Sotavento."
+        }
+      ],
+      "stay": {
+        "name": "Sud de Fuerteventura",
+        "wiki": "Morro Jable",
+        "note": "Hôtel dans le sud",
+        "options": [
+          "Costa Calma (1 h) : VIK Suite Hotel Risco del Gato",
+          "Morro Jable (1 h 15) : Riu Palace Jandia",
+          "Sotavento : [hôtel Meliá Fuerteventura](https://www.booking.com/hotel/es/innside-by-melia-fuerteventura.en.html)"
+        ]
+      },
+      "food": [
+        "La Laja, à Morro Jable, en bord de mer."
+      ],
+      "ideas": [
+        "(Optionnel) Détour de 2 × 10 min par la plage de sable noir d'Ajuy.",
+        "(Optionnel) Randonnée de 2 h 30 entre le mirador et la plage de Cofete, sur le sentier de Gran Valle.",
+        "(Optionnel) Grotte secrète de Los Ojos, tout au bout de la péninsule : optionnelle car il faut déjà 1 h pour remonter à Sotavento."
+      ],
+      "notes": [
+        "Plage de Sotavento : privilégier la marée basse pour les bancs de sable blanc."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Fuerteventura : du sud au nord",
+      "summary": "Route de Morro Jable à La Oliva par Antigua, musée du fromage, Tindaya, El Cotillo et ses plages, puis nuit à Corralejo.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Morro Jable → La Oliva, en passant par Antigua (1h20). À Antigua : moulin-musée du fromage, avec jardin de cactus : 4 € l'entrée et 3 € la dégustation de 4 fromages avec un petit verre d'alcool de miel, le lundi, mercredi et vendredi à 11h30 et 12h30. La Oliva : capitale historique de l'île, très belle route depuis Betancuria en passant par Tindaya. Randonnée à la montagne de Tindaya (30 min de Betancuria). Joli Molino de El Roque entre Lajares et El Cotillo."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Découverte d'El Cotillo et de ses plages calmes : Playa de la Concha ou El Castillo de El Tostón, d'où l'on admire un magnifique coucher de soleil, piscines naturelles au nord à côté du phare ou au sud à Aguas Verdes."
+        },
+        {
+          "label": "Soir",
+          "text": "Logement dans le nord, à Corralejo. Dîner dans un cadre paisible à La Vaca Azul, à El Cotillo."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Antigua",
+          "wiki": "Antigua, Fuerteventura",
+          "culture": "Village de l'intérieur de l'île, dont le musée du fromage rend hommage au queso majorero, un fromage de chèvre AOP."
+        },
+        {
+          "name": "Musée du fromage de Fuerteventura (Antigua)",
+          "culture": "Moulin-musée avec jardin de cactus, qui fait déguster quatre fromages avec un petit verre d'alcool de miel."
+        },
+        {
+          "name": "La Oliva",
+          "wiki": "La Oliva",
+          "culture": "Capitale historique de l'île, ancien siège du pouvoir militaire et administratif. Un marché des traditions s'y tient le mardi."
+        },
+        {
+          "name": "Montagne de Tindaya",
+          "wiki": "Tindaya",
+          "culture": "Montagne sacrée des anciens habitants de l'île, couverte de gravures rupestres en forme de pieds."
+        },
+        {
+          "name": "Molino de El Roque",
+          "culture": "Joli moulin à vent entre Lajares et El Cotillo."
+        },
+        {
+          "name": "El Cotillo",
+          "wiki": "El Cotillo",
+          "culture": "Ancien village de pêcheurs de la côte nord-ouest, connu pour ses plages de sable blanc, ses lagons calmes et sa tour fortifiée du XVIIIe siècle, le castillo de El Tostón."
+        },
+        {
+          "name": "Playa de la Concha",
+          "culture": "Plage de sable blanc abritée d'El Cotillo, aux eaux calmes."
+        },
+        {
+          "name": "Castillo de El Tostón",
+          "culture": "Tour de défense du XVIIIe siècle, à côté d'un phare, d'où l'on admire un magnifique coucher de soleil."
+        },
+        {
+          "name": "Aguas Verdes",
+          "culture": "Piscines naturelles au sud d'El Cotillo, calmes à marée basse."
+        },
+        {
+          "name": "Caleta de Fuste",
+          "wiki": "Caleta de Fuste",
+          "culture": "Station de la côte est, à 10 minutes de l'aéroport, dont les piscines naturelles se visitent à marée basse."
+        }
+      ],
+      "stay": {
+        "name": "Corralejo",
+        "coords": [
+          28.73,
+          -13.867
+        ],
+        "note": "Logement dans le nord"
+      },
+      "food": [
+        "La Vaca Azul, à El Cotillo, pour un dîner dans un cadre paisible."
+      ],
+      "ideas": [
+        "(Optionnel) Repasser par Betancuria pour ce qui a été manqué la veille.",
+        "(Optionnel) Piscines naturelles de Caleta de Fuste ([carte](https://www.google.com/maps/place/Piscina+Natural/@28.3971515,-13.8599042,16z)), à 10 minutes de l'aéroport puis 5 min de marche, à faire à marée basse avec des chaussures d'eau et par temps clair. L'idéal est d'avoir une marée basse le matin : à partir de 11 h, il y a beaucoup de monde dans ce petit espace."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Corralejo ➔ Lanzarote",
+      "summary": "Volcan Calderón Hondo, pique-nique dans les dunes de Corralejo, puis ferry vers Playa Blanca et plage de Papagayo.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Volcan Calderón Hondo (20 min de Corralejo) : le plus grand volcan de l'île, 45 min de sentier pour atteindre le cratère (70 m de profondeur) dont on peut faire le tour, avec des écureuils caractéristiques. Pique-nique dans les dunes de Corralejo : on se gare sur le bas-côté et on explore."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Ferry dans l'après-midi de Corralejo à Playa Blanca (30 min). Village de Femés : vue sur le sud de l'île depuis le mirador. Détente sur la plage de Papagayo ou une autre plage de la côte sud."
+        },
+        {
+          "label": "Soir",
+          "text": "Hôtel à Playa Blanca, dans le sud de l'île. Dîner à Casa Roja, à Playa Blanca, pour un repas avec vue sur le port."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Volcan Calderón Hondo",
+          "culture": "Le plus grand volcan de Fuerteventura, avec 45 minutes de sentier jusqu'à un cratère de 70 m de profondeur dont on peut faire le tour."
+        },
+        {
+          "name": "Dunes de Corralejo",
+          "photo": "File:Montaña y duna, Dunas de Corralejo, Fuerteventura, España, 2015.JPG",
+          "culture": "Parc naturel de dunes de sable blanc qui s'étend sur plusieurs kilomètres, face à l'île de Lobos."
+        },
+        {
+          "name": "Playa El Morro",
+          "culture": "Plage des dunes de Corralejo, avec moins de vagues que d'autres."
+        },
+        {
+          "name": "Grandes Playas",
+          "culture": "Longue plage de sable blanc de Corralejo, au pied des dunes."
+        },
+        {
+          "name": "Village de Femés",
+          "coords": [
+            28.93,
+            -13.808
+          ],
+          "culture": "Village perché du sud de Lanzarote, dont le mirador donne sur le sud de l'île."
+        },
+        {
+          "name": "Plage de Papagayo",
+          "photo": "File:Lanzarote Playas de Papagayo R24.jpg",
+          "coords": [
+            28.85,
+            -13.79
+          ],
+          "culture": "Série de criques de sable doré, abritées, dans le sud de Lanzarote. On y accède par une piste."
+        },
+        {
+          "name": "Playa Blanca",
+          "photo": "File:Beach in Playa Blanca - Lanzarote -B20.jpg",
+          "coords": [
+            28.861,
+            -13.827
+          ],
+          "culture": "Station balnéaire du sud de Lanzarote, d'où partent les ferries pour Fuerteventura."
+        }
+      ],
+      "stay": {
+        "name": "Playa Blanca",
+        "coords": [
+          28.861,
+          -13.827
+        ],
+        "note": "Hôtel à Playa Blanca, dans le sud de l'île"
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry Corralejo → Playa Blanca : 30 min. [Líneas Romero](https://www.lineasromero.com/) (peu fréquent, 17,50 € par personne sans voiture), [Fred Olsen](https://compra.fredolsen.es/Booking/en/availability) (plus fréquent, passager + voiture 69 €), [Naviera Armas](https://armastrasmediterranea.com/) (peu fréquent, passager + voiture 73 €)"
+        }
+      ],
+      "food": [
+        "Casa Roja, à Playa Blanca : un repas avec vue sur le port."
+      ],
+      "ideas": [
+        "Plages de Fuerteventura moins belles mais avec moins de vagues : Playa El Morro et Grandes Playas (des cailloux « popcorn »), et pas ouf à Playa del Bajo de la Burra."
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Lanzarote : volcans et côte ouest",
+      "summary": "El Golfo, randonnée à la Caldera Blanca dans le parc de Timanfaya, Montaña Colorada et Montaña Negra, La Santa, Famara et Los Cuervos.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "El Golfo : la plage la plus colorée, avec un lac intérieur. Parc national de Timanfaya : randonnée à la Caldera Blanca."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Vue sur la Montaña Colorada et la Montaña Negra. La Santa : la côte du bout du monde. Famara : très belle plage de surfeurs, pour le coucher de soleil. Courte randonnée à Los Cuervos. Détente sur la plage de Papagayo ou une autre plage de la côte sud."
+        },
+        {
+          "label": "Soir",
+          "text": "Restaurant à Puerto Calero : ambiance select."
+        }
+      ],
+      "stops": [
+        {
+          "name": "El Golfo",
+          "photo": "File:2011 - El Golfo - Charco de los Clicos -Lanzarote - G07.jpg",
+          "coords": [
+            28.981,
+            -13.829
+          ],
+          "culture": "Village de pêcheurs au pied d'un cratère à moitié englouti par la mer. Le Charco de los Clicos est un lagon d'un vert intense."
+        },
+        {
+          "name": "Parc national de Timanfaya",
+          "wiki": "Timanfaya National Park",
+          "culture": "Paysage de lave né des éruptions de 1730 à 1736, qui ont recouvert plusieurs villages. Le parc national a été créé en 1974."
+        },
+        {
+          "name": "Caldera Blanca",
+          "culture": "Grand cratère de plus d'un kilomètre de large, dans le parc de Timanfaya, que l'on rejoint par une randonnée."
+        },
+        {
+          "name": "Montaña Colorada",
+          "culture": "Volcan aux flancs rouge orangé, dans la région de Timanfaya."
+        },
+        {
+          "name": "Montaña Negra",
+          "culture": "Volcan à la couleur noire de ses cendres, voisin de la Montaña Colorada."
+        },
+        {
+          "name": "La Santa",
+          "culture": "Village de la côte nord-ouest de Lanzarote, au bout du monde, connu pour son centre sportif."
+        },
+        {
+          "name": "Famara",
+          "wiki": "Famara",
+          "culture": "Longue plage de surf au pied d'une falaise d'environ 600 m, sur la côte nord-ouest, parfaite pour le coucher de soleil."
+        },
+        {
+          "name": "Los Cuervos",
+          "photo": "File:Lanzarote, Los Cuervos (53094744924).jpg",
+          "culture": "Volcan Caldera de los Cuervos, que l'on découvre par un court sentier de randonnée."
+        },
+        {
+          "name": "Puerto Calero",
+          "photo": "File:Puerto Calero - Lanzarote.jpg",
+          "culture": "Port de plaisance chic du sud de Lanzarote, avec des restaurants à l'ambiance select."
+        }
+      ],
+      "stay": {
+        "name": "Playa Blanca",
+        "coords": [
+          28.861,
+          -13.827
+        ],
+        "note": "Hébergement non précisé dans le tableau"
+      },
+      "food": [
+        "Un restaurant à Puerto Calero, à l'ambiance select."
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Lanzarote : La Geria, tunnels de lave et Jameos del Agua",
+      "summary": "Vignobles de La Geria, jardin de cactus, cratère de La Corona, Cueva de los Verdes et Jameos del Agua.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Découverte des vignobles de La Geria : visite guidée, dégustation approfondie des vins et exploration des techniques viticoles."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Trajet vers le Jardín de Cactus (40 min de Playa Blanca). Randonnée jusqu'au cratère de La Corona. Découverte de la Cueva de los Verdes (10 min de route, 1 h de visite). Visite de Jameos del Agua (5 min de la Cueva de los Verdes), avec [dîner et concert](https://cactlanzarote.com/tickets/cena-concierto-jameos/) à 98 €."
+        },
+        {
+          "label": "Soir",
+          "text": "Hôtel dans le nord ou l'est de l'île. Dîner à Puerto del Carmen."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Vignobles de La Geria",
+          "photo": "File:Vineyards La Geria IMGP1903.jpg",
+          "coords": [
+            28.974,
+            -13.632
+          ],
+          "culture": "Vignoble volcanique où chaque cep pousse dans un creux creusé dans les cendres, protégé du vent par un petit muret de pierre."
+        },
+        {
+          "name": "Jardín de Cactus",
+          "wiki": "Jardín de Cactus",
+          "culture": "Jardin de cactus conçu par César Manrique en 1990 dans une ancienne carrière."
+        },
+        {
+          "name": "Cratère de La Corona",
+          "photo": "File:Volcán de la Corona desde Jameos del Agua - Lanzarote - A10.jpg",
+          "coords": [
+            29.13,
+            -13.43
+          ],
+          "culture": "Volcan d'environ 600 m dont les coulées ont formé les tunnels de lave de la Cueva de los Verdes."
+        },
+        {
+          "name": "Cueva de los Verdes",
+          "wiki": "Cueva de los Verdes",
+          "culture": "Tunnel de lave d'environ 6 km formé par l'éruption du volcan La Corona. Une partie se visite, et des concerts y ont parfois lieu."
+        },
+        {
+          "name": "Jameos del Agua",
+          "wiki": "Jameos del Agua",
+          "culture": "Tunnel de lave effondré, aménagé par César Manrique, avec un lac souterrain où vivent de minuscules crabes albinos."
+        },
+        {
+          "name": "Puerto del Carmen",
+          "wiki": "Puerto del Carmen"
+        }
+      ],
+      "stay": {
+        "name": "Nord ou est de Lanzarote",
+        "coords": [
+          29.05,
+          -13.55
+        ],
+        "note": "Hôtel dans le nord ou l'est de l'île"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Playa Blanca → Jardín de Cactus : ~40 min ; Cueva de los Verdes → Jameos del Agua : ~5 min"
+        }
+      ],
+      "food": [
+        "La Cascada Puerto, à Puerto del Carmen : ambiance élégante et locale.",
+        "Taberna de Nino, à Puerto del Carmen."
+      ],
+      "ideas": [
+        "Concerts parfois à la [Cueva de los Verdes](https://culturalanzarote.com/centros-culturales/auditorio-cueva-de-los-verdes/)."
+      ]
+    },
+    {
+      "n": 7,
+      "title": "La Graciosa",
+      "summary": "Ferry tôt le matin depuis Orzola, vélo ou 4x4 jusqu'à Playa de las Conchas, détente à Playa Francesa, randonnée à Montaña Amarilla, puis Mirador del Río au coucher du soleil.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Ferry tôt le matin d'Orzola vers La Graciosa (40 min). Exploration à vélo ou en 4x4 de Playa de las Conchas."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Détente à Playa Francesa et randonnée à Montaña Amarilla. Retour en ferry à Lanzarote en fin d'après-midi. Vue spectaculaire depuis le Mirador del Río au coucher du soleil."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner à définir."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Orzola",
+          "wiki": "Orzola",
+          "culture": "Village de pêcheurs du nord de Lanzarote, d'où partent les ferries pour La Graciosa."
+        },
+        {
+          "name": "La Graciosa",
+          "wiki": "La Graciosa",
+          "culture": "Plus petite île habitée de l'archipel des Canaries, sans routes goudronnées : on s'y déplace à vélo ou en 4x4."
+        },
+        {
+          "name": "Playa de las Conchas",
+          "photo": "File:La Graciosa, playa de las conchas 2.jpg",
+          "culture": "Plage de sable doré face à l'îlot d'Alegranza, superbe mais où la baignade est dangereuse à cause des courants."
+        },
+        {
+          "name": "Playa Francesa",
+          "culture": "Plage calme et abritée de La Graciosa, idéale pour se baigner."
+        },
+        {
+          "name": "Montaña Amarilla",
+          "photo": "File:Montaña Amarilla La Graciosa 6.jpg",
+          "culture": "Petit volcan à la couleur dorée, que l'on gravit par un court sentier."
+        },
+        {
+          "name": "Mirador del Río",
+          "wiki": "Mirador del Río",
+          "culture": "Belvédère conçu par César Manrique en 1973 dans une ancienne batterie militaire, à environ 475 m, face à La Graciosa."
+        }
+      ],
+      "stay": {
+        "name": "Lanzarote",
+        "coords": [
+          29.05,
+          -13.55
+        ],
+        "note": "Hébergement non précisé dans le tableau"
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry Orzola → La Graciosa : ~40 min, tôt le matin"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Lanzarote ➔ Madrid",
+      "summary": "Marché de Teguise, Fondation César Manrique et fromagerie, puis vol pour Madrid et dîner tapas ou flamenco.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Teguise : joli village avec le plus grand marché des Canaries le dimanche matin. Visite de la Fondation César Manrique. Visite d'une fromagerie : Quesería El Faro à Teguise, Quesería Finca de Uga à Yaiza (Meilleur Fromage d'Espagne 2024) ou Quesería Flor de Luz à San Bartolomé."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Trajet vers l'aéroport de Lanzarote et vol pour Madrid."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner à Madrid : tapas à La Latina ou Malasaña, spectacle de flamenco dans un tablao réputé."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Teguise",
+          "photo": "File:Teguise, Markt.jpg",
+          "coords": [
+            29.06,
+            -13.564
+          ],
+          "culture": "Ancienne capitale de Lanzarote, qui accueille le dimanche matin le plus grand marché des Canaries."
+        },
+        {
+          "name": "Fondation César Manrique",
+          "photo": "File:Taro Tahiche 2002.JPG",
+          "coords": [
+            29.03,
+            -13.528
+          ],
+          "culture": "Ancienne maison de l'artiste à Taro de Tahíche, bâtie dans cinq bulles volcaniques sous la lave."
+        },
+        {
+          "name": "Quesería El Faro (Teguise)"
+        },
+        {
+          "name": "Quesería Finca de Uga (Yaiza)",
+          "culture": "Fromagerie de Yaiza, élue Meilleur Fromage d'Espagne en 2024."
+        },
+        {
+          "name": "Quesería Flor de Luz (San Bartolomé)"
+        },
+        {
+          "name": "La Latina",
+          "wiki": "La Latina",
+          "culture": "Quartier populaire du vieux Madrid, célèbre pour ses tapas, surtout le dimanche."
+        },
+        {
+          "name": "Malasaña",
+          "culture": "Quartier branché de Madrid, aux bars et aux boutiques alternatives."
+        }
+      ],
+      "stay": {
+        "name": "Madrid",
+        "wiki": "Madrid",
+        "note": "Nuit à Madrid"
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Lanzarote → Madrid"
+        }
+      ],
+      "food": [
+        "Tapas à La Latina ou à Malasaña : Casa Alberto, Cervecería Alemana, Casa Lucas.",
+        "Flamenco dans un tablao réputé, comme Casa Patas, ou couplé à un restaurant étoilé, comme [Corral de la Morería](https://www.corraldelamoreria.com/en/tickets/)."
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Madrid ➔ Paris",
+      "summary": "Churros, promenade dans le vieux Madrid, déjeuner au marché, musée, parc du Retiro et shopping, avant le retour à Paris.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Churros à la Chocolatería San Ginés. Promenade : Puerta del Sol, Plaza Mayor, Palais Royal (extérieur ou visite), cathédrale de l'Almudena, casa de Cisneros, palais Santa Cruz, jardin du prince d'Anglona, plaza de la Paja, plaza de Los Carros, plaza de Matute, casa Pérez Villaamil. S'il y a le temps : Chueca, quartier gay et branché."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Déjeuner au Mercado de San Miguel. Musée du Prado, Reina Sofía ou Thyssen-Bornemisza. Parc du Retiro et Palacio de Cristal. Shopping sur la Gran Vía ou dans le quartier de Salamanca."
+        },
+        {
+          "label": "Soir",
+          "text": "Retour à Paris."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Chocolatería San Ginés",
+          "wiki": "Chocolatería San Ginés",
+          "culture": "Chocolatería ouverte en 1894, connue pour ses churros avec un chocolat chaud très épais, servis de jour comme de nuit."
+        },
+        {
+          "name": "Puerta del Sol",
+          "wiki": "Puerta del Sol",
+          "culture": "Place centrale de Madrid, point zéro des routes d'Espagne et lieu du réveillon des douze raisins."
+        },
+        {
+          "name": "Plaza Mayor",
+          "wiki": "Plaza Mayor, Madrid",
+          "culture": "Grande place fermée du XVIIe siècle, achevée en 1619 sous Philippe III, bordée d'arcades et de balcons."
+        },
+        {
+          "name": "Palais Royal",
+          "wiki": "Royal Palace of Madrid",
+          "culture": "L'un des plus grands palais royaux d'Europe par sa superficie, avec plus de 3 000 salles."
+        },
+        {
+          "name": "Cathédrale de l'Almudena",
+          "wiki": "Almudena Cathedral",
+          "culture": "Cathédrale de Madrid, commencée en 1883 et consacrée en 1993 par Jean-Paul II."
+        },
+        {
+          "name": "Casa de Cisneros",
+          "culture": "Palais de la Renaissance du XVIe siècle, sur la Plaza de la Villa, relié à l'hôtel de ville."
+        },
+        {
+          "name": "Palais de Santa Cruz",
+          "culture": "Palais baroque du XVIIe siècle, sur la Plaza de la Provincia, ancienne prison de cour puis siège de ministères."
+        },
+        {
+          "name": "Jardin du prince d'Anglona",
+          "culture": "Petit jardin secret du quartier de La Latina, caché derrière un palais."
+        },
+        {
+          "name": "Plaza de la Paja",
+          "culture": "Place médiévale du vieux Madrid, ancienne place du marché."
+        },
+        {
+          "name": "Plaza de los Carros"
+        },
+        {
+          "name": "Plaza de Matute",
+          "culture": "Petite place du Barrio de las Letras, dans le centre de Madrid."
+        },
+        {
+          "name": "Casa Pérez Villaamil"
+        },
+        {
+          "name": "Chueca",
+          "culture": "Quartier gay et branché de Madrid, autour de la Plaza de Chueca."
+        },
+        {
+          "name": "Mercado de San Miguel",
+          "wiki": "Mercado de San Miguel",
+          "culture": "Marché couvert en fer et en verre de 1916, devenu une halle gourmande."
+        },
+        {
+          "name": "Musée du Prado",
+          "wiki": "Prado Museum",
+          "culture": "L'un des plus grands musées du monde, ouvert en 1819, avec Vélasquez, Goya et le Greco."
+        },
+        {
+          "name": "Musée Reina Sofía",
+          "wiki": "Museo Reina Sofía",
+          "culture": "Musée d'art moderne qui abrite Guernica, de Picasso, ainsi que des œuvres de Dalí."
+        },
+        {
+          "name": "Musée Thyssen-Bornemisza",
+          "wiki": "Museo Thyssen-Bornemisza",
+          "culture": "Collection du baron Thyssen-Bornemisza, qui complète le Prado et le Reina Sofía avec sept siècles d'art."
+        },
+        {
+          "name": "Parc du Retiro",
+          "wiki": "Buen Retiro Park",
+          "culture": "Grand parc d'environ 125 hectares, ancien jardin des rois, ouvert au public au XIXe siècle."
+        },
+        {
+          "name": "Palacio de Cristal",
+          "photo": "File:Palacio de Cristal - 01.jpg",
+          "coords": [
+            40.4113,
+            -3.682
+          ],
+          "culture": "Pavillon de verre et de métal de 1887, au bord d'un étang du parc du Retiro."
+        },
+        {
+          "name": "Gran Vía",
+          "wiki": "Gran Vía (Madrid)",
+          "coords": [
+            40.42,
+            -3.705
+          ],
+          "culture": "Grande avenue ouverte au début du XXe siècle, bordée d'immeubles Art déco, surnommée le Broadway madrilène."
+        },
+        {
+          "name": "Quartier de Salamanca",
+          "wiki": "Salamanca (Madrid)",
+          "culture": "Quartier chic aux boutiques de luxe, construit à partir de 1860 par le marquis de Salamanca."
+        }
+      ],
+      "stay": null,
+      "end": "Retour à Paris",
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Madrid → Paris"
+        }
+      ],
+      "ideas": [
+        "Déjeuner au Mercado de San Miguel, par exemple chez Arzábal, avec une sangria."
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "vols-et-aeroports",
+      "title": "Vols et aéroports",
+      "summary": "Quels jours les vols directs fonctionnent entre Paris et les Canaries, et comment gagner en horaires.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Paris – Fuerteventura et Fuerteventura – Paris : uniquement les mardi, mercredi, jeudi et samedi (donc tous les jours sauf dimanche, lundi et vendredi).",
+            "Paris – Lanzarote et Lanzarote – Paris : uniquement les lundi, mardi, mercredi, jeudi et samedi (donc tous les jours sauf dimanche et vendredi).",
+            "Paris – Tenerife : tous les jours.",
+            "Tenerife – Paris : uniquement les dimanche, mardi, mercredi, jeudi et samedi (donc tous les jours sauf lundi et vendredi).",
+            "Pour avoir de meilleurs horaires, regarder des escales longues à Madrid et à Barcelone."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "liens-ressources",
+      "title": "Liens et ressources",
+      "summary": "Articles et blogs consultés pour préparer les Canaries.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "[Que faire à Fuerteventura ? Itinéraire (Amoureux du Monde)](https://amoureux-du-monde.com/destinations/europe/espagne/que-faire-a-fuerteventura/)",
+            "[Fabuleux Voyage Canaries](https://sites.google.com/site/fabuleuxvoyagescanaries/)",
+            "[Quelle île des Canaries choisir, que visiter ? Nos conseils (Les Globe Blogueurs)](https://lesglobeblogueurs.com/iles-canaries-choix/)",
+            "[Que faire à La Graciosa, la perle des Canaries face à Lanzarote](https://souvenirs.vincent.voyage/la-graciosa/)",
+            "[Une journée sur l'île de La Graciosa (Le Petit Explorateur)](https://www.lepetitexplorateur.com/randonnee-journee-ile-graciosa-lanzarote-canaries/)",
+            "[La Graciosa : un souffle d'authenticité au cœur des Canaries (Ephemeos)](https://www.ephemeos.com/la-graciosa)",
+            "[15 jours aux Canaries : Fuerteventura et Lanzarote (Jolis Circuits)](https://www.joliscircuits.com/courts-sejours/15-jours-aux-canaries-fuerteventura-lanzarote/)",
+            "[Road-trip sur les îles Canaries : mon itinéraire détaillé (Voyages et Exotisme)](https://www.voyagesetexotisme.com/post/roadtrip-iles-canaries-itineraire-detaille)",
+            "[Fuerteventura : les plus beaux endroits de l'île (Pass to Freedom)](https://passtofreedom.com/destinations/que-faire-fuerteventura/)",
+            "[Que faire à Fuerteventura : incontournables et conseils d'itinéraire (Notre vie en voyage)](https://notrevieenvoyage.com/que-faire-a-fuerteventura-incontournables-et-conseil-ditineraire/)"
+          ]
+        }
+      ]
+    }
+  ]
+}

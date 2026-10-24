@@ -1,0 +1,1100 @@
+{
+  "id": "srilanka-maldives",
+  "title": "Sri Lanka + Maldives",
+  "subtitle": "Du triangle culturel aux plantations de thé, puis la côte sud et un resort aux Maldives",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Nine Arches Bridge",
+  "days": [
+    {
+      "n": 1,
+      "title": "Paris ➔ Colombo",
+      "summary": "Vol vers Colombo, avec une escale éventuelle au Moyen-Orient.",
+      "hero": "Colombo",
+      "route": "none",
+      "stops": [],
+      "stay": {
+        "name": "Colombo",
+        "wiki": "Colombo",
+        "note": "Nuit dans l'avion ou à l'hôtel"
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Paris → Colombo, avec une escale éventuelle au Moyen-Orient"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Colombo ➔ Sigiriya",
+      "summary": "Visite courte de Colombo, puis route vers Sigiriya.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Fort de Colombo",
+          "wiki": "Colombo Fort",
+          "culture": "Quartier historique du port, fortifié tour à tour par les Portugais, les Hollandais et les Britanniques. Il abrite aujourd'hui des bâtiments coloniaux, des banques et des boutiques."
+        },
+        {
+          "name": "Temple Gangaramaya",
+          "wiki": "Gangaramaya Temple",
+          "culture": "Temple bouddhiste emblématique de Colombo, qui mêle des influences sri lankaises, thaïlandaises et chinoises. Son musée rassemble des objets offerts par les fidèles."
+        },
+        {
+          "name": "Galle Face Green",
+          "wiki": "Galle Face Green",
+          "coords": [
+            6.9271,
+            79.8454
+          ],
+          "culture": "Vaste esplanade en bord de mer, aménagée en 1859, où les habitants de Colombo viennent pique-niquer, faire voler des cerfs-volants et grignoter au coucher du soleil."
+        },
+        {
+          "name": "Dutch Hospital",
+          "photo": "File:Dutch Hospital.jpg",
+          "coords": [
+            6.9347,
+            79.842
+          ],
+          "culture": "L'un des plus anciens bâtiments de Colombo encore debout, construit par les Hollandais au XVIIe siècle comme hôpital, reconverti en quartier de restaurants et de boutiques."
+        },
+        {
+          "name": "Pettah",
+          "wiki": "Pettah, Sri Lanka",
+          "culture": "Quartier-bazar de Colombo aux ruelles étroites, où se pressent marchés, boutiques et tuk-tuks. Son nom vient du tamoul « pettai », qui désigne un faubourg."
+        },
+        {
+          "name": "Manning Market"
+        },
+        {
+          "name": "Mosquée Jami-ul-Alfar",
+          "wiki": "Jami Ul-Alfar Mosque",
+          "culture": "Mosquée de brique rouge et blanche de Pettah, construite vers 1909, dont les rayures lui valent des airs de pâtisserie."
+        },
+        {
+          "name": "Marché flottant",
+          "culture": "Marché flottant du lac Beira, à Pettah, dont les vendeurs proposent leurs produits depuis des bateaux."
+        }
+      ],
+      "stay": {
+        "name": "Sigiriya",
+        "wiki": "Sigiriya",
+        "note": "Hôtel à Sigiriya",
+        "options": [
+          "The Paradise Resort & Spa (Sigiriya)",
+          "Uga Ulagalla (Anuradhapura)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Colombo → Sigiriya : ~3 h, chauffeur ou taxi"
+        }
+      ],
+      "ideas": [
+        "Un temple hindou à Colombo, noté « Gangaramaya Temple hindou » dans vos notes : à préciser."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Sigiriya et Dambulla",
+      "summary": "Vue sur le Rocher du Lion depuis Pidurangala Rock, puis Dambulla : marché local, temple d'or et temple de la roche, aux grottes ornées de fresques bouddhistes.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Rocher de Sigiriya",
+          "wiki": "Sigiriya",
+          "culture": "Forteresse du Ve siècle bâtie par le roi Kassapa au sommet d'un rocher d'environ 200 m, avec ses jardins, ses fresques et l'entrée entre les pattes d'un lion. Inscrite à l'UNESCO en 1982."
+        },
+        {
+          "name": "Pidurangala Rock",
+          "photo": "File:Sigiriya Rock Fortress View from Pidurangala Rock.jpg",
+          "coords": [
+            7.968,
+            80.757
+          ],
+          "culture": "Rocher voisin de Sigiriya d'où l'on voit le Rocher du Lion se détacher de la jungle. Un Bouddha couché se trouve sur le chemin."
+        },
+        {
+          "name": "Lac de Kayanwala Weva"
+        },
+        {
+          "name": "Marché local de Dambulla",
+          "culture": "Dambulla abrite l'un des plus grands marchés de gros de fruits et légumes du pays."
+        },
+        {
+          "name": "Temple d'or de Dambulla",
+          "wiki": "Dambulla cave temple",
+          "culture": "Entrée du complexe de Dambulla, dominée par un grand Bouddha doré, construit à la fin du XXe siècle."
+        },
+        {
+          "name": "Temple de la roche de Dambulla",
+          "wiki": "Dambulla cave temple",
+          "culture": "Cinq grottes aménagées en sanctuaires bouddhistes, ornées de plus de 150 statues de Bouddha et de peintures murales. Le site est inscrit à l'UNESCO depuis 1991."
+        }
+      ],
+      "stay": {
+        "name": "Sigiriya",
+        "wiki": "Sigiriya",
+        "note": "Hôtel à Sigiriya",
+        "options": [
+          "The Paradise Resort & Spa"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Sigiriya → Dambulla : ~1 h, chauffeur"
+        }
+      ],
+      "food": [
+        "Chooti Restaurant."
+      ],
+      "ideas": [
+        "Pidurangala : coucher de soleil à 17 h, ou lever de soleil à 5 h du matin pour voir la brume et la lumière sur la jungle. Trajet en tuk-tuk.",
+        "Macaques à toque, à observer dans les environs."
+      ],
+      "notes": [
+        "À Dambulla, on se déchausse et épaules et genoux doivent être couverts pour tous les visiteurs."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Sigiriya et Polonnaruwa",
+      "summary": "Visite d'Anuradhapura (stupa géant de Jethawanaramaya, arbre sacré Sri Maha Bodhi) et/ou de Polonnaruwa, à vélo, en slalomant entre les temples et les stūpas.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Anuradhapura",
+          "wiki": "Anuradhapura",
+          "culture": "Première capitale du royaume du Sri Lanka, fondée au IVe siècle av. J.-C. et grand centre du bouddhisme pendant plus d'un millénaire. Elle est inscrite à l'UNESCO depuis 1982."
+        },
+        {
+          "name": "Stupa de Jethawanaramaya",
+          "wiki": "Jetavanaramaya",
+          "coords": [
+            8.351,
+            80.408
+          ],
+          "culture": "Immense stupa de brique bâti au IIIe siècle de notre ère, qui comptait parmi les plus hautes structures du monde antique."
+        },
+        {
+          "name": "Arbre sacré Sri Maha Bodhi",
+          "coords": [
+            8.345,
+            80.396
+          ],
+          "culture": "Figuier sacré planté en 288 av. J.-C. à partir d'une bouture de l'arbre sous lequel Bouddha aurait atteint l'éveil. C'est l'arbre planté par l'homme dont l'âge est le mieux documenté au monde."
+        },
+        {
+          "name": "Polonnaruwa",
+          "wiki": "Polonnaruwa",
+          "culture": "Capitale médiévale du Sri Lanka du XIe au XIIIe siècle. Ses ruines de temples et de palais, avec des Bouddhas taillés dans le granit, sont inscrites à l'UNESCO depuis 1982."
+        }
+      ],
+      "stay": {
+        "name": "Sigiriya",
+        "wiki": "Sigiriya",
+        "note": "Hôtel à Sigiriya",
+        "options": [
+          "The Paradise Resort & Spa",
+          "Aliya Resort & Spa"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Sigiriya → Polonnaruwa : ~1 h, chauffeur"
+        }
+      ],
+      "ideas": [
+        "Polonnaruwa est plus impressionnant qu'Anuradhapura, et se visite bien à vélo.",
+        "Massage ayurvédique."
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Sigiriya ➔ Kitulgala",
+      "summary": "Route vers Kitulgala, avec un point de vue sur les plantations de thé comparable à Lipton's Seat, mais gratuit.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Kitulgala",
+          "wiki": "Kitulgala",
+          "culture": "Petite ville de la forêt tropicale, connue pour le rafting sur la rivière Kelani et pour avoir servi de décor au film Le Pont de la rivière Kwaï (1957)."
+        },
+        {
+          "name": "Point de vue sur les plantations de thé",
+          "coords": [
+            6.9454591,
+            80.7875312
+          ],
+          "culture": "Un belvédère sur les plantations de thé, semblable à celui de Lipton's Seat, mais gratuit. [Voir sur Google Maps](https://www.google.com/maps/@6.9454591,80.7875312,3a,60y,332.41h,89.37t)."
+        }
+      ],
+      "stay": {
+        "name": "Kitulgala",
+        "wiki": "Kitulgala",
+        "note": "Hôtel à Kitulgala",
+        "options": [
+          "Forest Edge"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Sigiriya → Kitulgala : chauffeur, durée à préciser"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Kandy ➔ Ella (en train)",
+      "summary": "Le trajet en train de Kandy à Ella, superbe, de la première classe avec réservation en gare à la troisième classe sans réservation.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Kandy",
+          "wiki": "Kandy",
+          "culture": "Dernière capitale royale du Sri Lanka, au cœur des collines. Son temple de la Dent abrite une relique de Bouddha, et la ville est inscrite à l'UNESCO depuis 1988."
+        }
+      ],
+      "stay": {
+        "name": "Ella",
+        "wiki": "Ella, Sri Lanka",
+        "note": "Hébergement non précisé dans le tableau"
+      },
+      "transport": [
+        {
+          "mode": "train",
+          "text": "Kandy → Ella : ~6 h 30, train bleu de 22 stations"
+        }
+      ],
+      "notes": [
+        "De la première classe, avec réservation en gare, à la troisième classe, sans réservation."
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Ella ➔ Nuwara Eliya",
+      "summary": "Train panoramique vers Nuwara Eliya, la station d'altitude : lac Gregory, jardin botanique d'Hakgala, Victoria Park, fermes de fraises, plantations de thé et cascade.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Lac Gregory",
+          "photo": "File:Gregory Lake Nuwara Eliya 02.jpg",
+          "coords": [
+            6.968,
+            80.774
+          ],
+          "culture": "Lac artificiel de Nuwara Eliya, créé en 1873 par le gouverneur Gregory, où l'on fait du bateau et du pédalo."
+        },
+        {
+          "name": "Jardin botanique d'Hakgala",
+          "wiki": "Hakgala Botanical Garden",
+          "culture": "Jardin d'altitude ouvert en 1861, célèbre pour ses roses, ses fougères et ses orchidées, au pied du rocher d'Hakgala."
+        },
+        {
+          "name": "Victoria Park",
+          "wiki": "Victoria Park, Nuwara Eliya",
+          "culture": "Parc de Nuwara Eliya ouvert en 1897 pour le jubilé de la reine Victoria, aux massifs de fleurs et aux oiseaux."
+        },
+        {
+          "name": "Fermes de fraises Ramya et Jagro",
+          "culture": "Nuwara Eliya, au climat frais, cultive des fraises, que l'on cueille ou déguste dans des fermes ouvertes aux visiteurs."
+        },
+        {
+          "name": "Chute de Bomburu Ella",
+          "wiki": "Bomburu Ella",
+          "culture": "Chute d'eau d'une trentaine de mètres près de Nuwara Eliya, alimentée par plusieurs bras."
+        },
+        {
+          "name": "Pedro Tea Estate",
+          "culture": "Plantation de thé de Nuwara Eliya, dont l'usine se visite et propose des dégustations."
+        },
+        {
+          "name": "Église de Warleigh"
+        },
+        {
+          "name": "Usine de thé de Dambatenne",
+          "culture": "Usine de thé construite en 1890 par Thomas Lipton, près de Haputale."
+        }
+      ],
+      "stay": {
+        "name": "Nuwara Eliya",
+        "wiki": "Nuwara Eliya",
+        "note": "Hôtel à Nuwara Eliya"
+      },
+      "transport": [
+        {
+          "mode": "train",
+          "text": "Ella → Nuwara Eliya : ~3 h, train panoramique"
+        }
+      ],
+      "food": [
+        "Afternoon High Tea au Grand Hotel."
+      ],
+      "ideas": [
+        "Balade en bateau sur le lac Gregory, qui a l'air super."
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Ella : Little Adam's Peak",
+      "summary": "Randonnée facile à Little Adam's Peak, pont aux Neuf Arches et chutes de Ravana.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Little Adam's Peak",
+          "photo": "File:Little Adam's Peak, Ella, Sri Lanka.jpg",
+          "coords": [
+            6.867,
+            81.056
+          ],
+          "culture": "Sommet d'environ 1 140 m, atteint en 40 minutes de marche facile, avec une vue sur la vallée. On y monte volontiers au coucher du soleil."
+        },
+        {
+          "name": "Pont aux Neuf Arches",
+          "wiki": "Nine Arches Bridge",
+          "culture": "Viaduc ferroviaire de neuf arches construit vers 1921, à l'époque britannique, en pierre, en brique et en ciment. Les voyageurs viennent y voir passer le train."
+        },
+        {
+          "name": "Chutes de Ravana",
+          "wiki": "Ravana Falls",
+          "culture": "Chute d'eau de plus de 20 m. Selon la légende du Ramayana, le roi Ravana y aurait caché Sita dans des grottes voisines."
+        }
+      ],
+      "stay": {
+        "name": "Ella",
+        "wiki": "Ella, Sri Lanka",
+        "note": "Hôtel à Ella",
+        "options": [
+          "Clove Tree House (repas délicieux)"
+        ]
+      },
+      "food": [
+        "Café Soul Ella, avec vue sur le pont aux Neuf Arches.",
+        "360 Ella : les meilleurs rotis du voyage."
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Ella : Ella's Rock et thé",
+      "summary": "Randonnée à Ella's Rock, visite d'une plantation de thé avec dégustation, et trajet en train Ella–Badulla pour qui le souhaite.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Ella's Rock",
+          "photo": "File:Ella Rock at Start of Hike.jpg",
+          "coords": [
+            6.842,
+            81.062
+          ],
+          "culture": "Randonnée classique d'Ella, à travers les voies ferrées et les plantations de thé, avec une vue spectaculaire sur les montagnes."
+        },
+        {
+          "name": "Plantation de thé Amba",
+          "culture": "Plantation d'Ella, fournisseur du restaurant Noma, qui propose visite et dégustation."
+        },
+        {
+          "name": "Uva Halpewatte",
+          "culture": "Usine de thé d'Ella, qui propose une visite et une dégustation."
+        }
+      ],
+      "stay": {
+        "name": "Ella",
+        "wiki": "Ella, Sri Lanka",
+        "note": "Hôtel à Ella",
+        "options": [
+          "Blooming Rose Ella",
+          "V@Ella Guesthouse (pour la vue)"
+        ]
+      },
+      "notes": [
+        "Ella's Rock : environ 4 h aller-retour. Prévoir des chaussettes hautes pour les sangsues."
+      ],
+      "ideas": [
+        "Trajet en train Ella → Badulla, pour ceux qui veulent prendre le train."
+      ]
+    },
+    {
+      "n": 10,
+      "title": "Ella ➔ Udawalawe",
+      "summary": "Route vers Udawalawe, avec un arrêt aux chutes de Diyaluma, puis safari éléphants dans le parc national.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Chutes de Diyaluma",
+          "wiki": "Diyaluma Falls",
+          "culture": "Seconde plus haute chute du pays, d'environ 220 m, avec des piscines naturelles au sommet."
+        },
+        {
+          "name": "Parc national d'Udawalawe",
+          "wiki": "Udawalawe National Park",
+          "culture": "Parc réputé pour ses éléphants sauvages, que l'on observe en safari en jeep, souvent par troupeaux."
+        }
+      ],
+      "stay": {
+        "name": "Udawalawe",
+        "coords": [
+          6.43,
+          80.89
+        ],
+        "note": "Hôtel à Udawalawe",
+        "options": [
+          "Kottawata Village (douche extérieure)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Ella → Udawalawe : chauffeur, durée à préciser"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "title": "Udawalawe ➔ Galle",
+      "summary": "Train panoramique ou voiture vers Galle, puis promenade dans le fort : remparts, ruelles d'influence hollandaise, Queen's House et église anglicane.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Fort de Galle",
+          "wiki": "Galle Fort",
+          "culture": "Fort construit par les Portugais en 1588, puis fortifié par les Hollandais au XVIIe siècle. Il est inscrit à l'UNESCO depuis 1988 et ses remparts dominent l'océan."
+        },
+        {
+          "name": "Queen's House",
+          "culture": "Bâtiment colonial du fort de Galle, ancienne résidence officielle."
+        },
+        {
+          "name": "Église anglicane",
+          "culture": "Église anglicane du fort de Galle, construite à l'époque britannique."
+        },
+        {
+          "name": "Plage d'Unawatuna",
+          "wiki": "Unawatuna",
+          "culture": "Plage en croissant de la côte sud, longtemps citée parmi les plus belles du monde, aujourd'hui très fréquentée (pas ouf, selon vos notes)."
+        }
+      ],
+      "stay": {
+        "name": "Galle",
+        "wiki": "Galle Fort",
+        "note": "Hôtel dans le fort",
+        "options": [
+          "Sirène Galle Fort",
+          "Villa Upper Dickson"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "train",
+          "text": "Udawalawe → Galle : ~2 h en train panoramique, ou ~1 h 30 en voiture"
+        }
+      ],
+      "food": [
+        "Isle of Gelato et Café 82, pour les glaces.",
+        "Coconut Sambol, petit restaurant."
+      ]
+    },
+    {
+      "n": 12,
+      "title": "Galle ➔ Mirissa",
+      "summary": "Route vers Mirissa, plage et surf, Coconut Tree Hill et Parrot Rock. Tangalle est cependant préférable, d'après vos notes.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Coconut Tree Hill",
+          "wiki": "Coconut Tree Hill",
+          "culture": "Colline couverte de cocotiers au bord de l'océan, célèbre pour sa vue et très photographiée, donc assez touristique."
+        },
+        {
+          "name": "Plage de Mirissa",
+          "wiki": "Mirissa",
+          "culture": "Village de pêcheurs de la côte sud, connu pour sa plage en croissant, le surf et l'observation des baleines."
+        },
+        {
+          "name": "Parrot Rock",
+          "photo": "File:Parrot Rock Bridge in Mirissa Sri Lanka.jpg",
+          "coords": [
+            5.944,
+            80.459
+          ],
+          "culture": "Rocher au bout de la plage de Mirissa, relié à la terre par un pont de pierre, très prisé au coucher du soleil."
+        },
+        {
+          "name": "Turtle Beach",
+          "culture": "Plage de Mirissa où l'on peut nager avec des tortues vertes."
+        },
+        {
+          "name": "Récif de Polhena",
+          "coords": [
+            5.938,
+            80.528
+          ],
+          "culture": "Récif corallien proche de Matara, aux eaux calmes, où l'on peut faire du snorkeling avec des tortues."
+        },
+        {
+          "name": "Plage de Talalla",
+          "photo": "File:Talallabeach.jpg",
+          "coords": [
+            5.989,
+            80.56
+          ],
+          "culture": "Plage tranquille entre Mirissa et Tangalle, où l'on croise des pêcheurs."
+        }
+      ],
+      "stay": {
+        "name": "Mirissa",
+        "wiki": "Mirissa",
+        "note": "Hôtel à Mirissa",
+        "options": [
+          "Tri by Amaya (villa avec piscine privée), [sur Booking](https://www.booking.com/hotel/lk/tri.fr.html)",
+          "Spice House",
+          "D Canal House",
+          "Talalla Retreat, pour un séjour haut de gamme"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Galle → Mirissa : ~1 h"
+        }
+      ],
+      "food": [
+        "N°1 Dewmini Roti Shop, connu pour ses excellents kottu roti."
+      ],
+      "ideas": [
+        "Observation des baleines bleues, de novembre à avril, mais pas ouf au Sri Lanka, sauf peut-être avec Raja and the Whales.",
+        "Snorkeling à Turtle Beach.",
+        "Pêcheurs de Polhena et de Talalla, entre Mirissa et Tangalle."
+      ]
+    },
+    {
+      "n": 13,
+      "title": "Galle ➔ Tangalle",
+      "summary": "Train très beau de Galle à Matara, puis bus vers Tangalle : plages d'Unakuruwa, Silent Beach, Madilla, Blue Beach Island, avec des langurs gris.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Plage d'Unakuruwa",
+          "coords": [
+            6.01,
+            80.752
+          ],
+          "culture": "Plage de la côte sud où l'on mange des mangues fraîches, très belle mais avec un snorkeling pas ouf, d'après vos notes."
+        },
+        {
+          "name": "Silent Beach",
+          "culture": "Plage aux grosses vagues, mais très belle."
+        },
+        {
+          "name": "Madilla Beach",
+          "culture": "Plage située entre Tangalle Beach et Rekawa Beach, au sable continu sur ces trois plages, avec pas mal de vagues, mais bonne pour le coucher de soleil."
+        },
+        {
+          "name": "Blue Beach Island",
+          "culture": "Banc de sable avec des bateaux de pêche, touristique."
+        },
+        {
+          "name": "Tangalle",
+          "wiki": "Tangalle",
+          "photo": "File:Tangalle Beach.jpg",
+          "culture": "Station balnéaire tranquille de la côte sud, aux plages de sable doré et aux lagunes de mangrove."
+        }
+      ],
+      "stay": {
+        "name": "Tangalle",
+        "wiki": "Tangalle",
+        "note": "Hôtel à Tangalle ou à Unakuruwa",
+        "options": [
+          "Hidden Garden (Tangalle)",
+          "Little Tamarind (Unakuruwa)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "train",
+          "text": "Galle → Matara : ~1 h, très beau train"
+        },
+        {
+          "mode": "bus",
+          "text": "Matara → Tangalle : ~1 h 30"
+        }
+      ],
+      "ideas": [
+        "Langurs gris, à observer dans la région."
+      ]
+    },
+    {
+      "n": 14,
+      "title": "Tangalle",
+      "summary": "Journée de plages, surf et kayak : Hiriketiya, Goyambokka, lagune de Rekawa, temple de Mulkirigala.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Hiriketiya Beach",
+          "coords": [
+            5.969,
+            80.683
+          ],
+          "culture": "Baie en fer à cheval, spot de surf très prisé, adapté aux débutants comme aux confirmés."
+        },
+        {
+          "name": "Goyambokka Beach",
+          "photo": "File:Goyambokka Beach, Tangalle, Sri Lanka.jpg",
+          "coords": [
+            6.022,
+            80.797
+          ],
+          "culture": "Plage sauvage avec de petits bouibouis, et une petite crique devant l'hôtel Rocky Point Beach Bungalows."
+        },
+        {
+          "name": "Lagune de Rekawa",
+          "photo": "File:Rekawa Logoon - panoramio.jpg",
+          "coords": [
+            6.03,
+            80.835
+          ],
+          "culture": "Lagune de la côte sud, voisine d'une plage connue pour la ponte des tortues marines."
+        },
+        {
+          "name": "Lagune de Tangalle",
+          "culture": "Lagune bordée de mangroves, plus petite que celle de Rekawa mais plus facile à explorer sans guide."
+        },
+        {
+          "name": "Temple de Mulkirigala (Raja Maha Vihara)",
+          "photo": "File:Mulkirigala Rock Temple - B.jpg",
+          "coords": [
+            6.117,
+            80.803
+          ],
+          "culture": "Monastère bouddhiste creusé dans un rocher, atteint par 533 marches, avec des fresques et des statues de Bouddha."
+        }
+      ],
+      "stay": {
+        "name": "Tangalle",
+        "wiki": "Tangalle",
+        "note": "Hôtel à Tangalle",
+        "options": [
+          "Hidden Garden"
+        ]
+      },
+      "food": [
+        "Dream Family.",
+        "Cactus Lounge.",
+        "Manashee Home."
+      ],
+      "ideas": [
+        "Hiriketiya : baignade et surf, par exemple avec Houra School, et un verre à l'Utopia Bar.",
+        "Kayak dans la lagune de Rekawa (avec Kayak Journey Rekawa, guide, au coucher du soleil), ou dans la lagune de Tangalle, plus petite mais dont la mangrove s'explore plus facilement sans guide.",
+        "Goyambokka : petite crique de l'hôtel Rocky Point Beach Bungalows."
+      ]
+    },
+    {
+      "n": 15,
+      "title": "Colombo ➔ Malé (Maldives)",
+      "summary": "Vol vers Malé et installation dans un resort sur une île privée : détente sur la plage, snorkeling autour du récif, croisière au coucher du soleil et observation des dauphins.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Malé",
+          "wiki": "Malé",
+          "culture": "Capitale des Maldives, l'une des capitales les plus denses du monde, concentrée sur une île minuscule."
+        }
+      ],
+      "stay": {
+        "name": "Resort aux Maldives",
+        "wiki": "Malé",
+        "note": "Resort sur une île privée"
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Colombo → Malé : ~1 h 30"
+        }
+      ],
+      "ideas": [
+        "Snorkeling autour du récif corallien.",
+        "Croisière au coucher du soleil.",
+        "Observation des dauphins."
+      ]
+    },
+    {
+      "n": 16,
+      "title": "Maldives : plongée",
+      "summary": "Plongée sous-marine dans des récifs avec des raies manta et des requins, et excursion en kayak transparent.",
+      "route": "none",
+      "stops": [],
+      "stay": {
+        "name": "Resort aux Maldives",
+        "wiki": "Malé",
+        "note": "Resort"
+      },
+      "ideas": [
+        "Plongée sous-marine : récifs avec raies manta et requins.",
+        "Excursion en kayak transparent."
+      ]
+    },
+    {
+      "n": 17,
+      "title": "Maldives : spa et plancton",
+      "summary": "Spa et massages, dîner romantique sur la plage, et plancton bioluminescent à Vaadhoo ou à Gili Lankanfushi.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Vaadhoo",
+          "wiki": "Vaadhoo",
+          "culture": "Île de l'atoll de Raa dont la plage s'illumine d'un bleu éclatant la nuit, grâce au plancton bioluminescent. On l'appelle la « mer d'étoiles »."
+        },
+        {
+          "name": "Gili Lankanfushi",
+          "culture": "Resort de l'atoll de Malé Nord, aux villas sur pilotis, où l'on observe aussi du plancton bioluminescent."
+        }
+      ],
+      "stay": {
+        "name": "Resort aux Maldives",
+        "wiki": "Malé",
+        "note": "Resort"
+      },
+      "ideas": [
+        "Spa et massages.",
+        "Dîner romantique sur la plage."
+      ]
+    },
+    {
+      "n": 18,
+      "title": "Maldives : banc de sable",
+      "summary": "Excursion sur un banc de sable isolé et découverte d'un village local.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Banc de sable isolé",
+          "culture": "Banc de sable au milieu du lagon, que la marée fait apparaître ou disparaître."
+        },
+        {
+          "name": "Village local",
+          "culture": "Visite d'une île habitée : les Maldives comptent près de 200 îles habitées."
+        }
+      ],
+      "stay": {
+        "name": "Resort aux Maldives",
+        "wiki": "Malé",
+        "note": "Resort"
+      }
+    },
+    {
+      "n": 19,
+      "title": "Maldives : paddle et snorkeling",
+      "summary": "Paddle board et plongée libre pour explorer les récifs coralliens.",
+      "route": "none",
+      "stops": [],
+      "stay": {
+        "name": "Resort aux Maldives",
+        "wiki": "Malé",
+        "note": "Resort"
+      },
+      "ideas": [
+        "Paddle board.",
+        "Plongée libre pour explorer les récifs coralliens."
+      ]
+    },
+    {
+      "n": 20,
+      "title": "Malé ➔ Paris",
+      "summary": "Vol retour vers Paris.",
+      "hero": "Malé",
+      "route": "none",
+      "stops": [],
+      "stay": null,
+      "end": "Vol retour vers Paris",
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Malé → Paris"
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "conseils-pratiques",
+      "title": "Conseils pratiques",
+      "summary": "Sens du circuit et agences pour organiser les trajets au Sri Lanka.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Il y a peut-être moins de monde en faisant la boucle dans le sens inverse des aiguilles d'une montre.",
+            "Agences et chauffeurs : Shanti Travel, Asoka."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "variantes-circuit",
+      "title": "Bonus et variantes du circuit",
+      "summary": "Étapes supplémentaires ou alternatives : le sud-ouest, Jaffna, Kandy, Wilpattu, et un autre trajet vers l'est puis Negombo.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sud-Ouest"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Transport",
+            "Hébergement",
+            "Activités et points d'intérêt"
+          ],
+          "rows": [
+            [
+              "1",
+              "Sud-Ouest",
+              "-",
+              "Hôtel à Bentota (Thaala Bentota Hotel)",
+              "Découverte de la Maduganga River en barque, culture de la cannelle, Hasselblad Sea Turtle Conservation Center, Ventura Beach (baignade), Kande Viharaya Temple à Beruwala"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Jaffna"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Transport",
+            "Hébergement",
+            "Activités et points d'intérêt"
+          ],
+          "rows": [
+            [
+              "1",
+              "Jaffna",
+              "-",
+              "Hôtel à Jaffna",
+              "Pays tamoul : hindous, vaches sacrées, temple de Nallur, Point Pedro (cap Nord du Sri Lanka), île de Nainativu"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Sigiriya ➔ Kandy"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Transport",
+            "Hébergement",
+            "Activités et points d'intérêt"
+          ],
+          "rows": [
+            [
+              "1",
+              "Sigiriya → Kandy",
+              "Chauffeur (2 h)",
+              "Hôtel à Kandy (Kandy Samadhi Center dans la jungle avec retraites yoga, Gruhaya Boutique Villa)",
+              "Jardin botanique de Peradeniya, spectacle de danse kandyenne, temple de la Dent (reliquaire sacré, moins bien), rizières dans les montagnes de Narampanawa, village de Heelaya, dosa de chez Balaji Dosai"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Wilpattu"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Transport",
+            "Hébergement",
+            "Activités et points d'intérêt"
+          ],
+          "rows": [
+            [
+              "-",
+              "Parc national de Wilpattu",
+              "-",
+              "-",
+              "Namal du Wilpattu safari camp"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Variante vers l'est : Polonnaruwa, Trincomalee, Negombo"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Transport",
+            "Hébergement",
+            "Activités et points d'intérêt"
+          ],
+          "rows": [
+            [
+              "1",
+              "Sigiriya → Polonnaruwa",
+              "Voiture (2 h)",
+              "Hôtel à Polonnaruwa",
+              "Exploration des ruines antiques (cité historique avec temples et statues), safari à Minneriya (observation des éléphants)"
+            ],
+            [
+              "2",
+              "Polonnaruwa → Trincomalee",
+              "Voiture (2 h 30)",
+              "Hôtel à Trincomalee",
+              "Plage de Nilaveli (eaux turquoise), snorkeling à Pigeon Island, temple de Koneswaram"
+            ],
+            [
+              "3",
+              "Trincomalee",
+              "-",
+              "Hôtel à Trincomalee",
+              "Plongée avec les requins, détente sur la plage de Marble Beach"
+            ],
+            [
+              "4",
+              "Trincomalee → Negombo",
+              "Voiture (4 h)",
+              "Hôtel à Negombo",
+              "Lagune de Negombo, promenade en bateau, dîner de fruits de mer"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maldives-atolls",
+      "title": "Comparaison des plus belles îles et atolls des Maldives",
+      "summary": "Caractéristiques de sept atolls, îles recommandées et choix selon l'envie : plongée, luxe, budget, authenticité.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Atoll",
+            "Caractéristiques",
+            "Îles recommandées"
+          ],
+          "rows": [
+            [
+              "Atoll de Malé Nord",
+              "Proche de l'aéroport, facile d'accès, récifs coralliens riches",
+              "Hulhumalé, Thulusdhoo (spot de surf), Vabbinfaru"
+            ],
+            [
+              "Atoll de Malé Sud",
+              "Proche de l'aéroport, options économiques, bonne accessibilité",
+              "Maafushi (budget friendly), Anantara Veli, Biyadhoo, Olhuveli"
+            ],
+            [
+              "Atoll d'Ari Sud",
+              "Plongée exceptionnelle (raies manta, requins), biodiversité",
+              "Rangali Island, Dhigurah, Vilamendhoo"
+            ],
+            [
+              "Atoll de Baa",
+              "Réserve de biosphère UNESCO, rencontre avec des raies manta",
+              "Hanifaru Bay, Soneva Fushi, Finolhu"
+            ],
+            [
+              "Atoll de Lhaviyani",
+              "Calme, exclusif, idéal pour la plongée et les escapades",
+              "Kuredu Island, Hurawalhi (tunnel sous-marin)"
+            ],
+            [
+              "Atoll de Noonu",
+              "Luxe, récifs préservés, expérience culturelle",
+              "Velaa Private Island, Cheval Blanc Randheli"
+            ],
+            [
+              "Atoll de Raa",
+              "Intact, nature luxuriante, idéal pour les amateurs de calme",
+              "Dhigali, Kudafushi"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Recommandations d'îles aux Maldives"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Pour les amateurs de plongée : atoll d'Ari Sud (Dhigurah : raies manta, requins-baleines) et atoll de Baa (Hanifaru Bay : réserve marine protégée).",
+            "Pour un séjour luxueux et exclusif : atoll de Noonu (Velaa Private Island, Cheval Blanc Randheli) et atoll de Lhaviyani (Hurawalhi : restaurant sous-marin).",
+            "Pour un budget plus raisonnable : atoll de Malé Sud (Maafushi : activités nautiques, excursions) et atoll de Malé Nord (Thulusdhoo : surf, snorkeling).",
+            "Pour une ambiance authentique et une découverte culturelle : atoll de Raa et atoll de Noonu."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "Budget estimatif",
+      "summary": "Estimation du budget pour deux personnes.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Catégorie",
+            "Estimation"
+          ],
+          "rows": [
+            [
+              "Vols internationaux aller-retour",
+              "2 000 EUR"
+            ],
+            [
+              "Transports internes (Sri Lanka)",
+              "500 EUR"
+            ],
+            [
+              "Hébergement (21 nuits)",
+              "5 200 EUR"
+            ],
+            [
+              "Activités et repas",
+              "2 800 EUR"
+            ],
+            [
+              "Total estimé pour 2 personnes",
+              "10 500 EUR"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "liens-ressources",
+      "title": "Liens et ressources",
+      "summary": "Articles et carnets de voyage consultés pour préparer le Sri Lanka.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "[Voyage au Sri Lanka : avis, conseils et itinéraire (Mi fugue, mi raison)](https://www.mifuguemiraison.com/fr/sri-lanka-avis-itineraire/)",
+            "[Itinéraire de 10 jours au Sri Lanka : les incontournables (Amoureux du Monde)](https://amoureux-du-monde.com/destinations/asie/sri-lanka/10-jours-au-sri-lanka/)",
+            "[Sri Lanka en 7 à 10 jours : que faire et voir ? (Le Blog Cash Pistache)](https://www.leblogcashpistache.fr/sri-lanka-en-1-semaine/)",
+            "[Road trip au Sri Lanka : itinéraire de 2 semaines, avec budget (Prochain Arrêt)](https://www.prochain-arret.com/blog/road-trip-sri-lanka/)",
+            "[Instagram de Prochain Arrêt](https://www.instagram.com/prochainarret_/)",
+            "[Visiter le sud du Sri Lanka, de plage en safari (Les Globe Blogueurs)](https://lesglobeblogueurs.com/cote-sud-sri-lanka/)"
+          ]
+        }
+      ]
+    }
+  ]
+}

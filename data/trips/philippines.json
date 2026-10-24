@@ -196,10 +196,12 @@
           "culture": "Plage de sable blanc au nord d'El Nido, aménagée avec des cafés et des boutiques."
         },
         {
-          "name": "Maremegmeg Beach"
+          "name": "Maremegmeg Beach",
+          "culture": "Plage au sud d'El Nido, connue pour son beach club et ses couchers de soleil."
         },
         {
-          "name": "Vanilla Beach"
+          "name": "Vanilla Beach",
+          "culture": "Plage d'El Nido, avec un beach club."
         }
       ],
       "stay": {
@@ -270,7 +272,8 @@
           "name": "Papaya Beach"
         },
         {
-          "name": "Talisay Beach"
+          "name": "Talisay Beach",
+          "culture": "Plage au nord de la ville d'El Nido."
         }
       ],
       "stay": {
@@ -360,7 +363,8 @@
           "culture": "Réserve marine proche de la ville de Coron, aux récifs de corail que l'on explore directement en snorkeling."
         },
         {
-          "name": "Plage de Pasandigan"
+          "name": "Plage de Pasandigan",
+          "culture": "Plage de sable blanc de l'archipel de Coron, visitée en island hopping."
         },
         {
           "name": "Kingfisher Park",
@@ -396,7 +400,8 @@
           "culture": "Épave d'un navire japonais coulé en 1944 lors d'un raid américain sur la baie de Coron, assez peu profonde pour être explorée en snorkeling."
         },
         {
-          "name": "Coral Garden (Coron)"
+          "name": "Coral Garden (Coron)",
+          "culture": "Récif de corail peu profond de la baie de Coron, très prisé des adeptes du snorkeling."
         },
         {
           "name": "Île de Malcapuya",
@@ -547,10 +552,12 @@
           "culture": "Cascade à étages aux eaux turquoise, dans la jungle de Siquijor. Des cordes permettent de se jeter dans les bassins."
         },
         {
-          "name": "Lambojon Terraces"
+          "name": "Lambojon Terraces",
+          "culture": "Terrasse de Siquijor où prendre un cocktail au coucher du soleil, d'après vos notes."
         },
         {
-          "name": "Bu Café"
+          "name": "Bu Café",
+          "culture": "Café de Siquijor où prendre un cocktail au coucher du soleil, d'après vos notes."
         }
       ],
       "stay": {

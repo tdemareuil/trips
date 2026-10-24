@@ -1,0 +1,2095 @@
+{
+  "id": "mexico-guatemala-belize",
+  "title": "Mexique, Guatemala, Belize",
+  "subtitle": "Notre voyage de noces : Oaxaca et la côte Pacifique, Antigua, le lac Atitlán, Tikal, les caraïbes du Belize, Bacalar et Tulum",
+  "travelers": [
+    "Thomas",
+    "Louison"
+  ],
+  "start": "2025-12-26",
+  "done": true,
+  "cover": "File:Mazunte beach view.jpg",
+  "days": [
+    {
+      "n": 1,
+      "title": "Escale à Philadelphie",
+      "summary": "Vol Genève – Amsterdam – Philadelphie, puis visite de Philadelphie : marché de Noël de Dilworth Park, Rittenhouse Square et Insomnia Cookies.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Dilworth Park",
+          "wiki": "Dilworth Park",
+          "culture": "Place au pied de l'hôtel de ville de Philadelphie, qui accueille chaque hiver un marché de Noël et une patinoire."
+        },
+        {
+          "name": "Rittenhouse Square",
+          "wiki": "Rittenhouse Square",
+          "culture": "L'une des cinq places d'origine dessinées par William Penn pour Philadelphie, aujourd'hui un parc entouré de cafés et de boutiques."
+        },
+        {
+          "name": "Insomnia Cookies",
+          "culture": "Chaîne américaine de cookies chauds, ouverts tard le soir, fondée en 2003 par un étudiant de l'université de Pennsylvanie, à Philadelphie."
+        }
+      ],
+      "stay": {
+        "name": "Philadelphie",
+        "wiki": "Philadelphia",
+        "note": "Hôtel à Philadelphie"
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Genève → Amsterdam → Philadelphie"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Philadelphie ➔ Oaxaca",
+      "summary": "Vol vers Oaxaca (finalement avec une escale à Mexico), location de voiture, puis visite d'Oaxaca l'après-midi.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Oaxaca",
+          "wiki": "Oaxaca City",
+          "culture": "Ville coloniale du sud du Mexique, inscrite à l'UNESCO depuis 1987 avec Monte Albán, réputée pour sa cuisine, son mezcal et ses marchés."
+        },
+        {
+          "name": "Église Santo Domingo",
+          "wiki": "Templo de Santo Domingo de Guzmán",
+          "culture": "Église baroque bâtie entre le XVIe et le XVIIe siècle, dont l'intérieur est entièrement recouvert de dorures."
+        },
+        {
+          "name": "Cathédrale d'Oaxaca",
+          "wiki": "Oaxaca Cathedral",
+          "culture": "Cathédrale baroque commencée au XVIe siècle, sur le zócalo, plusieurs fois reconstruite après des séismes."
+        },
+        {
+          "name": "Barrios de Jalatlaco et de Xochimilco",
+          "photo": "File:Jalatlaco, Oaxaca.jpg",
+          "coords": [
+            17.067,
+            -96.712
+          ],
+          "culture": "Quartiers historiques d'Oaxaca, aux rues colorées et aux murs couverts de street art."
+        },
+        {
+          "name": "Jardin ethnobotanique",
+          "wiki": "Jardín Etnobotánico de Oaxaca",
+          "culture": "Jardin installé dans l'ancien couvent de Santo Domingo et consacré aux plantes d'Oaxaca, conçu avec l'artiste Francisco Toledo."
+        }
+      ],
+      "stay": {
+        "name": "Oaxaca",
+        "wiki": "Oaxaca City",
+        "note": "Samedi : hôtel à Oaxaca",
+        "options": [
+          "Casa de Sierra Azul (réservé sur Expedia)",
+          "El Diablo y la Luna (Booking)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Philadelphie → Dallas → Oaxaca, finalement avec une escale à Mexico"
+        },
+        {
+          "mode": "car",
+          "text": "Location de voiture à Oaxaca : Nuuk, réservée par WhatsApp (prise à 10h30)"
+        }
+      ],
+      "food": [
+        "Quince Letras : cour arborée conviviale, noté 4,5, réservé le 27 décembre à 19h en planta baja."
+      ],
+      "ideas": [
+        "Messe à 19h le samedi à la cathédrale, puis le dimanche à 10h et 12h, et de 17h à 21h toutes les heures ; à Santo Domingo à 17h30 et 19h30."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Oaxaca : marché, mezcal et arbre de Tule",
+      "summary": "Grand marché de Tlacolula le dimanche, tisserands et chocolat chaud à Teotitlán, arbre de Tule, et palenque de mezcal à réserver.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Marché de Tlacolula",
+          "wiki": "Tlacolula de Matamoros",
+          "photo": "File:Tlacolula Market 230122 101.jpg",
+          "culture": "Son grand marché du dimanche, le tianguis, rassemble des producteurs zapotèques de toute la vallée."
+        },
+        {
+          "name": "Teotitlán del Valle",
+          "wiki": "Teotitlán del Valle",
+          "photo": "File:TapeteEnFabricación-Teotitlán del Valle-Oaxaca-Mexico.jpg",
+          "culture": "Village zapotèque réputé pour ses tapis de laine tissés à la main et teints avec des colorants naturels, dont la cochenille."
+        },
+        {
+          "name": "Arbre de Tule",
+          "wiki": "Árbol del Tule",
+          "culture": "Cyprès de Montezuma vieux de plus de 1 500 ans, au tronc parmi les plus larges du monde, planté devant l'église de Santa María del Tule."
+        },
+        {
+          "name": "Santiago Matatlán",
+          "wiki": "Santiago Matatlán",
+          "culture": "Se présente comme la capitale mondiale du mezcal, au milieu des champs d'agaves (maguey)."
+        },
+        {
+          "name": "Mal de Amor (palenque de mezcal)",
+          "culture": "Distillerie proposant un « Barritour » à 11h, 13h, 15h et 17h (2 h), un peu à l'américaine mais très sympa, avec beaucoup de dégustations. Réservé pour 13h."
+        }
+      ],
+      "stay": {
+        "name": "Oaxaca",
+        "wiki": "Oaxaca City",
+        "note": "Dimanche : hôtel à Oaxaca",
+        "options": [
+          "Becino (réservé sur Expedia, 180 €, petit-déjeuner génial)",
+          "Boulenc (176 € sur Booking, même groupe que Becino)",
+          "Casa Bendición (annulé, 155 € sur Booking, sans petit-déjeuner)",
+          "Comala",
+          "Sauvé"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture de location"
+        }
+      ],
+      "food": [
+        "Marché de Tlacolula, vers 11h30 : déjeuner dans les restaurants du marché, ou tacos de guisos. Casa Tierra (réservé), Mo Kalli (excentré).",
+        "Teotitlán del Valle : Comedor Jaguar, Tierra Antigua. Chocolat chaud au goûter."
+      ],
+      "ideas": [
+        {
+          "label": "Pas prioritaire dans la région :",
+          "text": "Monte Albán (capitale zapotèque du IIIe au VIIe siècle : on ne veut pas voir de ruines), Hierve el Agua (cascade pétrifiée avec piscines naturelles : loin et surcôté), Centre culturel de San Agustín (école d'art dans une fabrique de tissus, créée par Francisco Toledo), San Martín Tilcajete (atelier de sculptures un peu effrayantes qui ont inspiré Coco)."
+        },
+        "Chocolatería Ritos : excellent chocolat chaud, plutôt le lundi matin."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Oaxaca ➔ Puerto Escondido ➔ Mazunte",
+      "summary": "Route vers la côte Pacifique : plages de Puerto Escondido, puis Mazunte et le lâcher de tortues le soir.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Puerto Escondido",
+          "wiki": "Puerto Escondido",
+          "culture": "Station balnéaire de la côte Pacifique d'Oaxaca, célèbre pour les vagues de Playa Zicatela, parmi les plus puissantes du monde pour le surf."
+        },
+        {
+          "name": "Playa Carrizalillo",
+          "photo": "File:Playa Carrizalillo, Puerto Escondido.jpg",
+          "culture": "Petite crique en fer à cheval de Puerto Escondido, atteinte par un escalier, l'une des meilleures plages de la ville."
+        },
+        {
+          "name": "Playa Coral",
+          "culture": "L'une des meilleures plages de Puerto Escondido, gratuite en passant par Bacocho."
+        },
+        {
+          "name": "Playa Agua Blanca",
+          "culture": "Plage avec des piscines naturelles et des restaurants où l'on mange les huîtres du jour."
+        },
+        {
+          "name": "Playa Escobilla",
+          "photo": "File:Turtle golfina escobilla Oaxaca Mexico Claudio Giovenzana 2010.jpg",
+          "culture": "Plage où viennent pondre des milliers de tortues olivâtres. Un éco-centre protège les « tortuguitas ». Réservé par WhatsApp le lundi 29 à 17h."
+        },
+        {
+          "name": "Laguna Ventanilla",
+          "photo": "File:Ventanilla, Oaxaca 02.jpg",
+          "culture": "Lagune de mangroves près de Mazunte, avec des tours en bateau pour voir des crocodiles et des oiseaux. À voir sur place si l'envie vient."
+        },
+        {
+          "name": "Mazunte",
+          "wiki": "Mazunte",
+          "photo": "File:Mazunte beach view.jpg",
+          "culture": "Village de pêcheurs de la côte d'Oaxaca, longtemps tourné vers la chasse aux tortues, devenu un lieu de protection des tortues marines."
+        }
+      ],
+      "stay": {
+        "name": "Mazunte",
+        "wiki": "Mazunte",
+        "note": "Lundi : hôtel à Mazunte",
+        "options": [
+          "Il Gatto Rosso, sur la plage (réservé)",
+          "Malagueña (Booking, top mais non remboursable, 171 €)",
+          "H2O Container (réservé puis annulé, 131 €, pas sur la plage)",
+          "Casa Qi (Expedia)",
+          "Bahía de la Luna (Booking)",
+          "Arena Negra (Booking et site)",
+          "Tres Marías (à re-réserver, Booking, 94 €)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture de location, de Oaxaca à Puerto Escondido puis Mazunte"
+        }
+      ],
+      "food": [
+        "Mazunte : Sueño de Frida (petit-déjeuner), Il Gato Rosso (tacos de poisson et de crevettes)."
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Mazunte : baleines et snorkeling",
+      "summary": "Tour d'observation des baleines, snorkeling et éventuellement surf, puis nuit à Piedra Blanca.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Mazunte et son tour d'observation des baleines",
+          "wiki": "Mazunte",
+          "photo": "File:Mazunte beach view.jpg",
+          "culture": "Tour d'observation des baleines avec Océano Mágico, réservé par WhatsApp le mardi 30 décembre à 8h (la même compagnie que Lagunita Tours)."
+        },
+        {
+          "name": "Piedra Blanca"
+        }
+      ],
+      "stay": {
+        "name": "Piedra Blanca",
+        "wiki": "Mazunte",
+        "note": "Mardi : hôtel à Piedra Blanca",
+        "options": [
+          "Casa Chula, superbe hôtel de luxe dans la jungle (réservé sur Booking)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture de location"
+        }
+      ],
+      "ideas": [
+        "Snorkeling, et éventuellement surf."
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Puerto Escondido ➔ Oaxaca : Nouvel An",
+      "summary": "Éventuellement surf, puis départ vers 17h pour arriver à Oaxaca avant 21h et fêter le Nouvel An.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Oaxaca",
+          "wiki": "Oaxaca City"
+        }
+      ],
+      "stay": {
+        "name": "Oaxaca",
+        "wiki": "Oaxaca City",
+        "note": "Nuit du 31 décembre à Oaxaca",
+        "options": [
+          "GranaB&B (réservé sur Booking, super qualité)",
+          "Deux Airbnb",
+          "Ayook, Casa Bendición, El Diablo y la Luna (Booking)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Puerto Escondido → Oaxaca : départ vers 17h pour arriver avant 21h"
+        }
+      ],
+      "ideas": [
+        "Éventuellement surf le matin."
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Oaxaca ➔ Mexico ➔ Antigua Guatemala",
+      "summary": "Retour de la voiture, vol Oaxaca – Mexico – Guatemala, transfert en Uber de Guatemala City à Antigua et premier tour du centre-ville.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Guatemala City",
+          "wiki": "Guatemala City"
+        },
+        {
+          "name": "Antigua Guatemala",
+          "wiki": "Antigua Guatemala",
+          "culture": "Ancienne capitale du Guatemala, détruite en grande partie par les séismes de 1773, aux églises baroques en ruine et aux rues pavées. Elle est inscrite à l'UNESCO depuis 1979, au pied de trois volcans."
+        },
+        {
+          "name": "Arco de Santa Catalina",
+          "wiki": "Arco de Santa Catalina",
+          "culture": "Arche jaune du XVIIe siècle qui encadre la vue la plus célèbre sur le volcan de Agua. Elle reliait un couvent aux écoles."
+        },
+        {
+          "name": "Cathédrale Saint-Joseph",
+          "wiki": "Antigua Guatemala Cathedral",
+          "culture": "Cathédrale de l'ancienne capitale, en grande partie en ruine depuis le séisme de 1773."
+        },
+        {
+          "name": "Palais des Capitaines généraux",
+          "wiki": "Palacio de los Capitanes Generales",
+          "culture": "Ancien palais du gouverneur colonial, aux arcades jaunes, sur la place principale d'Antigua."
+        },
+        {
+          "name": "Parque Central",
+          "culture": "Place centrale d'Antigua, à l'ombre des arbres, avec la fontaine des Sirènes."
+        },
+        {
+          "name": "Mercado Central",
+          "photo": "File:AntiguaPlazaMercado.jpg",
+          "culture": "Marché animé du centre d'Antigua, où l'on voit la vie de la ville se dérouler."
+        },
+        {
+          "name": "Iglesia de la Merced",
+          "photo": "File:La Merced Church Antigua Guatemala 2.jpg",
+          "coords": [
+            14.561,
+            -90.734
+          ],
+          "culture": "Église baroque jaune, l'une des plus belles d'Antigua, avec un marché juste devant."
+        }
+      ],
+      "stay": {
+        "name": "Antigua",
+        "wiki": "Antigua Guatemala",
+        "note": "Jeudi 1er janvier : hôtel à Antigua",
+        "options": [
+          "Casa Bansley (réservé sur Booking, hyper mignon, avec une top vue pour le petit-déjeuner)",
+          "Airbnb : suite dans un magasin d'antiquités"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Retour de la voiture de location à Oaxaca"
+        },
+        {
+          "mode": "flight",
+          "text": "Oaxaca → Mexico → Guatemala City"
+        },
+        {
+          "mode": "car",
+          "text": "Guatemala City → Antigua en Uber"
+        }
+      ],
+      "food": [
+        "Rosanta : jardin, réservé à 19h40 puis décalé à 20h, le jeudi 1er janvier."
+      ],
+      "ideas": [
+        "Points de vue secrets sur les volcans et rooftops du centre."
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Antigua ➔ lac Atitlán",
+      "summary": "Visite d'Antigua le matin, puis transfert vers le lac Atitlán, à Santa Catarina Palopó ou Santa Cruz.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Couvent de Santa Clara",
+          "photo": "File:Convento de Santa Clara Antigua Guatemala.jpg",
+          "culture": "Ruines d'un couvent du XVIIe siècle, détruit par les séismes d'Antigua. L'entrée est payante."
+        },
+        {
+          "name": "Couvent des Capucines",
+          "photo": "File:Convento de las Capuchinas Antigua.JPG",
+          "culture": "Ruines d'un couvent du XVIIIe siècle, avec une tour circulaire de cellules. L'entrée est payante."
+        },
+        {
+          "name": "Volcan de Agua",
+          "wiki": "Volcán de Agua",
+          "culture": "Volcan d'environ 3 760 m qui domine Antigua et que l'on voit depuis l'Arco de Santa Catalina."
+        },
+        {
+          "name": "Lac Atitlán",
+          "wiki": "Lake Atitlán",
+          "culture": "Lac d'origine volcanique à environ 1 560 m d'altitude, entouré de trois volcans et de villages mayas. Aldous Huxley le jugeait le plus beau du monde."
+        },
+        {
+          "name": "Santa Cruz La Laguna",
+          "wiki": "Santa Cruz La Laguna",
+          "culture": "Village de la rive nord du lac, accessible en lancha, avec un petit marché le samedi."
+        },
+        {
+          "name": "Santa Catarina Palopó",
+          "wiki": "Santa Catarina Palopó",
+          "culture": "Village kaqchikel dont les maisons sont peintes en bleu et à motifs mayas, depuis 2016."
+        }
+      ],
+      "stay": {
+        "name": "Lac Atitlán",
+        "wiki": "Santa Cruz La Laguna",
+        "note": "Vendredi 2 janvier : hôtel au lac Atitlán",
+        "options": [
+          "Casa Laguna Santa Cruz (réservé sur Booking, super vue)",
+          "Lush San Marcos (réservé via Airbnb, petit-déjeuner inclus)",
+          "Tierra Aurora (Expedia)",
+          "Casa Viajero, à Palopó",
+          "Hôtel Terrazas del Lago (Booking)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Transfert Antigua → lac Atitlán, à réserver"
+        }
+      ],
+      "food": [
+        "Santa Cruz : Iguana Perdida (demander le jour même avant 15h pour le « family dinner », sympa, l'institution) ; Guate Mia, une autre auberge de jeunesse à côté.",
+        "San Marcos : Lush (réservé), excellents ceviches et cuisine végétarienne créative."
+      ],
+      "ideas": [
+        {
+          "label": "À Antigua, gratuit :",
+          "text": "cathédrale Saint-Joseph, palais des Capitaines, hôtel de ville ; Mercado Central et Parque Central ; Iglesia de la Merced et son marché ; Arco de Santa Catalina."
+        },
+        {
+          "label": "À Antigua, payant :",
+          "text": "MUNAG et Paseo Los Museos (art, vues et histoire) ; ruines des couvents de Santa Clara et des Capucines ; jardins de l'ancien Collège de la Compagnie de Jésus ; miracles du frère Pierre au sanctuaire de San Francisco."
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Lac Atitlán : San Juan et coucher de soleil",
+      "summary": "Visite de San Juan et de ses marchés, coucher de soleil à l'Indian Nose ou sur un point de vue plus proche, ateliers de coopératives et coopérative de café La Voz.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "San Juan La Laguna",
+          "wiki": "San Juan La Laguna",
+          "culture": "Village tz'utujil connu pour ses coopératives de femmes, qui tissent des textiles teints avec des plantes."
+        },
+        {
+          "name": "Indian Nose",
+          "culture": "Point de vue au-dessus du lac, prisé au lever ou au coucher du soleil."
+        },
+        {
+          "name": "Ateliers de coopératives : Lema' et Casa Flor Ixcaco",
+          "culture": "Coopératives de tisseuses mayas de San Juan, avec des démonstrations de tissage et de teinture naturelle."
+        },
+        {
+          "name": "Coopérative de café La Voz",
+          "culture": "Coopérative de café de San Juan La Laguna."
+        },
+        {
+          "name": "Mirador Kaqasiiwaan",
+          "culture": "Mirador de San Juan pour le coucher de soleil."
+        }
+      ],
+      "stay": {
+        "name": "Lac Atitlán",
+        "wiki": "Santa Cruz La Laguna",
+        "note": "Samedi 3 janvier : hôtel au lac Atitlán",
+        "options": [
+          "La Iguana Perdida (réservé sur Booking)",
+          "Alas del Ángel (réservé, vue de rêve avec jacuzzi)",
+          "Hôtel Kaalpul (eDreams)"
+        ]
+      },
+      "ideas": [
+        {
+          "label": "À San Juan :",
+          "text": "textiles Casa Flor Ixcaco et Casa del Tejido (chers à l'achat car ce sont des coopératives de femmes très qualitatives, mais la démonstration de tissage est gratuite et super) ; miel Xunah Kaab (dégustation gratuite)."
+        },
+        {
+          "label": "À Panajachel :",
+          "text": "Casa Cakchiquel (musée de la photo) ; église Saint-François-d'Assise."
+        },
+        {
+          "label": "À San Antonio Palopó, plus loin :",
+          "text": "ateliers de céramique."
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "title": "Lac Atitlán ➔ Chichicastenango ➔ Antigua",
+      "summary": "Santa Cruz la Laguna, Santa Catarina Palopó et San Marcos, éventuellement le marché de Chichicastenango et la messe de Santo Tomás, puis retour à Antigua.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "San Marcos La Laguna",
+          "wiki": "San Marcos La Laguna",
+          "culture": "Village de la rive nord du lac, apprécié des adeptes du yoga et de la nature. Attention aux trucs trop hippies."
+        },
+        {
+          "name": "Chichicastenango",
+          "wiki": "Chichicastenango",
+          "culture": "Village k'iche' célèbre pour son marché du jeudi et du dimanche et l'église Santo Tomás, où se mêlent rites catholiques et mayas."
+        },
+        {
+          "name": "Parc du Cerro Tzankujil",
+          "culture": "Réserve naturelle de San Marcos pour le kayak, le paddle et la baignade. Il ne faut surtout pas boire la tasse : des Français ont été malades pendant 4 jours."
+        }
+      ],
+      "stay": {
+        "name": "Antigua",
+        "wiki": "Antigua Guatemala",
+        "note": "Dimanche 4 janvier : hôtel à Antigua",
+        "options": [
+          "Casa Santo Domingo (réservé sur Booking, hôtel 5 étoiles avec piscine)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Transfert Chichicastenango à réserver, puis retour à Antigua à réserver"
+        }
+      ],
+      "food": [
+        "27 Adentro : très bien noté, réservé à 20h le dimanche 4 janvier."
+      ],
+      "ideas": [
+        "Si on veut : marché de Chichicastenango (dimanche et jeudi), messe de Santo Tomás à 12h30.",
+        "Villa Cofrades, coffee shop de Chichicastenango.",
+        "Dégustation maya avec Proyecto Tux, Maria Jacinta Xon, guide Oscar avec Tours/Activities SA.",
+        "Hôtels de luxe à Chichicastenango : La Fortuna et Casa Prana, 2 nuits minimum et 500 € la nuit (ou 150 € pour le petit bungalow 4 de La Fortuna).",
+        "Visite d'Antigua, version 2, en fin d'après-midi."
+      ]
+    },
+    {
+      "n": 11,
+      "title": "Volcan Acatenango : nuit sur le volcan",
+      "summary": "Randonnée du volcan Acatenango et nuit au camp, face au volcan de Fuego.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Volcan Acatenango",
+          "wiki": "Acatenango",
+          "culture": "Volcan de 3 976 m d'où l'on voit, juste en face, le Volcán de Fuego en éruption quasi permanente."
+        }
+      ],
+      "stay": {
+        "name": "Nuit sur le volcan",
+        "wiki": "Acatenango",
+        "note": "Camp au volcan",
+        "options": [
+          "Soy Tours (réservé, 96 €)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "transit",
+          "text": "Tour à réserver"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "title": "Acatenango ➔ Antigua ➔ Flores",
+      "summary": "Retour de randonnée, transfert d'Antigua à Guatemala City, vol de 16h15 vers Flores, puis dîner au Raíces del Lago.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Flores",
+          "wiki": "Flores, Petén",
+          "culture": "Île-ville sur le lac Petén Itzá, ancienne capitale des Itzá, aux ruelles pavées et aux maisons colorées."
+        },
+        {
+          "name": "Lac Petén Itzá",
+          "wiki": "Lake Petén Itzá"
+        },
+        {
+          "name": "Raíces del Lago"
+        }
+      ],
+      "stay": {
+        "name": "Flores",
+        "wiki": "Flores, Petén",
+        "note": "Mardi 6 janvier : hôtel à Flores",
+        "options": [
+          "Villa del Lago (réservé sur Booking, 81 €, petit-déjeuner top côté lever de soleil mais pas de piscine)",
+          "Casona de la Isla (annulé, 104 €, petit-déjeuner et piscine)",
+          "Hotel Casa Amelia (annulé, 75 €)",
+          "Hôtel Isla de Flores (annulé, 125 €, piscine mais pas de petit-déjeuner)",
+          "El Gringo Perdido (annulé)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Antigua → Guatemala City en Uber"
+        },
+        {
+          "mode": "flight",
+          "text": "Guatemala City → Flores : 16h15, TAG Airlines"
+        }
+      ],
+      "food": [
+        "Raíces del Lago : super restaurant pour le soir, accessible avec un bateau gratuit, pas réservable ; aller 30 min avant 19h30 au Raíces de la Isla.",
+        "Delirio, pour le petit-déjeuner. Maracuyá Flores, dîner ou petit-déjeuner (mieux)."
+      ]
+    },
+    {
+      "n": 13,
+      "title": "Tikal et Yaxhá",
+      "summary": "Visite de Tikal le matin, Yaxhá au coucher du soleil, et nuit dans un lodge en pleine jungle.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Tikal",
+          "wiki": "Tikal",
+          "culture": "Cité maya majeure du Petén, inscrite à l'UNESCO depuis 1979, dont les pyramides dépassent la canopée de la jungle."
+        },
+        {
+          "name": "Musée Morley",
+          "culture": "Musée de Tikal, qui présente les trouvailles du site."
+        },
+        {
+          "name": "Yaxhá",
+          "wiki": "Yaxha",
+          "photo": "File:Sunset from atop Temple of the Red Hands - Yaxha - Peten - Guatemala (15878311741).jpg",
+          "culture": "Site maya moins fréquenté que Tikal, au bord d'une lagune, où l'on monte au coucher du soleil sur une pyramide pour voir la jungle."
+        }
+      ],
+      "stay": {
+        "name": "Yaxhá",
+        "wiki": "Yaxha",
+        "note": "Mercredi 7 janvier : lodge à Yaxhá",
+        "options": [
+          "El Sombrero Yaxhá, lodge en pleine jungle (réservé par mail et déjà payé)",
+          "Camino Real, à El Remate (annulé en direct)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "transit",
+          "text": "Tour à réserver : transport à Tikal avec visite collective, 25 € (230 Q), 8h"
+        }
+      ],
+      "ideas": [
+        "Guide de Tikal : Nixon, archéologue, réservé par Tikal Inn.",
+        "Taxis et guides de Yaxhá, réservés par El Sombrero Yaxhá.",
+        "Si plus de temps à Flores : lac Petencito, cratère bleu."
+      ]
+    },
+    {
+      "n": 14,
+      "title": "Yaxhá ➔ Hopkins (Belize)",
+      "summary": "Bus vers le Belize, plage de Hopkins et sunset cruise (la bioluminescence, trop incertaine, n'a pas été réservée).",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Hopkins",
+          "wiki": "Hopkins, Belize",
+          "photo": "File:Almond Beach, Hopkins, Stann Creek, Belize.jpg",
+          "culture": "Village garifuna de la côte du Belize, où l'on danse au son des tambours et où l'on mange du poisson et de la noix de coco."
+        },
+        {
+          "name": "Anderson Lagoon",
+          "culture": "Lagune de la région de Hopkins, où l'on peut voir de la bioluminescence au coucher du soleil."
+        }
+      ],
+      "stay": {
+        "name": "Hopkins",
+        "wiki": "Hopkins, Belize",
+        "note": "Jeudi 8 janvier : hôtel à Hopkins",
+        "options": [
+          "Whitehorse Inn (réservé par mail, super bungalow sur la plage)",
+          "Hopkins Inn (direct, top mais non remboursable, pas dispo)",
+          "Seiri del Mar (eDreams, 190 €, non remboursable)",
+          "Tipple Tree (direct, pas dispo)",
+          "Cobia (direct, pas dispo)",
+          "All Seasons Hopkins (un peu moins bien)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "bus",
+          "text": "Bus Marlin Espadas ou FTN jusqu'à Belmopan, puis bus James Line vers Hopkins, à réserver"
+        }
+      ],
+      "ideas": [
+        "Tour de bioluminescence au coucher du soleil sur la lagune d'Anderson, à réserver (finalement basculé sur un Sunset Cruise, car la bioluminescence n'est pas garantie).",
+        "Si pyramides ou jungle : Altun Ha, Lamanai, navigation sur la New River, grotte de St Herman."
+      ]
+    },
+    {
+      "n": 15,
+      "title": "Hopkins ➔ Tobacco Caye",
+      "summary": "Bateau jusqu'à Tobacco Caye, journée de snorkeling sur la barrière de corail et nuit sur l'île.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Tobacco Caye",
+          "wiki": "Tobacco Caye",
+          "photo": "File:Tobacco Caye 2019.jpg",
+          "culture": "Minuscule île de sable de la barrière de corail du Belize, avec quelques cabanes et un récif à quelques mètres du rivage."
+        }
+      ],
+      "stay": {
+        "name": "Tobacco Caye",
+        "wiki": "Tobacco Caye",
+        "note": "Vendredi 9 janvier : hôtel à Tobacco Caye",
+        "options": [
+          "Reef's End (réservé par mail, méga top)",
+          "Tobacco Caye Paradise (dispo)",
+          "Windward Lodge (pas dispo)",
+          "Joe Joe's (pas dispo)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Bateau de Hopkins à Tobacco Caye"
+        }
+      ],
+      "ideas": [
+        {
+          "label": "Snorkeling :",
+          "text": "demi-journée réservée avec Patrick Jacobs Tour (Best Tours), 230 USD, à 9h ; un mail arrive la veille ou le matin pour le pickup, et il dépose directement sur Tobacco Caye."
+        },
+        {
+          "label": "Option sortie : South Water Caye :",
+          "text": "Blue Marlin (WhatsApp), Pelican Beach (pas dispo), IZE (mail), Coco Plum Caye (pas dispo)."
+        },
+        {
+          "label": "Option sortie : Placencia :",
+          "text": "Azure del Mar (top mais non remboursable), Kin Resort Placencia, Maya Beach Hotel."
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "title": "Tobacco Caye ➔ Bacalar",
+      "summary": "Snorkeling, puis gros transfert depuis le Belize vers le Mexique en bateau et transport privé, et kayak à Bacalar le soir.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Dangriga",
+          "wiki": "Dangriga",
+          "culture": "Capitale culturelle des Garifunas du Belize, où l'on fête chaque 19 novembre l'arrivée de ce peuple, le Settlement Day."
+        },
+        {
+          "name": "Bacalar",
+          "wiki": "Bacalar",
+          "culture": "Lagune d'eau douce d'environ 42 km de long, surnommée la « lagune aux sept couleurs » pour ses nuances de bleu."
+        }
+      ],
+      "stay": {
+        "name": "Bacalar",
+        "wiki": "Bacalar",
+        "note": "Samedi 10 janvier : hôtel à Bacalar",
+        "options": [
+          "Casa Eco-Toucan (réservé sur Booking)",
+          "Casa Cactus Buenavista (annulé)",
+          "Solana (Booking)",
+          "Blue Bayou (Booking)",
+          "Casa Chukum (Booking)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Bateau jusqu'à Dangriga (via l'hôtel)"
+        },
+        {
+          "mode": "car",
+          "text": "Transport privé jusqu'à Bacalar : Dangriga Auto Rental, le moins cher pour des transferts privés entre pays, réservé à 10h, 220 USD"
+        }
+      ],
+      "ideas": [
+        "Transport en bus : Fuente del Norte, le plus fiable (contacté sur WhatsApp).",
+        "Gekko Trails (contacté sur Instagram)."
+      ]
+    },
+    {
+      "n": 17,
+      "title": "Bacalar : croisière et kayak",
+      "summary": "Journée croisière sur la lagune de Bacalar, kayak aux Rápidos, marquesitas au parc.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Lagune de Bacalar",
+          "wiki": "Bacalar",
+          "culture": "Lagune d'eau douce de 42 km, aux nuances de bleu qui lui valent d'être appelée « lagune aux sept couleurs »."
+        },
+        {
+          "name": "Los Rápidos",
+          "coords": [
+            18.68,
+            -88.39
+          ],
+          "culture": "Chenal de la lagune, où le courant est plus rapide, que l'on explore en kayak et en snorkeling pour voir les stromatolithes."
+        },
+        {
+          "name": "Stromatolithes",
+          "wiki": "Stromatolite",
+          "culture": "Constructions vivantes de microbes, parmi les plus anciennes formes de vie sur Terre, visibles dans la lagune de Bacalar."
+        },
+        {
+          "name": "Laguna Bonanza (location de kayaks)",
+          "culture": "Au sud des Rápidos : environ 250 MXN le kayak, avec la possibilité de monter aux Rápidos en moins d'une heure aller-retour."
+        },
+        {
+          "name": "Sac-Ha Kayaks",
+          "culture": "Encore moins cher, un peu plus loin des Rápidos, au nord, avec une superbe eau même quand il pleut et une belle mangrove."
+        },
+        {
+          "name": "Parc de Bacalar",
+          "culture": "On y mange des marquesitas, des crêpes croustillantes fourrées."
+        },
+        {
+          "name": "Canal des Pirates et cénotes",
+          "culture": "Tour en bateau à voile incluant cénotes et canal des Pirates, avec Daytours, la meilleure entreprise."
+        }
+      ],
+      "stay": {
+        "name": "Bacalar",
+        "wiki": "Bacalar",
+        "note": "Dimanche 11 janvier : hôtel à Bacalar",
+        "options": [
+          "Habitas Bacalar (5 étoiles, réservé sur eDreams, 249 €, non remboursable)",
+          "Puerto del Cielo (Expedia)",
+          "Rancho Encantado (Expedia)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Taxis jaunes ou blancs et jaunes (~200 MXN pour les Rápidos)"
+        }
+      ],
+      "food": [
+        "Cheuinic : le restaurant le plus qualitatif, très bon.",
+        "Hijos del Colcho : conseillé par notre taxi, ceviche.",
+        "Mango y Chile."
+      ],
+      "ideas": [
+        "Journée croisière à Bacalar, à réserver."
+      ]
+    },
+    {
+      "n": 18,
+      "title": "Bacalar ➔ Tulum",
+      "summary": "Transfert en taxi à trouver sur place, trajet et plage de Tulum.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Tulum",
+          "wiki": "Tulum",
+          "culture": "Ville de la côte caraïbe mexicaine, connue pour ses ruines mayas du XIIIe siècle perchées sur une falaise face à la mer."
+        },
+        {
+          "name": "Plage de Tulum",
+          "culture": "Plage de sable blanc au pied des ruines, sur la mer des Caraïbes."
+        }
+      ],
+      "stay": {
+        "name": "Tulum",
+        "wiki": "Tulum",
+        "note": "Lundi 12 janvier : hôtel à Tulum",
+        "options": [
+          "Nueva Vida de Ramiro (réservé en direct, 128 € avec 50 € de frais) : le mieux et le moins américanisé de la zone hôtelière",
+          "Ana y José (219 €), près de Nueva Vida de Ramiro",
+          "Casa Colibrí Tankah (Booking, 133 € sans remboursement) : plage un peu rocheuse, mais pas cher",
+          "Piedra Escondida (eDreams, 227 €, pas mal mais petit-déjeuner pas top, non remboursable)",
+          "Casa Cenote",
+          "Mi Amor la Zebra (pas mal mais un peu cher)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Transfert en taxi à trouver sur place"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "title": "Tulum ➔ Cancún ➔ Paris",
+      "summary": "Ruines de Tulum, cénote Dos Ojos, plage, puis colectivos et bus ADO vers Cancún et vol retour.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Ruines de Tulum",
+          "wiki": "Tulum",
+          "photo": "File:El Castillo, Tulum Ruinas, 2023.jpg",
+          "culture": "Ancienne cité maya fortifiée de la période postclassique, dont le temple El Castillo domine la mer des Caraïbes. Les ruines se visitent de 8h à 15h30."
+        },
+        {
+          "name": "Cénote Dos Ojos",
+          "wiki": "Sistema Dos Ojos",
+          "culture": "Système de cénotes et de grottes immergées parmi les plus longs du monde, aux eaux d'un bleu cristallin. Son nom, « deux yeux », vient de deux cénotes voisins."
+        },
+        {
+          "name": "Cancún",
+          "wiki": "Cancún"
+        }
+      ],
+      "stay": null,
+      "end": "Vol retour vers Paris",
+      "transport": [
+        {
+          "mode": "bus",
+          "text": "Colectivos, puis bus ADO jusqu'à Cancún, à réserver"
+        },
+        {
+          "mode": "flight",
+          "text": "Cancún → Paris"
+        }
+      ],
+      "ideas": [
+        "Plages de Xpu-Há et de Tankah Bay."
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "oaxaca",
+      "title": "Oaxaca : visites, mezcal, hôtels et restaurants",
+      "summary": "Visites de la région et de la ville, spécialités, distilleries de mezcal, hôtels, restaurants et loueurs de voiture comparés.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Dans la région : à faire"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Grand marché de Tlacolula, le « tianguis » du dimanche, vers 11h30. Voir les restaurants pour le déjeuner (à emporter ?) ou tacos de guisos sur le marché.",
+            "Tisserands et chocolat chaud à Teotitlán, au goûter.",
+            "Arbre de Tule : le plus grand arbre du monde, au retour.",
+            "Distilleries de mezcal : voir le comparatif ci-dessous."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Dans la région : pas prioritaire"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Monte Albán : capitale zapotèque du IIIe au VIIe siècle. On ne veut pas voir de ruines.",
+            "Hierve el Agua : cascade pétrifiée avec piscines naturelles. Loin et a l'air surcôté.",
+            "Centre culturel de San Agustín : école d'art dans une fabrique de tissus, créée par Francisco Toledo.",
+            "San Martín Tilcajete : atelier de sculptures un peu effrayantes qui ont inspiré Coco."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "En ville"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Barrios de Jalatlaco et de Xochimilco : street art et couleurs.",
+            "Église Santo Domingo, toute dorée.",
+            "Chocolatería Ritos, lundi matin ? Oui, excellent chocolat chaud.",
+            "Jardin ethnobotanique.",
+            "Messe à 19h le samedi, puis à 10h et 12h le dimanche, et de 17h à 21h toutes les heures à la cathédrale ; 17h30 et 19h30 à Santo Domingo."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Spécialités"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Sur les marchés : memelas (sortes de tortillas) ou tacos de guisos (de ragoûts) dans les marchés d'Oaxaca (La Merced, Mercado IV Centenario).",
+            "Memelas de Doña Vale, au marché Benito Juárez.",
+            "Chocolateatole : boisson fermentée au cacao.",
+            "Tejate : boisson fermentée."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Distilleries de mezcal"
+        },
+        {
+          "type": "text",
+          "text": "Autour de Santiago Matatlán, capitale mondiale du mezcal (agave = maguey)."
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Distillerie",
+            "Zone",
+            "Notre avis"
+          ],
+          "rows": [
+            [
+              "Mal de Amor",
+              "Santiago Matatlán",
+              "Barritour à 11h, 13h, 15h et 17h, durée 2 h, réservé à 13h. Un peu à l'américaine mais hyper sympa et beaucoup de dégustations."
+            ],
+            [
+              "Gracias a Dios",
+              "Santiago Matatlán",
+              "Super, mais fermé le dimanche."
+            ],
+            [
+              "El Sabino (Mezcal Macurichos)",
+              "Santiago Matatlán",
+              "À confirmer pour l'ouverture et les horaires. Le plus ancestral et le plus qualitatif, mais dommage : pas de champs."
+            ],
+            [
+              "Casa Cortés",
+              "Santiago Matatlán",
+              "Très traditionnel."
+            ],
+            [
+              "El Rey Zapoteco",
+              "Santiago Matatlán",
+              "Très bon tour, mais pas de champs."
+            ],
+            [
+              "Espina Dorada",
+              "Plus près d'Oaxaca",
+              "Très proche d'Oaxaca, a l'air top, mais lieu pas très beau."
+            ],
+            [
+              "Casa Chagoya",
+              "Plus près d'Oaxaca",
+              "Noté seulement 4,0, mais le tour gratuit de 35 min a l'air très bien, lieu beau ([article](https://www.alwayspacktissues.com/post/oaxaca-mezcal-tours)), déjeuner possible à 42 € ([expériences](https://casachagoya.com/experiencias/))."
+            ],
+            [
+              "Lalocura",
+              "Plus loin, dans une autre vallée au sud",
+              "300 pesos, visite de 2 h à 2 h 30, 20 dégustations, animaux de la ferme, paysage montagneux."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Hôtels"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Nuit",
+            "Hôtel",
+            "Statut et avis"
+          ],
+          "rows": [
+            [
+              "Samedi 27",
+              "Casa de Sierra Azul (Expedia)",
+              "Réservé."
+            ],
+            [
+              "Samedi 27",
+              "El Diablo y la Luna (Booking)",
+              "Alternative."
+            ],
+            [
+              "Dimanche 28",
+              "Becino (Expedia)",
+              "Réservé, 180 €, petit-déjeuner génial."
+            ],
+            [
+              "Dimanche 28",
+              "Boulenc",
+              "176 € sur Booking, même groupe que Becino."
+            ],
+            [
+              "Dimanche 28",
+              "Casa Bendición (Booking)",
+              "Annulé, 155 €, pas de petit-déjeuner."
+            ],
+            [
+              "Dimanche 28",
+              "Comala, Sauvé",
+              "Autres options."
+            ],
+            [
+              "Mercredi 31",
+              "GranaB&B (Booking)",
+              "Réservé, super qualité."
+            ],
+            [
+              "Mercredi 31",
+              "Airbnb (2 options), Ayook, Casa Bendición, El Diablo y la Luna (Booking)",
+              "Alternatives."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Restaurants"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Restaurant",
+            "Niveau",
+            "Notre avis et disponibilité"
+          ],
+          "rows": [
+            [
+              "Quince Letras",
+              "Niveau ++",
+              "4,5, cour arborée conviviale. Réservé le 27 décembre à 19h en planta baja, ou rooftop sans trop de vue. Aucune autre disponibilité que notre réservation."
+            ],
+            [
+              "Los Danzantes",
+              "Niveau ++",
+              "4,6 sur Google Maps, cour intérieure concept, étoilé Michelin. Aucune disponibilité, mail et WhatsApp envoyés sans réponse."
+            ],
+            [
+              "Casa Oaxaca",
+              "Niveau ++",
+              "Vue sur l'arrière de Santo Domingo, 4,5. Aucune disponibilité (contacté par WhatsApp, en attente de réponse)."
+            ],
+            [
+              "Levadura de Olla",
+              "Niveau ++",
+              "4,5, cour coloniale, étoilé Michelin. Mail envoyé (liste d'attente) pour le 27 décembre à 19h ; fermé le dimanche 28 et le 31."
+            ],
+            [
+              "Zandunga",
+              "Niveau ++",
+              "4,4, cuisine de l'isthme. Mail envoyé pour le 31 car il semble fermé ; disponible le 27 ou le 28, pas de WhatsApp."
+            ],
+            [
+              "Ancestral",
+              "Niveau ++",
+              "Un peu à l'écart, très beau cadre arboré, 4,5. Disponible les 27 et 28 (réservé à 19h30, menu dégustation avec accord, 1 500 + 400 MXN), plus de place le 31."
+            ],
+            [
+              "Pitiona",
+              "Moins bien",
+              "Noté 4,1 mais super vue face à Santo Domingo, pour le déjeuner ?"
+            ],
+            [
+              "Criollo",
+              "Moins bien",
+              "Expérience jardin mais 4,2. Disponible les 27 et 28 (18h30), pas le 31."
+            ],
+            [
+              "Catedral",
+              "Moins bien",
+              "Immense, 4,5. Disponible les 27 et 28, pas de place le 31."
+            ],
+            [
+              "Tacos del Carmen",
+              "Moins bien",
+              "Pour des tacos à emporter."
+            ],
+            [
+              "Comedor Jaguar, Tierra Antigua",
+              "Teotitlán del Valle",
+              "Pour déjeuner à Teotitlán."
+            ],
+            [
+              "Casa Tierra (réservé), Mo Kalli (excentré)",
+              "Tlacolula",
+              "À midi, après le marché."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Location de voiture"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Loueur",
+            "Notre avis"
+          ],
+          "rows": [
+            [
+              "Nuuk",
+              "Imbattable, réservé par WhatsApp (prise à 10h30)."
+            ],
+            [
+              "Mixteca",
+              "Contacté par mail : pas dispo, et un peu cher."
+            ],
+            [
+              "Only",
+              "Top, mais seulement en centre-ville (WhatsApp)."
+            ],
+            [
+              "Tres Reyes",
+              "Pas dispo."
+            ],
+            [
+              "Agora",
+              "Dispo, mais seulement en centre-ville."
+            ],
+            [
+              "Platino",
+              "Top, mais seulement à Oaxaca."
+            ],
+            [
+              "Gamitours",
+              "Top, mais seulement à Oaxaca."
+            ],
+            [
+              "Vipi",
+              "Top, mais seulement à Oaxaca."
+            ],
+            [
+              "Drivenow",
+              "Top, mais seulement à Oaxaca."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "puerto-escondido-mazunte",
+      "title": "Puerto Escondido et Mazunte : plages, baleines, tortues",
+      "summary": "Restaurants, plages, tour d'observation des baleines et hôtels de la côte Pacifique d'Oaxaca.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Restaurants"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mazunte : Sueño de Frida (petit-déjeuner), Il Gato Rosso (tacos de poisson et de crevettes)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Plages"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Meilleures plages de Puerto Escondido : Carrizalillo, Coral (gratuit en passant par Bacocho).",
+            "Playa Escobilla : éco-centre des « tortuguitas », réservé sur WhatsApp, lundi 29 à 17h.",
+            "Laguna Ventanilla : à voir sur place si on a envie d'un tour pour voir des crocodiles.",
+            "Playa Agua Blanca : piscines naturelles et huîtres du jour dans les restaurants."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Tour d'observation des baleines"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mazunte : Océano Mágico, réservé sur WhatsApp, 8h00 le mardi 30 décembre. Lagunita Tours, la même compagnie."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Hôtels"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Nuit",
+            "Hôtel",
+            "Statut et avis"
+          ],
+          "rows": [
+            [
+              "Lundi, Mazunte",
+              "Il Gatto Rosso",
+              "Réservé, sur la plage."
+            ],
+            [
+              "Lundi, Mazunte",
+              "Malagueña (Booking)",
+              "Top mais non remboursable, 171 €."
+            ],
+            [
+              "Lundi, Mazunte",
+              "H2O Container (Booking)",
+              "Réservé puis annulé, 131 €, pas sur la plage."
+            ],
+            [
+              "Lundi, Mazunte",
+              "Casa Qi (Expedia)",
+              "Option."
+            ],
+            [
+              "Lundi, Mazunte",
+              "Bahía de la Luna (Booking)",
+              "Option."
+            ],
+            [
+              "Lundi, Mazunte",
+              "Arena Negra (Booking et site)",
+              "Contacté par formulaire."
+            ],
+            [
+              "Lundi, Mazunte",
+              "Tres Marías",
+              "À re-réserver, Booking, 94 €, formulaire demandé."
+            ],
+            [
+              "Mardi, Piedra Blanca",
+              "Casa Chula",
+              "Superbe, jungle de luxe, réservé sur Booking."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antigua",
+      "title": "Antigua : hôtels, restaurants, activités",
+      "summary": "Hôtels, bars, cafés, restaurants, visites, ateliers de chocolat et de cuisine, boutiques et visites de plantations de café.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Hôtels"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Casa Bansley : réservé sur Booking le jeudi 1er janvier, hyper mignon et top vue pour le petit-déjeuner.",
+            "Casa Santo Domingo : réservé sur Booking le dimanche 4 janvier, hôtel 5 étoiles avec piscine.",
+            "[Airbnb : suite dans un magasin d'antiquités](https://www.airbnb.fr/rooms/1170401128262214641)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Bars"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Zacapa : dégustation de rhum, tabacs et vins.",
+            "Suelo : vins nature, super ambiance.",
+            "Et aussi : Café No Sé, Bar Las Vibras, El Barrio."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Cafés"
+        },
+        {
+          "type": "list",
+          "items": [
+            "A Ver Quién Son. Alegría.",
+            "Et aussi : Artista de Café, Fat Cat Café, Café Sky, 12 Onzas, El Gran Café, Café Sol, Raíz Café, Café Condesa."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Restaurants"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Rosanta : réservé, jardin, 19h40 puis décalé à 20h le jeudi 1er janvier.",
+            "Plenty Local Eatery : a l'air cool en passant devant.",
+            "Aqua Restaurant : a l'air cool en passant devant.",
+            "Tenedor del Cerro (Casa Santo Domingo) : belle vue mais un peu isolé.",
+            "Porque No : backpacker.",
+            "Nanik : chef qui a travaillé dans des restaurants étoilés, mais lieu pas hyper beau.",
+            "Laurel Bistro : ambiance hyper cool mais plats pas méga qualitatifs.",
+            "Criollo : ambiance très cool aussi mais plats pas méga qualitatifs non plus.",
+            "Carlos y Carlos : a l'air très bien, peut-être une vibe un peu moins cool que les deux précédents, mais des plats un peu plus beaux.",
+            "27 Adentro : super bien noté, mais à voir si le cadre est si beau que ça. Réservé à 20h le dimanche 4 janvier.",
+            "Welten : beau mais pas hyper convaincant.",
+            "Itzam : cuisine maya.",
+            "Spécialités : antojitos, chuchitos, caldo de gallina."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Visites"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Centre-ville, gratuit : cathédrale Saint-Joseph, palais des Capitaines, hôtel de ville ; le Mercado Central et le Parque Central ; points de vue secrets sur les volcans et rooftops ; Iglesia de la Merced et son marché ; Arco de Santa Catalina, la vue la plus connue sur le volcan de Agua.",
+            "Payant : MUNAG et Paseo Los Museos (art, vues et histoire) ; ruines des couvents de Santa Clara et des Capucines ; jardins de l'ancien Collège de la Compagnie de Jésus ; miracles du frère Pierre au sanctuaire de San Francisco."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Chocolat et cuisine"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Chocolatería Ek Chuah : atelier chocolat, un peu américain mais sympa.",
+            "ChocoMuseo : atelier bean-to-bar, plus américain encore.",
+            "[Kukul Tales](https://www.tripadvisor.com/Attraction_Review-g295366-d17298349-Reviews-Kukul_Tales-Antigua_Sacatepequez_Department.html) : cours de cuisine.",
+            "[Cours de cuisine maya avec visite du marché](https://www.tripadvisor.com/AttractionProductReview-g295366-d17419908-Market_and_Mayan_Cooking_Class-Antigua_Sacatepequez_Department.html)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Boutiques"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Bijoux Xibalba.",
+            "Magasins d'artisanat : Casa de los Gigantes ou Nim Po't."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Visites de plantations de café"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[De la Gente, « Bean to Brew »](https://www.dlgcoffee.org/coffee-tour) : tours le matin et l'après-midi, de 3 h 30 à 4 h chacun.",
+            "[Finca La Azotea](https://laazotea.gt/) : visite de la ferme bien plus courte, environ 60 minutes, mais dans le cadre d'un tour très populaire où l'on rejoint La Azotea en quad avant de revenir par le point de vue du Cerro de la Cruz. Si l'on a son propre moyen de transport, on peut visiter la ferme et rejoindre la visite seule pour 50 Q. À environ 15 minutes d'Antigua, à Jocotenango : ferme en activité avec un musée, des visites guidées, parfois de la musique live, et de beaux jardins.",
+            "Finca Filadelfia : la visite de café la plus populaire, facile d'accès depuis le centre (5 à 10 min en voiture). Beau cadre, visites professionnelles en anglais, tout le processus de la graine à la tasse, et un joli café sur place.",
+            "Finca El Pilar : moins touristique, juste à l'extérieur d'Antigua, connue aussi pour l'observation des oiseaux et la randonnée. On peut demander une simple visite de la ferme ou venir pour la nature.",
+            "Hacienda Jocotenango : le processus du café."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acatenango",
+      "title": "Volcan Acatenango : comparatif des compagnies",
+      "summary": "Les agences qui organisent la randonnée de nuit de l'Acatenango, comparées, avec un message type en espagnol.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Les meilleures"
+        },
+        {
+          "type": "list",
+          "items": [
+            "AKT : contacté par WhatsApp, 115 € la cabine de 2, agence très traditionnelle et petits groupes (moins de 10), très bon emplacement (le camp le plus haut du côté ouest). A l'air d'être le mieux, mais plus de place à notre date.",
+            "Soy Tours : réservé, 96 €, bon prix, bon matériel à la location sur place, camp au meilleur endroit côté ouest, cabines de 2 très confortables, mais groupes assez gros (30 personnes).",
+            "Asoava Tours : agence très traditionnelle, petits groupes, pas cher. Contacté, mais uniquement des dortoirs (pas de tente de 2), et camp sur le côté est du volcan (pas de vue du côté avec le plus de lave).",
+            "Extreme Life Tours : contacté, disponible, 115 € la cabine de 2, très bien noté et petits groupes, même si le camp est côté est."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Correct"
+        },
+        {
+          "type": "list",
+          "items": [
+            "V Hiking : liste d'attente pour une cabine solo, ou disponible en cabine partagée. Pas cher et bien.",
+            "Ox Expeditions : disponibilités en ligne, mais cabine de 5 personnes (99 $).",
+            "Lava Trails : pas dispo à nos dates."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Pas bon"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tropicana (89 $) : le moins cher, et côté ouest du volcan (vue côté champ de lave), mais c'est l'usine à Américains.",
+            "Wicho & Charlie : excessivement cher.",
+            "Old Town Outfitters : pareil.",
+            "CA Travellers : je ne le sens pas (100 € + 10 % de frais de carte, pas de location de sac, pas clair sur 3 ou 2 personnes).",
+            "Pachamama : pas bien noté."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Message type en espagnol"
+        },
+        {
+          "type": "text",
+          "text": "Hola, espero que estén bien. Somos una pareja de viajeros franceses, de luna de miel en Guatemala en enero. ¿Queda espacio para el tour al volcán Acatenango el lunes 5 de enero por favor? Muchas gracias y que tengan un muy buen día."
+        }
+      ]
+    },
+    {
+      "id": "atitlan-chichicastenango",
+      "title": "Lac Atitlán et Chichicastenango",
+      "summary": "Hôtels, restaurants, comparatif des villages du lac et conseils pour Chichicastenango.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Hôtels"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Nuit",
+            "Hôtel",
+            "Statut et avis"
+          ],
+          "rows": [
+            [
+              "Vendredi 2 janvier",
+              "Casa Laguna Santa Cruz (Booking)",
+              "Réservé, super vue."
+            ],
+            [
+              "Vendredi 2 janvier",
+              "Lush San Marcos (Booking, Airbnb)",
+              "Réservé, petit-déjeuner inclus."
+            ],
+            [
+              "Vendredi 2 janvier",
+              "Tierra Aurora (Expedia)",
+              "Option."
+            ],
+            [
+              "Vendredi 2 janvier",
+              "Casa Viajero, à Palopó",
+              "Option."
+            ],
+            [
+              "Vendredi 2 janvier",
+              "Hôtel Terrazas del Lago (Booking)",
+              "Option."
+            ],
+            [
+              "Samedi 3 janvier",
+              "La Iguana Perdida (Booking)",
+              "Réservé."
+            ],
+            [
+              "Samedi 3 janvier",
+              "Alas del Ángel",
+              "Réservé, vue de rêve avec jacuzzi."
+            ],
+            [
+              "Samedi 3 janvier",
+              "Hotel Kaalpul (eDreams)",
+              "Option."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Restaurants"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Santa Cruz : Iguana Perdida (demander le jour même avant 15h pour le « family dinner », vachement sympa, l'institution) ; Guate Mia, une autre auberge de jeunesse à côté.",
+            "San Marcos : Lush, réservé, excellents ceviches et cuisine végétarienne créative."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Villages"
+        },
+        {
+          "type": "text",
+          "text": "Les meilleurs villages : Santa Cruz, San Juan La Laguna, San Marcos (pour la nature, attention aux trucs trop hippies), Santiago (plus loin en lancha). Les autres n'ont pas d'intérêt."
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Village",
+            "À voir et à faire"
+          ],
+          "rows": [
+            [
+              "Santa Cruz",
+              "Petit marché le samedi ; [cours de cuisine maya](https://www.mayankitchencookingclass.com/) ; randonnée sur le Sendero Maya inferior, de Santa Cruz à San Marcos."
+            ],
+            [
+              "San Marcos",
+              "Parc du Cerro Tzankujil pour le kayak, le paddle et la baignade (ne surtout pas boire la tasse : des Français ont été malades 4 jours)."
+            ],
+            [
+              "San Juan",
+              "Coopérative de café La Voz (contactée sur WhatsApp, sans réponse) ; textiles Casa Flor Ixcaco et Casa del Tejido (chers à l'achat car coopératives de femmes locales très qualitatives, mais démonstration de tissage gratuite et super) ; miel Xunah Kaab (dégustation gratuite) ; coucher de soleil au mirador Kaqasiiwaan."
+            ],
+            [
+              "Panajachel",
+              "Casa Cakchiquel (musée de la photo) ; église Saint-François-d'Assise."
+            ],
+            [
+              "San Antonio Palopó (plus loin)",
+              "Ateliers de céramique."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Chichicastenango"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Marché le dimanche (et le jeudi).",
+            "Villa Cofrades, coffee shop.",
+            "Dégustation maya : [Proyecto Tux sur Instagram](https://www.instagram.com/proyectotux.cocinadeorigen/) et [sur Facebook](https://www.facebook.com/proyectotux.cocinagourmetdeorigen), Maria Jacinta Xon. Guide : Oscar avec Tours/Activities SA.",
+            "Hôtels : La Fortuna et Casa Prana, des hôtels de luxe, 2 nuits et 500 € la nuit minimum (ou 150 € pour le petit bungalow 4 de La Fortuna)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flores-tikal",
+      "title": "Flores, Tikal et Yaxhá",
+      "summary": "Vol vers Flores, hôtels, restaurants et visites de Tikal et de Yaxhá.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Vols"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Réserver directement sur TAG Airlines, en dollars : fait."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Hôtels"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Nuit",
+            "Hôtel",
+            "Statut et avis"
+          ],
+          "rows": [
+            [
+              "Mardi 6",
+              "Villa del Lago (Booking)",
+              "Réservé, 81 €, petit-déjeuner top côté lever de soleil mais pas de piscine."
+            ],
+            [
+              "Mardi 6",
+              "Casona de la Isla (Booking)",
+              "Annulé, 104 €, petit-déjeuner et piscine."
+            ],
+            [
+              "Mardi 6",
+              "Hotel Casa Amelia",
+              "Réservé sur leur site, 75 €, annulé le 6 décembre (31 jours avant, annulation possible 30 jours avant)."
+            ],
+            [
+              "Mardi 6",
+              "Hôtel Isla de Flores (Booking)",
+              "Annulé, 125 €, piscine mais pas de petit-déjeuner."
+            ],
+            [
+              "Mardi 6",
+              "El Gringo Perdido (Booking)",
+              "Annulé."
+            ],
+            [
+              "Mercredi 7",
+              "El Sombrero Yaxhá",
+              "Lodge en pleine jungle, réservé par mail et déjà payé."
+            ],
+            [
+              "Mercredi 7",
+              "Camino Real (El Remate)",
+              "Annulé en direct par mail."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Restaurants"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Raíces del Lago : super restaurant pour le soir, accessible avec un bateau gratuit, pas réservable. Aller 30 min avant 19h30 au Raíces de la Isla.",
+            "Delirio, pour le petit-déjeuner.",
+            "Maracuyá Flores : dîner ou petit-déjeuner (mieux)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Visites"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Transport à Tikal avec visite collective : 25 €, 230 Q, 8h, d'après l'hôtel.",
+            "Guide de Tikal : Nixon, archéologue, réservé par Tikal Inn. Musée Morley.",
+            "Taxis et guides de Yaxhá, réservés par El Sombrero Yaxhá.",
+            "Options si plus de temps à Flores : lac Petencito, cratère bleu."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hopkins-tobacco-caye",
+      "title": "Hopkins et Tobacco Caye (Belize)",
+      "summary": "Activités, hôtels, îles et transports pour les trois jours au Belize.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Activités"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Patrick Jacobs Tour (Best Tours) : bioluminescence pas réservée car risque de ne pas en voir, basculé sur un Sunset Cruise.",
+            "Snorkeling en demi-journée : réservé, 230 USD, à 9h. Un mail arrive la veille ou le matin du tour pour le pickup, et il dépose directement sur Tobacco Caye.",
+            "Si pyramides ou jungle : Altun Ha, Lamanai, navigation sur la New River, grotte de St Herman."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Hôtels"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Nuit",
+            "Hôtel",
+            "Statut et avis"
+          ],
+          "rows": [
+            [
+              "Jeudi 8, Hopkins",
+              "Whitehorse Inn",
+              "Super bungalow sur la plage, réservé par mail."
+            ],
+            [
+              "Jeudi 8, Hopkins",
+              "Hopkins Inn (direct)",
+              "Top mais non remboursable, pas dispo."
+            ],
+            [
+              "Jeudi 8, Hopkins",
+              "Seiri del Mar (eDreams)",
+              "190 €, non remboursable."
+            ],
+            [
+              "Jeudi 8, Hopkins",
+              "Tipple Tree (direct)",
+              "Mail et WhatsApp envoyés, pas dispo."
+            ],
+            [
+              "Jeudi 8, Hopkins",
+              "Cobia (direct)",
+              "Pas dispo."
+            ],
+            [
+              "Jeudi 8, Hopkins",
+              "All Seasons Hopkins",
+              "Un peu moins bien."
+            ],
+            [
+              "Vendredi 9, Tobacco Caye",
+              "Reef's End",
+              "Méga top, réservé par mail."
+            ],
+            [
+              "Vendredi 9, Tobacco Caye",
+              "Tobacco Caye Paradise",
+              "Dispo."
+            ],
+            [
+              "Vendredi 9, Tobacco Caye",
+              "Windward Lodge",
+              "Pas dispo."
+            ],
+            [
+              "Vendredi 9, Tobacco Caye",
+              "Joe Joe's",
+              "Pas dispo."
+            ],
+            [
+              "Vendredi 9, option South Water Caye (écartée)",
+              "Blue Marlin (WhatsApp), Pelican Beach, IZE (mail), Coco Plum Caye",
+              "Pelican Beach et Coco Plum Caye pas dispo."
+            ],
+            [
+              "Vendredi 9, option Placencia (écartée)",
+              "Azure del Mar, Kin Resort Placencia, Maya Beach Hotel",
+              "Azure del Mar : top mais non remboursable."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Transports"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Bus Fuente del Norte : le plus fiable, contacté sur WhatsApp.",
+            "Transfert avec Dangriga Auto Rental : le moins cher pour des transferts privés entre pays, réservé à 10h, 220 USD.",
+            "Gekko Trails : contacté sur Instagram."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bacalar",
+      "title": "Bacalar : activités, transports, hôtels",
+      "summary": "Où faire du kayak et du snorkeling, comment se déplacer, où manger et dormir à Bacalar.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Activités"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Los Rápidos : snorkeling dans les stromatolithes ([excursion](https://secretoo.com/excursion/mexique-bacalar-los-rapidos-kayak)). Mieux : louer un kayak à Laguna Bonanza (sud des Rápidos), environ 250 MXN, avec la possibilité de monter aux Rápidos en moins d'une heure aller-retour.",
+            "Sac-Ha Kayaks : encore moins cher, un petit peu plus loin des Rápidos (au nord), superbe eau même quand il pleut, belle mangrove.",
+            "Bacalar centre : marquesitas au parc de Bacalar ; tour en bateau à voile incluant cénotes et canal des Pirates : la meilleure entreprise est Daytours."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Transports"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Utiliser des taxis jaunes, ou blancs et jaunes (par exemple ~200 MXN pour les Rápidos)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Restaurants"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Cheuinic : le restaurant le plus qualitatif, très bon.",
+            "Hijos del Colcho : conseillé par notre taxi, ceviche.",
+            "Mango y Chile."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Hôtels"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Nuit",
+            "Hôtel",
+            "Statut et avis"
+          ],
+          "rows": [
+            [
+              "Samedi 10",
+              "Casa Eco-Toucan (Booking)",
+              "Réservé."
+            ],
+            [
+              "Samedi 10",
+              "Casa Cactus Buenavista (Booking)",
+              "Annulé."
+            ],
+            [
+              "Samedi 10",
+              "Solana, Blue Bayou, Casa Chukum (Booking)",
+              "Options."
+            ],
+            [
+              "Dimanche 11",
+              "Habitas Bacalar",
+              "5 étoiles, réservé sur eDreams, 249 €, non remboursable."
+            ],
+            [
+              "Dimanche 11",
+              "Puerto del Cielo, Rancho Encantado (Expedia)",
+              "Options."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tulum",
+      "title": "Tulum : cénotes, snorkeling, transports et hôtels",
+      "summary": "Comparatif des cénotes et des spots de snorkeling, un point culture sur les cénotes, transports et hôtels.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Comparatif des cénotes"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Cénote",
+            "Notre avis"
+          ],
+          "rows": [
+            [
+              "Dos Ojos",
+              "Clairement le mieux : eau bleue dans plusieurs grottes. Accès en colectivos ou en taxi, puis 100 MXN pour la petite navette du parc depuis la route 307."
+            ],
+            [
+              "Taak Bi Ha",
+              "Souterrain, collé à Dos Ojos."
+            ],
+            [
+              "Gran Cenote",
+              "Proche de Tulum mais cher et un peu moins beau."
+            ],
+            [
+              "Cenote Azul",
+              "Très belle piscine naturelle, mais blindée de monde."
+            ],
+            [
+              "Cénotes de Chemuyil, à vélo (Xunaan Ha)",
+              "Le plus authentique d'après Gemini."
+            ],
+            [
+              "Multum Ha, à Cobá",
+              "Trop loin dans les terres."
+            ],
+            [
+              "Aktun Chen",
+              "Cénote souterrain."
+            ],
+            [
+              "Casa Cenote",
+              "Mal noté : eau super claire mais pas vraiment un cénote (rivière de mangrove), et très cher."
+            ],
+            [
+              "Lagon de Yal-Ku",
+              "Bel open air lagoon, mais on aura vu Bacalar."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Comparatif du snorkeling"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Spot",
+            "Notre avis"
+          ],
+          "rows": [
+            [
+              "Baie d'Akumal",
+              "Beaucoup de tortues, mais on en aura déjà vu."
+            ],
+            [
+              "Baie de Soliman (option lamantins)",
+              "Moins bien noté sur Maps."
+            ],
+            [
+              "Mangroves et lagunes de la réserve de Sian Ka'an",
+              "Superbe, mais trop loin et trop long (une journée)."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Autres"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ruines de Tulum : de 8h à 15h30.",
+            "Plage Xpu-Há.",
+            "Plage de Tankah Bay."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Point culture sur les cénotes"
+        },
+        {
+          "type": "text",
+          "text": "Chaque cénote était une entrée vers l'inframonde (Xibalba), mais tous n'étaient pas dédiés aux sacrifices. Des prêtres mayas y pratiquaient (et pratiquent encore parfois) des rituels de bénédiction ou de demande de pluie, mais sans effusion de sang. On y a trouvé des fragments de poteries et des offrandes rituelles (encens, objets précieux). Dos Ojos était surtout une source d'eau vitale. Les sacrifices humains étaient généralement réservés aux cénotes situés au cœur de grandes cités religieuses, comme Chichén Itzá."
+        },
+        {
+          "type": "text",
+          "text": "Pourquoi l'eau y est-elle si belle ? L'absence de sédiments organiques (liés à des activités humaines passées ou à une ouverture totale sur la jungle) est l'une des raisons pour lesquelles l'eau est restée si cristalline."
+        },
+        {
+          "type": "heading",
+          "text": "Transports"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Éviter les taxis (blancs et rouges), qui ont des prix excessifs.",
+            "Prendre les bus ADO pour les longs trajets.",
+            "Et essayer les colectivos (vans blancs avec une ligne rouge ou bleue) pour les trajets courts, s'ils acceptent de prendre des touristes."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Hôtels"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Hôtel",
+            "Notre avis"
+          ],
+          "rows": [
+            [
+              "Nueva Vida de Ramiro",
+              "Le mieux et le moins américanisé de la zone hôtelière. Réservé en direct, 128 € avec 50 € de frais."
+            ],
+            [
+              "Ana y José",
+              "219 €, proche de Nueva Vida de Ramiro."
+            ],
+            [
+              "Casa Colibrí Tankah (Booking)",
+              "Plage un peu rocheuse, mais pas cher (133 € sans remboursement)."
+            ],
+            [
+              "Piedra Escondida",
+              "227 € sur eDreams, pas mal mais petit-déjeuner pas top, non remboursable."
+            ],
+            [
+              "Casa Cenote",
+              "Option."
+            ],
+            [
+              "Mi Amor la Zebra",
+              "Pas mal mais un peu cher."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "masque-de-plongee",
+      "title": "Masque de plongée à ma vue",
+      "summary": "Comparatif de masques et de lunettes à correction optique. Finalement, le moins cher se trouve sur AliExpress.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Optical V2, Optidive : voir les marques ci-dessous. Finalement, le moins cher est AliExpress.",
+            "[NEON HQ : masque de plongée à la vue](https://beseas.com/fr/products/neon-hq-masque-de-plongee)",
+            "[SEACLEAR 180° : masque de plongée panoramique à la vue](https://beseas.com/fr/products/seaclear-180-masque-de-plongee-panoramique)",
+            "[PHANTOM : masque de plongée à la vue](https://beseas.com/fr/products/phantom-masque-de-plongee)",
+            "[XENO : masque de plongée à la vue](https://beseas.com/fr/products/xeno-masque-de-plongee)",
+            "[Lunettes de natation Hydropure Optical (Speedo)](https://fr.speedo.com/lunettes-de-natation-hydropure-optical/13102117.html)",
+            "[Lunettes de natation à verres correcteurs, anti-buée et protection UV (Amazon)](https://www.amazon.fr/dp/B0DNF7GLDH)",
+            "[ZIONOR G1MS : lunettes de natation optiques, anti-fuite et anti-buée (Amazon)](https://www.amazon.fr/dp/B0DFGMD6YP)",
+            "[EnzoDate : kit de plongée optique, force différente pour chaque œil (Amazon)](https://www.amazon.fr/dp/B071XXWYRS)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esim",
+      "title": "Cartes eSIM pour 4 pays",
+      "summary": "Le moins cher, le plus pratique et le plus qualitatif : GoMoWorld.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "GoMoWorld : en plus d'être le moins cher, le code ESIMDB2 fait gagner 2 € par forfait.",
+            "Louison : déjà Mexique et États-Unis avec Free.",
+            "Belize (Thomas) : GoMo 1,5 Go 30 jours 11 €, 3,5 Go 30 jours 20 €, 5 Go 30 jours 30 € ; ou Holafly illimité 3 jours 23,90 € en 5G.",
+            "Guatemala (Louison et Thomas) : GoMo 15 Go 30 jours 11 € en 4G, acheté.",
+            "Mexique (Thomas) : GoMo 10 Go 30 jours 20 €, ou 17 Go 30 jours 30 € en 4G, acheté."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "Budget",
+      "summary": "Ce que le voyage a coûté.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Total : 8 801 €, hors 1 200 € de billets d'avion qui ont été remboursés."
+        }
+      ]
+    }
+  ]
+}

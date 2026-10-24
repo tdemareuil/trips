@@ -1,0 +1,946 @@
+{
+  "id": "cyclades",
+  "title": "Cyclades",
+  "subtitle": "Athènes, Sifnos, Milos et Santorin : une minimoon de 8 jours entre îles, plages, tavernes et volcans",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Oia, Greece",
+  "days": [
+    {
+      "n": 1,
+      "title": "Paris ➔ Athènes",
+      "summary": "Vol vers Athènes, métro jusqu'à Monastiraki, dîner sur un rooftop et balade dans le quartier de Plaka.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Après-midi",
+          "text": "Vol Paris → Athènes : départ à 14h15 de CDG, arrivée à 18h25 (Sky Express, enregistrement de 48 h à 3 h avant le départ). À l'arrivée, ligne M3 du métro (billet « Metro Airport ticket » aller simple à 18 € pour 2 personnes, 40 min de trajet, toutes les 30 min : 18h52, 19h22, 19h58), descente à Monastiraki."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner sur un rooftop, puis balade dans le quartier de Plaka."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Monastiraki",
+          "wiki": "Monastiraki",
+          "culture": "Quartier du centre d'Athènes, au pied de l'Acropole, connu pour son marché aux puces et ses cafés avec vue sur le Parthénon."
+        },
+        {
+          "name": "Plaka",
+          "wiki": "Plaka",
+          "culture": "Le plus ancien quartier d'Athènes, aux ruelles tortueuses, aux maisons néoclassiques et aux tavernes, niché sous l'Acropole."
+        }
+      ],
+      "stay": {
+        "name": "Athènes",
+        "wiki": "Athens",
+        "note": "Nuit à Athènes",
+        "options": [
+          "Ederlizi (réservé, voir le guide « Hôtels à Athènes »)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Paris → Athènes : départ 14h15, arrivée 18h25"
+        },
+        {
+          "mode": "transit",
+          "text": "Métro ligne M3 jusqu'à Monastiraki : ~40 min"
+        }
+      ],
+      "food": [
+        "Rooftops à tester en priorité en walk-in : 360 Rooftop (pour réserver : consommation minimale de 35 € au bar, 50 € pour dîner), Couleur Locale. Ensuite : Anglais Bar, Metropolis, Kuzina, Bios.",
+        "À Plaka : Mani Mani en priorité (25 min de marche depuis l'hôtel, dernier service à 22 h) ; Tzitzikas & Mermigas (« la cigale et la fourmi », très recommandé par le Routard, à goûter : kritharato / orzo et gruyère frit de Naxos) ; Cherchez la Femme.",
+        "Bars : Taf The Art Foundation, Drunk Sinatra, Baba au Rum, The Clumsies, Praxitelous Bar.",
+        "Autres recommandations : Souvlaki Kostas (gyros excellent, à l'est), Lefteris o Politis (souvlaki et gyros à l'ancienne, que des habitués, un peu plus au nord), Diporto (taverne traditionnelle dans une cave), Ama Lachei (quartier au nord), To Rini (idem), Birdman & Ekiden (japonais), Granello (italien), Feyrouz (oriental)."
+      ],
+      "notes": [
+        "La plupart des bars de musique traditionnelle (rébétiko et bouzouki) ferment en été."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Athènes ➔ Sifnos",
+      "summary": "Matinée à Monastiraki, Plaka et à l'Acropole, puis métro jusqu'au Pirée et ferry vers Sifnos.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Balade dans Monastiraki et café avec vue sur l'Acropole. Balade dans Plaka, rue Ermou (rue commerçante) et Anafiotika, juste en bas de l'Acropole, un quartier qui ressemble à une île des Cyclades, avec ses maisons blanches et bleues. Visite de l'[Acropole et de son musée](https://hhticket.gr/tap_b2c_new/english/tap.exe?PM=P1P&place=000000002), réservée à 11h (entrée soit par l'ouest à pied, soit par le sud, station Acropoli). Relève de la garde sur la place Syntagma, au pied du Parlement, toutes les heures, nuit incluse."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Départ à 13h pour le Pirée (45 min de métro depuis le centre), achat de sandwichs, puis ferry jusqu'à Sifnos de 15h20 à 18h35 (3h15, enregistrement obligatoire de 48 h à 2 h avant le départ). Location de voiture : El Mar (120 €), réservée par mail avec un dépôt de 60 €."
+        },
+        {
+          "label": "Soir",
+          "text": "Installation à l'hôtel Stamna à Apollonia, puis dîner et glaces."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Acropole d'Athènes",
+          "wiki": "Acropolis of Athens",
+          "culture": "Rocher sacré d'Athènes couronné par le Parthénon, bâti sous Périclès au Ve siècle av. J.-C. Le Parthénon n'était pas un lieu de culte mais un trésor, qui abritait une statue d'Athéna en ivoire et en or."
+        },
+        {
+          "name": "Musée de l'Acropole",
+          "wiki": "Acropolis Museum",
+          "culture": "Musée conçu par l'architecte franco-suisse Bernard Tschumi, surdimensionné pour résister à un séisme de magnitude 10 et pour accueillir les frises du Parthénon, jamais rendues par le British Museum."
+        },
+        {
+          "name": "Anafiotika",
+          "wiki": "Anafiotika",
+          "culture": "Petit quartier au pied de l'Acropole bâti au XIXe siècle par des ouvriers venus de l'île d'Anafi. Ses maisons blanches et bleues évoquent une île des Cyclades."
+        },
+        {
+          "name": "Place Syntagma",
+          "wiki": "Syntagma Square",
+          "culture": "Place du Parlement, où la relève de la garde a lieu toutes les heures, nuit incluse. Les evzones portent la jupe plissée fustanelle et un pompon à la chaussure qui cachait autrefois une lame."
+        },
+        {
+          "name": "Le Pirée",
+          "wiki": "Piraeus",
+          "culture": "Grand port d'Athènes, d'où partent les ferries pour les îles. Il relie la ville à la mer depuis l'Antiquité."
+        }
+      ],
+      "stay": {
+        "name": "Sifnos (Apollonia)",
+        "coords": [
+          36.9746,
+          24.7233
+        ],
+        "note": "Nuit à Apollonia",
+        "options": [
+          "Hôtel Stamna, à Apollonia (réservé sur eDreams)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "transit",
+          "text": "Métro Athènes → Le Pirée : ~45 min"
+        },
+        {
+          "mode": "boat",
+          "text": "Ferry Le Pirée → Sifnos : 15h20 – 18h35 (3h15)"
+        }
+      ],
+      "food": [
+        "Pour le café avec vue sur l'Acropole : Anana Coffee (petit déjeuner, légèrement au nord), White Turtle (plus au nord), Behold Theman (idem), Lukumades (pâtisserie, petit déjeuner possible, à l'est), Krinos (rue Aiolou, beignets traditionnels, légèrement au nord).",
+        "Dîner à Apollonia : Drakakis ou Bostani (dans Verina Astra, réservé à 21h30, ce qui laisse le temps de profiter de l'hôtel et de passer par le village). Glaces Tratamento, ouvertes toute la nuit."
+      ],
+      "ideas": [
+        {
+          "label": "L'après-midi, en option :",
+          "text": "mont Lycabette en télécabine ; collines de la Pnyx (Ecclesia), des Muses et des Nymphes, avec le monument de Philopappos et l'église Loumbardiaris ; musée Kotsanas de la technologie des Grecs anciens."
+        },
+        "Autour de Syntagma : le Vieux Palais, celui d'Othon, premier roi germanique de Grèce, en 1830."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Sifnos : plages, monastères et randonnées",
+      "summary": "Plages du petit port de pêche de Faros, marche jusqu'à Platis Gialos par le monastère de Chrysopigi, céramique, randonnée et village médiéval de Kastro.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Détente sur les plages du petit port de pêche de Faros (ou de Fassolou, à côté, avec moins de monde). Marche jusqu'à Platis Gialos en passant par le monastère de Chrysopigi, à 15 min de la belle plage d'Apokofto à Faros."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Randonnée au choix : Apollonia → monastère de Profitis Ilias, ou Artemonas → Agios Sostis, ou Artemonas → Kastro par le monastère Poulati (le mieux)."
+        },
+        {
+          "label": "Soir",
+          "text": "Logement chez Mirsini Sifnos (réservé directement sur le site). Visite du village de Kastro, puis dîner."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Faros",
+          "culture": "Petit port de pêche de la côte sud-est de Sifnos, avec de belles plages comme Apokofto.",
+          "photo": "File:Faros Sifnos Cyclades.jpg"
+        },
+        {
+          "name": "Monastère de Chrysopigi",
+          "culture": "Monastère blanc bâti sur un îlot rocheux relié à la côte, l'une des images emblématiques de Sifnos.",
+          "photo": "File:Panagia Chrysopigi on the Greek Island of Sifnos.jpg"
+        },
+        {
+          "name": "Platis Gialos",
+          "culture": "Longue plage de sable de la côte sud de Sifnos, avec des tavernes et des ateliers de poterie.",
+          "photo": "File:Landscape towards Platis Gialos on Sifnos, 153559.jpg"
+        },
+        {
+          "name": "Monastère de Profitis Ilias",
+          "culture": "Monastère au sommet de l'île, atteint par une randonnée de 2 h depuis Apollonia, en passant par l'église Angheloktisti et ses très belles fresques."
+        },
+        {
+          "name": "Agios Sostis et les mines d'or",
+          "culture": "Descente sur les anciennes mines d'or, surplombées d'une chapelle à dôme bleu. Sifnos a été riche de mines d'or et d'argent antiques."
+        },
+        {
+          "name": "Kastro",
+          "coords": [
+            36.953,
+            24.775
+          ],
+          "culture": "Village médiéval fortifié au bord de la mer, avec des restes de marbres antiques et une balade sur les remparts.",
+          "photo": "File:Kastro, Sifnos.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Sifnos",
+        "coords": [
+          36.9746,
+          24.7233
+        ],
+        "note": "Nuit à Sifnos",
+        "options": [
+          "Mirsini Sifnos (réservé directement sur le site, annulable)"
+        ]
+      },
+      "food": [
+        "Déjeuner à Faros : Lamarina ou Pelicanos, ou sandwichs chez Betty's Bakery.",
+        "Ou déjeuner à Platis Gialos : Maiolica, tenu par un fils du restaurant italien (bien aussi : Mamma Mia ; un autre fils est chez Palmira), Omega 3 Fish Bar (tapas gastronomiques, poisson cru, même patron que Cantina), Nus, Lost Bay Beach Club.",
+        "Dîner à Kastro : cocktail au Dolci Lounge, taverne Astro ou Cantina sur la plage de Seralia (réservée à 19h par WhatsApp). Bar Kavos Sunrise ou bar cubain.",
+        "Ou dîner à Artemonas : Perivoli, Café Mosaic (Margarita, Ampati)."
+      ],
+      "ideas": [
+        {
+          "label": "Céramique :",
+          "text": "Apostolidis (immanquable, sur la route entre Apollonia et Kamares), Sifnos Stoneware (Artemonas), deux potiers à Platis Gialos, [Georgios Atsonios](http://www.handmadepotteryart.com/) à Vathi (plage de Tsopos)."
+        },
+        {
+          "label": "Monastères :",
+          "text": "Agios Simeon, au-dessus de Kamares."
+        },
+        {
+          "label": "Églises :",
+          "text": "Panagia Ouranofora (entre Apollonia et Artemonas, icônes et iconostase, linteau de saint Georges), Agios Sozon (Apollonia), Agios Konstantinos / Ammou (icônes) à Artemonas, Panagia Eleoussa (cathédrale, icônes) à Kastro, monastère de la Vierge des Firogia (Panagia ton Firogion) sur la route de Vathy, au carrefour avec la route d'Apollonia."
+        },
+        "Randonnée Apollonia → Profitis Ilias : 2 h aller. Randonnée Artemonas → Agios Sostis : 1 h 45 aller. Randonnée Artemonas → Kastro parmi figuiers et oliviers : la meilleure."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Sifnos ➔ Milos",
+      "summary": "Petit déjeuner à Vathy, ferry vers Milos le matin ou le soir, location de voiture, puis Plaka, son coucher de soleil et ses tavernes.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Petit déjeuner et plage à Vathy (taverne To Tsikali, les pieds dans le sable). Ferry soit à 11h40, soit à 18h45. Déjeuner à Apollonia."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Ferry vers Milos : Fast Ferries à 11h40 (18 €, 1h30) ou SeaJets à 18h45 (34,70 €, 45 min), avec une [politique de ticket open date](https://www.seajets.com/fr/stay-informed/faq). Location d'une voiture chez Avance Car Rental, réservée et payée, avec une prise à 13h ; les appeler si la prise en main a lieu à 19h30."
+        },
+        {
+          "label": "Soir",
+          "text": "Installation à Plaka, boutiques et coucher de soleil, puis dîner."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Vathy",
+          "culture": "Petit port au fond d'une baie fermée, sur la côte sud-ouest de Sifnos, réputé pour sa plage et sa taverne les pieds dans le sable.",
+          "photo": "File:Vathi, Sifnos.jpg"
+        },
+        {
+          "name": "Plaka (Milos)",
+          "wiki": "Plaka, Milos",
+          "culture": "Village perché, capitale de Milos, qui offre l'un des plus beaux couchers de soleil de l'île, depuis le kastro qui le domine."
+        },
+        {
+          "name": "Kastro de Plaka",
+          "coords": [
+            36.7455,
+            24.429
+          ],
+          "culture": "Château de Plaka, au-dessus du village, d'où l'on a une super vue sur le coucher de soleil. Il peut y avoir du monde sur la place de l'église et au kastro."
+        }
+      ],
+      "stay": {
+        "name": "Milos (Plaka)",
+        "wiki": "Plaka, Milos",
+        "note": "Nuit à Plaka",
+        "options": [
+          "Halara Studios (réservé sur Booking)",
+          "Haroto Suites"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry Sifnos → Milos : 11h40 (Fast Ferries, 18 €, 1h30) ou 18h45 (SeaJets, 34,70 €, 45 min)"
+        }
+      ],
+      "food": [
+        "Déjeuner à Apollonia : Tsélémentès (traditionnel, tonnelle fleurie, beau spot pour un verre devant l'église). Cocktail ou jus frais au café Botzi (intérieur tamisé à la bougie).",
+        "Pâtisseries : Gerontopoulos (Apollonia), Théodorou (Artemonas, avec ses « pastellis », des nougats), Grigoris (Artemonas), éventuellement Venios à Kamares. Glaces chez Aggeliki, au port de Milos.",
+        "Restaurants à Plaka : bar Mosaic (cocktails ou petit déjeuner) ou Cafe Utopia (cocktails) ; restos Avli Milos (Archondoula, To Diporto) ou taverne Mavros Xoiros / Foras (spécialiste de l'épaule de porc, à goûter avec le « retsina », un vin grec mélangé à de la résine de pin), à choisir sur place.",
+        "Restaurants à Trypiti : taverne Ergina (belle vue, a l'air très bon, pas de réservation en ligne, les appeler), Barriello (musique traditionnelle tous les soirs, cheesecake renommé), Methismenia Politia (très bien noté mais moins de vue), OKTO.",
+        "Petit déjeuner ou pâtisseries : Palaios Coffee & Pastry, à Trypiti (ouvert le matin seulement, d'après Google)."
+      ],
+      "ideas": [
+        "Cours de cuisine ou de poterie à la ferme Narlis, à Kato Petali.",
+        "Belles plages isolées de Sifnos : Vroulidia (galets, piste, au nord) et Fikiada (idem, au sud).",
+        "Mini-roadtrip vers le petit village de Chéronissos, au nord, en passant par Sifnos Stoneware (vaisselle)."
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Milos : excursion en bateau",
+      "summary": "Excursion en bateau pour les criques de Kleftiko, les grottes de pirates de Sikia, Gerontas et l'île de Poliegos.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Excursion en bateau sur la côte ouest : criques de Kleftiko, grottes de pirates de Sikia et plages secrètes comme Gerontas (accessible aussi en 4x4 puis 10 min de marche), île de Poliegos de l'autre côté."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Taverne Yanis Koliarakis, au bout du monde, sur une piste à l'ouest vers Kleftiko. Monastère d'Agios Ioannis Siderianos, bel endroit avec une jolie plage, à l'ouest."
+        },
+        {
+          "label": "Soir",
+          "text": "Hôtel Roots Nature Living (réservé sur Booking), puis dîner."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Kleftiko",
+          "wiki": "Kleftiko",
+          "coords": [
+            36.67,
+            24.295
+          ],
+          "culture": "Baie du sud-ouest de Milos aux falaises blanches, arches et grottes marines, longtemps cachette de pirates. On ne la découvre guère qu'en bateau."
+        },
+        {
+          "name": "Grottes de pirates de Sikia",
+          "culture": "Grotte marine dont le toit est ouvert, qui forme un bassin de lumière où l'on se baigne, sur la côte nord de Milos."
+        },
+        {
+          "name": "Plage de Gerontas",
+          "culture": "Plage secrète de la côte sud-ouest, accessible en bateau, ou en 4x4 puis 10 min de marche."
+        },
+        {
+          "name": "Île de Poliegos",
+          "wiki": "Polyaigos",
+          "culture": "Île inhabitée de l'autre côté de Milos, aux eaux transparentes, que l'on découvre en excursion en bateau."
+        },
+        {
+          "name": "Monastère d'Agios Ioannis Siderianos",
+          "culture": "Monastère de l'ouest de Milos, dans un bel endroit, au-dessus d'une jolie plage."
+        }
+      ],
+      "stay": {
+        "name": "Milos",
+        "wiki": "Plaka, Milos",
+        "note": "Nuit à Milos",
+        "options": [
+          "Roots Nature Living (réservé sur Booking)",
+          "Alternatives chic : Kedros Milos Suites, Korfi de Milo",
+          "Alternative pas chère : Sarakiniko Rooms"
+        ]
+      },
+      "food": [
+        "Taverne Yanis Koliarakis, au bout du monde, sur une piste à l'ouest vers Kleftiko.",
+        "Autres restaurants : Galanis (Triovalos), Sirocco (Paleochori), O! Hamos! Tavern (Adamas, menu écrit à la main), Alevromilos."
+      ],
+      "ideas": [
+        {
+          "label": "Bateaux au choix :",
+          "text": "[Horizon Yachts](https://www.kleftiko-milos.gr/product/sailing-boat-full-round-tour-with-polyegos-09/), voilier de 20 personnes, tous les jours, 120 à 130 € avec déjeuner, qui fait descendre dans de petits zodiacs pour voir les grottes."
+        },
+        "« Thalassitra » (voir le [blog Vlogtrotter](https://www.vlogtrotter.com/fr/blog_que-faire-a-milos-7-spots-a-ne-pas-manquer_92) et le [site Milos Trips](https://www.milostrips.com/fullday.html)) : plus cher et plus beau voilier, réservation confirmée par WhatsApp, à redemander une semaine avant, à payer 2 × 130 € en cash sur place.",
+        "Balade en caïque traditionnel depuis Agia Kyriaka, au sud, abrité du meltem, avec [Armi Sea Excursions](https://milos-armi-sea-excursions.com/private-boat-tours/) (demi-journée, 50 €, 17 personnes)."
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Milos : plages et villages de pêcheurs",
+      "summary": "Église Korfiatissa, port de Klima et ses syrmata, plages du nord et du sud, village de Mandrakia, Sarakiniko et dégustation à Pollonia.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Visite de l'église Korfiatissa à Plaka. Descente à pied vers le petit port de Klima pour voir les syrmata, des maisons colorées les pieds dans l'eau, avec un coucher de soleil éventuel là-bas. Plages du nord (Papafragas) et du sud (Provatas, Paliochori, Firiplaka, Agia Kiriaki, Tsigrado, Achivadolimni)."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Mezze ou déjeuner chez Ouzeri Zikos, ou chez Medusa à Mandrakia. Plage de Firopotamos à côté, ou Sarakiniko. Dégustation chez Kostantakis Winery, à Pollonia."
+        },
+        {
+          "label": "Soir",
+          "text": "Floras Rooms (réservé par mail, 170 € à payer en cash sur place). Dîner à Pollonia."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Église Korfiatissa (Plaka)",
+          "culture": "Église de Plaka dont la terrasse domine le golfe de Milos."
+        },
+        {
+          "name": "Klima",
+          "coords": [
+            36.7345,
+            24.4225
+          ],
+          "culture": "Petit port de pêcheurs au pied de Plaka, aux syrmata, ces anciennes remises à bateaux blanches aux portes colorées, construites au bord de l'eau.",
+          "photo": "File:Klima on Milos, syrmata, 152734.jpg"
+        },
+        {
+          "name": "Papafragas",
+          "culture": "Calanque étroite de la côte nord, battue par le vent du nord, avec un beau coucher de soleil.",
+          "photo": "File:Papafragas, Pachena, Milos, 15M6098.jpg"
+        },
+        {
+          "name": "Firiplaka",
+          "wiki": "Firiplaka",
+          "culture": "Plage du sud de Milos aux eaux turquoise et au sable fin, avec des transats : l'une des plus belles de l'île.",
+          "photo": "File:Aerial view of Paralia Firiplaka on Milos Island, Greece.jpg"
+        },
+        {
+          "name": "Provatas",
+          "wiki": "Provatas",
+          "culture": "Longue plage de sable du sud de Milos.",
+          "photo": "File:Provatas beach Southwest Milos Greece.jpg"
+        },
+        {
+          "name": "Paliochori",
+          "culture": "Plage de sable volcanique de la côte sud de Milos, où l'on peut déjeuner dans des tavernes les pieds dans l'eau."
+        },
+        {
+          "name": "Agia Kiriaki",
+          "culture": "Plage du sud de Milos, abritée du meltem."
+        },
+        {
+          "name": "Tsigrado",
+          "culture": "Crique minuscule de la côte sud de Milos, que l'on rejoint en descendant avec des cordes."
+        },
+        {
+          "name": "Achivadolimni",
+          "culture": "Plage de la côte sud de Milos, aux eaux calmes."
+        },
+        {
+          "name": "Mandrakia",
+          "culture": "Joli village de pêcheurs de la côte nord de Milos, à ses maisons et ses syrmata colorés.",
+          "photo": "File:Syrmata-Mantrakia-Milos.jpg"
+        },
+        {
+          "name": "Firopotamos",
+          "culture": "Petit village de pêcheurs de la côte nord de Milos, avec une plage.",
+          "photo": "File:Firopotamos Φυροπόταμος Milos Μήλος 2021-11-12 2528.jpg"
+        },
+        {
+          "name": "Sarakiniko",
+          "wiki": "Sarakiniko",
+          "coords": [
+            36.78,
+            24.518
+          ],
+          "culture": "Plage au paysage lunaire, aux roches volcaniques blanches sculptées par le vent et la mer.",
+          "photo": "File:Sarakiniko Beach on Milos Island, Greece with a view of the Aegean Sea.jpg"
+        },
+        {
+          "name": "Kostantakis Winery (Pollonia)",
+          "culture": "Domaine viticole de Pollonia qui propose des dégustations."
+        }
+      ],
+      "stay": {
+        "name": "Milos (Pollonia)",
+        "wiki": "Milos",
+        "note": "Nuit à Milos",
+        "options": [
+          "Floras Rooms (réservé par mail, 170 € en cash sur place)",
+          "Alternative : Drougas' Windmill Trypiti"
+        ]
+      },
+      "food": [
+        "Mezze et déjeuner chez Ouzeri Zikos.",
+        "Déjeuner chez Medusa, dans le joli village de pêcheurs de Mandrakia (attention, overpriced).",
+        "Dîner à Pollonia : Armekani (restaurant et bar à vins), Enalion ou Yialios (réservé à 21h, au nom de Boula). Cocktail à l'Opsidianos Art Café."
+      ],
+      "ideas": [
+        "Sarakiniko : possibilité d'y aller en 2 à 3 h aller-retour depuis la plage de Mandrakia.",
+        "Découverte de l'île de Kimolos et de sa capitale Chorio, et de l'île inhabitée et magnifique de Poliegos.",
+        "Plongée remarquable sur les sites volcaniques : rocher de Thermopetra, grotte sous-marine de Panagiota."
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Milos ➔ Santorin",
+      "summary": "Pâtisserie à Pollonia, ferry vers Santorin, domaine viticole, installation à l'hôtel et dîner à Oia.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Pâtisserie Kivotos Ton Gefséon à côté de Pollonia (gâteau à l'orange, petit déjeuner traditionnel de Milos). Dernières boutiques. Ferry de 11h45 à 14h15, enregistrement 48 h avant."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Récupération de la [voiture de location](https://santorinieasyrent.com/santorini-easy-booking.html) au port (Santorini Easy Rent, pour une carte de débit), réservée en ligne, avec 40 € restant à payer en cash sur place. Passage par Pyrgos : kastro, chats, vue, église Theotokaki avec icônes (ou par Megalochori). Visite du domaine Venetsanos, juste au-dessus du port, réservée à 15h30 : light lunch et 4 vins pour 58 € par personne. Installation à l'hôtel Nimbus Santorini (réservé sur leur site)."
+        },
+        {
+          "label": "Soir",
+          "text": "Coucher de soleil à la piscine de l'hôtel, puis dîner à Oia."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Pyrgos",
+          "wiki": "Pyrgos Kallistis",
+          "culture": "Village médiéval perché au point le plus haut de l'île, avec son kastro, ses chats et sa vue sur toute Santorin."
+        },
+        {
+          "name": "Megalochori",
+          "coords": [
+            36.3716,
+            25.4425
+          ],
+          "culture": "Village viticole de Santorin, aux ruelles tranquilles et aux anciennes demeures de capitaines.",
+          "photo": "File:Chapel St Marina near Megalochori - Santorini - Greece - 02.jpg"
+        },
+        {
+          "name": "Domaine Venetsanos",
+          "coords": [
+            36.388,
+            25.438
+          ],
+          "culture": "Domaine viticole juste au-dessus du port, avec une vue spectaculaire sur la caldeira."
+        },
+        {
+          "name": "Finikia",
+          "coords": [
+            36.4385,
+            25.431
+          ],
+          "culture": "Très beau village avant Oia, plus tranquille, avec quelques adresses typiques.",
+          "photo": "File:Epar.Od. Firon-Ias, Finikia 847 02, Greece - panoramio.jpg"
+        },
+        {
+          "name": "Oia",
+          "wiki": "Oia, Greece",
+          "culture": "Village de la pointe nord de Santorin, aux maisons blanches et aux coupoles bleues, célèbre pour son coucher de soleil sur la caldeira."
+        }
+      ],
+      "stay": {
+        "name": "Santorin",
+        "wiki": "Oia, Greece",
+        "note": "Nuit à Santorin",
+        "options": [
+          "Nimbus Santorini (réservé sur leur site)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry Milos → Santorin : 11h45 – 14h15"
+        },
+        {
+          "mode": "car",
+          "text": "Voiture de location récupérée au port de Santorin"
+        }
+      ],
+      "food": [
+        "Pâtisserie Kivotos Ton Gefséon, à côté de Pollonia : gâteau à l'orange et petit déjeuner traditionnel de Milos.",
+        "À Finikia : Taverna Santorini Mou (rare adresse typique), Lefkès (une des meilleures tables du coin), Mezze-Mezze (belle vue pour le déjeuner).",
+        "Dîner à Oia : Roka (réserver la terrasse, réservé à 20h30, les appeler pour la terrasse) ou Kyprida. Pour savoir [quoi manger](https://www.youtube.com/watch?v=ETMY28EamdA). Spécialités : fava (purée de gesses), aubergines blanches, chloro (fromage de chèvre), portokalopita (gâteau à l'orange).",
+        "Restaurants à Fira : Tholoto (la meilleure table de Fira), Aktaion (plus traditionnel).",
+        "Bars à Fira : Tropical Bar, Tango Bar, Volkan on the Rocks (cinéma en plein air un peu à l'écart, Mamma Mia tous les jours), Café Irini (romantique mais cher et sans plus).",
+        "Imerovigli : Roza's à Vourvoulos, loin des foules, très bien pour le déjeuner.",
+        "Pyrgos : Franco's (emplacement de dingue, super pour un verre au coucher du soleil), Metaxi Mas (traditionnel)."
+      ],
+      "ideas": [
+        {
+          "label": "Vignobles traditionnels (fermés le dimanche) :",
+          "text": "[Gavalas](https://fareharbor.com/embeds/book/gavalaswines/items/?flow=458918&full-items=yes), [Hatzidakis](https://www.hatzidakiswines.gr/en/visit-us)."
+        },
+        {
+          "label": "Si le départ est plus tôt, passage par Folegandros :",
+          "text": "ferry à 7h30 ; bus entre le port et Chora (direction Ano Meria) à 10h40 ([horaires](https://www.folegandrosbuses.gr/menu/101/2025-season-full-schedule.html)) ou stop ; plages isolées de Katergo (en bateau ou à pied), Agkali ou Agios Georgios ; chapelle de Panagia (coucher de soleil) ; apéro au café Rakentia, restaurant avec vue à Chora."
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Santorin ➔ Paris",
+      "summary": "Messe à Fira, déjeuner, randonnée ou visite d'Akrotiri, puis vol retour depuis Santorin.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Messe à 10h à la cathédrale de Fira, dans le quartier catholique, à côté du couvent Sainte-Catherine où vivent 15 dominicaines (pas de messe le dimanche au couvent). Boutiques à Fira, quartier de Firostefani, un peu au-dessus du téléphérique. Déjeuner chez Vassaltis, réservé à 13h : 3 plats et 3 vins pour 55 €."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Randonnée aller-retour Fira – Imerovigli, ou site archéologique d'Akrotiri, ou tour des îlots volcaniques."
+        },
+        {
+          "label": "Soir",
+          "text": "Vol Transavia Santorin → Paris Orly, de 20h05 à 22h50 (enregistrement de 30 h à 4 h avant le départ)."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Fira",
+          "wiki": "Fira",
+          "culture": "Capitale de Santorin, perchée au bord de la caldeira. On y trouve le quartier catholique et la cathédrale. Santorin compte 3,4 millions de touristes par an pour 15 500 habitants."
+        },
+        {
+          "name": "Imerovigli",
+          "wiki": "Imerovigli",
+          "culture": "Village sur le point culminant du bord de la caldeira, relié à Fira par un sentier de randonnée très prisé."
+        },
+        {
+          "name": "Akrotiri",
+          "wiki": "Akrotiri (prehistoric city)",
+          "culture": "Cité de l'âge du bronze ensevelie sous les cendres de l'éruption du XVIe siècle av. J.-C., comparée à un Pompéi minoen."
+        },
+        {
+          "name": "Église Panagia Episkopi",
+          "wiki": "Panagia Episkopi",
+          "culture": "Église byzantine du centre de l'île, où l'on vient embrasser l'icône de la Vierge."
+        }
+      ],
+      "stay": null,
+      "end": "Vol Transavia Santorin → Paris Orly, 20h05 – 22h50",
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Santorin → Paris Orly : 20h05 – 22h50 (Transavia)"
+        }
+      ],
+      "food": [
+        "Déjeuner chez Vassaltis, réservé à 13h : 3 plats et 3 vins pour 55 €."
+      ],
+      "ideas": [
+        "Randonnée aller-retour Fira – Imerovigli ([vidéo](https://www.youtube.com/watch?v=FWt8UdpzD2o)).",
+        "Tour des îlots volcaniques, sources chaudes et fumerolles avec Dakoutros ou Kamari Tours.",
+        "Boutiques à Fira et dans le quartier de Firostefani, un peu au-dessus du téléphérique."
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "histoire-anecdotes",
+      "title": "Histoire et anecdotes",
+      "summary": "Faits et anecdotes sur Athènes, Sifnos, Milos et Santorin, tirés du Routard.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Athènes"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Un tiers de la population grecque vit à Athènes.",
+            "Historique : les réformes de Solon et de Clisthène font passer la cité de l'aristocratie à la démocratie ; puis vient le prestige d'avoir repoussé les Perses à Marathon (-490) et à Salamine (-480, 360 navires), après qu'ils ont détruit tous les temples de l'Acropole en -480 (on retrouvera des ex-voto et des statues dans des cavités au XIXe siècle). Le siècle de Périclès dure de -480 à -430 ; la guerre de la ligue de Délos contre Sparte commence en -431 et se termine par une reddition en -404, après la peste.",
+            "Sur l'Aréopage, un temple était dédié au dieu inconnu, celui des étrangers.",
+            "Le musée du Parthénon, de l'architecte franco-suisse Bernard Tschumi, est surdimensionné pour résister à un séisme de magnitude 10 et pour accueillir les frises du Parthénon, jamais rendues par le British Museum. Belle section sur les mariages, avec les loutrophores (grandes jarres pour le bain nuptial) et un bloc de marbre du sanctuaire d'Aphrodite Ourania (IVe siècle) avec une cavité où l'on déposait une drachme pour un mariage heureux.",
+            "Les Caryatides sont des femmes de Carya enlevées par Sparte. « Aristoi » veut dire « les meilleurs ».",
+            "Vandalisme anglais : lord Elgin, ambassadeur auprès de l'Empire ottoman, obtient l'autorisation du sultan de prendre « quelques morceaux de pierre » et vole en 1801 douze statues de fronton, 156 morceaux de frise (de 160 m × 1 m, représentant les Grandes Panathénées, des processions sacrées tous les 4 ans), 15 métopes, une caryatide et la frise du temple d'Athéna Nikè. À l'origine, il y avait 92 métopes, des panneaux rectangulaires décorés par Phidias grâce à un gros budget de Périclès : le seul temple à en avoir. Lord Elgin fait naufrage à Cythère au retour, divorce parce que sa femme, rentrée plus tôt, l'a trompé, est arrêté en France et doit prêter allégeance à Napoléon ; c'est la fin de sa carrière diplomatique et la vente au rabais des pièces au British Museum.",
+            "Les immenses halles d'Athènes se transforment parfois en teuf techno.",
+            "Agora : la Boulê et les prytanes permettent de voir le fonctionnement de la démocratie athénienne. La voie des Panathénées relie l'agora au Parthénon. Sur la droite du chemin, le temple dorique d'Héphaïstos, avec des décorations de Thésée et d'Hercule.",
+            "Le Parthénon n'était pas un lieu de culte mais un trésor abritant la statue d'Athéna chryséléphantine (ivoire et or), emportée et perdue par les chrétiens de Byzance au Ve siècle, qui transforment le temple en église. L'Érechthéion est le temple le plus sacré, dédié à la fois à Athéna et à Poséidon, qui se seraient disputé la ville : il aurait planté son trident, elle aurait fait pousser un olivier, qui était dans le bâtiment d'à côté, avec une très sacrée petite statue d'Athéna en olivier, le « xoanon ». Le sultan y installa son harem, et une mosquée et une réserve de poudre au Parthénon. La poudrière explose et détruit le Parthénon quand Morosini, général vénitien, bombarde l'Acropole en 1687, sans même prendre la ville. L'ancien théâtre, de 17 000 places, est mal conservé.",
+            "20 000 blocs de marbre, architecte en chef Ictinos. Le socle n'est pas horizontal mais bombé, les colonnes sont inclinées vers l'intérieur pour paraître plus élancées et plus robustes, et les colonnes d'angle sont plus larges car plus isolées. Nombre d'or : x² = x + 1 (1,62)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Sifnos"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mines d'or et d'argent antiques, partiellement submergées aujourd'hui. L'île frappait monnaie avant Athènes, et son célèbre Trésor de Sifnos à Delphes est le dixième de leur extraction, offert à Apollon.",
+            "Oliviers centenaires, monastères, poteries, gastronomie, balades : 19 sentiers ([sifnostrails.com](https://sifnostrails.com/)).",
+            "Spécialités : revithada (soupe de pois chiches cuite toute la nuit en terre cuite), mastelo (ragoût de mouton ou de chèvre au vin rouge et au fenouil, en terre cuite), revithokeftedes (boulettes de pois chiches), manoura (fromage cuit dans la lie de vin rouge)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Milos"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Avec Santorin, c'est l'une des deux seules îles volcaniques des Cyclades.",
+            "La Vénus de Milo a été découverte par un paysan dans un champ en 1820.",
+            "Centre économique majeur de la civilisation minoenne (Crète, Santorin et mer Égée, de 2700 à 1200 av. J.-C.).",
+            "L'île s'était rangée du côté de Sparte pendant les guerres du Péloponnèse, et fut écrasée par Athènes.",
+            "Haut lieu de la piraterie, avec Kimolos, pendant la domination ottomane. Aujourd'hui encore, grosse exploitation minière.",
+            "Tripiti : les catacombes des premiers chrétiens (Ier siècle) sont les plus importantes de Grèce, parmi les plus importantes au monde.",
+            "Spécialités : glyko koufeto (graines de courge ou de citrouille avec du miel et des amandes, généralement offert aux mariages ou aux fiançailles), karpouzopita (gâteau à la pastèque), pitarakia (petits chaussons fourrés au fromage sec, aux oignons ou à la myzithra avec de la menthe)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Santorin"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Explosion de l'Atlantide en 1600 av. J.-C., et plaies d'Égypte (Nil rouge de soufre, etc.), mais cette théorie est remise en question.",
+            "Santorin a repris le nom antique de Théra depuis l'indépendance ; « Santorin » vient de Sainte-Irène.",
+            "Les mariages catholiques sont interdits par l'évêque depuis 2008.",
+            "Le vignoble est l'un des rares à ne jamais avoir été touché par le phylloxéra, donc il n'y a pas de greffes. Les ceps sont plantés en cerceaux pour que les bourgeons poussent au milieu, protégés du vent, avec un rendement dix fois inférieur à celui du continent.",
+            "Tomate cerise AOP depuis 2013.",
+            "3,4 millions de touristes pour 15 500 habitants.",
+            "500 mariages d'étrangers par an."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "autres-iles",
+      "title": "Autres îles des Cyclades (pour un futur voyage)",
+      "summary": "Les meilleures autres îles, et une proposition d'itinéraire d'une semaine à Amorgos et Naxos.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Les meilleures autres îles : Folegandros, Sérifos, Amorgos, Naxos. Voir aussi [Les plus belles îles des Cyclades (Bons Baisers de)](https://bonsbaisersde.com/les-plus-belles-iles-des-cyclades/)."
+        },
+        {
+          "type": "heading",
+          "text": "Proposition d'itinéraire Amorgos × Naxos en 1 semaine"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Matin",
+            "Après-midi",
+            "Soir"
+          ],
+          "rows": [
+            [
+              "Dimanche 31 août",
+              "Athènes",
+              "Vol Paris → Athènes. Nuit au Pirée.",
+              "/",
+              "Dîner au Pirée en bord de mer."
+            ],
+            [
+              "Lundi 1er septembre",
+              "Amorgos",
+              "Ferry du Pirée vers Amorgos (7 h).",
+              "Installation à Aegiali ou Katapola, visite de Chora.",
+              "Dîner à Chora dans une taverne locale."
+            ],
+            [
+              "Mardi 2 septembre",
+              "Amorgos",
+              "Randonnée vers le monastère de Hozoviotissa.",
+              "Baignade à Agia Anna et criques sauvages.",
+              "Soirée tranquille à Aegiali."
+            ],
+            [
+              "Mercredi 3 septembre",
+              "Amorgos",
+              "Randonnée vers Lagkada et Tholaria.",
+              "Exploration de criques comme Mouros ou Kalotaritissa.",
+              "Dîner à Aegiali."
+            ],
+            [
+              "Jeudi 4 septembre",
+              "Naxos",
+              "Ferry pour Naxos (2 h).",
+              "Découverte du Chora antique (temple de Déméter et porte de Portara) et du Kastro vénitien.",
+              "Coucher de soleil à la Portara, dîner à Naxos."
+            ],
+            [
+              "Vendredi 5 septembre",
+              "Naxos",
+              "Plage de Plaka ou Agios Prokopios.",
+              "Visite des villages de Halki et Filoti.",
+              "Soirée détente."
+            ],
+            [
+              "Samedi 6 septembre",
+              "Naxos",
+              "Excursion en bateau autour des Petites Cyclades.",
+              "Détente sur les plages de Naxos.",
+              "Dernière soirée à Naxos."
+            ],
+            [
+              "Dimanche 7 septembre",
+              "Athènes",
+              "Ferry retour vers Athènes (4 h).",
+              "Flânerie dans Plaka ou Monastiraki.",
+              "Dîner à Athènes."
+            ],
+            [
+              "Lundi 8 septembre",
+              "Paris",
+              "Vol Athènes → Paris.",
+              "/",
+              "/"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vols-et-aeroports",
+      "title": "Vols et aéroports",
+      "summary": "Les aéroports des Cyclades et les combinaisons de vols possibles.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Deux aéroports se trouvent directement dans les Cyclades : Milos et Santorin. Milos est un peu cher, mais il peut y avoir de bons plans. Santorin est très pratique, avec beaucoup de vols pas chers.",
+            "Aller-retour avec Milos : Milos → Athènes puis Athènes → Paris en deux vols revient moins cher que Milos → Paris directement."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ferries",
+      "title": "Ferries",
+      "summary": "Comparateur, ordre des îles et durées de traversée.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Ferryscanner est le comparateur de ferries le plus pratique. Les îles les plus proches d'Athènes sont Sérifos, Sifnos, Milos, Folegandros puis Santorin : le ferry fait des arrêts dans cet ordre."
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Trajet",
+            "Horaires et durée",
+            "Prix indicatif"
+          ],
+          "rows": [
+            [
+              "Athènes → Sifnos",
+              "Le matin à 8h15 (2h35), sinon 3h15 à 15h20",
+              "68,70 € par personne"
+            ],
+            [
+              "Sifnos → Milos",
+              "40 à 45 min",
+              "34,70 €"
+            ],
+            [
+              "Milos → Folegandros",
+              "7h30 – 10h20 le samedi matin, 2h50 de trajet",
+              "7,50 €"
+            ],
+            [
+              "Folegandros → Santorin",
+              "12h55 – 14h15 le samedi midi, 1h20",
+              "69,70 €"
+            ],
+            [
+              "Milos → Santorin",
+              "11h45 – 14h15 le samedi midi, 2h30",
+              "93,70 €"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "voitures-location",
+      "title": "Voitures de location",
+      "summary": "Recommandations et bonnes adresses sur Sifnos, Milos et Santorin.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Recommandations"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Vérifier sur Reddit et les notes Google Maps les meilleurs loueurs : il n'y en a pas beaucoup sur chaque île.",
+            "Voiture indispensable même sur les petites îles. La location n'est pas hyper donnée mais très rapide.",
+            "Attention à prendre des loueurs qui autorisent les cartes de DÉBIT (ou qui ont 0 dépôt) : sinon ils risquent de forcer à prendre la méga assurance pour compenser le fait de ne pas pouvoir bloquer le dépôt sur un compte crédit."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Sifnos"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Proto Moto Car Rental (140 € pour 2 jours).",
+            "El Mar (120 €) : le moins cher et très pro, dépôt de 60 € envoyé et confirmé, contact par mail, bureau juste à côté du port."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Milos"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Avance Car Rental : réservée et payée à l'avance, bureau juste à côté de l'arrivée des ferries."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Santorin"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Santorini Easy Rent](https://santorinieasyrent.com/santorini-easy-booking.html) : le meilleur qui accepte les cartes de débit, voiture réservée en ligne, 40 € à payer en cash sur place, le loueur vous accueille avec une pancarte à la sortie du ferry."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hotels-athenes",
+      "title": "Hôtels à Athènes",
+      "summary": "La shortlist de l'étape d'Athènes, avec les prix et les avis.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Ederlizi (Expedia, 102 €, 4,8) : rue mignonne, pas de vue mais chambre très stylée. Réservé.",
+            "Athens21 (Expedia, 180 €, 4,7) : chambre avec balcon et vue sur l'Acropole, mais non remboursable, 166 € sur eDreams. Écarté.",
+            "Athens Gate Hotel (Booking, 215 €, 4,6) : petite chambre avec vue sur les ruines, gros rooftop. Écarté.",
+            "Elite Ermou Suites (Booking, 166 €, 4,8) : petite chambre mais vue sur l'Acropole (par-dessus un bâtiment moche), quartier de Monastiraki.",
+            "B4B Athens Signature Hotel (Booking, 146 €, 4,7) : beau rooftop, chambre sans vue mais mignonne, à l'est de la ville.",
+            "Appartement Loxandra, s'il se libère : [Booking](https://www.booking.com/hotel/gr/z-boutique-suites-by-homm.fr.html)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "liens-ressources",
+      "title": "Liens et ressources",
+      "summary": "Articles, blogs et vidéos consultés pour préparer les Cyclades.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "[Vadrouilles à Athènes (Mi fugue, mi raison)](https://www.mifuguemiraison.com/fr/vadrouilles-atheniennes/)",
+            "[Santorini Beginner's Guide, all the basics in 5 min (Greece Explained)](https://www.youtube.com/watch?v=QPpHQwNspgw)",
+            "[Milos, Cyclades (Bons Baisers de)](https://bonsbaisersde.com/milos-cyclades/)",
+            "[Que faire à Milos ? 7 spots à ne pas manquer (Vlogtrotter)](https://www.vlogtrotter.com/fr/blog_que-faire-a-milos-7-spots-a-ne-pas-manquer_92)",
+            "[Folegandros : 7 lieux incontournables (Vlogtrotter)](https://www.vlogtrotter.com/fr/blog_folegandros-7-lieux-incontournables-bienvenue-sur-mon-blog-voyage_104)",
+            "[Milos, une île volcanique spectaculaire aux multiples couleurs (Hellenica)](https://hellenica.fr/cyclades/milos/)",
+            "[Folegandros, une île escarpée et une chora à l'atmosphère authentique (Hellenica)](https://hellenica.fr/cyclades/folegandros/)",
+            "[Sifnos, chic cycladique, traditions culinaires, jolies plages et randonnées (Hellenica)](https://hellenica.fr/cyclades/sifnos/)",
+            "[Sifnos : 4 jours sur l'une des îles les plus authentiques des Cyclades (Pauline Gandolfini)](https://paulinegandolfini.com/sifnos-4-jours-sur-lune-des-iles-les-plus-authentiques-des-cyclades/)",
+            "[Quelques jours à Milos, l'île colorée des Cyclades (Pauline Gandolfini)](https://paulinegandolfini.com/quelques-jours-a-milos-lile-coloree-des-cyclades/)",
+            "[Amorgos, l'île du grand bleu (Hellenica)](https://hellenica.fr/cyclades/amorgos/)",
+            "[Naxos, un concentré des Cyclades pour toute la famille (Hellenica)](https://hellenica.fr/cyclades/naxos/)"
+          ]
+        }
+      ]
+    }
+  ]
+}

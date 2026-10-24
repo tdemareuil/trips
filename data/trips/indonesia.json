@@ -65,7 +65,8 @@
           "culture": "Musée consacré aux marionnettes wayang, en cuir ou en bois, au cœur du théâtre d'ombres javanais, reconnu par l'UNESCO."
         },
         {
-          "name": "Grotte de Jomblang"
+          "name": "Grotte de Jomblang",
+          "culture": "Gouffre vertical de Gunung Kidul, d'une soixantaine de mètres, où l'on descend en rappel pour découvrir une grotte aux rayons de lumière tombant à travers la jungle souterraine."
         }
       ],
       "stay": {
@@ -679,7 +680,8 @@
           "culture": "Village sasak aux maisons à toit de chaume, dont les sols sont enduits de bouse de buffle. Les femmes y tissent des étoffes traditionnelles."
         },
         {
-          "name": "Plage de Tampah"
+          "name": "Plage de Tampah",
+          "culture": "Plage de la côte sud de Lombok, près de Kuta, que vos notes citent avec Mawun."
         }
       ],
       "stay": {
@@ -803,7 +805,8 @@
           "culture": "Rocher percé en pleine mer, entouré de l'un des sites de plongée les plus riches du parc, où les courants sont forts et les bancs de poissons denses."
         },
         {
-          "name": "Sebayur Kecil"
+          "name": "Sebayur Kecil",
+          "culture": "Petit îlot du parc national de Komodo, voisin de Sebayur Besar, aux récifs accessibles en snorkeling."
         }
       ],
       "stay": {
@@ -887,13 +890,16 @@
           "culture": "Canyon de roche claire creusé par une rivière, avec des bassins d'eau turquoise où l'on peut se baigner et sauter."
         },
         {
-          "name": "Love Hills"
+          "name": "Love Hills",
+          "culture": "Colline de Labuan Bajo prisée pour sa vue sur la baie."
         },
         {
-          "name": "Village traditionnel de Melo"
+          "name": "Village traditionnel de Melo",
+          "culture": "Village manggarai proche de Labuan Bajo, où l'on assiste à des spectacles de caci, la danse-combat de fouets et de boucliers."
         },
         {
-          "name": "Marché de poissons frais"
+          "name": "Marché de poissons frais",
+          "culture": "Marché du port de Labuan Bajo, où les pêcheurs vendent leur pêche du jour."
         }
       ],
       "stay": {

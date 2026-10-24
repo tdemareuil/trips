@@ -22,7 +22,7 @@ scripts/build_data.py fills the two generated files
 
 ## Adding a trip
 
-1. Create `data/trips/<id>.json` and add `<id>` to `data/trips.json`. `california.json` is the reference. The trip has a `start` date (`YYYY-MM-DD`), and each day gets its date from it; an optional `altStart` shows an alternative departure date on the overview. Each day has a title, a summary, optional `parts` (for example one line per person), `stops` (can be empty), a `stay`, `transport` lines (modes: `car`, `transit`, `flight`, `boat`, `bus`, `train`), and optional `notes` (short warnings or logistics, shown in a highlighted box). A day can also carry:
+1. Create `data/trips/<id>.json` and add `<id>` to `data/trips.json`. `california.json` is the reference. The trip has a `start` date (`YYYY-MM-DD`), and each day gets its date from it; an optional `altStart` shows an alternative departure date on the overview. A trip that has already happened sets `"done": true` and appears under "Voyages réalisés" on the home page. Each day has a title, a summary, optional `parts` (for example one line per person), `stops` (can be empty), a `stay`, `transport` lines (modes: `car`, `transit`, `flight`, `boat`, `bus`, `train`), and optional `notes` (short warnings or logistics, shown in a highlighted box). A day can also carry:
    - `stay.options` (hotel names), `stay.price` and `stay.note`;
    - `food`, a list of restaurants, cafés and beach clubs, shown as "Où manger et boire";
    - `ideas`, optional spots, variants and alternatives, shown as "Idées, variantes et alternatives" (strings, or `{ "label", "text" }`).

@@ -253,20 +253,24 @@ function show(kind, trip, slide) { // `slide` is the day for a story, the guide 
 const LOCK_ICON = '<svg class="lock-icon" viewBox="0 0 16 16" width="12" height="12" aria-hidden="true"><path fill="currentColor" d="M8 1a3.5 3.5 0 0 0-3.5 3.5V6H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V7a1 1 0 0 0-1-1h-.5V4.5A3.5 3.5 0 0 0 8 1Zm-2 3.5a2 2 0 1 1 4 0V6H6V4.5Z"/></svg>';
 
 function mountHome() {
-  const cards = data.order.map(id => {
+  const card = id => {
     const t = data.trips[id];
     const bg = t.coverImg ? `style="--img:url('${thumb(t.coverImg.url, 1280)}')"` : '';
     return `<a class="trip-card" href="#/${t.id}" ${bg}>
       <span class="meta">${isLocked(t) ? LOCK_ICON : ''}${t.days.length} jours</span>
       <h2>${esc(t.title)}</h2>
       <p>${esc(t.subtitle)}</p>
+      ${t.range ? `<span class="when">${esc(t.range)}</span>` : ''}
     </a>`;
-  }).join('');
+  };
+  const upcoming = data.order.filter(id => !data.trips[id].done);
+  const done = data.order.filter(id => data.trips[id].done);
   app.innerHTML = `<section class="home">
     <p class="eyebrow">Prochains voyages</p>
     <h1 class="title big">Où va-t-on ensuite ?</h1>
     <p class="lead">Itinéraires jour par jour, cartes et photos.</p>
-    <div class="cards">${cards}</div>
+    <div class="cards">${upcoming.map(card).join('')}</div>
+    ${done.length ? `<h2 class="home-section">Voyages réalisés</h2><div class="cards">${done.map(card).join('')}</div>` : ''}
   </section>`;
   return { kind: 'home', destroy() {} };
 }
@@ -416,7 +420,7 @@ function mountStory(trip, start) {
         <li><a href="#/${trip.id}/guide/${g.id}"><b>${esc(g.title)}</b><span>${esc(g.summary)}</span></a></li>`).join('')}
       </ul>` : '';
     return `
-      <p class="eyebrow">${esc(trip.travelers.join(' & '))}</p>
+      <p class="eyebrow">${esc(trip.travelers.join(' & '))}${trip.done ? ' · Voyage réalisé' : ''}</p>
       <h1 class="title big">${esc(trip.title)}</h1>
       ${trip.range ? `<p class="dates">${esc(trip.range)}</p>` : ''}
       ${trip.altLabel ? `<p class="alt-dates">Option : départ le ${esc(trip.altLabel)}</p>` : ''}

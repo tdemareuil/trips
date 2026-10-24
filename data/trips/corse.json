@@ -1,0 +1,404 @@
+{
+  "id": "corse",
+  "title": "Corse (moitié nord)",
+  "subtitle": "Cap Corse, désert des Agriates, Balagne, calanques de Piana et Ajaccio : une minimoon de 5 jours entre mer et montagne",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Calanques de Piana",
+  "days": [
+    {
+      "n": 1,
+      "title": "Bastia et le Cap Corse",
+      "summary": "Arrivée à Bastia à 6h, petit-déjeuner sur le Vieux-Port, puis route vers le Cap Corse : Erbalunga, Nonza, plage de Barcaggio et sentier des Douaniers. Nuit à Saint-Florent.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Arrivée à Bastia à 6h. Petit-déjeuner sur le Vieux-Port. Route vers le Cap Corse : visite d'Erbalunga et du village de Nonza."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Découverte de la plage de Barcaggio. Randonnée légère sur le sentier des Douaniers (2 à 3 h), au départ d'Erbalunga ou de Nonza."
+        },
+        {
+          "label": "Soir",
+          "text": "Nuit à Saint-Florent. Concert de chant corse si possible, puis dîner dans un restaurant en bord de mer."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Vieux-Port de Bastia",
+          "wiki": "Bastia",
+          "coords": [
+            42.701,
+            9.456
+          ],
+          "culture": "Cœur de Bastia, l'ancienne capitale génoise de la Corse : un port bordé de façades ocres, d'églises baroques et de cafés, dominé par la citadelle."
+        },
+        {
+          "name": "Erbalunga",
+          "wiki": "Erbalunga",
+          "culture": "Petit port de pêche du Cap Corse, dominé par une tour génoise. On y célèbre la Cerca, une procession de la Semaine sainte."
+        },
+        {
+          "name": "Nonza",
+          "wiki": "Nonza",
+          "culture": "Village perché sur une falaise du Cap Corse, dominé par une tour génoise, avec une plage de galets noirs au pied."
+        },
+        {
+          "name": "Plage de Barcaggio",
+          "coords": [
+            43.021,
+            9.355
+          ],
+          "culture": "Hameau tout au nord du Cap Corse, avec une plage de sable fin face à l'îlot de la Giraglia et une tour génoise."
+        },
+        {
+          "name": "Sentier des Douaniers",
+          "culture": "Ancien sentier emprunté par les douaniers pour surveiller la côte, aujourd'hui un sentier de randonnée le long de la mer, au Cap Corse."
+        },
+        {
+          "name": "Saint-Florent",
+          "wiki": "Saint-Florent, Haute-Corse",
+          "culture": "Station balnéaire et port de plaisance dominés par une citadelle génoise, parfois surnommée le « Saint-Tropez corse »."
+        }
+      ],
+      "stay": {
+        "name": "Saint-Florent",
+        "wiki": "Saint-Florent, Haute-Corse",
+        "note": "Nuit à Saint-Florent",
+        "options": [
+          "La Dimora (hôtel de charme avec piscine et jardin)",
+          "Demeure Loredana (luxueux, avec vue sur la mer)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Arrivée en ferry à Bastia à 6h"
+        }
+      ],
+      "food": [
+        "Petit-déjeuner sur le Vieux-Port de Bastia.",
+        "Dîner en bord de mer à Saint-Florent : La Gaffe ou L'Auberge du Pêcheur."
+      ],
+      "ideas": [
+        "Concert de chant corse si possible.",
+        "Sentier des Douaniers : options plus courtes, d'Erbalunga à la plage de Nonza, de Nonza à la plage de Barcaggio, ou simplement autour d'Erbalunga."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Saint-Florent et le désert des Agriates",
+      "summary": "Départ tôt pour le désert des Agriates : excursion en 4x4 ou en bateau vers les plages de Saleccia ou de Loto, pique-nique et baignade, puis vieille ville de Saint-Florent.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Départ tôt pour le désert des Agriates : excursion en 4x4 ou en bateau vers les plages de Saleccia ou de Loto."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Pique-nique sur la plage et baignade. Retour à Saint-Florent, visite de la vieille ville et de sa citadelle, glace chez José Salge."
+        },
+        {
+          "label": "Soir",
+          "text": "Nuit à Saint-Florent. Dîner."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Désert des Agriates",
+          "wiki": "Agriates Desert",
+          "culture": "Vaste étendue de maquis presque inhabitée, qui lui vaut le nom de « désert », et qui borde certaines des plus belles plages de Corse."
+        },
+        {
+          "name": "Plage de Saleccia",
+          "photo": "File:Saleccia plage DSCF4274.jpg",
+          "coords": [
+            42.707,
+            9.216
+          ],
+          "culture": "Plage de sable blanc et d'eaux turquoise du désert des Agriates, que l'on rejoint en 4x4, à pied ou en bateau."
+        },
+        {
+          "name": "Plage de Loto",
+          "photo": "File:Sentier du littoral - Plage de Loto (Lotu) - Punta Cavallata & Cap Corse - panoramio.jpg",
+          "coords": [
+            42.715,
+            9.26
+          ],
+          "culture": "Plage voisine de Saleccia, de sable blanc, que l'on rejoint à pied ou en bateau."
+        },
+        {
+          "name": "Vieille ville de Saint-Florent",
+          "wiki": "Saint-Florent, Haute-Corse"
+        },
+        {
+          "name": "Citadelle de Saint-Florent",
+          "photo": "File:Citadelle (Saint-Florent) (2).jpg",
+          "coords": [
+            42.681,
+            9.304
+          ],
+          "culture": "Citadelle génoise du XVe siècle, qui domine le port de Saint-Florent."
+        }
+      ],
+      "stay": {
+        "name": "Saint-Florent",
+        "wiki": "Saint-Florent, Haute-Corse",
+        "note": "Nuit à Saint-Florent",
+        "options": [
+          "U Palazzu Serenu (hôtel-boutique élégant)",
+          "Hotel Tettola (face à la mer)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Excursion en 4x4 ou en bateau vers Saleccia ou Loto"
+        }
+      ],
+      "food": [
+        "Dîner à Saint-Florent : Le Petit Caporal ou La Rascasse.",
+        "Glace chez José Salge."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Calvi et la Balagne",
+      "summary": "Sur la route de Calvi, villages perchés de la Balagne (Sant'Antonino, Pigna, Corbara), oliveraies et artisans, puis citadelle et plage de Calvi.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Sur la route vers Calvi (1h15 de Saint-Florent), découverte des villages perchés de la Balagne : Sant'Antonino, Pigna, Corbara. Balade dans les oliveraies ou visite d'un artisan local."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Visite de la citadelle et des ruelles de Calvi. Baignade ou détente à la plage de Calvi."
+        },
+        {
+          "label": "Soir",
+          "text": "Nuit à Calvi. Concert de chant corse si on ne l'a pas vu avant, puis dîner sur le port."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Sant'Antonino",
+          "wiki": "Sant'Antonino, Haute-Corse",
+          "culture": "L'un des plus beaux villages de France, le plus ancien de Balagne, perché à environ 500 m sur une crête."
+        },
+        {
+          "name": "Pigna",
+          "wiki": "Pigna, Haute-Corse",
+          "culture": "Village perché d'artisans de Balagne, aux ruelles pavées, connu pour ses luthiers et ses ateliers de céramique."
+        },
+        {
+          "name": "Corbara",
+          "wiki": "Corbara, Haute-Corse",
+          "culture": "Village perché de Balagne au-dessus de l'Île-Rousse, avec son couvent de Dominicains."
+        },
+        {
+          "name": "Oliveraies de Balagne",
+          "culture": "La Balagne est surnommée le « jardin de la Corse » pour ses oliveraies et ses villages perchés."
+        },
+        {
+          "name": "Calvi",
+          "wiki": "Calvi, Haute-Corse",
+          "culture": "Ville de Balagne au port dominé par sa citadelle génoise. Calvi revendique d'être la ville natale de Christophe Colomb."
+        },
+        {
+          "name": "Citadelle de Calvi",
+          "photo": "File:Corsica Calvi port citadelle.jpg",
+          "coords": [
+            42.569,
+            8.758
+          ],
+          "culture": "Citadelle bâtie par les Génois à partir du XIIIe siècle sur un promontoire, avec ses ruelles, sa cathédrale et son ancien palais."
+        },
+        {
+          "name": "Plage de Calvi",
+          "culture": "Longue plage de sable fin bordée de pins, face à la citadelle."
+        }
+      ],
+      "stay": {
+        "name": "Calvi",
+        "wiki": "Calvi, Haute-Corse",
+        "note": "Nuit à Calvi",
+        "options": [
+          "Hôtel La Villa (5 étoiles, vue panoramique et spa)",
+          "Casa di Ma (chambres élégantes à Lumio)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Saint-Florent → Calvi, par la Balagne : ~1 h 15"
+        }
+      ],
+      "food": [
+        "Dîner à Calvi : A Piazzetta ou Via Marine, sur le port."
+      ],
+      "ideas": [
+        "Concert de chant corse, si on ne l'a pas vu avant."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Calanques de Piana et Porto",
+      "summary": "Fin de la visite de Calvi si besoin, puis route vers les calanques de Piana, visite de Porto et croisière possible dans la réserve de Scandola.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Reste de la visite de Calvi si on n'a pas eu le temps. Départ pour les calanques de Piana (2 h de route). Arrêts photos et balade à pied dans les formations rocheuses spectaculaires."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Visite de Porto et de sa tour génoise. Possibilité de croisière en bateau dans la réserve de Scandola (UNESCO)."
+        },
+        {
+          "label": "Soir",
+          "text": "Nuit à Porto. Dîner."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Calanques de Piana",
+          "wiki": "Calanques de Piana",
+          "culture": "Falaises de granit rouge sculptées en piliers et en aiguilles, qui plongent dans la mer. Elles sont inscrites à l'UNESCO depuis 1983, avec le golfe de Porto et la réserve de Scandola."
+        },
+        {
+          "name": "Porto",
+          "wiki": "Gulf of Porto",
+          "coords": [
+            42.263,
+            8.704
+          ],
+          "culture": "Petit port au fond du golfe de Porto, dominé par une tour génoise."
+        },
+        {
+          "name": "Tour génoise de Porto",
+          "wiki": "Genoese towers in Corsica",
+          "coords": [
+            42.263,
+            8.707
+          ],
+          "culture": "Tour de guet bâtie par les Génois au XVIe siècle pour surveiller la côte, comme des dizaines d'autres autour de la Corse."
+        },
+        {
+          "name": "Réserve de Scandola",
+          "wiki": "Scandola Nature Reserve",
+          "culture": "Réserve naturelle accessible uniquement par la mer, aux falaises de roche rouge et aux grottes, où nichent des balbuzards pêcheurs. Elle est protégée depuis 1975."
+        }
+      ],
+      "stay": {
+        "name": "Porto",
+        "coords": [
+          42.263,
+          8.704
+        ],
+        "note": "Nuit à Porto",
+        "options": [
+          "Hôtel Les Roches Rouges (vue imprenable sur les falaises)",
+          "Capo Rosso (chic, avec vue sur les calanques)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Calvi → calanques de Piana : ~2 h de route"
+        }
+      ],
+      "food": [
+        "Dîner à Porto : Le Tahiti ou Les Flots Bleus."
+      ],
+      "ideas": [
+        "Croisière en bateau dans la réserve de Scandola (UNESCO)."
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Ajaccio et départ",
+      "summary": "Route vers Ajaccio, vieille ville (maison Bonaparte, marché local, cathédrale), excursion aux îles Sanguinaires, dîner en bord de mer et ferry à 23h.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Route vers Ajaccio (environ 2 h). Visite de la vieille ville : maison Bonaparte, marché local, cathédrale Notre-Dame de l'Assomption."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Excursion aux îles Sanguinaires : baignade, randonnée sur le sentier du littoral ou vue panoramique au coucher du soleil."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner en bord de mer. Départ en ferry à 23h."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Vieille ville d'Ajaccio",
+          "wiki": "Ajaccio",
+          "culture": "Ville natale de Napoléon Bonaparte, née en 1769, au fond du golfe d'Ajaccio."
+        },
+        {
+          "name": "Maison Bonaparte",
+          "wiki": "Maison Bonaparte",
+          "culture": "Demeure familiale où naquit Napoléon le 15 août 1769, aujourd'hui un musée."
+        },
+        {
+          "name": "Marché local d'Ajaccio",
+          "culture": "Marché couvert de la place Foch, où l'on trouve charcuteries, fromages et produits corses."
+        },
+        {
+          "name": "Cathédrale Notre-Dame de l'Assomption",
+          "wiki": "Ajaccio Cathedral",
+          "culture": "Cathédrale construite à la fin du XVIe siècle, où Napoléon fut baptisé."
+        },
+        {
+          "name": "Îles Sanguinaires",
+          "coords": [
+            41.9,
+            8.597
+          ],
+          "culture": "Petit archipel d'îlots de granit rouge à l'entrée du golfe d'Ajaccio, célèbre pour ses couchers de soleil. Alphonse Daudet en a fait le décor de l'une de ses Lettres de mon moulin."
+        }
+      ],
+      "stay": null,
+      "end": "Départ en ferry à 23h",
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Porto → Ajaccio : ~2 h"
+        },
+        {
+          "mode": "boat",
+          "text": "Ferry au départ d'Ajaccio à 23h"
+        }
+      ],
+      "food": [
+        "Dîner en bord de mer à Ajaccio : Le 20123 ou L'Altru Versu."
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "ferries",
+      "title": "Ferries",
+      "summary": "Où prendre le ferry à l'aller et au retour, et ce que coûtent les traversées.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Aller : Bastia ou Ajaccio. Retour : L'Île-Rousse ou Ajaccio.",
+            "Comparer sur [Ferryhopper](https://www.ferryhopper.com/en/) et sur [Corsica Ferries](https://www.corsica-ferries.fr/).",
+            "Corsica Ferries : 395 € pour la traversée recherchée."
+          ]
+        }
+      ]
+    }
+  ]
+}
