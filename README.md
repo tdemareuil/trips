@@ -22,7 +22,7 @@ scripts/build_data.py fills the two generated files
 
 ## Adding a trip
 
-1. Create `data/trips/<id>.json` and add `<id>` to `data/trips.json`. `california.json` is the reference. The trip has a `start` date (`YYYY-MM-DD`), and each day gets its date from it; an optional `altStart` shows an alternative departure date on the overview. Each day has a title, a summary, optional `parts` (for example one line per person), `stops` (can be empty), a `stay`, `transport` lines, and optional `notes` (short warnings or logistics, shown in a highlighted box). A trip without `start` simply shows no dates.
+1. Create `data/trips/<id>.json` and add `<id>` to `data/trips.json`. `california.json` is the reference. The trip has a `start` date (`YYYY-MM-DD`), and each day gets its date from it; an optional `altStart` shows an alternative departure date on the overview. Each day has a title, a summary, optional `parts` (for example one line per person), `stops` (can be empty), a `stay`, `transport` lines (modes: `car`, `transit`, `flight`, `boat`, `bus`, `train`), and optional `notes` (short warnings or logistics, shown in a highlighted box). A trip without `start` simply shows no dates.
 2. Each stop needs a `wiki` field, the title of its English Wikipedia article. The script takes the lead photo and the coordinates from it. A stop can also set:
    - `coords: [lat, lon]` to override or supply the position (needed when the article has no coordinates, or none exists);
    - `photo: "File:Name.jpg"` to use a specific Wikimedia Commons file instead of the article's lead image;
@@ -35,6 +35,17 @@ scripts/build_data.py fills the two generated files
    ```
 
    Existing entries are kept, so only new places and changed days are fetched. `--refresh` fetches everything again. If Python reports a certificate error, point it at the system certificates with `SSL_CERT_FILE=/etc/ssl/cert.pem`.
+
+## Guides and comparisons
+
+Comparisons and studies that go with a trip (rankings of reefs or islands, climate, a variant of the route) live in the trip's `guides` list. Each guide is a page, `#/<trip>/guide/<guide-id>`, listed under "Guides & comparatifs" on the trip overview. A guide has an `id`, a `title`, a `summary` and `blocks`, where each block is one of:
+
+- `{ "type": "heading", "text": "..." }`
+- `{ "type": "text", "text": "..." }`
+- `{ "type": "list", "ordered": true, "items": ["..."] }`
+- `{ "type": "table", "columns": ["..."], "rows": [["..."]] }`
+
+Tables scroll sideways on desktop and turn into one card per row on phones. `brazil.json` has four guides.
 
 ## Access code
 

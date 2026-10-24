@@ -1,7 +1,7 @@
 'use strict';
 
 const STYLE_URL = 'https://tiles.openfreemap.org/styles/liberty';
-const MODE_LABEL = { car: 'Route', transit: 'Transports' };
+const MODE_LABEL = { car: 'Route', transit: 'Transports', flight: 'Avion', boat: 'Bateau', bus: 'Bus', train: 'Train' };
 
 const app = document.getElementById('app');
 const topbar = document.getElementById('topbar');
@@ -217,19 +217,20 @@ async function sha256(text) {
 // --- Router ----------------------------------------------------------------
 
 function renderTopbar(trip) {
-  const crumb = trip ? `<span class="crumb">${esc(trip.title)}</span>` : '';
+  const crumb = trip ? `<a class="crumb" href="#/${trip.id}/0">${esc(trip.title)}</a>` : '';
   topbar.innerHTML = `<a class="brand" href="#/">Trips</a>${crumb}`;
 }
 
 function route() {
-  const [id, arg] = location.hash.replace(/^#\/?/, '').split('/');
+  const [id, arg, sub] = location.hash.replace(/^#\/?/, '').split('/');
   const trip = data.trips[id];
   if (!trip) return show('home');
   if (isLocked(trip)) return show('lock', trip);
+  if (arg === 'guide' && trip.guides?.some(g => g.id === sub)) return show('guide', trip, sub);
   show('story', trip, clamp(parseInt(arg, 10) || 0, 0, trip.days.length));
 }
 
-function show(kind, trip, slide) {
+function show(kind, trip, slide) { // `slide` is the day for a story, the guide id for a guide
   if (current && kind === 'story' && current.kind === 'story' && current.tripId === trip.id) {
     current.goTo(slide);
     return;
@@ -239,7 +240,10 @@ function show(kind, trip, slide) {
   window.scrollTo(0, 0);
   renderTopbar(trip);
   document.title = trip ? `${trip.title} · Trips` : 'Trips';
-  current = kind === 'home' ? mountHome() : kind === 'lock' ? mountLock(trip) : mountStory(trip, slide);
+  if (kind === 'home') current = mountHome();
+  else if (kind === 'lock') current = mountLock(trip);
+  else if (kind === 'guide') current = mountGuide(trip, slide);
+  else current = mountStory(trip, slide);
 }
 
 // --- Home ------------------------------------------------------------------
@@ -298,6 +302,39 @@ function mountLock(trip) {
   });
   input.focus();
   return { kind: 'lock', destroy() {} };
+}
+
+// --- Guides ----------------------------------------------------------------
+// Comparisons and studies attached to a trip: a heading, text, a list or a table.
+
+function blockHTML(b) {
+  if (b.type === 'heading') return `<h2 class="g-heading">${esc(b.text)}</h2>`;
+  if (b.type === 'text') return `<p class="g-text">${esc(b.text)}</p>`;
+  if (b.type === 'list') {
+    const tag = b.ordered ? 'ol' : 'ul';
+    return `<${tag} class="g-list">${b.items.map(i => `<li>${esc(i)}</li>`).join('')}</${tag}>`;
+  }
+  if (b.type === 'table') {
+    const head = b.columns.map(c => `<th>${esc(c)}</th>`).join('');
+    const rows = b.rows.map(r => `<tr>${r.map((c, i) => `<td data-label="${esc(b.columns[i])}">${esc(c)}</td>`).join('')}</tr>`).join('');
+    return `<div class="g-table-wrap"><table class="g-table"><thead><tr>${head}</tr></thead><tbody>${rows}</tbody></table></div>`;
+  }
+  return '';
+}
+
+function mountGuide(trip, gid) {
+  const guide = trip.guides.find(g => g.id === gid);
+  const chips = trip.guides.map(g => `<a class="chip${g.id === gid ? ' on' : ''}" href="#/${trip.id}/guide/${g.id}">${esc(g.title)}</a>`).join('');
+  document.title = `${guide.title} · ${trip.title} · Trips`;
+  app.innerHTML = `<article class="guide">
+    <a class="guide-back" href="#/${trip.id}/0">← ${esc(trip.title)}</a>
+    <p class="eyebrow">Guide &amp; comparatif</p>
+    <h1 class="title">${esc(guide.title)}</h1>
+    <p class="lead">${esc(guide.summary)}</p>
+    ${trip.guides.length > 1 ? `<nav class="chips">${chips}</nav>` : ''}
+    ${guide.blocks.map(blockHTML).join('')}
+  </article>`;
+  return { kind: 'guide', destroy() {} };
 }
 
 // --- Story -----------------------------------------------------------------
@@ -370,6 +407,11 @@ function mountStory(trip, start) {
     ].map(([n, label]) => `<div><dt>${n}</dt><dd>${label}</dd></div>`).join('');
     const list = days.map(d => `
       <li><a href="#/${trip.id}/${d.n}" style="--c:${d.color}"><span class="swatch"></span><b>${d.n}</b><span>${esc(d.title)}</span>${d.dateShort ? `<time>${esc(d.dateShort)}</time>` : ''}</a></li>`).join('');
+    const guides = trip.guides?.length ? `
+      <h2 class="section">Guides &amp; comparatifs</h2>
+      <ul class="guides">${trip.guides.map(g => `
+        <li><a href="#/${trip.id}/guide/${g.id}"><b>${esc(g.title)}</b><span>${esc(g.summary)}</span></a></li>`).join('')}
+      </ul>` : '';
     return `
       <p class="eyebrow">${esc(trip.travelers.join(' & '))}</p>
       <h1 class="title big">${esc(trip.title)}</h1>
@@ -380,6 +422,7 @@ function mountStory(trip, start) {
       <a class="cta" href="#/${trip.id}/1">Commencer le voyage <span>→</span></a>
       <h2 class="section">Vue d'ensemble</h2>
       <ol class="overview">${list}</ol>
+      ${guides}
       ${credit}`;
   }
 
