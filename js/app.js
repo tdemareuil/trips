@@ -263,14 +263,25 @@ function mountHome() {
       ${t.range ? `<span class="when">${esc(t.range)}</span>` : ''}
     </a>`;
   };
-  const upcoming = data.order.filter(id => !data.trips[id].done);
-  const done = data.order.filter(id => data.trips[id].done);
+  const trips = data.order.map(id => data.trips[id]);
+  const open = trips.filter(t => !t.done);
+  const group = (title, list) => list.length
+    ? `<h3 class="home-sub">${title}</h3><div class="cards">${list.map(t => card(t.id)).join('')}</div>` : '';
+  const seasons = [...new Set(open.filter(t => t.season).map(t => t.season))];
+  const planned = open.filter(t => !t.season);
+  const done = trips.filter(t => t.done);
   app.innerHTML = `<section class="home">
     <p class="eyebrow">Prochains voyages</p>
     <h1 class="title big">Où va-t-on ensuite ?</h1>
     <p class="lead">Itinéraires jour par jour, cartes et photos.</p>
-    <div class="cards">${upcoming.map(card).join('')}</div>
-    ${done.length ? `<h2 class="home-section">Voyages réalisés</h2><div class="cards">${done.map(card).join('')}</div>` : ''}
+    ${planned.length ? `<div class="cards">${planned.map(t => card(t.id)).join('')}</div>` : ''}
+    ${seasons.map(se => {
+      const list = open.filter(t => t.season === se);
+      return `<h2 class="home-section">${esc(se)}</h2>`
+        + group('Voyages longs', list.filter(t => t.kind !== 'minimoon'))
+        + group('Minimoon', list.filter(t => t.kind === 'minimoon'));
+    }).join('')}
+    ${done.length ? `<h2 class="home-section">Voyages réalisés</h2><div class="cards">${done.map(t => card(t.id)).join('')}</div>` : ''}
   </section>`;
   return { kind: 'home', destroy() {} };
 }
