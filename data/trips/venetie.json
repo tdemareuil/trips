@@ -28,6 +28,11 @@
           "culture": "Basilique baroque du XVIIe siècle, bâtie en action de grâces après la peste de 1630, dont l'architecture semble flotter sur l'eau ; entrée gratuite."
         },
         {
+          "name": "Collection Peggy Guggenheim",
+          "wiki": "Peggy Guggenheim Collection",
+          "culture": "Collection d'art moderne installée dans le palais Venier dei Leoni, sur le Grand Canal, où vécut Peggy Guggenheim jusqu'à sa mort en 1979."
+        },
+        {
           "name": "San Pantalon",
           "wiki": "San Pantalon",
           "culture": "Église à la façade inachevée qui cache le plus grand plafond peint sur toile au monde."
@@ -40,11 +45,6 @@
             45.438,
             12.334
           ]
-        },
-        {
-          "name": "Collection Peggy Guggenheim",
-          "wiki": "Peggy Guggenheim Collection",
-          "culture": "Collection d'art moderne installée dans le palais Venier dei Leoni, sur le Grand Canal, où vécut Peggy Guggenheim jusqu'à sa mort en 1979."
         },
         {
           "name": "Fondamenta della Misericordia",

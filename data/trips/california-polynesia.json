@@ -18,9 +18,8 @@
           "wiki": "Los Angeles"
         },
         {
-          "name": "Griffith Observatory",
-          "wiki": "Griffith Observatory",
-          "culture": "Observatoire de 1935 qui domine Los Angeles, avec vue sur le panneau Hollywood."
+          "name": "Venice Beach",
+          "wiki": "Venice, Los Angeles"
         },
         {
           "name": "Santa Monica",
@@ -35,8 +34,9 @@
           ]
         },
         {
-          "name": "Venice Beach",
-          "wiki": "Venice, Los Angeles"
+          "name": "Griffith Observatory",
+          "wiki": "Griffith Observatory",
+          "culture": "Observatoire de 1935 qui domine Los Angeles, avec vue sur le panneau Hollywood."
         }
       ],
       "stay": {
@@ -72,17 +72,21 @@
       "route": "none",
       "stops": [
         {
+          "name": "Getty Villa",
+          "wiki": "Getty Villa"
+        },
+        {
+          "name": "Malibu Pier",
+          "wiki": "Malibu Pier",
+          "culture": "Jetée en bois construite au début du XXe siècle, qui s'avance dans le Pacifique."
+        },
+        {
           "name": "Pacific Coast Highway",
           "wiki": "California State Route 1",
           "coords": [
             34.036,
             -118.68
           ]
-        },
-        {
-          "name": "Malibu Pier",
-          "wiki": "Malibu Pier",
-          "culture": "Jetée en bois construite au début du XXe siècle, qui s'avance dans le Pacifique."
         },
         {
           "name": "Point Dume",
@@ -92,10 +96,6 @@
         {
           "name": "Zuma Beach",
           "wiki": "Zuma Beach"
-        },
-        {
-          "name": "Getty Villa",
-          "wiki": "Getty Villa"
         },
         {
           "name": "Santa Barbara",
@@ -213,8 +213,13 @@
       "route": "none",
       "stops": [
         {
-          "name": "Désert d'Anza-Borrego",
-          "wiki": "Anza-Borrego Desert State Park"
+          "name": "Vignobles de Temecula",
+          "coords": [
+            33.51,
+            -117.05
+          ],
+          "photo": "File:Temecula California vineyard.jpg",
+          "culture": "Région viticole du sud de la Californie, connue pour ses domaines familiaux et ses vols en montgolfière."
         },
         {
           "name": "Palm Canyon Trail",
@@ -224,6 +229,10 @@
           ],
           "photo": "File:Borrego Palm Canyon - Anza Borrego State Park.jpg",
           "culture": "Sentier d'environ 5 km aller-retour jusqu'à une oasis de palmiers Washingtonia, les seuls palmiers indigènes de Californie."
+        },
+        {
+          "name": "Désert d'Anza-Borrego",
+          "wiki": "Anza-Borrego Desert State Park"
         },
         {
           "name": "Borrego Badlands",
@@ -242,15 +251,6 @@
           ],
           "photo": "File:Galleta Meadows Borrego Springs.jpg",
           "culture": "Plus de 130 sculptures de métal grandeur nature, œuvres de Ricardo Breceda, dispersées dans le désert : dragon, mammouths, chevaux."
-        },
-        {
-          "name": "Vignobles de Temecula",
-          "coords": [
-            33.51,
-            -117.05
-          ],
-          "photo": "File:Temecula California vineyard.jpg",
-          "culture": "Région viticole du sud de la Californie, connue pour ses domaines familiaux et ses vols en montgolfière."
         }
       ],
       "stay": {

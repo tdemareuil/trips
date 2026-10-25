@@ -118,6 +118,15 @@
           "culture": "Son grand marché du dimanche, le tianguis, rassemble des producteurs zapotèques de toute la vallée."
         },
         {
+          "name": "Santiago Matatlán",
+          "wiki": "Santiago Matatlán",
+          "culture": "Se présente comme la capitale mondiale du mezcal, au milieu des champs d'agaves (maguey)."
+        },
+        {
+          "name": "Mal de Amor (palenque de mezcal)",
+          "culture": "Distillerie proposant un « Barritour » à 11h, 13h, 15h et 17h (2 h), un peu à l'américaine mais très sympa, avec beaucoup de dégustations. Réservé pour 13h."
+        },
+        {
           "name": "Teotitlán del Valle",
           "wiki": "Teotitlán del Valle",
           "photo": "File:TapeteEnFabricación-Teotitlán del Valle-Oaxaca-Mexico.jpg",
@@ -127,15 +136,6 @@
           "name": "Arbre de Tule",
           "wiki": "Árbol del Tule",
           "culture": "Cyprès de Montezuma vieux de plus de 1 500 ans, au tronc parmi les plus larges du monde, planté devant l'église de Santa María del Tule."
-        },
-        {
-          "name": "Santiago Matatlán",
-          "wiki": "Santiago Matatlán",
-          "culture": "Se présente comme la capitale mondiale du mezcal, au milieu des champs d'agaves (maguey)."
-        },
-        {
-          "name": "Mal de Amor (palenque de mezcal)",
-          "culture": "Distillerie proposant un « Barritour » à 11h, 13h, 15h et 17h (2 h), un peu à l'américaine mais très sympa, avec beaucoup de dégustations. Réservé pour 13h."
         }
       ],
       "stay": {
@@ -384,19 +384,24 @@
       "route": "none",
       "stops": [
         {
-          "name": "Couvent de Santa Clara",
-          "photo": "File:Convento de Santa Clara Antigua Guatemala.jpg",
-          "culture": "Ruines d'un couvent du XVIIe siècle, détruit par les séismes d'Antigua. L'entrée est payante."
-        },
-        {
           "name": "Couvent des Capucines",
           "photo": "File:Convento de las Capuchinas Antigua.JPG",
           "culture": "Ruines d'un couvent du XVIIIe siècle, avec une tour circulaire de cellules. L'entrée est payante."
         },
         {
+          "name": "Couvent de Santa Clara",
+          "photo": "File:Convento de Santa Clara Antigua Guatemala.jpg",
+          "culture": "Ruines d'un couvent du XVIIe siècle, détruit par les séismes d'Antigua. L'entrée est payante."
+        },
+        {
           "name": "Volcan de Agua",
           "wiki": "Volcán de Agua",
           "culture": "Volcan d'environ 3 760 m qui domine Antigua et que l'on voit depuis l'Arco de Santa Catalina."
+        },
+        {
+          "name": "Santa Catarina Palopó",
+          "wiki": "Santa Catarina Palopó",
+          "culture": "Village kaqchikel dont les maisons sont peintes en bleu et à motifs mayas, depuis 2016."
         },
         {
           "name": "Lac Atitlán",
@@ -407,11 +412,6 @@
           "name": "Santa Cruz La Laguna",
           "wiki": "Santa Cruz La Laguna",
           "culture": "Village de la rive nord du lac, accessible en lancha, avec un petit marché le samedi."
-        },
-        {
-          "name": "Santa Catarina Palopó",
-          "wiki": "Santa Catarina Palopó",
-          "culture": "Village kaqchikel dont les maisons sont peintes en bleu et à motifs mayas, depuis 2016."
         }
       ],
       "stay": {

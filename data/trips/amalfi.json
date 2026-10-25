@@ -22,10 +22,6 @@
           ]
         },
         {
-          "name": "Naples",
-          "wiki": "Naples"
-        },
-        {
           "name": "Gare de Naples Garibaldi",
           "coords": [
             40.853,
@@ -33,6 +29,10 @@
           ],
           "culture": "Gare centrale de Naples, terminus du bus Alibus depuis l'aéroport (15 min de trajet).",
           "photo": "File:Napoli staz Garibaldi.jpg"
+        },
+        {
+          "name": "Naples",
+          "wiki": "Naples"
         }
       ],
       "stay": {

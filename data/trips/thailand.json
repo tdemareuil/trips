@@ -67,51 +67,9 @@
       "route": "none",
       "stops": [
         {
-          "name": "Grand Palais",
-          "wiki": "Grand Palace",
-          "culture": "Résidence des rois du Siam depuis 1782, ensemble de pavillons dorés."
-        },
-        {
-          "name": "Wat Phra Kaew",
-          "wiki": "Wat Phra Kaew",
-          "culture": "Temple du Bouddha d'émeraude, le plus sacré de Thaïlande."
-        },
-        {
-          "name": "Wat Arun",
-          "wiki": "Wat Arun",
-          "culture": "Temple de l'Aube, dont la tour centrale en porcelaine domine le fleuve Chao Phraya."
-        },
-        {
-          "name": "Chinatown de Bangkok",
-          "wiki": "Yaowarat Road",
-          "culture": "Yaowarat s'est formé en 1782, quand la communauté chinoise a été déplacée pour bâtir le Grand Palais ; il est connu pour sa cuisine de rue."
-        },
-        {
           "name": "Marché flottant de Damnoen Saduak",
           "wiki": "Damnoen Saduak Floating Market",
           "culture": "Marché sur un canal creusé au XIXe siècle sous Rama IV, très connu mais très touristique."
-        },
-        {
-          "name": "Marché nocturne de Talad Rot Fai",
-          "wiki": "Talad Rot Fai",
-          "coords": [
-            13.764,
-            100.62
-          ],
-          "culture": "Marché nocturne de brocante, de voitures anciennes et de bars ; « rot fai » signifie « train » en thaï."
-        },
-        {
-          "name": "Wat Saket",
-          "wiki": "Wat Saket",
-          "culture": "Temple du Mont d'Or, perché sur une colline artificielle, avec vue sur la vieille ville."
-        },
-        {
-          "name": "Canaux de Thonburi",
-          "wiki": "Thonburi",
-          "coords": [
-            13.728,
-            100.486
-          ]
         },
         {
           "name": "Marché flottant de Tha Kha",
@@ -123,6 +81,39 @@
           "photo": "File:Samutsongkram Tha Kha Floating Market 2.jpg"
         },
         {
+          "name": "Canaux de Thonburi",
+          "wiki": "Thonburi",
+          "coords": [
+            13.728,
+            100.486
+          ]
+        },
+        {
+          "name": "Wat Arun",
+          "wiki": "Wat Arun",
+          "culture": "Temple de l'Aube, dont la tour centrale en porcelaine domine le fleuve Chao Phraya."
+        },
+        {
+          "name": "Grand Palais",
+          "wiki": "Grand Palace",
+          "culture": "Résidence des rois du Siam depuis 1782, ensemble de pavillons dorés."
+        },
+        {
+          "name": "Wat Phra Kaew",
+          "wiki": "Wat Phra Kaew",
+          "culture": "Temple du Bouddha d'émeraude, le plus sacré de Thaïlande."
+        },
+        {
+          "name": "Wat Saket",
+          "wiki": "Wat Saket",
+          "culture": "Temple du Mont d'Or, perché sur une colline artificielle, avec vue sur la vieille ville."
+        },
+        {
+          "name": "Chinatown de Bangkok",
+          "wiki": "Yaowarat Road",
+          "culture": "Yaowarat s'est formé en 1782, quand la communauté chinoise a été déplacée pour bâtir le Grand Palais ; il est connu pour sa cuisine de rue."
+        },
+        {
           "name": "Marché de Chang Chui",
           "wiki": "Chang Chui",
           "coords": [
@@ -130,6 +121,15 @@
             100.468
           ],
           "culture": "Marché d'artisanat et espace de création, avec un bar installé dans un ancien avion."
+        },
+        {
+          "name": "Marché nocturne de Talad Rot Fai",
+          "wiki": "Talad Rot Fai",
+          "coords": [
+            13.764,
+            100.62
+          ],
+          "culture": "Marché nocturne de brocante, de voitures anciennes et de bars ; « rot fai » signifie « train » en thaï."
         }
       ],
       "stay": {
@@ -295,15 +295,6 @@
           "culture": "Montagne couronnée par le temple Wat Phra That Doi Suthep, avec vue sur Chiang Mai."
         },
         {
-          "name": "Doi Inthanon",
-          "wiki": "Doi Inthanon",
-          "culture": "Plus haut sommet de Thaïlande, à 2 565 m ; à éviter le week-end pour la foule."
-        },
-        {
-          "name": "Elephant Nature Park",
-          "wiki": "Elephant Nature Park"
-        },
-        {
           "name": "Village karen",
           "coords": [
             18.6,
@@ -311,6 +302,15 @@
           ],
           "photo": "File:Trekking in Chang Mai, Karen village - panoramio.jpg",
           "culture": "Les Karen, peuple de montagne, sont connus pour leurs textiles tissés."
+        },
+        {
+          "name": "Doi Inthanon",
+          "wiki": "Doi Inthanon",
+          "culture": "Plus haut sommet de Thaïlande, à 2 565 m ; à éviter le week-end pour la foule."
+        },
+        {
+          "name": "Elephant Nature Park",
+          "wiki": "Elephant Nature Park"
         }
       ],
       "stay": {
@@ -432,27 +432,9 @@
           "wiki": "Krabi"
         },
         {
-          "name": "Plage d'Ao Nang",
-          "wiki": "Ao Nang",
-          "coords": [
-            8.039,
-            98.82
-          ],
-          "culture": "Principale station balnéaire de la province de Krabi, point de départ des bateaux pour Railay."
-        },
-        {
           "name": "Railay Beach",
           "wiki": "Railay Beach",
           "culture": "Presqu'île coupée du continent par des falaises calcaires, accessible seulement en bateau."
-        },
-        {
-          "name": "Marché de nuit de Krabi",
-          "coords": [
-            8.064,
-            98.913
-          ],
-          "photo": "File:Krabi Night Market.JPG",
-          "culture": "Marché du soir à Krabi Town, où l'on goûte des spécialités du sud de la Thaïlande."
         },
         {
           "name": "Koh Lao Lading",
@@ -462,6 +444,24 @@
           ],
           "photo": "File:2016-04-12 Ko Lao Lading 01.jpg",
           "culture": "Îlot calcaire de la mer d'Andaman, proche de Krabi, apprécié pour le kayak et le snorkeling."
+        },
+        {
+          "name": "Plage d'Ao Nang",
+          "wiki": "Ao Nang",
+          "coords": [
+            8.039,
+            98.82
+          ],
+          "culture": "Principale station balnéaire de la province de Krabi, point de départ des bateaux pour Railay."
+        },
+        {
+          "name": "Marché de nuit de Krabi",
+          "coords": [
+            8.064,
+            98.913
+          ],
+          "photo": "File:Krabi Night Market.JPG",
+          "culture": "Marché du soir à Krabi Town, où l'on goûte des spécialités du sud de la Thaïlande."
         }
       ],
       "stay": {
@@ -686,15 +686,6 @@
           "wiki": "Mu Ko Lanta National Park"
         },
         {
-          "name": "Lanta Old Town",
-          "coords": [
-            7.596,
-            99.083
-          ],
-          "culture": "Ancien port de commerce, aux maisons sur pilotis des Chao Le.",
-          "photo": "File:Ko Lanta - Lanta Old Town - 0049.jpg"
-        },
-        {
           "name": "Koh Rok",
           "coords": [
             7.215,
@@ -711,6 +702,15 @@
             99.117
           ],
           "culture": "Baie calme du sud-ouest de Koh Lanta, loin des zones animées."
+        },
+        {
+          "name": "Lanta Old Town",
+          "coords": [
+            7.596,
+            99.083
+          ],
+          "culture": "Ancien port de commerce, aux maisons sur pilotis des Chao Le.",
+          "photo": "File:Ko Lanta - Lanta Old Town - 0049.jpg"
         }
       ],
       "stay": {
@@ -881,6 +881,10 @@
       "route": "none",
       "stops": [
         {
+          "name": "Archipel d'Ang Thong",
+          "wiki": "Ang Thong National Marine Park"
+        },
+        {
           "name": "Cascade de Na Muang",
           "coords": [
             9.47,
@@ -897,10 +901,6 @@
             100.05
           ],
           "culture": "Petite plage de la côte est, plus calme que Chaweng et Lamai."
-        },
-        {
-          "name": "Archipel d'Ang Thong",
-          "wiki": "Ang Thong National Marine Park"
         }
       ],
       "stay": {

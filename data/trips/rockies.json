@@ -275,11 +275,6 @@
       "route": "drive",
       "stops": [
         {
-          "name": "Jenny Lake",
-          "wiki": "Jenny Lake",
-          "culture": "Lac glaciaire nommé d'après Jenny Leigh, l'épouse shoshone d'un trappeur. Un bateau-navette permet de le traverser pour rejoindre les chutes de Hidden Falls."
-        },
-        {
           "name": "Mormon Row",
           "wiki": "Mormon Row Historic District",
           "culture": "Hameau fondé par des colons mormons à la fin du XIXe siècle. Ses granges, comme la Moulton Barn, avec les Tetons en arrière-plan, comptent parmi les images les plus photographiées de l'Ouest américain."
@@ -293,6 +288,11 @@
             -110.512
           ],
           "culture": "Méandre de la Snake River aux eaux calmes, qui reflète le mont Moran. On y observe souvent élans, pélicans et pygargues à tête blanche."
+        },
+        {
+          "name": "Jenny Lake",
+          "wiki": "Jenny Lake",
+          "culture": "Lac glaciaire nommé d'après Jenny Leigh, l'épouse shoshone d'un trappeur. Un bateau-navette permet de le traverser pour rejoindre les chutes de Hidden Falls."
         }
       ],
       "stay": {

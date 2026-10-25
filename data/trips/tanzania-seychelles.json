@@ -81,9 +81,12 @@
           ]
         },
         {
-          "name": "Moshi",
-          "wiki": "Moshi, Tanzania",
-          "culture": "Ville au pied du Kilimandjaro, base des ascensions."
+          "name": "Village maasaï d'Engare Nanyuki",
+          "coords": [
+            -3.192,
+            37.18
+          ],
+          "culture": "Les Maasaï, éleveurs semi-nomades, sont connus pour leurs vêtements rouges (shuka) et leurs danses sautées."
         },
         {
           "name": "Villages chagga",
@@ -94,12 +97,9 @@
           "culture": "Les Chagga, qui vivent sur les pentes du Kilimandjaro, sont réputés pour leurs cultures de café et de banane."
         },
         {
-          "name": "Village maasaï d'Engare Nanyuki",
-          "coords": [
-            -3.192,
-            37.18
-          ],
-          "culture": "Les Maasaï, éleveurs semi-nomades, sont connus pour leurs vêtements rouges (shuka) et leurs danses sautées."
+          "name": "Moshi",
+          "wiki": "Moshi, Tanzania",
+          "culture": "Ville au pied du Kilimandjaro, base des ascensions."
         }
       ],
       "stay": {
@@ -138,23 +138,6 @@
       "route": "none",
       "stops": [
         {
-          "name": "Parc national d'Amboseli",
-          "culture": "Célèbre pour ses grands troupeaux d'éléphants qui évoluent avec le Kilimandjaro en toile de fond.",
-          "photo": "File:Amboseli National Park and Mt. Kilimanjaro.jpg",
-          "coords": [
-            -2.65,
-            37.26
-          ]
-        },
-        {
-          "name": "Montgolfière d'Amboseli",
-          "coords": [
-            -2.6527,
-            37.2606
-          ],
-          "culture": "Vol au lever du soleil au-dessus de la savane, avec vue sur le Kilimandjaro."
-        },
-        {
           "name": "Frontière de Loitokitok",
           "photo": "File:Loitokitok1.jpg",
           "coords": [
@@ -171,6 +154,23 @@
             36.79
           ],
           "culture": "Principal poste frontière sur la route d'Arusha à Nairobi."
+        },
+        {
+          "name": "Parc national d'Amboseli",
+          "culture": "Célèbre pour ses grands troupeaux d'éléphants qui évoluent avec le Kilimandjaro en toile de fond.",
+          "photo": "File:Amboseli National Park and Mt. Kilimanjaro.jpg",
+          "coords": [
+            -2.65,
+            37.26
+          ]
+        },
+        {
+          "name": "Montgolfière d'Amboseli",
+          "coords": [
+            -2.6527,
+            37.2606
+          ],
+          "culture": "Vol au lever du soleil au-dessus de la savane, avec vue sur le Kilimandjaro."
         }
       ],
       "stay": {
@@ -208,11 +208,6 @@
       "route": "none",
       "stops": [
         {
-          "name": "Parc national de Tarangire",
-          "wiki": "Tarangire National Park",
-          "culture": "Réputé pour ses grands troupeaux d'éléphants et ses baobabs, parmi les plus denses d'Afrique."
-        },
-        {
           "name": "Mto Wa Mbu",
           "culture": "Village multiculturel au bord du lac Manyara, connu pour son marché et sa bière de banane.",
           "photo": "File:Légumes et friture Mto Wa Mbu.jpg",
@@ -220,6 +215,11 @@
             -3.35,
             35.8667
           ]
+        },
+        {
+          "name": "Parc national de Tarangire",
+          "wiki": "Tarangire National Park",
+          "culture": "Réputé pour ses grands troupeaux d'éléphants et ses baobabs, parmi les plus denses d'Afrique."
         },
         {
           "name": "Baobabs de Tarangire",
@@ -268,11 +268,6 @@
       "route": "none",
       "stops": [
         {
-          "name": "Lac Natron",
-          "wiki": "Lake Natron",
-          "culture": "Lac alcalin très salé, lieu de reproduction principal des flamants nains d'Afrique de l'Est."
-        },
-        {
           "name": "Cascades d'Engare Sero",
           "coords": [
             -2.578,
@@ -280,6 +275,11 @@
           ],
           "culture": "Gorge verdoyante et cascades où l'on se baigne, accessible avec un guide maasaï.",
           "photo": "File:Engare Sero River Waterfall 25 images 1887 1913.jpg"
+        },
+        {
+          "name": "Lac Natron",
+          "wiki": "Lake Natron",
+          "culture": "Lac alcalin très salé, lieu de reproduction principal des flamants nains d'Afrique de l'Est."
         },
         {
           "name": "Flamants roses du lac Natron",
@@ -413,6 +413,11 @@
       "route": "none",
       "stops": [
         {
+          "name": "Lac Eyasi",
+          "wiki": "Lake Eyasi",
+          "culture": "Lac salé où vivent les Hadzabe, chasseurs-cueilleurs, et les Datoga, forgerons."
+        },
+        {
           "name": "Parc national du Serengeti",
           "wiki": "Serengeti National Park",
           "culture": "Son nom vient du maa « siringet », la plaine sans fin. Il accueille la grande migration de plus d'un million de gnous."
@@ -425,11 +430,6 @@
             -2.4,
             34.85
           ]
-        },
-        {
-          "name": "Lac Eyasi",
-          "wiki": "Lake Eyasi",
-          "culture": "Lac salé où vivent les Hadzabe, chasseurs-cueilleurs, et les Datoga, forgerons."
         },
         {
           "name": "Montgolfière du Serengeti",
@@ -624,6 +624,14 @@
           "culture": "Île principale de l'archipel, où se trouvent la capitale Victoria et l'aéroport."
         },
         {
+          "name": "Missions Lodge Viewpoint",
+          "coords": [
+            -4.636,
+            55.429
+          ],
+          "culture": "Ancien site d'une école pour enfants d'esclaves libérés, avec un belvédère sur les montagnes."
+        },
+        {
           "name": "Plage de Beau Vallon",
           "culture": "Plus grande plage de Mahé, très animée en soirée.",
           "photo": "File:Beau Vallon beach Mahe Seychelles.jpg",
@@ -631,14 +639,6 @@
             -4.618,
             55.429
           ]
-        },
-        {
-          "name": "Missions Lodge Viewpoint",
-          "coords": [
-            -4.636,
-            55.429
-          ],
-          "culture": "Ancien site d'une école pour enfants d'esclaves libérés, avec un belvédère sur les montagnes."
         }
       ],
       "stay": {

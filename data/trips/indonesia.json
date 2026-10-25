@@ -288,24 +288,6 @@
       "route": "none",
       "stops": [
         {
-          "name": "Tirta Empul",
-          "wiki": "Tirta Empul",
-          "culture": "Temple du Xe siècle construit autour d'une source sacrée, où les fidèles se purifient dans des bassins, sous des fontaines."
-        },
-        {
-          "name": "Goa Gajah",
-          "wiki": "Goa Gajah",
-          "culture": "La « grotte de l'éléphant » est un sanctuaire creusé dans la roche vers le XIe siècle, dont l'entrée est sculptée de figures grimaçantes."
-        },
-        {
-          "name": "Tirta Gangga",
-          "coords": [
-            -8.4118,
-            115.5876
-          ],
-          "culture": "Palais d'eau de l'est de Bali, construit en 1946 par le dernier roi de Karangasem, avec ses bassins, ses fontaines et ses poissons koï."
-        },
-        {
           "name": "Campuhan Ridge Walk",
           "photo": "File:Campuhan ridge walk Ubud Bali 20120827c.jpg",
           "coords": [
@@ -318,6 +300,24 @@
           "name": "Rizières de Tegalalang",
           "wiki": "Tegallalang",
           "culture": "Rizières en terrasses irriguées selon le système traditionnel du subak, que l'UNESCO a reconnu avec d'autres paysages de Bali."
+        },
+        {
+          "name": "Tirta Empul",
+          "wiki": "Tirta Empul",
+          "culture": "Temple du Xe siècle construit autour d'une source sacrée, où les fidèles se purifient dans des bassins, sous des fontaines."
+        },
+        {
+          "name": "Tirta Gangga",
+          "coords": [
+            -8.4118,
+            115.5876
+          ],
+          "culture": "Palais d'eau de l'est de Bali, construit en 1946 par le dernier roi de Karangasem, avec ses bassins, ses fontaines et ses poissons koï."
+        },
+        {
+          "name": "Goa Gajah",
+          "wiki": "Goa Gajah",
+          "culture": "La « grotte de l'éléphant » est un sanctuaire creusé dans la roche vers le XIe siècle, dont l'entrée est sculptée de figures grimaçantes."
         },
         {
           "name": "Danse kecak (Pura Dalem Ubud)",
@@ -416,14 +416,6 @@
           "culture": "Le « temple mère » de Bali : un ensemble d'une vingtaine de temples sur les pentes du mont Agung, à environ 1 000 m d'altitude, le plus grand et le plus sacré de l'île."
         },
         {
-          "name": "Jemeluk Bay (Amed)",
-          "coords": [
-            -8.338,
-            115.656
-          ],
-          "culture": "Baie d'Amed dont les récifs sont accessibles directement depuis la plage, idéale pour le snorkeling."
-        },
-        {
           "name": "Épave de l'USS Liberty (Tulamben)",
           "wiki": "USAT Liberty",
           "photo": "File:USAT Liberty Wreck Dive.jpg",
@@ -432,6 +424,14 @@
             115.593
           ],
           "culture": "Cargo américain torpillé en 1942, échoué à Tulamben, devenu l'une des épaves les plus accessibles du monde, à quelques mètres du rivage."
+        },
+        {
+          "name": "Jemeluk Bay (Amed)",
+          "coords": [
+            -8.338,
+            115.656
+          ],
+          "culture": "Baie d'Amed dont les récifs sont accessibles directement depuis la plage, idéale pour le snorkeling."
         }
       ],
       "stay": {
@@ -535,6 +535,11 @@
       "route": "none",
       "stops": [
         {
+          "name": "Nusa Lembongan",
+          "wiki": "Nusa Lembongan",
+          "culture": "Petite île voisine de Nusa Penida, connue pour ses mangroves, ses cultures d'algues et ses spots de surf."
+        },
+        {
           "name": "Manta Point",
           "photo": "File:19-Indonesia-Bali Nusa-Penida Manta-Point 14 (Manta Ray)-APiazza.JPG",
           "coords": [
@@ -550,11 +555,6 @@
             115.575
           ],
           "culture": "Crique de sable blanc de la côte est, au pied d'une falaise verte, près de Diamond Beach et de son arche."
-        },
-        {
-          "name": "Nusa Lembongan",
-          "wiki": "Nusa Lembongan",
-          "culture": "Petite île voisine de Nusa Penida, connue pour ses mangroves, ses cultures d'algues et ses spots de surf."
         }
       ],
       "stay": {
@@ -865,6 +865,26 @@
       "route": "none",
       "stops": [
         {
+          "name": "Cascade de Cunca Wulang",
+          "coords": [
+            -8.53,
+            120.08
+          ],
+          "culture": "Canyon de roche claire creusé par une rivière, avec des bassins d'eau turquoise où l'on peut se baigner et sauter."
+        },
+        {
+          "name": "Marché de poissons frais",
+          "culture": "Marché du port de Labuan Bajo, où les pêcheurs vendent leur pêche du jour."
+        },
+        {
+          "name": "Village traditionnel de Melo",
+          "culture": "Village manggarai proche de Labuan Bajo, où l'on assiste à des spectacles de caci, la danse-combat de fouets et de boucliers."
+        },
+        {
+          "name": "Love Hills",
+          "culture": "Colline de Labuan Bajo prisée pour sa vue sur la baie."
+        },
+        {
           "name": "Grotte de Batu Cermin",
           "photo": "File:Mirror Stone Cave, Flores, Indonesia, 20250827 0928 3845.jpg",
           "coords": [
@@ -880,26 +900,6 @@
             119.84
           ],
           "culture": "Colline au-dessus de Labuan Bajo qui offre l'un des meilleurs points de vue sur la baie au coucher du soleil."
-        },
-        {
-          "name": "Cascade de Cunca Wulang",
-          "coords": [
-            -8.53,
-            120.08
-          ],
-          "culture": "Canyon de roche claire creusé par une rivière, avec des bassins d'eau turquoise où l'on peut se baigner et sauter."
-        },
-        {
-          "name": "Love Hills",
-          "culture": "Colline de Labuan Bajo prisée pour sa vue sur la baie."
-        },
-        {
-          "name": "Village traditionnel de Melo",
-          "culture": "Village manggarai proche de Labuan Bajo, où l'on assiste à des spectacles de caci, la danse-combat de fouets et de boucliers."
-        },
-        {
-          "name": "Marché de poissons frais",
-          "culture": "Marché du port de Labuan Bajo, où les pêcheurs vendent leur pêche du jour."
         }
       ],
       "stay": {

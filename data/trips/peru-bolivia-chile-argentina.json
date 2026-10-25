@@ -381,6 +381,11 @@
           "culture": "Plus haut lac navigable du monde, à environ 3 800 m, partagé entre le Pérou et la Bolivie."
         },
         {
+          "name": "Île de Taquile",
+          "wiki": "Taquile",
+          "culture": "Île dont la communauté, aux traditions de tricot reconnues par l'UNESCO, vit de façon collective."
+        },
+        {
           "name": "Îles Uros",
           "wiki": "Uros",
           "culture": "Îles artificielles construites en roseaux totora, habitées par les Uros.",
@@ -388,11 +393,6 @@
             -15.823,
             -69.971
           ]
-        },
-        {
-          "name": "Île de Taquile",
-          "wiki": "Taquile",
-          "culture": "Île dont la communauté, aux traditions de tricot reconnues par l'UNESCO, vit de façon collective."
         }
       ],
       "stay": {
@@ -686,11 +686,6 @@
       "route": "none",
       "stops": [
         {
-          "name": "Laguna Verde",
-          "wiki": "Laguna Verde (Bolivia)",
-          "culture": "Lac vert-turquoise au pied du volcan Licancabur, dont la couleur vient de minéraux comme le cuivre."
-        },
-        {
           "name": "Désert de Siloli",
           "photo": "File:Árbol de Piedra, Desierto de Siloli, Bolivia, 2016-02-03, DD 03.JPG",
           "coords": [
@@ -698,6 +693,11 @@
             -67.77
           ],
           "culture": "Désert d'altitude, vers 4 500 m, célèbre pour l'Árbol de Piedra, un rocher sculpté par le vent."
+        },
+        {
+          "name": "Laguna Verde",
+          "wiki": "Laguna Verde (Bolivia)",
+          "culture": "Lac vert-turquoise au pied du volcan Licancabur, dont la couleur vient de minéraux comme le cuivre."
         },
         {
           "name": "San Pedro de Atacama",

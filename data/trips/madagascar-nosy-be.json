@@ -200,15 +200,6 @@
       "route": "none",
       "stops": [
         {
-          "name": "Piscine naturelle de l'Isalo",
-          "coords": [
-            -22.456,
-            45.372
-          ],
-          "culture": "Bassin d'eau claire alimenté par une cascade, au bout d'un sentier dans le canyon.",
-          "photo": "File:IsaloSwimmingPool.jpg"
-        },
-        {
           "name": "Fenêtre de l'Isalo",
           "coords": [
             -22.504,
@@ -225,6 +216,15 @@
           ],
           "culture": "Canyon verdoyant où l'on croise des lémuriens à queue annelée.",
           "photo": "File:\" Canyon des Singes \" (9589928010).jpg"
+        },
+        {
+          "name": "Piscine naturelle de l'Isalo",
+          "coords": [
+            -22.456,
+            45.372
+          ],
+          "culture": "Bassin d'eau claire alimenté par une cascade, au bout d'un sentier dans le canyon.",
+          "photo": "File:IsaloSwimmingPool.jpg"
         }
       ],
       "stay": {

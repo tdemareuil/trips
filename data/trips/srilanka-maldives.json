@@ -283,6 +283,27 @@
       "route": "none",
       "stops": [
         {
+          "name": "Chute de Bomburu Ella",
+          "wiki": "Bomburu Ella",
+          "culture": "Chute d'eau d'une trentaine de mètres près de Nuwara Eliya, alimentée par plusieurs bras."
+        },
+        {
+          "name": "Usine de thé de Dambatenne",
+          "culture": "Usine de thé construite en 1890 par Thomas Lipton, près de Haputale."
+        },
+        {
+          "name": "Église de Warleigh"
+        },
+        {
+          "name": "Pedro Tea Estate",
+          "culture": "Plantation de thé de Nuwara Eliya, dont l'usine se visite et propose des dégustations."
+        },
+        {
+          "name": "Jardin botanique d'Hakgala",
+          "wiki": "Hakgala Botanical Garden",
+          "culture": "Jardin d'altitude ouvert en 1861, célèbre pour ses roses, ses fougères et ses orchidées, au pied du rocher d'Hakgala."
+        },
+        {
           "name": "Lac Gregory",
           "photo": "File:Gregory Lake Nuwara Eliya 02.jpg",
           "coords": [
@@ -292,11 +313,6 @@
           "culture": "Lac artificiel de Nuwara Eliya, créé en 1873 par le gouverneur Gregory, où l'on fait du bateau et du pédalo."
         },
         {
-          "name": "Jardin botanique d'Hakgala",
-          "wiki": "Hakgala Botanical Garden",
-          "culture": "Jardin d'altitude ouvert en 1861, célèbre pour ses roses, ses fougères et ses orchidées, au pied du rocher d'Hakgala."
-        },
-        {
           "name": "Victoria Park",
           "wiki": "Victoria Park, Nuwara Eliya",
           "culture": "Parc de Nuwara Eliya ouvert en 1897 pour le jubilé de la reine Victoria, aux massifs de fleurs et aux oiseaux."
@@ -304,22 +320,6 @@
         {
           "name": "Fermes de fraises Ramya et Jagro",
           "culture": "Nuwara Eliya, au climat frais, cultive des fraises, que l'on cueille ou déguste dans des fermes ouvertes aux visiteurs."
-        },
-        {
-          "name": "Chute de Bomburu Ella",
-          "wiki": "Bomburu Ella",
-          "culture": "Chute d'eau d'une trentaine de mètres près de Nuwara Eliya, alimentée par plusieurs bras."
-        },
-        {
-          "name": "Pedro Tea Estate",
-          "culture": "Plantation de thé de Nuwara Eliya, dont l'usine se visite et propose des dégustations."
-        },
-        {
-          "name": "Église de Warleigh"
-        },
-        {
-          "name": "Usine de thé de Dambatenne",
-          "culture": "Usine de thé construite en 1890 par Thomas Lipton, près de Haputale."
         }
       ],
       "stay": {

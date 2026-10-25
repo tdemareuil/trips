@@ -1,7 +1,7 @@
 {
   "id": "sardaigne",
   "title": "Sardaigne",
-  "subtitle": "Huit jours en voiture dans le nord et l'est : archipel de La Maddalena, Castelsardo, Bosa et golfe d'Orosei",
+  "subtitle": "Huit jours dans la moitié nord de l'île : archipel de La Maddalena, Castelsardo, Bosa et golfe d'Orosei",
   "travelers": [
     "En couple"
   ],
@@ -372,13 +372,13 @@
       "route": "none",
       "stops": [
         {
-          "name": "Alghero",
-          "photo": "File:Alghero old town - panoramio.jpg",
+          "name": "Porto Ferro",
           "coords": [
-            40.558,
-            8.319
+            40.675,
+            8.203
           ],
-          "culture": "Ville côtière du nord-ouest de la Sardaigne, à l'héritage catalan, avec une vieille ville fortifiée."
+          "culture": "Plage moins connue, conseillée par Sarah, à l'extrême ouest de l'île, à côté de la Paninoteca Sa Tracca.",
+          "photo": "File:Spiaggia di Porto Ferro, Ottobre 2017.jpg"
         },
         {
           "name": "Sella e Mosca",
@@ -389,13 +389,13 @@
           "culture": "Très beau domaine viticole juste au nord d'Alghero, conseillé par Sarah ; la visite « Tradition » semble la meilleure, avec dégustation de deux vins notés 3,8 pour 15 €, tous les jours à 10 h, 11 h et 15 h."
         },
         {
-          "name": "Porto Ferro",
+          "name": "Alghero",
+          "photo": "File:Alghero old town - panoramio.jpg",
           "coords": [
-            40.675,
-            8.203
+            40.558,
+            8.319
           ],
-          "culture": "Plage moins connue, conseillée par Sarah, à l'extrême ouest de l'île, à côté de la Paninoteca Sa Tracca.",
-          "photo": "File:Spiaggia di Porto Ferro, Ottobre 2017.jpg"
+          "culture": "Ville côtière du nord-ouest de la Sardaigne, à l'héritage catalan, avec une vieille ville fortifiée."
         },
         {
           "name": "Route panoramique SP 49",

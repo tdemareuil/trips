@@ -141,16 +141,16 @@
       "route": "none",
       "stops": [
         {
-          "name": "Jbel Saghro",
-          "wiki": "Jbel Saghro",
-          "culture": "Massif volcanique de l'Anti-Atlas, aux paysages minéraux et aux nomades du désert."
-        },
-        {
           "name": "Boulmane Dadès",
           "coords": [
             31.4,
             -5.95
           ]
+        },
+        {
+          "name": "Jbel Saghro",
+          "wiki": "Jbel Saghro",
+          "culture": "Massif volcanique de l'Anti-Atlas, aux paysages minéraux et aux nomades du désert."
         },
         {
           "name": "Camp Sedrar à Tazzarine",

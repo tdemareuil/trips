@@ -591,24 +591,24 @@
       ],
       "stops": [
         {
-          "name": "Fira",
-          "wiki": "Fira",
-          "culture": "Capitale de Santorin, perchée au bord de la caldeira. On y trouve le quartier catholique et la cathédrale. Santorin compte 3,4 millions de touristes par an pour 15 500 habitants."
-        },
-        {
           "name": "Imerovigli",
           "wiki": "Imerovigli",
           "culture": "Village sur le point culminant du bord de la caldeira, relié à Fira par un sentier de randonnée très prisé."
         },
         {
-          "name": "Akrotiri",
-          "wiki": "Akrotiri (prehistoric city)",
-          "culture": "Cité de l'âge du bronze ensevelie sous les cendres de l'éruption du XVIe siècle av. J.-C., comparée à un Pompéi minoen."
+          "name": "Fira",
+          "wiki": "Fira",
+          "culture": "Capitale de Santorin, perchée au bord de la caldeira. On y trouve le quartier catholique et la cathédrale. Santorin compte 3,4 millions de touristes par an pour 15 500 habitants."
         },
         {
           "name": "Église Panagia Episkopi",
           "wiki": "Panagia Episkopi",
           "culture": "Église byzantine du centre de l'île, où l'on vient embrasser l'icône de la Vierge."
+        },
+        {
+          "name": "Akrotiri",
+          "wiki": "Akrotiri (prehistoric city)",
+          "culture": "Cité de l'âge du bronze ensevelie sous les cendres de l'éruption du XVIe siècle av. J.-C., comparée à un Pompéi minoen."
         }
       ],
       "stay": null,

@@ -265,11 +265,6 @@
       "route": "none",
       "stops": [
         {
-          "name": "Cala Llombards",
-          "wiki": "Cala Llombards",
-          "culture": "Très connue mais belle."
-        },
-        {
           "name": "Cala des Moro",
           "coords": [
             39.356,
@@ -294,6 +289,11 @@
             3.162
           ],
           "culture": "Petit port de plaisance avec des maisons."
+        },
+        {
+          "name": "Cala Llombards",
+          "wiki": "Cala Llombards",
+          "culture": "Très connue mais belle."
         }
       ],
       "stay": {

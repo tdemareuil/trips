@@ -70,12 +70,12 @@
       ],
       "stops": [
         {
-          "name": "Finca Pepe",
-          "culture": "Ferme traditionnelle de Betancuria qui élève des chèvres majoreras et propose des dégustations de fromage, à l'ouverture à 9h30."
-        },
-        {
           "name": "Route FV30 et Arco de las Peñitas",
           "culture": "Très belle route entre Pajara et Antigua, avec l'Arco de las Peñitas et plusieurs miradors, comme celui de las Peñitas et celui del Risco de Las Peñas."
+        },
+        {
+          "name": "Finca Pepe",
+          "culture": "Ferme traditionnelle de Betancuria qui élève des chèvres majoreras et propose des dégustations de fromage, à l'ouverture à 9h30."
         },
         {
           "name": "Plage d'Ajuy",
@@ -87,30 +87,30 @@
           "culture": "Village de pêcheurs de la côte ouest, avec une plage de sable noir et des grottes marines creusées dans les plus anciennes falaises des Canaries."
         },
         {
-          "name": "Morro Jable",
-          "wiki": "Morro Jable",
-          "culture": "Station balnéaire du sud de l'île, au bout de la péninsule de Jandía, dotée d'une grande plage de sable fin."
-        },
-        {
           "name": "Plage de Cofete",
           "wiki": "Cofete",
           "culture": "Plage sauvage de plus de 10 km sur la côte nord de la péninsule de Jandía, sous des montagnes de plus de 800 m. La mystérieuse villa Winter la domine."
         },
         {
-          "name": "Sentier de Gran Valle",
-          "culture": "Sentier de 2 h 30 entre le mirador de Gran Valle et la plage de Cofete."
-        },
-        {
-          "name": "Grotte de Los Ojos",
-          "culture": "Grotte secrète, tout au bout de la péninsule de Jandía."
+          "name": "Plage de la Pared",
+          "culture": "Spot de surf connu, avec une belle route pour y aller, mais moins belle que Sotavento."
         },
         {
           "name": "Plage de Sotavento",
           "culture": "Longue plage du sud-est de la péninsule de Jandía, où la marée basse dévoile des bancs de sable blanc et un lagon."
         },
         {
-          "name": "Plage de la Pared",
-          "culture": "Spot de surf connu, avec une belle route pour y aller, mais moins belle que Sotavento."
+          "name": "Grotte de Los Ojos",
+          "culture": "Grotte secrète, tout au bout de la péninsule de Jandía."
+        },
+        {
+          "name": "Sentier de Gran Valle",
+          "culture": "Sentier de 2 h 30 entre le mirador de Gran Valle et la plage de Cofete."
+        },
+        {
+          "name": "Morro Jable",
+          "wiki": "Morro Jable",
+          "culture": "Station balnéaire du sud de l'île, au bout de la péninsule de Jandía, dotée d'une grande plage de sable fin."
         }
       ],
       "stay": {
@@ -165,6 +165,11 @@
           "culture": "Moulin-musée avec jardin de cactus, qui fait déguster quatre fromages avec un petit verre d'alcool de miel."
         },
         {
+          "name": "Caleta de Fuste",
+          "wiki": "Caleta de Fuste",
+          "culture": "Station de la côte est, à 10 minutes de l'aéroport, dont les piscines naturelles se visitent à marée basse."
+        },
+        {
           "name": "La Oliva",
           "wiki": "La Oliva",
           "culture": "Capitale historique de l'île, ancien siège du pouvoir militaire et administratif. Un marché des traditions s'y tient le mardi."
@@ -184,21 +189,16 @@
           "culture": "Ancien village de pêcheurs de la côte nord-ouest, connu pour ses plages de sable blanc, ses lagons calmes et sa tour fortifiée du XVIIIe siècle, le castillo de El Tostón."
         },
         {
-          "name": "Playa de la Concha",
-          "culture": "Plage de sable blanc abritée d'El Cotillo, aux eaux calmes."
+          "name": "Aguas Verdes",
+          "culture": "Piscines naturelles au sud d'El Cotillo, calmes à marée basse."
         },
         {
           "name": "Castillo de El Tostón",
           "culture": "Tour de défense du XVIIIe siècle, à côté d'un phare, d'où l'on admire un magnifique coucher de soleil."
         },
         {
-          "name": "Aguas Verdes",
-          "culture": "Piscines naturelles au sud d'El Cotillo, calmes à marée basse."
-        },
-        {
-          "name": "Caleta de Fuste",
-          "wiki": "Caleta de Fuste",
-          "culture": "Station de la côte est, à 10 minutes de l'aéroport, dont les piscines naturelles se visitent à marée basse."
+          "name": "Playa de la Concha",
+          "culture": "Plage de sable blanc abritée d'El Cotillo, aux eaux calmes."
         }
       ],
       "stay": {
@@ -401,6 +401,10 @@
       ],
       "stops": [
         {
+          "name": "Puerto del Carmen",
+          "wiki": "Puerto del Carmen"
+        },
+        {
           "name": "Vignobles de La Geria",
           "photo": "File:Vineyards La Geria IMGP1903.jpg",
           "coords": [
@@ -424,18 +428,14 @@
           "culture": "Volcan d'environ 600 m dont les coulées ont formé les tunnels de lave de la Cueva de los Verdes."
         },
         {
-          "name": "Cueva de los Verdes",
-          "wiki": "Cueva de los Verdes",
-          "culture": "Tunnel de lave d'environ 6 km formé par l'éruption du volcan La Corona. Une partie se visite, et des concerts y ont parfois lieu."
-        },
-        {
           "name": "Jameos del Agua",
           "wiki": "Jameos del Agua",
           "culture": "Tunnel de lave effondré, aménagé par César Manrique, avec un lac souterrain où vivent de minuscules crabes albinos."
         },
         {
-          "name": "Puerto del Carmen",
-          "wiki": "Puerto del Carmen"
+          "name": "Cueva de los Verdes",
+          "wiki": "Cueva de los Verdes",
+          "culture": "Tunnel de lave d'environ 6 km formé par l'éruption du volcan La Corona. Une partie se visite, et des concerts y ont parfois lieu."
         }
       ],
       "stay": {
@@ -620,14 +620,14 @@
       ],
       "stops": [
         {
-          "name": "Chocolatería San Ginés",
-          "wiki": "Chocolatería San Ginés",
-          "culture": "Chocolatería ouverte en 1894, connue pour ses churros avec un chocolat chaud très épais, servis de jour comme de nuit."
-        },
-        {
           "name": "Puerta del Sol",
           "wiki": "Puerta del Sol",
           "culture": "Place centrale de Madrid, point zéro des routes d'Espagne et lieu du réveillon des douze raisins."
+        },
+        {
+          "name": "Chocolatería San Ginés",
+          "wiki": "Chocolatería San Ginés",
+          "culture": "Chocolatería ouverte en 1894, connue pour ses churros avec un chocolat chaud très épais, servis de jour comme de nuit."
         },
         {
           "name": "Plaza Mayor",
@@ -635,9 +635,9 @@
           "culture": "Grande place fermée du XVIIe siècle, achevée en 1619 sous Philippe III, bordée d'arcades et de balcons."
         },
         {
-          "name": "Palais Royal",
-          "wiki": "Royal Palace of Madrid",
-          "culture": "L'un des plus grands palais royaux d'Europe par sa superficie, avec plus de 3 000 salles."
+          "name": "Mercado de San Miguel",
+          "wiki": "Mercado de San Miguel",
+          "culture": "Marché couvert en fer et en verre de 1916, devenu une halle gourmande."
         },
         {
           "name": "Cathédrale de l'Almudena",
@@ -645,39 +645,53 @@
           "culture": "Cathédrale de Madrid, commencée en 1883 et consacrée en 1993 par Jean-Paul II."
         },
         {
-          "name": "Casa de Cisneros",
-          "culture": "Palais de la Renaissance du XVIe siècle, sur la Plaza de la Villa, relié à l'hôtel de ville."
+          "name": "Chueca",
+          "culture": "Quartier gay et branché de Madrid, autour de la Plaza de Chueca."
         },
         {
-          "name": "Palais de Santa Cruz",
-          "culture": "Palais baroque du XVIIe siècle, sur la Plaza de la Provincia, ancienne prison de cour puis siège de ministères."
-        },
-        {
-          "name": "Jardin du prince d'Anglona",
-          "culture": "Petit jardin secret du quartier de La Latina, caché derrière un palais."
-        },
-        {
-          "name": "Plaza de la Paja",
-          "culture": "Place médiévale du vieux Madrid, ancienne place du marché."
-        },
-        {
-          "name": "Plaza de los Carros"
+          "name": "Casa Pérez Villaamil"
         },
         {
           "name": "Plaza de Matute",
           "culture": "Petite place du Barrio de las Letras, dans le centre de Madrid."
         },
         {
-          "name": "Casa Pérez Villaamil"
+          "name": "Plaza de los Carros"
         },
         {
-          "name": "Chueca",
-          "culture": "Quartier gay et branché de Madrid, autour de la Plaza de Chueca."
+          "name": "Plaza de la Paja",
+          "culture": "Place médiévale du vieux Madrid, ancienne place du marché."
         },
         {
-          "name": "Mercado de San Miguel",
-          "wiki": "Mercado de San Miguel",
-          "culture": "Marché couvert en fer et en verre de 1916, devenu une halle gourmande."
+          "name": "Jardin du prince d'Anglona",
+          "culture": "Petit jardin secret du quartier de La Latina, caché derrière un palais."
+        },
+        {
+          "name": "Palais de Santa Cruz",
+          "culture": "Palais baroque du XVIIe siècle, sur la Plaza de la Provincia, ancienne prison de cour puis siège de ministères."
+        },
+        {
+          "name": "Casa de Cisneros",
+          "culture": "Palais de la Renaissance du XVIe siècle, sur la Plaza de la Villa, relié à l'hôtel de ville."
+        },
+        {
+          "name": "Palais Royal",
+          "wiki": "Royal Palace of Madrid",
+          "culture": "L'un des plus grands palais royaux d'Europe par sa superficie, avec plus de 3 000 salles."
+        },
+        {
+          "name": "Gran Vía",
+          "wiki": "Gran Vía (Madrid)",
+          "coords": [
+            40.42,
+            -3.705
+          ],
+          "culture": "Grande avenue ouverte au début du XXe siècle, bordée d'immeubles Art déco, surnommée le Broadway madrilène."
+        },
+        {
+          "name": "Musée Thyssen-Bornemisza",
+          "wiki": "Museo Thyssen-Bornemisza",
+          "culture": "Collection du baron Thyssen-Bornemisza, qui complète le Prado et le Reina Sofía avec sept siècles d'art."
         },
         {
           "name": "Musée du Prado",
@@ -690,16 +704,6 @@
           "culture": "Musée d'art moderne qui abrite Guernica, de Picasso, ainsi que des œuvres de Dalí."
         },
         {
-          "name": "Musée Thyssen-Bornemisza",
-          "wiki": "Museo Thyssen-Bornemisza",
-          "culture": "Collection du baron Thyssen-Bornemisza, qui complète le Prado et le Reina Sofía avec sept siècles d'art."
-        },
-        {
-          "name": "Parc du Retiro",
-          "wiki": "Buen Retiro Park",
-          "culture": "Grand parc d'environ 125 hectares, ancien jardin des rois, ouvert au public au XIXe siècle."
-        },
-        {
           "name": "Palacio de Cristal",
           "photo": "File:Palacio de Cristal - 01.jpg",
           "coords": [
@@ -709,13 +713,9 @@
           "culture": "Pavillon de verre et de métal de 1887, au bord d'un étang du parc du Retiro."
         },
         {
-          "name": "Gran Vía",
-          "wiki": "Gran Vía (Madrid)",
-          "coords": [
-            40.42,
-            -3.705
-          ],
-          "culture": "Grande avenue ouverte au début du XXe siècle, bordée d'immeubles Art déco, surnommée le Broadway madrilène."
+          "name": "Parc du Retiro",
+          "wiki": "Buen Retiro Park",
+          "culture": "Grand parc d'environ 125 hectares, ancien jardin des rois, ouvert au public au XIXe siècle."
         },
         {
           "name": "Quartier de Salamanca",
