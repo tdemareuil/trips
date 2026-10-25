@@ -174,16 +174,16 @@
             -17.11
           ],
           "culture": "Unanimement la plus belle plage de l'île : sable noir, piscine naturelle, cascade qui se jette sur la plage et falaises alentour.",
-          "photo": "File:Panoramicas de Seixal (1).jpg"
+          "photo": "File:Seixal in Porto Moniz, Madeira, 2023 May.jpg"
         },
         {
           "name": "Forêt de Fanal",
-          "wiki": "Fanal",
           "culture": "Plateau de lauriers tortueux couverts de mousses et de lichens, vestiges de la forêt laurifère primaire qui couvrait une grande partie de l'Europe ; souvent dans la brume.",
           "coords": [
             32.796,
             -17.137
-          ]
+          ],
+          "photo": "File:Fanal (Madeira, Portugal), Lorbeerwald -- 2025 -- 1532.jpg"
         },
         {
           "name": "Fête des fleurs de Funchal",
@@ -193,17 +193,17 @@
         {
           "name": "Mirador de la côte ouest",
           "coords": [
-            32.77,
-            -17.19
+            32.7464,
+            -17.1898
           ],
-          "culture": "L'un des nombreux miradors de la côte ouest, où l'on regarde le soleil se coucher sur l'Atlantique."
+          "culture": "Point de vue de la côte ouest, à l'hôtel Atrio (Estreito da Calheta), où l'on regarde le soleil se coucher sur l'Atlantique."
         }
       ],
       "stay": {
         "name": "Atrio",
         "coords": [
-          32.74,
-          -17.16
+          32.7464,
+          -17.1898
         ],
         "note": "Atrio, côte ouest (réservation en direct, arrivée annoncée à 14 h)"
       },

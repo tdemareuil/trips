@@ -274,12 +274,6 @@
           ]
         },
         {
-          "type": "image",
-          "src": "assets/photos/calanques/acces.png",
-          "alt": "Carte du début du parcours entre La Ciotat et Cassis",
-          "caption": "Carte du parcours entre La Ciotat et Cassis, avec les étapes A à L."
-        },
-        {
           "type": "heading",
           "text": "La Fontasse"
         },
