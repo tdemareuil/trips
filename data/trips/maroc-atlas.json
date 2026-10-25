@@ -3,7 +3,7 @@
   "title": "Maroc : Atlas et désert",
   "subtitle": "Quatre jours depuis Marrakech : Haut-Atlas, gorges du Dadès, Jbel Saghro, bivouac dans les dunes de Foum Tizza et vallée du Draa",
   "travelers": [
-    "Entre amis"
+    "En couple"
   ],
   "cover": "Aït Benhaddou",
   "days": [
@@ -52,7 +52,7 @@
       "parts": [
         {
           "label": "Matin",
-          "text": "Départ de l'aéroport vers 10 h ; passage par le col du Tizi n'Tichka."
+          "text": "Stan arrive à 9 h 35 : départ de l'aéroport vers 10 h ; passage par le col du Tizi n'Tichka."
         },
         {
           "label": "Midi",
@@ -301,7 +301,7 @@
     {
       "id": "marrakech",
       "title": "Marrakech : à faire et à manger",
-      "summary": "Visites, sorties dans l'Atlas et restaurants à Marrakech, avant ou après le circuit.",
+      "summary": "Visites, sorties dans l'Atlas et restaurants à Marrakech, avec Baudouin et Philou, avant ou après le circuit.",
       "blocks": [
         {
           "type": "heading",

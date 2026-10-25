@@ -1,0 +1,297 @@
+{
+  "id": "ciotat-marseille",
+  "title": "La Ciotat - Marseille",
+  "subtitle": "Deux jours de randonnée dans les calanques : de La Ciotat à Cassis, nuit à La Fontasse, puis En-Vau, Sugiton et Morgiou jusqu'à Marseille",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "File:Calanque dEn-Vau près de Marseille.jpg",
+  "days": [
+    {
+      "n": 1,
+      "title": "Samedi : de La Ciotat à Cassis, nuit à La Fontasse",
+      "summary": "Départ de La Ciotat, calanque du Mugel et sémaphore du Bec de l'Aigle, Route des Crêtes jusqu'à Cassis, glace au port, puis calanques de Port-Miou et de Port-Pin et nuit à La Fontasse.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "La Ciotat",
+          "photo": "File:La Ciotat Marina.jpg",
+          "coords": [
+            43.1745,
+            5.6054
+          ],
+          "culture": "Ville portuaire, avec l'Eden Théâtre, considéré comme le plus ancien cinéma du monde encore en activité."
+        },
+        {
+          "name": "Calanque du Mugel",
+          "coords": [
+            43.165,
+            5.615
+          ],
+          "culture": "Petite calanque aux portes de La Ciotat, dans le parc du Mugel, par laquelle commence la traversée."
+        },
+        {
+          "name": "Sémaphore du Bec de l'Aigle",
+          "coords": [
+            43.159,
+            5.604
+          ],
+          "culture": "Pointe rocheuse au sud de La Ciotat, surmontée d'un sémaphore, face à l'île Verte.",
+          "photo": "File:Bec de l Aigle.jpg"
+        },
+        {
+          "name": "Route des Crêtes",
+          "coords": [
+            43.202,
+            5.56
+          ],
+          "culture": "Route panoramique qui longe les falaises entre La Ciotat et Cassis ; le sentier la longe, avec des vues sur toute la côte.",
+          "photo": "File:Route des Crêtes from La Ciotat to Cassis.JPG"
+        },
+        {
+          "name": "Plage de l'Arène, Cassis",
+          "coords": [
+            43.215,
+            5.544
+          ],
+          "culture": "Plage de Cassis où l'on fait le pique-nique, juste avant le port."
+        },
+        {
+          "name": "Port de Cassis",
+          "culture": "Petit port de pêche connu pour ses restaurants, à l'arrivée de la Route des Crêtes.",
+          "photo": "File:Cassis harbour.jpg",
+          "coords": [
+            43.215,
+            5.538
+          ]
+        },
+        {
+          "name": "Calanque de Port-Miou",
+          "photo": "File:Port-Miou calanque 2.jpg",
+          "coords": [
+            43.21,
+            5.529
+          ],
+          "culture": "Calanque en forme de fjord, la plus proche de Cassis, ancienne zone d'extraction de pierre blanche."
+        },
+        {
+          "name": "Calanque de Port-Pin",
+          "coords": [
+            43.205,
+            5.511
+          ],
+          "culture": "Petite calanque du massif des Calanques, à l'est de Port-Miou, accessible à pied."
+        }
+      ],
+      "stay": {
+        "name": "La Fontasse, Cassis",
+        "coords": [
+          43.211,
+          5.498
+        ],
+        "note": "Hébergement réservé à La Fontasse (Cassis) le soir du 27 : dortoir, dîner à réserver. Possibilité de réserver des produits locaux pour cuisiner le soir (catalogue envoyé par mail une semaine avant l'arrivée)."
+      },
+      "parts": [
+        {
+          "label": "1",
+          "text": "Départ de La Ciotat (possibilité d'arriver en TER depuis Marseille, ce qui ajoute 30 min de marche entre la gare et le centre-ville de La Ciotat)."
+        },
+        {
+          "label": "2",
+          "text": "Passage par la calanque du Mugel, puis montée au sémaphore du Bec de l'Aigle."
+        },
+        {
+          "label": "3",
+          "text": "Marche le long de la Route des Crêtes."
+        },
+        {
+          "label": "4",
+          "text": "Descente jusqu'à la plage de l'Arène, à Cassis, pour le pique-nique."
+        },
+        {
+          "label": "5",
+          "text": "Glace au port de Cassis."
+        },
+        {
+          "label": "6",
+          "text": "Marche le long de la calanque de Port-Miou, jusqu'à la calanque de Port-Pin."
+        },
+        {
+          "label": "7",
+          "text": "Nuit à La Fontasse (dortoir et dîner à réserver)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Randonnée à pied : possibilité d'arriver en TER depuis Marseille, ce qui ajoute 30 min de marche entre la gare et le centre-ville de La Ciotat"
+        }
+      ],
+      "food": [
+        "Pique-nique à la plage de l'Arène, à Cassis.",
+        "Glace au port de Cassis.",
+        "Dîner à La Fontasse (à réserver avec le dortoir)."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Dimanche : En-Vau, Sugiton, Morgiou et retour",
+      "summary": "Départ tôt pour être les premiers à la calanque d'En-Vau au lever du soleil, GR 98 jusqu'au col du Devenson, pique-nique à Sugiton, chemin côtier jusqu'à Morgiou, bus depuis Luminy et retour à Paris.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Calanque d'En-Vau",
+          "photo": "File:Calanque dEn-Vau près de Marseille.jpg",
+          "coords": [
+            43.209,
+            5.485
+          ],
+          "culture": "Considérée comme l'une des plus belles calanques du massif, avec sa plage de galets encaissée entre deux falaises."
+        },
+        {
+          "name": "GR 98 et col du Devenson",
+          "coords": [
+            43.215,
+            5.435
+          ],
+          "culture": "Le GR 98 monte de la calanque d'En-Vau jusqu'au col du Devenson, au-dessus de la calanque de Sugiton."
+        },
+        {
+          "name": "Calanque de Sugiton",
+          "photo": "File:Calanque de Sugiton1.jpg",
+          "coords": [
+            43.212,
+            5.451
+          ],
+          "culture": "Calanque du nord du massif, connue pour son point de vue et sa petite plage de galets, à l'accès réglementé l'été."
+        },
+        {
+          "name": "Calanque de Morgiou",
+          "photo": "File:Marseille Calanque Morgiou 02.jpg",
+          "coords": [
+            43.213,
+            5.439
+          ],
+          "culture": "Petit port de pêche niché au fond d'une calanque, à l'est de Marseille."
+        },
+        {
+          "name": "Arrêt de bus Luminy Parc national des Calanques",
+          "coords": [
+            43.229,
+            5.443
+          ],
+          "culture": "Arrêt de bus (B1, 24, 21J) à Luminy, d'où l'on rentre vers Marseille."
+        },
+        {
+          "name": "Gare Saint-Charles",
+          "coords": [
+            43.3028,
+            5.3806
+          ],
+          "culture": "Gare principale de Marseille, d'où l'on repart pour Paris."
+        }
+      ],
+      "stay": null,
+      "parts": [
+        {
+          "label": "1",
+          "text": "Départ tôt pour être les premiers à la calanque d'En-Vau au lever du soleil."
+        },
+        {
+          "label": "2",
+          "text": "Rebrousser chemin quelques minutes, puis prendre à gauche en direction du GR 98 (attention : ne pas essayer de couper en montant à gauche tout de suite en repartant de la plage, ça ne passe pas)."
+        },
+        {
+          "label": "3",
+          "text": "Suivre le GR 98 jusqu'au col du Devenson, puis continuer encore jusqu'à être au-dessus de la calanque de Sugiton."
+        },
+        {
+          "label": "4",
+          "text": "Bonne descente, puis pique-nique à Sugiton."
+        },
+        {
+          "label": "5",
+          "text": "Suivre le chemin côtier jusqu'à la calanque de Morgiou (passages un peu galère avec de gros sacs, mais pas de danger, et mieux que de repasser par le haut)."
+        },
+        {
+          "label": "6",
+          "text": "Monter de Morgiou jusqu'à l'arrêt de bus à Luminy."
+        },
+        {
+          "label": "7",
+          "text": "Délicieux Carl's Jr. à la gare Saint-Charles, puis retour à Paris."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Randonnée à pied"
+        },
+        {
+          "mode": "bus",
+          "text": "Bus B1, 24 ou 21J depuis l'arrêt « Luminy Parc national des Calanques »"
+        },
+        {
+          "mode": "train",
+          "text": "Retour à Paris depuis la gare Saint-Charles"
+        }
+      ],
+      "food": [
+        "Pique-nique à Sugiton.",
+        "Carl's Jr. à la gare Saint-Charles, avant de rentrer à Paris."
+      ],
+      "notes": [
+        "Sugiton : en juin, juillet et août, il faut payer et réserver à l'avance."
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "parcours",
+      "title": "Le parcours",
+      "summary": "Notre tracé de 37,5 km sur deux jours, avec le profil d'altitude, la carte d'accès et les liens utiles.",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/photos/calanques/parcours.png",
+          "alt": "Tracé de la randonnée La Ciotat - Marseille : 37,51 km, 1 395 m de dénivelé positif, altitude maximale 397 m, avec le profil d'altitude",
+          "caption": "Notre parcours : 37,51 km, 1 395 m de dénivelé positif et 1 263 m négatif, altitude maximale de 397 m (cliquer pour l'agrandir)."
+        },
+        {
+          "type": "text",
+          "text": "Le tracé complet est sur [OpenRunner](https://www.openrunner.com/route-details/17840723)."
+        },
+        {
+          "type": "heading",
+          "text": "Autres infos sur le parcours"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Départ : gare de La Ciotat. Arrivée : arrêt de bus « Luminy Parc national des Calanques » (B1, 24, 21J).",
+            "Déroulé du trajet sur le site du parc national, dans le sens Marseille - La Ciotat : [la traversée des calanques en 3 randonnées](http://www.calanques-parcnational.fr/fr/la-traversee-des-calanques-en-3-randonnees-marseille-cassis-la-ciotat-balade-visiter-a-pied).",
+            "Tout le trajet est aussi sur [Helloways](https://www.helloways.com/hike/la-grande-traversee-des-calanques-la-ciotat) : payant (9,90 €), mais il a l'air assez détaillé. Pas trouvé sur Visorando."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/calanques/acces.png",
+          "alt": "Carte du début du parcours entre La Ciotat et Cassis",
+          "caption": "Carte du parcours entre La Ciotat et Cassis, avec les étapes A à L."
+        },
+        {
+          "type": "heading",
+          "text": "La Fontasse"
+        },
+        {
+          "type": "text",
+          "text": "Hébergement réservé à La Fontasse (Cassis) le soir du 27, en dortoir avec dîner. Possibilité de réserver des produits locaux pour faire la cuisine le soir (catalogue envoyé par mail une semaine avant l'arrivée). [Fiche de l'auberge sur Esprit parc national](https://www.espritparcnational.com/preparer-sejour/hebergements/hebergements/auberge-jeunesse-type-refuge-cassis-fontasse-29280)."
+        }
+      ]
+    }
+  ],
+  "start": "2023-05-27",
+  "done": true,
+  "season": "Week-ends en France",
+  "kind": "short"
+}

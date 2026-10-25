@@ -2,8 +2,10 @@
   "id": "madrid",
   "title": "Madrid",
   "subtitle": "Quatre jours de tapas, de marchés et de quartiers : Lavapiés, Chueca, La Latina, Salamanca, Retiro et Malasaña",
-  "travelers": [],
-  "cover": "Madrid",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "File:Mercado de San Miguel - Madrid 01.jpg",
   "days": [
     {
       "n": 1,
@@ -48,7 +50,7 @@
           40.412,
           -3.703
         ],
-        "note": "Airbnb"
+        "note": "Airbnb, 21 calle de Ministriles"
       },
       "parts": [
         {
@@ -124,7 +126,7 @@
           40.412,
           -3.703
         ],
-        "note": "Airbnb"
+        "note": "Airbnb, 21 calle de Ministriles"
       },
       "parts": [
         {
@@ -197,7 +199,7 @@
           40.412,
           -3.703
         ],
-        "note": "Airbnb"
+        "note": "Airbnb, 21 calle de Ministriles"
       },
       "parts": [
         {

@@ -2,7 +2,9 @@
   "id": "pays-basque",
   "title": "Pays basque",
   "subtitle": "Guide du Pays basque : gâteau basque et pintxos, villages de Saint-Jean-de-Luz à Bayonne, La Rhune, corniche et plages",
-  "travelers": [],
+  "travelers": [
+    "En couple"
+  ],
   "cover": "Saint-Jean-de-Luz",
   "days": [],
   "guides": [
