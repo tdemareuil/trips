@@ -1,0 +1,1306 @@
+{
+  "id": "tanzania-seychelles",
+  "title": "Tanzanie, Kenya et Seychelles",
+  "subtitle": "Safaris du Kilimandjaro au Masai Mara, puis îles des Seychelles ; île Maurice ou Zanzibar en alternative",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Serengeti National Park",
+  "days": [
+    {
+      "n": 1,
+      "title": "Arrivée à Arusha",
+      "summary": "Vol international jusqu'à Arusha (8 à 12 h), repos après le vol, puis découverte de la ville : marché maasaï, artisanat local et cascade de Napuru.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Arusha",
+          "wiki": "Arusha",
+          "culture": "Capitale touristique du nord de la Tanzanie, point de départ de la plupart des safaris, au pied du mont Meru."
+        },
+        {
+          "name": "Marché maasaï d'Arusha",
+          "coords": [
+            -3.3731,
+            36.683
+          ],
+          "culture": "Marché d'artisanat où les Maasaï vendent bijoux de perles et tissus.",
+          "photo": "File:WikiAru915.jpg"
+        },
+        {
+          "name": "Cascade de Napuru",
+          "coords": [
+            -3.2517,
+            36.8
+          ],
+          "culture": "Cascade cachée au bout d'une courte randonnée dans la végétation tropicale.",
+          "photo": "File:Napuru waterfalls.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Arusha",
+        "coords": [
+          -3.3869,
+          36.683
+        ],
+        "note": "Hôtel à Arusha",
+        "options": [
+          "Gran Melia Arusha"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Repos et détente après le vol."
+        },
+        {
+          "label": "Découverte",
+          "text": "Marché maasaï, artisanat local et immersion culturelle ; cascade de Napuru, courte randonnée à travers la jungle."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol international jusqu'à Arusha (8 à 12 h)"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Mont Kilimandjaro",
+      "summary": "Randonnée au pied du Kilimandjaro et exploration des villages chagga, avec une vue spectaculaire sur le sommet.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Mont Kilimandjaro",
+          "wiki": "Mount Kilimanjaro",
+          "culture": "Plus haut sommet d'Afrique, à 5 895 m, volcan isolé qui domine les plaines."
+        },
+        {
+          "name": "Moshi",
+          "wiki": "Moshi, Tanzania",
+          "culture": "Ville au pied du Kilimandjaro, base des ascensions."
+        },
+        {
+          "name": "Villages chagga",
+          "coords": [
+            -3.243,
+            37.246
+          ],
+          "culture": "Les Chagga, qui vivent sur les pentes du Kilimandjaro, sont réputés pour leurs cultures de café et de banane."
+        },
+        {
+          "name": "Village maasaï d'Engare Nanyuki",
+          "coords": [
+            -3.192,
+            37.18
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Lodge à Moshi",
+        "coords": [
+          -3.3349,
+          37.3407
+        ],
+        "note": "Lodge à Moshi",
+        "options": [
+          "Aishi Machame Hotel",
+          "Original Maasai Lodge (luxueux)"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Randonnée au pied du Mont Kilimandjaro, exploration des villages chagga : forêts tropicales et vue sur le sommet."
+        },
+        {
+          "label": "À voir",
+          "text": "Village maasaï d'Engare Nanyuki."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture (5 à 6 h)"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Parc d'Amboseli (Kenya)",
+      "summary": "Passage de la frontière, puis safari et montgolfière face au Kilimandjaro dans le parc d'Amboseli.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Parc national d'Amboseli",
+          "culture": "Célèbre pour ses grands troupeaux d'éléphants qui évoluent avec le Kilimandjaro en toile de fond.",
+          "photo": "File:Amboseli National Park and Mt. Kilimanjaro.jpg",
+          "coords": [
+            -2.65,
+            37.26
+          ]
+        },
+        {
+          "name": "Montgolfière d'Amboseli",
+          "coords": [
+            -2.6527,
+            37.2606
+          ],
+          "culture": "Vol au lever du soleil au-dessus de la savane, avec vue sur le Kilimandjaro."
+        },
+        {
+          "name": "Frontière de Loitokitok",
+          "photo": "File:Loitokitok1.jpg",
+          "coords": [
+            -2.9167,
+            37.5167
+          ]
+        },
+        {
+          "name": "Frontière de Namanga",
+          "photo": "File:Namanga.jpg",
+          "coords": [
+            -2.543,
+            36.79
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Lodge dans le parc d'Amboseli",
+        "coords": [
+          -2.6527,
+          37.2606
+        ],
+        "note": "Lodge dans le parc d'Amboseli",
+        "options": [
+          "Tulia Amboseli Safari Camp"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Route",
+          "text": "Passage de la frontière à Loitokitok, le plus proche, ou à Namanga (il reste alors 1 h 30 de route)."
+        },
+        {
+          "label": "Safari",
+          "text": "Safari et montgolfière avec vue sur le Kilimandjaro."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Passage de la frontière à Loitokitok (le plus proche) ou à Namanga (il reste 1 h 30 de route)"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Arusha → parc de Tarangire",
+      "summary": "Safari d'après-midi dans le parc de Tarangire, pour ses éléphants et ses baobabs, avec un passage par Mto Wa Mbu.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Parc national de Tarangire",
+          "wiki": "Tarangire National Park",
+          "culture": "Réputé pour ses grands troupeaux d'éléphants et ses baobabs, parmi les plus denses d'Afrique."
+        },
+        {
+          "name": "Mto Wa Mbu",
+          "culture": "Village multiculturel au bord du lac Manyara, connu pour son marché et sa bière de banane.",
+          "photo": "File:Légumes et friture Mto Wa Mbu.jpg",
+          "coords": [
+            -3.35,
+            35.8667
+          ]
+        },
+        {
+          "name": "Baobabs de Tarangire",
+          "coords": [
+            -3.85,
+            36.0
+          ],
+          "culture": "Le baobab stocke l'eau dans son tronc et peut vivre plus d'un millénaire.",
+          "photo": "File:Baobab (Adansonia digitata), parque nacional de Tarangire, Tanzania, 2024-05-24, DD 78.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Lodge à Tarangire",
+        "coords": [
+          -3.944,
+          35.999
+        ],
+        "note": "Lodge à Tarangire",
+        "options": [
+          "Maramboi Tented Lodge",
+          "Tarangire Safari Lodge",
+          "Sangaiwe Tented Lodge"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Après-midi",
+          "text": "Safari : grands troupeaux d'éléphants, plus grande concentration de baobabs du monde, lions."
+        },
+        {
+          "label": "À voir",
+          "text": "Mto Wa Mbu : « Mbege », la bière de banane traditionnelle fabriquée par l'ethnie chagga."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture (2 h)"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Tarangire → lac Natron",
+      "summary": "Route vers le lac Natron : flamants roses, paysages volcaniques et baignade dans les cascades d'Engare Sero.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Lac Natron",
+          "wiki": "Lake Natron",
+          "culture": "Lac alcalin très salé, lieu de reproduction principal des flamants nains d'Afrique de l'Est."
+        },
+        {
+          "name": "Cascades d'Engare Sero",
+          "coords": [
+            -2.578,
+            36.051
+          ],
+          "culture": "Gorge verdoyante et cascades où l'on se baigne, accessible avec un guide maasaï.",
+          "photo": "File:Engare Sero River Waterfall 25 images 1887 1913.jpg"
+        },
+        {
+          "name": "Flamants roses du lac Natron",
+          "coords": [
+            -2.4,
+            36.0
+          ],
+          "photo": "File:Flamingos at Lake Natron (9) (28551601446).jpg"
+        }
+      ],
+      "stay": {
+        "name": "Lodge au lac Natron",
+        "coords": [
+          -2.421,
+          36.036
+        ],
+        "note": "Lodge au lac Natron",
+        "options": [
+          "Natron Tented Lodge"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Randonnée et baignade dans les cascades d'Engare Sero."
+        },
+        {
+          "label": "Rencontre",
+          "text": "Interaction avec les Maasaï locaux : flamants roses, paysages volcaniques spectaculaires."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture (3 à 4 h)"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Volcan Ol Doinyo Lengai",
+      "summary": "Ascension du volcan sacré des Maasaï, de nuit (4 à 6 h) ou en exploration de jour, et rencontre avec les Maasaï locaux.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Ol Doinyo Lengai",
+          "wiki": "Ol Doinyo Lengai",
+          "culture": "« Montagne de Dieu » en maa, seul volcan actif au monde à émettre de la natrocarbonatite, une lave pauvre en silice et très fluide."
+        }
+      ],
+      "stay": {
+        "name": "Lodge au lac Natron",
+        "coords": [
+          -2.421,
+          36.036
+        ],
+        "note": "Lodge au lac Natron"
+      },
+      "parts": [
+        {
+          "label": "Randonnée",
+          "text": "Randonnée sur le volcan sacré, rencontre avec les Maasaï locaux."
+        },
+        {
+          "label": "À savoir",
+          "text": "Géologie unique, vue imprenable."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Ascension nocturne (4 à 6 h) ou exploration de jour"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Ol Doinyo Lengai → cratère du Ngorongoro",
+      "summary": "Route vers le cratère du Ngorongoro et safari toute la journée dans le cratère : Big 5 et rhinocéros noirs.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Cratère du Ngorongoro",
+          "wiki": "Ngorongoro Conservation Area",
+          "culture": "Immense caldeira d'environ 260 km², inscrite à l'UNESCO, qui abrite une forte densité d'animaux."
+        },
+        {
+          "name": "Rhinocéros noirs du Ngorongoro",
+          "coords": [
+            -3.17,
+            35.58
+          ],
+          "photo": "File:Rhinoceros, Ngorongoro (2015).jpg"
+        }
+      ],
+      "stay": {
+        "name": "Lodge près du cratère",
+        "coords": [
+          -3.202,
+          35.571
+        ],
+        "note": "Lodge près du cratère",
+        "options": [
+          "Ngorongoro Wildlife Lodge",
+          "Gilala Hai 360 Safari Lodge"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Safari dans le cratère toute la journée."
+        },
+        {
+          "label": "À voir",
+          "text": "Vue spectaculaire, observation des Big 5, rhinocéros noirs."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture (2 h)"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Parc du Serengeti",
+      "summary": "Safari au lever du soleil dans le Serengeti : grande migration, grands félins, plaines et kopjes ; villages traditionnels autour du lac Eyasi.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Parc national du Serengeti",
+          "wiki": "Serengeti National Park",
+          "culture": "Son nom vient du maa « siringet », la plaine sans fin. Il accueille la grande migration de plus d'un million de gnous."
+        },
+        {
+          "name": "Kopjes du Serengeti",
+          "wiki": "Kopje",
+          "culture": "Îlots rocheux granitiques où les lions aiment se poster."
+        },
+        {
+          "name": "Lac Eyasi",
+          "wiki": "Lake Eyasi",
+          "culture": "Lac salé où vivent les Hadzabe, chasseurs-cueilleurs, et les Datoga, forgerons."
+        },
+        {
+          "name": "Montgolfière du Serengeti",
+          "coords": [
+            -2.3333,
+            34.8333
+          ],
+          "photo": "File:Serengeti Balloon.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Camp ou lodge dans le Serengeti",
+        "coords": [
+          -2.3333,
+          34.8333
+        ],
+        "note": "Hébergement en tente ou en lodge",
+        "options": [
+          "Kati Kati Tented Camp",
+          "The Whisper",
+          "Lake Ndutu Luxury Tented Lodge"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Safari",
+          "text": "Lever du soleil, exploration des vastes plaines, villages traditionnels."
+        },
+        {
+          "label": "À voir",
+          "text": "Grande migration des gnous (selon la saison), lions, éléphants, guépards, oiseaux ; paysages à couper le souffle ; balloon safaris ; kopjes, ces îlots de pierre où se postent les lions."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture (2 h) ; transfert aérien possible depuis l'aéroport du Serengeti"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Serengeti, deuxième jour",
+      "summary": "Journée libre dans le Serengeti.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Parc national du Serengeti",
+          "wiki": "Serengeti National Park"
+        }
+      ],
+      "stay": {
+        "name": "Camp ou lodge dans le Serengeti",
+        "coords": [
+          -2.3333,
+          34.8333
+        ],
+        "note": "Même hébergement"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Deuxième jour de safari dans le parc."
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "title": "Serengeti → Masai Mara",
+      "summary": "Passage de la frontière à Isebania (eVisa, shillings, 1 à 2 h), puis safari l'après-midi dans le Masai Mara.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Réserve nationale du Masai Mara",
+          "wiki": "Maasai Mara",
+          "culture": "Prolongement kenyan du Serengeti, célèbre pour la traversée de la rivière Mara par les gnous."
+        },
+        {
+          "name": "Frontière d'Isebania",
+          "photo": "File:Isebania-Sirari-border.jpg",
+          "coords": [
+            -1.25,
+            34.4833
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Camp dans le Masai Mara",
+        "coords": [
+          -1.4061,
+          35.0148
+        ],
+        "note": "Camp dans le Masai Mara",
+        "options": [
+          "Basecamp Explorer",
+          "Zebra River Camp"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Après-midi",
+          "text": "Safari dans le Masai Mara : faune exceptionnelle, migration des gnous (juillet à septembre)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture, passage de la frontière à Isebania : prévoir eVisa, shillings et 1 à 2 h"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "title": "Masai Mara",
+      "summary": "Safari matinal et d'après-midi, rencontres avec les Maasaï, grands prédateurs et traversée de la rivière Mara.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Réserve nationale du Masai Mara",
+          "wiki": "Maasai Mara"
+        },
+        {
+          "name": "Rivière Mara",
+          "wiki": "Mara River",
+          "culture": "Les gnous la traversent en juillet-septembre, au milieu des crocodiles."
+        }
+      ],
+      "stay": {
+        "name": "Camp dans le Masai Mara",
+        "coords": [
+          -1.4061,
+          35.0148
+        ],
+        "note": "Même camp"
+      },
+      "parts": [
+        {
+          "label": "Safari",
+          "text": "Safari matinal et d'après-midi, rencontres avec les Maasaï."
+        },
+        {
+          "label": "À voir",
+          "text": "Guépards, lions, observation des grands prédateurs, traversée de la rivière Mara (juillet à septembre)."
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "title": "Départ vers les îles",
+      "summary": "Vol retour depuis la savane (aéroport du Serengeti) ou voiture jusqu'à Arusha ou Nairobi, puis vol vers les îles.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Aéroport du Serengeti",
+          "wiki": "Seronera Airstrip",
+          "coords": [
+            -2.458,
+            34.813
+          ]
+        },
+        {
+          "name": "Nairobi",
+          "wiki": "Nairobi"
+        }
+      ],
+      "stay": null,
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol depuis la savane (aéroport du Serengeti), ou voiture jusqu'à Arusha ou Nairobi"
+        }
+      ],
+      "ideas": [
+        {
+          "label": "Variante : autres parcs",
+          "text": "Voir le guide « Autres parcs du Kenya et de Tanzanie » si la semaine est trop courte."
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "title": "Arrivée à Mahé",
+      "summary": "Installation à l'hôtel, détente sur la plage de Beau Vallon, dîner en bord de mer et points panoramiques comme le Missions Lodge Viewpoint.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Mahé",
+          "wiki": "Mahé, Seychelles",
+          "culture": "Île principale de l'archipel, où se trouvent la capitale Victoria et l'aéroport."
+        },
+        {
+          "name": "Plage de Beau Vallon",
+          "culture": "Plus grande plage de Mahé, très animée en soirée.",
+          "photo": "File:Beau Vallon beach Mahe Seychelles.jpg",
+          "coords": [
+            -4.618,
+            55.429
+          ]
+        },
+        {
+          "name": "Missions Lodge Viewpoint",
+          "coords": [
+            -4.636,
+            55.429
+          ],
+          "culture": "Ancien site d'une école pour enfants d'esclaves libérés, avec un belvédère sur les montagnes."
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Beau Vallon, Mahé",
+        "coords": [
+          -4.618,
+          55.429
+        ],
+        "note": "Hôtel à Beau Vallon"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Installation à l'hôtel, détente sur la plage de Beau Vallon, dîner en bord de mer."
+        },
+        {
+          "label": "À voir",
+          "text": "Points panoramiques comme le Missions Lodge Viewpoint."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "title": "Mahé",
+      "summary": "Randonnée au Morne Seychellois, marché de Victoria, jardin botanique et plages sauvages du Sud.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Morne Seychellois",
+          "wiki": "Morne Seychellois National Park",
+          "culture": "Plus haut sommet des Seychelles, à 905 m, au cœur d'un parc national."
+        },
+        {
+          "name": "Marché de Victoria",
+          "wiki": "Victoria, Seychelles"
+        },
+        {
+          "name": "Jardin botanique de Victoria",
+          "wiki": "Victoria Botanical Gardens"
+        },
+        {
+          "name": "Anse Intendance",
+          "wiki": "Anse Intendance"
+        },
+        {
+          "name": "Anse Takamaka",
+          "photo": "File:Anse Takamaka-Mahé-Seychelles.jpg",
+          "coords": [
+            -4.77,
+            55.455
+          ]
+        },
+        {
+          "name": "Anse Major",
+          "photo": "File:Anse Major 2.jpg",
+          "coords": [
+            -4.599,
+            55.401
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Beau Vallon, Mahé",
+        "coords": [
+          -4.618,
+          55.429
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Randonnée au Morne Seychellois, visite du marché de Victoria et du jardin botanique."
+        },
+        {
+          "label": "Plages",
+          "text": "Plages sauvages du Sud : Anse Intendance, Anse Takamaka ; plages isolées comme Anse Major."
+        },
+        {
+          "label": "Déjeuner",
+          "text": "Dégustation de cuisine créole locale dans une plantation."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture de location"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "title": "Mahé → Praslin",
+      "summary": "Ferry vers Praslin : vallée de Mai et ses cocos de mer, puis détente à Anse Lazio ou snorkeling à Anse Georgette.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Praslin",
+          "wiki": "Praslin"
+        },
+        {
+          "name": "Vallée de Mai",
+          "wiki": "Vallée de Mai Nature Reserve",
+          "culture": "Réserve inscrite à l'UNESCO, où pousse le coco de mer, dont la noix est la plus grosse graine du monde."
+        },
+        {
+          "name": "Anse Lazio",
+          "wiki": "Anse Lazio"
+        },
+        {
+          "name": "Anse Georgette",
+          "wiki": "Anse Georgette"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Côte d'Or, Praslin",
+        "coords": [
+          -4.314,
+          55.733
+        ],
+        "note": "Hôtel à Côte d'Or"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Découverte de la vallée de Mai, randonnée au cœur des cocos de mer."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Détente à Anse Lazio ou snorkeling à Anse Georgette."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry (1 h)"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "title": "Praslin : Curieuse et îlot Saint-Pierre",
+      "summary": "Excursion à l'île Curieuse et ses tortues géantes, snorkeling autour de l'îlot Saint-Pierre et barbecue sur la plage.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Île Curieuse",
+          "wiki": "Curieuse"
+        },
+        {
+          "name": "Îlot Saint-Pierre",
+          "photo": "File:Islet Saint Pierre near Praslin Seychelles.JPG",
+          "coords": [
+            -4.313,
+            55.757
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Côte d'Or, Praslin",
+        "coords": [
+          -4.314,
+          55.733
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Visite de l'île Curieuse avec ses tortues géantes, snorkeling autour de l'îlot Saint-Pierre, barbecue sur la plage."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Bateau (excursion)"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "title": "Praslin",
+      "summary": "Journée farniente ou snorkeling, criques cachées en paddle ou en kayak, Côte d'Or, Anse Volbert et parc marin de Curieuse.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Anse Lazio",
+          "wiki": "Anse Lazio"
+        },
+        {
+          "name": "Côte d'Or",
+          "photo": "File:Cote D'Or Beach - Anse Volbert - Praslin - Seychelles.jpg",
+          "coords": [
+            -4.314,
+            55.733
+          ]
+        },
+        {
+          "name": "Anse Volbert",
+          "photo": "File:Anse Volbert rocks Praslin.jpg",
+          "coords": [
+            -4.318,
+            55.74
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Côte d'Or, Praslin",
+        "coords": [
+          -4.314,
+          55.733
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Farniente ou snorkeling sur Anse Lazio, criques cachées en paddle ou en kayak."
+        },
+        {
+          "label": "À voir",
+          "text": "Exploration de Côte d'Or et d'Anse Volbert, snorkeling ou kayak au parc marin de Curieuse, barbecue sur la plage."
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "title": "Praslin → La Digue",
+      "summary": "Ferry vers La Digue, balade à vélo vers Anse Source d'Argent et Grand Anse, puis L'Union Estate et ses plantations.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "La Digue",
+          "wiki": "La Digue"
+        },
+        {
+          "name": "Anse Source d'Argent",
+          "wiki": "Anse Source d'Argent",
+          "culture": "Souvent citée parmi les plages les plus photographiées du monde, avec ses rochers de granite."
+        },
+        {
+          "name": "Grand Anse (La Digue)",
+          "photo": "File:Grand Anse-La Digue-Seychellen.jpg",
+          "coords": [
+            -4.373,
+            55.845
+          ]
+        },
+        {
+          "name": "L'Union Estate",
+          "coords": [
+            -4.355,
+            55.831
+          ],
+          "culture": "Ancienne plantation de coprah, avec tortues terrestres, moulin à coprah et vanille.",
+          "photo": "File:Old cemetery in Union Estate Park - La Digue - Seychelles - 2.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à La Passe, La Digue",
+        "coords": [
+          -4.35,
+          55.832
+        ],
+        "note": "Hôtel à La Passe"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Balade à vélo pour découvrir Anse Source d'Argent et Grand Anse."
+        },
+        {
+          "label": "À voir",
+          "text": "L'Union Estate, avec ses plantations de cocotiers et ses tortues terrestres."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry (15 min)"
+        },
+        {
+          "mode": "car",
+          "text": "Vélo sur l'île"
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "title": "La Digue : îlot Coco",
+      "summary": "Excursion vers l'îlot Coco et snorkeling dans les eaux turquoise, puis détente à Anse Cocos.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Îlot Coco",
+          "coords": [
+            -4.325,
+            55.85
+          ],
+          "photo": "File:COCO ISLAND, LA DIGUE, SEYCHELLES, APRIL 2013 - panoramio.jpg"
+        },
+        {
+          "name": "Anse Cocos",
+          "photo": "File:Anse Cocos-La Digue-Seychelles.jpg",
+          "coords": [
+            -4.369,
+            55.866
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à La Passe, La Digue",
+        "coords": [
+          -4.35,
+          55.832
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Excursion vers l'îlot Coco, snorkeling parmi les poissons tropicaux."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Retour pour se détendre à Anse Cocos."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Bateau privé ou excursion"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "title": "La Digue : exploration approfondie",
+      "summary": "Randonnée vers la plage isolée d'Anse Cocos, piscines naturelles, Grand Anse et Petite Anse ; paddle ou kayak au coucher du soleil en option.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Anse Cocos",
+          "photo": "File:Anse Cocos-La Digue-Seychelles.jpg",
+          "coords": [
+            -4.369,
+            55.866
+          ]
+        },
+        {
+          "name": "Petite Anse",
+          "coords": [
+            -4.389,
+            55.835
+          ],
+          "photo": "File:Petite Anse La Digue Seychelles.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à La Passe, La Digue",
+        "coords": [
+          -4.35,
+          55.832
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Randonnée vers Anse Cocos, baignade dans les piscines naturelles, exploration de Grand Anse et Petite Anse."
+        },
+        {
+          "label": "Option",
+          "text": "Paddle ou kayak au coucher du soleil."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Vélo"
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "title": "La Digue → Praslin → Mahé",
+      "summary": "Retour par ferry, puis excursion au parc marin de Sainte-Anne ou sur l'île Silhouette, et dernière soirée dans un restaurant créole.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Parc marin de Sainte-Anne",
+          "wiki": "Sainte Anne Marine National Park"
+        },
+        {
+          "name": "Île Silhouette",
+          "wiki": "Silhouette Island"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Victoria, Mahé",
+        "coords": [
+          -4.62,
+          55.454
+        ],
+        "note": "Hôtel à Victoria"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Excursion à Sainte-Anne Marine Park ou à l'île Silhouette : snorkeling, observation de la faune marine, pique-nique sur une plage privée."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry (15 min) + ferry (1 h)"
+        }
+      ],
+      "food": [
+        "Dernière soirée au restaurant local créole."
+      ]
+    },
+    {
+      "n": 22,
+      "title": "Départ",
+      "summary": "Derniers moments à la plage ou shopping souvenirs au marché de Victoria, puis transfert à l'aéroport.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Marché de Victoria",
+          "wiki": "Victoria, Seychelles"
+        }
+      ],
+      "stay": null,
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol retour"
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "autres-parcs",
+      "title": "Autres parcs du Kenya et de Tanzanie",
+      "summary": "Si le programme est un peu trop long : d'autres étapes possibles au Kenya et en Tanzanie.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Transport",
+            "Hébergement",
+            "Activités et points d'intérêt"
+          ],
+          "rows": [
+            [
+              "1",
+              "Lac Nakuru (Kenya)",
+              "Voiture Masai Mara → lac Nakuru (5 à 6 h)",
+              "Lodge à Nakuru",
+              "Safari autour du lac et observation des flamants : flamants roses, rhinocéros, paysages spectaculaires."
+            ],
+            [
+              "2",
+              "Lac Naivasha / Hell's Gate National Park (Kenya)",
+              "Voiture lac Nakuru → lac Naivasha (1 à 2 h)",
+              "Lodge à Naivasha (ex. Loldia House, Lake Naivasha Sopa Lodge)",
+              "Safari en bateau, randonnée sur Crescent Island : hippopotames, colobes noirs, aigles pêcheurs, choucadors superbes."
+            ],
+            [
+              "3",
+              "Nairobi (Kenya)",
+              "Voiture lac Naivasha → Nairobi (2 h)",
+              "Hôtel à Nairobi (ex. Giraffe Manor)",
+              "Visite culturelle et détente : Giraffe Centre, musée Karen Blixen, déjeuner dans un restaurant local."
+            ],
+            [
+              "-",
+              "Lake Manyara National Park (Tanzanie)",
+              "-",
+              "Lodge à Manyara (ex. Manyara Tree Lodge, Gilala Hai 360 Safari Lodge, Isoitok Camp Manyara, Migombani Campsite)",
+              "Safari d'après-midi : lions perchés dans les arbres, éléphants, hippopotames — moins bien selon certains blogs."
+            ],
+            [
+              "-",
+              "Lac Victoria (Tanzanie)",
+              "-",
+              "Lodge à Musoma (ex. Serenity on the Lake)",
+              "Détente et découverte du lac Victoria : villages de pêcheurs, îles pittoresques, biodiversité."
+            ],
+            [
+              "-",
+              "Monts Usambara (Tanzanie)",
+              "-",
+              "Lodge à Lushoto (ex. Irente Cliff Lodge)",
+              "Randonnée et immersion culturelle : Irente Viewpoint, Mambo Viewpoint, cascades, villages locaux."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "option-ile-maurice",
+      "title": "Option : l'île Maurice (10 jours)",
+      "summary": "Semaine 3 à l'île Maurice plutôt qu'aux Seychelles.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Transport",
+            "Hébergement",
+            "Activités et points d'intérêt"
+          ],
+          "rows": [
+            [
+              "1",
+              "Arrivée à l'île Maurice",
+              "Vol",
+              "Hôtel à Flic-en-Flac",
+              "Installation à l'hôtel, détente sur la plage de Flic-en-Flac et exploration des environs. Option : plongée au coucher du soleil."
+            ],
+            [
+              "2",
+              "Sud-Ouest de l'île",
+              "Voiture de location",
+              "Hôtel à Flic-en-Flac",
+              "Randonnée dans les gorges de Rivière Noire, Terres des 7 couleurs de Chamarel et chutes de Chamarel, visite d'une rhumerie locale."
+            ],
+            [
+              "3",
+              "Sud de l'île",
+              "Voiture de location",
+              "Hôtel à Bel Ombre",
+              "Parc de la Vanille (tortues et crocodiles), Gris-Gris, La Roche qui Pleure, promenade à Souillac, balade à Heritage Nature Reserve en quad ou en safari, déjeuner au cœur de la nature, château de Bel Ombre."
+            ],
+            [
+              "4",
+              "Île aux Cerfs",
+              "Voiture + bateau",
+              "Hôtel à Trou d'Eau Douce",
+              "Journée à l'île aux Cerfs : activités nautiques (kayak, jet ski), baignade, barbecue sur la plage. Retour en soirée."
+            ],
+            [
+              "5",
+              "Nord-Est et Grand Baie",
+              "Voiture de location",
+              "Resort à Grand Baie",
+              "Pointe aux Canonniers, plage de Mont Choisy, château de Labourdonnais, shopping à Grand Baie."
+            ],
+            [
+              "6",
+              "Nord de l'île",
+              "Voiture de location",
+              "Resort à Grand Baie",
+              "Excursion en bateau pour observer dauphins et baleines, snorkeling à Coin de Mire, détente sur la plage de Pereybère."
+            ],
+            [
+              "7",
+              "Île Plate et îlot Gabriel",
+              "Bateau privé ou excursion organisée",
+              "Resort à Grand Baie",
+              "Journée farniente sur des plages isolées, snorkeling ou plongée dans des eaux turquoise."
+            ],
+            [
+              "8",
+              "Port Louis et centre",
+              "Voiture de location",
+              "Hôtel à Port Louis",
+              "Marché central, La Citadelle, Blue Penny Museum, après-midi au jardin botanique de Pamplemousses."
+            ],
+            [
+              "9",
+              "Sud-Est de l'île",
+              "Voiture de location",
+              "Hôtel à Blue Bay ou Bel Ombre",
+              "Journée détente à Blue Bay Marine Park, snorkeling dans les eaux cristallines, exploration de l'île des Deux Cocos."
+            ],
+            [
+              "10",
+              "Départ",
+              "Voiture + vol",
+              "-",
+              "Derniers moments à l'hôtel ou sur une plage proche, vol retour."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "option-zanzibar",
+      "title": "Option : Zanzibar, plages et culture (6 jours)",
+      "summary": "Semaine 3 à Zanzibar, depuis Nairobi.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Transport",
+            "Hébergement",
+            "Activités et points d'intérêt"
+          ],
+          "rows": [
+            [
+              "Lundi 15",
+              "Nairobi → Stone Town (Zanzibar)",
+              "Vol domestique (2 h)",
+              "Hôtel à Stone Town (ex. Emerson Spice Hotel)",
+              "Découverte historique de la vieille ville : fort arabe, ruelles labyrinthiques, marchés d'épices (Darajani Market, mais beaucoup de sollicitations, façon Marrakech), boutiques d'artisanat, dîner traditionnel (6 Degrees South). Banc de sable de Nakupenda, ou Nakupenda bis, en excursion."
+            ],
+            [
+              "Mardi 16",
+              "Kendwa / Nungwi (plus touristique)",
+              "Voiture (1 h 30)",
+              "Hôtel à Kendwa (ex. Karafuu Beach Resort & Spa) ou à Nungwi (ex. Zuri Zanzibar)",
+              "Plage, snorkeling (mais pas incroyable), coucher du soleil, ferme aux tortues, villages locaux. Kendwa : plages immaculées, eaux turquoise, plongée. Nungwi : plages de sable blanc, réserve de tortues marines, coucher de soleil mémorable."
+            ],
+            [
+              "Mercredi 17",
+              "Matemwe et atoll de Mnemba",
+              "Excursion en bateau (1 h)",
+              "Hôtel à Matemwe (ex. Matemwe Retreat, Sunrise Beach at Bandas, Sevi Boutique Hôtel, Salama & Mbuyuni Bungalows)",
+              "Plongée ou snorkeling sur l'atoll de Mnemba : biodiversité marine exceptionnelle, poissons colorés, coraux. Accessible aussi depuis Kiwengwa."
+            ],
+            [
+              "Jeudi 18",
+              "Forêt de Jozani (parc national de Jozani Chwaka Bay) et Jambiani",
+              "Voiture (2 h)",
+              "Lodge près de Jambiani (ex. The Residence, Sharazād Boutique Hôtel, Kijani Beach Villas, Mwezi Boutique Resort)",
+              "Rencontre avec les colobes rouges, randonnée dans les mangroves, plantes médicinales. Sur la route du sud : Pongwe Beach, ou Pingwe Beach (différente) et le fameux restaurant The Rock."
+            ],
+            [
+              "Vendredi 19",
+              "Jambiani et plage de Mtende",
+              "-",
+              "-",
+              "Plage, villages environnants : plages de sable blanc, vie locale authentique (récolte d'algues), excursion en dhow dans le lagon. Mtende (Secret Beach) : la plus belle de l'île selon la page, avec l'excellent restaurant Usumba Rock."
+            ],
+            [
+              "Samedi 20",
+              "Zanzibar → retour",
+              "Vol international",
+              "-",
+              "Derniers moments sur la plage avant le départ, shopping artisanal dans les marchés locaux."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "liens",
+      "title": "Liens utiles",
+      "summary": "Itinéraires et récits de voyage consultés.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "[Voyage Tanzanie Zanzibar de 10 jours : itinéraire et organisation](https://sacavoyage.fr/safari-tanzanie-organisation-de-mon-voyage-tanzanie-zanzibar/)",
+            "[Tanzanie et Zanzibar : itinéraire de 3 semaines](https://www.globe-trotting.com/post/tanzanie-zanzibar-itineraire)",
+            "[Itinéraire de 2 semaines en Tanzanie : conseils et budget (Car And Bag)](https://carandbag.com/itineraire-2-semaines-tanzanie/)",
+            "[Voyage safari en Tanzanie et Zanzibar : itinéraire 2 semaines](https://amoureux-du-monde.com/destinations/afrique/tanzanie/voyage-safari-en-tanzanie-et-zanzibar/)",
+            "[How to Travel Seychelles in 9 Days (vidéo)](https://www.youtube.com/watch?v=o_yQdxaT5zw)"
+          ]
+        }
+      ]
+    }
+  ],
+  "season": "Août / Septembre",
+  "kind": "long"
+}

@@ -3297,5 +3297,445 @@
   "lon": -96.63611,
   "extract": "L'Árbol del Tule est un arbre remarquable, colossal et ancien, situé devant l'église de Santa María del Tule dans l'État d'Oaxaca, au Mexique, à environ 13 km de la ville d'Oaxaca de Juárez sur la route de Mitla.",
   "article": "https://fr.wikipedia.org/wiki/%C3%81rbol_del_Tule"
+ },
+ "Amboseli National Park": {
+  "lat": -2.64139,
+  "lon": 37.24806,
+  "extract": "Le parc national d'Amboseli se situe au nord du Kilimanjaro. Il est un des plus grands et des plus connus parcs nationaux du Kenya, et le deuxième plus visité du pays après le parc du Masaï Mara. De ses huttes on aperçoit le Kilimandjaro.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_d%27Amboseli"
+ },
+ "Anse Cocos": {},
+ "Anse Georgette": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Beach_Anse_Georgette%2C_Anse_Georgette%2C_Praslin_Seychelles_islands_%2825745928388%29.jpg/1920px-Beach_Anse_Georgette%2C_Anse_Georgette%2C_Praslin_Seychelles_islands_%2825745928388%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Beach_Anse_Georgette,_Anse_Georgette,_Praslin_Seychelles_islands_(25745928388).jpg",
+  "artist": "dronepicr",
+  "license": "CC BY 2.0",
+  "lat": -4.29496,
+  "lon": 55.68093
+ },
+ "Anse Intendance": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/View_point_Anse_Intendance_beach_Mahe_Seychelles_%2838723090535%29.jpg/1920px-View_point_Anse_Intendance_beach_Mahe_Seychelles_%2838723090535%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:View_point_Anse_Intendance_beach_Mahe_Seychelles_(38723090535).jpg",
+  "artist": "dronepicr",
+  "license": "CC BY 2.0",
+  "lat": -4.78417,
+  "lon": 55.50028,
+  "extract": "Anse Intendance est une plage située sur la côte sud-ouest de l'île de Mahé, aux Seychelles.",
+  "article": "https://fr.wikipedia.org/wiki/Anse_Intendance"
+ },
+ "Anse Lazio": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Anse_Lazio-rama_2015.JPG/1920px-Anse_Lazio-rama_2015.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Anse_Lazio-rama_2015.JPG",
+  "artist": "Bjørn Christian Tørrissen",
+  "license": "CC BY-SA 4.0",
+  "lat": -4.29361,
+  "lon": 55.70167
+ },
+ "Anse Major": {},
+ "Anse Source d'Argent": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/La_Digue_asv2024-10_img22_Union_Estate.jpg/1920px-La_Digue_asv2024-10_img22_Union_Estate.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:La_Digue_asv2024-10_img22_Union_Estate.jpg",
+  "artist": "A.Savin",
+  "license": "FAL",
+  "lat": -4.37154,
+  "lon": 55.82721,
+  "extract": "L'Anse Source d'Argent est une anse-plage de 2 km, située sur l'île de La Digue de l'archipel des Seychelles, dans l'océan Indien.",
+  "article": "https://fr.wikipedia.org/wiki/Anse_Source_d%27argent"
+ },
+ "Anse Takamaka": {},
+ "Anse Volbert": {},
+ "Arusha": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Arusha_City_view.jpg/1920px-Arusha_City_view.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Arusha_City_view.jpg",
+  "artist": "Halidtz",
+  "license": "CC BY-SA 4.0",
+  "lat": -3.36667,
+  "lon": 36.68333,
+  "extract": "Arusha est une ville du Nord de la Tanzanie et la capitale de la région d'Arusha. En 2012, sa population s'élevait à 416 442 habitants, les estimations actuelles vont jusqu'à 500 000 habitants.",
+  "article": "https://fr.wikipedia.org/wiki/Arusha"
+ },
+ "Beau Vallon": {
+  "extract": "Beau Vallon est un nom de lieu notamment porté par : Beau Vallon, village de l'Île Maurice ; Beau Vallon, district des Seychelles ; Beau Vallon, quartier de la commune de Profondeville.",
+  "article": "https://fr.wikipedia.org/wiki/Beau_Vallon_(homonymie)"
+ },
+ "Curieuse": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Luftbild_der_Insel_Curieuse_Seychellen_%2825746038688%29.jpg/1920px-Luftbild_der_Insel_Curieuse_Seychellen_%2825746038688%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Luftbild_der_Insel_Curieuse_Seychellen_(25746038688).jpg",
+  "artist": "dronepicr",
+  "license": "CC BY 2.0",
+  "lat": -4.28333,
+  "lon": 55.72361,
+  "extract": "Curieuse est une île appartenant aux îles Intérieures de l'archipel des Seychelles, située à un kilomètre au nord de Praslin.",
+  "article": "https://fr.wikipedia.org/wiki/Curieuse_(Seychelles)"
+ },
+ "Côte d'Or, Seychelles": {},
+ "Grand Anse, La Digue": {},
+ "Isebania": {},
+ "Kopje": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/ULURU.jpg/1920px-ULURU.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:ULURU.jpg",
+  "artist": "Ek2030372672",
+  "license": "CC BY-SA 4.0",
+  "extract": "Un inselberg ou monadnock est un relief isolé qui domine significativement une plaine ou un plateau subhorizontal.",
+  "article": "https://fr.wikipedia.org/wiki/Inselberg"
+ },
+ "La Digue": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Luftbild_Insel_La_Digue_Seychellen.DNG_%2839617026111%29.jpg/1920px-Luftbild_Insel_La_Digue_Seychellen.DNG_%2839617026111%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Luftbild_Insel_La_Digue_Seychellen.DNG_(39617026111).jpg",
+  "artist": "dronepicr",
+  "license": "CC BY 2.0",
+  "lat": -4.38,
+  "lon": 55.84667,
+  "extract": "La Digue est la quatrième île en taille de l'archipel des Seychelles, et la troisième en population. Elle tire ses revenus du tourisme, grâce à ses plages de sable fin blanc.",
+  "article": "https://fr.wikipedia.org/wiki/La_Digue"
+ },
+ "Lake Eyasi": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Lake_eyasi.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lake_eyasi.jpg",
+  "artist": "",
+  "license": "Public domain",
+  "lat": -3.58333,
+  "lon": 35,
+  "extract": "Le lac Eyasi est un lac de soude, salé et endoréique du nord de la Tanzanie situé au sud-ouest du massif du Ngorongoro et bordé au nord par l'aire de conservation du Ngorongoro. Il fait partie des nombreux lacs de la vallée du Grand Rift.",
+  "article": "https://fr.wikipedia.org/wiki/Lac_Eyasi"
+ },
+ "Lake Natron": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Lake_Natron_%28Tanzania%29_%E2%80%93_2017-03-06_%28very_early_in_rainy_season%29_%E2%80%93_satellite_image_%28cropped%29.jpg/1920px-Lake_Natron_%28Tanzania%29_%E2%80%93_2017-03-06_%28very_early_in_rainy_season%29_%E2%80%93_satellite_image_%28cropped%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lake_Natron_(Tanzania)_%E2%80%93_2017-03-06_(very_early_in_rainy_season)_%E2%80%93_satellite_image_(cropped).jpg",
+  "artist": "Joshua Stevens/NASA",
+  "license": "Public domain",
+  "lat": -2.41667,
+  "lon": 36,
+  "extract": "Le lac Natron est un lac de soude, salé, endoréique d'origine tectonique dont la superficie variable le cantonne dans le nord de la Tanzanie ou lui fait traverser épisodiquement la frontière avec le Kenya.",
+  "article": "https://fr.wikipedia.org/wiki/Lac_Natron"
+ },
+ "Loitokitok": {
+  "lat": -2.925,
+  "lon": 37.51
+ },
+ "Maasai Mara": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Masai_Mara_at_Sunset.jpg/1920px-Masai_Mara_at_Sunset.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Masai_Mara_at_Sunset.jpg",
+  "artist": "Danijel Mihajlovic",
+  "license": "CC BY-SA 4.0",
+  "lat": -1.49,
+  "lon": 35.14,
+  "extract": "La réserve nationale du Masai Mara est une réserve nationale située au sud-ouest du Kenya. Elle est le prolongement naturel du parc national du Serengeti situé en Tanzanie.",
+  "article": "https://fr.wikipedia.org/wiki/R%C3%A9serve_nationale_du_Masai_Mara"
+ },
+ "Mahé, Seychelles": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Seychelles_003.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Seychelles_003.JPG",
+  "artist": "Hansueli Krapf (User:Simisa)",
+  "license": "CC BY-SA 2.5",
+  "lat": -4.68,
+  "lon": 55.48,
+  "extract": "Mahé est la principale île Intérieure de l'archipel des Seychelles, dans l'océan Indien. Elle abrite la capitale, Victoria.",
+  "article": "https://fr.wikipedia.org/wiki/Mah%C3%A9_(Seychelles)"
+ },
+ "Mara River": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Mara_River_Massai_Mara.jpg/1920px-Mara_River_Massai_Mara.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mara_River_Massai_Mara.jpg",
+  "artist": "Morris Pügner",
+  "license": "Public domain",
+  "lat": -1.51389,
+  "lon": 33.93222,
+  "extract": "La Mara est une rivière d'Afrique coulant au Kenya et en Tanzanie. Elle donne son nom à la réserve nationale du Masai Mara située au Kenya.",
+  "article": "https://fr.wikipedia.org/wiki/Mara_(rivi%C3%A8re_africaine)"
+ },
+ "Morne Seychellois National Park": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Morne_Seychellois_NP_footpath.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Morne_Seychellois_NP_footpath.jpg",
+  "artist": "Photography by Dino Sassi - Marcel Fayon, Photo Eden LTD",
+  "license": "Public domain",
+  "lat": -4.63333,
+  "lon": 55.41667
+ },
+ "Moshi, Tanzania": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Moshi%2C_Tanzania_%28photomontage%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Moshi,_Tanzania_(photomontage).jpg",
+  "artist": "Meku84 (talk) (Uploads)",
+  "license": "CC BY-SA 3.0",
+  "lat": -3.33488,
+  "lon": 37.34038,
+  "extract": "Moshi est une ville du nord de la Tanzanie située au pied du Kilimandjaro. C'est la capitale administrative de la petite région de Kilimandjaro. Elle comptait 144 739 habitants lors du recensement de 2002.",
+  "article": "https://fr.wikipedia.org/wiki/Moshi"
+ },
+ "Mount Kilimanjaro": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Kilimanjaro_from_Amboseli.jpg/1920px-Kilimanjaro_from_Amboseli.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kilimanjaro_from_Amboseli.jpg",
+  "artist": "Sergey Pesterev",
+  "license": "CC BY-SA 4.0",
+  "extract": "Le Kilimandjaro ou Kilimanjaro est une montagne située dans le Nord-Est de la Tanzanie et composée de trois volcans : le Shira à l'ouest, culminant à 3 962 mètres d'altitude, le Mawenzi à l'est, s'élevant à 5 149 mètres d'altitude, et le Kibo, le plus récent géologiquement, situé entre les deux autres et dont le pic Uhuru à 5 891,8 mètres d'altitude constitue le point…",
+  "article": "https://fr.wikipedia.org/wiki/Kilimandjaro"
+ },
+ "Mto wa Mbu": {
+  "lat": -3.35,
+  "lon": 35.85
+ },
+ "Nairobi": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nairobi_skyline_from_Gem_Hotel.jpg/1920px-Nairobi_skyline_from_Gem_Hotel.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Nairobi_skyline_from_Gem_Hotel.jpg",
+  "artist": "Daniel Case",
+  "license": "CC BY-SA 4.0",
+  "lat": -1.28639,
+  "lon": 36.81722,
+  "extract": "Nairobi est la capitale et la plus grande ville du Kenya. En 2020, elle compte 4 734 881 habitants.",
+  "article": "https://fr.wikipedia.org/wiki/Nairobi"
+ },
+ "Namanga": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/School_being_built_by_Reaching_Hearts_for_Kids%2C_which_will_include_a_tree_nursery_and_planting_site%2C_Namanga%2C_TZ.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:School_being_built_by_Reaching_Hearts_for_Kids,_which_will_include_a_tree_nursery_and_planting_site,_Namanga,_TZ.jpg",
+  "artist": "Trees ForTheFuture",
+  "license": "CC BY 2.0",
+  "lat": -2.55,
+  "lon": 36.78333
+ },
+ "Ngorongoro Conservation Area": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Ngorongoro-1001-2.jpg/1920px-Ngorongoro-1001-2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ngorongoro-1001-2.jpg",
+  "artist": "Grahampurse",
+  "license": "CC BY-SA 4.0",
+  "lat": -3.21,
+  "lon": 35.46,
+  "extract": "L’aire de conservation du Ngorongoro, en anglais : Ngorongoro Conservation Area, est une zone protégée située dans le Nord de la Tanzanie, au sud-est du parc national du Serengeti.",
+  "article": "https://fr.wikipedia.org/wiki/Aire_de_conservation_du_Ngorongoro"
+ },
+ "Ol Doinyo Lengai": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lengai_from_Natron.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lengai_from_Natron.jpg",
+  "artist": "Clem23",
+  "license": "CC BY-SA 3.0",
+  "lat": -2.764,
+  "lon": 35.914,
+  "extract": "L’Ol Doinyo Lengaï est un stratovolcan de Tanzanie situé sur l'escarpement du rift de Gregory, branche orientale du rift est-africain qui parcourt l'Afrique de l'Est du nord au sud. C'est le seul volcan actif de Tanzanie.",
+  "article": "https://fr.wikipedia.org/wiki/Ol_Doinyo_Lenga%C3%AF"
+ },
+ "Praslin": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Insel_Praslin%2C_Seychellen_%2838908943104%29.jpg/1920px-Insel_Praslin%2C_Seychellen_%2838908943104%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Insel_Praslin,_Seychellen_(38908943104).jpg",
+  "artist": "dronepicr",
+  "license": "CC BY 2.0",
+  "lat": -4.33,
+  "lon": 55.74667,
+  "extract": "Praslin, la seconde plus grande île de l'archipel des Seychelles, est située à 44 km au nord-est de Mahé dans le groupe des Îles intérieures.",
+  "article": "https://fr.wikipedia.org/wiki/Praslin_(Seychelles)"
+ },
+ "Saint Pierre Island, Seychelles": {},
+ "Sainte Anne Marine National Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Sainte_Anne_Marine_Park_asv2024-10_img19.jpg/1920px-Sainte_Anne_Marine_Park_asv2024-10_img19.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sainte_Anne_Marine_Park_asv2024-10_img19.jpg",
+  "artist": "A.Savin",
+  "license": "FAL",
+  "lat": -4.61667,
+  "lon": 55.5,
+  "extract": "Le parc national marin de Sainte Anne est une aire marine protégée de l'archipel des Seychelles.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_marin_de_Sainte_Anne"
+ },
+ "Serengeti National Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Serengeti-Landscape-2012.JPG/1920px-Serengeti-Landscape-2012.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Serengeti-Landscape-2012.JPG",
+  "artist": "Bjørn Christian Tørrissen",
+  "license": "CC BY-SA 3.0",
+  "lat": -2.4,
+  "lon": 34.6,
+  "extract": "Le parc national du Serengeti est un grand parc national situé dans le nord de la Tanzanie qui s'étend sur 14 763 km2. C'est le second parc animalier d'Afrique ; environ quatre millions d'animaux dont plus de 400 espèces d'oiseaux y sont présents.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_du_Serengeti"
+ },
+ "Seronera Airstrip": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Tourists_arriving_at_Seronera_Airstrip.jpg/1920px-Tourists_arriving_at_Seronera_Airstrip.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tourists_arriving_at_Seronera_Airstrip.jpg",
+  "artist": "David Berkowitz",
+  "license": "CC BY 2.0",
+  "lat": -2.45694,
+  "lon": 34.82139
+ },
+ "Silhouette Island": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Silhouette_Island_remote_view_asv2024-10.jpg/1920px-Silhouette_Island_remote_view_asv2024-10.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Silhouette_Island_remote_view_asv2024-10.jpg",
+  "artist": "A.Savin",
+  "license": "FAL",
+  "lat": -4.4875,
+  "lon": 55.23,
+  "extract": "Silhouette est une île de l’archipel des Seychelles, dans l'océan Indien, à 20km au nord-ouest de Mahé. Elle est la troisième plus grande île des Seychelles, après Mahé et Praslin.",
+  "article": "https://fr.wikipedia.org/wiki/Silhouette_(Seychelles)"
+ },
+ "Tarangire National Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Tarangine_%2862%29.jpg/1920px-Tarangine_%2862%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tarangine_(62).jpg",
+  "artist": "xorge",
+  "license": "CC BY-SA 2.0",
+  "lat": -3.83333,
+  "lon": 36,
+  "extract": "Le parc national de Tarangire est un important parc national du nord de la Tanzanie. Il doit son nom à la rivière Tarangire qui le traverse.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_de_Tarangire"
+ },
+ "Vallée de Mai Nature Reserve": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Valle%C3%A9_de_mai2.jpg/1920px-Valle%C3%A9_de_mai2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Valle%C3%A9_de_mai2.jpg",
+  "artist": "",
+  "license": "CC BY-SA 3.0",
+  "lat": -4.32917,
+  "lon": 55.7375,
+  "extract": "La vallée de Mai, dans l'île de Praslin aux Seychelles, est une réserve inscrite au patrimoine mondial de l'humanité par l'UNESCO en 1983 en raison de sa faune et de sa flore exceptionnelles. Elle abrite l'une des plus grandes forêts de cocotiers de mer.",
+  "article": "https://fr.wikipedia.org/wiki/Vall%C3%A9e_de_Mai"
+ },
+ "Victoria Botanical Gardens": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Victoria_Mont_Fleuri_Botanical_Garden_asv2024-09_img2.jpg/1920px-Victoria_Mont_Fleuri_Botanical_Garden_asv2024-09_img2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Victoria_Mont_Fleuri_Botanical_Garden_asv2024-09_img2.jpg",
+  "artist": "A.Savin",
+  "license": "FAL",
+  "lat": -4.63074,
+  "lon": 55.45299,
+  "extract": "Le Jardin botanique national des Seychelles, également appelé le Jardin botanique Victoria ou le Jardin botanique du Mont Fleuri, est le principal jardin botanique des Seychelles. Il date de 1901, et se situe dans l'île de Mahé.",
+  "article": "https://fr.wikipedia.org/wiki/Jardin_botanique_national_des_Seychelles"
+ },
+ "Victoria, Seychelles": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Victoria_clock_tower.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Victoria_clock_tower.jpg",
+  "artist": "Gerard Larose, Seychelles Tourism Board",
+  "license": "CC BY 4.0",
+  "lat": -4.6231,
+  "lon": 55.4525,
+  "extract": "Victoria est la capitale et la plus grande ville des Seychelles. Elle est située sur la côte nord-est de l'île de Mahé, île principale de l'archipel. Cette capitale concentre plus d'un tiers de la population seychelloise.",
+  "article": "https://fr.wikipedia.org/wiki/Victoria_(Seychelles)"
+ },
+ "File:Amboseli National Park and Mt. Kilimanjaro.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Amboseli_National_Park_and_Mt._Kilimanjaro.jpg/1920px-Amboseli_National_Park_and_Mt._Kilimanjaro.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Amboseli_National_Park_and_Mt._Kilimanjaro.jpg",
+  "artist": "Ninaras",
+  "license": "CC BY 4.0"
+ },
+ "File:Anse Cocos-La Digue-Seychelles.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Anse_Cocos-La_Digue-Seychelles.jpg/1920px-Anse_Cocos-La_Digue-Seychelles.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Anse_Cocos-La_Digue-Seychelles.jpg",
+  "artist": "Tobi 87",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Anse Major 2.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Anse_Major_2.jpg/1920px-Anse_Major_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Anse_Major_2.jpg",
+  "artist": "Marion Schneider & Christoph Aistleitner",
+  "license": "Public domain"
+ },
+ "File:Anse Takamaka-Mahé-Seychelles.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Anse_Takamaka-Mah%C3%A9-Seychelles.jpg/1920px-Anse_Takamaka-Mah%C3%A9-Seychelles.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Anse_Takamaka-Mah%C3%A9-Seychelles.jpg",
+  "artist": "Tobi 87",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Anse Volbert rocks Praslin.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Anse_Volbert_rocks_Praslin.jpg/1920px-Anse_Volbert_rocks_Praslin.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Anse_Volbert_rocks_Praslin.jpg",
+  "artist": "Radosław Botev",
+  "license": "CC BY 3.0 pl"
+ },
+ "File:Baobab (Adansonia digitata), parque nacional de Tarangire, Tanzania, 2024-05-24, DD 78.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Baobab_%28Adansonia_digitata%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_78.jpg/1920px-Baobab_%28Adansonia_digitata%29%2C_parque_nacional_de_Tarangire%2C_Tanzania%2C_2024-05-24%2C_DD_78.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Baobab_(Adansonia_digitata),_parque_nacional_de_Tarangire,_Tanzania,_2024-05-24,_DD_78.jpg",
+  "artist": "Diego Delso",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Beau Vallon beach Mahe Seychelles.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Beau_Vallon_beach_Mahe_Seychelles.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Beau_Vallon_beach_Mahe_Seychelles.jpg",
+  "artist": "Photography by Dino Sassi - Marcel Fayon, Photo Eden LTD",
+  "license": "Public domain"
+ },
+ "File:COCO ISLAND, LA DIGUE, SEYCHELLES, APRIL 2013 - panoramio.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/COCO_ISLAND%2C_LA_DIGUE%2C_SEYCHELLES%2C_APRIL_2013_-_panoramio.jpg/1920px-COCO_ISLAND%2C_LA_DIGUE%2C_SEYCHELLES%2C_APRIL_2013_-_panoramio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:COCO_ISLAND,_LA_DIGUE,_SEYCHELLES,_APRIL_2013_-_panoramio.jpg",
+  "artist": "otterboris",
+  "license": "CC BY 3.0"
+ },
+ "File:Cote D'Or Beach - Anse Volbert - Praslin - Seychelles.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Cote_D%27Or_Beach_-_Anse_Volbert_-_Praslin_-_Seychelles.jpg/1920px-Cote_D%27Or_Beach_-_Anse_Volbert_-_Praslin_-_Seychelles.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cote_D%27Or_Beach_-_Anse_Volbert_-_Praslin_-_Seychelles.jpg",
+  "artist": "NorbertNagel",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Engare Sero River Waterfall 25 images 1887 1913.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Engare_Sero_River_Waterfall_25_images_1887_1913.jpg/1920px-Engare_Sero_River_Waterfall_25_images_1887_1913.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Engare_Sero_River_Waterfall_25_images_1887_1913.jpg",
+  "artist": "Nevit Dilmen (talk)",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Flamingos at Lake Natron (9) (28551601446).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Flamingos_at_Lake_Natron_%289%29_%2828551601446%29.jpg/1920px-Flamingos_at_Lake_Natron_%289%29_%2828551601446%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Flamingos_at_Lake_Natron_(9)_(28551601446).jpg",
+  "artist": "Richard Mortel from Riyadh, Saudi Arabia",
+  "license": "CC BY 2.0"
+ },
+ "File:Grand Anse-La Digue-Seychellen.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Grand_Anse-La_Digue-Seychellen.jpg/1920px-Grand_Anse-La_Digue-Seychellen.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Grand_Anse-La_Digue-Seychellen.jpg",
+  "artist": "Tobias Alt, Tobi 87",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Isebania-Sirari-border.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Isebania-Sirari-border.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Isebania-Sirari-border.jpg",
+  "artist": "Schau99",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Islet Saint Pierre near Praslin Seychelles.JPG": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Islet_Saint_Pierre_near_Praslin_Seychelles.JPG/1920px-Islet_Saint_Pierre_near_Praslin_Seychelles.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Islet_Saint_Pierre_near_Praslin_Seychelles.JPG",
+  "artist": "Bjørn Christian Tørrissen",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Loitokitok1.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Loitokitok1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Loitokitok1.jpg",
+  "artist": "Gerrishon Sirere",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Légumes et friture Mto Wa Mbu.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/L%C3%A9gumes_et_friture_Mto_Wa_Mbu.jpg/1920px-L%C3%A9gumes_et_friture_Mto_Wa_Mbu.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:L%C3%A9gumes_et_friture_Mto_Wa_Mbu.jpg",
+  "artist": "lecucurbitacee",
+  "license": "CC BY 2.0"
+ },
+ "File:Namanga.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Namanga.jpg/1920px-Namanga.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Namanga.jpg",
+  "artist": "KeyoT",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Napuru waterfalls.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Napuru_waterfalls.jpg/1920px-Napuru_waterfalls.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Napuru_waterfalls.jpg",
+  "artist": "Tobias Kasambala",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Old cemetery in Union Estate Park - La Digue - Seychelles - 2.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Old_cemetery_in_Union_Estate_Park_-_La_Digue_-_Seychelles_-_2.jpg/1920px-Old_cemetery_in_Union_Estate_Park_-_La_Digue_-_Seychelles_-_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_cemetery_in_Union_Estate_Park_-_La_Digue_-_Seychelles_-_2.jpg",
+  "artist": "NorbertNagel",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Petite Anse La Digue Seychelles.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Petite_Anse_La_Digue_Seychelles.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Petite_Anse_La_Digue_Seychelles.jpg",
+  "artist": "Photography by Dino Sassi - Marcel Fayon, Photo Eden LTD",
+  "license": "Public domain"
+ },
+ "File:Rhinoceros, Ngorongoro (2015).jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Rhinoceros%2C_Ngorongoro_%282015%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rhinoceros,_Ngorongoro_(2015).jpg",
+  "artist": "John Mackenzie Burke",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Serengeti Balloon.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Serengeti_Balloon.jpg/1920px-Serengeti_Balloon.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Serengeti_Balloon.jpg",
+  "artist": "Eric Kilby",
+  "license": "CC BY-SA 2.0"
+ },
+ "File:WikiAru915.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/WikiAru915.jpg/1920px-WikiAru915.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:WikiAru915.jpg",
+  "artist": "Bajcetic",
+  "license": "CC0"
  }
 }
