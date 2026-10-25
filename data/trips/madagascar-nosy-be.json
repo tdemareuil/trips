@@ -1,0 +1,802 @@
+{
+  "id": "madagascar-nosy-be",
+  "title": "Madagascar et Nosy Be",
+  "subtitle": "Parcs nationaux de Madagascar, de l'Isalo à Ranomafana, puis Nosy Be ; île Maurice en alternative",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Isalo National Park",
+  "days": [
+    {
+      "n": 1,
+      "title": "Arrivée à Antananarivo",
+      "summary": "Visite du Palais de la Reine et exploration du marché artisanal de la Digue pour des souvenirs locaux.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Antananarivo",
+          "wiki": "Antananarivo",
+          "culture": "Capitale de Madagascar, bâtie sur des collines à environ 1 300 m d'altitude."
+        },
+        {
+          "name": "Palais de la Reine",
+          "wiki": "Rova of Antananarivo",
+          "culture": "Ancien palais royal merina, perché sur la colline la plus haute de la ville, ravagé par un incendie en 1995 puis restauré."
+        },
+        {
+          "name": "Marché artisanal de la Digue",
+          "coords": [
+            -18.914,
+            47.523
+          ],
+          "culture": "Marché d'artisanat où l'on trouve broderies, raphia, sculptures sur bois et épices."
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Antananarivo",
+        "coords": [
+          -18.91,
+          47.525
+        ],
+        "note": "Hôtel à Antananarivo"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Visite du Palais de la Reine, exploration du Marché artisanal de la Digue pour des souvenirs locaux."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Antananarivo → Andasibe",
+      "summary": "Voiture (3 h) puis randonnée au parc national d'Andasibe-Mantadia : lémuriens Indri-Indri, caméléons et oiseaux endémiques.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Parc national d'Andasibe-Mantadia",
+          "wiki": "Andasibe-Mantadia National Park",
+          "culture": "Abrite l'indri, le plus grand lémurien vivant, dont les chants s'entendent à plusieurs kilomètres."
+        },
+        {
+          "name": "Indri-indri",
+          "wiki": "Indri",
+          "coords": [
+            -18.938,
+            48.415
+          ],
+          "culture": "Le plus grand des lémuriens, connu pour ses cris puissants, presque impossible à garder en captivité."
+        }
+      ],
+      "stay": {
+        "name": "Lodge à Andasibe",
+        "coords": [
+          -18.938,
+          48.415
+        ],
+        "note": "Lodge à Andasibe"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Randonnée dans le parc : lémuriens Indri-Indri, caméléons, oiseaux endémiques."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture (3 h)"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Andasibe → parc de Ranomafana",
+      "summary": "Voiture (6 h) vers Ranomafana, forêt tropicale dense, sources chaudes naturelles et lémuriens rares.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Parc national de Ranomafana",
+          "wiki": "Ranomafana National Park",
+          "culture": "Forêt de montagne inscrite à l'UNESCO, où l'on a découvert le lémurien doré des bambous en 1986."
+        },
+        {
+          "name": "Sources chaudes de Ranomafana",
+          "coords": [
+            -21.253,
+            47.462
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Écolodge à Ranomafana",
+        "coords": [
+          -21.261,
+          47.461
+        ],
+        "note": "Écolodge à Ranomafana"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Exploration du parc national de Ranomafana : forêt tropicale dense, sources chaudes naturelles, lémuriens rares."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture (6 h)"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Ranomafana",
+      "summary": "Journée complète de randonnée dans le parc : cascades, observation de la faune et de la flore.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Parc national de Ranomafana",
+          "wiki": "Ranomafana National Park"
+        }
+      ],
+      "stay": {
+        "name": "Écolodge à Ranomafana",
+        "coords": [
+          -21.261,
+          47.461
+        ],
+        "note": "Même écolodge"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Journée complète de randonnée dans le parc : cascades, observation de la faune et de la flore."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Ranomafana → Fianarantsoa → Isalo",
+      "summary": "Voiture (6 h) puis découverte du massif de l'Isalo : formations rocheuses uniques, canyons et piscines naturelles.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Fianarantsoa",
+          "wiki": "Fianarantsoa"
+        },
+        {
+          "name": "Parc national de l'Isalo",
+          "wiki": "Isalo National Park",
+          "culture": "Massif de grès sculpté par l'érosion, aux canyons et oasis, souvent comparé aux grands parcs de l'Ouest américain."
+        }
+      ],
+      "stay": {
+        "name": "Lodge à Isalo",
+        "coords": [
+          -22.55,
+          45.37
+        ],
+        "note": "Lodge à Isalo"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Détente et découverte du massif de l'Isalo : formation rocheuse unique, canyons, piscines naturelles."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture (6 h)"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Parc national de l'Isalo",
+      "summary": "Randonnée dans le parc : Piscine naturelle, Fenêtre de l'Isalo et canyon des Singes.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Piscine naturelle de l'Isalo",
+          "coords": [
+            -22.456,
+            45.372
+          ],
+          "culture": "Bassin d'eau claire alimenté par une cascade, au bout d'un sentier dans le canyon.",
+          "photo": "File:IsaloSwimmingPool.jpg"
+        },
+        {
+          "name": "Fenêtre de l'Isalo",
+          "coords": [
+            -22.504,
+            45.356
+          ],
+          "culture": "Arche rocheuse naturelle très prisée au coucher du soleil.",
+          "photo": "File:\" Isalo Window \" (9590120678).jpg"
+        },
+        {
+          "name": "Canyon des Singes",
+          "coords": [
+            -22.474,
+            45.36
+          ],
+          "culture": "Canyon verdoyant où l'on croise des lémuriens à queue annelée.",
+          "photo": "File:\" Canyon des Singes \" (9589928010).jpg"
+        }
+      ],
+      "stay": {
+        "name": "Lodge à Isalo",
+        "coords": [
+          -22.55,
+          45.37
+        ],
+        "note": "Même lodge"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Randonnée dans le parc : Piscine Naturelle, Fenêtre de l'Isalo, Canyon des Singes."
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Isalo → Tuléar",
+      "summary": "Voiture (4 h), visite de l'arboretum d'Antsokay pour ses plantes endémiques et balade à la plage d'Anakao.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Tuléar",
+          "photo": "File:City Centre Toliara 2007.jpg",
+          "coords": [
+            -23.35,
+            43.67
+          ]
+        },
+        {
+          "name": "Arboretum d'Antsokay",
+          "coords": [
+            -23.42,
+            43.76
+          ],
+          "culture": "Jardin botanique consacré aux plantes du Sud-Ouest malgache, dont beaucoup sont endémiques.",
+          "photo": "File:Entrée arboretum d'Antsokay.jpg"
+        },
+        {
+          "name": "Plage d'Anakao",
+          "wiki": "Anakao",
+          "coords": [
+            -23.65,
+            43.64
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Tuléar",
+        "coords": [
+          -23.35,
+          43.67
+        ],
+        "note": "Hôtel à Tuléar"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Visite de l'Arboretum d'Antsokay (plantes endémiques), balade à Anakao Beach pour la détente."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture (4 h)"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Tuléar → Nosy Be",
+      "summary": "Vol (2 h) vers Nosy Be, détente sur la plage d'Ambatoloaka et coucher de soleil depuis le mont Passot.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Nosy Be",
+          "wiki": "Nosy Be",
+          "culture": "Île du nord-ouest de Madagascar, surnommée « l'île aux parfums » pour ses plantations d'ylang-ylang."
+        },
+        {
+          "name": "Plage d'Ambatoloaka",
+          "wiki": "Ambatoloaka",
+          "coords": [
+            -13.4,
+            48.24
+          ]
+        },
+        {
+          "name": "Mont Passot",
+          "coords": [
+            -13.32,
+            48.23
+          ],
+          "culture": "Point culminant de l'île, avec vue sur les lacs de cratère et l'archipel.",
+          "photo": "File:Mirador de Mont Passot, Nosy Be, Madagascar, 2025-09-21, DD 108.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Nosy Be",
+        "coords": [
+          -13.4,
+          48.24
+        ],
+        "note": "Hôtel à Nosy Be"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Détente sur la plage d'Ambatoloaka, exploration du Mont Passot pour un coucher de soleil spectaculaire."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol Tuléar → Nosy Be (2 h)"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Nosy Komba et Nosy Tanikely",
+      "summary": "Excursion à Nosy Komba pour ses lémuriens et snorkeling à Nosy Tanikely, réserve marine protégée.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Nosy Komba",
+          "wiki": "Nosy Komba",
+          "culture": "Île connue pour ses makis, ses broderies et ses villages."
+        },
+        {
+          "name": "Nosy Tanikely",
+          "wiki": "Nosy Tanikely",
+          "culture": "Petite réserve marine aux eaux claires, où l'on nage avec des tortues.",
+          "coords": [
+            -13.472,
+            48.23
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Nosy Be",
+        "coords": [
+          -13.4,
+          48.24
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Excursion à Nosy Komba (lémuriens), snorkeling à Nosy Tanikely (réserve marine protégée)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Bateau (30 min)"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "title": "Nosy Be : Andilana",
+      "summary": "Journée détente à Andilana Beach et excursion en quad pour explorer l'île.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Plage d'Andilana",
+          "coords": [
+            -13.3,
+            48.16
+          ],
+          "photo": "File:Andilana beach Nosy Be 2013-10-24 20-29.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Nosy Be",
+        "coords": [
+          -13.4,
+          48.24
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Journée détente à Andilana Beach, excursion en quad."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Quad à travers l'île"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "title": "Nosy Be → Nosy Iranja",
+      "summary": "Bateau (1 h) vers Nosy Iranja : plage immaculée, site de nidification des tortues, pique-nique sur la plage.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Nosy Iranja",
+          "culture": "Deux îlots reliés par un banc de sable, où pondent des tortues vertes et des tortues imbriquées.",
+          "photo": "File:Nosy Iranja, Madagascar, 2025-09-17, DD 21.jpg",
+          "coords": [
+            -13.51,
+            47.87
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Écolodge sur Nosy Iranja",
+        "coords": [
+          -13.51,
+          47.87
+        ],
+        "note": "Écolodge sur Nosy Iranja"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Journée à Nosy Iranja (plage immaculée, site de nidification des tortues), pique-nique sur la plage."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Bateau (1 h)"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "title": "Nosy Iranja → Nosy Be",
+      "summary": "Retour en bateau (1 h), sortie en mer pour observer les dauphins et coucher de soleil en croisière.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Nosy Be",
+          "wiki": "Nosy Be"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Nosy Be",
+        "coords": [
+          -13.4,
+          48.24
+        ],
+        "note": "Hôtel à Nosy Be"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Sortie en mer pour observer les dauphins, coucher de soleil en croisière."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Bateau (1 h)"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "title": "Nosy Be : ylang-ylang",
+      "summary": "Visite des plantations d'ylang-ylang et massage traditionnel malgache pour une détente absolue.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Plantations d'ylang-ylang",
+          "coords": [
+            -13.37,
+            48.22
+          ],
+          "culture": "La fleur d'ylang-ylang fournit une huile essentielle utilisée en parfumerie, dont Madagascar est l'un des premiers producteurs.",
+          "photo": "File:Plante de Ylang-Ylang.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Nosy Be",
+        "coords": [
+          -13.4,
+          48.24
+        ],
+        "note": "Hôtel à Nosy Be"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Visite des plantations d'ylang-ylang, massage traditionnel malgache."
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "title": "Nosy Be → Antananarivo → retour",
+      "summary": "Vol vers votre destination, fin du voyage.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Aéroport de Nosy Be",
+          "wiki": "Fascene Airport",
+          "coords": [
+            -13.312,
+            48.314
+          ]
+        }
+      ],
+      "stay": null,
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol vers votre destination"
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "nosy-be-vs-maurice",
+      "title": "Comparaison Nosy Be et île Maurice",
+      "summary": "Quelle île choisir pour la semaine 2 ?",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Critères",
+            "Nosy Be",
+            "Île Maurice"
+          ],
+          "rows": [
+            [
+              "Plages",
+              "Sauvages, préservées, peu fréquentées",
+              "Aménagées avec toutes les commodités"
+            ],
+            [
+              "Randonnée et nature",
+              "Exploration authentique, massifs montagneux, parcs naturels",
+              "Parcs nationaux aménagés, randonnée au Morne Brabant"
+            ],
+            [
+              "Activités",
+              "Excursions vers des îles sauvages, observation des tortues et des dauphins",
+              "Sports nautiques variés, golf, découverte culturelle"
+            ],
+            [
+              "Ambiance",
+              "Authentique, décontractée",
+              "Touristique mais diversifiée (luxe, aventure)"
+            ],
+            [
+              "Budget",
+              "Moins coûteux",
+              "Généralement plus cher, mais offres variées"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "option-ile-maurice",
+      "title": "Option : l'île Maurice pour la semaine 2",
+      "summary": "Semaine 2 à l'île Maurice plutôt qu'à Nosy Be, avec les variantes de la première version.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Vols entre Madagascar et l'île Maurice"
+        },
+        {
+          "type": "text",
+          "text": "Il existe des vols directs entre Antananarivo et l'île Maurice, d'environ 1 h 30, assurés par Air Mauritius, Air Austral et Tsaradia (filiale d'Air Madagascar). Ils sont généralement quotidiens ou plusieurs fois par semaine selon la saison ; à réserver à l'avance, surtout pendant les vacances (été austral et fêtes de fin d'année)."
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Transport",
+            "Hébergement",
+            "Activités et points d'intérêt"
+          ],
+          "rows": [
+            [
+              "8",
+              "Antananarivo → île Maurice",
+              "Vol (1 h 30)",
+              "Resort à Flic-en-Flac",
+              "Détente sur la plage de Flic-en-Flac, plongée avec tuba, balade en catamaran."
+            ],
+            [
+              "9",
+              "Île Maurice (Sud-Ouest)",
+              "Voiture de location",
+              "Resort à Bel Ombre",
+              "Randonnée au Morne Brabant (UNESCO, vue panoramique), détente à la plage du Morne."
+            ],
+            [
+              "10",
+              "Île Maurice (île aux Cerfs)",
+              "Bateau (30 min)",
+              "Resort à Trou d'Eau Douce",
+              "Journée à l'île aux Cerfs (sports nautiques : jet ski, parachute ascensionnel), barbecue sur la plage."
+            ],
+            [
+              "11",
+              "Île Maurice (parc national des Gorges de Rivière Noire)",
+              "Voiture de location",
+              "Lodge à Chamarel",
+              "Randonnée dans le parc national des Gorges de Rivière Noire (forêt luxuriante, cascades, faune unique)."
+            ],
+            [
+              "12",
+              "Île Maurice (Nord)",
+              "Voiture de location",
+              "Resort à Grand Baie",
+              "Snorkeling à Coin de Mire, jardins de Pamplemousses, coucher de soleil à Mont Choisy."
+            ],
+            [
+              "13",
+              "Île Maurice (Sud-Est)",
+              "Voiture de location",
+              "Resort à Blue Bay",
+              "Détente à Blue Bay Marine Park, sortie en bateau pour découvrir les îlots environnants."
+            ],
+            [
+              "14",
+              "Île Maurice → retour",
+              "Vol vers votre destination",
+              "-",
+              "Fin du voyage."
+            ],
+            [
+              "Variante",
+              "Île Maurice (Sud-Ouest), première version",
+              "Voiture de location",
+              "Resort à Bel Ombre",
+              "Gorges de Rivière Noire, Terres des 7 couleurs de Chamarel, chutes de Chamarel."
+            ],
+            [
+              "Variante",
+              "Île Maurice (Port Louis)",
+              "Voiture de location",
+              "Hôtel à Port Louis",
+              "Marché central, La Citadelle, jardin botanique de Pamplemousses."
+            ],
+            [
+              "Variante",
+              "Île Maurice (Nord), première version",
+              "Voiture de location",
+              "Resort à Grand Baie",
+              "Excursion en bateau pour observer dauphins et baleines, snorkeling à Coin de Mire."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "variante-cote-est",
+      "title": "Variante : côte est et île Sainte-Marie",
+      "summary": "Première version de la semaine 1 : Hautes Terres et côte est, au lieu des parcs du Sud.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Lieu",
+            "Transport",
+            "Hébergement",
+            "Activités et points d'intérêt"
+          ],
+          "rows": [
+            [
+              "1",
+              "Antananarivo (arrivée)",
+              "-",
+              "Hôtel à Antananarivo",
+              "Visite du Palais de la Reine, marché artisanal de la Digue."
+            ],
+            [
+              "2",
+              "Antananarivo → Andasibe",
+              "Voiture (3 h)",
+              "Lodge à Andasibe",
+              "Randonnée au parc national d'Andasibe-Mantadia (lémuriens Indri-Indri, caméléons, oiseaux)."
+            ],
+            [
+              "3",
+              "Andasibe → Akanin'ny Nofy",
+              "Voiture (2 h) puis bateau (1 h)",
+              "Écolodge à Akanin'ny Nofy",
+              "Palmarium Reserve (lémuriens à proximité), balade sur le canal des Pangalanes."
+            ],
+            [
+              "4",
+              "Akanin'ny Nofy",
+              "-",
+              "Écolodge à Akanin'ny Nofy",
+              "Excursion en bateau sur le canal des Pangalanes, villages de pêcheurs, détente sur la plage."
+            ],
+            [
+              "5",
+              "Akanin'ny Nofy → Tamatave → île Sainte-Marie",
+              "Bateau (1 h) puis vol (1 h)",
+              "Hôtel à Sainte-Marie",
+              "Exploration de l'île aux Nattes (plages paradisiaques), plongée avec tuba."
+            ],
+            [
+              "6",
+              "Île Sainte-Marie",
+              "-",
+              "Hôtel à Sainte-Marie",
+              "Observation des baleines (juillet à septembre), cimetière des Pirates, baignade à Coco Bay."
+            ],
+            [
+              "7",
+              "Île Sainte-Marie → Antananarivo",
+              "Vol (1 h 30)",
+              "Hôtel à Antananarivo",
+              "Détente et shopping au Lemur's Park, dîner dans l'un des meilleurs restaurants locaux."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "Budget estimatif",
+      "summary": "Budget pour 2 personnes, en euros.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Catégorie",
+            "Estimation (version avec parcs)",
+            "Estimation (première version)"
+          ],
+          "rows": [
+            [
+              "Vols internationaux aller-retour",
+              "2 200 EUR",
+              "2 200 EUR"
+            ],
+            [
+              "Transports internes (Madagascar et île Maurice)",
+              "700 EUR",
+              "600 EUR"
+            ],
+            [
+              "Hébergement (14 nuits)",
+              "4 200 EUR",
+              "3 800 EUR"
+            ],
+            [
+              "Activités et repas",
+              "2 500 EUR",
+              "2 200 EUR"
+            ],
+            [
+              "Total estimé pour 2 personnes",
+              "9 600 EUR",
+              "8 800 EUR"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "season": "Août / Septembre",
+  "kind": "tier2"
+}

@@ -74,7 +74,11 @@
         {
           "name": "Mont Kilimandjaro",
           "wiki": "Mount Kilimanjaro",
-          "culture": "Plus haut sommet d'Afrique, à 5 895 m, volcan isolé qui domine les plaines."
+          "culture": "Plus haut sommet d'Afrique, à 5 895 m, volcan isolé qui domine les plaines.",
+          "coords": [
+            -3.0674,
+            37.3556
+          ]
         },
         {
           "name": "Moshi",
@@ -411,7 +415,11 @@
         {
           "name": "Kopjes du Serengeti",
           "wiki": "Kopje",
-          "culture": "Îlots rocheux granitiques où les lions aiment se poster."
+          "culture": "Îlots rocheux granitiques où les lions aiment se poster.",
+          "coords": [
+            -2.4,
+            34.85
+          ]
         },
         {
           "name": "Lac Eyasi",
@@ -1302,5 +1310,5 @@
     }
   ],
   "season": "Août / Septembre",
-  "kind": "long"
+  "kind": "tier2"
 }

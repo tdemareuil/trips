@@ -1,0 +1,1031 @@
+{
+  "id": "peru-bolivia-chile-argentina",
+  "title": "Pérou, Bolivie, Chili, Argentine",
+  "subtitle": "De Lima à Salta : Machu Picchu, lac Titicaca, Salar d'Uyuni, désert d'Atacama et vignobles du nord argentin",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Machu Picchu",
+  "days": [
+    {
+      "n": 1,
+      "title": "Arrivée à Lima",
+      "summary": "Arrivée par vol international, détente sur la côte et découverte gastronomique : Miraflores en bord de mer, Barranco le quartier bohème et la Costa Verde.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Lima",
+          "wiki": "Lima",
+          "culture": "Capitale du Pérou, fondée par Pizarro en 1535, aujourd'hui l'une des grandes capitales gastronomiques d'Amérique latine."
+        },
+        {
+          "name": "Miraflores",
+          "photo": "File:Malecón de Miraflores - Lima.jpg",
+          "coords": [
+            -12.1219,
+            -77.0297
+          ]
+        },
+        {
+          "name": "Barranco",
+          "wiki": "Barranco District",
+          "culture": "Quartier bohème de falaises sur le Pacifique, connu pour ses artistes, ses bars et le Pont des Soupirs."
+        },
+        {
+          "name": "Costa Verde",
+          "coords": [
+            -12.133,
+            -77.03
+          ],
+          "culture": "Route côtière au pied des falaises de Lima, avec vue sur l'océan Pacifique.",
+          "photo": "File:Costa Verde Barranco.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Lima",
+        "coords": [
+          -12.1219,
+          -77.0297
+        ],
+        "note": "Hôtel à Lima"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Détente sur la côte, découverte gastronomique."
+        },
+        {
+          "label": "À voir",
+          "text": "Miraflores (balade en bord de mer), Barranco (quartier bohème), Costa Verde (panorama sur l'océan Pacifique)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol international jusqu'à Lima"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Lima → Cusco",
+      "summary": "Bus de nuit jusqu'à Cusco (22 h), puis exploration du centre historique : place d'Armes, cathédrale et quartier de San Blas.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Cusco",
+          "wiki": "Cusco",
+          "culture": "Ancienne capitale de l'Empire inca, à environ 3 400 m d'altitude, inscrite à l'UNESCO."
+        },
+        {
+          "name": "Plaza de Armas de Cusco",
+          "photo": "File:Plaza de Armas - Cusco.jpg",
+          "coords": [
+            -13.5167,
+            -71.9786
+          ]
+        },
+        {
+          "name": "Cathédrale de Cusco",
+          "wiki": "Cusco Cathedral",
+          "culture": "Édifiée sur le palais de l'Inca Viracocha, à partir de 1559, avec des pierres de Sacsayhuamán."
+        },
+        {
+          "name": "San Blas",
+          "culture": "Quartier traditionnel aux ruelles pavées et aux ateliers d'artisans.",
+          "photo": "File:San Blas CUZ.jpg",
+          "coords": [
+            -13.5155,
+            -71.974
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Cusco",
+        "coords": [
+          -13.517,
+          -71.9785
+        ],
+        "note": "Hôtel à Cusco"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Exploration du centre historique."
+        },
+        {
+          "label": "À voir",
+          "text": "Plaza de Armas, cathédrale de Cusco, San Blas (quartier traditionnel avec ses ruelles pavées et ses ateliers d'artisanat)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "bus",
+          "text": "Bus Lima → Cusco (22 h)"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Cusco : journée d'acclimatation",
+      "summary": "Journée d'acclimatation à l'altitude et visite des sites archéologiques voisins : Sacsayhuamán, Q'enqo et Tambomachay.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Sacsayhuamán",
+          "wiki": "Sacsayhuamán",
+          "culture": "Forteresse inca aux blocs de pierre colossaux, ajustés sans mortier."
+        },
+        {
+          "name": "Q'enqo",
+          "wiki": "Qenqo",
+          "culture": "Site rituel inca creusé dans un bloc de calcaire, aux canaux et niches taillés."
+        },
+        {
+          "name": "Tambomachay",
+          "wiki": "Tambomachay",
+          "culture": "Site inca dédié à l'eau, avec des fontaines et des canaux de pierre."
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Cusco",
+        "coords": [
+          -13.517,
+          -71.9785
+        ],
+        "note": "Hôtel à Cusco"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Visite des sites archéologiques voisins : ruines incas impressionnantes de Sacsayhuamán, site rituel de Q'enqo, fontaines sacrées de Tambomachay."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Vallée Sacrée : Pisac et Ollantaytambo",
+      "summary": "Excursion en bus privé dans la Vallée Sacrée : marché de Pisac et forteresse d'Ollantaytambo.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Pisac",
+          "wiki": "Pisac"
+        },
+        {
+          "name": "Marché de Pisac",
+          "coords": [
+            -13.422,
+            -71.848
+          ],
+          "culture": "Marché d'artisanat et de textiles très fréquenté, surtout le dimanche.",
+          "photo": "File:Pisac market view.jpg"
+        },
+        {
+          "name": "Ollantaytambo",
+          "wiki": "Ollantaytambo",
+          "culture": "Village inca encore habité, avec ses ruelles et canaux d'origine."
+        },
+        {
+          "name": "Forteresse d'Ollantaytambo",
+          "culture": "Fortification et terrasses agricoles ; elle fut le théâtre d'une victoire de Manco Inca sur les Espagnols en 1536.",
+          "photo": "File:Ruins at Ollantaytambo.jpg",
+          "coords": [
+            -13.2583,
+            -72.264
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Ollantaytambo",
+        "coords": [
+          -13.2587,
+          -72.264
+        ],
+        "note": "Hôtel à Ollantaytambo"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Marchés traditionnels, sites incas."
+        },
+        {
+          "label": "À voir",
+          "text": "Marché de Pisac (artisanat et textiles), forteresse d'Ollantaytambo (fortification inca et terrasses agricoles spectaculaires)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "bus",
+          "text": "Bus privé (1 h 30)"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Ollantaytambo → Machu Picchu",
+      "summary": "Train jusqu'à Aguas Calientes (2 h 30) et visite du Machu Picchu, avec l'option de la montée au Huayna Picchu.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Machu Picchu",
+          "wiki": "Machu Picchu",
+          "culture": "Citadelle inca du XVe siècle perchée à environ 2 400 m, inscrite à l'UNESCO et élue l'une des nouvelles sept merveilles du monde en 2007."
+        },
+        {
+          "name": "Huayna Picchu",
+          "wiki": "Huayna Picchu",
+          "culture": "Pic qui domine le site, avec un sentier raide qui offre une vue panoramique."
+        },
+        {
+          "name": "Aguas Calientes",
+          "wiki": "Machu Picchu Pueblo"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Aguas Calientes",
+        "coords": [
+          -13.1547,
+          -72.5253
+        ],
+        "note": "Hôtel à Aguas Calientes"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Visite du Machu Picchu."
+        },
+        {
+          "label": "À voir",
+          "text": "Ruines de Machu Picchu, site emblématique inca ; randonnée du Huayna Picchu (vue panoramique depuis le sommet), optionnelle."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "train",
+          "text": "Train vers Aguas Calientes (2 h 30)"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Aguas Calientes → Cusco",
+      "summary": "Retour en train à Cusco (2 h 30), puis journée libre : musée Inca et shopping artisanal.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Musée Inca",
+          "coords": [
+            -13.516,
+            -71.976
+          ],
+          "culture": "Le musée archéologique de Cusco abrite momies, céramiques et objets en or et en argent.",
+          "photo": "File:Museo Inka Peru 147.jpg"
+        },
+        {
+          "name": "Cusco",
+          "wiki": "Cusco"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Cusco",
+        "coords": [
+          -13.517,
+          -71.9785
+        ],
+        "note": "Hôtel à Cusco"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Journée libre à Cusco."
+        },
+        {
+          "label": "À voir",
+          "text": "Musée Inca (trésors archéologiques), shopping artisanal dans les rues de Cusco."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "train",
+          "text": "Retour en train (2 h 30)"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Cusco → Puno (lac Titicaca)",
+      "summary": "Bus Cusco → Puno (7 h) avec arrêts panoramiques : Andahuaylillas, Raqchi et La Raya.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Andahuaylillas",
+          "wiki": "Andahuaylillas",
+          "culture": "Village connu pour son église baroque aux intérieurs peints, surnommée la « chapelle Sixtine des Andes »."
+        },
+        {
+          "name": "Raqchi",
+          "wiki": "Raqchi",
+          "culture": "Site avec un grand temple inca dédié à Viracocha."
+        },
+        {
+          "name": "La Raya",
+          "culture": "Col à plus de 4 300 m, point culminant du trajet, avec vue sur les Andes.",
+          "photo": "File:La Raya Pass (4335 m), Peru.jpg",
+          "coords": [
+            -14.4786,
+            -71.0242
+          ]
+        },
+        {
+          "name": "Puno",
+          "wiki": "Puno"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Puno",
+        "coords": [
+          -15.8402,
+          -70.0219
+        ],
+        "note": "Hôtel à Puno"
+      },
+      "parts": [
+        {
+          "label": "Route",
+          "text": "Arrêts panoramiques en route."
+        },
+        {
+          "label": "À voir",
+          "text": "Andahuaylillas (église baroque), Raqchi (temple de Viracocha), La Raya (point culminant avec vue sur les Andes)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "bus",
+          "text": "Bus Cusco → Puno (7 h)"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Lac Titicaca : îles Uros et Taquile",
+      "summary": "Excursion en bateau sur le lac Titicaca : îles flottantes Uros en roseaux et île de Taquile, sa communauté et son artisanat.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Lac Titicaca",
+          "wiki": "Lake Titicaca",
+          "culture": "Plus haut lac navigable du monde, à environ 3 800 m, partagé entre le Pérou et la Bolivie."
+        },
+        {
+          "name": "Îles Uros",
+          "wiki": "Uros",
+          "culture": "Îles artificielles construites en roseaux totora, habitées par les Uros.",
+          "coords": [
+            -15.823,
+            -69.971
+          ]
+        },
+        {
+          "name": "Île de Taquile",
+          "wiki": "Taquile",
+          "culture": "Île dont la communauté, aux traditions de tricot reconnues par l'UNESCO, vit de façon collective."
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Puno",
+        "coords": [
+          -15.8402,
+          -70.0219
+        ],
+        "note": "Hôtel à Puno"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Découverte des îles flottantes."
+        },
+        {
+          "label": "À voir",
+          "text": "Îles Uros (îles artificielles faites de roseaux), île de Taquile (communauté traditionnelle et artisanat)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Excursion en bateau"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Puno → Arequipa",
+      "summary": "Bus Puno → Arequipa (6 h), détente avant le départ pour le canyon de Colca, place d'Armes et couvent de Santa Catalina.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Arequipa",
+          "wiki": "Arequipa",
+          "culture": "Surnommée la « ville blanche » pour ses bâtiments en sillar, une pierre volcanique blanche."
+        },
+        {
+          "name": "Plaza de Armas d'Arequipa",
+          "photo": "File:Plaza de Armas de Arequipa, Perú.jpg",
+          "coords": [
+            -16.3989,
+            -71.5369
+          ]
+        },
+        {
+          "name": "Couvent Santa Catalina",
+          "wiki": "Santa Catalina Monastery",
+          "culture": "Monastère colonial fondé en 1579, véritable petite ville close aux murs colorés."
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Arequipa",
+        "coords": [
+          -16.3989,
+          -71.5369
+        ],
+        "note": "Hôtel à Arequipa"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Détente avant le départ pour le canyon de Colca."
+        },
+        {
+          "label": "À voir",
+          "text": "Plaza de Armas (place principale), couvent Santa Catalina (monastère colonial)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "bus",
+          "text": "Bus Puno → Arequipa (6 h)"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "title": "Arequipa : canyon de Colca",
+      "summary": "Journée complète pour explorer les paysages volcaniques : canyon de Colca et ses condors, vue sur le volcan Misti.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Canyon de Colca",
+          "wiki": "Colca Canyon",
+          "culture": "L'un des canyons les plus profonds du monde ; on y observe les condors des Andes au petit matin."
+        },
+        {
+          "name": "Volcan Misti",
+          "wiki": "El Misti",
+          "culture": "Volcan de plus de 5 800 m qui domine Arequipa."
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Arequipa",
+        "coords": [
+          -16.3989,
+          -71.5369
+        ],
+        "note": "Hôtel à Arequipa"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Exploration des paysages volcaniques."
+        },
+        {
+          "label": "À voir",
+          "text": "Canyon de Colca (spectacle naturel avec les condors), vue sur le volcan Misti, symbole de la ville."
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "title": "Arequipa → La Paz (Bolivie)",
+      "summary": "Bus Arequipa → La Paz (7 h), puis découverte de La Paz : vallée de la Lune et téléphérique Mi Teleférico.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "La Paz",
+          "wiki": "La Paz",
+          "culture": "Siège du gouvernement bolivien, à environ 3 600 m d'altitude, dans une cuvette entourée de montagnes."
+        },
+        {
+          "name": "Vallée de la Lune (La Paz)",
+          "culture": "Formations d'argile érodées en pointes, à la lisière sud de la ville.",
+          "photo": "File:03-Valle de la Luna (La Paz)-31.jpg",
+          "coords": [
+            -16.564,
+            -68.09
+          ]
+        },
+        {
+          "name": "Mi Teleférico",
+          "wiki": "Mi Teleférico",
+          "culture": "Plus grand réseau de téléphériques urbains du monde, avec des vues panoramiques sur La Paz."
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à La Paz",
+        "coords": [
+          -16.495,
+          -68.1336
+        ],
+        "note": "Hôtel à La Paz"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Découverte de La Paz."
+        },
+        {
+          "label": "À voir",
+          "text": "Vallée de la Lune (paysage lunaire), balade en Mi Teleférico (téléphérique avec vue panoramique)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "bus",
+          "text": "Bus Arequipa → La Paz (7 h)"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "title": "La Paz → Uyuni",
+      "summary": "Bus La Paz → Uyuni (10 h) et détente avant le départ pour le salar, avec une balade nocturne sous le ciel étoilé.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Uyuni",
+          "wiki": "Uyuni"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Uyuni",
+        "coords": [
+          -20.4637,
+          -66.825
+        ],
+        "note": "Hôtel à Uyuni"
+      },
+      "parts": [
+        {
+          "label": "Soir",
+          "text": "Détente avant le départ pour le Salar, balade nocturne sous le ciel étoilé."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "bus",
+          "text": "Bus La Paz → Uyuni (10 h)"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "title": "Salar d'Uyuni",
+      "summary": "Début du tour de 3 jours en 4x4 : désert de sel infini et Isla Incahuasi, île de cactus géants au milieu du salar.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Salar d'Uyuni",
+          "wiki": "Salar de Uyuni",
+          "culture": "Plus grand désert de sel du monde, environ 10 000 km², au miroir spectaculaire en saison des pluies."
+        },
+        {
+          "name": "Isla Incahuasi",
+          "wiki": "Incahuasi Island",
+          "culture": "Îlot rocheux couvert de cactus géants, parfois centenaires, au milieu du salar.",
+          "photo": "File:Isla Incahuasi Uyuni 2018.jpg",
+          "coords": [
+            -20.242,
+            -67.626
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel de sel",
+        "coords": [
+          -20.24,
+          -67.5
+        ],
+        "note": "Hôtel de sel"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Début du tour de 3 jours en 4x4, exploration du salar."
+        },
+        {
+          "label": "À voir",
+          "text": "Salar d'Uyuni (désert de sel infini), Isla Incahuasi (île au milieu du salar avec des cactus géants)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Tour de 3 jours en 4x4"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "title": "Salar d'Uyuni : lagunes et déserts",
+      "summary": "Suite du tour en 4x4 : lagunes colorées, Laguna Colorada et ses flamants roses, geysers Sol de Mañana.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Laguna Colorada",
+          "wiki": "Laguna Colorada",
+          "culture": "Lagune rouge aux eaux colorées par des algues, peuplée de flamants roses."
+        },
+        {
+          "name": "Geysers Sol de Mañana",
+          "wiki": "Sol de Mañana",
+          "culture": "Champ géothermique à environ 4 800 m, avec fumerolles et bassins de boue."
+        }
+      ],
+      "stay": {
+        "name": "Campement",
+        "coords": [
+          -22.2,
+          -67.8
+        ],
+        "note": "Campement"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Découverte des lagunes colorées."
+        },
+        {
+          "label": "À voir",
+          "text": "Laguna Colorada (lac rouge avec des flamants roses), geysers Sol de Mañana (bains de boue et geysers)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Suite du tour en 4x4"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "title": "Salar d'Uyuni → Atacama (Chili)",
+      "summary": "Traversée de paysages désertiques : Laguna Verde, désert de Siloli, puis bus vers San Pedro de Atacama (8 h).",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Laguna Verde",
+          "wiki": "Laguna Verde (Bolivia)",
+          "culture": "Lac vert-turquoise au pied du volcan Licancabur, dont la couleur vient de minéraux comme le cuivre."
+        },
+        {
+          "name": "Désert de Siloli",
+          "photo": "File:Árbol de Piedra, Desierto de Siloli, Bolivia, 2016-02-03, DD 03.JPG",
+          "coords": [
+            -22.0,
+            -67.77
+          ]
+        },
+        {
+          "name": "San Pedro de Atacama",
+          "wiki": "San Pedro de Atacama"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à San Pedro",
+        "coords": [
+          -22.91,
+          -68.2
+        ],
+        "note": "Hôtel à San Pedro"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Traversée des paysages désertiques."
+        },
+        {
+          "label": "À voir",
+          "text": "Laguna Verde (lac vert), désert de Siloli (formation rocheuse spectaculaire)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "bus",
+          "text": "Bus Uyuni → Atacama (8 h)"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "title": "San Pedro de Atacama",
+      "summary": "Journée d'excursions dans le désert : vallée de la Lune et geysers d'El Tatio, à voir tôt le matin.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Vallée de la Lune (Atacama)",
+          "wiki": "Valle de la Luna (Chile)",
+          "culture": "Paysage de sel, de sable et de roche, surtout apprécié au coucher du soleil."
+        },
+        {
+          "name": "Geysers d'El Tatio",
+          "wiki": "El Tatio",
+          "culture": "L'un des plus hauts champs de geysers du monde, à environ 4 300 m, à voir tôt pour la vapeur."
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à San Pedro",
+        "coords": [
+          -22.91,
+          -68.2
+        ],
+        "note": "Hôtel à San Pedro"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Exploration du désert."
+        },
+        {
+          "label": "À voir",
+          "text": "Vallée de la Lune (formation géologique unique), geysers d'El Tatio (tôt le matin, pour voir les geysers en éruption)."
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "title": "Atacama → Salta (Argentine)",
+      "summary": "Bus Atacama → Salta (8 h) par le Paso de Jama, avec des paysages andins et un panorama sur la Puna.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Paso de Jama",
+          "wiki": "Paso de Jama"
+        },
+        {
+          "name": "Puna",
+          "wiki": "Puna de Atacama"
+        },
+        {
+          "name": "Salta",
+          "wiki": "Salta"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Salta",
+        "coords": [
+          -24.788,
+          -65.41
+        ],
+        "note": "Hôtel à Salta"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Traversée du Paso de Jama : paysages andins avec vues spectaculaires, panorama sur la Puna."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "bus",
+          "text": "Bus Atacama → Salta (8 h)"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "title": "Salta",
+      "summary": "Journée libre dans le centre historique : place du 9 Juillet, cathédrale baroque et musée MAAM d'archéologie.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Plaza 9 de Julio",
+          "photo": "File:Salta - Plaza 9 de Julio.jpg",
+          "coords": [
+            -24.7883,
+            -65.4106
+          ]
+        },
+        {
+          "name": "Cathédrale de Salta",
+          "wiki": "Salta Cathedral"
+        },
+        {
+          "name": "Musée MAAM",
+          "wiki": "Museo de Arqueología de Alta Montaña",
+          "culture": "Musée qui expose les « enfants de Llullaillaco », momies incas exceptionnellement préservées."
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Salta",
+        "coords": [
+          -24.788,
+          -65.41
+        ],
+        "note": "Hôtel à Salta"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Visite du centre historique."
+        },
+        {
+          "label": "À voir",
+          "text": "Plaza 9 de Julio (place centrale), cathédrale de Salta (architecture baroque), musée MAAM (musée d'archéologie)."
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "title": "Salta → Cafayate",
+      "summary": "Route panoramique de 4 h vers Cafayate, par la Quebrada de las Conchas, avec dégustation de vins.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Quebrada de las Conchas",
+          "wiki": "Quebrada de las Conchas",
+          "culture": "Gorge aux formations rocheuses rouges, sculptées par l'érosion."
+        },
+        {
+          "name": "Cafayate",
+          "wiki": "Cafayate",
+          "culture": "Capitale des vins d'altitude du nord argentin, célèbre pour le Torrontés."
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Cafayate",
+        "coords": [
+          -26.073,
+          -65.976
+        ],
+        "note": "Hôtel à Cafayate"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Dégustation de vins."
+        },
+        {
+          "label": "À voir",
+          "text": "Quebrada de las Conchas (formation rocheuse rouge), vignobles de Cafayate et Torrontés."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Route panoramique en voiture (4 h)"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "title": "Cafayate",
+      "summary": "Journée d'exploration : balade dans les vignobles et dégustation de Torrontés.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Vignobles de Cafayate",
+          "coords": [
+            -26.08,
+            -65.98
+          ],
+          "culture": "Parmi les vignobles les plus hauts du monde, entre 1 600 et 3 000 m d'altitude.",
+          "photo": "File:Cafayate vineyard.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Cafayate",
+        "coords": [
+          -26.073,
+          -65.976
+        ],
+        "note": "Hôtel à Cafayate"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Balade dans les vignobles, dégustation de Torrontés, paysages uniques de la région."
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "title": "Cafayate → Purmamarca",
+      "summary": "Route de 5 h vers Purmamarca : randonnée, montagne aux 7 couleurs, village traditionnel et artisanat.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Purmamarca",
+          "wiki": "Purmamarca"
+        },
+        {
+          "name": "Cerro de los Siete Colores",
+          "wiki": "Cerro de los Siete Colores",
+          "culture": "Montagne striée de sept teintes minérales, qui domine le village."
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Purmamarca",
+        "coords": [
+          -23.745,
+          -65.496
+        ],
+        "note": "Hôtel à Purmamarca"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Randonnée dans la région."
+        },
+        {
+          "label": "À voir",
+          "text": "Montagne aux 7 couleurs (spectacle naturel de couleurs), village traditionnel et artisanat."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Route en voiture (5 h)"
+        }
+      ]
+    },
+    {
+      "n": 22,
+      "title": "Purmamarca → Salta → vol retour",
+      "summary": "Retour à Salta (3 h), shopping de souvenirs et détente, puis vol pour Lima.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Salta",
+          "wiki": "Salta"
+        }
+      ],
+      "stay": null,
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Fin du voyage : shopping de souvenirs et détente."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Retour à Salta (3 h)"
+        },
+        {
+          "mode": "flight",
+          "text": "Vol Salta → Lima"
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "budget",
+      "title": "Budget estimé",
+      "summary": "Estimation du budget pour 2 personnes, en euros.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Catégorie",
+            "Estimation"
+          ],
+          "rows": [
+            [
+              "Vols internationaux aller-retour",
+              "2 000 EUR"
+            ],
+            [
+              "Transports internes",
+              "1 000 EUR"
+            ],
+            [
+              "Hébergement (22 nuits)",
+              "2 600 EUR"
+            ],
+            [
+              "Activités et repas (22 jours)",
+              "2 600 EUR"
+            ],
+            [
+              "Total estimé pour 2 personnes",
+              "8 200 EUR"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "season": "Août / Septembre",
+  "kind": "tier2"
+}

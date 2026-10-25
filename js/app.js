@@ -278,7 +278,8 @@ function mountHome() {
     ${seasons.map(se => {
       const list = open.filter(t => t.season === se);
       return `<h2 class="home-section">${esc(se)}</h2>`
-        + group('Voyages longs', list.filter(t => t.kind !== 'minimoon'))
+        + group('Voyages longs', list.filter(t => !t.kind || t.kind === 'long'))
+        + group('Autres idées', list.filter(t => t.kind === 'tier2'))
         + group('Minimoon', list.filter(t => t.kind === 'minimoon'));
     }).join('')}
     ${done.length ? `<h2 class="home-section">Voyages réalisés</h2><div class="cards">${done.map(t => card(t.id)).join('')}</div>` : ''}

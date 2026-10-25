@@ -1,0 +1,1280 @@
+{
+  "id": "thailand",
+  "title": "Thaïlande",
+  "subtitle": "De Bangkok à Koh Tao en 19 jours : temples, jungle de Khao Sok et îles de la mer d'Andaman et du golfe de Thaïlande (itinéraire d'origine du 27 décembre au 14 janvier)",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Railay Beach",
+  "days": [
+    {
+      "n": 1,
+      "title": "Paris → Bangkok",
+      "summary": "Vol international (15 à 16 h avec escale), repos et exploration légère : promenade dans le quartier historique et dîner sur un rooftop.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Bangkok",
+          "wiki": "Bangkok"
+        },
+        {
+          "name": "Quartier historique de Bangkok",
+          "wiki": "Rattanakosin Island",
+          "culture": "Île de Rattanakosin, cœur historique et royal de la ville."
+        },
+        {
+          "name": "Sky Bar",
+          "wiki": "Lebua at State Tower",
+          "coords": [
+            13.7218,
+            100.5167
+          ],
+          "culture": "Bar en terrasse au 64e étage de la State Tower, rendu célèbre par le film Very Bad Trip 2."
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Bangkok",
+        "coords": [
+          13.7563,
+          100.5018
+        ],
+        "note": "Hôtel à Bangkok",
+        "options": [
+          "Nouvo City Hotel"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Repos et exploration légère : promenade dans le quartier historique, repos du décalage horaire."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner sur un rooftop (Sky Bar, Vertigo, ou Above Riva, un peu plus calme)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol international (15 à 16 h avec escale)"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Bangkok",
+      "summary": "Visites culturelles et spirituelles : Grand Palais, Wat Phra Kaew, Wat Arun, Chinatown, marchés flottants et marché nocturne de Talad Rot Fai.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Grand Palais",
+          "wiki": "Grand Palace",
+          "culture": "Résidence des rois du Siam depuis 1782, ensemble de pavillons dorés."
+        },
+        {
+          "name": "Wat Phra Kaew",
+          "wiki": "Wat Phra Kaew",
+          "culture": "Temple du Bouddha d'émeraude, le plus sacré de Thaïlande."
+        },
+        {
+          "name": "Wat Arun",
+          "wiki": "Wat Arun",
+          "culture": "Temple de l'Aube, dont la tour centrale en porcelaine domine le fleuve Chao Phraya."
+        },
+        {
+          "name": "Chinatown de Bangkok",
+          "wiki": "Yaowarat Road"
+        },
+        {
+          "name": "Marché flottant de Damnoen Saduak",
+          "wiki": "Damnoen Saduak Floating Market"
+        },
+        {
+          "name": "Marché nocturne de Talad Rot Fai",
+          "wiki": "Talad Rot Fai",
+          "coords": [
+            13.764,
+            100.62
+          ]
+        },
+        {
+          "name": "Wat Saket",
+          "wiki": "Wat Saket",
+          "culture": "Temple du Mont d'Or, perché sur une colline artificielle, avec vue sur la vieille ville."
+        },
+        {
+          "name": "Canaux de Thonburi",
+          "wiki": "Thonburi",
+          "coords": [
+            13.728,
+            100.486
+          ]
+        },
+        {
+          "name": "Marché flottant de Tha Kha",
+          "coords": [
+            13.427,
+            99.972
+          ],
+          "culture": "Marché flottant plus authentique et moins bondé que Damnoen Saduak.",
+          "photo": "File:Samutsongkram Tha Kha Floating Market 2.jpg"
+        },
+        {
+          "name": "Marché de Chang Chui",
+          "wiki": "Chang Chui",
+          "coords": [
+            13.769,
+            100.468
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Bangkok",
+        "coords": [
+          13.7563,
+          100.5018
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Touristique",
+          "text": "Grand Palais, temple Wat Phra Kaew, Wat Arun, balade dans Chinatown, marché flottant de Damnoen Saduak, marché nocturne de Talad Rot Fai."
+        },
+        {
+          "label": "Hors des sentiers battus",
+          "text": "Wat Saket (Golden Mount), canaux de Thonburi en bateau, marché flottant de Tha Kha (moins bondé que Damnoen Saduak), soirée au marché d'artisanat de Chang Chui."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Tuk-tuk et transport public"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Ayutthaya",
+      "summary": "Journée dans l'ancienne capitale : parc historique, Wat Mahathat, Wat Phra Si Sanphet, Wat Chaiwatthanaram, vélo entre les temples et croisière sur le Chao Phraya.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Parc historique d'Ayutthaya",
+          "wiki": "Ayutthaya Historical Park",
+          "culture": "Ruines de l'ancienne capitale du royaume d'Ayutthaya, qui régna de 1351 à 1767, inscrites à l'UNESCO."
+        },
+        {
+          "name": "Wat Mahathat",
+          "culture": "Connu pour la tête de Bouddha prise dans les racines d'un figuier.",
+          "photo": "File:Buddha head in bodhi tree, Wat Mahathat.jpg",
+          "coords": [
+            14.3568,
+            100.5683
+          ]
+        },
+        {
+          "name": "Wat Phra Si Sanphet",
+          "wiki": "Wat Phra Si Sanphet",
+          "culture": "Ancien temple du palais royal, avec trois grands chedis."
+        },
+        {
+          "name": "Wat Chaiwatthanaram",
+          "wiki": "Wat Chaiwatthanaram",
+          "culture": "Temple khmer de 1630 sur la rive du Chao Phraya, particulièrement beau au coucher du soleil."
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Bangkok",
+        "coords": [
+          13.7563,
+          100.5018
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Parc historique, Wat Mahathat, Wat Phra Si Sanphet, Wat Chaiwatthanaram, promenade en vélo autour des temples."
+        },
+        {
+          "label": "Fin de journée",
+          "text": "Croisière sur la rivière Chao Phraya."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "train",
+          "text": "Train ou voiture Bangkok → Ayutthaya → Bangkok (2 h à l'aller)"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Chiang Mai",
+      "summary": "Vol Bangkok → Chiang Mai (1 h 20) et découverte du centre : Wat Chedi Luang, Sunday Walking Street, vieille ville et dîner au marché de nuit.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Chiang Mai",
+          "wiki": "Chiang Mai"
+        },
+        {
+          "name": "Wat Chedi Luang",
+          "wiki": "Wat Chedi Luang",
+          "culture": "Temple dont le grand chedi du XVe siècle abrita le Bouddha d'émeraude, avant un tremblement de terre."
+        },
+        {
+          "name": "Sunday Walking Street",
+          "coords": [
+            18.787,
+            98.993
+          ],
+          "photo": "File:Chiang Mai sunday evening walking street.jpg"
+        },
+        {
+          "name": "Vieille ville de Chiang Mai",
+          "coords": [
+            18.788,
+            98.993
+          ],
+          "photo": "File:Chiang Mai city walls.jpg"
+        },
+        {
+          "name": "Ginger & Kafe",
+          "coords": [
+            18.787,
+            98.993
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Chiang Mai",
+        "coords": [
+          18.7883,
+          98.9853
+        ],
+        "note": "Hôtel à Chiang Mai",
+        "options": [
+          "Tamarind Village",
+          "Green Tiger House"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Visite du centre-ville : temple Wat Chedi Luang, Sunday Walking Street, balade dans la vieille ville."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner au marché de nuit, ou au calme à Ginger & Kafe."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol Bangkok → Chiang Mai (1 h 20)"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Chiang Mai : nature et artisanat",
+      "summary": "Doi Suthep, Doi Inthanon, ferme d'éléphants éthique, village karen, ateliers de cuisine thaïlandaise et d'artisanat.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Doi Suthep",
+          "wiki": "Doi Suthep",
+          "culture": "Montagne couronnée par le temple Wat Phra That Doi Suthep, avec vue sur Chiang Mai."
+        },
+        {
+          "name": "Doi Inthanon",
+          "wiki": "Doi Inthanon",
+          "culture": "Plus haut sommet de Thaïlande, à 2 565 m ; à éviter le week-end pour la foule."
+        },
+        {
+          "name": "Elephant Nature Park",
+          "wiki": "Elephant Nature Park"
+        },
+        {
+          "name": "Village karen",
+          "coords": [
+            18.6,
+            98.5
+          ],
+          "photo": "File:Trekking in Chang Mai, Karen village - panoramio.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Chiang Mai",
+        "coords": [
+          18.7883,
+          98.9853
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Doi Suthep, Doi Inthanon (éviter le week-end pour la foule), ferme d'éléphants éthique (ex. Elephant Nature Park), village karen."
+        },
+        {
+          "label": "Ateliers",
+          "text": "Atelier de cuisine thaïlandaise, atelier artisanal (tissage ou poterie)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Tuk-tuk ou voiture"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Chiang Mai → parc de Khao Sok",
+      "summary": "Vol vers Surat Thani (2 h) et transfert (2 h) jusqu'à Khao Sok : kayak sur la rivière Sok et balade en jungle avec un guide.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Parc national de Khao Sok",
+          "wiki": "Khao Sok National Park",
+          "culture": "L'une des plus anciennes forêts tropicales du monde, antérieure à l'Amazonie, selon les scientifiques."
+        },
+        {
+          "name": "Rivière Sok",
+          "coords": [
+            8.9,
+            98.53
+          ],
+          "photo": "File:River in Khao Sok National Park.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Lodge dans Khao Sok",
+        "coords": [
+          8.9,
+          98.53
+        ],
+        "note": "Lodge dans Khao Sok",
+        "options": [
+          "Khao Sok Boutique Camp",
+          "Our Jungle Camp (bungalow flottant sur le lac de Cheow Lan)"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Kayak sur la rivière Sok, balade dans la jungle avec un guide local pour découvrir la flore unique (éviter les heures de pointe pour la tranquillité)."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner dans un restaurant local."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol vers Surat Thani (2 h) + transfert (2 h)"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Khao Sok : lac Cheow Lan",
+      "summary": "Journée sur le lac Cheow Lan : bateau longue queue, grottes, îles isolées, baignade et observation de la faune.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Lac Cheow Lan",
+          "wiki": "Cheow Lan Lake",
+          "culture": "Lac de barrage entouré de karsts calcaires, parfois comparé à la baie d'Halong."
+        }
+      ],
+      "stay": {
+        "name": "Lodge dans Khao Sok",
+        "coords": [
+          8.9,
+          98.53
+        ],
+        "note": "Même lodge"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Balade en bateau longue queue, grottes et îles isolées, baignade, observation de la faune au calme."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Excursion en bateau et marche"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Khao Sok → Krabi",
+      "summary": "Transfert en voiture (3 h), plage d'Ao Nang, coucher de soleil sur Railay Beach et marché de nuit.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Krabi",
+          "wiki": "Krabi"
+        },
+        {
+          "name": "Plage d'Ao Nang",
+          "wiki": "Ao Nang",
+          "coords": [
+            8.039,
+            98.82
+          ]
+        },
+        {
+          "name": "Railay Beach",
+          "wiki": "Railay Beach",
+          "culture": "Presqu'île coupée du continent par des falaises calcaires, accessible seulement en bateau."
+        },
+        {
+          "name": "Marché de nuit de Krabi",
+          "coords": [
+            8.064,
+            98.913
+          ],
+          "photo": "File:Krabi Night Market.JPG"
+        },
+        {
+          "name": "Koh Lao Lading",
+          "coords": [
+            7.963,
+            98.748
+          ],
+          "photo": "File:2016-04-12 Ko Lao Lading 01.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Krabi",
+        "coords": [
+          8.0863,
+          98.9063
+        ],
+        "note": "Hôtel à Krabi",
+        "options": [
+          "The Tubkaak Boutique Resort"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Détente et exploration locale : plage d'Ao Nang, coucher de soleil sur Railay Beach, night market, Koh Lao Lading."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Transfert en voiture (3 h)"
+        }
+      ],
+      "ideas": [
+        {
+          "label": "Khao Lak",
+          "text": "Small Sandy Beach (la plus mignonne), White Sand Beach, Coconut Beach (eau turquoise). Khuk Khak, pour son ampleur et son côté sauvage ; Coconut Beach est une jolie baie abritée telle un lagon ; Nang Thong, la plus pittoresque au coucher du soleil, avec son phare, ses surfeurs et ses martins-pêcheurs."
+        },
+        {
+          "label": "Îles Similan",
+          "text": "Plage de Similan island n° 8 : blocs de granit comme aux Seychelles."
+        },
+        {
+          "label": "Île de Surin",
+          "text": "Pour la plongée : Koh Tachai et Richelieu Rock."
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Krabi : Koh Phi Phi",
+      "summary": "Excursion en bateau (1 h) à Koh Phi Phi : Maya Bay, Monkey Beach, snorkeling sur les récifs et « 4 islands tour » vers Krabi.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Maya Bay",
+          "wiki": "Maya Bay",
+          "culture": "Baie rendue célèbre par le film La Plage, fermée à intervalles pour laisser le récif se régénérer."
+        },
+        {
+          "name": "Monkey Beach",
+          "coords": [
+            7.744,
+            98.762
+          ],
+          "photo": "File:Monkey Beach at Phi Phi Don Island - panoramio.jpg"
+        },
+        {
+          "name": "Koh Phi Phi",
+          "wiki": "Phi Phi Islands"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Krabi",
+        "coords": [
+          8.0863,
+          98.9063
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Excursion à Koh Phi Phi : Maya Bay, Monkey Beach, snorkeling autour des récifs coralliens, « 4 islands tour » vers Krabi."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Excursion en bateau (1 h)"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "title": "Krabi : baie de Phang Nga",
+      "summary": "Départ matinal en bateau longue queue (5 h) : Koh Hong, Koh Panak, James Bond Island et village flottant de Koh Panyee.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Baie de Phang Nga",
+          "wiki": "Phang Nga Bay",
+          "culture": "Baie parsemée de pitons calcaires émergeant de l'eau, classée parc national marin."
+        },
+        {
+          "name": "Koh Hong",
+          "coords": [
+            8.15,
+            98.47
+          ],
+          "photo": "File:Sea Kayak Ko Hong.jpg"
+        },
+        {
+          "name": "Koh Panak",
+          "coords": [
+            8.25,
+            98.53
+          ],
+          "photo": "File:Isla Panak, Phuket, Tailandia, 2013-08-20, DD 01.JPG"
+        },
+        {
+          "name": "James Bond Island",
+          "wiki": "Ko Tapu",
+          "culture": "Îlot rocheux en forme de clou, apparu dans L'Homme au pistolet d'or en 1974."
+        },
+        {
+          "name": "Village flottant de Koh Panyee",
+          "wiki": "Ko Panyi"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Krabi",
+        "coords": [
+          8.0863,
+          98.9063
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Départ matinal depuis Krabi pour Thalane Pier ou l'embarcadère de la mangrove d'Ao Thalane (30 min) ; sinon le port le plus proche de la baie est Samchong Pier, côté Phuket."
+        },
+        {
+          "label": "Journée",
+          "text": "Koh Hong (lagon et snorkeling), Koh Panak (grottes et lagons), James Bond Island (Koh Tapu), village flottant de Koh Panyee (déjeuner dans un restaurant local)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture (30 min)"
+        },
+        {
+          "mode": "boat",
+          "text": "Bateau longue queue (5 h)"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "title": "Krabi → Koh Lanta",
+      "summary": "Ferry (1 h 30), plages de Klong Dao et de Long Beach, plages désertes de l'est, marché local et dîner en bord de mer.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Koh Lanta",
+          "photo": "File:Lanta Island resort - panoramio.jpg",
+          "coords": [
+            7.6,
+            99.05
+          ]
+        },
+        {
+          "name": "Plage de Klong Dao",
+          "wiki": "Klong Dao Beach",
+          "coords": [
+            7.605,
+            99.025
+          ]
+        },
+        {
+          "name": "Long Beach",
+          "wiki": "Phra Ae Beach",
+          "coords": [
+            7.545,
+            99.041
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Koh Lanta",
+        "coords": [
+          7.55,
+          99.04
+        ],
+        "note": "Hôtel à Koh Lanta",
+        "options": [
+          "Pimalai Resort & Spa",
+          "Coco Cape Lanta Resort"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Exploration et détente : plages de Klong Dao et Long Beach, plages désertes de l'est de l'île, marché local, dîner en bord de mer."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry (1 h 30)"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "title": "Koh Lanta",
+      "summary": "Parc national de Koh Lanta, vieille ville de Lanta Old Town, snorkeling vers Koh Rok et plages reculées comme Bamboo Bay.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Parc national de Koh Lanta",
+          "wiki": "Mu Ko Lanta National Park"
+        },
+        {
+          "name": "Lanta Old Town",
+          "coords": [
+            7.596,
+            99.083
+          ],
+          "culture": "Ancien port de commerce, aux maisons sur pilotis des Chao Le.",
+          "photo": "File:Ko Lanta - Lanta Old Town - 0049.jpg"
+        },
+        {
+          "name": "Koh Rok",
+          "coords": [
+            7.215,
+            99.268
+          ],
+          "photo": "File:Beach ko rok yai, Thailand - Strand (19507318313).jpg"
+        },
+        {
+          "name": "Bamboo Bay",
+          "wiki": "Bamboo Bay (Ko Lanta)",
+          "coords": [
+            7.498,
+            99.117
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Koh Lanta",
+        "coords": [
+          7.55,
+          99.04
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Parc national de Koh Lanta : randonnée, visite de Lanta Old Town, snorkeling autour de Koh Rok, plages reculées comme Bamboo Bay."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Scooter ou voiture"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "title": "Koh Lanta → Koh Yao Noi",
+      "summary": "Ferry (3 h), balade en vélo dans les rizières et les villages locaux, dîner au calme avec vue.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Koh Yao Noi",
+          "photo": "File:Sunrise, Koh Yao Noi (island), Phang Nga Bay, Thailand.jpg",
+          "coords": [
+            8.117,
+            98.631
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Koh Yao Noi",
+        "coords": [
+          8.117,
+          98.631
+        ],
+        "note": "Hôtel à Koh Yao Noi",
+        "options": [
+          "TreeHouse Villas",
+          "Six Senses Koh Yao Noi"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Balade en vélo dans les rizières et villages locaux, dîner au calme avec vue."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry (3 h)"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "title": "Koh Yao Noi : îles Hong",
+      "summary": "Journée en bateau privé : îles Hong, lagon isolé et baignade dans des criques désertes.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Îles Hong",
+          "coords": [
+            8.15,
+            98.47
+          ],
+          "photo": "File:Sea Kayak Ko Hong.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Koh Yao Noi",
+        "coords": [
+          8.117,
+          98.631
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Journée en bateau privé : îles Hong, lagon isolé, baignade dans des criques désertes."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Excursion en bateau"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "title": "Koh Lanta → Koh Samui",
+      "summary": "Ferry + vol (3 à 4 h), Big Buddha, Wat Plai Laem et promenade sur Chaweng Beach.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Koh Samui",
+          "wiki": "Ko Samui"
+        },
+        {
+          "name": "Big Buddha",
+          "culture": "Statue de 12 m de haut, bâtie en 1972, qui domine le nord de l'île.",
+          "photo": "File:Koh Samui Big Buddha - panoramio.jpg",
+          "coords": [
+            9.578,
+            100.062
+          ]
+        },
+        {
+          "name": "Wat Plai Laem",
+          "wiki": "Wat Plai Laem"
+        },
+        {
+          "name": "Plage de Chaweng",
+          "photo": "File:Chaweng-beach koh Samui.jpg",
+          "coords": [
+            9.53,
+            100.065
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Koh Samui",
+        "coords": [
+          9.53,
+          100.06
+        ],
+        "note": "Hôtel à Koh Samui",
+        "options": [
+          "SALA Samui"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Détente et exploration : Big Buddha, Wat Plai Laem, promenade sur Chaweng Beach."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry"
+        },
+        {
+          "mode": "flight",
+          "text": "Vol (3 à 4 h au total)"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "title": "Koh Samui",
+      "summary": "Cascade de Na Muang, plage de Silver Beach et excursion en bateau vers l'archipel de Mu Ko Ang Thong.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Cascade de Na Muang",
+          "coords": [
+            9.47,
+            99.968
+          ],
+          "photo": "File:Nam Tok Na Muang, Ko Samui, Thailand (4570914278).jpg"
+        },
+        {
+          "name": "Silver Beach",
+          "wiki": "Lamai Beach",
+          "coords": [
+            9.47,
+            100.05
+          ]
+        },
+        {
+          "name": "Archipel d'Ang Thong",
+          "wiki": "Ang Thong National Marine Park"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Koh Samui",
+        "coords": [
+          9.53,
+          100.06
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Cascade de Na Muang, plage de Silver Beach, excursion en bateau vers l'archipel de Mu Ko Ang Thong ; exploration et snorkeling."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture ou scooter"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "title": "Koh Samui → Koh Tao",
+      "summary": "Ferry rapide (2 h), snorkeling à Shark Bay, Ao Leuk et Hin Wong Bay, coucher de soleil à John-Suwan Viewpoint.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Koh Tao",
+          "wiki": "Ko Tao",
+          "culture": "Île réputée pour la plongée, où l'on passe chaque année des milliers de brevets."
+        },
+        {
+          "name": "Shark Bay",
+          "coords": [
+            10.065,
+            99.833
+          ],
+          "photo": "File:Koh Tao, View from Shark Bay, Thailand.jpg"
+        },
+        {
+          "name": "Ao Leuk",
+          "coords": [
+            10.077,
+            99.835
+          ],
+          "photo": "File:Ao Leuk beach in Ko Tao - Thailand - panoramio.jpg"
+        },
+        {
+          "name": "Hin Wong Bay",
+          "coords": [
+            10.1,
+            99.84
+          ],
+          "photo": "File:Hin Wong Bay.jpg"
+        },
+        {
+          "name": "John-Suwan Viewpoint",
+          "wiki": "John-Suwan Viewpoint",
+          "coords": [
+            10.071,
+            99.832
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Koh Tao",
+        "coords": [
+          10.06,
+          99.84
+        ],
+        "note": "Hôtel à Koh Tao",
+        "options": [
+          "The Haad Tien Beach Resort"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Snorkeling : Shark Bay, Ao Leuk, Hin Wong Bay ; coucher de soleil à John-Suwan Viewpoint."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry rapide (2 h)"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "title": "Koh Tao",
+      "summary": "Plongée sous-marine, randonnée vers Mango Viewpoint, dîner sur Sairee Beach et randonnée au coucher du soleil vers Love Koh Tao Viewpoint.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Mango Viewpoint",
+          "wiki": "Mango Viewpoint",
+          "coords": [
+            10.078,
+            99.84
+          ]
+        },
+        {
+          "name": "Plage de Sairee",
+          "photo": "File:Sairee Beach - panoramio.jpg",
+          "coords": [
+            10.095,
+            99.813
+          ]
+        },
+        {
+          "name": "Love Koh Tao Viewpoint",
+          "coords": [
+            10.084,
+            99.819
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Koh Tao",
+        "coords": [
+          10.06,
+          99.84
+        ],
+        "note": "Même hôtel"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Plongée sous-marine, randonnée vers Mango Viewpoint."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner sur Sairee Beach, randonnée au coucher du soleil vers Love Koh Tao Viewpoint."
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "title": "Koh Tao → Bangkok → Paris",
+      "summary": "Ferry + vol (3 h jusqu'à Bangkok) puis vol international retour.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Bangkok",
+          "wiki": "Bangkok"
+        }
+      ],
+      "stay": null,
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry"
+        },
+        {
+          "mode": "flight",
+          "text": "Vol Bangkok (3 h) puis vol international retour"
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "comparatif-iles",
+      "title": "Comparatif des îles et archipels",
+      "summary": "Ambiance, accès, plages, nature, tourisme et adéquation à un voyage de noces, île par île.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Destination",
+            "Ambiance et activités principales",
+            "Points d'intérêt principaux",
+            "Idéal pour",
+            "Facilité d'accès (/10)",
+            "Beauté des plages (/10)",
+            "Nature et randonnées (/10)",
+            "Tourisme (/10)",
+            "Voyage de noces (/10)"
+          ],
+          "rows": [
+            [
+              "Koh Samui (golfe de Thaïlande)",
+              "Luxe, détente : plongée, yoga, spas, fêtes",
+              "Plages de Chaweng et Lamai ; cascades (Na Muang) ; temples Wat Plai Laem et Big Buddha ; archipel Ang Thong National Marine Park",
+              "Couples, amateurs de luxe, relaxation",
+              "9 : depuis Bangkok, vol (1 h 15) ou bus/train jusqu'à Surat Thani, puis ferry (1 h 30)",
+              "9 (plages paradisiaques et bien entretenues)",
+              "7 (forêts et cascades accessibles)",
+              "8 (tourisme développé mais moins intense qu'à Phuket)",
+              "8 : bonne infrastructure, hôtels de luxe, mais touristique"
+            ],
+            [
+              "Koh Phangan (golfe de Thaïlande)",
+              "Festive, nature : fêtes, yoga, randonnées",
+              "Full Moon Party (Haad Rin) ; plages isolées (Bottle Beach) ; randonnées vers Phaeng Waterfall ; Haad Yuan : communauté yoga",
+              "Fêtards, amoureux de la nature",
+              "8 : via Koh Samui, ferries fréquents (Surat Thani + ferry 3-4 h au total)",
+              "8 (plages sauvages et moins bondées)",
+              "8 (jungle dense, points de vue)",
+              "7 (très touristique lors des Full Moon)",
+              "7 : nature préservée, mais très touristique lors des Full Moon Parties"
+            ],
+            [
+              "Koh Tao (golfe de Thaïlande)",
+              "Calme, plongée : plongée, snorkeling, randonnée",
+              "Récifs coralliens et spots de plongée mondialement réputés ; vue depuis John-Suwan Viewpoint ; baies pittoresques (Shark Bay, Ao Leuk) ; Sairee Beach : plage animée",
+              "Plongeurs, couples, amateurs de nature",
+              "7 (ferries 2 h environ depuis Koh Samui, Koh Phangan ou Chumphon)",
+              "9 (plages de carte postale)",
+              "8 (riche biodiversité marine et terrestre)",
+              "6 (tourisme concentré autour de la plongée)",
+              "8 : calme et idéal pour la plongée ; excursions et plages magnifiques, moins touristique en dehors des spots de plongée"
+            ],
+            [
+              "Phuket (mer d'Andaman Nord)",
+              "Animée, cosmopolite : sports nautiques, excursions en bateau, vie nocturne",
+              "Plages variées : Patong pour la fête, Kata et Karon pour la tranquillité ; vieux Phuket Town : architecture coloniale et temples ; Big Buddha et vue panoramique",
+              "Amateurs de vie nocturne, familles, débutants en Thaïlande",
+              "10 : depuis Bangkok, vol (1 h 20) ou bus (12 h)",
+              "8 (plages célèbres mais parfois bondées)",
+              "6 (nature présente, mais urbanisation forte)",
+              "9 (très touristique)",
+              "5 : très touristique, mais possibilité de trouver des coins plus calmes ; moins adapté à un voyage de noces typique"
+            ],
+            [
+              "Îles Similan (mer d'Andaman Nord)",
+              "Sauvage, préservée, nature intacte et biodiversité marine : plongée, snorkeling, observation de la faune marine",
+              "Plongée exceptionnelle ; rochers emblématiques sur l'île Koh Similan ; plages immaculées ; Donald Duck Bay : plage pittoresque",
+              "Plongeurs, amoureux de la nature préservée",
+              "6 : vol vers Phuket (1 h 20) + route vers Khao Lak (1 h 30) + accès par bateau en 2 h, saison sèche d'octobre à mai uniquement",
+              "10 (plages parfaites)",
+              "9-10 (nature intacte, faune marine)",
+              "4 (parc national strictement régulé par des quotas, pas d'hébergement sur place)",
+              "9 : très préservées, idéales pour la nature et la plongée ; pas d'hébergement, mais parfait pour une excursion romantique"
+            ],
+            [
+              "Koh Yao Noi / Yai (mer d'Andaman Nord)",
+              "Authentique et paisible : kayak, exploration en bateau, détente",
+              "Baies préservées et vues sur la baie de Phang Nga ; villages locaux : culture traditionnelle",
+              "Voyageurs cherchant à échapper au tourisme de masse",
+              "7 : accessible depuis Phuket ou Krabi, mais nécessite un speedboat",
+              "8 : plages calmes et propres, sans foule",
+              "8 : paysages sublimes avec vue sur les formations calcaires, bonne immersion dans la nature",
+              "5 : infrastructure limitée, tourisme encore modéré",
+              "9 : authentiques, tranquilles et adaptées à un voyage de noces ; hôtels de charme et nature intacte"
+            ],
+            [
+              "Koh Phi Phi (mer d'Andaman Nord)",
+              "Animée, spectaculaire : excursions en bateau, snorkeling, fêtes",
+              "Maya Bay (le film La Plage) ; Viking Cave ; points de vue sur Koh Phi Phi Don ; Pileh Lagoon",
+              "Jeunes voyageurs, amateurs de paysages spectaculaires",
+              "8 (accès en bateau en 2 h environ depuis Krabi ou Phuket)",
+              "10 (plages iconiques)",
+              "7 (paysages époustouflants mais peu de randonnée)",
+              "9 (très populaire, parfois bondée)",
+              "6 : paysages spectaculaires mais très bondés ; ambiance festive peu adaptée au calme recherché pour un voyage de noces"
+            ],
+            [
+              "Koh Lanta (mer d'Andaman centre)",
+              "Tranquille, nature : plongée, kayak, exploration des mangroves",
+              "Long Beach et Kantiang Bay ; parc national de Mu Koh Lanta : plages désertes et forêt tropicale ; villages de pêcheurs (Old Town)",
+              "Familles, voyageurs cherchant la sérénité",
+              "8 (ferry 2-3 h depuis Krabi ou Phuket)",
+              "9 (plages vastes et paisibles)",
+              "8 (nature préservée, mangroves, collines)",
+              "7 (tourisme modéré, bonne gestion)",
+              "8 : tranquille avec de belles plages et nature préservée ; bon équilibre entre charme et sérénité"
+            ],
+            [
+              "Koh Muk / Koh Kradan (mer d'Andaman centre)",
+              "Sauvage, romantique et paisible : kayak, snorkeling, exploration des plages",
+              "Emerald Cave : grotte secrète avec lagune ; plages désertes : atmosphère intime",
+              "Couples, amateurs de solitude",
+              "5 : longtail boat ou ferry depuis Trang ou Koh Lanta ; trajet plus complexe",
+              "9 : plages désertes et immaculées, idéales pour une ambiance exclusive",
+              "8 : nature préservée avec de belles criques et grottes marines",
+              "4 : infrastructure touristique très limitée (Hat Chao Mai National Park), peu de services",
+              "10 : très paisibles, plages désertes et hôtels intimes, parfait pour une ambiance romantique"
+            ],
+            [
+              "Koh Libong (mer d'Andaman centre)",
+              "Tranquille, authentique et naturelle : observation marine, relaxation, découverte culturelle",
+              "Observation des dugongs : une des rares zones où ces mammifères marins peuvent être vus ; plages isolées ; villages de pêcheurs musulmans : culture locale préservée",
+              "Voyageurs en quête d'authenticité et de nature intacte",
+              "6 : ferry ou longtail boat depuis le port de Hat Yao (Trang)",
+              "8 : plages propres et peu fréquentées, mais moins spectaculaires que Koh Lipe",
+              "8 : riche biodiversité, mangroves et observation marine",
+              "4 : tourisme limité, peu d'infrastructures",
+              "9 : préservée et authentique ; idéal pour les amoureux de la nature recherchant l'intimité"
+            ],
+            [
+              "Koh Samet (côte Nord-Est)",
+              "Accessible, festif et détente : plages, fêtes, relaxation",
+              "Ao Phrao : plage tranquille ; Ao Wong Duean : plage animée ; Sunset Point : couchers de soleil",
+              "Voyageurs à Bangkok ou Pattaya cherchant une escapade rapide",
+              "9 : proche de Bangkok, facile d'accès en bus ou voiture jusqu'à Ban Phe (Rayong) + ferry rapide",
+              "7 : plages belles mais parfois encombrées, qualité variable selon la zone",
+              "6 : peu d'options pour les randonnées, île assez petite",
+              "8 : destination très prisée le week-end, avec de nombreux services",
+              "6 : pratique et proche de Bangkok, mais souvent bondée, surtout le week-end ; peu de charme pour un voyage de noces exclusif"
+            ],
+            [
+              "Koh Chang (côte Nord-Est)",
+              "Montagneuse, verte et diversifiée : randonnées, snorkeling, exploration des îlots voisins",
+              "Cascade Klong Plu : randonnée facile ; White Sand Beach : plage animée ; Bang Bao Village : village de pêcheurs",
+              "Amoureux de la nature et des activités variées",
+              "8 : ferry depuis Trat (port de Laem Ngop), avec options bus ou vol depuis Bangkok, moins simple que Koh Samet",
+              "8 : plages variées, certaines très belles mais parfois fréquentées",
+              "9 : île montagneuse avec des cascades, jungle luxuriante et nombreux sentiers",
+              "7 : bien développée mais conserve une ambiance nature, peu de tourisme de masse",
+              "7 : mélange entre tourisme développé et nature ; possible pour un voyage de noces, mais moins exclusif"
+            ],
+            [
+              "Koh Kood (côte Nord-Est)",
+              "Intacte, luxuriante et paisible : kayak, snorkeling, détente",
+              "Klong Chao Waterfall : cascade au cœur de la jungle ; Ao Tapao Beach : plage longue et préservée ; villages de pêcheurs : authentiques et charmants",
+              "Amateurs de calme et de nature intacte",
+              "6 : ferry ou speedboat depuis Trat, accès moins pratique",
+              "9 : plages magnifiques et peu fréquentées",
+              "9 : nature luxuriante avec jungle dense et cascades",
+              "5 : infrastructure limitée, quelques resorts de luxe",
+              "9 : nature intacte, plages préservées et ambiance paisible ; parfait pour un voyage de noces en quête de tranquillité et d'élégance discrète"
+            ],
+            [
+              "Koh Lipe (mer d'Andaman Sud)",
+              "Paradisiaque et isolée : snorkeling, kayak, relaxation",
+              "Sunrise Beach : plage idyllique ; parc national Tarutao : faune et flore préservées",
+              "Voyageurs recherchant un paradis encore préservé",
+              "6 : ferry depuis Pak Bara (Satun), Langkawi (Malaisie) ou Koh Lanta",
+              "10 : plages magnifiques avec sable blanc et eau turquoise",
+              "9 : superbes récifs et paysages marins, mais peu de jungle à explorer",
+              "5 : tourisme en croissance, mais encore gérable",
+              "9 : paradisiaque et encore relativement préservée ; adaptée à un voyage de noces, mais le tourisme y croît"
+            ],
+            [
+              "Koh Adang (mer d'Andaman Sud)",
+              "Sauvage, isolée et aventureuse : randonnées, snorkeling, observation de la nature",
+              "Chado Cliff Viewpoint : panorama sur Koh Lipe et les environs ; cascades d'eau douce au cœur de la jungle ; plages désertes : parfaites pour la tranquillité",
+              "Aventuriers et amoureux de la nature",
+              "6 : bateau longtail depuis Koh Lipe, mais sans infrastructures directes",
+              "9 : plages intactes avec peu de visiteurs",
+              "9 : sentiers bien balisés, faune variée, jungle dense",
+              "3 : très peu de services touristiques (parc marin protégé de Tarutao), uniquement des campements et zones protégées",
+              "10 : sauvage et isolée, parfait pour l'intimité ; logements rudimentaires (bungalows et camping), mais excellent pour les amoureux de la nature"
+            ],
+            [
+              "Koh Rawi (mer d'Andaman Sud)",
+              "Préservée, paisible et marine : snorkeling, relaxation, exploration des plages",
+              "Récifs coralliens : parfait pour le snorkeling ; plages ombragées : idéal pour la détente sous les arbres casuarinas ; observation de la faune : tortues, oiseaux et vie marine abondante",
+              "Voyageurs recherchant un lieu hors des sentiers battus",
+              "6 : uniquement en bateau longtail depuis Koh Lipe",
+              "10 : plages d'une beauté exceptionnelle et eaux cristallines",
+              "8 : nature luxuriante mais peu de sentiers officiels",
+              "3 : zéro infrastructure touristique (parc marin protégé de Tarutao), entièrement préservée",
+              "10 : nature intacte, plages magnifiques et ambiance exclusive ; idéal pour une journée aventureuse et romantique (uniquement en excursion)"
+            ],
+            [
+              "Koh Tarutao (mer d'Andaman Sud)",
+              "Sauvage, historique et préservée : exploration nature, randonnées, kayak",
+              "Ao Son : plage intacte ; mangroves : riches en biodiversité ; ancien camp de prisonniers : lieu historique",
+              "Amateurs d'aventure et de nature brute",
+              "5 : ferry saisonnier depuis Pak Bara (Satun), peu fréquent",
+              "9 : plages désertes et préservées",
+              "9 : faune riche et jungle dense",
+              "3 : très peu développée (parc marin protégé de Tarutao), presque aucun service",
+              "10 : logements rudimentaires (bungalows et camping), totalement préservée et sauvage ; idéal pour un voyage de noces axé sur l'aventure et la nature"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conseil-snorkeling",
+      "title": "Où faire du snorkeling ?",
+      "summary": "L'avis d'un connaisseur du pays sur les meilleures îles pour la plongée libre.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Il n'est pas évident de trouver une île où l'on puisse s'éclater sous l'eau et avoir un minimum de choses à faire, c'est-à-dire un lieu relativement grand. Pour le snorkeling, Koh Surin est sûrement ce qui se fait de mieux en Thaïlande, avec quelques autres endroits non habités ainsi que Mu Koh Similan. Les plus beaux spots du pays ne sont pas en bord de plage : il faut bien souvent prendre un bateau."
+        },
+        {
+          "type": "text",
+          "text": "On peut tout de même citer Koh Lipe, bien qu'elle soit elle aussi victime de son succès, ou encore Koh Adang, Koh Ngai, Koh Kradan, mais là encore les activités sur place sont très limitées."
+        },
+        {
+          "type": "text",
+          "text": "Sur les îles plus imposantes et pas encore trop touchées par le tourisme de masse, Koh Kood est sympa, mais il faut sortir en mer pour vraiment se faire plaisir avec un masque et un tuba."
+        },
+        {
+          "type": "text",
+          "text": "Avis publié sur le blog [MikThai](http://mikthai-thailande.blogspot.com/)."
+        }
+      ]
+    }
+  ],
+  "season": "Janvier",
+  "kind": "tier2"
+}
