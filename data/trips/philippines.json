@@ -613,6 +613,19 @@
   ],
   "guides": [
     {
+      "id": "cartes",
+      "title": "Carte des Philippines",
+      "summary": "Les régions et provinces du pays, pour situer les îles du voyage.",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/photos/philippines/carte-regions.png",
+          "alt": "Carte des régions et provinces des Philippines",
+          "caption": "Carte des régions et provinces des Philippines (Luzon, Visayas, Mindanao, Palawan), utile pour situer les îles du voyage."
+        }
+      ]
+    },
+    {
       "id": "climat",
       "title": "Climat",
       "summary": "Les saisons sont inversées selon la zone du pays : ce qu'il faut savoir en janvier et en août.",

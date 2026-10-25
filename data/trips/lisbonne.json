@@ -1,0 +1,246 @@
+{
+  "id": "lisbonne",
+  "title": "Lisbonne",
+  "subtitle": "Guide des quartiers de Lisbonne comparés à Paris et à Madrid : Alfama, Graça, Chiado, Príncipe Real, Lapa et les autres",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Lisbon",
+  "days": [],
+  "guides": [
+    {
+      "id": "plans-transports",
+      "title": "Plans et transports",
+      "summary": "Carte des quartiers, plans du tramway et du métro, et locations de voiture.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "[Carte des quartiers](https://www.google.com/maps/d/viewer?hl=fr&mid=1VE_elCiqdz2xBp-aarOihcsUgReDcRbC&ll=38.67475061227015%2C-9.232757796563428&z=13).",
+            "[Plan du tramway](https://lisbonlisboaportugal.com/fr/tramway-lisbonne-tram-fr.html).",
+            "[Plan du métro](https://gotoportugal.eu/wp-content/uploads/2022/01/mapa-metro-lisboa-5.pdf) (PDF)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Locations de voiture"
+        },
+        {
+          "type": "list",
+          "items": [
+            "À peu près bien notées sur Maps : Europcar (4,0), Hertz (3,9), Sixt (3,8).",
+            "Mieux notée mais un peu à l'extérieur de l'aéroport : EPI Car (4,8)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quartiers",
+      "title": "Comparaison des quartiers avec Paris et Madrid",
+      "summary": "Huit quartiers de Lisbonne, avec leur équivalent parisien et madrilène, et le résumé selon l'ambiance recherchée.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Quartier",
+            "Ambiance",
+            "Équivalent à Paris",
+            "Équivalent à Madrid"
+          ],
+          "rows": [
+            [
+              "1. Alfama, le cœur populaire",
+              "Ruelles étroites, linge aux fenêtres, chants de fado.",
+              "Le Vieux Montmartre (côté vignes et petites places cachées), mais avec l'humidité et l'odeur de la mer en plus.",
+              "La Latina : pour le côté médiéval, les pentes et les tavernes où l'on se serre pour boire un verre."
+            ],
+            [
+              "2. Graça, le village perché",
+              "Ouvrière, authentique, avec les meilleures vues (miradouros).",
+              "Belleville ou Ménilmontant : c'est haut, populaire, un peu « canaille » mais ça devient branché.",
+              "Lavapiés : multiculturel, escarpé, très vivant et moins « poli » que le centre."
+            ],
+            [
+              "3. Chiado, l'élégance intellectuelle",
+              "Librairies anciennes, grands cafés, théâtres et shopping chic.",
+              "Saint-Germain-des-Prés : pour le côté littéraire, les cafés historiques (comme A Brasileira / Les Deux Magots) et le prestige.",
+              "Barrio de las Letras : le quartier des écrivains, élégant, central et culturel."
+            ],
+            [
+              "4. Príncipe Real, le quartier « aristo-cool »",
+              "Concept-stores, antiquaires, jardins botaniques et population cosmopolite.",
+              "Le Marais (haut du Marais, vers Bretagne) : chic, gay-friendly, rempli de boutiques de créateurs.",
+              "Chueca ou Justicia : pour le mélange de palais anciens rénovés et de boutiques ultra-tendance."
+            ],
+            [
+              "5. São Bento, le refuge bohème",
+              "Artisans, bars à vin intimistes, Parlement et calme relatif.",
+              "Le 9e arrondissement (vers la rue des Martyrs) : une vie de quartier solide, de petits restaurants de qualité et un côté « bourgeois-bohème ».",
+              "Malasaña, mais en plus calme : le côté créatif et les petites boutiques indépendantes."
+            ],
+            [
+              "6. Santos, le Design District",
+              "Écoles d'art, lofts, vie nocturne et proximité du fleuve.",
+              "Le canal Saint-Martin : le côté « jeune créatif », les apéros au bord de l'eau et les anciens espaces industriels réhabilités.",
+              "Arganzuela / Matadero : la reconversion industrielle en centres culturels et la proximité du fleuve (Madrid Río)."
+            ],
+            [
+              "7. Lapa, le sanctuaire diplomatique",
+              "Ambassades, silence absolu, palais majestueux et azulejos de luxe.",
+              "Le 7e arrondissement (côté Invalides / Varenne) : feutré, c'est le pouvoir, très beau mais on n'y fait pas la fête.",
+              "El Viso ou certaines parties de Salamanca : très exclusif, très calme et très riche architecturalement."
+            ],
+            [
+              "8. Estrela, le quartier des familles aisées",
+              "Grand parc, basilique monumentale, larges avenues, un peu « sage ».",
+              "Le 16e arrondissement (côté Passy) : vert, familial, rassurant, mais un peu « chiant » si l'on cherche l'adrénaline.",
+              "Retiro / Jerónimos : pour la proximité du grand parc, le calme et les immeubles imposants."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Le petit résumé"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pour du spectacle : Graça et Alfama.",
+            "Pour du chic branché : Príncipe Real et Chiado.",
+            "Pour de l'authentique tranquille : São Bento, Santos et Lapa."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "principe-real",
+      "title": "Détails sur Príncipe Real",
+      "summary": "Pourquoi Príncipe Real ressemble à Justicia (Madrid), avec un peu de Malasaña et de Salamanca.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Si l'on devait trancher : Príncipe Real est le fils spirituel d'une rencontre entre Justicia (Madrid) et Malasaña, avec une touche de Salamanca pour le prestige."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi ce n'est pas tout à fait Salamanca"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Le relief : Salamanca est un damier plat, très ordonné et un peu rigide. Príncipe Real est tout en pentes, avec des jardins botaniques sauvages et des vues plongeantes sur la ville.",
+            "L'esprit : Salamanca est « BCBG » classique. Príncipe Real est « BCBG décalé » : boutiques d'antiquités bizarres, concept-stores dans des palais mauresques (comme l'Embaixada) et une communauté LGBT très ancrée. C'est beaucoup moins conservateur que Salamanca."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi ça ressemble à Malasaña"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Le côté créatif : comme à Malasaña, énormément de petites boutiques de créateurs locaux, de galeries d'art indépendantes et de bars à cocktails un peu pointus.",
+            "La vie nocturne « élégante » : on y sort beaucoup le soir, mais c'est moins « bière dans la rue » que Malasaña. C'est plus « verre de vin bio en terrasse »."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "La comparaison idéale : Justicia (Madrid)"
+        },
+        {
+          "type": "text",
+          "text": "Justicia, entre Chueca et Salamanca, est l'équivalent parfait : c'est chic (beaux immeubles, gens bien habillés), moderne (boutiques de design, restaurants fusion) et vivant sans être le chaos du centre-ville."
+        },
+        {
+          "type": "heading",
+          "text": "En résumé"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Salamanca correspond à Estrela et Lapa : le côté imposant, calme et très riche.",
+            "Malasaña correspond à Bairro Alto et Mouraria : le côté rock, graffiti et fête populaire.",
+            "Príncipe Real correspond à Justicia : le quartier où l'on veut habiter quand on a réussi, mais en restant « cool » et proche de la culture."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "C'est pour cela que c'est le meilleur quartier pour l'hôtel, la Casa de São Mamede : on est dans le « Justicia » de Lisbonne, avec tout à portée de main."
+        }
+      ]
+    },
+    {
+      "id": "quartier-chueca",
+      "title": "Quel quartier ressemble à Chueca ?",
+      "summary": "Príncipe Real, Bairro Alto et Chiado se partagent l'esprit de Chueca : identité LGBTQ+, centralité et vie nocturne.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Chueca combine trois facettes : c'est le quartier LGBTQ+, un quartier très central et une zone de vie nocturne intense avec de beaux immeubles. À Lisbonne, cette identité est répartie entre deux quartiers."
+        },
+        {
+          "type": "heading",
+          "text": "1. Príncipe Real : le « Chueca chic et community »"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Le point commun : c'est le cœur de la vie LGBTQ+ de Lisbonne. On y trouve des bars branchés, des clubs, mais aussi une ambiance très inclusive et sophistiquée.",
+            "Le décor : comme à Chueca, les immeubles ont de la gueule, il y a de belles places (la Praça das Flores) et une population cosmopolite qui aime sortir.",
+            "La différence : Príncipe Real est plus aéré et plus « vert » (grâce à son jardin et à son jardin botanique) que les rues serrées de Chueca."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "2. Bairro Alto : le « Chueca festif et populaire »"
+        },
+        {
+          "type": "text",
+          "text": "Si Chueca, c'est surtout faire la fête dans des rues étroites avec une foule dense le samedi soir :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Le point commun : c'est le centre névralgique de la nuit. Des dizaines de petits bars collés les uns aux autres, une énergie débordante et une liberté totale.",
+            "La différence : le Bairro Alto est beaucoup plus « roots » et déglingué que Chueca. C'est plus bruyant et moins « propret »."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Le comparatif en un clin d'œil"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Caractéristique de Chueca",
+            "Quartier équivalent à Lisbonne"
+          ],
+          "rows": [
+            [
+              "Identité LGBTQ+",
+              "Príncipe Real"
+            ],
+            [
+              "Shopping de créateurs",
+              "Príncipe Real / Chiado"
+            ],
+            [
+              "Vie nocturne de rue",
+              "Bairro Alto"
+            ],
+            [
+              "Centralité et animation",
+              "Chiado"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Le quartier qui ressemble le plus à l'esprit de Chueca aujourd'hui est sans aucun doute Príncipe Real : c'est là que l'on retrouve cette liberté de ton, ces terrasses animées et ce mélange de « gens stylés » et de vie nocturne vibrante. Avec un hébergement à la Casa de São Mamede, on est littéralement au cœur du « Chueca lisboète » : il n'y a que 200 mètres à faire pour trouver cette ambiance."
+        }
+      ]
+    }
+  ],
+  "season": "Mi-saison",
+  "kind": "short"
+}

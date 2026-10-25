@@ -631,6 +631,25 @@
   ],
   "guides": [
     {
+      "id": "cartes",
+      "title": "Cartes des Cyclades",
+      "summary": "Les cartes des îles qui ont servi à préparer le voyage.",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/photos/cyclades/carte-cyclades-hachette.png",
+          "alt": "Carte des Cyclades avec les groupes d'îles et les liaisons maritimes",
+          "caption": "Carte des Cyclades (cartographie Hachette Tourisme) avec les groupes d'îles et les liaisons maritimes, dont Sifnos, Milos et Santorin."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/cyclades/carte-iles-grecques.png",
+          "alt": "Carte des îles grecques situant Athènes, les Cyclades et le Dodécanèse",
+          "caption": "Carte des îles grecques (Lonely Planet) situant Athènes, les Cyclades, les Petites Cyclades et le Dodécanèse."
+        }
+      ]
+    },
+    {
       "id": "histoire-anecdotes",
       "title": "Histoire et anecdotes",
       "summary": "Faits et anecdotes sur Athènes, Sifnos, Milos et Santorin, tirés du Routard.",

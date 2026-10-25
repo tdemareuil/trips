@@ -738,6 +738,45 @@
   ],
   "guides": [
     {
+      "id": "cartes",
+      "title": "Cartes et itinéraires",
+      "summary": "Les cartes illustrées de Lanzarote et de Fuerteventura et les itinéraires routiers des deux îles.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Lanzarote"
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/canaries/carte-lanzarote.png",
+          "alt": "Carte illustrée de Lanzarote avec les principaux lieux à voir",
+          "caption": "Carte illustrée de Lanzarote avec les principaux lieux à voir : Timanfaya, La Geria, Jameos del Agua, Famara, Papagayo et La Graciosa."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/canaries/lanzarote-parcours.png",
+          "alt": "Itinéraire routier de Lanzarote avec les étapes numérotées de 1 à 20",
+          "caption": "Itinéraire routier de Lanzarote avec les étapes numérotées de 1 à 20, de La Graciosa à Playa de Papagayo."
+        },
+        {
+          "type": "heading",
+          "text": "Fuerteventura"
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/canaries/carte-fuerteventura.png",
+          "alt": "Carte illustrée de Fuerteventura avec les principaux lieux à voir",
+          "caption": "Carte illustrée de Fuerteventura avec Betancuria, la route FV-30, Cofete, Sotavento, El Cotillo, Calderón Hondo et les dunes de Corralejo."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/canaries/fuerteventura-parcours.png",
+          "alt": "Carte de Fuerteventura avec 14 points d'intérêt numérotés",
+          "caption": "Carte de Fuerteventura avec 14 points d'intérêt numérotés, de Sotavento à Caleta de Fuste."
+        }
+      ]
+    },
+    {
       "id": "vols-et-aeroports",
       "title": "Vols et aéroports",
       "summary": "Quels jours les vols directs fonctionnent entre Paris et les Canaries, et comment gagner en horaires.",

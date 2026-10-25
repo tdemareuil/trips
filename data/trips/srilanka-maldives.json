@@ -820,6 +820,51 @@
   ],
   "guides": [
     {
+      "id": "cartes",
+      "title": "Cartes, itinéraires et météo",
+      "summary": "Les itinéraires dessinés du Sri Lanka, le triangle culturel et les cartes de météo de décembre et de janvier.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Itinéraires"
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/srilanka-maldives/itineraire-10-jours.png",
+          "alt": "Carte illustrée de l'itinéraire de 10 jours au Sri Lanka",
+          "caption": "Itinéraire de 10 jours au Sri Lanka : culture et temples (Sigiriya, Kandy), nature (Kitulgala, Nuwara Eliya, Ella, Udawalawe), puis plages de la côte sud (Galle, Mirissa)."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/srilanka-maldives/itineraire-boucle.png",
+          "alt": "Carte de la boucle du Sri Lanka",
+          "caption": "La boucle du Sri Lanka : Negombo, Sigiriya, Kandy, Ella, Tangalle, Mirissa, Galle, Colombo, avec les parcs nationaux et le triangle culturel."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/srilanka-maldives/triangle-culturel.png",
+          "alt": "Le triangle culturel sri-lankais dessiné",
+          "caption": "Le triangle culturel : Anuradhapura, Polonnaruwa et Kandy, avec Sigiriya et Dambulla au centre."
+        },
+        {
+          "type": "heading",
+          "text": "Météo"
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/srilanka-maldives/meteo-decembre.png",
+          "alt": "Carte de la météo au Sri Lanka en décembre par région",
+          "caption": "Météo au Sri Lanka en décembre par région : côte est très défavorable, centre-sud et nord peu favorables."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/srilanka-maldives/meteo-janvier.png",
+          "alt": "Carte de la météo au Sri Lanka en janvier par région",
+          "caption": "Météo au Sri Lanka en janvier par région (températures et jours de pluie)."
+        }
+      ]
+    },
+    {
       "id": "conseils-pratiques",
       "title": "Conseils pratiques",
       "summary": "Sens du circuit et agences pour organiser les trajets au Sri Lanka.",
@@ -828,7 +873,7 @@
           "type": "list",
           "items": [
             "Il y a peut-être moins de monde en faisant la boucle dans le sens inverse des aiguilles d'une montre.",
-            "Agences et chauffeurs : Shanti Travel, Asoka."
+            "Agences et chauffeurs : Shanti Travel, Asoka (chauffeurs au +94 77 761 3839)."
           ]
         }
       ]
