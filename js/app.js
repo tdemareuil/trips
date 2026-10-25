@@ -218,8 +218,11 @@ async function sha256(text) {
 
 // --- Router ----------------------------------------------------------------
 
+// A trip without days is a guide only: its page is its first guide.
+const tripHref = t => (t.days.length ? `#/${t.id}/0` : `#/${t.id}/guide/${t.guides[0].id}`);
+
 function renderTopbar(trip) {
-  const crumb = trip ? `<a class="crumb" href="#/${trip.id}/0">${esc(trip.title)}</a>` : '';
+  const crumb = trip ? `<a class="crumb" href="${tripHref(trip)}">${esc(trip.title)}</a>` : '';
   topbar.innerHTML = `<a class="brand" href="#/">Trips</a>${crumb}`;
 }
 
@@ -228,6 +231,7 @@ function route() {
   const trip = data.trips[id];
   if (!trip) return show('home');
   if (isLocked(trip)) return show('lock', trip);
+  if (!trip.days.length) return show('guide', trip, trip.guides.some(g => g.id === sub) ? sub : trip.guides[0].id);
   if (arg === 'guide' && trip.guides?.some(g => g.id === sub)) return show('guide', trip, sub);
   show('story', trip, clamp(parseInt(arg, 10) || 0, 0, trip.days.length));
 }
@@ -256,8 +260,8 @@ function mountHome() {
   const card = id => {
     const t = data.trips[id];
     const bg = t.coverImg ? `style="--img:url('${thumb(t.coverImg.url, 1280)}')"` : '';
-    return `<a class="trip-card" href="#/${t.id}" ${bg}>
-      <span class="meta">${isLocked(t) ? LOCK_ICON : ''}${t.days.length} jours${t.done ? ' · Réalisé' : ''}</span>
+    return `<a class="trip-card" href="${tripHref(t)}" ${bg}>
+      <span class="meta">${isLocked(t) ? LOCK_ICON : ''}${t.days.length ? `${t.days.length} jours` : 'Guide'}${t.done ? ' · Réalisé' : ''}</span>
       <h2>${esc(t.title)}</h2>
       <p>${esc(t.subtitle)}</p>
       ${t.range ? `<span class="when">${esc(t.range)}</span>` : ''}
@@ -266,7 +270,7 @@ function mountHome() {
   const trips = data.order.map(id => data.trips[id]);
   const group = (title, list) => list.length
     ? `<h3 class="home-sub">${title}</h3><div class="cards">${list.map(t => card(t.id)).join('')}</div>` : '';
-  const known = ['Mi-saison', 'Août / Septembre', 'Janvier'];
+  const known = ['Mi-saison', 'Août / Septembre', 'Janvier', 'Week-ends en France'];
   const seasons = [...known, ...new Set(trips.map(t => t.season).filter(se => se && !known.includes(se)))]
     .filter(se => trips.some(t => t.season === se));
   const unseasoned = trips.filter(t => !t.season);
@@ -335,6 +339,9 @@ function blockHTML(b) {
     const rows = b.rows.map(r => `<tr>${r.map((c, i) => `<td data-label="${esc(b.columns[i])}">${rich(c)}</td>`).join('')}</tr>`).join('');
     return `<div class="g-table-wrap"><table class="g-table"><thead><tr>${head}</tr></thead><tbody>${rows}</tbody></table></div>`;
   }
+  if (b.type === 'image') {
+    return `<figure class="g-figure"><a href="${esc(b.src)}" target="_blank" rel="noopener"><img src="${esc(b.src)}" alt="${esc(b.alt || '')}" loading="lazy"></a>${b.caption ? `<figcaption>${esc(b.caption)}</figcaption>` : ''}</figure>`;
+  }
   return '';
 }
 
@@ -343,7 +350,7 @@ function mountGuide(trip, gid) {
   const chips = trip.guides.map(g => `<a class="chip${g.id === gid ? ' on' : ''}" href="#/${trip.id}/guide/${g.id}">${esc(g.title)}</a>`).join('');
   document.title = `${guide.title} · ${trip.title} · Trips`;
   app.innerHTML = `<article class="guide">
-    <a class="guide-back" href="#/${trip.id}/0">← ${esc(trip.title)}</a>
+    <a class="guide-back" href="${trip.days.length ? `#/${trip.id}/0` : '#/'}">← ${trip.days.length ? esc(trip.title) : 'Nos voyages'}</a>
     <p class="eyebrow">Guide &amp; comparatif</p>
     <h1 class="title">${esc(guide.title)}</h1>
     <p class="lead">${esc(guide.summary)}</p>

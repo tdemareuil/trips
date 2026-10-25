@@ -6570,5 +6570,94 @@
   "page": "https://commons.wikimedia.org/wiki/File:Volcan_de_Agua-Acatenango-Fuego.jpg",
   "artist": "Andres Chicol",
   "license": "CC BY-SA 2.0"
+ },
+ "Barrio de las Letras": {},
+ "Bellême": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Bell%C3%AAme_vu_du_ciel.jpg/1920px-Bell%C3%AAme_vu_du_ciel.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bell%C3%AAme_vu_du_ciel.jpg",
+  "artist": "Tourisme pays bellemois",
+  "license": "CC BY-SA 4.0",
+  "lat": 48.3772,
+  "lon": 0.5614,
+  "extract": "Bellême est une commune française, située dans le département de l’Orne en région Normandie, peuplée de 1 457 habitants en 2023.",
+  "article": "https://fr.wikipedia.org/wiki/Bell%C3%AAme"
+ },
+ "Chueca": {
+  "extract": "Chueca est un nom de famille d'origine espagnole notamment porté par : Federico Chueca, compositeur espagnol ; Natalia Chueca, femme politique espagnole, maire de Saragosse.",
+  "article": "https://fr.wikipedia.org/wiki/Chueca_(homonymie)"
+ },
+ "El Rastro": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/RastroinMadrid.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RastroinMadrid.jpg",
+  "artist": "Msoltanolkotabii",
+  "license": "CC BY-SA 4.0",
+  "lat": 40.40889,
+  "lon": -3.7075,
+  "extract": "Le Rastro est un marché aux puces qui a lieu dans le centre historique de Madrid, dans et à proximité des quartiers de Lavapiés et Embajadores. Il a été fondé vers 1740.",
+  "article": "https://fr.wikipedia.org/wiki/Rastro"
+ },
+ "La Latina (Madrid)": {},
+ "Lavapiés": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Lavapi%C3%A9s.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Lavapi%C3%A9s.JPG",
+  "artist": "Garygillmore",
+  "license": "CC BY-SA 3.0",
+  "lat": 40.4085,
+  "lon": -3.701,
+  "extract": "Lavapiés est un quartier de Madrid en Espagne.",
+  "article": "https://fr.wikipedia.org/wiki/Lavapi%C3%A9s"
+ },
+ "Madrid–Barajas Airport": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Aena_Madrid_logo.svg/1920px-Aena_Madrid_logo.svg.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Aena_Madrid_logo.svg",
+  "artist": "Aena",
+  "license": "Public domain",
+  "lat": 40.47222,
+  "lon": -3.56083,
+  "extract": "L'aéroport Adolfo Suárez Madrid-Barajas est le plus important d'Espagne et dessert la ville de Madrid. En 2023, il est classé 15e aéroport mondial et 5e en Europe. Il est situé à 13 km au nord-est du centre de Madrid et compte quatre terminaux.",
+  "article": "https://fr.wikipedia.org/wiki/A%C3%A9roport_Adolfo_Su%C3%A1rez_Madrid-Barajas"
+ },
+ "Malasaña": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Tejiendo_Malasa%C3%B1a_2014_%2814223976313%29.jpg/1920px-Tejiendo_Malasa%C3%B1a_2014_%2814223976313%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tejiendo_Malasa%C3%B1a_2014_(14223976313).jpg",
+  "artist": "Tejiendo Malasaña",
+  "license": "CC BY 2.0",
+  "extract": "Malasaña est un quartier se situant dans la capitale espagnole, Madrid. Il est situé au nord de la Gran Via et est situé près du célèbre quartier Chueca.",
+  "article": "https://fr.wikipedia.org/wiki/Malasa%C3%B1a"
+ },
+ "Mercado de la Paz": {},
+ "Saint-Jean-de-Luz": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/France-Saint-Jean-de-Luz-2005-08-05.jpg/1920px-France-Saint-Jean-de-Luz-2005-08-05.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:France-Saint-Jean-de-Luz-2005-08-05.jpg",
+  "artist": "",
+  "license": "CC BY-SA 3.0",
+  "lat": 43.39,
+  "lon": -1.66,
+  "extract": "Saint-Jean-de-Luz est une commune française située dans le département des Pyrénées-Atlantiques, en région Nouvelle-Aquitaine. Le gentilé est Luzien.",
+  "article": "https://fr.wikipedia.org/wiki/Saint-Jean-de-Luz"
+ },
+ "File:Barrio de las Letras (Madrid) 01.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Barrio_de_las_Letras_%28Madrid%29_01.jpg/1920px-Barrio_de_las_Letras_%28Madrid%29_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Barrio_de_las_Letras_(Madrid)_01.jpg",
+  "artist": "Jorge Láscar",
+  "license": "CC BY-SA 2.0"
+ },
+ "File:Madrid - Chocolatería San Ginés 1.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_1.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Madrid_-_Chocolater%C3%ADa_San_Gin%C3%A9s_1.JPG",
+  "artist": "Zarateman",
+  "license": "CC0"
+ },
+ "File:Madrid - Plaza de Chueca 1.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Madrid_-_Plaza_de_Chueca_1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Madrid_-_Plaza_de_Chueca_1.jpg",
+  "artist": "Zarateman",
+  "license": "CC0"
+ },
+ "File:Mercado de la Paz.JPG": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Mercado_de_la_Paz.JPG/1920px-Mercado_de_la_Paz.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Mercado_de_la_Paz.JPG",
+  "artist": "Malopez 21",
+  "license": "CC BY-SA 4.0"
  }
 }

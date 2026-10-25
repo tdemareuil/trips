@@ -117,6 +117,9 @@ button:disabled { cursor: default; }
 .chip.on { background: var(--ink); border-color: var(--ink); color: #fff; }
 .g-heading { margin: 38px 0 12px; font: 700 24px var(--display); }
 .g-text { max-width: 70ch; color: #3b4254; }
+.g-figure { margin: 22px 0; }
+.g-figure img { display: block; max-width: min(100%, 760px); height: auto; border-radius: 18px; border: 1px solid var(--line); box-shadow: 0 10px 30px rgba(27, 33, 48, 0.08); }
+.g-figure figcaption { margin-top: 8px; color: var(--muted); font-size: 13px; }
 .g-list { margin: 0; padding-left: 22px; max-width: 74ch; color: #3b4254; }
 .g-list li { margin: 8px 0; padding-left: 4px; }
 .g-table-wrap { overflow-x: auto; border-radius: 18px; border: 1px solid var(--line); background: #fff; box-shadow: 0 10px 30px rgba(27, 33, 48, 0.08); }

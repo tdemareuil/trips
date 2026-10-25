@@ -1,0 +1,128 @@
+{
+  "id": "perche",
+  "title": "Perche",
+  "subtitle": "Guide d'un week-end dans le Perche : chambres d'hôtes, cidrerie, villages, forêt de Bellême et bonnes tables",
+  "travelers": [],
+  "cover": "Bellême",
+  "days": [],
+  "guides": [
+    {
+      "id": "logements",
+      "title": "Où dormir",
+      "summary": "Les chambres d'hôtes et l'hôtel envisagés dans le Perche, avec prix et retours.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "La Clef des Champs 61 : le meilleur choix"
+        },
+        {
+          "type": "text",
+          "text": "Pas de débat : le meilleur que l'on puisse trouver est [La Clef des Champs 61](https://www.laclefdeschamps61.com/). C'est là qu'on est allé, après avoir pas mal étudié la question, et c'était excellent. Chambre très qualitative, dans un endroit hyper beau, refait à neuf l'année précédente. Le compte Instagram est @laclefdeschamps61."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Accès à un spa avec jacuzzi et sauna, pas directement dans la chambre : on réserve un créneau d'une heure dans la soirée.",
+            "À côté de Bellême, en plein milieu du Perche. Tenu par un couple qui a tout plaqué pour retaper les lieux et gérer ses chambres d'hôtes ; chaque détail est réfléchi et très qualitatif.",
+            "Prix : 130 €, un rapport qualité-prix imbattable. Le petit-déjeuner est compris, et pour 30 € de plus par personne on peut avoir le dîner en table d'hôtes : excellent, des spécialités régionales de niveau quasi gastronomique, avec le chef pour soi tout seul ce soir-là."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Alternatives"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Le Clos Saint-Sauveur, à Bellême : très bien noté sur Booking, mais probablement moins cosy (c'est un hôtel plutôt qu'une chambre d'hôtes), et surtout à 210 € minimum.",
+            "[La Planque en Perche](https://www.laplanqueenperche.com/) : s'il n'y a pas de place à la Clef des Champs 61. Même gamme de prix, pas de jacuzzi, mais un bel endroit avec une super vue sur la campagne depuis les chambres, et une table d'hôtes super qualitative apparemment ; des amis y sont allés et ont adoré."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "restos",
+      "title": "Où manger",
+      "summary": "Restaurants, salon de thé et brasserie du Perche, avec ce qui a été testé ou non.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "La Forêt, à Senonches : Bib Gourmand, au début du Perche. Pas fait, mais ça a l'air d'être une très bonne option pour un restaurant gastronomique, par exemple pour un samedi midi (fermé le dimanche).",
+            "Restaurant de l'Hôtel du Tribunal, à Mortagne-au-Perche : testé le samedi midi après avoir fait le marché. Le plus qualitatif du centre-ville et un très bel endroit : ambiance bistronomique de province, nappes blanches, service un peu classique, très bonne carte et beau cadre. Recommandé.",
+            "Maison d'Horbé, à La Perrière (de l'autre côté de la forêt de Bellême) : déjeuner le dimanche midi, sympa, mais encore plus connue comme salon de thé, une vraie référence dans la région. Ambiance vintage, avec plein de bibelots et une déco chargée mais stylée ; ça vaut le coup d'y passer avant ou après une balade en forêt de Bellême.",
+            "Oiseau Oiseau, à Perche-en-Nocé (au sud, entre Bellême et Nogent-le-Rotrou) : restaurant gastronomique (plats autour de 30 €), ouvert récemment par l'ancien chef du Saturne (restaurant étoilé à Paris). Pas testé, mais potentiellement une bonne adresse.",
+            "Brasserie du Perche, à L'Hôme-Chamondot (au nord, entre Mortagne et La Ferté-Vidame) : brasserie de bière locale dans un moulin (à eau), qui se visite, avec dégustation. Il y a aussi un beer garden au bord du lac, la possibilité de pêcher, et des chambres pour y loger. Pas testée, mais probablement super en été pour une bière au bord du lac."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "activites",
+      "title": "Activités et visites",
+      "summary": "Cidreries, villages, forêt de Bellême, cathédrale de La Chapelle-Montligeon et balades.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Cidreries"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Maison Ferré, à Comblot : totalement incontournable. C'est la cidrerie qui propose les visites les plus complètes : exploitation de cidre et de calvados, avec le patron qui fait visiter. On passe dans les vergers, où il explique plein de choses sur les pommiers, puis au pressoir, et enfin à l'alambic où l'on distille le calvados ; ensuite, dégustation de cidre, de calvados et de pommeau (un mélange des deux). C'est peu organisé, donc on a l'impression d'être dans un truc familial, c'est agréable. Il faut réserver directement par téléphone. Les visites sont à 15 h 30 et durent environ 1 h 30 ; on s'est greffé à un groupe le samedi après-midi. Et incroyable : c'est gratuit ! Ils s'attendent à ce que l'on achète des bouteilles, ce qu'on a fait : un très bon cadeau, le calvados.",
+            "L'Hermitière, au Theil-sur-Huisne : visite d'environ 30 min (pas de passage dans les vergers) et dégustation, à réserver par téléphone ; fermé le dimanche."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Villages"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mortagne-au-Perche : l'un des principaux villages du Perche, capitale française du boudin noir. On a fait le marché le samedi matin (pas mal de petits producteurs locaux, ambiance sympa) avant de déjeuner sur place, puis d'enchaîner avec la Maison Ferré. Le village est joli. Possibilité de visiter le cloître et la chapelle peinte du couvent de Saint-François, gratuit et très beau.",
+            "Bellême : village central, sympa pour un petit tour. Savonnerie de la Chapelle (mini-visites gratuites de 15 min sur la saponification à froid, à réserver sur le site ou par téléphone, jusqu'au dimanche matin ; il n'y en avait pas le week-end où on y est allé, mais même sans visite on voit l'atelier depuis la boutique). Salon de thé Les Gourmandises de Jeannine, tout nouveau, ouvert l'été précédent par un chocolatier : fermé quand on y est allé, mais ça peut être une bonne pause.",
+            "La Perrière : incontournable aussi, parce que c'est très joli et que c'est le point de départ des principales balades dans la forêt de Bellême. Un point de vue assez joli devant l'église (l'Éperon). Le salon de thé La Maison d'Horbé, au centre du village, est très réputé dans la région."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Forêts et balades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Forêt de Bellême : plusieurs itinéraires possibles, par exemple l'étang de la Herse (9 km) ou le chêne de l'École (balade jusqu'au plus grand chêne de la région). Pas mal de champignons à l'automne. Possibilité aussi de prendre la route forestière en voiture et de s'arrêter pour marcher un peu (il pleuvait, donc c'est ce qu'on a fait). Normalement il y a de la chasse le samedi mais pas le dimanche (en saison).",
+            "Forêt humide des Mousseuses, à La Ferté-Vidame, à côté de Senonches : une promenade plus courte, faite sur la route du retour le dimanche, sur des pontons en bois dans une forêt un peu marécageuse. Il y a aussi un très grand château en ruines, avec un parc autour, pas très loin."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Autre visite"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Cathédrale de La Chapelle-Montligeon : lieu de pèlerinage connu, une très grande et belle cathédrale gothique, pas loin de la cidrerie Maison Ferré et de Mortagne-au-Perche."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pas-faites",
+      "title": "Autres activités possibles (pas faites)",
+      "summary": "Balade à cheval avec les percherons, château des comtes du Perche.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Balade à cheval : le cheval percheron, emblème de la région, peut mesurer jusqu'à 1,80 m au garrot et peser une tonne. Possibilité de balade en attelage avec l'association Bellême Attelages, ou avec la ferme de l'Absoudière (dans la grande forêt de chênes de Réno-Valdieu).",
+            "Château des comtes du Perche, à Nogent-le-Rotrou, capitale régionale : ouvert de 10 h à 12 h et de 14 h à 17 h, gratuit le dimanche. Pas très envie de visiter un château, mais ça vaut le coup si l'on passe par Nogent."
+          ]
+        }
+      ]
+    }
+  ],
+  "season": "Week-ends en France",
+  "kind": "short"
+}

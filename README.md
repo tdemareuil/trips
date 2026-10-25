@@ -50,8 +50,11 @@ Comparisons and studies that go with a trip (rankings of reefs or islands, clima
 - `{ "type": "text", "text": "..." }`
 - `{ "type": "list", "ordered": true, "items": ["..."] }`
 - `{ "type": "table", "columns": ["..."], "rows": [["..."]] }`
+- `{ "type": "image", "src": "assets/photos/...", "alt": "...", "caption": "..." }` (a local file, opened full size on click)
 
 Tables scroll sideways on desktop and turn into one card per row on phones. `brazil.json` has four guides.
+
+A trip with an empty `days` list is a guide only (see `pays-basque.json` and `perche.json`): its home card, marked "Guide", opens its first guide directly. Your own photos go in `assets/photos/<trip>/`; to use one as a stop photo, declare it in `data/local_photos.json` and reference it with `"photo": "local:<key>"`.
 
 ## Access code
 

@@ -1,0 +1,483 @@
+{
+  "id": "madrid",
+  "title": "Madrid",
+  "subtitle": "Quatre jours de tapas, de marchés et de quartiers : Lavapiés, Chueca, La Latina, Salamanca, Retiro et Malasaña",
+  "travelers": [],
+  "cover": "Madrid",
+  "days": [
+    {
+      "n": 1,
+      "title": "Arrivée, Lavapiés et premier dîner",
+      "summary": "Arrivée à l'aéroport à 12 h 55, déjeuner au Dale Café, installation à l'Airbnb, balade à Lavapiés et dîner au Pepe Mollete.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Aéroport de Madrid-Barajas",
+          "wiki": "Madrid–Barajas Airport",
+          "coords": [
+            40.4983,
+            -3.5676
+          ]
+        },
+        {
+          "name": "Lavapiés",
+          "wiki": "Lavapiés",
+          "culture": "Quartier principalement résidentiel, en cours de boboïsation, avec des cafés et des brunchs tendance mais encore un peu populaire."
+        },
+        {
+          "name": "Mercado San Fernando",
+          "coords": [
+            40.409,
+            -3.7
+          ],
+          "culture": "Marché de quartier de Lavapiés, à voir dans la liste des marchés de la ville."
+        },
+        {
+          "name": "Barrio de las Letras",
+          "culture": "Petit quartier animé, ancien quartier d'artistes, avec pas mal de bars à tapas.",
+          "photo": "File:Barrio de las Letras (Madrid) 01.jpg",
+          "coords": [
+            40.413,
+            -3.699
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Airbnb à Madrid",
+        "coords": [
+          40.412,
+          -3.703
+        ],
+        "note": "Airbnb"
+      },
+      "parts": [
+        {
+          "label": "Midi",
+          "text": "Arrivée à l'aéroport à 12 h 55, déjeuner au Dale Café."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Entrée dans l'Airbnb, puis balade à Lavapiés."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner au Pepe Mollete."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Arrivée à l'aéroport à 12 h 55"
+        }
+      ],
+      "food": [
+        "Déjeuner : Dale Café, l'un des bons cafés et brunchs de Lavapiés.",
+        "Dîner : Pepe Mollete, bar à tapas sans prétention mais très typique (toutes sortes de tapas à 3 €, avec des vermouths et des sangrías pas chers)."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Chueca, centre et La Latina",
+      "summary": "Petit-déjeuner au Caravan Café, quartier de Chueca, déjeuner au Bocado, puis Mercado San Miguel, Plaza Mayor et La Latina ; goûter de chocolat con churros et dîner à l'Astor Gastro.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Chueca",
+          "culture": "Quartier équivalent du Marais parisien : une partie plutôt LGBT et festive, et une partie très mignonne avec de jolies ruelles, boutiques et restaurants.",
+          "photo": "File:Madrid - Plaza de Chueca 1.jpg",
+          "coords": [
+            40.422,
+            -3.697
+          ]
+        },
+        {
+          "name": "Mercado San Miguel",
+          "wiki": "Mercado de San Miguel",
+          "culture": "Halle vitrée très jolie, blindée de monde, avec plein de stands de tapas : à emporter, car trop de monde à l'intérieur."
+        },
+        {
+          "name": "Plaza Mayor",
+          "wiki": "Plaza Mayor, Madrid"
+        },
+        {
+          "name": "La Latina",
+          "wiki": "La Latina (Madrid)",
+          "culture": "Quartier le plus mignon et le plus ancien : églises, ruelles et petites places ensoleillées ; très animé le soir, avec des restaurants, des bars à tapas et des bars à vin de bonne qualité.",
+          "coords": [
+            40.412,
+            -3.71
+          ]
+        },
+        {
+          "name": "Chocolatería San Ginés",
+          "coords": [
+            40.4167,
+            -3.7066
+          ],
+          "culture": "Pour prendre un chocolat con churros, avec des « porras », les churros géants de Madrid.",
+          "photo": "File:Madrid - Chocolatería San Ginés 1.JPG"
+        }
+      ],
+      "stay": {
+        "name": "Airbnb à Madrid",
+        "coords": [
+          40.412,
+          -3.703
+        ],
+        "note": "Airbnb"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Petit-déjeuner au Caravan Café, puis quartier de Chueca."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner au Bocado."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Mercado San Miguel, Plaza Mayor et La Latina ; goûter de chocolate con churros."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner à l'Astor Gastro à 20 h."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "À pied"
+        }
+      ],
+      "food": [
+        "Petit-déjeuner : Caravan Café, le meilleur café de Lavapiés.",
+        "Déjeuner : Bocado.",
+        "Goûter : chocolate con churros, au choix dans nos adresses : Santa Ana, San Ginés ou Valor.",
+        "Dîner à 20 h : Astor Gastro (Astor Puerta Cerrada), restaurant plus qualitatif, bistronomique, dans un très beau cadre, un peu plus cher mais qui a l'air super."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Salamanca, Retiro et dîner de tapas",
+      "summary": "Petit-déjeuner chez Manolos, Mercado de la Paz et quartier de Salamanca, déjeuner d'une tortilla à la Casa Dani, parc du Retiro, glace et dîner au Matador.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Mercado de la Paz",
+          "culture": "Marché couvert du quartier de Salamanca.",
+          "photo": "File:Mercado de la Paz.JPG",
+          "coords": [
+            40.426,
+            -3.684
+          ]
+        },
+        {
+          "name": "Salamanca",
+          "wiki": "Salamanca (Madrid)",
+          "culture": "Quartier de boutiques de mode et de luxe."
+        },
+        {
+          "name": "Parc du Retiro",
+          "wiki": "Buen Retiro Park",
+          "culture": "Grand parc avec des fontaines, un lac où l'on loue des barques, des bosquets à la française, de grands pins parasols, des pelouses pour bronzer et des palais comme le Palacio de Cristal, malheureusement en travaux."
+        },
+        {
+          "name": "Matador",
+          "coords": [
+            40.414,
+            -3.699
+          ],
+          "culture": "Bar à tapas qui a l'air cheap de l'extérieur mais qui offre vraiment l'expérience tapas espagnole, très animé."
+        }
+      ],
+      "stay": {
+        "name": "Airbnb à Madrid",
+        "coords": [
+          40.412,
+          -3.703
+        ],
+        "note": "Airbnb"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Petit-déjeuner chez Manolos, puis Mercado de la Paz et Salamanca."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner de tortilla à la Casa Dani."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Retiro, puis une glace au choix."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner au Matador."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "À pied"
+        }
+      ],
+      "food": [
+        "Petit-déjeuner : Manolos, boulangerie qui fait des petits croissants fourrés appelés « Manolos », avec plusieurs adresses à Salamanca et une au nord de Chueca.",
+        "Déjeuner : tortilla à la Casa Dani, dans le Mercado de la Paz.",
+        "Goûter : glace au choix.",
+        "Dîner : Matador."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "El Rastro, Malasaña et dernier dîner",
+      "summary": "Petit-déjeuner au Pum Pum Café, brocante d'El Rastro, messe à midi à San Cayetano, déjeuner de tapas à 1 €, Malasaña, chocolate con churros et dîner à l'Ochenta Grados.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "El Rastro",
+          "wiki": "El Rastro",
+          "culture": "Grand marché aux puces du dimanche matin, dont l'intérêt principal est l'ambiance et les tapas à 1 € des bars alentour."
+        },
+        {
+          "name": "Église San Cayetano",
+          "coords": [
+            40.409,
+            -3.706
+          ],
+          "culture": "Église du quartier d'El Rastro, où l'on peut assister à la messe de midi."
+        },
+        {
+          "name": "Malasaña",
+          "wiki": "Malasaña",
+          "culture": "Quartier jeune et branché, équivalent du 11e arrondissement de Paris, avec de petits cafés et restaurants à la mode, des rues propres et agréables : c'est là que veulent habiter la plupart des gens entre 20 et 35 ans.",
+          "coords": [
+            40.426,
+            -3.704
+          ]
+        },
+        {
+          "name": "Ochenta Grados",
+          "coords": [
+            40.426,
+            -3.704
+          ],
+          "culture": "Restaurant de tapas modernes et revisitées, très bon."
+        }
+      ],
+      "stay": null,
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Petit-déjeuner au Pum Pum Café, puis brocante d'El Rastro ; messe à midi à San Cayetano."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner de tapas à 1 € au Rastro."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Malasaña ; goûter de chocolate con churros."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner à l'Ochenta Grados à 21 h."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "À pied"
+        }
+      ],
+      "food": [
+        "Petit-déjeuner : Pum Pum Café, l'un des cafés et brunchs de Lavapiés.",
+        "Déjeuner : tapas à 1 € au Rastro.",
+        "Goûter : chocolate con churros, à Santa Ana, San Ginés ou Valor.",
+        "Dîner à 21 h : Ochenta Grados."
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "quartiers",
+      "title": "Les quartiers de Madrid",
+      "summary": "Notre carte annotée des quartiers, avec ce qu'il faut voir et nos adresses, quartier par quartier.",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/photos/madrid/quartiers.jpg",
+          "alt": "Carte annotée des quartiers de Madrid, avec adresses et conseils",
+          "caption": "Carte des quartiers de Madrid, avec nos adresses (cliquer pour l'agrandir)."
+        },
+        {
+          "type": "heading",
+          "text": "À voir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Quartier La Latina",
+            "Quartier Salamanca",
+            "Quartier Malasaña",
+            "Parc du Retiro",
+            "Mercado San Miguel",
+            "Mercado San Fernando"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Malasaña"
+        },
+        {
+          "type": "text",
+          "text": "Quartier jeune et branché, équivalent du 11e arrondissement de Paris, avec de petits cafés et restaurants à la mode, des rues propres et agréables : c'est là que veulent habiter la plupart des gens entre 20 et 35 ans."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ochenta Grados : restaurant de tapas modernes et revisitées, très bon.",
+            "La Musa Malasaña : même style, tapas modernes pour le dîner.",
+            "Ojalá : déjeuner ou brunch en terrasse sur une place cool.",
+            "El Perro y la Galleta : restaurant rustique-chic tendance.",
+            "Josefita et Taberna La Indigna : petits restaurants et bars qui ont l'air bien.",
+            "Ambu Coffee et HanSo Café : cafés et brunchs.",
+            "La Bicicleta : café et bar à cocktails branché."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Chueca"
+        },
+        {
+          "type": "text",
+          "text": "Quartier équivalent du Marais, avec une partie plutôt LGBT et festive, et une partie très mignonne avec de jolies ruelles et de jolies boutiques et restaurants."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Boutiques de robes : Lady Pipa, Non Standard (robes multimarques).",
+            "Charrúa : restaurant de grillades uruguayen qui a l'air bien.",
+            "Natif Coffee (le meilleur), Cuatro Cafecito, Casa Neutrale, Tôto Ice Cream & Coffee : cafés tendance pour le petit-déjeuner, le déjeuner ou le brunch.",
+            "Mercado San Antón : halle couverte."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Salamanca"
+        },
+        {
+          "type": "text",
+          "text": "Quartier de boutiques de mode et de luxe. Boutiques notées : Maison Sisley, Panambi, Cardié, Bimani, Miphai, Cherubina, Coosy, An&Be, Valeria Cotoner, See Lou (robes multimarques), eseOese, IQ Collection ; Balakata (déco canon), Cristina Oria (vaisselle), Mimoki (chapeaux), Castañer (super sandales) ; deux El Corte Inglés dans le quartier (Goya et Serrano)."
+        },
+        {
+          "type": "list",
+          "items": [
+            "El Perro y la Galleta : restaurant rustique-chic à la mode, avec plusieurs adresses à Salamanca et une à Malasaña.",
+            "Manolo Bakes : boulangerie qui fait des petits croissants fourrés appelés « Manolos », avec plusieurs adresses à Salamanca et une au nord de Chueca."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Palacio Real et Madrid des Austrias"
+        },
+        {
+          "type": "text",
+          "text": "Quartier du théâtre et du palais royal, avec un petit parc devant et la place d'Armes sur le côté (relève de la garde chaque demi-heure le samedi, entre 11 h et 14 h). En face, la cathédrale de l'Almudena et un point de vue sur les montagnes autour de la ville. Au nord du palais, une réplique de temple égyptien (le Templo de Debod) qui n'a aucun intérêt."
+        },
+        {
+          "type": "heading",
+          "text": "Princesa et Chamberí"
+        },
+        {
+          "type": "text",
+          "text": "Quartiers du nord, assez chics mais résidentiels."
+        },
+        {
+          "type": "heading",
+          "text": "Centro"
+        },
+        {
+          "type": "text",
+          "text": "Le triangle central, entre la Gran Vía (le grand boulevard au nord), la plaza del Sol (à l'est) et la Plaza Mayor (à l'ouest), toujours blindé de monde. Trois bonnes adresses néanmoins autour de la Plaza Mayor :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Chocolatería San Ginés : prendre un chocolat avec des churros et des « porras », les churros géants de Madrid.",
+            "La Carbonería : petit restaurant à côté de la chocolaterie, qui a l'air typique (rare dans le quartier) et sympa.",
+            "Mercado San Miguel : une halle vitrée très jolie, blindée de monde mais qui propose plein de stands de tapas (à emporter, car trop de monde à l'intérieur)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "La Latina"
+        },
+        {
+          "type": "text",
+          "text": "Le quartier le plus mignon et le plus ancien : églises, ruelles et petites places ensoleillées."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pour un café ou une caña (petite bière) en terrasse : La Musa Latina, ou Café del Monaguillo.",
+            "Possibilité d'acheter des petits gâteaux faits par les sœurs au couvent de las Cordoneras.",
+            "Très animé le soir, avec des restaurants, des bars à tapas et des bars à vin de bonne qualité : tous les restaurants de la calle de la Cava Baja, endroit typique pour « ir de copas » (vin et tapas) ; on avait repéré Lamiak, La Cava et Casa Lucas, mais tous ont l'air équivalents, à choisir surtout en fonction de la place.",
+            "Astor Puerta Cerrada : restaurant plus qualitatif (bistronomique) dans un très beau cadre, un peu plus cher mais qui a l'air super.",
+            "Toga Restaurante : fusion sud-américaine et asiatique, pas testé mais qui a l'air bien.",
+            "Cedrón Restaurante : restaurant de grillades très bien noté.",
+            "Churrería Santa Ana : toute petite, ouverte uniquement le matin, pas meilleure que San Ginés mais expérience plus typique, avec la possibilité d'emporter ses churros et son chocolat chaud pour se balader."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Retiro et Paseo del Arte"
+        },
+        {
+          "type": "text",
+          "text": "Le grand parc du Retiro, avec des fontaines, un grand lac où les gens louent des barques, des bosquets à la française, de grands pins parasols, des pelouses pour bronzer et des palais comme le Palacio de Cristal, malheureusement en travaux. Le long du parc, le Paseo del Arte contient les trois principaux musées de Madrid, généralement gratuits le soir de 17 h ou 18 h à la fermeture :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Le Prado : chefs-d'œuvre classiques, notamment Velázquez, et la Renaissance italienne et flamande.",
+            "Le musée Reina Sofía : art moderne, notamment Guernica, Dalí et Miró.",
+            "Le musée Thyssen-Bornemisza : un peu de tout, du médiéval jusqu'aux impressionnistes et à Edward Hopper.",
+            "Le jardin botanique royal, collé au sud-ouest du Retiro, a l'air beau aussi (4 €)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Lavapiés"
+        },
+        {
+          "type": "text",
+          "text": "Un quartier principalement résidentiel, en cours de boboïsation, donc avec des cafés et des brunchs tendance, mais encore un peu populaire. Le principal intérêt est le grand marché des antiquaires du dimanche matin, le Rastro, mais pas si intéressant. Très bonnes adresses de café et de brunch ensoleillées (déjeuner possible aussi) : Caravan Café (le meilleur), Nomade Café, Pum Pum Café, Cinco Hileras, Dale Café."
+        },
+        {
+          "type": "heading",
+          "text": "Barrio de las Letras"
+        },
+        {
+          "type": "text",
+          "text": "Un petit quartier animé, ancien quartier d'artistes, avec pas mal de bars à tapas :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pepe Mollete : bar à tapas sans prétention mais très typique (toutes sortes de tapas à 3 €, avec des vermouths et des sangrías pas chers).",
+            "Matador : bar à tapas qui a l'air cheap de l'extérieur mais qui offre vraiment l'expérience tapas espagnole, très animé.",
+            "Casa Alberto : restaurant-bar historique ; ils jouent sur la beauté du lieu pour être plus chers que la moyenne, mais c'est très beau et ça a l'air bien.",
+            "Casa Toni, Lateral, La Dolores : bars à tapas pas testés mais qui ont l'air bien dans le quartier."
+          ]
+        }
+      ]
+    }
+  ],
+  "start": "2025-03-27",
+  "done": true,
+  "season": "Mi-saison",
+  "kind": "short"
+}

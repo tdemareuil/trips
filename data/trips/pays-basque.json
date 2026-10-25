@@ -1,0 +1,256 @@
+{
+  "id": "pays-basque",
+  "title": "Pays basque",
+  "subtitle": "Guide du Pays basque : gâteau basque et pintxos, villages de Saint-Jean-de-Luz à Bayonne, La Rhune, corniche et plages",
+  "travelers": [],
+  "cover": "Saint-Jean-de-Luz",
+  "days": [],
+  "guides": [
+    {
+      "id": "specialites",
+      "title": "Spécialités et bonnes adresses",
+      "summary": "Où manger à Saint-Jean-de-Luz, et où trouver macarons, gâteau basque et pintxos.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "À Saint-Jean-de-Luz"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Chez Pablo : institution, simple et efficace, très local.",
+            "Chez Mattin (Ciboure) : ultra typique, portions généreuses, ambiance familiale."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Macarons"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Maison Adam (Saint-Jean-de-Luz) : recette historique, texture moelleuse unique.",
+            "Maison Pariès : très réputée aussi, avec un peu plus de variété."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Gâteau basque, l'incontournable"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Maison Pariès : la référence (crème ou cerise noire).",
+            "Maison Adam : valeur sûre.",
+            "Etchebaster (Bidart) : souvent cité comme l'un des meilleurs, très authentique."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Autres incontournables"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pintxos (Saint-Sébastien) : mini-plats ultra travaillés, une expérience gastronomique en mode décontracté.",
+            "Produits locaux, sur les marchés : piment d'Espelette, jambon de Bayonne, fromage de brebis ; une identité culinaire forte et accessible."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "villes-villages",
+      "title": "Villes et villages",
+      "summary": "Saint-Jean-de-Luz, Ciboure, Ascain, Ainhoa, Espelette, Bidart, Biarritz, Bayonne et Saint-Sébastien.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Saint-Jean-de-Luz"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ville côtière : centre piéton, port vivant. Un mélange de plage, de gastronomie et d'ambiance basque élégante.",
+            "Histoire : mariage de Louis XIV en 1660 ; important port de pêche et de corsaires basques.",
+            "Marché des Halles : une immersion rapide dans les produits locaux, tous les matins, plus grand le mardi et le vendredi.",
+            "Restaurants pas surcotés : en plus des classiques, de petites adresses autour du port et du centre, avec une cuisine simple et fraîche, souvent meilleures que les spots trop visibles."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Ciboure"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Juste en face, plus petit et plus calme.",
+            "Balade Saint-Jean-de-Luz - Ciboure : à pied par le port, avec une belle perspective sur la baie.",
+            "Petite église Saint-Vincent : simple, typique, paisible.",
+            "Quelques restaurants discrets très qualitatifs, avec une ambiance locale sans effet touristique."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Ascain"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Village au pied de la Rhune : fronton, maisons labourdines, point de départ idéal de randonnées.",
+            "Fronton de pelote : le cœur de la vie locale.",
+            "Auberges locales à la cuisine basque traditionnelle, souvent excellentes et sans surcote."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Ainhoa"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Classé parmi les plus beaux villages : une rue unique bordée de maisons rouges et blanches, très harmonieuse.",
+            "Étape sur le chemin de Compostelle, à l'atmosphère paisible et historique.",
+            "Quelques tables simples et très bonnes, dans un cadre calme."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Espelette"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Célèbre pour son piment : des façades couvertes de cordes rouges, une forte identité locale.",
+            "Très touristique, mais vaut le détour pour l'ambiance et les produits.",
+            "Bien choisir son restaurant (certains sont touristiques) ; de bonnes adresses sont possibles, avec une cuisine basque authentique."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Bidart"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Village côtier entre Biarritz et Saint-Jean-de-Luz, plus calme, avec de superbes vues sur l'océan.",
+            "Bonnes tables discrètes avec vue sur la mer, souvent meilleur rapport qualité-prix qu'à Biarritz."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Biarritz"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Station balnéaire élégante : un mélange de surf, de luxe et d'architecture.",
+            "Rocher de la Vierge et Grande Plage : spots iconiques.",
+            "Un des berceaux du surf en Europe.",
+            "Restaurants plus chers en moyenne : viser les adresses un peu à l'écart pour éviter le côté surcoté."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Bayonne"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Cœur culturel basque : ruelles médiévales, cathédrale, ambiance vivante. Top pour manger, boire et sentir la vraie vie locale.",
+            "Marchés et spécialités (jambon, chocolat) : un gros point fort gastronomique.",
+            "Marché des Halles : tous les jours, très animé le samedi matin.",
+            "Énormément de bonnes tables, souvent plus authentiques et moins chères qu'à Biarritz."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Saint-Sébastien (Donostia, Espagne)"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ville raffinée, avec la magnifique baie de la Concha.",
+            "Histoire : ancienne ville fortifiée, reconstruite après un incendie en 1813, devenue une station balnéaire prisée de l'aristocratie espagnole.",
+            "Capitale des pintxos : une densité incroyable de restaurants de haut niveau.",
+            "Vieille ville autour de la Plaza de la Constitución : piétonne, très animée le soir, avec plein de bars à pintxos.",
+            "À faire : se mettre simplement au comptoir dans une taverne et goûter.",
+            "Qualité très élevée globalement : difficile de mal manger, même sans plan précis."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nature-paysages",
+      "title": "Nature et paysages",
+      "summary": "La Rhune, la corniche basque, Abbadia, Guéthary, Pasaia, la côte des Basques et le col d'Ibardin.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "La Rhune"
+        },
+        {
+          "type": "list",
+          "items": [
+            "À pied : départ d'Ascain (le plus sympa), environ 2 h 30 à 3 h de montée, avec un panorama à 360° (océan, Pyrénées, Espagne) et l'impression d'être sur le « toit du Pays basque ».",
+            "Les pottoks (chevaux basques), souvent visibles en liberté : une touche très locale.",
+            "Le train à crémaillère : une expérience rétro, avec une vue spectaculaire sans effort, qui vaut aussi pour l'ambiance."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "La Corniche et le château d'Abbadia"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Route entre Saint-Jean-de-Luz et Hendaye : falaises sauvages, Atlantique puissant.",
+            "Abbadia : château néogothique posé face à l'océan, spot photo et balade.",
+            "Chemin côtier : on peut longer le domaine à pied avec des vues superbes, sans forcément entrer dans le château."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Autres sites"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Guéthary : petit village côtier, avec falaises et spots de surf mythiques, ambiance discrète et chic.",
+            "Pasaia (Espagne) : petit port encaissé dans une faille, très dépaysant, avec des maisons serrées et une ambiance maritime brute.",
+            "Côte des Basques (Biarritz) : spot mythique, avec falaises et vue large ; top à marée basse pour marcher."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Col d'Ibardin"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Entre mer et montagne : un panorama facile et une ambiance frontalière avec des ventas. À environ 25 min en voiture de Saint-Jean-de-Luz.",
+            "Ventas : restaurants et boutiques côté espagnol, souvent détaxés, où l'on mange des plats simples (grillades, tapas) et où l'on achète alcool, fromage et charcuterie.",
+            "Vues ouvertes sur les montagnes, ambiance conviviale, bonnes adresses rustiques à la cuisine généreuse et au rapport qualité-prix solide (comme Venta Yasola ou Venta Peio)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plages",
+      "title": "Plages",
+      "summary": "Hendaye, Erromardie, Lafitenia et la plage du Centre de Bidart.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Hendaye : plage immense et familiale, idéale pour marcher longtemps. Les Deux Jumeaux : rochers emblématiques, paysage très ouvert.",
+            "Plage d'Erromardie (Saint-Jean-de-Luz) : plus sauvage que le centre, avec des falaises, moins de monde, une ambiance nature.",
+            "Lafitenia : spot de surf connu, avec falaises et vue dégagée, très beau au coucher du soleil.",
+            "Plage du Centre (Bidart) : plus locale, moins dense, très agréable."
+          ]
+        }
+      ]
+    }
+  ],
+  "season": "Week-ends en France",
+  "kind": "short"
+}
