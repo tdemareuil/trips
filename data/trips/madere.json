@@ -431,9 +431,9 @@
   ],
   "guides": [
     {
-      "id": "cartes-photos",
-      "title": "Carte et photos de Madère",
-      "summary": "La carte illustrée du roadtrip et les photos des lieux : villages, randonnées, plages, miradors, broderie et vin.",
+      "id": "villages",
+      "title": "Villages et visites",
+      "summary": "Funchal, Porto Moniz, Santana, Câmara de Lobos, Ponta do Sol, Jardim do Mar et São Vicente.",
       "blocks": [
         {
           "type": "image",
@@ -442,8 +442,20 @@
           "caption": "Carte illustrée du roadtrip à Madère avec les miradors, levadas, plages et villages de l'île."
         },
         {
+          "type": "image",
+          "src": "assets/photos/madere/cote-nord-falaises.jpg",
+          "alt": "Falaises verdoyantes plongeant dans l'océan et petit village sur le littoral nord.",
+          "caption": "Falaises verdoyantes plongeant dans l'océan et petit village sur le littoral nord."
+        },
+        {
           "type": "heading",
-          "text": "Villages"
+          "text": "Funchal"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mercado dos Lavradores : à voir pour l'architecture et les étals, mais pas pour acheter fruits et légumes. On y goûte la pitanga, le maracujá-banane ou la banane-ananas."
+          ]
         },
         {
           "type": "image",
@@ -452,10 +464,34 @@
           "caption": "Étals de fruits tropicaux du Mercado dos Lavradores, devant des azulejos bleus, à Funchal."
         },
         {
+          "type": "list",
+          "items": [
+            "Téléphérique jusqu'au village de Monte : 25 € l'aller-retour, jugé trop cher. Jardin tropical du Monte Palace : 15 €. Il existe plusieurs jardins botaniques à Funchal, celui de Monte Palace est le plus beau ; un deuxième téléphérique mène au Jardin botanique de Madère.",
+            "Vieille ville : l'avenue Arriaga et la rua dos Capelistas, le palais São Lourenço, la cathédrale Sé. Rua de Santa Maria, connue pour ses peintures murales sur les portes des commerces, véritable musée à ciel ouvert.",
+            "Musées : le musée CR7, dédié à Cristiano Ronaldo ; le musée de la photographie, à la façade rétro rose ; la Quinta das Cruzes, pour les arts décoratifs portugais du XVe au XXe siècle."
+          ]
+        },
+        {
           "type": "image",
           "src": "assets/photos/madere/funchal-quinta-penha-de-franca.jpg",
           "alt": "Toits et clochers de Funchal vus depuis les hauteurs au soleil couchant.",
           "caption": "Toits et clochers de Funchal vus depuis les hauteurs au soleil couchant."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/reids-palace-tea-time.jpg",
+          "alt": "Thé à l'anglaise sur une terrasse face à la mer, le tea time du Reid's Palace.",
+          "caption": "Thé à l'anglaise sur une terrasse face à la mer, le tea time du Reid's Palace."
+        },
+        {
+          "type": "heading",
+          "text": "Autres villages"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Porto Moniz : route vers le nord-ouest, entre l'océan et des formations rocheuses. Piscines naturelles sympa mais surcotées, assez bétonnées."
+          ]
         },
         {
           "type": "image",
@@ -476,10 +512,22 @@
           "caption": "Baigneurs dans une piscine naturelle de roche de lave à Porto Moniz."
         },
         {
+          "type": "list",
+          "items": [
+            "Santana : habitat traditionnel madérien, chaumières au toit très pointu. Surcoté, instagrammable, touristique."
+          ]
+        },
+        {
           "type": "image",
           "src": "assets/photos/madere/santana-maison-traditionnelle.jpg",
           "alt": "Maison traditionnelle à toit de chaume pointu de Santana, entourée de fleurs.",
           "caption": "Maison traditionnelle à toit de chaume pointu de Santana, entourée de fleurs."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Câmara de Lobos : à 15 min de Funchal, centre très mignon. Rien de particulier à faire, sinon se balader et boire un café avec vue sur l'océan."
+          ]
         },
         {
           "type": "image",
@@ -494,10 +542,22 @@
           "caption": "Clocher blanc et toits orange de Câmara de Lobos, au pied de la falaise."
         },
         {
+          "type": "list",
+          "items": [
+            "Ponta do Sol : village niché dans une petite baie, entre l'océan et les montagnes. Un festival de musique avait lieu sur la digue le jour de la visite."
+          ]
+        },
+        {
           "type": "image",
           "src": "assets/photos/madere/ponta-do-sol.jpg",
           "alt": "La plage de galets et la digue de Ponta do Sol, village niché entre océan et montagne.",
           "caption": "La plage de galets et la digue de Ponta do Sol, village niché entre océan et montagne."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Jardim do Mar : vraiment très beau, mieux que les deux précédents. Centre plus mignon, belle vue depuis la promenade panoramique autour du village (côte et cascades à pic), ruelles piétonnes très romantiques. Attention aux nombreux escaliers."
+          ]
         },
         {
           "type": "image",
@@ -506,113 +566,16 @@
           "caption": "Vue aérienne de Jardim do Mar, village accroché à la falaise au bord de l'océan."
         },
         {
+          "type": "list",
+          "items": [
+            "São Vicente : village central, sur la route qui traverse l'île du nord au sud. Peu de choses à visiter, mais un centre très mignon pour une pause, avec une église, des trottoirs pavés et des enseignes rétro. Sur un piton rocheux, la petite chapelle blanche de Nossa Senhora de Fátima. À la sortie du village, un Continente, l'une des deux grandes chaînes de supermarchés du Portugal avec Pingo Doce."
+          ]
+        },
+        {
           "type": "image",
           "src": "assets/photos/madere/sao-vicente.jpg",
           "alt": "Vue aérienne de São Vicente : église blanche, toits orange et vallée verdoyante.",
           "caption": "Vue aérienne de São Vicente : église blanche, toits orange et vallée verdoyante."
-        },
-        {
-          "type": "image",
-          "src": "assets/photos/madere/cote-nord-falaises.jpg",
-          "alt": "Falaises verdoyantes plongeant dans l'océan et petit village sur le littoral nord.",
-          "caption": "Falaises verdoyantes plongeant dans l'océan et petit village sur le littoral nord."
-        },
-        {
-          "type": "heading",
-          "text": "Randonnées, plages et miradors"
-        },
-        {
-          "type": "image",
-          "src": "assets/photos/madere/pico-do-arieiro.jpg",
-          "alt": "Sentier dallé et mer de nuages au lever du soleil au Pico do Arieiro.",
-          "caption": "Sentier dallé et mer de nuages au lever du soleil au Pico do Arieiro."
-        },
-        {
-          "type": "image",
-          "src": "assets/photos/madere/ponta-sao-lourenco-1.jpg",
-          "alt": "La presqu'île rocheuse de la Ponta de São Lourenço dans l'océan.",
-          "caption": "La presqu'île rocheuse de la Ponta de São Lourenço dans l'océan."
-        },
-        {
-          "type": "image",
-          "src": "assets/photos/madere/ponta-sao-lourenco-2.jpg",
-          "alt": "Crique turquoise avec voiliers, vue depuis le sentier de la Ponta de São Lourenço.",
-          "caption": "Crique turquoise avec voiliers, vue depuis le sentier de la Ponta de São Lourenço."
-        },
-        {
-          "type": "image",
-          "src": "assets/photos/madere/seixal-plage.jpg",
-          "alt": "Plage de sable noir de Porto do Seixal au pied de falaises dans la brume.",
-          "caption": "Plage de sable noir de Porto do Seixal au pied de falaises dans la brume."
-        },
-        {
-          "type": "image",
-          "src": "assets/photos/madere/cristo-rei.jpg",
-          "alt": "Escalier en bois menant à une pointe au-dessus de l'océan turquoise.",
-          "caption": "Escalier en bois menant à une pointe au-dessus de l'océan turquoise."
-        },
-        {
-          "type": "image",
-          "src": "assets/photos/madere/miradouro-da-vigia.jpg",
-          "alt": "Randonneuse sur un chemin de falaise fleuri, devant l'océan, au Miradouro da Vigia.",
-          "caption": "Randonneuse sur un chemin de falaise fleuri, devant l'océan, au Miradouro da Vigia."
-        },
-        {
-          "type": "heading",
-          "text": "Broderie, vin et thé"
-        },
-        {
-          "type": "image",
-          "src": "assets/photos/madere/bordal-pochoirs.jpg",
-          "alt": "Rouleaux de tissu bleu et photo ancienne de l'atelier de broderie Bordal.",
-          "caption": "Rouleaux de tissu bleu et photo ancienne de l'atelier de broderie Bordal."
-        },
-        {
-          "type": "image",
-          "src": "assets/photos/madere/blandy-wine-lodge.jpg",
-          "alt": "Salle de dégustation du Blandy's Wine Lodge, avec ses murs de bouteilles et ses tables en bois.",
-          "caption": "Salle de dégustation du Blandy's Wine Lodge, avec ses murs de bouteilles et ses tables en bois."
-        },
-        {
-          "type": "image",
-          "src": "assets/photos/madere/reids-palace-tea-time.jpg",
-          "alt": "Thé à l'anglaise sur une terrasse face à la mer, le tea time du Reid's Palace.",
-          "caption": "Thé à l'anglaise sur une terrasse face à la mer, le tea time du Reid's Palace."
-        }
-      ]
-    },
-    {
-      "id": "villages",
-      "title": "Villages et visites",
-      "summary": "Funchal, Porto Moniz, Santana, Câmara de Lobos, Ponta do Sol, Jardim do Mar et São Vicente.",
-      "blocks": [
-        {
-          "type": "heading",
-          "text": "Funchal"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Mercado dos Lavradores : à voir pour l'architecture et les étals, mais pas pour acheter fruits et légumes. On y goûte la pitanga, le maracujá-banane ou la banane-ananas.",
-            "Téléphérique jusqu'au village de Monte : 25 € l'aller-retour, jugé trop cher. Jardin tropical du Monte Palace : 15 €. Il existe plusieurs jardins botaniques à Funchal, celui de Monte Palace est le plus beau ; un deuxième téléphérique mène au Jardin botanique de Madère.",
-            "Vieille ville : l'avenue Arriaga et la rua dos Capelistas, le palais São Lourenço, la cathédrale Sé. Rua de Santa Maria, connue pour ses peintures murales sur les portes des commerces, véritable musée à ciel ouvert.",
-            "Musées : le musée CR7, dédié à Cristiano Ronaldo ; le musée de la photographie, à la façade rétro rose ; la Quinta das Cruzes, pour les arts décoratifs portugais du XVe au XXe siècle."
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Autres villages"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Porto Moniz : route vers le nord-ouest, entre l'océan et des formations rocheuses. Piscines naturelles sympa mais surcotées, assez bétonnées.",
-            "Santana : habitat traditionnel madérien, chaumières au toit très pointu. Surcoté, instagrammable, touristique.",
-            "Câmara de Lobos : à 15 min de Funchal, centre très mignon. Rien de particulier à faire, sinon se balader et boire un café avec vue sur l'océan.",
-            "Ponta do Sol : village niché dans une petite baie, entre l'océan et les montagnes. Un festival de musique avait lieu sur la digue le jour de la visite.",
-            "Jardim do Mar : vraiment très beau, mieux que les deux précédents. Centre plus mignon, belle vue depuis la promenade panoramique autour du village (côte et cascades à pic), ruelles piétonnes très romantiques. Attention aux nombreux escaliers.",
-            "São Vicente : village central, sur la route qui traverse l'île du nord au sud. Peu de choses à visiter, mais un centre très mignon pour une pause, avec une église, des trottoirs pavés et des enseignes rétro. Sur un piton rocheux, la petite chapelle blanche de Nossa Senhora de Fátima. À la sortie du village, un Continente, l'une des deux grandes chaînes de supermarchés du Portugal avec Pingo Doce."
-          ]
         }
       ]
     },
@@ -708,8 +671,36 @@
         {
           "type": "list",
           "items": [
-            "Ponta de São Lourenço (PR8) : à l'extrême est, idéale pour le lever du soleil. Végétation presque inexistante, terre rouge qui contraste avec le bleu de l'océan. 10 km, mais on peut faire demi-tour quand on veut (aller-retour) ; comptez 2 à 3 h avec des pauses, 3 € via l'application. Attention : il faut réserver à l'avance, sinon il n'y a plus de places.",
-            "Pico do Arieiro (PR1) : la randonnée phare de l'île, et de loin la plus belle. Connue pour le lever du soleil (les places partent en premier sur l'application), toujours avec des contrôles. Départ au parking du Miradouro do Pico do Arieiro. Le long sentier de 12 km jusqu'au Pico Ruivo, avec 1 000 m de dénivelé, est fermé à cause des incendies, avec des ouvertures ponctuelles ; c'est un aller simple, donc à éviter, puisqu'une navette ou un taxi sont très chers et très longs. La randonnée consiste donc à marcher 1,8 km, puis à faire demi-tour : 20 à 30 minutes à l'aller, sans grande difficulté, très impressionnant.",
+            "Ponta de São Lourenço (PR8) : à l'extrême est, idéale pour le lever du soleil. Végétation presque inexistante, terre rouge qui contraste avec le bleu de l'océan. 10 km, mais on peut faire demi-tour quand on veut (aller-retour) ; comptez 2 à 3 h avec des pauses, 3 € via l'application. Attention : il faut réserver à l'avance, sinon il n'y a plus de places."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/ponta-sao-lourenco-1.jpg",
+          "alt": "La presqu'île rocheuse de la Ponta de São Lourenço dans l'océan.",
+          "caption": "La presqu'île rocheuse de la Ponta de São Lourenço dans l'océan."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/ponta-sao-lourenco-2.jpg",
+          "alt": "Crique turquoise avec voiliers, vue depuis le sentier de la Ponta de São Lourenço.",
+          "caption": "Crique turquoise avec voiliers, vue depuis le sentier de la Ponta de São Lourenço."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pico do Arieiro (PR1) : la randonnée phare de l'île, et de loin la plus belle. Connue pour le lever du soleil (les places partent en premier sur l'application), toujours avec des contrôles. Départ au parking du Miradouro do Pico do Arieiro. Le long sentier de 12 km jusqu'au Pico Ruivo, avec 1 000 m de dénivelé, est fermé à cause des incendies, avec des ouvertures ponctuelles ; c'est un aller simple, donc à éviter, puisqu'une navette ou un taxi sont très chers et très longs. La randonnée consiste donc à marcher 1,8 km, puis à faire demi-tour : 20 à 30 minutes à l'aller, sans grande difficulté, très impressionnant."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/pico-do-arieiro.jpg",
+          "alt": "Sentier dallé et mer de nuages au lever du soleil au Pico do Arieiro.",
+          "caption": "Sentier dallé et mer de nuages au lever du soleil au Pico do Arieiro."
+        },
+        {
+          "type": "list",
+          "items": [
             "Achada do Teixeira au Pico Ruivo (PR1.2) : 5,6 km aller-retour, environ 2 h, à 30 min de Porto da Cruz. Une alternative plus facile pour découvrir le Pico Ruivo, à faire au lever du soleil.",
             "Pico Grande : depuis le point de vue de Boca da Corrida, 10 km aller-retour avec 700 m de dénivelé, réservé à ceux qui n'ont pas le vertige (cordes et escalade) et en bonne condition physique.",
             "Levada das 25 Fontes (PR6) : l'une des plus célèbres, à combiner en boucle depuis le parking avec la levada do Risco (PR6.1) et la levada do Alecrim (PR6.2). Belle vue sur la vallée de Rabaçal, marche en forêt laurifère, cascade de Risco, petits oiseaux. Payante et sur réservation ; il existe un tarif maximum par jour.",
@@ -744,7 +735,18 @@
           "items": [
             "Praia Machico : beau sable.",
             "Praia Garajau : assez difficile d'accès (téléphérique) mais très belle.",
-            "Praia do Porto do Seixal : unanimement la plus belle plage de l'île, de sable noir, avec une piscine naturelle qui la borde, une cascade qui se jette sur la plage et des falaises alentour.",
+            "Praia do Porto do Seixal : unanimement la plus belle plage de l'île, de sable noir, avec une piscine naturelle qui la borde, une cascade qui se jette sur la plage et des falaises alentour."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/seixal-plage.jpg",
+          "alt": "Plage de sable noir de Porto do Seixal au pied de falaises dans la brume.",
+          "caption": "Plage de sable noir de Porto do Seixal au pied de falaises dans la brume."
+        },
+        {
+          "type": "list",
+          "items": [
             "Fajã dos Padres : un des endroits préférés. Un téléphérique impressionnant descend jusqu'à un petit village de bord de mer, avec une plantation de bananes, de fruits et de fleurs, et un petit hôtel ; un monte-charge remonte les récoltes. Les fajãs sont ces zones plates cultivables, d'origine volcanique, au pied d'immenses falaises ; sur une île où les terrains plats sont rares, on les exploite malgré tout. [Plus d'infos sur les fajãs](https://fr.wikipedia.org/wiki/Faj%C3%A3)."
           ]
         },
@@ -759,8 +761,30 @@
         {
           "type": "list",
           "items": [
-            "Côte sud : Miradouro do Cristo Rei (belle lumière le soir, petit chemin à gauche de la statue) ; Cabo Girão, jugé une arnaque : il faut payer pour s'approcher du promontoire en verre, à plus de 500 m de hauteur.",
-            "Côte nord : Miradouro do Guindaste ; Miradouro da Vigia ; Miradouro de São Cristóvão (paysage formidable, restaurant, départ d'une randonnée à flanc de falaise de 2 h aller-retour).",
+            "Côte sud : Miradouro do Cristo Rei (belle lumière le soir, petit chemin à gauche de la statue) ; Cabo Girão, jugé une arnaque : il faut payer pour s'approcher du promontoire en verre, à plus de 500 m de hauteur."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/cristo-rei.jpg",
+          "alt": "Escalier en bois menant à une pointe au-dessus de l'océan turquoise.",
+          "caption": "Escalier en bois menant à une pointe au-dessus de l'océan turquoise."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Côte nord : Miradouro do Guindaste ; Miradouro da Vigia ; Miradouro de São Cristóvão (paysage formidable, restaurant, départ d'une randonnée à flanc de falaise de 2 h aller-retour)."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/miradouro-da-vigia.jpg",
+          "alt": "Randonneuse sur un chemin de falaise fleuri, devant l'océan, au Miradouro da Vigia.",
+          "caption": "Randonneuse sur un chemin de falaise fleuri, devant l'océan, au Miradouro da Vigia."
+        },
+        {
+          "type": "list",
+          "items": [
             "Côte nord-ouest : Miradouro Ilhéus da Ribeira da Janela, aux formations rocheuses pointues.",
             "Côte ouest : Miradouro da Garganta Funda ; Ponta do Tristão, la pointe la plus occidentale, peu connue, avec de bonnes chances d'être seul.",
             "Centre : Mirador dos Balcões et Eira do Serrado, vue spectaculaire sur la vallée des Nonnes et le village de Curral das Freiras, incontournable ; plus calme le matin ou en fin d'après-midi. Miradouro do Chão do Pasto, jolie vue pour le coucher du soleil. Bica da Cana, avec un peu de chance au-dessus d'une mer de nuages.",
@@ -831,6 +855,12 @@
           "text": "La broderie madérienne est réputée pour ses détails complexes et son identité unique. Bordal (rua Fernão de Ornelas, 77) est la manufacture emblématique, vraiment canon. Pas de réservation nécessaire : il suffit d'arriver au magasin avant le début de la visite. Il y a des horaires, mais on peut simplement entrer et demander à visiter : une visite privée avec les brodeuses encore en activité dans les ateliers à l'étage. En semaine uniquement, et ça vaut le coup."
         },
         {
+          "type": "image",
+          "src": "assets/photos/madere/bordal-pochoirs.jpg",
+          "alt": "Rouleaux de tissu bleu et photo ancienne de l'atelier de broderie Bordal.",
+          "caption": "Rouleaux de tissu bleu et photo ancienne de l'atelier de broderie Bordal."
+        },
+        {
           "type": "list",
           "items": [
             "Visites guidées : 9 h 30, 10 h 30, 11 h 30, 12 h 30, 14 h 30, 15 h 30, 16 h 45 et 17 h 30. Prix : 5 € par personne.",
@@ -872,7 +902,18 @@
           "type": "list",
           "items": [
             "Pereira d'Oliveira : la meilleure qualité, avec des stocks incroyables de vieux millésimes (frasqueiras). Moins organisé pour les touristes, donc plus authentique : il faut entrer et demander à goûter, la dégustation de base est souvent offerte (et on peut goûter des vins très anciens au verre à un prix raisonnable), mais ils s'attendent à ce qu'on achète. Fermé le dimanche.",
-            "Blandy's Wine Lodge : l'institution de l'île, dans un ancien monastère. Plus touristique, mais beau et bien fait pour déguster. On s'est simplement assis dans l'espace dégustation pour une formule de 4 verres, autour de 12 € (super pas cher), qui permet de comparer les cépages, du plus sucré au moins sucré. Il y a aussi des visites guidées.",
+            "Blandy's Wine Lodge : l'institution de l'île, dans un ancien monastère. Plus touristique, mais beau et bien fait pour déguster. On s'est simplement assis dans l'espace dégustation pour une formule de 4 verres, autour de 12 € (super pas cher), qui permet de comparer les cépages, du plus sucré au moins sucré. Il y a aussi des visites guidées."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/blandy-wine-lodge.jpg",
+          "alt": "Salle de dégustation du Blandy's Wine Lodge, avec ses murs de bouteilles et ses tables en bois.",
+          "caption": "Salle de dégustation du Blandy's Wine Lodge, avec ses murs de bouteilles et ses tables en bois."
+        },
+        {
+          "type": "list",
+          "items": [
             "Vinhos Barbeito : sur les hauteurs, près de Câmara de Lobos, plus moderne."
           ]
         },
