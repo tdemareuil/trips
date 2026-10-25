@@ -468,45 +468,27 @@
       "n": 10,
       "weekday": "Vendredi",
       "title": "Yosemite : la vallée et ses icônes",
-      "summary": "Route des contreforts jusqu'à la vallée de Yosemite : Tunnel View et Bridalveil Fall, Cook's Meadow et Lower Yosemite Fall, El Capitan Meadow, puis coucher du soleil au Valley View.",
+      "summary": "Route des contreforts jusqu'à la vallée de Yosemite par la Highway 140, puis journée bien remplie d'est en ouest : Cook's Meadow et Lower Yosemite Fall, Mirror Lake, El Capitan Meadow, Bridalveil Fall, Valley View et coucher du soleil à Tunnel View.",
       "route": "drive",
       "parts": [
         {
-          "label": "Matin",
-          "text": "Départ tôt des contreforts, route vers Yosemite par la Highway 140 (ou la 41) : le panorama emblématique d'El Capitan, de Half Dome et de Bridalveil Fall depuis Tunnel View, puis Bridalveil Fall (courte balade facile)."
-        },
-        {
           "label": "Midi",
-          "text": "Balade plate autour de Cook's Meadow, avec le reflet de Half Dome dans la rivière, puis jusqu'au pied de Lower Yosemite Fall (boucle de 0,8 km)."
+          "text": "Arrivée dans la vallée par la Highway 140 : balade plate autour de Cook's Meadow, avec le reflet de Half Dome dans la rivière, puis jusqu'au pied de Lower Yosemite Fall (boucle de 0,8 km)."
         },
         {
-          "label": "Après-midi",
-          "text": "El Capitan Meadow : s'arrêter pour lever les yeux vers le monolithe de granit de 900 m ; avec des jumelles, on repère les grimpeurs d'hiver."
+          "label": "Début d'après-midi",
+          "text": "Mirror Lake : le chemin goudronné d'environ 3 km, tranquille en hiver, pour regarder Half Dome juste au-dessus."
+        },
+        {
+          "label": "Fin d'après-midi",
+          "text": "El Capitan Meadow : s'arrêter pour lever les yeux vers le monolithe de granit de 900 m ; avec des jumelles, on repère les grimpeurs d'hiver. Puis Bridalveil Fall (courte balade facile) et Valley View, avec la lumière chaude sur El Capitan et Sentinel Rock au-dessus de la Merced River."
         },
         {
           "label": "Coucher du soleil",
-          "text": "Valley View : la lumière chaude sur El Capitan et Sentinel Rock, au-dessus de la Merced River."
+          "text": "Tunnel View : le panorama emblématique d'El Capitan, de Half Dome et de Bridalveil Fall, à la lumière de fin de journée."
         }
       ],
       "stops": [
-        {
-          "name": "Tunnel View",
-          "wiki": "Tunnel View",
-          "coords": [
-            37.7159,
-            -119.677
-          ],
-          "culture": "Le panorama emblématique de la vallée, avec El Capitan, Half Dome et Bridalveil Fall."
-        },
-        {
-          "name": "Bridalveil Fall",
-          "wiki": "Bridalveil Fall",
-          "coords": [
-            37.7163,
-            -119.6465
-          ],
-          "culture": "Chute de plus de 180 m, accessible par une courte balade facile ; le vent la disperse en voile, d'où son nom."
-        },
         {
           "name": "Cook's Meadow",
           "coords": [
@@ -525,6 +507,15 @@
           "culture": "Chute inférieure des Yosemite Falls, au bout d'une boucle facile d'environ 0,8 km."
         },
         {
+          "name": "Mirror Lake",
+          "wiki": "Mirror Lake (Yosemite)",
+          "coords": [
+            37.7477,
+            -119.547
+          ],
+          "culture": "Petit lac peu profond au pied de Half Dome, qui s'assèche en été et se visite surtout au printemps ; en hiver, le sentier est calme."
+        },
+        {
           "name": "El Capitan Meadow",
           "wiki": "El Capitan",
           "coords": [
@@ -534,6 +525,15 @@
           "culture": "Pied du monolithe de granit d'El Capitan, haut d'environ 900 m ; les grimpeurs s'y repèrent aux jumelles, même en hiver."
         },
         {
+          "name": "Bridalveil Fall",
+          "wiki": "Bridalveil Fall",
+          "coords": [
+            37.7163,
+            -119.6465
+          ],
+          "culture": "Chute de plus de 180 m, accessible par une courte balade facile ; le vent la disperse en voile, d'où son nom."
+        },
+        {
           "name": "Valley View",
           "coords": [
             37.7158,
@@ -541,6 +541,15 @@
           ],
           "culture": "Point de vue sur El Capitan et Sentinel Rock au-dessus de la Merced River, très beau au coucher du soleil.",
           "photo": "File:Valley View Yosemite August 2013 002.jpg"
+        },
+        {
+          "name": "Tunnel View",
+          "wiki": "Tunnel View",
+          "coords": [
+            37.7159,
+            -119.677
+          ],
+          "culture": "Le panorama emblématique de la vallée, avec El Capitan, Half Dome et Bridalveil Fall."
         }
       ],
       "stay": {
@@ -570,35 +579,26 @@
     {
       "n": 11,
       "weekday": "Samedi",
-      "title": "Yosemite : randonnée d'hiver & départ",
-      "summary": "Randonnée facile à Mirror Lake ou jusqu'au pont de Vernal Fall, café dans le grand salon de l'Ahwahnee, puis route vers l'aéroport de San Francisco pour le vol du soir.",
+      "title": "Yosemite : dernière balade & départ",
+      "summary": "Matinée légère : montée au pont de Vernal Fall par le Mist Trail, boisson chaude dans le grand salon de l'Ahwahnee, puis route vers l'aéroport de San Francisco pour le vol du soir.",
       "route": "drive",
       "stay": null,
       "end": "Décollage le soir",
       "parts": [
         {
           "label": "Matin",
-          "text": "Randonnée d'hiver, au choix. Facile : le chemin goudronné de 3 km jusqu'à Mirror Lake, pour regarder Half Dome juste au-dessus. Modéré : le Mist Trail jusqu'au pont de Vernal Fall (2,6 km aller-retour) ; le haut de l'escalier au-delà du pont est souvent fermé en hiver à cause de la chute de glace."
+          "text": "Randonnée d'hiver modérée : le Mist Trail jusqu'au pont de Vernal Fall (2,6 km aller-retour). Le haut de l'escalier au-delà du pont est souvent fermé en hiver à cause de la chute de glace."
         },
         {
           "label": "Fin de matinée",
           "text": "The Ahwahnee : se poser dans le grand salon de l'hôtel historique, près des immenses cheminées de pierre, avec une boisson chaude, avant de partir."
         },
         {
-          "label": "Après-midi",
+          "label": "Début d'après-midi",
           "text": "Route vers l'aéroport de San Francisco (SFO) pour le vol du soir."
         }
       ],
       "stops": [
-        {
-          "name": "Mirror Lake",
-          "wiki": "Mirror Lake (Yosemite)",
-          "coords": [
-            37.7477,
-            -119.547
-          ],
-          "culture": "Petit lac peu profond au pied de Half Dome, qui s'assèche en été et se visite surtout au printemps ; en hiver, le sentier est calme."
-        },
         {
           "name": "Pont de Vernal Fall",
           "coords": [
