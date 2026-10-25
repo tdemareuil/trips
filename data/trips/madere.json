@@ -61,7 +61,7 @@
         },
         {
           "mode": "car",
-          "text": "Voiture de location chez Cassiano's à 14 h 30 (navettes ; faire le self check-in et envoyer un WhatsApp le matin)"
+          "text": "Voiture de location chez Cassiano's à 14 h 30 (navettes ; faire le self check-in et envoyer un WhatsApp le matin ; contact pour la navette : +351 937310425)"
         }
       ],
       "food": [
@@ -431,6 +431,157 @@
   ],
   "guides": [
     {
+      "id": "cartes-photos",
+      "title": "Carte et photos de Madère",
+      "summary": "La carte illustrée du roadtrip et les photos des lieux : villages, randonnées, plages, miradors, broderie et vin.",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/photos/madere/itineraire-roadtrip.jpg",
+          "alt": "Carte illustrée du roadtrip à Madère avec les miradors, levadas, plages et villages de l'île.",
+          "caption": "Carte illustrée du roadtrip à Madère avec les miradors, levadas, plages et villages de l'île."
+        },
+        {
+          "type": "heading",
+          "text": "Villages"
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/mercado-dos-lavradores.jpg",
+          "alt": "Étals de fruits tropicaux du Mercado dos Lavradores, devant des azulejos bleus, à Funchal.",
+          "caption": "Étals de fruits tropicaux du Mercado dos Lavradores, devant des azulejos bleus, à Funchal."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/funchal-quinta-penha-de-franca.jpg",
+          "alt": "Toits et clochers de Funchal vus depuis les hauteurs au soleil couchant.",
+          "caption": "Toits et clochers de Funchal vus depuis les hauteurs au soleil couchant."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/porto-moniz-village.jpg",
+          "alt": "Le village de Porto Moniz au bord de l'océan, avec ses piscines naturelles en contrebas.",
+          "caption": "Le village de Porto Moniz au bord de l'océan, avec ses piscines naturelles en contrebas."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/porto-moniz-piscines-1.jpg",
+          "alt": "Piscines naturelles de Porto Moniz au milieu des rochers volcaniques.",
+          "caption": "Piscines naturelles de Porto Moniz au milieu des rochers volcaniques."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/porto-moniz-piscines-2.jpg",
+          "alt": "Baigneurs dans une piscine naturelle de roche de lave à Porto Moniz.",
+          "caption": "Baigneurs dans une piscine naturelle de roche de lave à Porto Moniz."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/santana-maison-traditionnelle.jpg",
+          "alt": "Maison traditionnelle à toit de chaume pointu de Santana, entourée de fleurs.",
+          "caption": "Maison traditionnelle à toit de chaume pointu de Santana, entourée de fleurs."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/camara-de-lobos-port.jpg",
+          "alt": "Le petit port de Câmara de Lobos et ses maisons blanches aux toits orange.",
+          "caption": "Le petit port de Câmara de Lobos et ses maisons blanches aux toits orange."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/camara-de-lobos-eglise.jpg",
+          "alt": "Clocher blanc et toits orange de Câmara de Lobos, au pied de la falaise.",
+          "caption": "Clocher blanc et toits orange de Câmara de Lobos, au pied de la falaise."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/ponta-do-sol.jpg",
+          "alt": "La plage de galets et la digue de Ponta do Sol, village niché entre océan et montagne.",
+          "caption": "La plage de galets et la digue de Ponta do Sol, village niché entre océan et montagne."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/jardim-do-mar.jpg",
+          "alt": "Vue aérienne de Jardim do Mar, village accroché à la falaise au bord de l'océan.",
+          "caption": "Vue aérienne de Jardim do Mar, village accroché à la falaise au bord de l'océan."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/sao-vicente.jpg",
+          "alt": "Vue aérienne de São Vicente : église blanche, toits orange et vallée verdoyante.",
+          "caption": "Vue aérienne de São Vicente : église blanche, toits orange et vallée verdoyante."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/cote-nord-falaises.jpg",
+          "alt": "Falaises verdoyantes plongeant dans l'océan et petit village sur le littoral nord.",
+          "caption": "Falaises verdoyantes plongeant dans l'océan et petit village sur le littoral nord."
+        },
+        {
+          "type": "heading",
+          "text": "Randonnées, plages et miradors"
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/pico-do-arieiro.jpg",
+          "alt": "Sentier dallé et mer de nuages au lever du soleil au Pico do Arieiro.",
+          "caption": "Sentier dallé et mer de nuages au lever du soleil au Pico do Arieiro."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/ponta-sao-lourenco-1.jpg",
+          "alt": "La presqu'île rocheuse de la Ponta de São Lourenço dans l'océan.",
+          "caption": "La presqu'île rocheuse de la Ponta de São Lourenço dans l'océan."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/ponta-sao-lourenco-2.jpg",
+          "alt": "Crique turquoise avec voiliers, vue depuis le sentier de la Ponta de São Lourenço.",
+          "caption": "Crique turquoise avec voiliers, vue depuis le sentier de la Ponta de São Lourenço."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/seixal-plage.jpg",
+          "alt": "Plage de sable noir de Porto do Seixal au pied de falaises dans la brume.",
+          "caption": "Plage de sable noir de Porto do Seixal au pied de falaises dans la brume."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/cristo-rei.jpg",
+          "alt": "Escalier en bois menant à une pointe au-dessus de l'océan turquoise.",
+          "caption": "Escalier en bois menant à une pointe au-dessus de l'océan turquoise."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/miradouro-da-vigia.jpg",
+          "alt": "Randonneuse sur un chemin de falaise fleuri, devant l'océan, au Miradouro da Vigia.",
+          "caption": "Randonneuse sur un chemin de falaise fleuri, devant l'océan, au Miradouro da Vigia."
+        },
+        {
+          "type": "heading",
+          "text": "Broderie, vin et thé"
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/bordal-pochoirs.jpg",
+          "alt": "Rouleaux de tissu bleu et photo ancienne de l'atelier de broderie Bordal.",
+          "caption": "Rouleaux de tissu bleu et photo ancienne de l'atelier de broderie Bordal."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/blandy-wine-lodge.jpg",
+          "alt": "Salle de dégustation du Blandy's Wine Lodge, avec ses murs de bouteilles et ses tables en bois.",
+          "caption": "Salle de dégustation du Blandy's Wine Lodge, avec ses murs de bouteilles et ses tables en bois."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/madere/reids-palace-tea-time.jpg",
+          "alt": "Thé à l'anglaise sur une terrasse face à la mer, le tea time du Reid's Palace.",
+          "caption": "Thé à l'anglaise sur une terrasse face à la mer, le tea time du Reid's Palace."
+        }
+      ]
+    },
+    {
       "id": "villages",
       "title": "Villages et visites",
       "summary": "Funchal, Porto Moniz, Santana, Câmara de Lobos, Ponta do Sol, Jardim do Mar et São Vicente.",
@@ -683,7 +834,8 @@
           "type": "list",
           "items": [
             "Visites guidées : 9 h 30, 10 h 30, 11 h 30, 12 h 30, 14 h 30, 15 h 30, 16 h 45 et 17 h 30. Prix : 5 € par personne.",
-            "Ateliers pour apprendre à broder : tous les jeudis de 10 h 30 à 12 h."
+            "Ateliers pour apprendre à broder : tous les jeudis de 10 h 30 à 12 h.",
+            "Autres adresses : Patricio & Gouveia (rua do Visconde de Anadia, 34), l'une des plus anciennes maisons de broderie, avec visite des étapes de fabrication mais sans atelier pratique ; IVBAM, l'Institut officiel de la broderie (rua dos Ferreiros, 152), pas d'ateliers réguliers mais des démonstrations ponctuelles lors d'événements."
           ]
         },
         {

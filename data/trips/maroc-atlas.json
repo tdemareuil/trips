@@ -263,6 +263,31 @@
   ],
   "guides": [
     {
+      "id": "cartes",
+      "title": "Cartes des itinéraires",
+      "summary": "Les cartes des trois itinéraires étudiés dans l'Atlas et le désert.",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/photos/maroc-atlas/itineraire-v1.png",
+          "alt": "Itinéraire v1 (911 km, 15 h 11) : Marrakech, Telouet, Aït Benhaddou, Ouarzazate, Zagora puis M'Hamid.",
+          "caption": "Itinéraire v1 (911 km, 15 h 11) : Marrakech, Telouet, Aït Benhaddou, Ouarzazate, Zagora puis M'Hamid."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/maroc-atlas/itineraire-v2.png",
+          "alt": "Itinéraire v2, plus court (830 km, 13 h 53) : Marrakech, Telouet, Aït Benhaddou, Ouarzazate, Zagora, Aït Amrad et Tazzarine.",
+          "caption": "Itinéraire v2, plus court (830 km, 13 h 53) : Marrakech, Telouet, Aït Benhaddou, Ouarzazate, Zagora, Aït Amrad et Tazzarine."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/maroc-atlas/full-atlas.png",
+          "alt": "Itinéraire approximatif Full Atlas (873 km, 16 h 17) : Marrakech, Telouet, Aït Benhaddou, Bou Tharar, Msemrir, Tamtetoucht et retour.",
+          "caption": "Itinéraire approximatif Full Atlas (873 km, 16 h 17) : Marrakech, Telouet, Aït Benhaddou, Bou Tharar, Msemrir, Tamtetoucht et retour."
+        }
+      ]
+    },
+    {
       "id": "infos-pratiques",
       "title": "Infos pratiques : randonnée et location de voiture",
       "summary": "Ce qu'il faut savoir pour marcher au Maroc et louer une voiture.",

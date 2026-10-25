@@ -492,7 +492,21 @@
       ]
     }
   ],
-  "guides": [],
+  "guides": [
+    {
+      "id": "photo",
+      "title": "Photo de Venise",
+      "summary": "Le Grand Canal et la Salute, dans la lumière du soir.",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/photos/venetie/grand-canal-salute.jpg",
+          "alt": "Le Grand Canal de Venise avec, au fond, la basilique Santa Maria della Salute, dans la lumière du soir.",
+          "caption": "Le Grand Canal de Venise avec, au fond, la basilique Santa Maria della Salute, dans la lumière du soir."
+        }
+      ]
+    }
+  ],
   "season": "Mi-saison",
   "kind": "short"
 }

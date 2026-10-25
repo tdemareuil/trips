@@ -587,6 +587,25 @@
   ],
   "guides": [
     {
+      "id": "cartes",
+      "title": "Cartes de la Sardaigne",
+      "summary": "La carte des lieux d'intérêt et celle des grandes régions de l'île.",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/photos/sardaigne/carte-lieux-interet.jpg",
+          "alt": "Carte des lieux d'intérêt de la Sardaigne (Partir.com) : archipel de La Maddalena, Costa Smeralda, Alghero, Bosa et golfe d'Orosei.",
+          "caption": "Carte des lieux d'intérêt de la Sardaigne (Partir.com) : archipel de La Maddalena, Costa Smeralda, Alghero, Bosa et golfe d'Orosei."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/sardaigne/regions-sardaigne.png",
+          "alt": "Carte des grandes régions de la Sardaigne (Nord-Ouest, Gallura, Centre, Sud-Ouest, Cagliari) avec leurs points forts.",
+          "caption": "Carte des grandes régions de la Sardaigne (Nord-Ouest, Gallura, Centre, Sud-Ouest, Cagliari) avec leurs points forts."
+        }
+      ]
+    },
+    {
       "id": "villages",
       "title": "Plus beaux villages",
       "summary": "Villages de la côte et de l'intérieur à voir en Sardaigne.",

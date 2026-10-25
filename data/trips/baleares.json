@@ -508,6 +508,81 @@
   ],
   "guides": [
     {
+      "id": "cartes",
+      "title": "Cartes de Majorque, Minorque et Ibiza",
+      "summary": "Les cartes de l'archipel, de Majorque région par région, de Minorque, d'Ibiza et de Formentera.",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/photos/baleares/archipel.png",
+          "alt": "Carte des îles Baléares : Majorque, Minorque, Ibiza et Formentera.",
+          "caption": "Carte des îles Baléares : Majorque, Minorque, Ibiza et Formentera."
+        },
+        {
+          "type": "heading",
+          "text": "Majorque"
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/baleares/majorque-roadtrip-itineraire.png",
+          "alt": "Itinéraire de roadtrip autour de Majorque : Palma, Valldemossa, Sóller, Pollença, Alcúdia, Cala Mesquida, Cala Pi et Cala Llombards.",
+          "caption": "Itinéraire de roadtrip autour de Majorque : Palma, Valldemossa, Sóller, Pollença, Alcúdia, Cala Mesquida, Cala Pi et Cala Llombards."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/baleares/palma-city-trip.png",
+          "alt": "Plan de visite à pied de Palma : cathédrale, palais de l'Almudaina, Llotja, Plaza Mayor, bains arabes et moulins.",
+          "caption": "Plan de visite à pied de Palma : cathédrale, palais de l'Almudaina, Llotja, Plaza Mayor, bains arabes et moulins."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/baleares/majorque-sud-ouest.png",
+          "alt": "Sud-ouest de Majorque : Sant Elm, Dragonera, Andratx, Banyalbufar, Portals Vells, Bellver et Magaluf.",
+          "caption": "Sud-ouest de Majorque : Sant Elm, Dragonera, Andratx, Banyalbufar, Portals Vells, Bellver et Magaluf."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/baleares/majorque-nord-ouest.png",
+          "alt": "Nord-ouest de Majorque : Valldemossa, Deià, Sóller, Fornalutx, lac de Cúber, Sa Calobra et Cala Tuent.",
+          "caption": "Nord-ouest de Majorque : Valldemossa, Deià, Sóller, Fornalutx, lac de Cúber, Sa Calobra et Cala Tuent."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/baleares/majorque-nord-formentor-alcudia.png",
+          "alt": "Nord de Majorque : Pollença, cap de Formentor, Alcúdia, s'Albufera, Playa de Muro, Cala Torta et Artà.",
+          "caption": "Nord de Majorque : Pollença, cap de Formentor, Alcúdia, s'Albufera, Playa de Muro, Cala Torta et Artà."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/baleares/majorque-est-sud-est.png",
+          "alt": "Est et sud-est de Majorque : Artà, Porto Cristo, Mondragó, Cala des Moro, Es Trenc, Cala Pi et cap de Ses Salines.",
+          "caption": "Est et sud-est de Majorque : Artà, Porto Cristo, Mondragó, Cala des Moro, Es Trenc, Cala Pi et cap de Ses Salines."
+        },
+        {
+          "type": "heading",
+          "text": "Minorque, Ibiza et Formentera"
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/baleares/minorque.png",
+          "alt": "Carte illustrée de Minorque : Ciutadella, Mahón, Fornells, Binigaus et les calas du sud.",
+          "caption": "Carte illustrée de Minorque : Ciutadella, Mahón, Fornells, Binigaus et les calas du sud."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/baleares/ibiza-formentera.png",
+          "alt": "Ibiza et Formentera avec les plages et adresses du roadtrip : Portinatx, Cala Saladeta, Sa Caleta, Ibiza-Dalt Vila.",
+          "caption": "Ibiza et Formentera avec les plages et adresses du roadtrip : Portinatx, Cala Saladeta, Sa Caleta, Ibiza-Dalt Vila."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/baleares/ibiza-ou-dormir.png",
+          "alt": "Ibiza : secteurs où dormir (Portinatx, Sant Antoni, Santa Eulària, Cala Llonga, Eivissa, Playa d'en Bossa) et plages.",
+          "caption": "Ibiza : secteurs où dormir (Portinatx, Sant Antoni, Santa Eulària, Cala Llonga, Eivissa, Playa d'en Bossa) et plages."
+        }
+      ]
+    },
+    {
       "id": "hebergements",
       "title": "Hébergements envisagés",
       "summary": "Les options étudiées chaque nuit, avec les prix et les conditions d'annulation.",

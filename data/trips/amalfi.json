@@ -440,6 +440,25 @@
   ],
   "guides": [
     {
+      "id": "cartes",
+      "title": "Cartes de la côte amalfitaine",
+      "summary": "La carte illustrée de la côte et le plan des bus, trains et ferrys.",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/photos/amalfi/amalfi-mapa.jpg",
+          "alt": "Carte illustrée de la côte amalfitaine : Sorrente, Positano, Praiano, Amalfi, Ravello, Minori et Capri.",
+          "caption": "Carte illustrée de la côte amalfitaine : Sorrente, Positano, Praiano, Amalfi, Ravello, Minori et Capri."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/amalfi/reseau-bus-costiera-amalfitana.png",
+          "alt": "Plan des lignes de bus SITA, du Circumvesuviana et des ferrys de la presqu'île de Sorrente et de la Costiera Amalfitana.",
+          "caption": "Plan des lignes de bus SITA, du Circumvesuviana et des ferrys de la presqu'île de Sorrente et de la Costiera Amalfitana."
+        }
+      ]
+    },
+    {
       "id": "transports",
       "title": "Transports : trains, bus et ferries",
       "summary": "Comment circuler entre Naples, Sorrente et la côte amalfitaine, avec horaires, prix et pièges.",
