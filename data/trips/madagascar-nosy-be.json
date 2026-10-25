@@ -105,7 +105,8 @@
           "coords": [
             -21.253,
             47.462
-          ]
+          ],
+          "culture": "Ranomafana signifie « eau chaude » en malgache."
         }
       ],
       "stay": {
@@ -253,7 +254,8 @@
           "coords": [
             -23.35,
             43.67
-          ]
+          ],
+          "culture": "Ville portuaire du sud-ouest, porte d'accès au lagon et aux villages des pêcheurs vezo."
         },
         {
           "name": "Arboretum d'Antsokay",
@@ -311,7 +313,8 @@
           "coords": [
             -13.4,
             48.24
-          ]
+          ],
+          "culture": "Station balnéaire la plus animée de Nosy Be, avec restaurants et bars face à la mer."
         },
         {
           "name": "Mont Passot",
@@ -398,7 +401,8 @@
             -13.3,
             48.16
           ],
-          "photo": "File:Andilana beach Nosy Be 2013-10-24 20-29.jpg"
+          "photo": "File:Andilana beach Nosy Be 2013-10-24 20-29.jpg",
+          "culture": "Longue plage de sable blanc, au nord-ouest de Nosy Be."
         }
       ],
       "stay": {

@@ -1,0 +1,442 @@
+{
+  "id": "maroc-atlas",
+  "title": "Maroc : Atlas et désert",
+  "subtitle": "Quatre jours depuis Marrakech : Haut-Atlas, gorges du Dadès, Jbel Saghro, bivouac dans les dunes de Foum Tizza et vallée du Draa",
+  "travelers": [
+    "Entre amis"
+  ],
+  "cover": "Aït Benhaddou",
+  "days": [
+    {
+      "n": 1,
+      "title": "Marrakech → Aït Ben Haddou",
+      "summary": "Départ de l'aéroport vers 10 h (arrivée à 9 h 35), col de Tizi n'Tichka, déjeuner à Telouet dans le Haut-Atlas, descente de la vallée de l'Ounila et nuit à Aït Ben Haddou.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Marrakech",
+          "wiki": "Marrakesh"
+        },
+        {
+          "name": "Col du Tizi n'Tichka",
+          "wiki": "Tizi n'Tichka",
+          "culture": "Col routier à plus de 2 200 m d'altitude, qui relie Marrakech au sud du pays."
+        },
+        {
+          "name": "Telouet et kasbah du Glaoui",
+          "wiki": "Telouet",
+          "culture": "Ancienne kasbah de la famille Glaoui, puissants caïds du Haut-Atlas au XXe siècle, aux salons somptueux restés à demi en ruine."
+        },
+        {
+          "name": "Vallée de l'Ounila",
+          "coords": [
+            31.29,
+            -7.29
+          ],
+          "culture": "Vallée de villages en pisé et de palmeraies entre Telouet et Aït Ben Haddou, où une randonnée itinérante est possible."
+        },
+        {
+          "name": "Ksar d'Aït Ben Haddou",
+          "wiki": "Aït Benhaddou",
+          "culture": "Village fortifié en terre crue sur l'ancienne route des caravanes, inscrit à l'UNESCO et utilisé comme décor de nombreux films."
+        }
+      ],
+      "stay": {
+        "name": "Auberge à Aït Ben Haddou",
+        "coords": [
+          31.047,
+          -7.1319
+        ],
+        "note": "Auberge à Aït Ben Haddou"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Départ de l'aéroport vers 10 h ; passage par le col du Tizi n'Tichka."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner à Telouet, dans le Haut-Atlas (2 h 15 de route)."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Descente de la vallée de l'Ounila en voiture (1 h 15)."
+        },
+        {
+          "label": "Soir",
+          "text": "Nuit en auberge à Aït Ben Haddou."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "3 h 30 de route : Marrakech → Tizi n'Tichka → Telouet (2 h 15) → vallée de l'Ounila (1 h 15) → Aït Ben Haddou"
+        }
+      ],
+      "ideas": [
+        "Visites possibles des kasbahs et ksars de Telouet et d'Aït Ben Haddou.",
+        "Petites randonnées possibles sur la route (pour la vue) et à Aït Ben Haddou, dans la palmeraie.",
+        "Randonnée itinérante possible dans la vallée de l'Ounila."
+      ],
+      "notes": [
+        "Beaucoup de voiture, mais plus de variété et des paysages probablement plus beaux que sur la côte atlantique. Chaleur à prévoir dans les palmeraies, les oasis et le désert."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Gorges du Dadès",
+      "summary": "Deux heures trente à trois heures de voiture jusqu'à Bou Tharar ou aux gorges du Dadès (Jbel El Oulia), randonnée sur place et nuit en village berbère.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Gorges du Dadès",
+          "wiki": "Dadès Gorges",
+          "culture": "Gorge de falaises rouges et de ses célèbres lacets routiers, creusée par l'oued Dadès dans le Haut-Atlas."
+        },
+        {
+          "name": "Bou Tharar",
+          "photo": "File:Bou Tharar 4.jpg",
+          "coords": [
+            31.45,
+            -5.98
+          ],
+          "culture": "Village berbère du haut de la vallée du Dadès, point de départ de randonnées dans l'Atlas."
+        }
+      ],
+      "stay": {
+        "name": "Nuit en village berbère",
+        "coords": [
+          31.45,
+          -5.98
+        ],
+        "note": "Nuit en village berbère"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Randonnée sur place, avec ou sans guide (à définir)."
+        },
+        {
+          "label": "Soir",
+          "text": "Nuit en village berbère."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "2 h 30 à 3 h de route vers Bou Tharar ou les gorges du Dadès (Jbel El Oulia)"
+        }
+      ],
+      "ideas": [
+        "Gorges du Todra : il faudra probablement choisir entre Dadès et Todra ; cela raccourcirait la route d'environ 1 h.",
+        "Palmeraie de Skoura et oasis et gorges de Sidi Flah, sur la route.",
+        "Gorges du M'Goun, Bou Tharar et vallée des Roses : randonnée itinérante possible.",
+        "Nouvelle route de Boulmane-Dadès à Nkob, et Bab'N'Ali."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Jbel Saghro et bivouac dans les dunes",
+      "summary": "Traversée du Jbel Saghro et de l'Anti-Atlas depuis Boulmane Dadès (3 h environ, 4 h depuis le bout des gorges), arrivée au Camp Sedrar à Tazzarine, 4x4 jusqu'au Jbel Serdrar et bivouac dans les dunes de Foum Tizza.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Jbel Saghro",
+          "wiki": "Jbel Saghro",
+          "culture": "Massif volcanique de l'Anti-Atlas, aux paysages minéraux et aux nomades du désert."
+        },
+        {
+          "name": "Boulmane Dadès",
+          "coords": [
+            31.4,
+            -5.95
+          ]
+        },
+        {
+          "name": "Camp Sedrar à Tazzarine",
+          "wiki": "Tazzarine",
+          "culture": "Petite ville oasis, point de départ des treks vers les dunes de Foum Tizza et le Jbel Serdrar."
+        },
+        {
+          "name": "Jbel Serdrar",
+          "coords": [
+            30.68,
+            -5.58
+          ],
+          "culture": "Montagne aux fossiles marins, que l'on rejoint en 4x4 depuis Tazzarine."
+        },
+        {
+          "name": "Dunes de Foum Tizza",
+          "coords": [
+            30.55,
+            -5.58
+          ],
+          "culture": "Dunes de sable à l'est de Tazzarine, plus calmes que celles de Merzouga, où l'on bivouaque avec des dromadaires et des tentes berbères."
+        }
+      ],
+      "stay": {
+        "name": "Bivouac dans les dunes de Foum Tizza",
+        "coords": [
+          30.55,
+          -5.58
+        ],
+        "note": "Bivouac dans les dunes de Foum Tizza"
+      },
+      "parts": [
+        {
+          "label": "Route",
+          "text": "Traversée du Jbel Saghro et de l'Anti-Atlas."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Arrivée au Camp Sedrar à Tazzarine ; sortie trekking à réserver ; 4x4 jusqu'au Jbel Serdrar et ses fossiles."
+        },
+        {
+          "label": "Soir",
+          "text": "Bivouac dans les dunes de Foum Tizza."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "4 h de route : traversée du Jbel Saghro depuis Boulmane Dadès (3 h environ ; 4 h depuis le bout des gorges du Dadès)"
+        },
+        {
+          "mode": "car",
+          "text": "4x4 jusqu'au Jbel Serdrar"
+        }
+      ],
+      "ideas": [
+        "Itinéraire plus long : Zagora, désert d'Erg Lihoudi, dunes de Chacal et dunes de Chegaga, avec randonnée itinérante possible.",
+        "Dunes de Merzouga : plus loin, randonnée itinérante possible."
+      ],
+      "notes": [
+        "Le trek de Tazzarine est à réserver à l'avance."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Retour à Marrakech par la vallée du Draa",
+      "summary": "Lever de soleil et matinée dans les dunes, puis retour à Marrakech par la superbe vallée du Draa (6 h de route), arrivée vers 18 h.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Vallée du Draa",
+          "wiki": "Draa River",
+          "culture": "Vallée de l'oued Draa, le plus long cours d'eau du Maroc, bordée de palmeraies et de kasbahs de terre."
+        },
+        {
+          "name": "Marrakech",
+          "wiki": "Marrakesh"
+        }
+      ],
+      "stay": null,
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Lever de soleil et matinée dans les dunes."
+        },
+        {
+          "label": "Journée",
+          "text": "Retour à Marrakech en passant par la vallée du Draa (6 h de route), arrivée à 18 h."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "6 h de route pour le retour vers Marrakech, arrivée à 18 h"
+        }
+      ],
+      "ideas": [
+        "Zagora, porte du désert, sur la route de la vallée du Draa.",
+        "Ouarzazate, ville du cinéma, au passage."
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "infos-pratiques",
+      "title": "Infos pratiques : randonnée et location de voiture",
+      "summary": "Ce qu'il faut savoir pour marcher au Maroc et louer une voiture.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Randonnée"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Il n'y a pas de GR au Maroc : il n'est donc pas vraiment possible de randonner en autonomie.",
+            "Pour randonner plusieurs jours, il faut un guide ; un contact peut en trouver un presque partout.",
+            "On peut aussi faire seul des randonnées plus courtes, du genre : à partir d'un endroit connu (par exemple les gorges du Dadès), une boucle d'environ 3 h, puis on continue.",
+            "Les nuits ont lieu dans de petites auberges berbères avec couscous et thé à la menthe, sans bivouac, sauf dans le désert où l'on bivouaque avec dromadaires et tentes berbères."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Location de voiture"
+        },
+        {
+          "type": "text",
+          "text": "Compter entre 30 et 45 € par jour (pour 4 jours)."
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Medloc](https://medloc.cloudialy.com/cr/book/s2/) : 27 €/jour, mais franchise de 1 200 € et caution de 1 200 € : pas top.",
+            "[MLB](https://www.mlbrentacar.com/) : 35 €/jour, mais franchise de 1 500 € : pas top.",
+            "[Najmcar](https://www.najmcar.com/) : le meilleur d'après les avis sur les forums."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marrakech",
+      "title": "Marrakech : à faire et à manger",
+      "summary": "Visites, sorties dans l'Atlas et restaurants à Marrakech, avant ou après le circuit.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Se balader"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Médina, souk, place Jemaa el-Fna, mosquée de la Koutoubia, mosquée de la Mansouria."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Visites (payantes, à réserver à l'avance)"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tombeaux saadiens (nécropole royale, XVIe siècle).",
+            "Palais de la Bahia (palais royal, XIXe siècle).",
+            "Jardin Majorelle (jardin et villa Art déco bleue d'Yves Saint Laurent).",
+            "[Jardin Secret](https://www.lejardinsecretmarrakech.com/), avec un café.",
+            "Medersa Ben Youssef (université coranique, XVIe siècle).",
+            "Maison de la photographie.",
+            "[Musée de la Parure](https://lemapmarrakech.com/)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Sorties dans l'Atlas, à environ 1 h de voiture"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Vallée d'Imlil](https://www.mifuguemiraison.com/fr/imlil-randonnee-maroc/), au pied du Toubkal.",
+            "Vallée de l'Ourika.",
+            "Vallée de l'Ouirgane."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Restaurants"
+        },
+        {
+          "type": "text",
+          "text": "Attention aux arnaques à touristes et aux restaurants simplement pas bons. Pour les bons restaurants, il faut toujours réserver."
+        },
+        {
+          "type": "list",
+          "items": [
+            "DarDar : rooftop instagrammable, cher.",
+            "Mazel : super pitas pour le déjeuner, même enseigne que DarDar mais pas cher.",
+            "Atay Café : pépite avec super vue et pas cher, cuisine marocaine.",
+            "La Pergola : dans l'hôtel Riad Monceau, luxueux, avec des soirées jazz.",
+            "La Famille : restaurant végétarien, pas marocain et un peu cher, mais très joli.",
+            "Limoni : restaurant italien qui a l'air bien, dans une belle cour intérieure.",
+            "Le Foundouk : un petit peu cher mais bonne qualité.",
+            "Bigua Café : pas luxueux, mais rooftop marocain et bonne cuisine.",
+            "L'Mida : adresse trendy donc un tout petit peu plus chère, mais bonne cuisine.",
+            "Shtatto : a l'air sympa pour le déjeuner ou boire un verre.",
+            "Pikala Café : petit restaurant dans un bike shop avec coworking, a l'air bien pour le déjeuner."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Autre idée"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Cours de cuisine](https://excursionmarrakech-maroc.com/detail/12/excursion-ourika-avec-cours-de-cuisine/100)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "variantes-atlas",
+      "title": "Variantes : Atlas, désert et trek",
+      "summary": "Autres circuits explorés pour la même région, avec leurs avantages et leurs inconvénients.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Atlas et désert (circuit retenu)"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pour : varié (montagnes, palmeraies, désert) ; le plus loin des sentiers battus.",
+            "Contre : pas mal de voiture selon le nombre d'étapes ; chaleur dans les palmeraies, les oasis et le désert."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "[Récit de road trip : Skoura, Dadès, Tinghir](https://www.mifuguemiraison.com/fr/roadtrip-maroc-skoura-dades-tinghir/)."
+        },
+        {
+          "type": "heading",
+          "text": "Full Atlas"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pour : expérience berbère complète ; beaucoup de possibilités de randonnées (avec guide, nuits dans de petites auberges).",
+            "Contre : pas mal de voiture ; un peu moins varié (montagnes et palmeraies, mais pas de désert) ; proche d'un voyage déjà fait."
+          ]
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Trek dans le Haut-Atlas, autour du Toubkal](https://wildbirdscollective.com/trek-au-maroc-jour-1/).",
+            "[Palmeraie de Skoura](https://aurorevoyage.com/2019/07/12/maroc-oasis-du-sud-de-la-palmeraie-de-skoura-aux-gorges-du-dades-2-jours/).",
+            "[Oasis et gorges de Sidi Flah](https://www.voyageway.com/oasis-de-sidi-flah).",
+            "[Gorges du M'Goun et Bou Tharar](https://www.allibert-trekking.com/voyage/atlas-trek-vallee-des-roses) : randonnée itinérante possible.",
+            "[Gorges du Dadès](https://onechai.fr/les-gorges-du-dades-rock-in-the-casbah/) : randonnée itinérante possible.",
+            "[Gorges du Todra](https://instant-nomade.com/2020/01/25/tinghir-les-gorges-du-dades-les-gorges-du-todghra-en-route-vers-lest-du-maroc/) : à choisir probablement entre Dadès et Todra ; raccourcit la route d'environ 1 h.",
+            "[Dunes de Merzouga](https://www.allibert-trekking.com/voyage/desert-marocain-erg-merzouga) : plus loin, randonnée itinérante possible.",
+            "[Nouvelle route de Boulmane-Dadès à Nkob](https://www.ccomaroc.com/forum/viewtopic.php?f=37&t=11344) et [Bab'N'Ali](https://wildbirdscollective.com/maroc-road-trip-djebel-saghro/)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Variantes pour la dernière partie du circuit (désert)"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Itinéraire long : Zagora, [désert d'Erg Lihoudi](https://itinerairesphoto.com/randonnee-chameliere-desert-erg-lihoudi/), [dunes de Chacal](https://imandarin.fr/index.php/voyage-dans-le-monde/maroc/52-2017-parcours-traditionnel-au-coeur-du-maroc-depuis-marrakech/122-trek-dans-le-desert-autour-de-m-hamid), [dunes de Chegaga](https://itinerairesphoto.com/dunes-de-chegaga/), avec randonnée itinérante possible ; voir aussi la [vallée du Draa](https://itinerairesphoto.com/zagora-porte-du-desert/).",
+            "Itinéraire court : [Tazzarine](https://www.allibert-trekking.com/voyage/desert-marocain-trekking-desert-maroc), [dunes de Foum Tizza](https://wildbirdscollective.com/maroc-foum-tizza/), [Jbel Saredrar](https://www.allibert-trekking.com/voyage/desert-marocain-marche-dans-le-desert), Zagora, avec randonnée itinérante possible ([Nomade Aventure](https://www.nomade-aventure.com/voyage-aventure/maroc/randonnee-dans-les-dunes-de-foum-tizza/mar128), [Allibert](https://www.allibert-trekking.com/voyage/desert-marocain-rando-desert-maroc))."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Sur la route"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Telouet](https://itinerairesphoto.com/road-trip-au-maroc/) et [kasbah du Glaoui](https://imandarin.fr/index.php/voyage-dans-le-monde/maroc/52-2017-parcours-traditionnel-au-coeur-du-maroc-depuis-marrakech/127-la-kasbah-du-glaoui-et-retour-a-marrakech-par-le-col-du-tizi-n-tichka).",
+            "[Vallée de l'Ounila](https://imandarin.fr/index.php/voyage-dans-le-monde/maroc/126-toundoute-et-vallee-de-l-ounila-jusqu-a-telouet).",
+            "[Ksar d'Aït Ben Haddou](https://imandarin.fr/index.php/voyage-dans-le-monde/maroc/52-2017-parcours-traditionnel-au-coeur-du-maroc-depuis-marrakech/118-le-ksar-de-ait-benhaddou-et-la-palmeraie-de-skoura)."
+          ]
+        }
+      ]
+    }
+  ]
+}

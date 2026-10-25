@@ -1,0 +1,334 @@
+{
+  "id": "maroc-atlantique",
+  "title": "Maroc : côte atlantique",
+  "subtitle": "Quatre jours de surf et de randonnée chamelière entre Essaouira, Imsouane et Tafedna",
+  "travelers": [
+    "Entre amis"
+  ],
+  "cover": "Imsouane",
+  "days": [
+    {
+      "n": 1,
+      "title": "Marrakech → Essaouira → Imsouane",
+      "summary": "Départ de l'aéroport vers 10 h avec le guide (arrivée à 9 h 35), Essaouira à 2 h 45 de route, pause déjeuner, puis Imsouane (1 h 45), installation au gîte à 17 h et surf au coucher du soleil.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Marrakech",
+          "wiki": "Marrakesh"
+        },
+        {
+          "name": "Essaouira",
+          "wiki": "Essaouira",
+          "culture": "Ancienne ville portuaire fortifiée, dont la médina est inscrite à l'UNESCO, connue pour ses remparts battus par les vents et son festival gnaoua."
+        },
+        {
+          "name": "Imsouane",
+          "wiki": "Imsouane",
+          "culture": "Village de pêcheurs devenu spot de surf, connu pour l'une des vagues les plus longues d'Afrique du Nord, idéale pour longboard."
+        }
+      ],
+      "stay": {
+        "name": "Gîte à Imsouane",
+        "coords": [
+          30.842,
+          -9.823
+        ],
+        "note": "Gîte à Imsouane"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Départ de l'aéroport vers 10 h avec le guide, direction Essaouira (2 h 45 de route)."
+        },
+        {
+          "label": "Midi",
+          "text": "Pause déjeuner à Essaouira vers 13 h-15 h ; on peut raccourcir cette étape pour profiter davantage du surf l'après-midi."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Route vers Imsouane (1 h 45), installation au gîte à 17 h."
+        },
+        {
+          "label": "Soir",
+          "text": "Surf au coucher du soleil (marée haute à 15 h 30, marée basse à 21 h 45, coucher du soleil à 20 h 45)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Marrakech → Essaouira : 2 h 45 de route"
+        },
+        {
+          "mode": "car",
+          "text": "Essaouira → Imsouane : 1 h 45 de route"
+        }
+      ],
+      "ideas": [
+        "Guide pratique d'Imsouane : lemarocauthentique.com/imsouane."
+      ],
+      "notes": [
+        "Version trek à organiser avec un guide, ou à faire en roadtrip si l'on loue une voiture.",
+        "Plus frais (bord de mer), le moins de voiture, un voyage varié (mer, désert, montagne). Essaouira est déjà faite ; Taghazout et la vallée du Paradis sont très touristiques, mais on peut les éviter : Imsouane et Tafedna sont beaucoup plus confidentiels."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Imsouane : surf et randonnée chamelière",
+      "summary": "Surf le matin à Imsouane, puis départ en randonnée chamelière depuis Imsouane ou Tillilt (à côté, en voiture) et nuit en bivouac près d'un village berbère.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Imsouane",
+          "wiki": "Imsouane"
+        },
+        {
+          "name": "Tillilt",
+          "photo": "File:AMLAL IMOZZAR TILLILT IMSSOUAN.jpg",
+          "coords": [
+            30.85,
+            -9.78
+          ]
+        },
+        {
+          "name": "Imirdissen",
+          "coords": [
+            30.84,
+            -9.74
+          ],
+          "culture": "Village berbère de l'arrière-pays, point de départ possible du trek, à environ 2 h de marche d'Imsouane."
+        },
+        {
+          "name": "Timezguida Ouftas",
+          "coords": [
+            30.83,
+            -9.71
+          ],
+          "culture": "Village berbère situé une heure de marche plus loin, étape possible pour raccourcir le lendemain."
+        }
+      ],
+      "stay": {
+        "name": "Bivouac près d'Imirdissen / Amderdizin",
+        "coords": [
+          30.84,
+          -9.74
+        ],
+        "note": "Nuit en bivouac près du village berbère d'Imirdissen (Amderdizin, 2 h de marche) ou de Timezguida Ouftas (1 h de plus)"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Surf à Imsouane."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Départ de la randonnée chamelière depuis Imsouane ou Tillilt (à côté, en voiture)."
+        },
+        {
+          "label": "Soir",
+          "text": "Nuit en bivouac près du village berbère d'Imirdissen / Amderdizin (2 h de marche), ou de Timezguida Ouftas (1 h de plus)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture jusqu'à Tillilt, à côté d'Imsouane"
+        },
+        {
+          "mode": "car",
+          "text": "Randonnée chamelière"
+        }
+      ],
+      "ideas": [
+        "Variante : partir du trek depuis Imirditssen, voire directement depuis Timezguida Ouftas, pour aller à Tafedna dès ce soir-là.",
+        "[Trekking au bord de l'océan, d'Agadir à Essaouira](https://wildbirdscollective.com/trek-maroc-agadir-essaouira/)."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Marche jusqu'à Tafedna",
+      "summary": "Marche jusqu'à Tafedna (4 h) ou surf à Tafedna puis marche jusqu'à Sidi Ahmed Saïd (5 h), visite d'une plantation d'huile d'argan à midi, puis surf l'après-midi ou le soir.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Tafedna",
+          "wiki": "Tafedna",
+          "coords": [
+            31.0976,
+            -9.8226
+          ],
+          "culture": "Petit village de pêcheurs de la côte atlantique, beaucoup plus confidentiel qu'Imsouane, connu pour ses vagues et sa plage sauvage."
+        },
+        {
+          "name": "Plantation d'huile d'argan",
+          "wiki": "Argan oil",
+          "coords": [
+            31.05,
+            -9.78
+          ],
+          "culture": "L'arganier, endémique du sud-ouest du Maroc, donne une huile fabriquée traditionnellement par des coopératives de femmes."
+        },
+        {
+          "name": "Sidi Ahmed Saïd",
+          "coords": [
+            31.02,
+            -9.84
+          ]
+        },
+        {
+          "name": "Iftane",
+          "photo": "File:Coastline near Iftane beach, Sidi Ahmed Essayeh, Morocco, 2008.jpg",
+          "coords": [
+            31.01,
+            -9.85
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Gîte à Tafedna ou bivouac à Sidi Ahmed Essayeh",
+        "coords": [
+          31.0976,
+          -9.8226
+        ],
+        "note": "Nuit en gîte à Tafedna ou en bivouac à Sidi Ahmed Essayeh"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Marche jusqu'à Tafedna (4 h de marche) ; ou surf à Tafedna puis marche jusqu'à Sidi Ahmed Saïd (5 h)."
+        },
+        {
+          "label": "Midi",
+          "text": "Pause pour visiter une plantation d'huile d'argan."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Surf à Tafedna (ou à Sidi Ahmed Saïd / Iftane)."
+        },
+        {
+          "label": "Soir",
+          "text": "Nuit en gîte à Tafedna, ou en bivouac à Sidi Ahmed Essayeh."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Marche jusqu'à Tafedna (4 h), ou jusqu'à Sidi Ahmed Saïd (5 h)"
+        }
+      ],
+      "ideas": [
+        "Récit : « Retour à Imsouane : le paradis secret de Tafedna » (blog Tranel).",
+        "[Arganeraie d'Idmine](http://www.initiativesclimat.org/Toutes-les-initiatives/Preservation-de-l-Arganeraie)."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Retour à Marrakech",
+      "summary": "Surf le matin s'il y a le temps, puis retour à Marrakech, avec le désert de pierre d'Agafay sur la route.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Désert d'Agafay",
+          "photo": "File:Agafay Desert, Morocco, 20250125 1802 7284.jpg",
+          "coords": [
+            31.49,
+            -8.185
+          ],
+          "culture": "Plateau de pierre et de cailloux aux portes de Marrakech, devenu un lieu de bivouac et de camps de luxe dans un paysage aride."
+        },
+        {
+          "name": "Marrakech",
+          "wiki": "Marrakesh"
+        }
+      ],
+      "stay": null,
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Surf s'il y a le temps."
+        },
+        {
+          "label": "Journée",
+          "text": "Retour à Marrakech, en passant par le désert d'Agafay."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Retour à Marrakech en voiture"
+        }
+      ],
+      "ideas": [
+        "Dunes de Tamri, Timlalin et Taboga : [sandboarding aux dunes de Tamri](https://visitagadir.com/activites/sandboarding-aux-dunes-de-sable-de-tamri/).",
+        "Taghazout, Agadir et [vallée du Paradis](https://tayyuhiking.com/fr/journal-la-vallee-du-paradis-maroc-sans-guide/) (cascade d'Imouzzer) : très touristiques, mais on peut les éviter ; randonnée itinérante possible dans la vallée du Paradis.",
+        "[Parc national de Souss-Massa](https://erikavoyage.com/parc-national-souss-massa/) : plus loin.",
+        "[Désert de pierre d'Agafay](https://mamzellesenvadrouille.com/dormir-dans-le-desert-agafay/) : on y passe de toute façon sur la route du retour."
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "infos-pratiques",
+      "title": "Infos pratiques : randonnée et location de voiture",
+      "summary": "Ce qu'il faut savoir pour marcher au Maroc et louer une voiture.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Randonnée"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Il n'y a pas de GR au Maroc : il n'est donc pas vraiment possible de randonner en autonomie.",
+            "Pour randonner plusieurs jours, il faut un guide ; un contact peut en trouver un presque partout.",
+            "Les nuits ont lieu dans de petites auberges berbères avec couscous et thé à la menthe, sans bivouac, sauf dans le désert (dromadaires et tentes berbères) et pour les treks côtiers."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Location de voiture"
+        },
+        {
+          "type": "text",
+          "text": "Compter entre 30 et 45 € par jour (pour 4 jours). [Najmcar](https://www.najmcar.com/) est le meilleur d'après les avis sur les forums ; [Medloc](https://medloc.cloudialy.com/cr/book/s2/) et [MLB](https://www.mlbrentacar.com/) demandent une franchise de 1 200 à 1 500 €."
+        }
+      ]
+    },
+    {
+      "id": "variantes-cote",
+      "title": "Variantes : sable et surf",
+      "summary": "Autres étapes possibles de la côte atlantique, avec les avantages et inconvénients du circuit.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Pour : plus frais (bord de mer), le moins de voiture, varié (mer, désert, montagne).",
+            "Contre : Essaouira déjà faite, sans envie de s'y attarder ; Taghazout et la vallée du Paradis très touristiques (on peut les éviter)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Activités possibles"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Essaouira](https://www.mifuguemiraison.com/fr/essaouira-maroc/).",
+            "[Imsouane](https://santamila.com/une-semaine-de-detente-et-de-surf-a-imsouane-petit-village-de-pecheurs-coupe-du-monde/) : randonnée itinérante possible.",
+            "Tafedna (récit du blog Tranel).",
+            "[Trekking au bord de l'océan](https://wildbirdscollective.com/trek-maroc-agadir-essaouira/).",
+            "[Dunes de Tamri, Timlalin et Taboga](https://visitagadir.com/activites/sandboarding-aux-dunes-de-sable-de-tamri/).",
+            "Taghazout.",
+            "[Vallée du Paradis](https://tayyuhiking.com/fr/journal-la-vallee-du-paradis-maroc-sans-guide/) (cascade d'Imouzzer) : randonnée itinérante possible.",
+            "[Arganeraie d'Idmine](http://www.initiativesclimat.org/Toutes-les-initiatives/Preservation-de-l-Arganeraie).",
+            "Agadir.",
+            "[Parc national de Souss-Massa](https://erikavoyage.com/parc-national-souss-massa/) : plus loin.",
+            "[Désert de pierre d'Agafay](https://mamzellesenvadrouille.com/dormir-dans-le-desert-agafay/) : sur la route du retour."
+          ]
+        }
+      ]
+    }
+  ],
+  "start": "2024-06-23",
+  "done": true
+}

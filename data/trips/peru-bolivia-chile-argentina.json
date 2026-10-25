@@ -24,7 +24,8 @@
           "coords": [
             -12.1219,
             -77.0297
-          ]
+          ],
+          "culture": "Quartier résidentiel et touristique de Lima, perché sur des falaises qui surplombent le Pacifique."
         },
         {
           "name": "Barranco",
@@ -83,7 +84,8 @@
           "coords": [
             -13.5167,
             -71.9786
-          ]
+          ],
+          "culture": "Ancienne place de Huacaypata, centre cérémoniel inca, bordée par la cathédrale et l'église de la Compagnie."
         },
         {
           "name": "Cathédrale de Cusco",
@@ -435,7 +437,8 @@
           "coords": [
             -16.3989,
             -71.5369
-          ]
+          ],
+          "culture": "Place bordée d'arcades de sillar blanc et de la cathédrale, dominée par le volcan Misti."
         },
         {
           "name": "Couvent Santa Catalina",
@@ -693,7 +696,8 @@
           "coords": [
             -22.0,
             -67.77
-          ]
+          ],
+          "culture": "Désert d'altitude, vers 4 500 m, célèbre pour l'Árbol de Piedra, un rocher sculpté par le vent."
         },
         {
           "name": "San Pedro de Atacama",
@@ -813,7 +817,8 @@
           "coords": [
             -24.7883,
             -65.4106
-          ]
+          ],
+          "culture": "Place centrale de Salta, qui rappelle l'indépendance argentine proclamée le 9 juillet 1816."
         },
         {
           "name": "Cathédrale de Salta",

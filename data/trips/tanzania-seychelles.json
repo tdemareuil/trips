@@ -98,7 +98,8 @@
           "coords": [
             -3.192,
             37.18
-          ]
+          ],
+          "culture": "Les Maasaï, éleveurs semi-nomades, sont connus pour leurs vêtements rouges (shuka) et leurs danses sautées."
         }
       ],
       "stay": {
@@ -159,7 +160,8 @@
           "coords": [
             -2.9167,
             37.5167
-          ]
+          ],
+          "culture": "Poste frontière entre le Kenya et la Tanzanie, au pied du Kilimandjaro."
         },
         {
           "name": "Frontière de Namanga",
@@ -167,7 +169,8 @@
           "coords": [
             -2.543,
             36.79
-          ]
+          ],
+          "culture": "Principal poste frontière sur la route d'Arusha à Nairobi."
         }
       ],
       "stay": {
@@ -284,7 +287,8 @@
             -2.4,
             36.0
           ],
-          "photo": "File:Flamingos at Lake Natron (9) (28551601446).jpg"
+          "photo": "File:Flamingos at Lake Natron (9) (28551601446).jpg",
+          "culture": "Les flamants nains y nichent sur des croûtes de sel ; la couleur rouge de l'eau vient de micro-organismes."
         }
       ],
       "stay": {
@@ -369,7 +373,8 @@
             -3.17,
             35.58
           ],
-          "photo": "File:Rhinoceros, Ngorongoro (2015).jpg"
+          "photo": "File:Rhinoceros, Ngorongoro (2015).jpg",
+          "culture": "Espèce en danger critique d'extinction, dont une petite population est protégée dans le cratère."
         }
       ],
       "stay": {
@@ -432,7 +437,8 @@
             -2.3333,
             34.8333
           ],
-          "photo": "File:Serengeti Balloon.jpg"
+          "photo": "File:Serengeti Balloon.jpg",
+          "culture": "Vol à l'aube au-dessus de la savane, suivi d'un petit-déjeuner dans la brousse."
         }
       ],
       "stay": {
@@ -508,7 +514,8 @@
           "coords": [
             -1.25,
             34.4833
-          ]
+          ],
+          "culture": "Poste frontière entre le Kenya et la Tanzanie, sur la route du Serengeti au Masai Mara (Sirari côté tanzanien)."
         }
       ],
       "stay": {
@@ -583,7 +590,8 @@
           "coords": [
             -2.458,
             34.813
-          ]
+          ],
+          "culture": "Piste de Seronera, au centre du parc, utilisée pour les vols de safari."
         },
         {
           "name": "Nairobi",
@@ -687,7 +695,8 @@
           "coords": [
             -4.77,
             55.455
-          ]
+          ],
+          "culture": "Son nom vient du takamaka, arbre emblématique des Seychelles."
         },
         {
           "name": "Anse Major",
@@ -695,7 +704,8 @@
           "coords": [
             -4.599,
             55.401
-          ]
+          ],
+          "culture": "Plage isolée, accessible à pied par un sentier côtier ou en bateau."
         }
       ],
       "stay": {
@@ -744,11 +754,13 @@
         },
         {
           "name": "Anse Lazio",
-          "wiki": "Anse Lazio"
+          "wiki": "Anse Lazio",
+          "culture": "Souvent citée parmi les plus belles plages du monde, bordée de rochers de granit."
         },
         {
           "name": "Anse Georgette",
-          "wiki": "Anse Georgette"
+          "wiki": "Anse Georgette",
+          "culture": "Plage isolée dont l'accès est réglementé."
         }
       ],
       "stay": {
@@ -792,7 +804,8 @@
           "coords": [
             -4.313,
             55.757
-          ]
+          ],
+          "culture": "Îlot de granit près de Praslin, apprécié pour le snorkeling."
         }
       ],
       "stay": {
@@ -824,7 +837,8 @@
       "stops": [
         {
           "name": "Anse Lazio",
-          "wiki": "Anse Lazio"
+          "wiki": "Anse Lazio",
+          "culture": "Souvent citée parmi les plus belles plages du monde, bordée de rochers de granit."
         },
         {
           "name": "Côte d'Or",
@@ -832,7 +846,8 @@
           "coords": [
             -4.314,
             55.733
-          ]
+          ],
+          "culture": "Station balnéaire de Praslin, qui s'étend le long de l'anse Volbert."
         },
         {
           "name": "Anse Volbert",
@@ -840,7 +855,8 @@
           "coords": [
             -4.318,
             55.74
-          ]
+          ],
+          "culture": "Longue plage de sable blanc, abritée, au nord de Praslin, face à l'île Curieuse."
         }
       ],
       "stay": {
@@ -883,7 +899,8 @@
           "coords": [
             -4.373,
             55.845
-          ]
+          ],
+          "culture": "Grande plage sauvage du sud-est de La Digue, souvent battue par les vagues."
         },
         {
           "name": "L'Union Estate",
@@ -936,7 +953,8 @@
             -4.325,
             55.85
           ],
-          "photo": "File:COCO ISLAND, LA DIGUE, SEYCHELLES, APRIL 2013 - panoramio.jpg"
+          "photo": "File:COCO ISLAND, LA DIGUE, SEYCHELLES, APRIL 2013 - panoramio.jpg",
+          "culture": "Îlot de granit au large de La Digue, réputé pour le snorkeling."
         },
         {
           "name": "Anse Cocos",
@@ -944,7 +962,8 @@
           "coords": [
             -4.369,
             55.866
-          ]
+          ],
+          "culture": "Plage isolée, accessible à pied depuis Grand Anse ou en bateau."
         }
       ],
       "stay": {
@@ -984,7 +1003,8 @@
           "coords": [
             -4.369,
             55.866
-          ]
+          ],
+          "culture": "Plage isolée, accessible à pied depuis Grand Anse ou en bateau."
         },
         {
           "name": "Petite Anse",
@@ -992,7 +1012,8 @@
             -4.389,
             55.835
           ],
-          "photo": "File:Petite Anse La Digue Seychelles.jpg"
+          "photo": "File:Petite Anse La Digue Seychelles.jpg",
+          "culture": "Petite plage voisine de Grand Anse, au pied de blocs de granit."
         }
       ],
       "stay": {
