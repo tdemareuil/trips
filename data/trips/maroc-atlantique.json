@@ -276,19 +276,6 @@
   ],
   "guides": [
     {
-      "id": "cartes",
-      "title": "Carte de l'itinéraire",
-      "summary": "L'itinéraire approximatif étudié sur la côte atlantique.",
-      "blocks": [
-        {
-          "type": "image",
-          "src": "assets/photos/maroc-atlantique/cote-atlantique-itineraire.png",
-          "alt": "Itinéraire approximatif de la côte atlantique (660 km, 10 h 46) : Marrakech, Essaouira, Tafedna, Imsouane, dunes de Timlalin, Taghazout, Agadir, vallée du Paradis et désert d'Agafay.",
-          "caption": "Itinéraire approximatif de la côte atlantique (660 km, 10 h 46) : Marrakech, Essaouira, Tafedna, Imsouane, dunes de Timlalin, Taghazout, Agadir, vallée du Paradis et désert d'Agafay."
-        }
-      ]
-    },
-    {
       "id": "infos-pratiques",
       "title": "Infos pratiques : randonnée et location de voiture",
       "summary": "Ce qu'il faut savoir pour marcher au Maroc et louer une voiture.",
@@ -317,9 +304,15 @@
     },
     {
       "id": "variantes-cote",
-      "title": "Variantes : sable et surf",
-      "summary": "Autres étapes possibles de la côte atlantique, avec les avantages et inconvénients du circuit.",
+      "title": "Variantes et carte : sable et surf",
+      "summary": "L'itinéraire approximatif étudié sur la côte atlantique, et les autres étapes possibles, avec les avantages et inconvénients du circuit.",
       "blocks": [
+        {
+          "type": "image",
+          "src": "assets/photos/maroc-atlantique/cote-atlantique-itineraire.png",
+          "alt": "Itinéraire approximatif de la côte atlantique (660 km, 10 h 46) : Marrakech, Essaouira, Tafedna, Imsouane, dunes de Timlalin, Taghazout, Agadir, vallée du Paradis et désert d'Agafay.",
+          "caption": "Itinéraire approximatif de la côte atlantique (660 km, 10 h 46) : Marrakech, Essaouira, Tafedna, Imsouane, dunes de Timlalin, Taghazout, Agadir, vallée du Paradis et désert d'Agafay."
+        },
         {
           "type": "list",
           "items": [

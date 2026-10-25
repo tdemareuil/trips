@@ -6750,5 +6750,95 @@
   "page": "https://commons.wikimedia.org/wiki/File:Seixal_in_Porto_Moniz,_Madeira,_2023_May.jpg",
   "artist": "Ximonic (Simo Räsänen)",
   "license": "CC BY-SA 4.0"
+ },
+ "Ahwahnee Hotel": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ahwahnee_Hotel_Half_Dome.jpg/1920px-Ahwahnee_Hotel_Half_Dome.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ahwahnee_Hotel_Half_Dome.jpg",
+  "artist": "Mark James Miller",
+  "license": "CC BY-SA 3.0",
+  "lat": 37.74614,
+  "lon": -119.57428,
+  "extract": "L'Ahwahnee Hotel, ou The Majestic Yosemite Hotel pendant quelques mois après mars 2016, est un hôtel américain situé à Yosemite Valley, dans le comté de Mariposa, en Californie.",
+  "article": "https://fr.wikipedia.org/wiki/Ahwahnee_Hotel"
+ },
+ "Amador City, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/2009-0724-CA-AmadorCity.jpg/1920px-2009-0724-CA-AmadorCity.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:2009-0724-CA-AmadorCity.jpg",
+  "artist": "Bobak Ha'Eri",
+  "license": "CC BY 3.0",
+  "extract": "Amador City est une ville du comté d'Amador, en Californie, aux États-Unis. Selon le recensement des États-Unis de 2020 sa population était de 200 habitants. Selon le Bureau de Recensement, la ville a une superficie totale de 0,81 km2.",
+  "article": "https://fr.wikipedia.org/wiki/Amador_City_(Californie)"
+ },
+ "Bridalveil Fall": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bridelveil_Falls_Yosemite.jpg/1920px-Bridelveil_Falls_Yosemite.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bridelveil_Falls_Yosemite.jpg",
+  "artist": "Asamudra",
+  "license": "CC BY 3.0",
+  "lat": 37.71675,
+  "lon": -119.64651,
+  "extract": "La chute du Voile de la Mariée, en anglais Bridalveil Fall, est une chute d'eau qui se jette dans la vallée de Yosemite en Californie. Elle mesure environ 189 mètres de hauteur, ce qui en fait la 431e plus grande du monde.",
+  "article": "https://fr.wikipedia.org/wiki/Chute_du_Voile_de_la_Mari%C3%A9e_(vall%C3%A9e_de_Yosemite)"
+ },
+ "El Capitan": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/El_Capitan_en_Californie.jpg/1920px-El_Capitan_en_Californie.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:El_Capitan_en_Californie.jpg",
+  "artist": "Clementp.fr",
+  "license": "CC BY-SA 4.0",
+  "lat": 37.74222,
+  "lon": -119.63583,
+  "extract": "El Capitan est une formation rocheuse verticale de 900 m de haut située dans la vallée de Yosemite aux États-Unis, très connue dans le monde de l'escalade.",
+  "article": "https://fr.wikipedia.org/wiki/El_Capitan"
+ },
+ "Mirror Lake (Yosemite)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Yosemite_national_park_mirror_lake_2010u.JPG/1920px-Yosemite_national_park_mirror_lake_2010u.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Yosemite_national_park_mirror_lake_2010u.JPG",
+  "artist": "chensiyuan",
+  "license": "CC BY-SA 4.0",
+  "lat": 37.7485,
+  "lon": -119.5491,
+  "extract": "Le lac Mirror est un lac américain du comté de Mariposa, en Californie. Lac saisonnier situé dans le canyon Tenaya à 1 249 mètres d'altitude, il est protégé au sein du parc national de Yosemite.",
+  "article": "https://fr.wikipedia.org/wiki/Lac_Mirror_(Californie)"
+ },
+ "Sutter Creek, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Main_Street_Sutter_Creek.jpg/1920px-Main_Street_Sutter_Creek.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Main_Street_Sutter_Creek.jpg",
+  "artist": "Flickr user MiguelVieira",
+  "license": "CC BY 2.0",
+  "lat": 38.39306,
+  "lon": -120.8025,
+  "extract": "Sutter Creek est une ville située dans le comté d'Amador, en Californie. Sa population était de 2 501 habitants en 2010.",
+  "article": "https://fr.wikipedia.org/wiki/Sutter_Creek"
+ },
+ "Tunnel View": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Tunnel_View%2C_Yosemite_Valley%2C_Yosemite_NP_-_Diliff.jpg/1920px-Tunnel_View%2C_Yosemite_Valley%2C_Yosemite_NP_-_Diliff.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tunnel_View,_Yosemite_Valley,_Yosemite_NP_-_Diliff.jpg",
+  "artist": "Diliff",
+  "license": "CC BY-SA 3.0",
+  "lat": 37.71576,
+  "lon": -119.67718,
+  "extract": "Tunnel View, ou Discovery View, est un point de vue panoramique aménagé dans le parc national de Yosemite, en Californie, aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Tunnel_View"
+ },
+ "Yosemite Falls": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Yosemite_falls_winter_2010.JPG/1920px-Yosemite_falls_winter_2010.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Yosemite_falls_winter_2010.JPG",
+  "artist": "chensiyuan",
+  "license": "CC BY-SA 4.0",
+  "lat": 37.75684,
+  "lon": -119.59678,
+  "extract": "Les chutes de Yosemite, en anglais Yosemite Falls, sont une suite de trois chutes d'eau situées dans le parc national de Yosemite en Californie.",
+  "article": "https://fr.wikipedia.org/wiki/Chutes_de_Yosemite"
+ },
+ "File:Mist Trail Footbridge.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Mist_Trail_Footbridge.jpg/1920px-Mist_Trail_Footbridge.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mist_Trail_Footbridge.jpg",
+  "artist": "Kārlis Dambrāns",
+  "license": "CC BY 2.0"
+ },
+ "File:Valley View Yosemite August 2013 002.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Valley_View_Yosemite_August_2013_002.jpg/1920px-Valley_View_Yosemite_August_2013_002.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Valley_View_Yosemite_August_2013_002.jpg",
+  "artist": "King of Hearts",
+  "license": "CC BY-SA 3.0"
  }
 }

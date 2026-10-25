@@ -223,7 +223,11 @@
         {
           "name": "Vallée du Draa",
           "wiki": "Draa River",
-          "culture": "Vallée de l'oued Draa, le plus long cours d'eau du Maroc, bordée de palmeraies et de kasbahs de terre."
+          "culture": "Vallée de l'oued Draa, le plus long cours d'eau du Maroc, bordée de palmeraies et de kasbahs de terre.",
+          "coords": [
+            30.6,
+            -6.35
+          ]
         },
         {
           "name": "Marrakech",
@@ -262,31 +266,6 @@
     }
   ],
   "guides": [
-    {
-      "id": "cartes",
-      "title": "Cartes des itinéraires",
-      "summary": "Les cartes des trois itinéraires étudiés dans l'Atlas et le désert.",
-      "blocks": [
-        {
-          "type": "image",
-          "src": "assets/photos/maroc-atlas/itineraire-v1.png",
-          "alt": "Itinéraire v1 (911 km, 15 h 11) : Marrakech, Telouet, Aït Benhaddou, Ouarzazate, Zagora puis M'Hamid.",
-          "caption": "Itinéraire v1 (911 km, 15 h 11) : Marrakech, Telouet, Aït Benhaddou, Ouarzazate, Zagora puis M'Hamid."
-        },
-        {
-          "type": "image",
-          "src": "assets/photos/maroc-atlas/itineraire-v2.png",
-          "alt": "Itinéraire v2, plus court (830 km, 13 h 53) : Marrakech, Telouet, Aït Benhaddou, Ouarzazate, Zagora, Aït Amrad et Tazzarine.",
-          "caption": "Itinéraire v2, plus court (830 km, 13 h 53) : Marrakech, Telouet, Aït Benhaddou, Ouarzazate, Zagora, Aït Amrad et Tazzarine."
-        },
-        {
-          "type": "image",
-          "src": "assets/photos/maroc-atlas/full-atlas.png",
-          "alt": "Itinéraire approximatif Full Atlas (873 km, 16 h 17) : Marrakech, Telouet, Aït Benhaddou, Bou Tharar, Msemrir, Tamtetoucht et retour.",
-          "caption": "Itinéraire approximatif Full Atlas (873 km, 16 h 17) : Marrakech, Telouet, Aït Benhaddou, Bou Tharar, Msemrir, Tamtetoucht et retour."
-        }
-      ]
-    },
     {
       "id": "infos-pratiques",
       "title": "Infos pratiques : randonnée et location de voiture",
@@ -404,12 +383,16 @@
     },
     {
       "id": "variantes-atlas",
-      "title": "Variantes : Atlas, désert et trek",
-      "summary": "Autres circuits explorés pour la même région, avec leurs avantages et leurs inconvénients.",
+      "title": "Variantes et cartes : Atlas, désert et trek",
+      "summary": "Autres circuits explorés pour la même région, avec leurs avantages, leurs inconvénients et leurs cartes ; l'itinéraire v2 est celui qui a été retenu pour le désert.",
       "blocks": [
         {
           "type": "heading",
           "text": "Atlas et désert (circuit retenu)"
+        },
+        {
+          "type": "text",
+          "text": "Pour la partie désert, c'est l'itinéraire v2, le plus court, qui a été retenu (voir sa carte plus bas)."
         },
         {
           "type": "list",
@@ -447,6 +430,12 @@
           ]
         },
         {
+          "type": "image",
+          "src": "assets/photos/maroc-atlas/full-atlas.png",
+          "alt": "Itinéraire Full Atlas, non retenu (873 km, 16 h 17) : Marrakech, Telouet, Aït Benhaddou, Bou Tharar, Msemrir, Tamtetoucht et retour.",
+          "caption": "Itinéraire Full Atlas, non retenu (873 km, 16 h 17) : Marrakech, Telouet, Aït Benhaddou, Bou Tharar, Msemrir, Tamtetoucht et retour."
+        },
+        {
           "type": "heading",
           "text": "Variantes pour la dernière partie du circuit (désert)"
         },
@@ -456,6 +445,18 @@
             "Itinéraire long : Zagora, [désert d'Erg Lihoudi](https://itinerairesphoto.com/randonnee-chameliere-desert-erg-lihoudi/), [dunes de Chacal](https://imandarin.fr/index.php/voyage-dans-le-monde/maroc/52-2017-parcours-traditionnel-au-coeur-du-maroc-depuis-marrakech/122-trek-dans-le-desert-autour-de-m-hamid), [dunes de Chegaga](https://itinerairesphoto.com/dunes-de-chegaga/), avec randonnée itinérante possible ; voir aussi la [vallée du Draa](https://itinerairesphoto.com/zagora-porte-du-desert/).",
             "Itinéraire court : [Tazzarine](https://www.allibert-trekking.com/voyage/desert-marocain-trekking-desert-maroc), [dunes de Foum Tizza](https://wildbirdscollective.com/maroc-foum-tizza/), [Jbel Saredrar](https://www.allibert-trekking.com/voyage/desert-marocain-marche-dans-le-desert), Zagora, avec randonnée itinérante possible ([Nomade Aventure](https://www.nomade-aventure.com/voyage-aventure/maroc/randonnee-dans-les-dunes-de-foum-tizza/mar128), [Allibert](https://www.allibert-trekking.com/voyage/desert-marocain-rando-desert-maroc))."
           ]
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/maroc-atlas/itineraire-v2.png",
+          "alt": "Itinéraire retenu : v2, plus court (830 km, 13 h 53) : Marrakech, Telouet, Aït Benhaddou, Ouarzazate, Zagora, Aït Amrad et Tazzarine.",
+          "caption": "Itinéraire retenu : v2, plus court (830 km, 13 h 53) : Marrakech, Telouet, Aït Benhaddou, Ouarzazate, Zagora, Aït Amrad et Tazzarine."
+        },
+        {
+          "type": "image",
+          "src": "assets/photos/maroc-atlas/itineraire-v1.png",
+          "alt": "Itinéraire v1, non retenu (911 km, 15 h 11) : Marrakech, Telouet, Aït Benhaddou, Ouarzazate, Zagora puis M'Hamid.",
+          "caption": "Itinéraire v1, non retenu (911 km, 15 h 11) : Marrakech, Telouet, Aït Benhaddou, Ouarzazate, Zagora puis M'Hamid."
         },
         {
           "type": "heading",
