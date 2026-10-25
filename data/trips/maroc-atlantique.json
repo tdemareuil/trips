@@ -330,5 +330,7 @@
     }
   ],
   "start": "2024-06-23",
-  "done": true
+  "done": true,
+  "season": "Mi-saison",
+  "kind": "short"
 }

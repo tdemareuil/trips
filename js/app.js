@@ -257,31 +257,30 @@ function mountHome() {
     const t = data.trips[id];
     const bg = t.coverImg ? `style="--img:url('${thumb(t.coverImg.url, 1280)}')"` : '';
     return `<a class="trip-card" href="#/${t.id}" ${bg}>
-      <span class="meta">${isLocked(t) ? LOCK_ICON : ''}${t.days.length} jours</span>
+      <span class="meta">${isLocked(t) ? LOCK_ICON : ''}${t.days.length} jours${t.done ? ' · Réalisé' : ''}</span>
       <h2>${esc(t.title)}</h2>
       <p>${esc(t.subtitle)}</p>
       ${t.range ? `<span class="when">${esc(t.range)}</span>` : ''}
     </a>`;
   };
   const trips = data.order.map(id => data.trips[id]);
-  const open = trips.filter(t => !t.done);
   const group = (title, list) => list.length
     ? `<h3 class="home-sub">${title}</h3><div class="cards">${list.map(t => card(t.id)).join('')}</div>` : '';
-  const seasons = [...new Set(open.filter(t => t.season).map(t => t.season))];
-  const planned = open.filter(t => !t.season);
-  const done = trips.filter(t => t.done);
+  const known = ['Mi-saison', 'Août / Septembre', 'Janvier'];
+  const seasons = [...known, ...new Set(trips.map(t => t.season).filter(se => se && !known.includes(se)))]
+    .filter(se => trips.some(t => t.season === se));
+  const unseasoned = trips.filter(t => !t.season);
   app.innerHTML = `<section class="home">
     <p class="eyebrow">Prochains voyages</p>
     <h1 class="title big">Où va-t-on ensuite ?</h1>
     <p class="lead">Itinéraires jour par jour, cartes et photos.</p>
-    ${planned.length ? `<div class="cards">${planned.map(t => card(t.id)).join('')}</div>` : ''}
+    ${unseasoned.length ? `<div class="cards">${unseasoned.map(t => card(t.id)).join('')}</div>` : ''}
     ${seasons.map(se => {
-      const list = open.filter(t => t.season === se);
+      const list = trips.filter(t => t.season === se);
       return `<h2 class="home-section">${esc(se)}</h2>`
         + group('Voyages longs', list.filter(t => t.kind !== 'short'))
         + group('Voyages courts', list.filter(t => t.kind === 'short'));
     }).join('')}
-    ${done.length ? `<h2 class="home-section">Voyages réalisés</h2><div class="cards">${done.map(t => card(t.id)).join('')}</div>` : ''}
   </section>`;
   return { kind: 'home', destroy() {} };
 }
