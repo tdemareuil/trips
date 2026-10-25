@@ -1,0 +1,531 @@
+{
+  "id": "amalfi",
+  "title": "Côte amalfitaine",
+  "subtitle": "Cinq jours entre Naples, Positano, Amalfi, Capri et Ravello : Sentier des Dieux, citronniers et plages de crique",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Amalfi Coast",
+  "days": [
+    {
+      "n": 1,
+      "title": "Arrivée à Naples",
+      "summary": "Vol Orly 19 h 55, arrivée à l'aéroport de Naples à 22 h 05 (70 €), bus Alibus jusqu'au centre et nuit à Naples.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Aéroport de Naples",
+          "wiki": "Naples Airport",
+          "coords": [
+            40.886,
+            14.2908
+          ]
+        },
+        {
+          "name": "Naples",
+          "wiki": "Naples"
+        },
+        {
+          "name": "Gare de Naples Garibaldi",
+          "coords": [
+            40.853,
+            14.272
+          ],
+          "culture": "Gare centrale de Naples, terminus du bus Alibus depuis l'aéroport (15 min de trajet).",
+          "photo": "File:Napoli staz Garibaldi.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Suite Ottocento Napoletano, Naples",
+        "coords": [
+          40.8467,
+          14.25
+        ],
+        "note": "Suite Ottocento Napoletano (réservée) : à 15 min à pied de la gare, dans un beau quartier du centre, avec une grande chambre, une grande salle de bain et un grand salon rien que pour nous",
+        "options": [
+          "Autres options de la liste d'alternatives sur Booking"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Soir",
+          "text": "Vol Orly 19 h 55, arrivée à Naples à 22 h 05. Bus Alibus vers le centre-ville, puis nuit à Naples."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol Orly 19 h 55 → Naples 22 h 05, 70 €"
+        },
+        {
+          "mode": "bus",
+          "text": "Bus Alibus vers Napoli Centrale / Garibaldi : 5 € (achat en ligne), 15 min de trajet, départs à 22 h 25, 22 h 50 et 23 h 15"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Herculanum, Sorrente et Positano",
+      "summary": "Circumvesuviana jusqu'à Ercolano pour visiter Herculanum, déjeuner à Sorrente, bus SITA vers Positano, plage privée de la Fenice, dîner et nuit à Positano.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Herculanum",
+          "wiki": "Herculaneum",
+          "culture": "Ville romaine ensevelie par l'éruption du Vésuve en 79, particulièrement bien conservée ; elle est souvent jugée plus impressionnante que Pompéi."
+        },
+        {
+          "name": "Sorrente",
+          "wiki": "Sorrento",
+          "coords": [
+            40.6263,
+            14.3758
+          ]
+        },
+        {
+          "name": "Positano",
+          "wiki": "Positano",
+          "culture": "Village en cascade de maisons colorées accroché à la falaise, l'un des plus célèbres de la côte amalfitaine."
+        },
+        {
+          "name": "Plage de la Fenice, Positano",
+          "coords": [
+            40.6285,
+            14.488
+          ],
+          "culture": "Plage privée de l'hôtel La Fenice, à Positano."
+        }
+      ],
+      "stay": {
+        "name": "La Fenice, Positano",
+        "coords": [
+          40.6295,
+          14.485
+        ],
+        "note": "La Fenice (réservé sur leur site) : chambre sans vue mais lieu magnifique avec piscine",
+        "price": "220 €",
+        "options": [
+          "Villaverde, Positano (réservé puis annulé)",
+          "Raffaele Mastro, Positano (superbe mais un peu cher et non remboursable, uniquement le samedi)",
+          "Casa Stella Marina, Praiano (réservé puis annulé, pas de vue sur la mer)",
+          "La Divina, Praiano (bien placé et beau, mais sans vue mer et un peu cher)"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Départ de Napoli Porta Nolana vers Sorrente en train (Circumvesuviana). Arrêt à Ercolano Scavi au bout de 15 min, puis visite de 2 h (13 € par personne)."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner à Sorrente."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Bus SITA vers Positano ; plage privée de la Fenice."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner et nuit à Positano."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "train",
+          "text": "Circumvesuviana Naples Porta Nolana → Sorrente : toutes les 25 min environ, 3,60 €, 1 h 10 de trajet"
+        },
+        {
+          "mode": "bus",
+          "text": "Bus SITA n° 5070 Sorrente → Positano, arrêt Sponda pour la Fenice : départs à 14 h (1 h), 14 h 45 (50 min), 15 h 10 (35 min, sûrement le mieux), 15 h 30 (1 h), 15 h 45 (35 min)"
+        }
+      ],
+      "food": [
+        "Déjeuner à Sorrente : restaurant sur le port conseillé par un proche, Bagni Delfino ; paninis excellents à la boulangerie A'Marenna.",
+        "Dîner à Positano, le mieux, recommandé par la Fenice : Lo Guarrancio, un peu en hauteur, avec vue sur la mer, sur le très beau chemin entre les deux plages, plats autour de 20 €.",
+        "Autres options : Le Tre Sorelle et Buca di Bacco (touristiques, conseillés aussi par la Fenice) ; Da Adolfo, restaurant de poisson sur une plage privée accessible en petit bateau gratuit depuis le port (LE restaurant de la côte apparemment, mais fermé en ce moment) ; Da Vincenzo (un peu plus cher, à réserver) ; Il Tridente (restaurant d'un hôtel stylé, bar à cocktails pour l'apéritif, live music le vendredi) ; Maestro's et Villa TreVille (vue de fou, cher) ; Chez Black (attrape-touristes très connu, pizza en forme de cœur) ; pizzas à emporter à La Pergola."
+      ],
+      "ideas": [
+        "Blogs à lire sur Herculanum : [Pourquoi pas nous](https://www.pourquoi-pas-nous.com/visiter-herculanum/), [Gilderic](https://gilderic.com/2020/06/17/visiter-herculanum-plus-impressionnante-que-pompei/) et [Laura en voyage](https://www.lauraenvoyage.fr/visite-herculanum/)."
+      ],
+      "notes": [
+        "Pour le bus SITA, il n'est pas possible d'acheter les tickets à bord : il faut en trouver à l'avance dans des tabacs ou des cafés. Ticket 24 h possible, mais moins intéressant pour nous que les tickets individuels : bus SITA seul 10 €, avec les bus locaux « Mobility Amalfi Coast » pour Praiano et Nocelle 12 €, avec un trajet en ferry côtier Travelmar 15 €."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Sentier des Dieux, Praiano et Amalfi",
+      "summary": "Bus jusqu'à Nocelle, Sentier des Dieux jusqu'à Praiano, déjeuner et plage à Praiano, détour par le Fiordo di Furore, puis visite d'Amalfi et d'Atrani et nuit à Amalfi.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Nocelle",
+          "coords": [
+            40.614,
+            14.507
+          ],
+          "culture": "Hameau en hauteur au-dessus de Positano, point de départ du Sentier des Dieux.",
+          "photo": "File:Nocelle.jpg"
+        },
+        {
+          "name": "Sentier des Dieux",
+          "culture": "Sentier de crête d'environ 2 h entre Nocelle et Praiano, avec vue sur la côte amalfitaine.",
+          "photo": "File:Sentiero degli Dei 28 Campania.jpg",
+          "coords": [
+            40.619,
+            14.522
+          ]
+        },
+        {
+          "name": "Praiano",
+          "wiki": "Praiano",
+          "coords": [
+            40.612,
+            14.529
+          ]
+        },
+        {
+          "name": "Plage de la Gavitella",
+          "coords": [
+            40.615,
+            14.532
+          ],
+          "culture": "Très belle crique avec vue sur Positano, accessible à pied depuis le centre après un très, très long escalier."
+        },
+        {
+          "name": "Fiordo di Furore",
+          "wiki": "Fiordo di Furore",
+          "coords": [
+            40.62,
+            14.553
+          ]
+        },
+        {
+          "name": "Amalfi",
+          "wiki": "Amalfi"
+        },
+        {
+          "name": "Atrani",
+          "wiki": "Atrani",
+          "coords": [
+            40.634,
+            14.611
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Dimore di Luca, Amalfi",
+        "coords": [
+          40.634,
+          14.603
+        ],
+        "note": "Dimore di Luca (réservé) : un peu cher mais magnifique",
+        "options": [
+          "Hotel Fontana, Amalfi (très bien, autour de 200 €, paiement obligatoire)",
+          "Casa San Pietro, Amalfi (très bon mais non remboursable)",
+          "Atrani (Airbnb uniquement) : Casa Maddy, Casa Calù",
+          "Conca dei Marini : Emerald's Resort Filomena (maison complète, pas très cher, réservé puis annulé) ; Poseidone Suite (vue dingue)",
+          "Furore, moins cher : La Vigna di Bacco, San Giacomo Relais",
+          "Capri : Hotel Senaria, B&B la Danza del Mare, La Solara, Residence 2 Pini (cher mais stylé)",
+          "Beaux hôtels trop chers : Terrazza Duomo, Amalfi (300 € pour une vue sur la cathédrale) ; Monastero Santa Rosa, Conca dei Marini (le plus bel hôtel de la côte, 2 000 € la nuit)"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Bus jusqu'à Nocelle, puis le Sentier des Dieux dans le sens Nocelle → Praiano (2 h, descente à Praiano par le couvent San Domenico)."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner à Praiano."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Plage à Praiano : la Gavitella ou la plage de Praia (bus ou marche un peu plus longue). Puis visite d'Amalfi et d'Atrani : plage plutôt à Atrani."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner et nuit à Amalfi."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "bus",
+          "text": "Bus « Mobility Amalfi Coast » jusqu'à Nocelle : 30 min, toutes les heures environ, ticket achetable à bord"
+        }
+      ],
+      "food": [
+        "Déjeuner à Praiano : paninis incroyables au Rifugio dei Peccatori.",
+        "Glaces à la Pasticceria Andrea Pansa, sur la place du Duomo d'Amalfi.",
+        "Dîner à Amalfi : Sant'Andrea, bon restaurant devant le Duomo, où l'on est allé finalement. Recommandés par l'hôtel : La Taverna del Duca (a l'air très bon, belle terrasse, mais serveurs détestables), Trattoria dei Cartari. Autres options : Donna Stella (très bonne pizzeria, terrasse sous les citronniers), Torre Saracena (super beau, dans une ancienne tour au-dessus de l'eau)."
+      ],
+      "ideas": [
+        "Le Sentier des Dieux dans l'autre sens est possible (bus Amalfi - Bomerano, SITA 5080), mais moins bien : trajets en bus plus longs.",
+        "Concert « I Suoni degli Dei » dans l'église du couvent San Domenico, à Praiano."
+      ],
+      "notes": [
+        "Fiordo di Furore : mauvais plan. La plage n'est au soleil qu'entre 12 h et 15 h, et l'accès est très difficile : il faut s'arrêter avec le bus au milieu de nulle part, d'où un maximum de monde pour repartir ; il a fallu attendre presque 1 h et laisser passer deux bus pleins pour quitter l'endroit."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Capri et Ravello",
+      "summary": "Ferry pour Capri avec le tour de l'île devant les Faraglioni, journée à Capri, puis bus jusqu'à Ravello, dîner et nuit au milieu des citronniers.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Capri",
+          "wiki": "Capri"
+        },
+        {
+          "name": "Faraglioni",
+          "wiki": "Faraglioni",
+          "culture": "Trois rochers calcaires qui sortent de la mer au large de Capri, symboles de l'île.",
+          "coords": [
+            40.546,
+            14.239
+          ]
+        },
+        {
+          "name": "Jardins d'Auguste",
+          "culture": "Jardins en terrasses de Capri (1,50 € par personne) avec une super belle vue sur la Via Krupp et les Faraglioni.",
+          "photo": "File:Giardini di Augusto 001.JPG",
+          "coords": [
+            40.547,
+            14.244
+          ]
+        },
+        {
+          "name": "Anacapri",
+          "wiki": "Anacapri"
+        },
+        {
+          "name": "Marina Piccola de Capri",
+          "coords": [
+            40.54,
+            14.24
+          ],
+          "culture": "Plage de Capri, à 20 min à pied du centre.",
+          "photo": "File:Capri-marina piccola.jpg"
+        },
+        {
+          "name": "Ravello",
+          "wiki": "Ravello",
+          "coords": [
+            40.649,
+            14.611
+          ]
+        }
+      ],
+      "stay": {
+        "name": "B&B I Limoni, Ravello",
+        "coords": [
+          40.648,
+          14.61
+        ],
+        "note": "B&B I Limoni (réservé sur leur site) : pas très cher et vraiment superbe, au milieu des citronniers, même s'il faut monter un long escalier pour aller dans le centre de Ravello",
+        "price": "120 € en cash",
+        "options": [
+          "Casa Di Vania, Ravello (très belle vue, réservé puis annulé)",
+          "Da Salvatore B&B, Ravello (balcon individuel, 200 €, réservé puis annulé)",
+          "Un peu plus chères : Hotel Graal, Hotel Bonadies, Villa Amì, Maera B&B (2 nuits minimum)",
+          "Avec vue mer, moins centrales : Ferriere Apartment (Pontone), Charming House (Pontone, rooftop), Villa San Lorenzo et Casa Falcone B&B (Scala)",
+          "Sans vue mer, très mignonnes et pas chères : Peppa Room, Casa Vacanze Vittoria, Il Roseto B&B, Mimì B&B (réservé, probablement le meilleur deal)",
+          "Minori : Villa Isabella (vraiment excellent et pas cher, non remboursable), Palazzo Mancini (sûrement la meilleure option), Palazzo Vingius, La Casa sul Monte, Antica Rhegina Luxury Rooms"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Ferry pour Capri avec la petite compagnie Sant'Andrea : à l'aller, ils font le tour de l'île en passant devant les Faraglioni, ce qui évite de payer une croisière ou une location de bateau."
+        },
+        {
+          "label": "Journée",
+          "text": "Capri : centre (20 min à pied depuis le port de Marina Grande), glaces et pâtisseries, jardins d'Auguste, plage (Marina Piccola ou Torre Saracena, 20 min à pied depuis le centre), balade à Anacapri (10 min de bus ou 40 min à pied), arancini pour le déjeuner."
+        },
+        {
+          "label": "Soir",
+          "text": "Retour à Amalfi, bus pour Ravello, dîner et nuit à Ravello."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry Amalfi - Capri : environ 1 h de trajet. Les grosses compagnies, réservables en ligne, coûtent environ 50 € par personne au total ; bien meilleur plan, la petite compagnie Sant'Andrea : 37,50 € l'aller-retour, 8 h 45 - 16 h 50"
+        },
+        {
+          "mode": "bus",
+          "text": "Bus SITA n° 5110 Amalfi - Ravello, 18 h 50 ou 19 h 45 : descendre à Incrocio via Zia Marta (10 min), puis 15 min de marche avec de gros escaliers"
+        }
+      ],
+      "food": [
+        "Déjeuner sur le pouce à Anacapri : arancini, par exemple à la boulangerie Galardo ; sfogliatella et glaces chez Da Adolfo, dans le centre de Capri.",
+        "Dîner à Ravello, meilleur plan recommandé par le B&B : Ristorante Vittoria, plats traditionnels italiens délicieux, prosecco offert à l'arrivée, ambiance familiale, tout était canon. Autres possibilités : Trattoria da Cumpa' Cosimo (la cuisine de la mamma, pas d'anglais, moyennement notée sur Maps), Mimi Pizzeria e Cucina (traditionnel aussi, sauf les desserts)."
+      ],
+      "ideas": [
+        "Avec plus de temps : Monte Solaro en télésiège depuis Anacapri (14 € aller-retour, 11 € l'aller simple avec une bonne demi-heure de descente à pied), location de bateau dans les Faraglioni (120 € les 3 h, à vérifier), Villa Jovis de l'empereur Tibère, à l'autre extrémité de l'île."
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Ravello, sentier des citrons et retour",
+      "summary": "Matinée à Ravello, descente à pied vers Minori par le sentier des citrons, bus Pintour vers Naples et vol retour avec escale à Gênes.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Villa Cimbrone",
+          "wiki": "Villa Cimbrone",
+          "culture": "Villa dont la terrasse de l'Infini offre l'une des plus belles vues de la côte ; elle l'emporte sur la Villa Rufolo selon nos recherches."
+        },
+        {
+          "name": "Villa Rufolo",
+          "wiki": "Villa Rufolo",
+          "culture": "Villa aux plus beaux jardins de Ravello, où se tient chaque été le festival de musique."
+        },
+        {
+          "name": "Sentier des citrons",
+          "coords": [
+            40.65,
+            14.62
+          ],
+          "culture": "Descente à pied d'environ 1 h de Ravello à Minori, au milieu des citronniers."
+        },
+        {
+          "name": "Minori",
+          "wiki": "Minori",
+          "coords": [
+            40.651,
+            14.626
+          ],
+          "culture": "Petit port de la côte amalfitaine, à l'arrivée du sentier des citrons, connu pour ses pâtisseries et son limoncello."
+        },
+        {
+          "name": "Aéroport de Naples",
+          "wiki": "Naples Airport",
+          "coords": [
+            40.886,
+            14.2908
+          ]
+        }
+      ],
+      "stay": null,
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Ravello : itinéraire de visite à pied sur [ravello.com](https://www.ravello.com/ravello-in-a-day/). Villa Rufolo ou Villa Cimbrone (7 € chacune) : Rufolo a les plus beaux jardins, Cimbrone la plus belle terrasse, et Cimbrone semble l'emporter."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner à Ravello."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Descente à Minori à pied en 1 h environ par le sentier des citrons : plage, et, pour goûter un bon limoncello, un petit atelier de fabrication Via Vescovado, où la dégustation est gratuite. Bus Pintour à 15 h 37 vers Naples."
+        },
+        {
+          "label": "Soir",
+          "text": "Vol retour à 18 h 20, arrivée à Orly à 22 h 35."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "bus",
+          "text": "Bus Pintour Minori → Naples : 15 h 37, achat en ligne, 20 € par personne, très ponctuel, certainement le meilleur plan pour rentrer à Naples (arrêt à Minori, Via Alfonso Gatto 59 ou Via Roma 44)"
+        },
+        {
+          "mode": "flight",
+          "text": "Vol retour depuis Naples à 18 h 20 avec escale à Gênes, arrivée à Orly à 22 h 35, 120 €"
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "transports",
+      "title": "Transports : trains, bus et ferries",
+      "summary": "Comment circuler entre Naples, Sorrente et la côte amalfitaine, avec horaires, prix et pièges.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Trajet",
+            "Détails",
+            "Prix"
+          ],
+          "rows": [
+            [
+              "Aéroport de Naples → centre",
+              "Bus Alibus vers Napoli Centrale / Garibaldi, 15 min de trajet, départs à 22 h 25, 22 h 50, 23 h 15",
+              "5 € (achat en ligne)"
+            ],
+            [
+              "Naples → Sorrente",
+              "Train Circumvesuviana depuis Napoli Porta Nolana, toutes les 25 min environ, 1 h 10 ; arrêt à Ercolano Scavi au bout de 15 min",
+              "3,60 €"
+            ],
+            [
+              "Sorrente → Positano",
+              "Bus SITA n° 5070, toutes les 20 min environ, de 35 min à 1 h ; pas de tickets à bord, à acheter en tabac ou en café",
+              "Ticket individuel ; ticket 24 h à 10 € (SITA seul), 12 € (avec bus locaux) ou 15 € (avec ferry Travelmar)"
+            ],
+            [
+              "Positano → Nocelle",
+              "Bus « Mobility Amalfi Coast », 30 min, toutes les heures environ, ticket achetable à bord",
+              "-"
+            ],
+            [
+              "Amalfi → Capri",
+              "Petite compagnie Sant'Andrea, 8 h 45 - 16 h 50, avec tour de l'île devant les Faraglioni ; les grosses compagnies coûtent environ 50 € par personne",
+              "37,50 € l'aller-retour"
+            ],
+            [
+              "Amalfi → Ravello",
+              "Bus SITA n° 5110, 18 h 50 ou 19 h 45, arrêt Incrocio via Zia Marta puis 15 min de marche avec de gros escaliers",
+              "-"
+            ],
+            [
+              "Minori → Naples",
+              "Bus Pintour à 15 h 37, très ponctuel, certainement le meilleur plan pour rentrer à Naples",
+              "20 € par personne"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Horaires utiles : [Circumvesuviana](https://www.sorrentoinsider.com/en/naples-to-sorrento-train-schedule), [SITA](https://www.ravello.com/sita-bus-schedule/amalfi-positano-sorrento/), [bus Amalfi - Ravello](https://www.ravello.com/sita-bus-schedule/scala-ravello-amalfi/), Pintour, [Ferryhopper](https://www.ferryhopper.com/fr/)."
+        }
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "Budget",
+      "summary": "Totaux dépensés pour le week-end.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Poste",
+            "Montant"
+          ],
+          "rows": [
+            [
+              "Total T",
+              "959 €"
+            ],
+            [
+              "Total L",
+              "410,80 €"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Les vols coûtent 70 € à l'aller et 120 € au retour."
+        }
+      ]
+    }
+  ],
+  "start": "2023-05-04",
+  "done": true,
+  "season": "Mi-saison",
+  "kind": "short"
+}

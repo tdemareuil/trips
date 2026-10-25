@@ -1,0 +1,795 @@
+{
+  "id": "sardaigne",
+  "title": "Sardaigne",
+  "subtitle": "Huit jours en voiture dans le nord et l'est : archipel de La Maddalena, Castelsardo, Bosa et golfe d'Orosei",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Archipelago of La Maddalena",
+  "days": [
+    {
+      "n": 1,
+      "title": "Olbia, plages de Tavolara et arrivée à La Maddalena",
+      "summary": "Vol aller, voiture de location à l'aéroport d'Olbia, journée dans la zone de l'île de Tavolara à pied, puis ferry Palau - La Maddalena et nuit à La Maddalena.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Aéroport d'Olbia",
+          "wiki": "Olbia Costa Smeralda Airport",
+          "coords": [
+            40.8987,
+            9.5176
+          ]
+        },
+        {
+          "name": "Tre Sorelle",
+          "coords": [
+            40.902,
+            9.7
+          ],
+          "culture": "Plage à 30 min de marche depuis le parking de Porto Istana, très peu fréquentée, même en août."
+        },
+        {
+          "name": "Spiaggia del Dottore",
+          "coords": [
+            40.904,
+            9.706
+          ],
+          "culture": "Superbe plage à 10 min de marche de plus sur le sentier côtier depuis Tre Sorelle."
+        },
+        {
+          "name": "Île de Tavolara",
+          "wiki": "Tavolara",
+          "culture": "Île calcaire dressée au large d'Olbia, partie d'une aire marine protégée ; tout est beau dans ce coin-là."
+        },
+        {
+          "name": "Palau",
+          "wiki": "Palau, Sardinia",
+          "coords": [
+            41.18,
+            9.383
+          ]
+        },
+        {
+          "name": "La Maddalena",
+          "wiki": "La Maddalena"
+        }
+      ],
+      "stay": {
+        "name": "L'Ajaccio B&B, La Maddalena",
+        "coords": [
+          41.216,
+          9.406
+        ],
+        "note": "L'Ajaccio B&B (réservé) : chambre et douche très bien, très bon petit-déjeuner, propriétaire extrêmement réactif",
+        "price": "130 à 150 € la nuit en août",
+        "options": [
+          "Hôtel 5 étoiles Ma&Ma : superbe mais autour de 400 € en août",
+          "Il Corallo : probablement l'un des meilleurs B&B de l'île, disponible seulement un soir, 170 € la nuit",
+          "La Petite Maison : semble excellent, chambre à 140 € en août (90 € hors saison)",
+          "Autres B&B sur bed-and-breakfast.it : Stella di Mare, Il Pellegrino, Sa Bèrtula",
+          "Villabianca : bien mais pas disponible, 130 €",
+          "Suite Cala Gavetta : excellent, 200 €, message envoyé, jamais de réponse",
+          "Villa Le Bougainvillea : l'un des mieux sur nos dates, 112 €"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Voiture à l'aéroport d'Olbia à 9 h 30."
+        },
+        {
+          "label": "Journée",
+          "text": "Plages à pied de la zone de Tavolara : on se gare à côté de la plage de Porto Istana, puis 30 min de marche pour Tre Sorelle (des gens se garent plus près, mais gros risque d'amende), puis 10 min de plus sur le sentier côtier pour la Spiaggia del Dottore, superbe. Vraiment très beau et très peu de monde, même en août."
+        },
+        {
+          "label": "Soir",
+          "text": "Ferry Palau - La Maddalena, installation, dîner."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol aller (Ryanair depuis Paris-Beauvais, options dernière minute à partir de 80 à 135 €)"
+        },
+        {
+          "mode": "car",
+          "text": "Voiture de location, 8 jours, retirée à l'aéroport d'Olbia le dimanche 6 août à 9 h 30 : DiscoverCars, Felirent, 275 €"
+        },
+        {
+          "mode": "boat",
+          "text": "Ferry Palau - La Maddalena : toutes les 15 min, Delcomar ou Maddalena Lines au même prix, 42 € l'aller-retour pour deux personnes avec la voiture, 20 min de trajet ; billet à acheter sur place au port, pas besoin de réserver"
+        }
+      ],
+      "food": [
+        "Taverna Barò (testé) : pas mal, principalement pour la vue sur le port.",
+        "Il Ghiottone (testé) : restaurant de poisson conseillé par notre B&B, plutôt bon mais un peu cher.",
+        "Nini Vineria (pas testé car complet) : bar à vins, semblait l'endroit le plus sympa de la ville.",
+        "Osteria da Liò (pas testé) : conseillé par le B&B mais mal noté sur Google. L'offre de restaurants et de bars de La Maddalena était très décevante."
+      ],
+      "ideas": [
+        {
+          "label": "Variante : Tavolara en bateau",
+          "text": "S'il n'y a pas trop de vent, le mieux est certainement Mare Azzurro (120 € par jour pour un bateau de 4,50 m sans permis), au départ de la plage de Porto Taverna : île de Tavolara et plage, piscines de Molara vers l'est, éventuellement Lu Impostu et Cala Brandinchi, ou Tre Sorelle et Spiaggia del Dottore vers l'ouest. On ne l'a pas fait, à cause du vent."
+        },
+        {
+          "label": "Variante : plages accessibles en voiture",
+          "text": "Lu Impostu et Cala Brandinchi, à réserver 48 h à l'avance sur le site santeodorospiagge.it (2 €). La Cinta et Budoni sont aussi de très belles et grandes plages de sable fin, un peu plus loin au sud."
+        }
+      ],
+      "notes": [
+        "Location de voiture : tous les prix ont baissé en dernière minute. Feedback : tout était nickel, bonne communication par WhatsApp, Fiat 500 décapotable, retrait et retour très rapides. Bien faire noter tous les petits dégâts de la voiture avant de partir : on en a fait ajouter plusieurs qu'ils n'avaient pas vus et auraient pu facturer au retour. Penser aussi à nettoyer la voiture à l'intérieur comme à l'extérieur avant de la rendre."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Caprera : Cala Coticcio et pizza au coucher du soleil",
+      "summary": "Demi-journée de randonnée à Cala Coticcio avec un guide, sandwich sur Caprera, plage de Testa del Polpo et pizza face au coucher du soleil à Punta Tegge.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Cala Coticcio",
+          "wiki": "Cala Coticcio",
+          "culture": "L'un des plus beaux endroits de Sardaigne, sur l'île de Caprera ; zone protégée limitée à 60 personnes par jour (30 dans les faits), accessible seulement avec un guide.",
+          "coords": [
+            41.188,
+            9.465
+          ]
+        },
+        {
+          "name": "Caprera",
+          "wiki": "Caprera"
+        },
+        {
+          "name": "I Mille",
+          "coords": [
+            41.2,
+            9.46
+          ],
+          "culture": "Le meilleur sandwich de l'île d'après le guide, sur Caprera."
+        },
+        {
+          "name": "Testa del Polpo",
+          "coords": [
+            41.23,
+            9.39
+          ],
+          "culture": "Magnifique, mais énormément de monde en août ; se garer sur le parking après le pont, puis marcher 20 min jusqu'à Isola Giardinelli."
+        },
+        {
+          "name": "Punta Tegge",
+          "coords": [
+            41.225,
+            9.385
+          ],
+          "culture": "Grandes dalles de granit face au coucher du soleil, très belles mais très exposées au vent d'ouest.",
+          "photo": "File:Forte di Punta Tegge.jpg"
+        }
+      ],
+      "stay": {
+        "name": "L'Ajaccio B&B, La Maddalena",
+        "coords": [
+          41.216,
+          9.406
+        ],
+        "note": "Deuxième nuit à L'Ajaccio B&B"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Randonnée à la demi-journée (9 h-13 h ou 14 h-18 h) à Cala Coticcio. Guide obligatoire : 25 € par personne pour le guide, plus 3 € par personne pour le parc national, à payer à l'avance en ligne avec le motif « Escursione Cala Coticcio [date] » et le numéro fiscal « Anonimo ». Vaut le coup : on l'a fait avec la guide Eleonora Amoroso, qui parle anglais et donne des infos sur les plantes."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Sandwich chez I Mille, puis retour sur La Maddalena pour la plage de Testa del Polpo."
+        },
+        {
+          "label": "Soir",
+          "text": "Pizza à emporter, mangée sur les dalles de Punta Tegge face au coucher du soleil ; un bar y met de la musique à fond et des coussins sur la roche, mais on peut aller plus loin."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture sur La Maddalena et Caprera"
+        }
+      ],
+      "food": [
+        "Sandwich chez I Mille, sur Caprera : très bon, après Cala Coticcio.",
+        "Pizza à emporter à La Marachella, clairement la meilleure pizzeria de l'île après étude : testé et validé. Mama Pizza est aussi citée dans le guide des meilleurs endroits."
+      ],
+      "ideas": [
+        {
+          "label": "Variante : tour des îles en bateau",
+          "text": "Location de bateau ou excursion pour aller autour de toutes les îles (pas testé) : Leone di Caprera, ou encore mieux FreeMind Experience, le dimanche uniquement avec la guide Eleonora Amoroso. Liste officielle des guides sur lamaddalenapark.it, à contacter de préférence sur WhatsApp."
+        },
+        {
+          "label": "Autres plages de Caprera",
+          "text": "Cala Andreani, au sud (conseillée par la guide, mais fermée car trop de monde, plutôt y aller le matin) ; Spiaggia del Relitto, plus connue ; Cala Candeo, au nord (belle randonnée près d'un fort militaire en ruine, plutôt une calanque, bon snorkeling, plus de 2 h au total) ; Cala Napoletana, au nord (longue randonnée) ; Cala Serena, à l'ouest (20 min à pied depuis Cala Garibaldi, très belle et moins de monde)."
+        },
+        {
+          "label": "Autres spots du coucher de soleil",
+          "text": "Plage de Bassa Trinità, petite chapelle de la Madonnetta (conseillée par le B&B)."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Bassa Trinità, Porto Rafael et Castelsardo",
+      "summary": "Matinée à la plage de Bassa Trinità, ferry Maddalena - Palau à 12 h 30, déjeuner à Porto Rafael, plage de Rena Majore et nuit à Castelsardo.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Bassa Trinità",
+          "coords": [
+            41.23,
+            9.4
+          ],
+          "culture": "Connue comme la plus belle plage de l'île, au milieu des dunes ; très beau mais beaucoup de monde et exposée au vent d'ouest.",
+          "photo": "File:La Maddalena 4 - Bassa Trinita.JPG"
+        },
+        {
+          "name": "Porto Rafael",
+          "coords": [
+            41.192,
+            9.407
+          ],
+          "culture": "Tout petit village de maisons blanches, très chic, avec une petite place de restaurants en terrasse et beaucoup de fleurs, face à une jolie plage.",
+          "photo": "File:Punta Sardegna - panoramio.jpg"
+        },
+        {
+          "name": "Rena Majore",
+          "coords": [
+            41.098,
+            9.179
+          ],
+          "culture": "Belle plage de sable dans les dunes, testée sur conseil d'une amie.",
+          "photo": "File:Rena Majore - panoramio.jpg"
+        },
+        {
+          "name": "Castelsardo",
+          "wiki": "Castelsardo",
+          "culture": "Très joli village côtier, spécialiste de la vannerie.",
+          "coords": [
+            40.912,
+            8.712
+          ]
+        }
+      ],
+      "stay": {
+        "name": "B&B L'Umbra di lu Soli, Castelsardo",
+        "coords": [
+          40.914,
+          8.712
+        ],
+        "note": "B&B L'Umbra di lu Soli (réservé) : directement dans Castelsardo, avec une très belle vue, noté 8,7, petit-déjeuner en libre-service",
+        "price": "175 € pour 2 nuits",
+        "options": [
+          "Il giardino degli ulivi : 196 € pour 2 nuits, un peu à l'intérieur des terres, noté 9,4, petit-déjeuner inclus"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Plage de Bassa Trinità, vers 9 h 30, avant de repartir."
+        },
+        {
+          "label": "Midi",
+          "text": "Ferry à 12 h 30, déjeuner à Porto Rafael : beaucoup de Français, des trentenaires bien habillés qui arrivent en zodiac ou ont loué sur place ; ça semblait super pour louer entre potes."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Plage de Rena Majore, puis route vers Castelsardo."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry Maddalena - Palau à 12 h 30"
+        }
+      ],
+      "food": [
+        "Déjeuner à Porto Rafael : sandwich acheté un peu avant à Palau, mangé sur la petite plage."
+      ],
+      "ideas": [
+        {
+          "label": "Autres plages près de Palau",
+          "text": "Porto Pollo (ambiance jet-set), La Licciola (moins connue), très belle sur la route depuis Palau. Pas testé."
+        },
+        {
+          "label": "Capo Testa (pas testé)",
+          "text": "Passage possible par Santa Teresa Gallura, souvent recommandée mais qui ne nous semblait pas si belle, puis balade à pied dans le Capo Testa : petites criques dans le granit (Cala Francese) et plages de sable, probablement plus fréquentées (spiaggia Zia Culumba). Ne nous semblait pas mieux que La Maddalena, donc on n'y est pas allés."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Plages et vignoble autour de Castelsardo",
+      "summary": "Journée autour de Castelsardo : plage de Badesi, domaine viticole de Vermentino et deuxième nuit à Castelsardo.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Plage de Badesi",
+          "coords": [
+            41.072,
+            8.897
+          ],
+          "culture": "Hyper grande plage, parmi les meilleures autour de Castelsardo.",
+          "photo": "File:Spiaggia di Li Mindi di Badesi.jpg"
+        },
+        {
+          "name": "Cantina Li Duni",
+          "coords": [
+            40.92,
+            8.73
+          ],
+          "culture": "Domaine viticole à Castelsardo, visites tous les jours de 10 h à 13 h et de 16 h à 20 h, 25 € par personne ; le Nozzina est noté 4,4, le reste 3,8."
+        },
+        {
+          "name": "Castelsardo",
+          "wiki": "Castelsardo",
+          "coords": [
+            40.912,
+            8.712
+          ]
+        }
+      ],
+      "stay": {
+        "name": "B&B L'Umbra di lu Soli, Castelsardo",
+        "coords": [
+          40.914,
+          8.712
+        ],
+        "note": "Deuxième nuit à Castelsardo"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Plages autour de Castelsardo : Spiaggia di Badesi, hyper grande plage. Meilleure plage de la Costa Paradiso : Cala Li Cossi, malheureusement un peu loin depuis Castelsardo (45 min), donc on est resté plus près."
+        },
+        {
+          "label": "Début d'après-midi",
+          "text": "Visite d'un domaine viticole de Vermentino, possible aussi la veille."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture"
+        }
+      ],
+      "ideas": [
+        {
+          "label": "Domaines viticoles à visiter",
+          "text": "La Contralta, à Palau (donc pas possible le lendemain) : tout noté 4,2, dégustations à la « Stazzo », réservation possible de 11 h à 21 h 30. Li Duni, à Castelsardo : voir ci-dessus. Lu Beddu, à Arzachena (pas tout à fait sur la route) : vins surtout notés 3,8 et le Nero d'Avola 4,2, visite sur contact. Costadoria, agriturismo bien placé à Castelsardo : vins pour la plupart non notés, pas de visites explicitement indiquées."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Alghero et route panoramique vers Bosa",
+      "summary": "Possible visite du domaine Sella e Mosca au nord d'Alghero, plage de Porto Ferro, route panoramique côtière jusqu'à Bosa et nuit à Bosa.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Alghero",
+          "photo": "File:Alghero old town - panoramio.jpg",
+          "coords": [
+            40.558,
+            8.319
+          ],
+          "culture": "Ville côtière du nord-ouest de la Sardaigne, à l'héritage catalan, avec une vieille ville fortifiée."
+        },
+        {
+          "name": "Sella e Mosca",
+          "coords": [
+            40.62,
+            8.3
+          ],
+          "culture": "Très beau domaine viticole juste au nord d'Alghero, conseillé par une amie ; la visite « Tradition » semble la meilleure, avec dégustation de deux vins notés 3,8 pour 15 €, tous les jours à 10 h, 11 h et 15 h."
+        },
+        {
+          "name": "Porto Ferro",
+          "coords": [
+            40.675,
+            8.203
+          ],
+          "culture": "Plage moins connue, conseillée par une amie, à l'extrême ouest de l'île, à côté de la Paninoteca Sa Tracca.",
+          "photo": "File:Spiaggia di Porto Ferro, Ottobre 2017.jpg"
+        },
+        {
+          "name": "Route panoramique SP 49",
+          "coords": [
+            40.48,
+            8.45
+          ],
+          "culture": "Route panoramique côtière d'Alghero à Bosa."
+        },
+        {
+          "name": "Bosa",
+          "wiki": "Bosa",
+          "culture": "Très beau village de l'ouest, connu pour son vin blanc doux, la Malvasia di Bosa.",
+          "coords": [
+            40.299,
+            8.481
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel Sa Lumenera, Bosa",
+        "coords": [
+          40.29,
+          8.49
+        ],
+        "note": "Hôtel Sa Lumenera : un peu au sud de la ville, très belle vue",
+        "price": "81 €"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Alghero : Tenuta Sella e Mosca, avec visite et dégustation."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Plage de Porto Ferro, puis route panoramique vers Bosa."
+        },
+        {
+          "label": "Soir",
+          "text": "Nuit à Bosa."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture, route côtière d'Alghero à Bosa (SP 49)"
+        }
+      ],
+      "ideas": [
+        "Nuraghe Santu Antine : visite possible, mais à l'intérieur des terres, donc pas sur la route si l'on passe par Alghero. Pas fait.",
+        "Ledà d'Ittiri : hôtel avec domaine viticole et huile d'olive, à l'ouest, 290 € la nuit, 3 nuits minimum."
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Route vers Orosei",
+      "summary": "Traversée de l'île vers l'est et installation à Galtellì, près d'Orosei.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Orosei",
+          "wiki": "Orosei"
+        },
+        {
+          "name": "Galtellì",
+          "wiki": "Galtellì",
+          "culture": "Village un peu à l'intérieur des terres, point de départ de la randonnée vers l'arche de Sa Pedra Istampada."
+        }
+      ],
+      "stay": {
+        "name": "B&B S'Incontru, Galtellì",
+        "coords": [
+          40.3,
+          9.63
+        ],
+        "note": "B&B S'Incontru, à Galtellì (noté 9,2) : salle de bain commune, ce qu'on n'avait pas vu",
+        "price": "178 € pour 2 nuits"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Route de Bosa vers Orosei, installation à Galtellì."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture : traversée de l'île de Bosa vers Orosei"
+        }
+      ],
+      "ideas": [
+        "Superbe route entre Dorgali et Arbatax (SS 125), qui traverse les montagnes autour de la côte."
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Golfe d'Orosei : Cala Fuili",
+      "summary": "Les bateaux de Cala Gonone se sont révélés trop chers : matinée à Cala Fuili, la plage la plus proche, puis deuxième nuit à Orosei.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Cala Gonone",
+          "photo": "File:Dorgali - Cala Gonone - Panorama (05).JPG",
+          "coords": [
+            40.276,
+            9.629
+          ],
+          "culture": "Station balnéaire du golfe d'Orosei, d'où partent les bateaux vers Cala Luna et Cala Mariolu."
+        },
+        {
+          "name": "Cala Fuili",
+          "coords": [
+            40.28,
+            9.63
+          ],
+          "culture": "Plage de galets la plus proche de Cala Gonone, vraiment très belle ; de la place pour se garer le long de la route.",
+          "photo": "File:Cala Fuili 1658-1661mod.jpg"
+        }
+      ],
+      "stay": {
+        "name": "B&B S'Incontru, Galtellì",
+        "coords": [
+          40.3,
+          9.63
+        ],
+        "note": "Deuxième nuit à Galtellì"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Cala Fuili, après avoir réalisé que les bateaux étaient trop chers : environ 150 € par jour à Cala Gonone, à vérifier selon les options avec permis et la réservation à l'avance."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture"
+        }
+      ],
+      "ideas": [
+        "Cala Luna et Cala Goloritzé : accessibles uniquement après de longues randonnées sous le cagnard (réservation obligatoire pour Goloritzé). On ne l'a pas fait.",
+        "Berchida Beach, plus au nord : parmi les plus belles de l'île et pourtant moins de monde."
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Retour : Olbia, Nice et Toulon",
+      "summary": "Retour de la voiture, vol Olbia - Nice à 13 h 20, puis Flixbus jusqu'à Toulon.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Aéroport d'Olbia",
+          "wiki": "Olbia Costa Smeralda Airport",
+          "coords": [
+            40.8987,
+            9.5176
+          ]
+        }
+      ],
+      "stay": null,
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Retour de la voiture à 12 h 30 à Olbia."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Vol Olbia - Nice à 13 h 20, puis Flixbus aéroport de Nice - Toulon à 15 h 40."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Retour de la voiture à Olbia le dimanche 13 août à 12 h 30"
+        },
+        {
+          "mode": "flight",
+          "text": "Vol Olbia - Nice, Volotea, 13 h 20 - 14 h 25, 41 € (toujours disponible en dernière minute à 47 €) : pas le choix, seul prix décent, et on arrive directement dans le sud"
+        },
+        {
+          "mode": "bus",
+          "text": "Flixbus aéroport de Nice - Toulon, 15 h 40 - 18 h 05, 9 €"
+        }
+      ],
+      "ideas": [
+        "Autres retours possibles : TER Nice centre - Toulon ou Marseille (30 € ou 39 €, à 18 h ou 19 h 25) ; Flixbus aéroport de Nice - Marseille (17 €, 15 h 20 - 18 h)."
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "villages",
+      "title": "Plus beaux villages",
+      "summary": "Villages de la côte et de l'intérieur à voir en Sardaigne.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sur la côte"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Castelsardo (nord).",
+            "Bosa (ouest) : vin blanc doux célèbre, la Malvasia di Bosa.",
+            "Carloforte (sud).",
+            "Cabras (ouest) : proche des très belles plages d'Is Arutas, Maimoni et Mari Ermi ; spécialité, la « botargo ».",
+            "Posada (est).",
+            "Buggerru (sud) : proche de la magnifique plage Cala del Balenottero, peu de monde dans ce coin."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Un peu à l'intérieur des terres, médiéval ou traditionnel"
+        },
+        {
+          "type": "list",
+          "items": [
+            "San Pantaleo (nord), tout proche de la Costa Smeralda.",
+            "Villanova Monteleone (est).",
+            "Tempio Pausania et Aggius (nord) : région de randonnée et de vin blanc, appellations Vermentino di Gallura et Moscato di Sardegna.",
+            "Padru (nord) : randonnée et canyoning au Monte Nieddu et au Rio Pitrisconi.",
+            "Galtellì (est) : randonnée vers l'arche de Sa Pedra Istampada.",
+            "Laconi et Sadali (centre et sud) : proches du Lago Is Barrocus.",
+            "Orgosolo (ouest) : street art."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Plus d'infos : orizzonte.fr, plus beaux villages de Sardaigne."
+        }
+      ]
+    },
+    {
+      "id": "vins",
+      "title": "Vins et randonnées",
+      "summary": "Les appellations, les domaines conseillés et la randonnée de référence.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Meilleures randonnées"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Monte Arcuentu et cascade de Piscina Irgas (sud), dans le style de la Corse."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Appellations"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Vermentino di Gallura (nord) : seule DOCG de l'île, encore méconnu mais vin blanc très délicat.",
+            "Moscato di Sardegna (nord) : vin doux pétillant.",
+            "Malvasia di Bosa (ouest) : vin doux historique, produit en toutes petites quantités.",
+            "Cannonau di Sardegna : cépage grenache, généralement bon dans les restaurants.",
+            "Isola dei Nuraghi : rouges et blancs, appellation générale de la Sardaigne."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Domaines conseillés"
+        },
+        {
+          "type": "text",
+          "text": "Conseillés par la Revue du vin de France : Cherchi Giovanni (est), Jerzu Antichi Poderi (ouest et sud), Gabbas (ouest), et plusieurs autour de Cagliari. Liste complète des domaines à visiter sur TripAdvisor : [meilleurs domaines de Sardaigne](https://www.tripadvisor.fr/Attractions-g187879-Activities-c36-t132-a_trating.40-a_sort.TRAVELER__5F__RANKED-Sardinia.html)."
+        }
+      ]
+    },
+    {
+      "id": "meilleurs-endroits",
+      "title": "Guide des meilleurs endroits",
+      "summary": "Les plus belles plages et les plus beaux sites de l'île, région par région.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Archipel de La Maddalena"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Plus beau coin : Cala Coticcio, sur l'île de Caprera, l'un des plus beaux endroits de Sardaigne mais extrêmement compliqué d'accès (guide à réserver par WhatsApp sur une liste officielle de 17 guides, maximum 60 personnes par jour). Peut-être possible d'y accéder en excursion de snorkeling par la mer.",
+            "Beaucoup de zones protégées sont interdites d'accès ; la location de bateau semble possible, mais le coût et les règles ne sont pas clairs.",
+            "Reste de Caprera : d'autres plages accessibles sans guide, sandwich à I Mille.",
+            "Île de Spargi : île très sauvage, avec moins de monde, accessible uniquement en bateau.",
+            "Criques de La Maddalena, en particulier Testa del Polpo : pas de grandes plages ni autant de granit rose, mais beaucoup de magnifiques criques du même genre."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Costa Smeralda"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Porto Cervo est l'équivalent de Saint-Tropez, mais les plages au sud de Porto Cervo restent belles et assez sauvages.",
+            "Plages les plus belles : Principe (beaucoup de monde), Petra Ruja (sable un peu moins fin, belle et moins de monde car il faut marcher) ; parkings tous à 2,50 € de l'heure. Éventuellement Vena Longa (Capo d'Orso, près de Palau) et Costa Dorata.",
+            "Ritual Club à Baia Sardinia."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Capo Testa"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Joli village de Santa Teresa Gallura devant le Capo Testa.",
+            "Balade à pied dans le cap, avec de petites criques très belles dans le granit (Cala Francese) ; plages de sable belles aussi mais probablement plus fréquentées (spiaggia Zia Culumba).",
+            "Très belle plage de La Licciola, sur la route depuis Palau."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Côte nord"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Costa Paradiso : plage splendide de Cala Li Cossi.",
+            "Castelsardo : très joli village côtier, spécialiste de la vannerie."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Stintino et Asinara"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Plage de la Pelosa : il faut réserver sur lapelosastintino.com (ne fonctionne pas ?) et arriver le plus tôt possible.",
+            "Île d'Asinara : se visite à pied, après un petit trajet en bateau depuis Stintino ; ne vaut pas vraiment le coup, car ce ne sont pas les plus belles plages et la baignade est souvent interdite en zone protégée."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Alghero et Porto Conte"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Grottes de Neptune : accès en bateau, ou à pied puis payant ; la descente de 600 marches jusqu'à l'entrée est déjà pas mal.",
+            "Balade à pied possible dans le parc de Capo Conte.",
+            "Plusieurs belles plages sur la route vers le parc (Mugoni) et juste au nord (Porticciolo, Porto Ferro, la plus belle).",
+            "Route panoramique côtière d'Alghero à Bosa (SP 49) ; Bosa, très beau village à 1 h au sud."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Sud d'Olbia et île de Tavolara"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Très belles plages, du nord au sud : Porto Taverna, Brandinchi, Lu Impostu, La Cinta, Budoni."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Golfe d'Orosei"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Location de bateau à Cala Gonone : autour de 130 € la journée, probablement mieux de réserver à l'avance (Cala Mariolu, Cala Luna).",
+            "Cala Goloritzé, la plus au sud, accessible uniquement en randonnée (1 h à l'aller, 1 h 30 au retour) depuis le village de Baunei ; réservation obligatoire avec l'application Heart of Sardinia (6 €, maximum 250 personnes par jour).",
+            "Excursion organisée possible depuis Santa Maria Navarrese.",
+            "Randonnée dans les immenses gorges de Su Gorropu, 4 à 5 h de marche.",
+            "Plus beau trek de Sardaigne : le Selvaggio Blu, plusieurs jours, avec escalade possible.",
+            "Superbe route entre Dorgali et Arbatax (SS 125).",
+            "Berchida Beach, plus au nord."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Côte sud et sud-est"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Route panoramique de Porto di Teulada à Chia, avec des plages magnifiques comme la spiaggia di Turruedda ou Cala Cipolla, et la plage de Porto Pino un peu plus loin.",
+            "Île de Sant'Antioco (accessible par un pont) : jolies criques comme l'Arco dei Baci (piscine naturelle) et Cala Grotta ; île de San Pietro (ferry).",
+            "Côte de l'Iglesiente, au nord des îles : pointe de Porto Flavia (ancienne mine qui se visite dans la falaise, face au faraglione « Pan di Zucchero») et magnifique plage de Cala Domestica.",
+            "Marche et un peu de baignade à la péninsule du Sinis.",
+            "Nuraghes dans les terres (Arrubiu, Barumini, Palmavera, Santu Antine) : tours et bâtiments de la culture nuragique, remontant au XVe siècle avant J.-C."
+          ]
+        }
+      ]
+    }
+  ],
+  "start": "2023-08-06",
+  "done": true,
+  "season": "Août / Septembre",
+  "kind": "short"
+}

@@ -1,0 +1,867 @@
+{
+  "id": "baleares",
+  "title": "Baléares : Majorque",
+  "subtitle": "Huit jours en voiture à Majorque : Palma, vignes de Binissalem, route de la Tramuntana, criques du sud-est et du nord-est, puis ferry de nuit vers Toulon",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Mallorca",
+  "days": [
+    {
+      "n": 1,
+      "title": "Dimanche : journée à Palma",
+      "summary": "Arrivée à Palma à 14 h 55, bus depuis l'aéroport, marche dans la ville, éventuellement visite d'un palais, messe à 19 h à la cathédrale et dîner dans un bon restaurant.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Aéroport de Palma",
+          "wiki": "Palma de Mallorca Airport",
+          "coords": [
+            39.5517,
+            2.7388
+          ]
+        },
+        {
+          "name": "Palma",
+          "wiki": "Palma de Mallorca"
+        },
+        {
+          "name": "Cathédrale de Palma",
+          "wiki": "Palma Cathedral",
+          "culture": "Cathédrale gothique de la Seu, dressée face à la mer, avec l'une des plus grandes rosaces du monde gothique."
+        },
+        {
+          "name": "Palais de l'Almudaina",
+          "wiki": "Royal Palace of La Almudaina"
+        },
+        {
+          "name": "Château de Bellver",
+          "wiki": "Bellver Castle",
+          "culture": "Château circulaire, très belle vue sur la baie de Palma (4 €)."
+        }
+      ],
+      "stay": {
+        "name": "MHouse Hotel, Palma",
+        "coords": [
+          39.5696,
+          2.6502
+        ],
+        "note": "MHouse Hotel Palma (hôtel avec piscine)",
+        "price": "168 €"
+      },
+      "parts": [
+        {
+          "label": "Après-midi",
+          "text": "Arrivée à Palma à 14 h 55, bus depuis l'aéroport, marche dans la ville pour visiter, éventuellement visite d'un palais."
+        },
+        {
+          "label": "Soir",
+          "text": "Messe à 19 h à la cathédrale, dîner dans un bon restaurant, nuit dans un hôtel avec piscine."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Arrivée à Palma à 14 h 55"
+        },
+        {
+          "mode": "bus",
+          "text": "Bus depuis l'aéroport jusqu'à la ville"
+        }
+      ],
+      "food": [
+        "Dîner dans un bon restaurant de Palma."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Lundi : vin et détente",
+      "summary": "Matinée à Palma, joli petit café, fin de la visite à pied et bon sandwich, puis visite d'un domaine viticole autour de Binissalem, Pollença ou une plage du nord si le temps le permet, et nuit à Selva.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Binissalem",
+          "wiki": "Binissalem",
+          "culture": "Ville du centre de Majorque, cœur de l'appellation Binissalem (AOP) ; bodegas ouvertes à la dégustation."
+        },
+        {
+          "name": "Selva",
+          "wiki": "Selva, Majorca"
+        },
+        {
+          "name": "Pollença",
+          "wiki": "Pollença",
+          "coords": [
+            39.877,
+            3.016
+          ]
+        },
+        {
+          "name": "Cala de Muro",
+          "coords": [
+            39.79,
+            3.1
+          ],
+          "culture": "Plage de sable fin de la baie d'Alcúdia, en bordure du parc naturel de s'Albufera."
+        }
+      ],
+      "stay": {
+        "name": "Can Cota, Selva",
+        "coords": [
+          39.75,
+          2.9
+        ],
+        "note": "Can Cota Selva (annulation possible jusqu'au 9 août via Expedia)",
+        "price": "128 €",
+        "options": [
+          "Ca's Papa, Valldemossa : 184 € (annulé sur Booking)",
+          "Placeta Vella, Caimari : 200 € (par mail, pas réservé)"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Matinée à Palma : joli petit café, fin de la visite de la ville à pied, bon sandwich pour le déjeuner."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Visite d'un domaine viticole autour de Binissalem. Pollença si on a le temps, ou Cala de Muro, ou Cala Sant Vicenç."
+        },
+        {
+          "label": "Soir",
+          "text": "Nuit à Selva."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture de location"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Mardi : journée montagne et route MA-10",
+      "summary": "Piscine à Selva le matin, déjeuner à Sóller, baignade à Cala Deià, route MA-10 jusqu'à Banyalbufar et dîner avec vue sur la mer à Banyalbufar ou Valldemossa.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Sóller",
+          "wiki": "Sóller"
+        },
+        {
+          "name": "Cala Deià",
+          "wiki": "Deià",
+          "culture": "Petite crique de galets au pied du village de Deià, sur la côte de la Tramuntana."
+        },
+        {
+          "name": "Route MA-10",
+          "coords": [
+            39.7,
+            2.55
+          ],
+          "culture": "Route panoramique qui longe la Serra de Tramuntana, inscrite à l'UNESCO.",
+          "photo": "File:Pollença - Ma-10 Valle de Son March 03 ies.jpg"
+        },
+        {
+          "name": "Banyalbufar",
+          "wiki": "Banyalbufar",
+          "culture": "Village aux vignes en terrasses ; le point de vue de la Torre del Verger, un peu avant le village, permet de monter dans la tour."
+        },
+        {
+          "name": "Valldemossa",
+          "wiki": "Valldemossa",
+          "culture": "Plus touristique que ses voisins ; se garer dans les lotissements environnants."
+        }
+      ],
+      "stay": {
+        "name": "Can Busquets, Banyalbufar",
+        "coords": [
+          39.69,
+          2.51
+        ],
+        "note": "Can Busquets, Banyalbufar (annulation possible, -50 % sur Booking)",
+        "price": "127 €",
+        "options": [
+          "Santuari de Lluc : 107 € (annulation jusqu'au 10 août sur Booking)"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Profiter de la piscine à Selva."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner à Sóller."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Goûter et baignade à Cala Deià, puis route MA-10 jusqu'à Banyalbufar."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner avec vue sur la mer à Banyalbufar ou Valldemossa."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture, route MA-10"
+        }
+      ],
+      "food": [
+        "Déjeuner à Sóller.",
+        "Dîner avec vue sur la mer à Banyalbufar ou à Valldemossa."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Mercredi : Sant Elm ou direction sud",
+      "summary": "Soit Sant Elm, soit direction du sud et Cala Pi.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Sant Elm",
+          "wiki": "Sant Elm",
+          "culture": "Petit village de la pointe sud-ouest de l'île, d'où partent les bateaux pour l'île de Sa Dragonera."
+        },
+        {
+          "name": "Cala Pi",
+          "culture": "Très belle crique mais bondée ; 15 min de marche jusqu'à Cala Beltran pour le snorkeling, puis vers le phare et la tour de s'Estalella.",
+          "photo": "File:Platja de Cala Pi 2.JPG",
+          "coords": [
+            39.363,
+            2.906
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Fincahotel Es Llobets",
+        "coords": [
+          39.48,
+          3.0
+        ],
+        "note": "Fincahotel Es Llobets (annulation possible jusqu'au 13 août à 15 h sur Airbnb)",
+        "price": "164 €"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Soit Sant Elm, soit direct en direction du sud, vers Cala Pi."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Jeudi : sud-est",
+      "summary": "Le sud-est de l'île : Cala Llombards, Cala des Moro, Cala Figuera.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Cala Llombards",
+          "wiki": "Cala Llombards",
+          "culture": "Très connue mais belle."
+        },
+        {
+          "name": "Cala des Moro",
+          "coords": [
+            39.356,
+            3.17
+          ],
+          "culture": "Incroyable mais bondée ; un éboulement a recouvert la plage, vérifier les restrictions en été.",
+          "photo": "File:View of the bay at Calo des Moro, Mallorca (Spain) (23899506181).jpg"
+        },
+        {
+          "name": "S'Almonia",
+          "coords": [
+            39.35,
+            3.18
+          ],
+          "culture": "Jolie petite crique avec de petites maisons, à deux pas de la Cala des Moro, pour une pause goûter.",
+          "photo": "File:Cala l'Almunia in February 02.jpg"
+        },
+        {
+          "name": "Cala Figuera",
+          "coords": [
+            39.325,
+            3.162
+          ],
+          "culture": "Petit port de plaisance avec des maisons."
+        }
+      ],
+      "stay": {
+        "name": "Hôtel Rural Es Riquers",
+        "coords": [
+          39.38,
+          3.05
+        ],
+        "note": "Hôtel Rural Es Riquers (annulation possible jusqu'au 7 août en direct)",
+        "price": "176 €"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Sud-est de l'île : Llombards, Moro, Figuera."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Vendredi : nord-est (Mondragó et Agulla)",
+      "summary": "Le nord-est de l'île : parc naturel de Mondragó et Cala Agulla.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Parc naturel de Mondragó",
+          "culture": "Parc naturel aux criques de sable : Cala des Borgit, Cala Mondragó et Cala S'Amarador.",
+          "photo": "File:Cala Mondragó 07.jpg",
+          "coords": [
+            39.356,
+            3.167
+          ]
+        },
+        {
+          "name": "Cala Agulla",
+          "wiki": "Cala Agulla",
+          "culture": "Beaucoup de monde, mais très beau."
+        }
+      ],
+      "stay": {
+        "name": "Casal d'Artà",
+        "coords": [
+          39.695,
+          3.35
+        ],
+        "note": "Casal d'Artà (annulation possible jusqu'au 8 août sur Booking)",
+        "price": "107 €",
+        "options": [
+          "Agroturismo Es Gallicant, Campos : 148 € (annulé sur Booking)"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Nord-est de l'île : Mondragó et Agulla."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Samedi : nord-est (Mesquida et Betlem)",
+      "summary": "Le nord-est de l'île : Cala Mesquida et la randonnée entre Betlem et Es Caló.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Cala Mesquida",
+          "culture": "Très beau mais bondé, entouré de très belles dunes ; plutôt choisir Cala Torta, à 15 min de marche, pour un spot de snorkeling incroyable.",
+          "photo": "File:Cala Mesquida beach in Mallorca, Spain (47988460597).jpg",
+          "coords": [
+            39.714,
+            3.455
+          ]
+        },
+        {
+          "name": "Betlem",
+          "coords": [
+            39.73,
+            3.357
+          ],
+          "photo": "File:Ermita de Betlem April 2019 02.jpg",
+          "culture": "Petit hameau du nord-est de Majorque, point de départ de la randonnée vers Es Caló."
+        },
+        {
+          "name": "Cala Na Clara",
+          "coords": [
+            39.728,
+            3.37
+          ],
+          "culture": "Une des plus belles calanques de l'île, petits galets et fonds sableux, au retour de la randonnée entre Betlem et Es Caló."
+        }
+      ],
+      "stay": {
+        "name": "Forn Nou, Artà",
+        "coords": [
+          39.695,
+          3.35
+        ],
+        "note": "Forn Nou Artà (annulation possible jusqu'au 10 août à 18 h sur Expedia)",
+        "price": "167 €",
+        "options": [
+          "Agroturismo Es Gallicant, Campos : 149 € (annulé sur Booking)",
+          "Petit Hôtel Ses Rotges, Cala Rajada : 163 € (annulation possible jusqu'au 14 août sur Booking)"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Nord-est de l'île : Mesquida et Betlem."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture"
+        }
+      ],
+      "ideas": [
+        "Randonnée entre Betlem et Es Caló : 6 km aller-retour, de pur bonheur, avec un littoral majestueux, de petites criques et les collines du Cap Farrutx.",
+        "Cala Torta : 15 min de marche, puis spot de snorkeling incroyable. Depuis Cala Torta, le sentier GR 222 mène à d'autres calanques, jusqu'à la Torre d'Albarca et s'Arenalet des Verger, plage complètement sauvage (14 km aller-retour au total)."
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Dimanche : Pollença, Formentor et ferry de nuit",
+      "summary": "Matinée tranquille (plage à Can Picafort, déjeuner à Pollença), voiture rendue au Port de Pollença, après-midi au Cap Formentor ou ailleurs, puis ferry de nuit Alcúdia - Toulon à 21 h 30.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Can Picafort",
+          "wiki": "Can Picafort",
+          "coords": [
+            39.772,
+            3.15
+          ],
+          "culture": "Station balnéaire de la baie d'Alcúdia, avec une longue plage de sable."
+        },
+        {
+          "name": "Pollença",
+          "wiki": "Pollença",
+          "coords": [
+            39.877,
+            3.016
+          ]
+        },
+        {
+          "name": "Port de Pollença",
+          "wiki": "Port de Pollença",
+          "coords": [
+            39.909,
+            3.083
+          ],
+          "culture": "Port de la baie de Pollença, où l'on prend le bus pour le Cap Formentor."
+        },
+        {
+          "name": "Cap Formentor",
+          "wiki": "Cap de Formentor",
+          "culture": "Péninsule du nord-est de Majorque, au bout d'une route de falaises ; l'accès en voiture est interdit en été."
+        },
+        {
+          "name": "Port d'Alcúdia",
+          "wiki": "Port d'Alcúdia"
+        }
+      ],
+      "stay": null,
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Chill, plage à Can Picafort ?, déjeuner à Pollença ? Voiture rendue au Port de Pollença."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Cap Formentor, ou Puig de Maria, ou Coll Baix, ou Cala Carbó."
+        },
+        {
+          "label": "Soir",
+          "text": "Retour au port d'Alcúdia, puis ferry de nuit pour Toulon à 21 h 30."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture rendue au Port de Pollença (agences ouvertes de 8 h à 13 h et de 17 h à 20 h)"
+        },
+        {
+          "mode": "bus",
+          "text": "Bus 334 depuis le Port de Pollença jusqu'au Cap Formentor, 1,80 € par carte, 45 min"
+        },
+        {
+          "mode": "boat",
+          "text": "Ferry Corsica Ferries Alcúdia - Toulon, 21 h 30 - 10 h"
+        }
+      ],
+      "ideas": [
+        {
+          "label": "Détails du Cap Formentor en bus",
+          "text": "Bus 334, 1,80 € par carte, 45 min depuis le Port de Pollença (possible d'avancer jusqu'à la plage de Formentor s'il reste des places de parking). Retour au port d'Alcúdia : soit 20 min de bus 322 entre le port d'Alcúdia et le port de Pollença (1,80 € par carte), soit 20 min de bus 334 entre le centre d'Alcúdia et le port de Pollença, puis 5 min de bus 324 entre le centre et le port d'Alcúdia (ou 25 min de marche)."
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "hebergements",
+      "title": "Hébergements envisagés",
+      "summary": "Les options étudiées chaque nuit, avec les prix et les conditions d'annulation.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Option 1",
+            "Option 2",
+            "Option 3"
+          ],
+          "rows": [
+            [
+              "Dimanche 11",
+              "MHouse Hotel Palma, 168 €",
+              "-",
+              "-"
+            ],
+            [
+              "Lundi 12",
+              "Can Cota, Selva, 128 € (annulation jusqu'au 9 août, Expedia)",
+              "Ca's Papa, Valldemossa, 184 € (annulé, Booking)",
+              "Placeta Vella, Caimari, 200 € (par mail, pas réservé)"
+            ],
+            [
+              "Mardi 13",
+              "Can Busquets, Banyalbufar, 127 € (annulation, -50 %, Booking)",
+              "Santuari de Lluc, 107 € (annulation jusqu'au 10 août, Booking)",
+              "-"
+            ],
+            [
+              "Mercredi 14",
+              "Fincahotel Es Llobets, 164 € (annulation jusqu'au 13 août à 15 h, Airbnb)",
+              "-",
+              "-"
+            ],
+            [
+              "Jeudi 15",
+              "Hôtel Rural Es Riquers, 176 € (annulation jusqu'au 7 août, en direct)",
+              "-",
+              "-"
+            ],
+            [
+              "Vendredi 16",
+              "Casal d'Artà, 107 € (annulation jusqu'au 8 août, Booking)",
+              "Agroturismo Es Gallicant, Campos, 148 € (annulé, Booking)",
+              "-"
+            ],
+            [
+              "Samedi 17",
+              "Forn Nou, Artà, 167 € (annulation jusqu'au 10 août à 18 h, Expedia)",
+              "Agroturismo Es Gallicant, Campos, 149 € (annulé, Booking)",
+              "Petit Hôtel Ses Rotges, Cala Rajada, 163 € (annulation jusqu'au 14 août, Booking)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "transports",
+      "title": "Transports : voiture, bus et ferry",
+      "summary": "Location de voiture, bus et ferry de retour.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Location de voiture"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Comparer sur [DiscoverCars](https://www.discovercars.com/fr), [Wiber](https://www.wiberrentacar.com/fr/reserva), [Hiper Rent a Car](https://hiperrentacar.com), [Autosnifers](https://autosnifers.com/en/proceso-de-reserva/) ou [Mallorca Excursiones](https://mallorca-excursiones.com/location-voiture-majorque/). Toujours vérifier qu'il y a 0 € de dépôt et 0 € de franchise.",
+            "Hiper Rent a Car : l'avantage d'avoir des agences partout et pas de frais pour déposer à un autre endroit. Assurance « HiperPlus » à 10 € par jour pour tout couvrir, avec retrait de clé sans passage par un agent ; le tarif de base inclut déjà les assurances SCDW (collision sans franchise). Dépôt de garantie de 1 000 € avec une carte de débit, 0 € avec une carte de crédit."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Bus"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Beaucoup de bus : pour avoir les tarifs les moins chers, il faut payer directement en scannant sa carte bancaire, une fois par personne (tarifs dégressifs), à l'entrée ET à la sortie.",
+            "Bus Palma - Alcúdia si la voiture est rendue à l'aéroport : 8,10 €, 55 min (15 h 45 ou 16 h 30 le dimanche)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Retour"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ferry Corsica Ferries Alcúdia - Toulon, 21 h 30 - 10 h."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "palma",
+      "title": "Palma",
+      "summary": "Visites, restaurants, bars et spécialités de Palma.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Visites"
+        },
+        {
+          "type": "text",
+          "text": "Cathédrale, jardins s'Hort del Rei et du Parc de la Mar, palais de l'Almudaina, Plaça Major, Casal Solleric, Plaça de Cort, basilique Sant Francesc, bains arabes historiques, Plaça de ses Columnes, Jardí del Bisbe, château de Bellver (château rond, très belle vue, 4 €), moulins d'Es Jonquet, les Cans, la Rambla, les patios, le passeig del Born, la Llotja."
+        },
+        {
+          "type": "heading",
+          "text": "Où manger et boire"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Petit-déjeuner ou brunch : Mise en Place, Assaona Gastro Beach Club.",
+            "Bars à tapas : Bar España, Ombú, Bocalto.",
+            "Restaurants du soir : El Camino, La Bóveda, Celler Sa Premsa, Gaudeix.",
+            "Cocktails : Singular Rooftop Terrace."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Spécialités"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pa amb oli : pain à l'huile d'olive.",
+            "Sobrassada : charcuterie.",
+            "Mahón : fromage.",
+            "Ensaïmada de Majorque : pâtisserie traditionnelle en forme de spirale.",
+            "Cocas : sorte de pizza locale, salée ou sucrée.",
+            "Cocarrois : sorte de tarte avec une garniture."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sud-ouest",
+      "title": "Sud-Ouest et route MA-10",
+      "summary": "Calanques de Portals Vells, Sa Dragonera, Sant Elm et début de la route panoramique.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Calanques de Portals Vells, près de Palma : Platja del Rei (se garer là), Cala del Mago (venir très tôt), Platgeta de Portals Vells (sentier littoral).",
+            "Restaurant Illeta : principal intérêt du sud de l'île.",
+            "Excursion vers l'île de Sa Dragonera, un magnifique parc naturel protégé (départ depuis Sant Elm).",
+            "Randonnée à la Trapa, entre Sant Elm et Cala en Basset.",
+            "Cala d'Egos : plage de galets cachée, depuis Andratx.",
+            "Début de la route panoramique MA-10 : Estellencs ? Mirador d'en Ricardo Roca (vues grandioses, encore mieux depuis la terrasse du restaurant Es Grau juste à côté), Biniaraix ?, Banyalbufar (vignes, point de vue de la Torre del Verger un peu avant le village, on peut monter dans la tour)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nord-ouest",
+      "title": "Nord-Ouest : Tramuntana",
+      "summary": "Villages, miradors et criques de la Serra de Tramuntana, de Fornalutx à Lluc.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Suite de la route MA-10 : Fornalutx, petit village pittoresque (restaurant Ca N'Antuna) ; Deià (restaurant de l'hôtel Belmond La Residencia) ; Valldemossa, plus touristique (café Barbaflorida, boulangerie Ca'n Molinas, restaurant Es Taller Valldemossa ; se garer dans les lotissements environnants).",
+            "Monastère de Miramar.",
+            "Domaine de Son Marroig (entrée 4 €), célèbre pour l'un des points de vue les plus romantiques de l'île, Sa Foradada.",
+            "Accès à la mer depuis les villages : Cala Banyalbufar, le port des Canonges, le port de Valldemossa, Cala Deià (restaurant de poisson Ca's Patró, à réserver une semaine avant).",
+            "Restaurant Béns d'Avall.",
+            "Embassament de Cúber et ses miradors : deux lacs artificiels dans un magnifique paysage montagneux.",
+            "Sóller : petit-déjeuner sur la place de la Constitució ; jardins d'Alfàbia (beau jardin, maison riche, pressoir à huile d'olive, orangers) ; Port de Sóller et la plage n'ont pas d'intérêt.",
+            "Far de Cap Gros : super point de vue sur Port de Sóller, à 2 km de route étroite jusqu'à un petit parking (ou marcher les 2 km depuis Port de Sóller et se garer à Repic).",
+            "Route Ma-2141 jusqu'à la crique de Sa Calobra.",
+            "Torrent de Pareis : long canyon au bout de la crique, que l'on peut descendre à pied, mais réservé aux randonneurs expérimentés ([topo de la randonnée](https://www.manawa.com/fr-FR/activite/iles-baleares/serra-de-tramuntana-majorque/randonnee/randonnee-le-long-du-torrent-de-pareis-descorca-a-sa-calobra-majorque/17980)).",
+            "Reprendre la voiture 10 min jusqu'à Cala Tuent, splendide plage de galets.",
+            "Lluc et son monastère."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nord",
+      "title": "Nord : Formentor et Alcúdia",
+      "summary": "Cap de Formentor, criques, Alcúdia, Pollença, dauphins et dunes de Muro.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Cap de Formentor"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mirador Es Colomer.",
+            "Marche depuis le mirador jusqu'à la tour d'Albercutx.",
+            "Plage extrêmement connue de Formentor, accessible en ferry ou en bus depuis Pollença pour éviter le stationnement.",
+            "Criques plus confidentielles et sauvages à ne pas manquer : Cala Figuera (la meilleure, à gauche, crique rocheuse) et Cala Murta (à droite, crique de galets, pas mal de biquettes), toutes deux à 20 min de marche.",
+            "[Accès interdit aux voitures en été](https://www.palmaairport.info/2023/05/10/formentor-access-restrictions-summer-2023/) : se garer au Port de Pollença et utiliser le bus 334 (payer dedans en passant sa carte, à l'entrée et à la sortie), ou carrément au port d'Alcúdia pour éviter les bus pleins.",
+            "Joli village de Pollença : pas si ouf d'après certains, recommandé un max par d'autres."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Autour"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Alcúdia : joli village pour déjeuner (Trattoria Italiana S'Espiga), marché le dimanche et le mardi.",
+            "Excursion dauphins tôt le matin, au départ d'Alcúdia (lever de soleil, petit groupe).",
+            "Playa Coll Baix : isolée (se garer au refuge de Coll Baix puis 4 km aller-retour), petits galets et sable, l'une des plus belles de Majorque.",
+            "Plage de Muro, zone Es Comú dans le parc naturel de s'Albufera : sentier dans les dunes ; se garer au niveau de l'Iberostar Albufera Playa ou, de l'autre côté, sur le grand parking vers Can Picafort."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nord-est",
+      "title": "Nord-Est : Artà et Capdepera",
+      "summary": "Randonnées littorales, calanques, villages et grottes du nord-est.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Très belle portion du GR 222 à S'Arenal, entre Son Serra de Marina et Colònia de Sant Pere (mais grosses vagues sur les plages ici).",
+            "Randonnée entre Betlem et Es Caló : 6 km aller-retour de pur bonheur, littoral majestueux, petites criques, superbes collines du Cap Farrutx, falaises ; au retour, bifurcation vers l'une des plus belles calanques de l'île, Cala Na Clara (petits galets, fonds sableux).",
+            "Cala Mesquida (très beau mais bondé), très belles dunes autour ; plutôt Cala Torta : 15 min de marche, puis spot de snorkeling incroyable.",
+            "Depuis Cala Torta, le sentier GR 222 va vers d'autres calanques, jusqu'à la Torre d'Albarca et s'Arenalet des Verger, une plage complètement sauvage qui a l'air incroyable : 14 km au total, aller-retour.",
+            "Capdepera : château dans un très beau village ; Cala Agulla (beaucoup de monde mais très beau) ; Cala Gat, très beau ; Cala Moll et Canyamel, à vérifier.",
+            "Artà : village sympa pour déjeuner ; grottes d'Artà, les plus belles de l'île ; Cuevas del Hams ; vue depuis le sanctuaire d'Artà."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "est-sud-est",
+      "title": "Est et sud-est",
+      "summary": "Cala des Moro, Mondragó, Es Trenc, Cala Pi et autres calanques du sud-est.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "Cala des Moro : incroyable mais bondée, vérifier les restrictions en été ; en fait un éboulement a recouvert la plage ([photos et infos](https://amoureux-du-monde.com/destinations/europe/espagne/que-faire-a-majorque/)).",
+            "S'Almonia : jolie petite crique avec de petites maisons, à deux pas de la Cala des Moro pour une pause goûter.",
+            "Cala Figuera : petit port de plaisance avec maisons.",
+            "Cala Llombards : très connue mais belle (restaurant à vérifier sur Instagram ?).",
+            "Cala Santanyí et Cala Romàntica : même genre.",
+            "Cassai Gran Café et restaurant, à Ses Salines.",
+            "Cala Magraner : crique de galets accessible après une randonnée de 45 min dans de magnifiques calanques.",
+            "Parc naturel de Mondragó : criques de sable de Cala des Borgit, Cala Mondragó et Cala S'Amarador.",
+            "Es Trenc : hyper célèbre, très beau mais bondé.",
+            "Es Caragol : accessible uniquement à pied ou en bateau ; depuis le phare du Cap de Ses Salines (parking), marcher 15 à 20 min le long de la mer, avec plusieurs criques au passage. Possibilité de continuer vers Colònia de Sant Jordi, pour d'autres lieux plus confidentiels comme Cala en Tugores et Platja des Carbó.",
+            "Cala Pi : très beau mais bondé ; 15 min de marche jusqu'à Cala Beltran pour le snorkeling, puis vers le phare et la tour de s'Estalella.",
+            "Restaurant de l'hôtel Cap Rocat, entre Cala Pi et Palma.",
+            "Croisière en llaut, un bateau en bois traditionnel."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "centre-vin",
+      "title": "Centre : vin et marchés",
+      "summary": "Dégustations de vin, déjeuner dans un celler, marchés, Sineu et grotte de Campanet.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Dégustation de vin"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Dans un vignoble du centre et de l'ouest, autour de Binissalem (AOP) : Bodega Ribas, Bodega Can Majoral, Bodega Sa Cabana.",
+            "Ou au nord, autour de Pollença : Finca San Bordils, Can Axartell, Vinyes Mortitx, Can Vidalet.",
+            "Ou au centre et à l'est, entre Manacor et Sineu (appellation Pla i Llevant) : Anima Negra, Toni Gelabert, Mesquida Mora, 4 Kilos Vinicola."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Autres idées"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Déjeuner dans un celler (restaurant traditionnel majorquin) : S'Estanc Vell.",
+            "Petite ville de Sineu : marché le mercredi, accessible en train en 40 min depuis Palma donc pas mal de monde, mais super.",
+            "Dates des marchés de l'île : [The Happy Jetlagger](https://thehappyjetlagger.com/en/markets-mallorca/).",
+            "Grotte de Campanet, avec les plus belles formations rocheuses et un joli café-restaurant.",
+            "Terragust : déjeuner dans les vergers, recommandé par un ami."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "autres-iles",
+      "title": "Autres îles : Formentera, Minorque, Ibiza",
+      "summary": "Liens pour aller plus loin sur les autres îles des Baléares.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Formentera"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Que faire à Formentera](https://amoureux-du-monde.com/destinations/europe/espagne/que-faire-a-formentera/).",
+            "[Formentera, Les Globe Blogueurs](https://lesglobeblogueurs.com/formentera/) : Bodega Terra Moll, Caló des Mort, coucher de soleil au Cap de Barbaria, plateau de la Mola à vélo."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Minorque"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Que faire à Minorque](https://amoureux-du-monde.com/destinations/europe/espagne/que-faire-a-minorque/).",
+            "[Guide de voyage à Minorque](https://zigzagvoyages.fr/voyage-minorque-guide/)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Ibiza"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Que faire à Ibiza](https://amoureux-du-monde.com/destinations/europe/espagne/que-faire-a-ibiza/).",
+            "[Ibiza nature](https://lesglobeblogueurs.com/ibiza-nature/).",
+            "[Ibiza en 4 jours](https://www.la-poze-travel.com/ibiza-4-jours-ile-baleares-espagne/)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "liens-majorque",
+      "title": "Itinéraires et récits sur Majorque",
+      "summary": "Idées de roadtrips et récits consultés.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "[Visiter Majorque, côté nature et culture (3 semaines en août)](https://lesglobeblogueurs.com/visiter-majorque-cote-nature-et-culture/).",
+            "[Une semaine à Majorque : plusieurs roadtrips, avec énormément de détails et de photos](https://zigzagvoyages.fr/une-semaine-majorque-itineraire/).",
+            "[Roadtrip détaillé avec de super cartes](http://larouteadeux.fr/index.php/2020/05/22/majorque-itineraire-budget/).",
+            "[Autre roadtrip avec belles photos](https://www.la-poze-travel.com/majorque-itineraire-1-semaine-roadtrip-baleares-espagne/)."
+          ]
+        }
+      ]
+    }
+  ],
+  "start": "2024-08-11",
+  "done": true,
+  "season": "Août / Septembre",
+  "kind": "short"
+}

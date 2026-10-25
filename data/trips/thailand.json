@@ -1055,6 +1055,14 @@
         {
           "name": "Bangkok",
           "wiki": "Bangkok"
+        },
+        {
+          "name": "Aéroport de Bangkok-Suvarnabhumi",
+          "coords": [
+            13.69,
+            100.7501
+          ],
+          "culture": "Principal aéroport international de Bangkok, point de départ et de retour du voyage."
         }
       ],
       "stay": null,

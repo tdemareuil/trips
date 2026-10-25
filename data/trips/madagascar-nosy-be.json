@@ -539,6 +539,14 @@
             -13.312,
             48.314
           ]
+        },
+        {
+          "name": "Aéroport d'Antananarivo-Ivato",
+          "coords": [
+            -18.7969,
+            47.4788
+          ],
+          "culture": "Principal aéroport international de Madagascar, au nord de la capitale."
         }
       ],
       "stay": null,

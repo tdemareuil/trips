@@ -228,6 +228,14 @@
         {
           "name": "Marrakech",
           "wiki": "Marrakesh"
+        },
+        {
+          "name": "Aéroport de Marrakech-Ménara",
+          "coords": [
+            31.6069,
+            -8.0363
+          ],
+          "culture": "Aéroport d'arrivée et de départ du circuit, à quelques kilomètres du centre de Marrakech."
         }
       ],
       "stay": null,

@@ -1,7 +1,7 @@
 {
   "id": "maroc-atlantique",
   "title": "Maroc : côte atlantique",
-  "subtitle": "Quatre jours de surf et de randonnée chamelière entre Essaouira, Imsouane et Tafedna",
+  "subtitle": "Quatre jours de surf et de randonnée entre Essaouira, Imsouane et Tafedna",
   "travelers": [
     "Entre amis"
   ],
@@ -239,6 +239,14 @@
         {
           "name": "Marrakech",
           "wiki": "Marrakesh"
+        },
+        {
+          "name": "Aéroport de Marrakech-Ménara",
+          "coords": [
+            31.6069,
+            -8.0363
+          ],
+          "culture": "Aéroport d'arrivée et de départ du circuit, à quelques kilomètres du centre de Marrakech."
         }
       ],
       "stay": null,

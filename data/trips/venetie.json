@@ -5,7 +5,7 @@
   "travelers": [
     "En couple"
   ],
-  "cover": "Veneto",
+  "cover": "File:Villa Barbaro panoramica fronte Marcok.jpg",
   "days": [
     {
       "n": 1,
@@ -441,6 +441,14 @@
           ],
           "culture": "Restaurant où le tiramisu aurait été inventé.",
           "photo": "File:Nicolamisù - IMG 1762 (41633752255).jpg"
+        },
+        {
+          "name": "Aéroport de Venise Marco Polo",
+          "coords": [
+            45.5053,
+            12.3519
+          ],
+          "culture": "Aéroport de Venise, sur la terre ferme, à environ 30 minutes de Trévise."
         }
       ],
       "stay": null,

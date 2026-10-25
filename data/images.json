@@ -5954,5 +5954,591 @@
   "page": "",
   "artist": "Photo personnelle",
   "license": "tous droits réservés"
+ },
+ "Alghero": {
+  "lat": 40.56,
+  "lon": 8.315,
+  "extract": "Alghero est une ville italienne d'environ 44 000 habitants, située dans la province de Sassari en Sardaigne, sur la côte nord-occidentale.",
+  "article": "https://fr.wikipedia.org/wiki/Alghero"
+ },
+ "Amalfi": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Amalfi_sea_view_Italy.JPG/1920px-Amalfi_sea_view_Italy.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Amalfi_sea_view_Italy.JPG",
+  "artist": "No machine-readable author provided. Sudodana2048 assumed (based on copyright claims).",
+  "license": "CC BY-SA 3.0",
+  "lat": 40.63367,
+  "lon": 14.60262,
+  "extract": "Amalfi est une commune dans la province de Salerne dans la région Campanie en Italie. La côte amalfitaine a été inscrite en 1997 sur la liste du patrimoine mondial de l’UNESCO. Amalfi fut un des principaux ports d'Europe du IXe au XIIe siècle.",
+  "article": "https://fr.wikipedia.org/wiki/Amalfi_(Italie)"
+ },
+ "Amalfi Coast": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg/1920px-Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Amalfi_Coast_(Italy,_October_2020)_-_75_(50558355441).jpg",
+  "artist": "Bruno Rijsman",
+  "license": "CC BY-SA 2.0",
+  "lat": 40.65,
+  "lon": 14.6,
+  "extract": "La côte amalfitaine en Italie, se trouve dans la province de Salerne et est immédiatement voisine de la péninsule de Sorrente qui n'en fait pas partie.",
+  "article": "https://fr.wikipedia.org/wiki/C%C3%B4te_amalfitaine"
+ },
+ "Anacapri": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Campania_Capri2_tango7174.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Campania_Capri2_tango7174.jpg",
+  "artist": "Tango7174",
+  "license": "CC BY-SA 4.0",
+  "lat": 40.55,
+  "lon": 14.21667,
+  "extract": "Anacapri est une commune de la ville métropolitaine de Naples dans la région Campanie en Italie, située sur l'île de Capri, dont elle constitue l'une des deux entités administratives avec celle de Capri.",
+  "article": "https://fr.wikipedia.org/wiki/Anacapri"
+ },
+ "Archipelago of La Maddalena": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/La_Maddalena_Archipel_Aerial_view.jpg/1920px-La_Maddalena_Archipel_Aerial_view.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:La_Maddalena_Archipel_Aerial_view.jpg",
+  "artist": "",
+  "license": "CC BY-SA 3.0",
+  "lat": 41.2203,
+  "lon": 9.38944,
+  "extract": "L'archipel de La Maddalena est un groupe d'îles situé au nord-est de la Sardaigne, au large de la Costa Smeralda.",
+  "article": "https://fr.wikipedia.org/wiki/Archipel_de_La_Maddalena"
+ },
+ "Atrani": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Atrani.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Atrani.JPG",
+  "artist": "Donar Reiskoffer",
+  "license": "CC BY 3.0",
+  "extract": "Atrani est une commune italienne de la province de Salerne, dans la région de Campanie. En 2019, elle compte 841 habitants.",
+  "article": "https://fr.wikipedia.org/wiki/Atrani"
+ },
+ "Banyalbufar": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Banyalbufar.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Banyalbufar.jpg",
+  "artist": "Antoni Sureda",
+  "license": "CC BY-SA 3.0",
+  "lat": 39.68778,
+  "lon": 2.51667,
+  "extract": "Banyalbufar, en catalan et officiellement, est une commune d'Espagne de l'île de Majorque dans la communauté autonome des Îles Baléares. Elle est située à l'ouest de l'île, sur la côte, elle fait partie de la comarque de la Serra de Tramuntana.",
+  "article": "https://fr.wikipedia.org/wiki/Banyalbufar"
+ },
+ "Bellver Castle": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Castillo_de_Bellver.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Castillo_de_Bellver.jpg",
+  "artist": "Poniol60",
+  "license": "Public domain",
+  "lat": 39.56375,
+  "lon": 2.61934,
+  "extract": "Le château de Bellver date du XIVe siècle. Il est localisé en Espagne, dans l’île de Majorque, à trois kilomètres du centre historique de Palma, sur une colline recouverte de pins, au Bosc de Bellver.",
+  "article": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Bellver"
+ },
+ "Binissalem": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Campanar_de_Binissalem.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Campanar_de_Binissalem.JPG",
+  "artist": "Chixoy",
+  "license": "CC BY-SA 3.0",
+  "lat": 39.68861,
+  "lon": 2.84222,
+  "extract": "Binissalem, en catalan et officiellement, est une commune d'Espagne de l'île de Majorque dans la communauté autonome des Îles Baléares. Elle est située au centre-ouest de l'île et fait partie de la comarque du Raiguer.",
+  "article": "https://fr.wikipedia.org/wiki/Binissalem"
+ },
+ "Bosa": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Bosa-2298388_960_720.jpg/1920px-Bosa-2298388_960_720.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bosa-2298388_960_720.jpg",
+  "artist": "Zsuzsanna Tóth",
+  "license": "CC0",
+  "extract": "Bosa est une commune italienne d'environ 8 100 habitants située dans la province d'Oristano ,dans la région Sardaigne.",
+  "article": "https://fr.wikipedia.org/wiki/Bosa"
+ },
+ "Cala Agulla": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Spain_mallorca_cala_agulla.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Spain_mallorca_cala_agulla.jpg",
+  "artist": "User WALLI1912 on de.wikipedia",
+  "license": "CC BY-SA 3.0",
+  "lat": 39.7225,
+  "lon": 3.4525
+ },
+ "Cala Coticcio": {},
+ "Cala Gonone": {
+  "lat": 40.2825,
+  "lon": 9.63194
+ },
+ "Cala Llombards": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Cala_llombards2.jpg/1920px-Cala_llombards2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cala_llombards2.jpg",
+  "artist": "diba",
+  "license": "CC BY-SA 3.0 de",
+  "lat": 39.31972,
+  "lon": 3.13417
+ },
+ "Cala Mesquida": {},
+ "Cala Pi": {},
+ "Can Picafort": {},
+ "Cap de Formentor": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Cap_Formentor_BW_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cap_Formentor_BW_2.jpg",
+  "artist": "",
+  "license": "CC BY-SA 3.0",
+  "lat": 39.94722,
+  "lon": 3.18083,
+  "extract": "Le cap de Formentor est le cap à l’extrémité nord-est de Majorque.",
+  "article": "https://fr.wikipedia.org/wiki/Cap_de_Formentor"
+ },
+ "Caprera": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Arcipelago_della_Maddalena%2C_Caprera_Cala_Napoletana_01.JPG/1920px-Arcipelago_della_Maddalena%2C_Caprera_Cala_Napoletana_01.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Arcipelago_della_Maddalena,_Caprera_Cala_Napoletana_01.JPG",
+  "artist": "Cannonau 72",
+  "license": "CC BY-SA 3.0",
+  "lat": 41.20722,
+  "lon": 9.46111,
+  "extract": "L'île de Caprera fait partie de l'archipel de La Maddalena, appartenant à la commune de La Maddalena, situé près de la côte nord-orientale de la Sardaigne. Son point culminant est le Monte Teialone qui atteint les 212 mètres au-dessus de la surface de la mer.",
+  "article": "https://fr.wikipedia.org/wiki/Caprera"
+ },
+ "Capri": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Capri_in_Cartolina_-_Vista_da_Termini_%28Massa_Lubrense%29.jpg/1920px-Capri_in_Cartolina_-_Vista_da_Termini_%28Massa_Lubrense%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Capri_in_Cartolina_-_Vista_da_Termini_(Massa_Lubrense).jpg",
+  "artist": "Mario Apuzzo",
+  "license": "CC BY-SA 4.0",
+  "lat": 40.55,
+  "lon": 14.23333,
+  "extract": "Capri est une île italienne de la mer Tyrrhénienne située dans la baie de Naples, en face de la péninsule de Sorrente. Pour sa beauté, elle est un lieu de villégiature à partir de l'époque romaine.",
+  "article": "https://fr.wikipedia.org/wiki/Capri"
+ },
+ "Castelsardo": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Castelsardo%2C_panorama_%2801%29.jpg/1920px-Castelsardo%2C_panorama_%2801%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Castelsardo,_panorama_(01).jpg",
+  "artist": "Gianni Careddu",
+  "license": "CC BY-SA 4.0",
+  "extract": "Castelsardo est une commune italienne de la province de Sassari, en Sardaigne.",
+  "article": "https://fr.wikipedia.org/wiki/Castelsardo"
+ },
+ "Deià": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Deia_%28part_of%29_majorca_spain_arp.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Deia_(part_of)_majorca_spain_arp.jpg",
+  "artist": "Photographed by Adrian Pingstone",
+  "license": "Public domain",
+  "lat": 39.75,
+  "lon": 2.65,
+  "extract": "Deià, en catalan et officiellement, est une commune d'Espagne de l'île de Majorque dans la communauté autonome des Îles Baléares. Elle est située à l'ouest de l'île sur la côte et fait partie de la comarque de la Serra de Tramuntana.",
+  "article": "https://fr.wikipedia.org/wiki/Dei%C3%A0"
+ },
+ "Faraglioni": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/GarganoBaiaFaraglioni.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:GarganoBaiaFaraglioni.jpg",
+  "artist": "MM",
+  "license": "Public domain"
+ },
+ "File:Festa da Flor 2019, Funchal, Madeira - IMG 20190503 184814.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Festa_da_Flor_2019%2C_Funchal%2C_Madeira_-_IMG_20190503_184814.jpg/1920px-Festa_da_Flor_2019%2C_Funchal%2C_Madeira_-_IMG_20190503_184814.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Festa_da_Flor_2019,_Funchal,_Madeira_-_IMG_20190503_184814.jpg",
+  "artist": "Paulo SP/ Wikimedia",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Sigiriya from Pidurangala 2023.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Sigiriya_from_Pidurangala_2023.jpg/1920px-Sigiriya_from_Pidurangala_2023.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sigiriya_from_Pidurangala_2023.jpg",
+  "artist": "Zarniwoop und Zarquon",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Villa Barbaro panoramica fronte Marcok.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Villa_Barbaro_panoramica_fronte_Marcok.jpg/1920px-Villa_Barbaro_panoramica_fronte_Marcok.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Villa_Barbaro_panoramica_fronte_Marcok.jpg",
+  "artist": "Marcok / it.wikipedia.org",
+  "license": "Public domain"
+ },
+ "Fiordo di Furore": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Fiordo_di_Furore.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Fiordo_di_Furore.JPG",
+  "artist": "Mess",
+  "license": "CC BY-SA 3.0",
+  "extract": "Furore est une commune italienne de la province de Salerne, dans la région Campanie.",
+  "article": "https://fr.wikipedia.org/wiki/Furore"
+ },
+ "Galtellì": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Resti_Castello_di_Pontes.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Resti_Castello_di_Pontes.jpg",
+  "artist": "Max.oppo",
+  "license": "CC BY-SA 3.0",
+  "lat": 40.38333,
+  "lon": 9.61667,
+  "extract": "Galtellì est une commune italienne de la province de Nuoro dans la région Sardaigne.",
+  "article": "https://fr.wikipedia.org/wiki/Galtell%C3%AC"
+ },
+ "Gardens of Augustus": {
+  "lat": 40.5475,
+  "lon": 14.24333
+ },
+ "Herculaneum": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Antigua_ciudad_de_Herculano%2C_Italia%2C_2023-03-27%2C_DD_135-138_PAN.jpg/1920px-Antigua_ciudad_de_Herculano%2C_Italia%2C_2023-03-27%2C_DD_135-138_PAN.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Antigua_ciudad_de_Herculano,_Italia,_2023-03-27,_DD_135-138_PAN.jpg",
+  "artist": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "lat": 40.806,
+  "lon": 14.3482,
+  "extract": "Herculanum était une ville romaine antique située dans la région italienne de Campanie, détruite par l'éruption du Vésuve en l'an 79 apr.",
+  "article": "https://fr.wikipedia.org/wiki/Herculanum"
+ },
+ "La Maddalena": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/La_Maddalena_-_Il_porto_%2802%29.JPG/1920px-La_Maddalena_-_Il_porto_%2802%29.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:La_Maddalena_-_Il_porto_(02).JPG",
+  "artist": "Gianni Careddu",
+  "license": "CC BY-SA 3.0",
+  "lat": 41.21528,
+  "lon": 9.40694,
+  "extract": "La Maddalena est une commune de la province de Gallura-Sardaigne Nord-Est en Sardaigne en Italie. La commune accueille le parc national de l'archipel de La Maddalena.",
+  "article": "https://fr.wikipedia.org/wiki/La_Maddalena"
+ },
+ "Mallorca": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Mallorca.svg/1920px-Flag_of_Mallorca.svg.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Mallorca.svg",
+  "artist": "Himasaram",
+  "license": "Public domain",
+  "lat": 39.61667,
+  "lon": 2.98333,
+  "extract": "Majorque est la plus grande des îles Baléares. Elle se situe en mer Méditerranée, au large de Valence et Barcelone. L'île compte 923 610 habitants. Sa capitale est Palma – les Majorquins l'appellent Ciutat.",
+  "article": "https://fr.wikipedia.org/wiki/Majorque"
+ },
+ "Minori": {},
+ "Mondragó Natural Park": {},
+ "Naples": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Napoli_-_Maschio_Angioino_-_202209302342_3.jpg/1920px-Napoli_-_Maschio_Angioino_-_202209302342_3.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Napoli_-_Maschio_Angioino_-_202209302342_3.jpg",
+  "artist": "Richard Nevell",
+  "license": "CC BY-SA 4.0",
+  "lat": 40.8358,
+  "lon": 14.2486,
+  "extract": "Naples est le chef-lieu de la région de Campanie et la troisième ville d'Italie par sa population, derrière Rome et Milan, avec 908 082 habitants en 2025.",
+  "article": "https://fr.wikipedia.org/wiki/Naples"
+ },
+ "Naples Airport": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/NAP_airport_logo.png",
+  "page": "https://commons.wikimedia.org/wiki/File:NAP_airport_logo.png",
+  "artist": "GESAC",
+  "license": "Public domain",
+  "lat": 40.88444,
+  "lon": 14.29083,
+  "extract": "L'aéroport international de Naples-Capodichino est situé à 6 km au nord de la ville de Naples et à Casoria. Créé en 1910, ce fut d'abord un aérodrome militaire.",
+  "article": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Naples-Capodichino"
+ },
+ "Nocelle": {},
+ "Olbia Costa Smeralda Airport": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Aeroporto_Olbia_Costa_Smeralda_Taxistand.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aeroporto_Olbia_Costa_Smeralda_Taxistand.jpg",
+  "artist": "",
+  "license": "CC BY-SA 3.0",
+  "lat": 40.88583,
+  "lon": 9.51694,
+  "extract": "L’aéroport d’Olbia est un aéroport situé à Olbia, en Sardaigne. Il est géré par la Geasar S.p.A. L’aéroport a accueilli 2 811 378 passagers en 2017.",
+  "article": "https://fr.wikipedia.org/wiki/A%C3%A9roport_d%27Olbia"
+ },
+ "Orosei": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Orosei_-_Panorama_%2802%29.JPG/1920px-Orosei_-_Panorama_%2802%29.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Orosei_-_Panorama_(02).JPG",
+  "artist": "Gianni Careddu",
+  "license": "CC BY-SA 3.0",
+  "lat": 40.38333,
+  "lon": 9.7,
+  "extract": "Orosei est une commune italienne de la province de Nuoro dans la région Sardaigne.",
+  "article": "https://fr.wikipedia.org/wiki/Orosei"
+ },
+ "Palau, Sardinia": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Palau_vista_panoramica.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Palau_vista_panoramica.jpg",
+  "artist": "Sardinianguy88",
+  "license": "CC BY-SA 3.0",
+  "extract": "Palau est une commune italienne de la province de Gallura-Sardaigne Nord-Est en Sardaigne.",
+  "article": "https://fr.wikipedia.org/wiki/Palau_(Italie)"
+ },
+ "Palma Cathedral": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kathedrale_von_Palma_II.jpg/1920px-Kathedrale_von_Palma_II.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kathedrale_von_Palma_II.jpg",
+  "artist": "Thomas Wolf, www.foto-tw.de",
+  "license": "CC BY-SA 3.0 de",
+  "lat": 39.56738,
+  "lon": 2.64814,
+  "extract": "La cathédrale de Majorque, localement appelée Catedral-Basílica de Santa María de Palma de Mallorca ou Catedral de Mallorca est le plus grand édifice religieux de l'île de Majorque et le deuxième d'Espagne par sa longueur après la cathédrale de Séville.",
+  "article": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_de_Palma_de_Majorque"
+ },
+ "Palma de Mallorca": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Kathedrale_von_Palma.jpg/1920px-Kathedrale_von_Palma.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kathedrale_von_Palma.jpg",
+  "artist": "Thomas Wolf, www.foto-tw.de",
+  "license": "CC BY-SA 3.0 de",
+  "lat": 39.56667,
+  "lon": 2.65,
+  "extract": "Palma, anciennement Ciutat de Mallorca puis Palma de Majorque, est une commune espagnole. C'est la capitale de la communauté autonome des îles Baléares et la principale ville de l'île de Majorque. Elle constitue à elle seule l'une des comarques de l'île.",
+  "article": "https://fr.wikipedia.org/wiki/Palma"
+ },
+ "Palma de Mallorca Airport": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Aeropuerto_PMI.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aeropuerto_PMI.jpg",
+  "artist": "No machine-readable author provided. AleXorz assumed (based on copyright claims).",
+  "license": "CC BY-SA 3.0",
+  "lat": 39.55167,
+  "lon": 2.73889,
+  "extract": "L'aéroport de Palma - Majorque est l'aéroport desservant l'île de Majorque aux Baléares. Il est aussi connu sous le nom de aéroport de Son Sant Joan.",
+  "article": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Palma_de_Majorque"
+ },
+ "Path of the Gods": {},
+ "Pollença": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Pollen%C3%A7a_from_near_the_top_of_the_Valvari_Steps.jpg/1920px-Pollen%C3%A7a_from_near_the_top_of_the_Valvari_Steps.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pollen%C3%A7a_from_near_the_top_of_the_Valvari_Steps.jpg",
+  "artist": "Sam Wilson  (taken with Panasonic Lumix DMC-FT1)",
+  "license": "CC BY-SA 2.0",
+  "extract": "Pollença, en catalan et officiellement, est une commune d'Espagne de l'île de Majorque dans la communauté autonome des Îles Baléares. Elle est située à l'extrême nord-est de l'île et fait partie de la comarque de la Serra de Tramuntana.",
+  "article": "https://fr.wikipedia.org/wiki/Pollen%C3%A7a"
+ },
+ "Port d'Alcúdia": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Localitzaci%C3%B3_d%27Alc%C3%BAdia_respecte_de_Mallorca.svg/1920px-Localitzaci%C3%B3_d%27Alc%C3%BAdia_respecte_de_Mallorca.svg.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Localitzaci%C3%B3_d%27Alc%C3%BAdia_respecte_de_Mallorca.svg",
+  "artist": "",
+  "license": "CC BY-SA 2.5",
+  "lat": 39.84182,
+  "lon": 3.13291,
+  "extract": "Le port d'Alcúdia est un port et une localité espagnole et un port situés dans la commune d'Alcúdia, à Majorque, dans les Îles Baléares.",
+  "article": "https://fr.wikipedia.org/wiki/Port_d%27Alc%C3%BAdia"
+ },
+ "Port de Pollença": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Porto-pollensa.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Porto-pollensa.jpg",
+  "artist": "No machine-readable author provided. Ryanl~commonswiki assumed (based on copyright claims).",
+  "license": "CC BY 2.5",
+  "lat": 39.9075,
+  "lon": 3.08139
+ },
+ "Positano": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Positano_Sunset.JPG/1920px-Positano_Sunset.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Positano_Sunset.JPG",
+  "artist": "JeCCo",
+  "license": "CC BY 4.0",
+  "lat": 40.63333,
+  "lon": 14.48333,
+  "extract": "Positano est une commune de la province de Salerne dans la Campanie en Italie, station balnéaire réputée de la côte amalfitaine. Selon une légende, Neptune, le dieu de la mer, aurait fondé Positano, par amour pour une nymphe.",
+  "article": "https://fr.wikipedia.org/wiki/Positano"
+ },
+ "Praiano": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Praiano_Vettica_Maggiore.jpg/1920px-Praiano_Vettica_Maggiore.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Praiano_Vettica_Maggiore.jpg",
+  "artist": "Jensens",
+  "license": "Public domain",
+  "extract": "Praiano est une commune italienne de la province de Salerne, dans la région Campanie, sur la côte amalfitaine en bordure du golfe de Salerne.",
+  "article": "https://fr.wikipedia.org/wiki/Praiano"
+ },
+ "Ravello": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ravello-coastline.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ravello-coastline.jpg",
+  "artist": "Matt c j486 at English Wikipedia",
+  "license": "CC BY-SA 3.0",
+  "extract": "Ravello est une commune italienne située dans la province de Salerne dans la région de Campanie, en Italie méridionale. En 2019, elle compte 2 465 habitants. Au titre de la côte amalfitaine, elle est inscrite au patrimoine mondial de l'UNESCO depuis 1997.",
+  "article": "https://fr.wikipedia.org/wiki/Ravello"
+ },
+ "Royal Palace of La Almudaina": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Almudaina_catedral.jpg/1920px-Almudaina_catedral.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Almudaina_catedral.jpg",
+  "artist": "Antoni I. Alomar Canyelles",
+  "license": "CC BY-SA 3.0",
+  "lat": 39.5675,
+  "lon": 2.64722,
+  "extract": "Le palais de l’Almudaina est un palais et une des résidences du roi d'Espagne situé à Palma à côté de La Seu.",
+  "article": "https://fr.wikipedia.org/wiki/Palais_royal_de_l%27Almudaina"
+ },
+ "Sant Elm": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/St_Elm_Fu%C3%9Fg%C3%A4ngerzone.JPG/1920px-St_Elm_Fu%C3%9Fg%C3%A4ngerzone.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:St_Elm_Fu%C3%9Fg%C3%A4ngerzone.JPG",
+  "artist": "Wusel007",
+  "license": "CC BY-SA 3.0",
+  "lat": 39.58167,
+  "lon": 2.35028,
+  "extract": "Sant Elm, en catalan est une localité de la commune d'Andratx sur l'île de Majorque dans les îles Baléares.",
+  "article": "https://fr.wikipedia.org/wiki/Sant_Elm"
+ },
+ "Selva, Majorca": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Localitzaci%C3%B3_de_Selva_respecte_de_Mallorca.svg/1920px-Localitzaci%C3%B3_de_Selva_respecte_de_Mallorca.svg.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Localitzaci%C3%B3_de_Selva_respecte_de_Mallorca.svg",
+  "artist": "",
+  "license": "CC BY-SA 2.5",
+  "lat": 39.755,
+  "lon": 2.9008,
+  "extract": "Selva est une commune de l'île de Majorque dans la communauté autonome des Îles Baléares, en Espagne. Elle est située au centre-ouest de l'île et fait partie de la comarque du Raiguer.",
+  "article": "https://fr.wikipedia.org/wiki/Selva_(Majorque)"
+ },
+ "Sorrento": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/View_of_Sorrento.jpg/1920px-View_of_Sorrento.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:View_of_Sorrento.jpg",
+  "artist": "Kim Traynor",
+  "license": "CC BY-SA 3.0",
+  "extract": "Sorrente est une commune italienne de la province de Naples, en Campanie.",
+  "article": "https://fr.wikipedia.org/wiki/Sorrente"
+ },
+ "Sóller": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Vall_de_Soller.jpg/1920px-Vall_de_Soller.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Vall_de_Soller.jpg",
+  "artist": "Top Cat 14",
+  "license": "Public domain",
+  "lat": 39.76755,
+  "lon": 2.71399,
+  "extract": "Sóller est une commune située au nord-ouest de l'île de Majorque, au pied la chaîne montagneuse de la Serra de Tramuntana. Elle dispose d'un port sur la mer Méditerranée. L'île de Majorque fait partie de la communauté autonome des Îles Baléares en Espagne.",
+  "article": "https://fr.wikipedia.org/wiki/S%C3%B3ller"
+ },
+ "Tavolara": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Tavolara_Island_map.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Tavolara_Island_map.png",
+  "artist": "No machine-readable author provided. NormanEinstein assumed (based on copyright claims).",
+  "license": "CC BY-SA 3.0",
+  "lat": 40.90499,
+  "lon": 9.71369,
+  "extract": "Tavolara est une île de 5,9 km2 située au nord-est de la Sardaigne en Italie. Elle fait partie de la municipalité d'Olbia dans la sous-région de Gallura.",
+  "article": "https://fr.wikipedia.org/wiki/Tavolara"
+ },
+ "Valldemossa": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Valldemossa_2003.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Valldemossa_2003.jpg",
+  "artist": "No machine-readable author provided. Kork~commonswiki assumed (based on copyright claims).",
+  "license": "Public domain",
+  "lat": 39.71168,
+  "lon": 2.62258,
+  "extract": "Valldemossa, en catalan et officiellement, est une commune d'Espagne de l'île de Majorque dans la communauté autonome des Îles Baléares. Elle est située à l'ouest de l'île et fait partie de la comarque de la Serra de Tramuntana.",
+  "article": "https://fr.wikipedia.org/wiki/Valldemossa"
+ },
+ "Villa Cimbrone": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Villa_Cimbrone_Ravello_II.jpg/1920px-Villa_Cimbrone_Ravello_II.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Villa_Cimbrone_Ravello_II.jpg",
+  "artist": "Jensens",
+  "license": "Public domain",
+  "lat": 40.64443,
+  "lon": 14.61107,
+  "extract": "La Villa Cimbrone est une villa historique située à Ravello, sur la Côte amalfitaine au sud de l'Italie. Elle remonte au moins au XIe siècle. Elle est célèbre par son belvédère panoramique, la Terrazza dell'Infinito.",
+  "article": "https://fr.wikipedia.org/wiki/Villa_Cimbrone"
+ },
+ "Villa Rufolo": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Ravello_Villa_Rufolo.JPG/1920px-Ravello_Villa_Rufolo.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Ravello_Villa_Rufolo.JPG",
+  "artist": "Istvánka",
+  "license": "CC BY-SA 3.0",
+  "lat": 40.6442,
+  "lon": 14.6108
+ },
+ "File:Alghero old town - panoramio.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Alghero_old_town_-_panoramio.jpg/1920px-Alghero_old_town_-_panoramio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Alghero_old_town_-_panoramio.jpg",
+  "artist": "trolvag",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Cala Fuili 1658-1661mod.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Cala_Fuili_1658-1661mod.jpg/1920px-Cala_Fuili_1658-1661mod.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cala_Fuili_1658-1661mod.jpg",
+  "artist": "JYB Devot",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Cala Mesquida beach in Mallorca, Spain (47988460597).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Cala_Mesquida_beach_in_Mallorca%2C_Spain_%2847988460597%29.jpg/1920px-Cala_Mesquida_beach_in_Mallorca%2C_Spain_%2847988460597%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cala_Mesquida_beach_in_Mallorca,_Spain_(47988460597).jpg",
+  "artist": "dronepicr",
+  "license": "CC BY 2.0"
+ },
+ "File:Cala Mondragó 07.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Cala_Mondrag%C3%B3_07.jpg/1920px-Cala_Mondrag%C3%B3_07.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cala_Mondrag%C3%B3_07.jpg",
+  "artist": "Xxlstier",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Cala l'Almunia in February 02.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cala_l%27Almunia_in_February_02.jpg/1920px-Cala_l%27Almunia_in_February_02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cala_l%27Almunia_in_February_02.jpg",
+  "artist": "Kritzolina",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Capri-marina piccola.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Capri-marina_piccola.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Capri-marina_piccola.jpg",
+  "artist": "Bicloch",
+  "license": "CC BY 3.0"
+ },
+ "File:Dorgali - Cala Gonone - Panorama (05).JPG": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Dorgali_-_Cala_Gonone_-_Panorama_%2805%29.JPG/1920px-Dorgali_-_Cala_Gonone_-_Panorama_%2805%29.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Dorgali_-_Cala_Gonone_-_Panorama_(05).JPG",
+  "artist": "Gianni Careddu",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Ermita de Betlem April 2019 02.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Ermita_de_Betlem_April_2019_02.jpg/1920px-Ermita_de_Betlem_April_2019_02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ermita_de_Betlem_April_2019_02.jpg",
+  "artist": "Unukorno",
+  "license": "CC BY 4.0"
+ },
+ "File:Forte di Punta Tegge.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Forte_di_Punta_Tegge.jpg/1920px-Forte_di_Punta_Tegge.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Forte_di_Punta_Tegge.jpg",
+  "artist": "Martina Miduri",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Giardini di Augusto 001.JPG": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Giardini_di_Augusto_001.JPG/1920px-Giardini_di_Augusto_001.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Giardini_di_Augusto_001.JPG",
+  "artist": "Mentnafunangann",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:La Maddalena 4 - Bassa Trinita.JPG": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/La_Maddalena_4_-_Bassa_Trinita.JPG/1920px-La_Maddalena_4_-_Bassa_Trinita.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:La_Maddalena_4_-_Bassa_Trinita.JPG",
+  "artist": "Paolo De Carolis",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Napoli staz Garibaldi.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Napoli_staz_Garibaldi.jpg/1920px-Napoli_staz_Garibaldi.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Napoli_staz_Garibaldi.jpg",
+  "artist": "Richard, enjoy my life!",
+  "license": "CC BY-SA 2.0"
+ },
+ "File:Nocelle.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Nocelle.jpg/1920px-Nocelle.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Nocelle.jpg",
+  "artist": "Ugeorge",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Platja de Cala Pi 2.JPG": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Platja_de_Cala_Pi_2.JPG/1920px-Platja_de_Cala_Pi_2.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Platja_de_Cala_Pi_2.JPG",
+  "artist": "Chixoy",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Pollença - Ma-10 Valle de Son March 03 ies.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Pollen%C3%A7a_-_Ma-10_Valle_de_Son_March_03_ies.jpg/1920px-Pollen%C3%A7a_-_Ma-10_Valle_de_Son_March_03_ies.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pollen%C3%A7a_-_Ma-10_Valle_de_Son_March_03_ies.jpg",
+  "artist": "Frank Vincentz",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Punta Sardegna - panoramio.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Punta_Sardegna_-_panoramio.jpg/1920px-Punta_Sardegna_-_panoramio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Punta_Sardegna_-_panoramio.jpg",
+  "artist": "Николай Максимович",
+  "license": "CC BY 3.0"
+ },
+ "File:Rena Majore - panoramio.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Rena_Majore_-_panoramio.jpg/1920px-Rena_Majore_-_panoramio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rena_Majore_-_panoramio.jpg",
+  "artist": "Cristian85",
+  "license": "CC BY 3.0"
+ },
+ "File:Sentiero degli Dei 28 Campania.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Sentiero_degli_Dei_28_Campania.jpg/1920px-Sentiero_degli_Dei_28_Campania.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sentiero_degli_Dei_28_Campania.jpg",
+  "artist": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here are not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Spiaggia di Li Mindi di Badesi.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Spiaggia_di_Li_Mindi_di_Badesi.jpg/1920px-Spiaggia_di_Li_Mindi_di_Badesi.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Spiaggia_di_Li_Mindi_di_Badesi.jpg",
+  "artist": "Basilicofresco",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Spiaggia di Porto Ferro, Ottobre 2017.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Spiaggia_di_Porto_Ferro%2C_Ottobre_2017.jpg/1920px-Spiaggia_di_Porto_Ferro%2C_Ottobre_2017.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Spiaggia_di_Porto_Ferro,_Ottobre_2017.jpg",
+  "artist": "Ugeorge",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:View of the bay at Calo des Moro, Mallorca (Spain) (23899506181).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/View_of_the_bay_at_Calo_des_Moro%2C_Mallorca_%28Spain%29_%2823899506181%29.jpg/1920px-View_of_the_bay_at_Calo_des_Moro%2C_Mallorca_%28Spain%29_%2823899506181%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:View_of_the_bay_at_Calo_des_Moro,_Mallorca_(Spain)_(23899506181).jpg",
+  "artist": "Tommie Hansen from Stockholm, Sweden",
+  "license": "CC BY 2.0"
  }
 }

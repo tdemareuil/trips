@@ -972,6 +972,14 @@
         {
           "name": "Salta",
           "wiki": "Salta"
+        },
+        {
+          "name": "Aéroport de Lima-Jorge Chávez",
+          "coords": [
+            -12.0219,
+            -77.1143
+          ],
+          "culture": "Aéroport international de Lima, où l'on rentre en vol depuis Salta."
         }
       ],
       "stay": null,
