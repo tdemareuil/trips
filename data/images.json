@@ -4898,5 +4898,400 @@
   "page": "https://commons.wikimedia.org/wiki/File:%C3%81rbol_de_Piedra,_Desierto_de_Siloli,_Bolivia,_2016-02-03,_DD_03.JPG",
   "artist": "Diego Delso",
   "license": "CC BY-SA 4.0"
+ },
+ "Anza-Borrego Desert State Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Fontspoint02262006.JPG/1920px-Fontspoint02262006.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Fontspoint02262006.JPG",
+  "artist": "No machine-readable author provided. Miskatonic assumed (based on copyright claims).",
+  "license": "CC BY 2.5",
+  "lat": 33.25917,
+  "lon": -116.39917,
+  "extract": "Le parc d'État du désert d'Anza-Borrego est une réserve naturelle située à l’ouest des États-Unis, dans l'État de Californie. Il s'agit du plus grand parc d'État de Californie, et du second parc d'Etat américain en dehors de l’Alaska, couvrant 240 000 ha.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_d%27%C3%89tat_du_d%C3%A9sert_d%27Anza-Borrego"
+ },
+ "Balboa Park (San Diego)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/El_Prado_Balboa_Park_2.jpg/1920px-El_Prado_Balboa_Park_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:El_Prado_Balboa_Park_2.jpg",
+  "artist": "Rhododendrites",
+  "license": "CC BY-SA 4.0",
+  "lat": 32.73139,
+  "lon": -117.14528,
+  "extract": "Le parc Balboa est un parc public de 4,9 km2 situé à San Diego, en Californie, aux États-Unis. Le parc est nommé en l'honneur de l'explorateur espagnol Vasco Núñez de Balboa.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_Balboa"
+ },
+ "Bora Bora": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Bora_Bora_ISS006.jpg/1920px-Bora_Bora_ISS006.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bora_Bora_ISS006.jpg",
+  "artist": "NASA Johnson Space Center",
+  "license": "Public domain",
+  "lat": -16.501,
+  "lon": -151.74,
+  "extract": "Bora-Bora est une des îles Sous-le-Vent de l'archipel de la Société en Polynésie française. Elle est située à 255 km à l'ouest-nord-ouest de la capitale Papeete. On appelle aussi l'île Mai te pora.",
+  "article": "https://fr.wikipedia.org/wiki/Bora-Bora"
+ },
+ "Borrego Badlands": {},
+ "Borrego Palm Canyon": {},
+ "Cabrillo National Monument": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Cabrillo_National_Monument_and_Lighthouse.jpg/1920px-Cabrillo_National_Monument_and_Lighthouse.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cabrillo_National_Monument_and_Lighthouse.jpg",
+  "artist": "Blervis",
+  "license": "CC0",
+  "lat": 32.67306,
+  "lon": -117.23861,
+  "extract": "Le monument national Cabrillo est un monument national américain situé en Californie. Le 28 septembre 1542 Juan Rodríguez Cabrillo débarqua dans la baie de San Diego.",
+  "article": "https://fr.wikipedia.org/wiki/Cabrillo_National_Monument"
+ },
+ "California State Route 1": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/California_1.svg/1920px-California_1.svg.png",
+  "page": "https://commons.wikimedia.org/wiki/File:California_1.svg",
+  "artist": "SPUI",
+  "license": "Public domain",
+  "extract": "La California State Route 1, aussi appelée Highway 1, est une route de l'État de Californie qui suit la côte pacifique. Elle fait partie des All-American Roads.",
+  "article": "https://fr.wikipedia.org/wiki/California_State_Route_1"
+ },
+ "Cholla Cactus Garden": {},
+ "Coronado, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Hotel_del_Coronado.JPG/1920px-Hotel_del_Coronado.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Hotel_del_Coronado.JPG",
+  "artist": "Djh57",
+  "license": "CC BY 3.0",
+  "lat": 32.67806,
+  "lon": -117.1725,
+  "extract": "Coronado est une ville et station balnéaire du comté de San Diego en Californie. Elle est proche de San Diego et de la baie de San Diego.",
+  "article": "https://fr.wikipedia.org/wiki/Coronado_(Californie)"
+ },
+ "Faa'a International Airport": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/A%C3%A9roport_international_Tahiti_Faa%27a.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:A%C3%A9roport_international_Tahiti_Faa%27a.JPG",
+  "artist": "FRED at French Wikipedia",
+  "license": "CC BY-SA 3.0",
+  "lat": -17.55667,
+  "lon": -149.61139,
+  "extract": "L'aéroport international de Tahiti-Faaa, en tahitien Fa'a'ā est situé à Faaa sur l'île de Tahiti en Polynésie française.",
+  "article": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_de_Tahiti-Faaa"
+ },
+ "Galleta Meadows": {},
+ "Gaslamp Quarter, San Diego": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Gaslamp_Quarter_01.jpg/1920px-Gaslamp_Quarter_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gaslamp_Quarter_01.jpg",
+  "artist": "Bernard Gagnon",
+  "license": "CC BY-SA 3.0",
+  "lat": 32.71167,
+  "lon": -117.15917,
+  "extract": "Le Gaslamp Quarter est le cœur historique de la ville de San Diego, en Californie, États-Unis. C'est un quartier du centre-ville de San Diego et est le centre de la vie nocturne de la ville. Le quartier abrite de nombreux événements et festivals.",
+  "article": "https://fr.wikipedia.org/wiki/Gaslamp_Quarter"
+ },
+ "Getty Villa": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/060807-002-GettyVilla001.jpg/1920px-060807-002-GettyVilla001.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:060807-002-GettyVilla001.jpg",
+  "artist": "Bobak Ha'Eri",
+  "license": "CC BY 3.0",
+  "lat": 34.045,
+  "lon": -118.565,
+  "extract": "La Villa Getty est un musée américain consacré aux collections d'antiquités, fondé en 1974 par le magnat de la finance et du pétrole J. Paul Getty.",
+  "article": "https://fr.wikipedia.org/wiki/Villa_Getty"
+ },
+ "Hidden Valley (Joshua Tree National Park)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Hidden_Valley_Panorama.jpg/1920px-Hidden_Valley_Panorama.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hidden_Valley_Panorama.jpg",
+  "artist": "Er-nay",
+  "license": "CC BY-SA 4.0",
+  "lat": 34.01385,
+  "lon": -116.17051
+ },
+ "Huahine": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/HuahineISS006-E-38879.PNG",
+  "page": "https://commons.wikimedia.org/wiki/File:HuahineISS006-E-38879.PNG",
+  "artist": "NASA",
+  "license": "Public domain",
+  "lat": -16.73,
+  "lon": -151,
+  "extract": "Huahine, ou « l'Authentique », est une île de Polynésie française qui fait partie des îles Sous-le-Vent, dans l'archipel de la Société.",
+  "article": "https://fr.wikipedia.org/wiki/Huahine"
+ },
+ "Keys View": {},
+ "La Jolla Cove": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/LaJolla-2_%2845716612345%29.jpg/1920px-LaJolla-2_%2845716612345%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:LaJolla-2_(45716612345).jpg",
+  "artist": "Ajay Suresh from New York, NY, USA",
+  "license": "CC BY 2.0",
+  "lat": 32.85056,
+  "lon": -117.27222,
+  "extract": "La Jolla Cove est une petite crique et plage de La Jolla, au nord de San Diego, en Californie. Cette baie entourée par des falaises est très riche en vie marine et est donc un lieu de baignade populaire pour les nageurs et les plongeurs.",
+  "article": "https://fr.wikipedia.org/wiki/La_Jolla_Cove"
+ },
+ "Malibu Pier": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pier_east.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Pier_east.png",
+  "artist": "Caterpillar84",
+  "license": "CC BY-SA 4.0",
+  "lat": 34.036,
+  "lon": -118.6758
+ },
+ "Matira Beach": {},
+ "Moorea": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/DSC00042_Polyn%C3%A9sia_Moor%C3%A9a_Island_Motu_Mo%C3%A9a_Lagoon_and_transportation_Boat_%288076082190%29.jpg/1920px-DSC00042_Polyn%C3%A9sia_Moor%C3%A9a_Island_Motu_Mo%C3%A9a_Lagoon_and_transportation_Boat_%288076082190%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:DSC00042_Polyn%C3%A9sia_Moor%C3%A9a_Island_Motu_Mo%C3%A9a_Lagoon_and_transportation_Boat_(8076082190).jpg",
+  "artist": "DANIEL JULIE from Paris, France",
+  "license": "CC BY 2.0",
+  "lat": -17.535,
+  "lon": -149.835,
+  "extract": "Moorea — Moʻoreʻa ou Mooreà, prononcé : /mo.ʔo.re.ʔa/ — est une île de Polynésie française qui fait partie des îles du Vent dans l'archipel de la Société. Située face à Tahiti, elle est le chef-lieu de la commune de Moorea-Maiao.",
+  "article": "https://fr.wikipedia.org/wiki/Moorea"
+ },
+ "Mount Otemanu": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Borabora-2.jpg/1920px-Borabora-2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Borabora-2.jpg",
+  "artist": "Borabora.jpg: User:Taka-0905\nderivative work: Alvaro qc (talk)",
+  "license": "CC BY-SA 3.0",
+  "lat": -16.5,
+  "lon": -151.73,
+  "extract": "Le mont ʻOtemanu est une montagne de France, point culminant de Bora-Bora en Polynésie française avec 727 mètres d'altitude.",
+  "article": "https://fr.wikipedia.org/wiki/Mont_%CA%BBOtemanu"
+ },
+ "Museum of Tahiti and the Islands": {},
+ "Old Town, San Diego": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Old_town%2C_San_Diego%2C_CA%2C_USA.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Old_town,_San_Diego,_CA,_USA.jpg",
+  "artist": "Db9023",
+  "license": "CC BY-SA 3.0",
+  "lat": 32.75762,
+  "lon": -117.19559,
+  "extract": "Old Town est un quartier de San Diego en Californie. Le parc historique d'État d'Old Town San Diego s'y trouve.",
+  "article": "https://fr.wikipedia.org/wiki/Old_Town_(San_Diego)"
+ },
+ "Opunohu Bay": {
+  "lat": -17.504,
+  "lon": -149.856,
+  "extract": "La baie d'Ōpūnohu est, avec la baie de Cook, l'une des principales baies de Moorea, une île de Polynésie française. Elle est située dans le nord de l'île.",
+  "article": "https://fr.wikipedia.org/wiki/Baie_d%27%C5%8Cp%C5%ABnohu"
+ },
+ "Papeete": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Papeete_-_Marina_Taina.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Papeete_-_Marina_Taina.JPG",
+  "artist": "Remi Jouan",
+  "license": "CC BY-SA 3.0",
+  "lat": -17.535,
+  "lon": -149.5696,
+  "extract": "Papeete est une commune et le chef-lieu de la Polynésie française, situé sur l'île de Tahiti. La conurbation Papeete-Faaa est la deuxième ville francophone d'Océanie après Nouméa.",
+  "article": "https://fr.wikipedia.org/wiki/Papeete"
+ },
+ "Papeete Municipal Market": {},
+ "Point Dume": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Point_Dume_Climbing.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Point_Dume_Climbing.JPG",
+  "artist": "OMCV",
+  "license": "Public domain",
+  "lat": 34.00087,
+  "lon": -118.80684
+ },
+ "Point Venus": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Tahiti%2C_French_Polynesia_-_NASA_Earth_Observatory.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tahiti,_French_Polynesia_-_NASA_Earth_Observatory.jpg",
+  "artist": "NASA's Earth Observatory",
+  "license": "CC BY 2.0",
+  "lat": -17.49556,
+  "lon": -149.49444,
+  "extract": "La pointe Vénus est un cap de Tahiti, en Polynésie française. Son nom lui a été donné à la suite du débarquement de James Cook en prévision de l'observation du transit de Vénus de 1769.",
+  "article": "https://fr.wikipedia.org/wiki/Pointe_V%C3%A9nus"
+ },
+ "Rangiroa": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Rangiroa_STS51I-31-25.jpg/1920px-Rangiroa_STS51I-31-25.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Rangiroa_STS51I-31-25.jpg",
+  "artist": "NASA",
+  "license": "Public domain",
+  "lat": -15.12528,
+  "lon": -147.64528,
+  "extract": "Rangiroa est un atoll de l'archipel des Tuamotu en Polynésie française faisant partie du groupement des Îles Palliser. Les premiers explorateurs européens l'ayant découvert l'appelèrent « Île aux Mouches » ou « Bonne Espérance ».",
+  "article": "https://fr.wikipedia.org/wiki/Rangiroa"
+ },
+ "San Diego": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:La_Jolla_Shores_view_(cropped).jpg",
+  "artist": "Dirk Hansen",
+  "license": "CC BY-SA 3.0",
+  "lat": 32.715,
+  "lon": -117.1625,
+  "extract": "San Diego est une ville américaine, située dans l'État de Californie, sur la côte ouest, au bord de l'océan Pacifique, près de la frontière avec le Mexique.",
+  "article": "https://fr.wikipedia.org/wiki/San_Diego"
+ },
+ "Seaport Village": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/SeaportVillage.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SeaportVillage.jpg",
+  "artist": "https://www.flickr.com/photos/kid_pro_quo/",
+  "license": "CC BY 2.0",
+  "lat": 32.70901,
+  "lon": -117.1711
+ },
+ "Skull Rock (Joshua Tree National Park)": {},
+ "Sunset Cliffs Natural Park": {},
+ "Temecula Valley Wine Country": {},
+ "Tikehau": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/TikehauISS008-E-17132.PNG",
+  "page": "https://commons.wikimedia.org/wiki/File:TikehauISS008-E-17132.PNG",
+  "artist": "",
+  "license": "Public domain",
+  "lat": -15.07,
+  "lon": -148.13,
+  "extract": "Tikehau ou Tikahau ou Porutu-kai est un atoll situé dans le sous-groupe des îles Palliser dans l'archipel des Tuamotu en Polynésie française. Celui-ci fait administrativement partie de la commune de Rangiroa.",
+  "article": "https://fr.wikipedia.org/wiki/Tikehau"
+ },
+ "Tiputa Pass": {
+  "lat": -14.973,
+  "lon": -147.629,
+  "extract": "La passe de Tiputa se trouve dans le nord-est de l'atoll de Rangiroa dans l'archipel des Tuamotu, près du village homonyme. Rangiroa compte deux passes, l'autre étant la passe d'Avatoru. La passe de Tiputa sépare les villages de Tiputa et Avatoru.",
+  "article": "https://fr.wikipedia.org/wiki/Passe_de_Tiputa"
+ },
+ "Torrey Pines State Natural Reserve": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Torrey_Pines_State_Park_Valley.jpg/1920px-Torrey_Pines_State_Park_Valley.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Torrey_Pines_State_Park_Valley.jpg",
+  "artist": "User:Nauticashades.",
+  "license": "CC BY-SA 3.0",
+  "lat": 32.921,
+  "lon": -117.2532,
+  "extract": "La réserve d'État des pins de Torrey est une réserve naturelle située aux États-Unis dans l'État de Californie, à La Jolla, au nord de San Diego.",
+  "article": "https://fr.wikipedia.org/wiki/R%C3%A9serve_d%27%C3%89tat_des_pins_de_Torrey"
+ },
+ "Zuma Beach": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/ZumaBeachCountyPark.jpg/1920px-ZumaBeachCountyPark.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:ZumaBeachCountyPark.jpg",
+  "artist": "Dave Parker",
+  "license": "CC BY 3.0",
+  "lat": 34.021,
+  "lon": -118.831,
+  "extract": "Zuma Beach est l'une des plages les plus grandes et les plus populaires du comté de Los Angeles, en Californie. Elle est connue pour son sable long et large et ses excellentes vagues.",
+  "article": "https://fr.wikipedia.org/wiki/Zuma_Beach"
+ },
+ "File:1 Rangiroa Blue Lagoon 1.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/1_Rangiroa_Blue_Lagoon_1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:1_Rangiroa_Blue_Lagoon_1.jpg",
+  "artist": "Julius Silver",
+  "license": "CC BY 3.0"
+ },
+ "File:20221026 142420 Belvédère de Opunohu.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/20221026_142420_Belv%C3%A9d%C3%A8re_de_Opunohu.jpg/1920px-20221026_142420_Belv%C3%A9d%C3%A8re_de_Opunohu.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:20221026_142420_Belv%C3%A9d%C3%A8re_de_Opunohu.jpg",
+  "artist": "tbo47",
+  "license": "CC0"
+ },
+ "File:Baie de Opunohu.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Baie_de_Opunohu.jpg/1920px-Baie_de_Opunohu.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Baie_de_Opunohu.jpg",
+  "artist": "Cass mooz",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Borrego Palm Canyon - Anza Borrego State Park.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Borrego_Palm_Canyon_-_Anza_Borrego_State_Park.jpg/1920px-Borrego_Palm_Canyon_-_Anza_Borrego_State_Park.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Borrego_Palm_Canyon_-_Anza_Borrego_State_Park.jpg",
+  "artist": "Z3lvs",
+  "license": "CC0"
+ },
+ "File:CARRIZO BADLANDS OVERLOOK CAMPSITE (1-8-2017) anza-borrego state park, san diego co, ca -8 (31483226374).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/CARRIZO_BADLANDS_OVERLOOK_CAMPSITE_%281-8-2017%29_anza-borrego_state_park%2C_san_diego_co%2C_ca_-8_%2831483226374%29.jpg/1920px-CARRIZO_BADLANDS_OVERLOOK_CAMPSITE_%281-8-2017%29_anza-borrego_state_park%2C_san_diego_co%2C_ca_-8_%2831483226374%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:CARRIZO_BADLANDS_OVERLOOK_CAMPSITE_(1-8-2017)_anza-borrego_state_park,_san_diego_co,_ca_-8_(31483226374).jpg",
+  "artist": "ALAN SCHMIERER",
+  "license": "CC0"
+ },
+ "File:Galleta Meadows Borrego Springs.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Galleta_Meadows_Borrego_Springs.jpg/1920px-Galleta_Meadows_Borrego_Springs.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Galleta_Meadows_Borrego_Springs.jpg",
+  "artist": "Gotborregosprings",
+  "license": "CC0"
+ },
+ "File:Huahine Marae de Maeva 01.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Huahine_Marae_de_Maeva_01.jpg/1920px-Huahine_Marae_de_Maeva_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Huahine_Marae_de_Maeva_01.jpg",
+  "artist": "Kounilig",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Joshua Tree National Park (California, USA) -- 2012 -- 5666.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Joshua_Tree_National_Park_%28California%2C_USA%29_--_2012_--_5666.jpg/1920px-Joshua_Tree_National_Park_%28California%2C_USA%29_--_2012_--_5666.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Joshua_Tree_National_Park_(California,_USA)_--_2012_--_5666.jpg",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Keys View Joshua Tree December 2013 003.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Keys_View_Joshua_Tree_December_2013_003.jpg/1920px-Keys_View_Joshua_Tree_December_2013_003.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Keys_View_Joshua_Tree_December_2013_003.jpg",
+  "artist": "King of Hearts",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Lagoon de Temau à Moorea au levé du soleil.png": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Lagoon_de_Temau_%C3%A0_Moorea_au_lev%C3%A9_du_soleil.png/1920px-Lagoon_de_Temau_%C3%A0_Moorea_au_lev%C3%A9_du_soleil.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Lagoon_de_Temau_%C3%A0_Moorea_au_lev%C3%A9_du_soleil.png",
+  "artist": "Guellouz",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Marché de Papeete.JPG": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/March%C3%A9_de_Papeete.JPG/1920px-March%C3%A9_de_Papeete.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:March%C3%A9_de_Papeete.JPG",
+  "artist": "Saga70",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Matira Beach, Bora Bora, French Polynesia.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Matira_Beach%2C_Bora_Bora%2C_French_Polynesia.jpg/1920px-Matira_Beach%2C_Bora_Bora%2C_French_Polynesia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Matira_Beach,_Bora_Bora,_French_Polynesia.jpg",
+  "artist": "The original uploader was Sba2 at English Wikipedia.",
+  "license": "CC BY 2.5"
+ },
+ "File:Moorea, view from the sky (Motu Fareona).png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Moorea%2C_view_from_the_sky_%28Motu_Fareona%29.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Moorea,_view_from_the_sky_(Motu_Fareona).png",
+  "artist": "Justin Arenui Monier",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Musée de Tahiti et des Îles.JPG": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Mus%C3%A9e_de_Tahiti_et_des_%C3%8Eles.JPG/1920px-Mus%C3%A9e_de_Tahiti_et_des_%C3%8Eles.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_Tahiti_et_des_%C3%8Eles.JPG",
+  "artist": "Wmpearl",
+  "license": "CC0"
+ },
+ "File:Passe de Tiputa - panoramio (1).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Passe_de_Tiputa_-_panoramio_%281%29.jpg/1920px-Passe_de_Tiputa_-_panoramio_%281%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Passe_de_Tiputa_-_panoramio_(1).jpg",
+  "artist": "kajikawa",
+  "license": "CC BY 3.0"
+ },
+ "File:Plage de sable rose à Tikehau.JPG": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Plage_de_sable_rose_%C3%A0_Tikehau.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Plage_de_sable_rose_%C3%A0_Tikehau.JPG",
+  "artist": "Saga70",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Santa Ynez Valley.JPG": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Santa_Ynez_Valley.JPG/1920px-Santa_Ynez_Valley.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Santa_Ynez_Valley.JPG",
+  "artist": "Jester7777",
+  "license": "Public domain"
+ },
+ "File:Skull Rock, Joshua Tree National Park.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Skull_Rock%2C_Joshua_Tree_National_Park.jpg/1920px-Skull_Rock%2C_Joshua_Tree_National_Park.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Skull_Rock,_Joshua_Tree_National_Park.jpg",
+  "artist": "డా. గన్నవరపు నరసింహమూర్తి",
+  "license": "CC0"
+ },
+ "File:Sunset Cliffs San Diego 2013.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Sunset_Cliffs_San_Diego_2013.jpg/1920px-Sunset_Cliffs_San_Diego_2013.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunset_Cliffs_San_Diego_2013.jpg",
+  "artist": "Tuxyso",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Tahiti, French Polynesia - Huahine (48077648843).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Tahiti%2C_French_Polynesia_-_Huahine_%2848077648843%29.jpg/1920px-Tahiti%2C_French_Polynesia_-_Huahine_%2848077648843%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tahiti,_French_Polynesia_-_Huahine_(48077648843).jpg",
+  "artist": "Matthew Dillon from Hollywood, CA, USA",
+  "license": "CC BY 2.0"
+ },
+ "File:Temecula California vineyard.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Temecula_California_vineyard.jpg/1920px-Temecula_California_vineyard.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Temecula_California_vineyard.jpg",
+  "artist": "michael c",
+  "license": "CC BY-SA 2.0"
+ },
+ "File:The busy waterfront of Papeete, Tahiti (6033913625).jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/The_busy_waterfront_of_Papeete%2C_Tahiti_%286033913625%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:The_busy_waterfront_of_Papeete,_Tahiti_(6033913625).jpg",
+  "artist": "Australian National Maritime Museum on The Commons",
+  "license": "No restrictions"
  }
 }

@@ -1,0 +1,1676 @@
+{
+  "id": "california-polynesia",
+  "title": "Californie et Polynésie",
+  "subtitle": "De Los Angeles à San Diego entre déserts et côte, puis Tahiti, Moorea, Bora Bora et les atolls des Tuamotu",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Bora Bora",
+  "days": [
+    {
+      "n": 1,
+      "title": "Arrivée à Los Angeles",
+      "summary": "Arrivée à LAX et découverte de la ville : coucher de soleil au Griffith Observatory, Santa Monica, Hollywood Walk of Fame et repas à Venice Beach.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Los Angeles",
+          "wiki": "Los Angeles"
+        },
+        {
+          "name": "Griffith Observatory",
+          "wiki": "Griffith Observatory",
+          "culture": "Observatoire de 1935 qui domine Los Angeles, avec vue sur le panneau Hollywood."
+        },
+        {
+          "name": "Santa Monica",
+          "wiki": "Santa Monica, California"
+        },
+        {
+          "name": "Hollywood Walk of Fame",
+          "wiki": "Hollywood Walk of Fame",
+          "coords": [
+            34.1017,
+            -118.3267
+          ]
+        },
+        {
+          "name": "Venice Beach",
+          "wiki": "Venice, Los Angeles"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Los Angeles",
+        "coords": [
+          34.0522,
+          -118.2437
+        ],
+        "note": "Hôtel à Los Angeles",
+        "price": "150 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Découverte de la ville : Griffith Observatory (coucher de soleil), Santa Monica, Hollywood Walk of Fame."
+        },
+        {
+          "label": "Repas",
+          "text": "Repas à Venice Beach."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol international (1 000 EUR pour 2)"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Malibu et Santa Barbara",
+      "summary": "Journée à Malibu et Santa Barbara : Pacific Coast Highway, Malibu Pier, randonnée à Point Dume, Zuma Beach, Getty Villa et vignobles de Santa Barbara.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Pacific Coast Highway",
+          "wiki": "California State Route 1",
+          "coords": [
+            34.036,
+            -118.68
+          ]
+        },
+        {
+          "name": "Malibu Pier",
+          "wiki": "Malibu Pier"
+        },
+        {
+          "name": "Point Dume",
+          "wiki": "Point Dume"
+        },
+        {
+          "name": "Zuma Beach",
+          "wiki": "Zuma Beach"
+        },
+        {
+          "name": "Getty Villa",
+          "wiki": "Getty Villa"
+        },
+        {
+          "name": "Santa Barbara",
+          "wiki": "Santa Barbara, California"
+        },
+        {
+          "name": "Vignobles de Santa Barbara",
+          "coords": [
+            34.6,
+            -120.08
+          ],
+          "photo": "File:Santa Ynez Valley.JPG"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel (Santa Barbara)",
+        "coords": [
+          34.4208,
+          -119.6982
+        ],
+        "note": "Hôtel (Santa Barbara)",
+        "price": "150 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Journée à Malibu et Santa Barbara."
+        },
+        {
+          "label": "À voir",
+          "text": "Pacific Coast Highway, Malibu Pier, randonnée à Point Dume, Zuma Beach, Getty Villa, Santa Barbara wineries."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Location de voiture ; route depuis Los Angeles (1 h)"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Joshua Tree National Park",
+      "summary": "Route vers Joshua Tree (2 h 30) : randonnée à Hidden Valley, coucher de soleil à Keys View, Skull Rock et Cholla Cactus Garden.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Parc national de Joshua Tree",
+          "wiki": "Joshua Tree National Park"
+        },
+        {
+          "name": "Hidden Valley",
+          "wiki": "Hidden Valley (Joshua Tree National Park)",
+          "coords": [
+            34.012,
+            -116.168
+          ]
+        },
+        {
+          "name": "Keys View",
+          "photo": "File:Keys View Joshua Tree December 2013 003.jpg",
+          "coords": [
+            33.925,
+            -116.187
+          ]
+        },
+        {
+          "name": "Skull Rock",
+          "coords": [
+            33.993,
+            -116.06
+          ],
+          "photo": "File:Skull Rock, Joshua Tree National Park.jpg"
+        },
+        {
+          "name": "Cholla Cactus Garden",
+          "coords": [
+            33.924,
+            -115.929
+          ],
+          "photo": "File:Joshua Tree National Park (California, USA) -- 2012 -- 5666.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel ou Airbnb à Joshua Tree",
+        "coords": [
+          34.1347,
+          -116.3131
+        ],
+        "note": "Hôtel ou Airbnb à Joshua Tree",
+        "price": "130 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Parc national : randonnée à Hidden Valley, coucher de soleil à Keys View, Skull Rock, Cholla Cactus Garden."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Route vers Joshua Tree (2 h 30)"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Désert d'Anza-Borrego",
+      "summary": "Route vers Anza-Borrego (2 h) : Palm Canyon Trail, Borrego Badlands, sculptures de Galleta Meadows et vignobles de Temecula.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Désert d'Anza-Borrego",
+          "wiki": "Anza-Borrego Desert State Park"
+        },
+        {
+          "name": "Palm Canyon Trail",
+          "coords": [
+            33.27,
+            -116.417
+          ],
+          "photo": "File:Borrego Palm Canyon - Anza Borrego State Park.jpg"
+        },
+        {
+          "name": "Borrego Badlands",
+          "coords": [
+            33.28,
+            -116.27
+          ],
+          "photo": "File:CARRIZO BADLANDS OVERLOOK CAMPSITE (1-8-2017) anza-borrego state park, san diego co, ca -8 (31483226374).jpg"
+        },
+        {
+          "name": "Sculptures de Galleta Meadows",
+          "coords": [
+            33.256,
+            -116.375
+          ],
+          "photo": "File:Galleta Meadows Borrego Springs.jpg"
+        },
+        {
+          "name": "Vignobles de Temecula",
+          "coords": [
+            33.51,
+            -117.05
+          ],
+          "photo": "File:Temecula California vineyard.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel ou Airbnb à Borrego Springs",
+        "coords": [
+          33.2559,
+          -116.375
+        ],
+        "note": "Hôtel ou Airbnb à Borrego Springs",
+        "price": "120 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Exploration du désert : Palm Canyon Trail, Borrego Badlands, Galleta Meadows Sculptures, Temecula wineries."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Route vers Anza-Borrego (2 h)"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "San Diego",
+      "summary": "Route vers San Diego (2 h) et détente à La Jolla Cove ; Balboa Park, Gaslamp Quarter, Old Town, Cabrillo National Monument et dîner de fruits de mer.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "San Diego",
+          "wiki": "San Diego"
+        },
+        {
+          "name": "La Jolla Cove",
+          "wiki": "La Jolla Cove"
+        },
+        {
+          "name": "Balboa Park",
+          "wiki": "Balboa Park (San Diego)"
+        },
+        {
+          "name": "Gaslamp Quarter",
+          "wiki": "Gaslamp Quarter, San Diego"
+        },
+        {
+          "name": "Old Town San Diego",
+          "wiki": "Old Town, San Diego"
+        },
+        {
+          "name": "Cabrillo National Monument",
+          "wiki": "Cabrillo National Monument"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à San Diego",
+        "coords": [
+          32.7157,
+          -117.1611
+        ],
+        "note": "Hôtel à San Diego",
+        "price": "140 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Détente à La Jolla Cove ; exploration de Balboa Park, Gaslamp Quarter, Old Town San Diego, Cabrillo National Monument."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Route vers San Diego (2 h)"
+        }
+      ],
+      "food": [
+        "Dîner de fruits de mer."
+      ]
+    },
+    {
+      "n": 6,
+      "title": "San Diego : Torrey Pines",
+      "summary": "Randonnée à Torrey Pines State Reserve, dîner à Coronado Island, Sunset Cliffs et Seaport Village.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Torrey Pines State Natural Reserve",
+          "wiki": "Torrey Pines State Natural Reserve"
+        },
+        {
+          "name": "Coronado",
+          "wiki": "Coronado, California"
+        },
+        {
+          "name": "Sunset Cliffs",
+          "photo": "File:Sunset Cliffs San Diego 2013.jpg",
+          "coords": [
+            32.72,
+            -117.254
+          ]
+        },
+        {
+          "name": "Seaport Village",
+          "wiki": "Seaport Village"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à San Diego",
+        "coords": [
+          32.7157,
+          -117.1611
+        ],
+        "note": "Hôtel à San Diego",
+        "price": "140 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Randonnée à Torrey Pines State Reserve."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner à Coronado Island, Sunset Cliffs, Seaport Village."
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Los Angeles → Tahiti",
+      "summary": "Retour à LAX (2 h 30 de route), shopping souvenirs à San Diego, détente avant le vol vers Papeete (8 h de vol).",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Aéroport de Los Angeles",
+          "wiki": "Los Angeles International Airport"
+        }
+      ],
+      "stay": null,
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Shopping souvenirs à San Diego, détente avant le vol."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Route vers LAX (2 h 30)"
+        },
+        {
+          "mode": "flight",
+          "text": "Vol vers Papeete (8 h, 900 EUR pour 2)"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Arrivée à Papeete",
+      "summary": "Marché de Papeete, plage de la pointe Vénus, musée de Tahiti et dîner local.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Papeete",
+          "wiki": "Papeete"
+        },
+        {
+          "name": "Marché de Papeete",
+          "coords": [
+            -17.538,
+            -149.567
+          ],
+          "photo": "File:Marché de Papeete.JPG"
+        },
+        {
+          "name": "Pointe Vénus",
+          "wiki": "Point Venus"
+        },
+        {
+          "name": "Musée de Tahiti et des Îles",
+          "coords": [
+            -17.574,
+            -149.607
+          ],
+          "photo": "File:Musée de Tahiti et des Îles.JPG"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Papeete",
+        "coords": [
+          -17.535,
+          -149.5696
+        ],
+        "note": "Hôtel à Papeete",
+        "price": "180 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Marché de Papeete, dîner local."
+        },
+        {
+          "label": "À voir",
+          "text": "Marché de Papeete, plage de la pointe Vénus, musée de Tahiti."
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Moorea",
+      "summary": "Ferry vers Moorea (45 min) : snorkeling, plage, baie d'Opunohu, belvédère de Moorea et lagons turquoise.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Moorea",
+          "wiki": "Moorea"
+        },
+        {
+          "name": "Baie d'Opunohu",
+          "photo": "File:Baie de Opunohu.jpg",
+          "coords": [
+            -17.496,
+            -149.85
+          ]
+        },
+        {
+          "name": "Belvédère de Moorea",
+          "coords": [
+            -17.534,
+            -149.828
+          ],
+          "photo": "File:20221026 142420 Belvédère de Opunohu.jpg"
+        },
+        {
+          "name": "Lagons de Moorea",
+          "coords": [
+            -17.54,
+            -149.83
+          ],
+          "photo": "File:Lagoon de Temau à Moorea au levé du soleil.png"
+        }
+      ],
+      "stay": {
+        "name": "Bungalow à Moorea",
+        "coords": [
+          -17.5388,
+          -149.8295
+        ],
+        "note": "Bungalow à Moorea",
+        "price": "200 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Snorkeling, plage."
+        },
+        {
+          "label": "À voir",
+          "text": "Baie d'Opunohu, belvédère de Moorea, lagons turquoise."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Ferry vers Moorea (45 min, 50 EUR)"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "title": "Moorea : lagon",
+      "summary": "Excursion en kayak, nage avec les raies, lagune de Moorea, jardin tropical et plongée avec les requins.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Lagune de Moorea",
+          "coords": [
+            -17.54,
+            -149.83
+          ],
+          "photo": "File:Moorea, view from the sky (Motu Fareona).png"
+        },
+        {
+          "name": "Jardin tropical",
+          "coords": [
+            -17.52,
+            -149.83
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Bungalow à Moorea",
+        "coords": [
+          -17.5388,
+          -149.8295
+        ],
+        "note": "Bungalow à Moorea",
+        "price": "200 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Excursion en kayak, nage avec les raies."
+        },
+        {
+          "label": "À voir",
+          "text": "Lagune de Moorea, jardin tropical, plongée avec les requins."
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "title": "Huahine",
+      "summary": "Vol vers Huahine (40 min) : sites archéologiques, marae ancestraux, ferme perlière et plage sauvage.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Huahine",
+          "wiki": "Huahine"
+        },
+        {
+          "name": "Marae de Huahine",
+          "coords": [
+            -16.72,
+            -151.03
+          ],
+          "culture": "Sites sacrés polynésiens en pierre, autrefois lieux de culte et de pouvoir.",
+          "photo": "File:Huahine Marae de Maeva 01.jpg"
+        },
+        {
+          "name": "Ferme perlière de Huahine",
+          "coords": [
+            -16.73,
+            -151.03
+          ]
+        },
+        {
+          "name": "Plage sauvage de Huahine",
+          "coords": [
+            -16.77,
+            -151.0
+          ],
+          "photo": "File:Tahiti, French Polynesia - Huahine (48077648843).jpg"
+        }
+      ],
+      "stay": {
+        "name": "Pension à Huahine",
+        "coords": [
+          -16.73,
+          -151.03
+        ],
+        "note": "Pension à Huahine",
+        "price": "150 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Découverte des sites archéologiques."
+        },
+        {
+          "label": "À voir",
+          "text": "Marae ancestraux, ferme perlière, plage sauvage de l'île."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol vers Huahine (40 min, 180 EUR)"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "title": "Huahine : détente",
+      "summary": "Journée détente et exploration de l'île : jardin de corail, lac Fauna Nui et vanille de Huahine.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Jardin de corail de Huahine",
+          "coords": [
+            -16.78,
+            -151.05
+          ]
+        },
+        {
+          "name": "Lac Fauna Nui",
+          "coords": [
+            -16.76,
+            -151.02
+          ]
+        },
+        {
+          "name": "Vanille de Huahine",
+          "coords": [
+            -16.7,
+            -151.02
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Pension à Huahine",
+        "coords": [
+          -16.73,
+          -151.03
+        ],
+        "note": "Pension à Huahine",
+        "price": "150 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Journée détente, exploration de l'île : jardin de corail, lac Fauna Nui, vanille de Huahine."
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "title": "Bora Bora",
+      "summary": "Vol vers Bora Bora (45 min) : journée plage et lagon, Matira Beach, snorkeling et plongée sous-marine.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Bora Bora",
+          "wiki": "Bora Bora"
+        },
+        {
+          "name": "Plage de Matira",
+          "photo": "File:Matira Beach, Bora Bora, French Polynesia.jpg",
+          "coords": [
+            -16.538,
+            -151.733
+          ]
+        },
+        {
+          "name": "Lagon de Bora Bora",
+          "wiki": "Bora Bora",
+          "coords": [
+            -16.5,
+            -151.75
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Bungalow sur pilotis",
+        "coords": [
+          -16.5,
+          -151.75
+        ],
+        "note": "Bungalow sur pilotis",
+        "price": "400 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Journée plage et lagon : Matira Beach, snorkeling dans le lagon, plongée sous-marine."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol vers Bora Bora (45 min, 200 EUR)"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "title": "Bora Bora : catamaran",
+      "summary": "Excursion en catamaran et dîner romantique ; mont Otemanu, jardin de corail et île aux oiseaux.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Mont Otemanu",
+          "wiki": "Mount Otemanu"
+        },
+        {
+          "name": "Jardin de corail de Bora Bora",
+          "coords": [
+            -16.54,
+            -151.72
+          ]
+        },
+        {
+          "name": "Île aux oiseaux de Bora Bora",
+          "coords": [
+            -16.48,
+            -151.76
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Bungalow sur pilotis",
+        "coords": [
+          -16.5,
+          -151.75
+        ],
+        "note": "Bungalow sur pilotis",
+        "price": "400 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Excursion en catamaran, dîner romantique."
+        },
+        {
+          "label": "À voir",
+          "text": "Mont Otemanu, jardin de corail, île aux oiseaux."
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "title": "Rangiroa",
+      "summary": "Vol vers Rangiroa (1 h 20) : plongée dans le lagon, exploration en bateau, passe de Tiputa, île aux Récifs et vin de Rangiroa.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Rangiroa",
+          "wiki": "Rangiroa"
+        },
+        {
+          "name": "Passe de Tiputa",
+          "coords": [
+            -14.96,
+            -147.62
+          ],
+          "photo": "File:Passe de Tiputa - panoramio (1).jpg"
+        },
+        {
+          "name": "Île aux Récifs",
+          "coords": [
+            -15.14,
+            -147.67
+          ]
+        },
+        {
+          "name": "Vignoble de Rangiroa",
+          "coords": [
+            -14.97,
+            -147.62
+          ],
+          "culture": "Vignoble tropical sur sable corallien, l'un des rares au monde plantés sur un atoll."
+        }
+      ],
+      "stay": {
+        "name": "Pension à Rangiroa",
+        "coords": [
+          -14.95,
+          -147.66
+        ],
+        "note": "Pension à Rangiroa",
+        "price": "180 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Plongée dans le lagon, exploration en bateau."
+        },
+        {
+          "label": "À voir",
+          "text": "Passe de Tiputa, île aux Récifs, vin de Rangiroa."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol vers Rangiroa (1 h 20, 250 EUR)"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "title": "Rangiroa : lagons",
+      "summary": "Snorkeling, pêche, dégustation de fruits, lagons bleus, dauphins à Tiputa et baignade avec les requins.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Lagons bleus de Rangiroa",
+          "coords": [
+            -15.15,
+            -147.65
+          ],
+          "photo": "File:1 Rangiroa Blue Lagoon 1.jpg"
+        },
+        {
+          "name": "Dauphins de Tiputa",
+          "coords": [
+            -14.96,
+            -147.62
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Pension à Rangiroa",
+        "coords": [
+          -14.95,
+          -147.66
+        ],
+        "note": "Pension à Rangiroa",
+        "price": "180 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Snorkeling, pêche, dégustation de fruits."
+        },
+        {
+          "label": "À voir",
+          "text": "Lagons bleus, dauphins à Tiputa, baignade avec les requins."
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "title": "Tikehau",
+      "summary": "Vol vers Tikehau (20 min) : exploration des plages roses, lagunes et villages traditionnels.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Tikehau",
+          "wiki": "Tikehau"
+        },
+        {
+          "name": "Plage de sable rose de Tikehau",
+          "coords": [
+            -15.13,
+            -148.21
+          ],
+          "photo": "File:Plage de sable rose à Tikehau.JPG"
+        },
+        {
+          "name": "Lagunes de Tikehau",
+          "coords": [
+            -15.0,
+            -148.15
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Pension à Tikehau",
+        "coords": [
+          -15.03,
+          -148.15
+        ],
+        "note": "Pension à Tikehau",
+        "price": "200 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Exploration des plages roses."
+        },
+        {
+          "label": "À voir",
+          "text": "Plage de sable rose, lagunes, villages traditionnels."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol vers Tikehau (20 min, 150 EUR)"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "title": "Tikehau : journée libre",
+      "summary": "Journée libre et balade en vélo : bancs de sable, ferme perlière et observation des oiseaux marins.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Bancs de sable de Tikehau",
+          "coords": [
+            -14.97,
+            -148.13
+          ]
+        },
+        {
+          "name": "Ferme perlière de Tikehau",
+          "coords": [
+            -15.03,
+            -148.15
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Pension à Tikehau",
+        "coords": [
+          -15.03,
+          -148.15
+        ],
+        "note": "Pension à Tikehau",
+        "price": "200 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Journée libre, balade en vélo."
+        },
+        {
+          "label": "À voir",
+          "text": "Bancs de sable, ferme perlière, observation des oiseaux marins."
+        }
+      ]
+    },
+    {
+      "n": 19,
+      "title": "Retour à Papeete",
+      "summary": "Retour à Papeete (1 h) : dernier jour de détente, marché artisanal, promenade au bord de mer et souvenirs locaux.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Marché artisanal de Papeete",
+          "coords": [
+            -17.537,
+            -149.565
+          ]
+        },
+        {
+          "name": "Front de mer de Papeete",
+          "coords": [
+            -17.534,
+            -149.568
+          ],
+          "photo": "File:The busy waterfront of Papeete, Tahiti (6033913625).jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel à Papeete",
+        "coords": [
+          -17.535,
+          -149.5696
+        ],
+        "note": "Hôtel à Papeete",
+        "price": "180 EUR (pour 2)"
+      },
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Dernier jour de détente : marché artisanal, promenade au bord de mer, souvenirs locaux."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol vers Papeete (1 h, 150 EUR)"
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "title": "Tahiti → Paris",
+      "summary": "Vol retour vers Paris (22 h) et shopping à Papeete.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Aéroport de Tahiti-Faa'a",
+          "wiki": "Faa'a International Airport"
+        }
+      ],
+      "stay": null,
+      "parts": [
+        {
+          "label": "Journée",
+          "text": "Shopping à Papeete."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol retour vers Paris (22 h, 1 000 EUR pour 2)"
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "california-san-francisco",
+      "title": "Variante : Californie centrale autour de San Francisco",
+      "summary": "Une autre moitié de séjour californien : 5 jours autour de San Francisco, plus 3 jours optionnels.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Destination",
+            "Distance depuis SF",
+            "Type de paysage",
+            "Activités et points d'intérêt"
+          ],
+          "rows": [
+            [
+              "1",
+              "San Francisco",
+              "-",
+              "Urbain, vue sur la baie",
+              "Visite des quartiers emblématiques : Chinatown, North Beach, Mission District, balade le long des Painted Ladies, montée à Twin Peaks pour une vue panoramique."
+            ],
+            [
+              "2",
+              "Golden Gate Park et Land's End",
+              "20 min dans SF",
+              "Urbain, parcs, littoral",
+              "Journée dans le Golden Gate Park (jardin japonais, conservatoire des fleurs), randonnée le long du sentier de Land's End avec vue sur le Golden Gate Bridge et les ruines des bains Sutro, Ocean Beach."
+            ],
+            [
+              "3",
+              "Muir Woods et Sausalito",
+              "30 à 45 min au nord",
+              "Forêt de séquoias",
+              "Randonnée parmi les séquoias géants, sentiers ombragés, arrêt à Sausalito pour une promenade en bord de mer (waterfront) en revenant."
+            ],
+            [
+              "4",
+              "Point Reyes National Seashore",
+              "1 h 30 au nord-ouest",
+              "Littoral, falaises, plages",
+              "Randonnée sur les falaises escarpées, exploration des North et South beaches, pique-nique à Tomales Bay (Tomales Point Hike), phare de Point Reyes, Cypress Tree Tunnel, Alamere Falls, observation des animaux marins (Elephant Seal Overlook Trail, près de Chimney Rock), Drakes Beach (fin janvier à mi-février, quand les bébés éléphants de mer sont sur la plage), Drakes Estero trail (fleurs sauvages au printemps, baies comestibles selon la saison, raies et requins-léopards à repérer depuis la rive, Sunset Beach au bout du sentier pour les flaques de marée et les crabes violets), Abbott's Lagoon pour les oiseaux et les loutres."
+            ],
+            [
+              "5",
+              "Wine Country : Napa et Sonoma",
+              "1 h 30 au nord",
+              "Vignobles",
+              "Napa Valley : routes panoramiques comme la Silverado Trail. Sonoma Valley : paysages vallonnés et domaines historiques. Déjeuner gastronomique au Brix Restaurant (Napa) ou au Girl & the Fig (Sonoma), avec des produits locaux. Balade dans le centre de Yountville ou sur Sonoma Plaza pour les boutiques et galeries d'art. Napa : Castello di Amorosa (château médiéval avec dégustation) et Robert Mondavi Winery (dégustations guidées). Sonoma : Buena Vista Winery (l'une des plus anciennes caves) et Gundlach Bundschu Winery (vignoble pittoresque)."
+            ],
+            [
+              "6 (option)",
+              "Berkeley et Oakland Hills",
+              "30 min à l'est",
+              "Collines, forêt urbaine",
+              "Berkeley Botanical Garden, balade dans les Oakland Hills (Redwood Regional Park), Temescal et dîner dans le quartier animé de Rockridge."
+            ],
+            [
+              "7 (option)",
+              "Big Basin Redwoods State Park",
+              "1 h 30 au sud",
+              "Forêt ancienne, séquoias",
+              "Randonnée au cœur des séquoias géants dans le plus ancien State Park de Californie : Skyline to the Sea Trail (longue) ou Redwood Loop Trail (plus courte). Le parc a été gravement touché par les incendies de 2020 (CZU Lightning Complex Fire), qui ont détruit presque toutes les infrastructures. Les séquoias anciens ont survécu, mais le paysage est marqué par les dégâts."
+            ],
+            [
+              "8 (option)",
+              "Pinnacles National Park",
+              "2 h 30 au sud-est",
+              "Formations rocheuses, grottes",
+              "Randonnée sur le High Peaks Trail pour des vues à couper le souffle, exploration des Balconies Cave, observation des condors de Californie."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paysages-la-sf",
+      "title": "Paysages à moins de 3 heures de LA ou SF",
+      "summary": "Sorties possibles depuis Los Angeles et San Francisco, avec des résumés par type de paysage et par direction.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Depuis Los Angeles"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Destination",
+            "Direction",
+            "Distance (temps en voiture)",
+            "Type de paysage",
+            "Activités phares",
+            "Pourquoi y aller ?"
+          ],
+          "rows": [
+            [
+              "Malibu et Malibu Creek State Park",
+              "Ouest",
+              "45 min - 1 h",
+              "Littoral, montagnes",
+              "Randonnée, surf, baignade",
+              "Plages emblématiques, grottes marines, randonnées dans les canyons"
+            ],
+            [
+              "Santa Barbara et Montecito",
+              "Nord-Ouest",
+              "1 h 30",
+              "Littoral, montagnes, vignobles",
+              "Dégustation de vins, plages, visites culturelles",
+              "Charme méditerranéen, plages de sable, vue sur l'océan"
+            ],
+            [
+              "Joshua Tree National Park",
+              "Est",
+              "2 h - 2 h 30",
+              "Désert, formations rocheuses",
+              "Randonnée, escalade, photographie des paysages arides",
+              "Arbres de Josué uniques, paysages désertiques étranges"
+            ],
+            [
+              "Ojai",
+              "Nord-Ouest",
+              "1 h 30",
+              "Montagnes, vallées",
+              "Spa, yoga, randonnées, dégustation de vins",
+              "Destination paisible pour se ressourcer"
+            ],
+            [
+              "Big Bear Lake",
+              "Nord-Est",
+              "2 h",
+              "Forêt, lac",
+              "Randonnée, kayak, ski en hiver",
+              "Évasion en montagne avec de superbes sentiers boisés"
+            ],
+            [
+              "Palm Springs et Coachella Valley",
+              "Est",
+              "2 h - 2 h 30",
+              "Désert, oasis, montagnes",
+              "Détente, exploration des canyons, architecture rétro",
+              "Architecture moderniste, piscines et spas, vues panoramiques"
+            ],
+            [
+              "San Diego et La Jolla",
+              "Sud",
+              "2 h - 2 h 30",
+              "Littoral, falaises",
+              "Plongée, surf, exploration des grottes marines",
+              "Ambiance côtière animée, plages spectaculaires"
+            ],
+            [
+              "Anza-Borrego Desert State Park",
+              "Est",
+              "2 h 30 - 3 h",
+              "Désert, formations géologiques",
+              "Randonnée, observation des fleurs sauvages au printemps",
+              "Paysages désertiques fascinants, sculptures en métal géantes"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Depuis San Francisco"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Destination",
+            "Direction",
+            "Distance (temps en voiture)",
+            "Type de paysage",
+            "Activités phares",
+            "Pourquoi y aller ?"
+          ],
+          "rows": [
+            [
+              "Point Reyes National Seashore",
+              "Nord-Ouest",
+              "1 h 30",
+              "Littoral, falaises, plages",
+              "Randonnée, observation des éléphants de mer, kayak",
+              "Vues côtières spectaculaires, faune abondante"
+            ],
+            [
+              "Muir Woods National Monument",
+              "Nord",
+              "45 min",
+              "Forêt de séquoias",
+              "Randonnée, photographie de la nature",
+              "Séquoias majestueux à quelques minutes de la ville"
+            ],
+            [
+              "Half Moon Bay",
+              "Sud-Ouest",
+              "45 min",
+              "Plages, falaises",
+              "Surf, randonnée, observation des baleines",
+              "Côtes sauvages, plages préservées, superbes couchers de soleil"
+            ],
+            [
+              "Napa Valley",
+              "Nord",
+              "1 h 15",
+              "Vignobles, vallées",
+              "Dégustation de vins, montgolfière",
+              "Région viticole de renommée mondiale"
+            ],
+            [
+              "Santa Cruz et Capitola",
+              "Sud",
+              "1 h 30",
+              "Littoral, falaises, forêts",
+              "Surf, randonnée, promenades en bord de mer",
+              "Ambiance décontractée, plages iconiques"
+            ],
+            [
+              "Sonoma County et Russian River",
+              "Nord",
+              "1 h 30 - 2 h",
+              "Vignobles, forêts",
+              "Kayak, dégustation de vins, randonnées",
+              "Forêts de séquoias, paysages viticoles"
+            ],
+            [
+              "Lake Tahoe (South Shore)",
+              "Nord-Est",
+              "3 h",
+              "Lac, montagnes, forêts",
+              "Randonnée, sports nautiques, ski en hiver",
+              "Eaux cristallines, superbes vues sur les montagnes"
+            ],
+            [
+              "Pinnacles National Park",
+              "Sud-Est",
+              "2 h - 2 h 30",
+              "Formations rocheuses, canyons",
+              "Randonnée, escalade, spéléologie",
+              "Formations volcaniques uniques, sentiers de randonnée escarpés"
+            ],
+            [
+              "Monterey et Carmel-by-the-Sea",
+              "Sud",
+              "2 h - 2 h 30",
+              "Littoral, falaises",
+              "Aquarium, exploration de la côte, dégustation de fruits de mer",
+              "Côte sauvage, village pittoresque de Carmel"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Par type de paysage"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Plages : depuis LA, Malibu, Santa Barbara, La Jolla ; depuis SF, Half Moon Bay, Santa Cruz, Monterey.",
+            "Montagnes et forêts : depuis LA, Big Bear Lake, Ojai ; depuis SF, Muir Woods, Lake Tahoe.",
+            "Désert : depuis LA, Joshua Tree, Anza-Borrego, Palm Springs ; depuis SF, Pinnacles National Park.",
+            "Nature préservée : depuis LA, Joshua Tree, Malibu Creek State Park ; depuis SF, Point Reyes, Muir Woods."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Par direction"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Nord et nord-ouest (depuis SF) : séjours en pleine nature, comme Muir Woods, Napa Valley et Point Reyes.",
+            "Sud et sud-est (depuis SF) : escapade côtière, comme Santa Cruz, Monterey et Pinnacles National Park.",
+            "Est (depuis LA) : paysages désertiques et montagnes, comme Joshua Tree et Palm Springs.",
+            "Nord-ouest et sud (depuis LA) : Santa Barbara pour un séjour balnéaire, San Diego pour une ambiance côtière animée."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "atolls-iles",
+      "title": "Comparatif des atolls et îles proches de Tahiti",
+      "summary": "Îles et atolls à moins de 2 h de vol de Tahiti : caractéristiques, activités, ambiance et public idéal.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Île ou atoll",
+            "Groupe d'îles",
+            "Vol depuis Tahiti",
+            "Caractéristiques principales",
+            "Activités phares",
+            "Points d'intérêt",
+            "Ambiance",
+            "Idéal pour"
+          ],
+          "rows": [
+            [
+              "Moorea",
+              "Îles de la Société (Îles du Vent)",
+              "10-15 min (ferry 30 min)",
+              "Montagnes verdoyantes, plages, proche de Tahiti",
+              "Snorkeling, randonnée (belvédère), kayak",
+              "Baie d'Opunohu, belvédère de Moorea, lagons turquoise",
+              "Décontractée, accessible",
+              "Familles, courts séjours, découverte"
+            ],
+            [
+              "Tikehau",
+              "Tuamotu",
+              "55 min",
+              "Atoll préservé, plages de sable rose, eaux cristallines",
+              "Plongée, snorkeling, observation des oiseaux",
+              "Plage de sable rose, jardin de corail, lagune turquoise",
+              "Intimiste, tranquille",
+              "Lune de miel, évasion romantique"
+            ],
+            [
+              "Rangiroa",
+              "Tuamotu",
+              "1 h 10",
+              "Deuxième plus grand atoll du monde, lagon immense",
+              "Plongée (passe de Tiputa), vin de corail, excursions en bateau",
+              "Passe de Tiputa, lagons bleus, île aux Récifs",
+              "Nature sauvage, aventure",
+              "Amateurs de plongée, voyageurs actifs"
+            ],
+            [
+              "Huahine",
+              "Îles de la Société (Îles Sous-le-Vent)",
+              "40 min",
+              "Île authentique, culture polynésienne, végétation luxuriante",
+              "Sites archéologiques, exploration à vélo, snorkeling",
+              "Marae ancestraux, ferme perlière, lac Fauna Nui",
+              "Authentique, culturelle",
+              "Explorateurs, amateurs de nature et de culture"
+            ],
+            [
+              "Maupiti",
+              "Îles de la Société (Îles Sous-le-Vent)",
+              "50 min",
+              "Mini Bora Bora, plus calme et préservée, montagne centrale",
+              "Randonnée (mont Teurafaatiu), plages désertes, snorkeling",
+              "Lagons, motus déserts, mont Teurafaatiu",
+              "Isolée, paisible",
+              "Voyageurs recherchant la tranquillité"
+            ],
+            [
+              "Bora Bora",
+              "Îles de la Société (Îles Sous-le-Vent)",
+              "50 min",
+              "Lagon emblématique, motus privés, bungalows sur pilotis",
+              "Excursions en bateau, snorkeling, lagonarium",
+              "Matira Beach, mont Otemanu, île aux oiseaux",
+              "Luxe, romantique",
+              "Lune de miel, séjours haut de gamme"
+            ],
+            [
+              "Mataiva",
+              "Tuamotu",
+              "1 h 15",
+              "Atoll peu touristique, lagon fermé avec 9 bassins naturels",
+              "Exploration en kayak, pêche, snorkeling",
+              "Lagons clos, motus isolés, grottes sous-marines",
+              "Rustique, paisible",
+              "Amateurs d'authenticité, aventuriers"
+            ],
+            [
+              "Taha'a",
+              "Îles de la Société (Îles Sous-le-Vent)",
+              "45 min",
+              "Île Vanille, plantations luxuriantes, entourée de motus",
+              "Excursions en bateau, snorkeling, visite des fermes perlières",
+              "Jardin de corail, plantations de vanille, lagune cristalline",
+              "Authentique, luxuriante",
+              "Couples, amateurs de nature et de luxe"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Les groupes d'îles"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Îles de la Société (Îles du Vent et Îles Sous-le-Vent) : Tahiti, Moorea, Bora Bora, Huahine, Maupiti et Taha'a. Montagnes verdoyantes, lagons turquoise, mélange d'activités culturelles et nautiques. Idéal pour la découverte culturelle, les activités nautiques et les séjours luxueux (Bora Bora, Taha'a).",
+            "Tuamotu : atolls comme Rangiroa, Tikehau et Mataiva. Atolls coralliens plats, eaux cristallines, réputés pour la plongée. Idéal pour la plongée, le snorkeling et les escapades isolées."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Suggestions selon le type de voyageur"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Type de voyageur",
+            "Destination recommandée"
+          ],
+          "rows": [
+            [
+              "Lune de miel, romantique",
+              "Bora Bora, Taha'a, Tikehau"
+            ],
+            [
+              "Plongée, aventure",
+              "Rangiroa, Tikehau, Mataiva"
+            ],
+            [
+              "Découverte culturelle, authentique",
+              "Huahine, Maupiti, Taha'a"
+            ],
+            [
+              "Famille, courts séjours",
+              "Moorea, Huahine"
+            ],
+            [
+              "Déconnexion totale, nature intacte",
+              "Maupiti, Mataiva, Tikehau"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "randonnees-polynesie",
+      "title": "Les plus belles randonnées de Polynésie française",
+      "summary": "Deux tops 10 : l'un complet, l'autre dans une version plus accessible.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Top 10"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Randonnée",
+            "Île",
+            "Niveau",
+            "Durée",
+            "Description et points d'intérêt"
+          ],
+          "rows": [
+            [
+              "Mont Aorai",
+              "Tahiti",
+              "Difficile",
+              "6-8 heures (aller-retour)",
+              "Deuxième plus haut sommet de Tahiti, avec une vue à 360° sur l'île. Sentier escarpé à travers des crêtes et des forêts denses, avec des refuges en route pour des pauses."
+            ],
+            [
+              "Cascade de Fautaua",
+              "Tahiti",
+              "Modéré",
+              "4-5 heures",
+              "Vallée de la Fautaua jusqu'à une cascade de 300 mètres de haut. Passage par un ancien fort et baignade possible à la base de la chute."
+            ],
+            [
+              "Mont Rotui",
+              "Moorea",
+              "Difficile",
+              "5-6 heures",
+              "Vues spectaculaires sur les baies d'Opunohu et de Cook. Sentier escarpé avec des passages techniques, mais la vue en vaut la peine."
+            ],
+            [
+              "Col des Trois Cocotiers",
+              "Moorea",
+              "Facile à modéré",
+              "2-3 heures",
+              "Sentier facile à travers des forêts tropicales, avec des panoramas sur Moorea et ses lagons turquoise. Parfait pour une randonnée matinale."
+            ],
+            [
+              "Mont Temehani",
+              "Raiatea",
+              "Modéré",
+              "5-6 heures",
+              "Montagne sacrée de Raiatea. La randonnée mène à la fleur Tiare Apetahi, une plante endémique unique au monde. Vues magnifiques sur le lagon."
+            ],
+            [
+              "Plateau de Taravao",
+              "Tahiti Iti",
+              "Facile",
+              "2 heures",
+              "Randonnée facile sur le plateau de Taravao, avec une vue dégagée sur Tahiti Nui et Tahiti Iti. Idéal pour un pique-nique avec vue."
+            ],
+            [
+              "Mont Tohiea",
+              "Moorea",
+              "Difficile",
+              "7-8 heures",
+              "Plus haut sommet de Moorea. Randonnée ardue avec des passages raides à travers la jungle, récompensée par une vue imprenable sur toute l'île."
+            ],
+            [
+              "Mont Hiro",
+              "Huahine",
+              "Modéré",
+              "3-4 heures",
+              "Vue panoramique sur Huahine et ses motus. Parfait pour les amateurs de calme et de nature."
+            ],
+            [
+              "Mont Otemanu",
+              "Bora Bora",
+              "Difficile",
+              "4-5 heures",
+              "Randonnée technique menant au point culminant de Bora Bora. Vue spectaculaire sur le lagon bleu et les motus environnants. Un guide est recommandé."
+            ],
+            [
+              "Circuit de la vallée de Vaipo (cascade de Vaipo)",
+              "Nuku Hiva",
+              "Modéré à difficile",
+              "6 heures (aller-retour)",
+              "Vallées profondes et falaises jusqu'à la plus haute cascade de Polynésie, avec des piscines naturelles pour se rafraîchir."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Top 10, version accessible"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Randonnée",
+            "Île",
+            "Niveau",
+            "Durée",
+            "Description et points d'intérêt"
+          ],
+          "rows": [
+            [
+              "Cascade de Fautaua",
+              "Tahiti",
+              "Modéré",
+              "3-4 heures",
+              "Vallée de la Fautaua jusqu'à une cascade de 300 mètres de haut. Passage par un ancien fort avec possibilité de baignade."
+            ],
+            [
+              "Col des Trois Cocotiers",
+              "Moorea",
+              "Facile à modéré",
+              "2-3 heures",
+              "Sentier agréable à travers des forêts tropicales, avec des vues panoramiques sur Moorea et ses lagons. Idéal pour une randonnée matinale."
+            ],
+            [
+              "Sentier des anciens marae",
+              "Raiatea",
+              "Facile",
+              "1-2 heures",
+              "Randonnée culturelle à travers la vallée de Hotopu, pour explorer des marae (sites sacrés) et en apprendre plus sur l'histoire polynésienne."
+            ],
+            [
+              "Plateau de Taravao",
+              "Tahiti Iti",
+              "Facile",
+              "2 heures",
+              "Randonnée facile sur le plateau, avec une vue dégagée sur Tahiti Nui et Tahiti Iti. Parfait pour un pique-nique avec vue."
+            ],
+            [
+              "Belvédère d'Opunohu",
+              "Moorea",
+              "Facile",
+              "1 heure",
+              "Courte marche depuis le belvédère pour des vues spectaculaires sur les baies d'Opunohu et de Cook. Idéal pour les photos."
+            ],
+            [
+              "Mont Temehani Iti",
+              "Raiatea",
+              "Modéré",
+              "3-4 heures",
+              "Randonnée pour voir la fleur Tiare Apetahi endémique et profiter des vues panoramiques sur le lagon. Sentier bien balisé."
+            ],
+            [
+              "Circuit des grottes de Mara",
+              "Huahine",
+              "Facile",
+              "1-2 heures",
+              "Balade paisible à travers la végétation dense pour découvrir des grottes cachées, avec des vues sur la baie."
+            ],
+            [
+              "Vallée de Papenoo",
+              "Tahiti",
+              "Facile à modéré",
+              "3-4 heures",
+              "Vallée luxuriante avec des rivières, des bassins naturels et des chutes d'eau. Idéal pour une journée en pleine nature."
+            ],
+            [
+              "Chemin des anciens chefs (Te Pari)",
+              "Tahiti Iti",
+              "Modéré",
+              "3-4 heures",
+              "Sentier côtier avec des vues spectaculaires sur l'océan et des grottes marines. Possibilité d'apercevoir des tortues."
+            ],
+            [
+              "Sentier de la plage de Tikehau",
+              "Tikehau (Tuamotu)",
+              "Facile",
+              "1-2 heures",
+              "Randonnée relaxante le long de la plage de ce magnifique atoll, avec des vues sur les lagons et l'observation d'oiseaux tropicaux."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "Budget estimé",
+      "summary": "Résumé des coûts pour 2 personnes, en euros.",
+      "blocks": [
+        {
+          "type": "table",
+          "columns": [
+            "Catégorie",
+            "Estimation"
+          ],
+          "rows": [
+            [
+              "Vol international aller-retour",
+              "2 000 EUR"
+            ],
+            [
+              "Transports internes",
+              "1 200 EUR"
+            ],
+            [
+              "Hébergement (19 nuits)",
+              "3 800 EUR"
+            ],
+            [
+              "Activités et repas (19 jours)",
+              "3 800 EUR"
+            ],
+            [
+              "Total estimé pour 2 personnes",
+              "10 800 EUR"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "liens",
+      "title": "Liens utiles",
+      "summary": "Articles et itinéraires consultés.",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "[Visiter Joshua Tree (La Penderie de Chloé)](https://www.lapenderiedechloe.com/2018/09/visiter-joshua-tree.html)",
+            "[Itinéraire Tahiti 3 semaines : mon circuit en Polynésie, budget et bons plans](https://sacavoyage.fr/itineraire-tahiti-en-3-semaines/)",
+            "[Tous nos articles sur la Polynésie française (Car And Bag)](https://carandbag.com/category/destinations/oceanie/polynesie-francaise/)",
+            "[Polynésie : voyage au paradis, itinéraire et infos (Jolis Circuits)](https://www.joliscircuits.com/tres-grande-valise-circuits-long-courrier/voyage-polynesie-francaise/voyage-en-polynesie/)"
+          ]
+        }
+      ]
+    }
+  ],
+  "season": "Août / Septembre",
+  "kind": "long"
+}
