@@ -1,0 +1,490 @@
+{
+  "id": "venetie",
+  "title": "Vénétie",
+  "subtitle": "Cinq jours de Venise à Trévise : lagune et Murano, Padoue et Giotto, collines du Prosecco, villas palladiennes et asperges blanches",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Veneto",
+  "days": [
+    {
+      "n": 1,
+      "title": "Venise des Vénitiens : Dorsoduro et Cannaregio",
+      "summary": "Arrivée et installation à Cannaregio ou Dorsoduro pour éviter la foule, balade jusqu'à la pointe de la Douane, trois églises à voir en moins d'une heure chacune et cicchetti sur les quais de Cannaregio.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Venise",
+          "wiki": "Venice"
+        },
+        {
+          "name": "Punta della Dogana",
+          "wiki": "Punta della Dogana",
+          "culture": "Pointe qui sépare le Grand Canal du canal de la Giudecca, avec un point de vue sur la Giudecca d'un côté et San Marco de l'autre, sans la foule."
+        },
+        {
+          "name": "Santa Maria della Salute",
+          "wiki": "Santa Maria della Salute",
+          "culture": "Basilique baroque du XVIIe siècle, bâtie en action de grâces après la peste de 1630, dont l'architecture semble flotter sur l'eau ; entrée gratuite."
+        },
+        {
+          "name": "San Pantalon",
+          "wiki": "San Pantalon",
+          "culture": "Église à la façade inachevée qui cache le plus grand plafond peint sur toile au monde."
+        },
+        {
+          "name": "Santa Maria dei Miracoli",
+          "culture": "Petite église Renaissance en marbre polychrome, surnommée la boîte à bijoux de Venise et très appréciée des Vénitiens.",
+          "photo": "File:Santa Maria dei Miracoli (facciata).jpg",
+          "coords": [
+            45.438,
+            12.334
+          ]
+        },
+        {
+          "name": "Collection Peggy Guggenheim",
+          "wiki": "Peggy Guggenheim Collection",
+          "culture": "Collection d'art moderne installée dans le palais Venier dei Leoni, sur le Grand Canal, où vécut Peggy Guggenheim jusqu'à sa mort en 1979."
+        },
+        {
+          "name": "Fondamenta della Misericordia",
+          "coords": [
+            45.445,
+            12.332
+          ],
+          "culture": "Quai de Cannaregio bordé de bars et de restaurants, animé le soir, où l'on prend des cicchetti (petites tapas vénitiennes).",
+          "photo": "File:Fondamenta della Misericordia (Venice).jpg"
+        },
+        {
+          "name": "Teatro La Fenice",
+          "wiki": "La Fenice",
+          "culture": "Opéra de Venise, détruit par des incendies et reconstruit deux fois, d'où son nom de Phénix."
+        }
+      ],
+      "stay": {
+        "name": "Hébergement à Cannaregio ou Dorsoduro",
+        "coords": [
+          45.444,
+          12.33
+        ],
+        "note": "Installation à Cannaregio ou à Dorsoduro, pour éviter la foule"
+      },
+      "parts": [
+        {
+          "label": "Arrivée",
+          "text": "Arrivée et installation à Cannaregio ou Dorsoduro, pour éviter la foule."
+        },
+        {
+          "label": "Balade",
+          "text": "Commencer par le Dorsoduro, jusqu'à la pointe de la Douane (Punta della Dogana), le point de vue le plus pur."
+        },
+        {
+          "label": "Églises et art",
+          "text": "Santa Maria della Salute, San Pantalon, Santa Maria dei Miracoli : trois visites de moins d'une heure."
+        },
+        {
+          "label": "Soir",
+          "text": "Cicchetti sur les quais du Fondamenta della Misericordia (Cannaregio)."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "À pied et en vaporetto"
+        }
+      ],
+      "food": [
+        "Cicchetti sur les quais du Fondamenta della Misericordia, à Cannaregio."
+      ],
+      "ideas": [
+        {
+          "label": "En option : la collection Peggy Guggenheim",
+          "text": "Elle récapitule toute l'aventure de l'art moderne : Peggy Guggenheim, guidée notamment par Marcel Duchamp et Jean Cocteau, a réuni l'une des plus importantes collections d'art du XXe siècle et promu le surréalisme, l'abstraction européenne puis les artistes américains, dont Jackson Pollock. Un guide francophone privé est possible."
+        },
+        {
+          "label": "En option : un spectacle à la Fenice",
+          "text": "L'opéra de Venise est un paradoxe : alors que l'eau est une menace permanente, il a dû être reconstruit deux fois après des incendies. Sa décoration rococo en fait l'une des plus brillantes salles du monde, où l'on a applaudi Verdi, mais aussi Benjamin Britten, Luciano Berio ou Luigi Nono."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Murano et le Grand Canal",
+      "summary": "Vaporetto vers Murano à 8 h 30, ateliers de verre, basilique Santi Maria e Donato, puis Burano ou balade en vaporetto sur le Grand Canal au coucher du soleil.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Murano",
+          "wiki": "Murano",
+          "culture": "Île de la lagune connue depuis le XIIIe siècle pour son verre soufflé, dont les verriers ont été installés ici pour éloigner le risque d'incendie."
+        },
+        {
+          "name": "Basilique Santi Maria e Donato",
+          "wiki": "Santa Maria e San Donato",
+          "culture": "Basilique dont le sol en mosaïque byzantine du XIIe siècle est aussi beau que celui de Saint-Marc, mais presque sans visiteurs."
+        },
+        {
+          "name": "Burano",
+          "wiki": "Burano",
+          "culture": "Île aux façades de couleurs vives, réputée pour sa dentelle."
+        },
+        {
+          "name": "Grand Canal en vaporetto (ligne 1)",
+          "wiki": "Grand Canal (Venice)",
+          "coords": [
+            45.434,
+            12.333
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hébergement à Cannaregio ou Dorsoduro",
+        "coords": [
+          45.444,
+          12.33
+        ],
+        "note": "Même hébergement"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Vaporetto vers Murano à 8 h 30. Ateliers de verre : Wave Murano Glass ou Colleoni ; éviter les rabatteurs qui proposent des « démonstrations gratuites » à la sortie du bateau et viser les ateliers d'artistes, où l'on sent la chaleur du four. Basilique Santi Maria e Donato."
+        },
+        {
+          "label": "Après-midi, option 1",
+          "text": "Un saut à Burano (40 minutes de plus en bateau), pour le choc chromatique des façades."
+        },
+        {
+          "label": "Après-midi, option 2",
+          "text": "Retour à Venise. Au lieu de Burano, balade en vaporetto ligne 1 (le « bus » local) sur tout le Grand Canal au coucher du soleil : la plus belle visite d'architecture au monde pour le prix d'un ticket de bus."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Vaporetto vers Murano à 8 h 30 ; Burano à 40 minutes de plus en bateau"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Padoue et route vers les bulles",
+      "summary": "Train rapide Venise - Padoue (25 min), chapelle des Scrovegni à 10 h, jardin botanique, déjeuner près du Prato della Valle, puis route vers Valdobbiadene (1 h 15) avec un arrêt à la Villa Pisani de Stra.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Padoue",
+          "wiki": "Padua"
+        },
+        {
+          "name": "Chapelle des Scrovegni",
+          "wiki": "Scrovegni Chapel",
+          "culture": "Chapelle entièrement décorée de fresques de Giotto au XIVe siècle, chef-d'œuvre et jalon de l'histoire de l'art européen, célèbre pour le bleu de Giotto."
+        },
+        {
+          "name": "Jardin botanique de Padoue",
+          "wiki": "Orto botanico di Padova",
+          "culture": "Fondé en 1545 par l'université, c'est le plus ancien jardin botanique universitaire encore en activité, classé à l'UNESCO."
+        },
+        {
+          "name": "Prato della Valle",
+          "wiki": "Prato della Valle",
+          "culture": "L'une des plus grandes places d'Europe, entourée de statues."
+        },
+        {
+          "name": "Palazzo della Ragione",
+          "culture": "Palais de la Raison, ancien centre administratif et judiciaire de la ville, des XIIe-XVe siècles.",
+          "photo": "File:Exterior of Palazzo della Ragione (Padua).jpg",
+          "coords": [
+            45.4075,
+            11.877
+          ]
+        },
+        {
+          "name": "Palazzo Bo",
+          "wiki": "Palazzo Bo",
+          "culture": "Siège de l'université de Padoue depuis le XVe siècle."
+        },
+        {
+          "name": "Basilique Saint-Antoine",
+          "wiki": "Basilica of Saint Anthony of Padua"
+        },
+        {
+          "name": "Villa Pisani à Stra",
+          "culture": "Villa monumentale des bords de la Brenta, avec son bassin et sa façade ; sur ces rives se trouvent de nombreuses villas palladiennes, classées au patrimoine mondial.",
+          "photo": "File:Città di Stra - Villa Pisani - Facciata 45.407738,12.013244.jpg",
+          "coords": [
+            45.4077,
+            12.0132
+          ]
+        },
+        {
+          "name": "Valdobbiadene",
+          "wiki": "Valdobbiadene",
+          "culture": "Coeur de la zone de production du Prosecco Superiore, aux collines inscrites à l'UNESCO."
+        },
+        {
+          "name": "Colline du Cartizze",
+          "culture": "Colline de Valdobbiadene (Santo Stefano, Saccol) où les pentes sont les plus abruptes ; les vignes forment des vagues géométriques.",
+          "photo": "File:Pentagono del Cartizze 01.jpg",
+          "coords": [
+            45.9,
+            12.04
+          ]
+        },
+        {
+          "name": "Cantina Col Vetoraz",
+          "coords": [
+            45.904,
+            12.027
+          ],
+          "culture": "Cave de Valdobbiadene dont le point de vue offre un panorama sur les collines du Prosecco."
+        }
+      ],
+      "stay": {
+        "name": "Agriturismo dans les vignes, Valdobbiadene",
+        "coords": [
+          45.9,
+          12.04
+        ],
+        "note": "Agriturismo dans les vignes",
+        "options": [
+          "Pra' Dell'Ort",
+          "Due Carpini"
+        ]
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Train rapide Venise - Padoue (25 min), puis consigne à bagages à la gare ou récupération de la voiture de location. À 10 h, chapelle des Scrovegni (réservation obligatoire, le plus longtemps à l'avance possible, 30 min de visite intense), puis jardin botanique (2 h en tout avec le musée attenant)."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner près du Prato della Valle. À voir : le palais de la Raison, le palais Bo, la cathédrale et la basilique Saint-Antoine."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Route vers Valdobbiadene (1 h 15), avec un arrêt de 30 min à la Villa Pisani de Stra pour voir son bassin et sa façade monumentale, sans forcément entrer. Arrivée à Valdobbiadene pour le coucher du soleil sur les collines en « Rive » (vignes escarpées)."
+        },
+        {
+          "label": "Soir",
+          "text": "Nuit dans un agriturismo dans les vignes, dîner avec vue sur les vignes du Cartizze."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "train",
+          "text": "Train rapide Venise - Padoue (25 min), consigne à la gare ou voiture de location"
+        },
+        {
+          "mode": "car",
+          "text": "Route vers Valdobbiadene (1 h 15)"
+        }
+      ],
+      "food": [
+        "Déjeuner près du Prato della Valle.",
+        "Dîner avec vue sur les vignes du Cartizze."
+      ],
+      "notes": [
+        "Arriver à Valdobbiadene pour le coucher du soleil est le plus beau moment de la journée. Le point de vue de la Cantina Col Vetoraz offre une vue panoramique sur tout le « Pentagone d'Or »."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "La route palladienne et les asperges",
+      "summary": "Villa Barbaro à Maser, passage optionnel par Asolo, déjeuner d'asperges blanches à Bassano del Grappa, Ponte Vecchio, Marostica, puis retour à Asolo pour la tombée de la nuit.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Villa Barbaro à Maser",
+          "wiki": "Villa Barbaro",
+          "culture": "Villa palladienne décorée de fresques et de trompe-l'œil de Véronèse, qui explique pourquoi la noblesse vénitienne préférait la campagne à la lagune en été."
+        },
+        {
+          "name": "Asolo",
+          "wiki": "Asolo",
+          "culture": "Village « aux cent horizons », dominé par une forteresse, à parcourir à pied."
+        },
+        {
+          "name": "Bassano del Grappa",
+          "wiki": "Bassano del Grappa"
+        },
+        {
+          "name": "Ponte Vecchio de Bassano",
+          "wiki": "Ponte degli Alpini",
+          "culture": "Pont couvert en bois sur la Brenta, dit pont des Alpins."
+        },
+        {
+          "name": "Nardini",
+          "coords": [
+            45.766,
+            11.734
+          ],
+          "culture": "Distillerie historique de grappa, où l'on prend un « mezzo e mezzo » pour digérer.",
+          "photo": "File:Bassano del Grappa - Casa Nardini 01.jpg"
+        },
+        {
+          "name": "Marostica",
+          "wiki": "Marostica",
+          "culture": "Ville entourée de remparts qui grimpent jusqu'à un château supérieur ; sa place est un échiquier géant où se joue une partie d'échecs vivante."
+        }
+      ],
+      "stay": {
+        "name": "Agriturismo dans les vignes, Valdobbiadene",
+        "coords": [
+          45.9,
+          12.04
+        ],
+        "note": "Retour à Bassano ou à Valdobbiadene"
+      },
+      "parts": [
+        {
+          "label": "9 h 30",
+          "text": "Villa Barbaro à Maser (20 min de Valdobbiadene), le chef-d'œuvre de Véronèse : visite d'une heure, trompe-l'œil."
+        },
+        {
+          "label": "11 h 30",
+          "text": "Passage optionnel par Asolo : se garer et monter à pied ; le moment idéal pour un Prosecco en terrasse."
+        },
+        {
+          "label": "13 h",
+          "text": "Bassano del Grappa (25 min de Maser) : déjeuner d'asperges blanches dans une osteria historique. Balade au Ponte Vecchio en bois, « mezzo e mezzo » chez Nardini, puis Marostica (10 min de route)."
+        },
+        {
+          "label": "Fin de journée",
+          "text": "Si pas encore fait, route vers Asolo (15 min) pour voir le village s'illuminer : le spot le plus romantique du voyage. Retour à Bassano ou à Valdobbiadene."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture : Maser à 20 min de Valdobbiadene, Bassano à 25 min de Maser, Marostica à 10 min de Bassano, Asolo à 15 min"
+        }
+      ],
+      "food": [
+        "Déjeuner d'asperges blanches à Bassano del Grappa (Osteria Alla Caneva ou Ca' 7) : on écrase l'œuf dur dans l'huile d'olive, on y trempe l'asperge blanche fondante, un rituel.",
+        "« Mezzo e mezzo » chez Nardini."
+      ],
+      "notes": [
+        "C'est « l'heure de l'asperge » : viser une osteria historique. À Marostica, en mai, la vue sur la plaine depuis le château supérieur est sublime."
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Trévise pour finir : art, ville et tiramisu",
+      "summary": "Départ de Valdobbiadene le matin en suivant la ligne de crête : Molinetto della Croda, abbaye de Follina, Cison di Valmarino, puis déjeuner et balade à Trévise, à 30 min de l'aéroport. Deux autres options : Dolomites ou Vicence.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Molinetto della Croda",
+          "culture": "Ancien moulin à eau encastré dans la roche, avec une petite cascade, l'un des endroits les plus photographiés de la région du Prosecco.",
+          "photo": "File:Molinetto della Croda (Front).jpg",
+          "coords": [
+            45.96,
+            12.113
+          ]
+        },
+        {
+          "name": "Abbaye de Follina",
+          "culture": "Abbaye cistercienne du XIIe siècle, dont le cloître est un havre de paix.",
+          "photo": "File:FollinaChiostro.jpg",
+          "coords": [
+            45.95,
+            12.1
+          ]
+        },
+        {
+          "name": "Cison di Valmarino",
+          "wiki": "Cison di Valmarino",
+          "culture": "Classé parmi les plus beaux bourgs d'Italie, dominé par CastelBrando.",
+          "coords": [
+            45.99,
+            12.14
+          ]
+        },
+        {
+          "name": "CastelBrando",
+          "wiki": "CastelBrando",
+          "culture": "L'un des plus grands châteaux d'Europe, transformé en hôtel, que l'on rejoint en funiculaire.",
+          "coords": [
+            45.989,
+            12.142
+          ]
+        },
+        {
+          "name": "Via dei Mulini",
+          "coords": [
+            45.969,
+            12.152
+          ],
+          "culture": "Sentier des moulins, balade ombragée de 30 à 45 min au bord de l'eau."
+        },
+        {
+          "name": "Trévise",
+          "wiki": "Treviso",
+          "culture": "Surnommée la « Petite Venise » et « Urbs Picta », la ville peinte, pour ses façades fresquées et ses canaux."
+        },
+        {
+          "name": "Pescheria de Trévise",
+          "coords": [
+            45.669,
+            12.245
+          ],
+          "photo": "File:Isola della Pescheria (Treviso) 1.jpg",
+          "culture": "Petite île du centre de Trévise, entre deux bras du canal Cagnan, où se tient le marché aux poissons."
+        },
+        {
+          "name": "Le Beccherie",
+          "coords": [
+            45.667,
+            12.244
+          ],
+          "culture": "Restaurant où le tiramisu aurait été inventé.",
+          "photo": "File:Nicolamisù - IMG 1762 (41633752255).jpg"
+        }
+      ],
+      "stay": null,
+      "parts": [
+        {
+          "label": "9 h 30",
+          "text": "Molinetto della Croda (Refrontolo), à 15 min de Valdobbiadene : arrêt photo rapide de 30 min, idéal pour la lumière du matin."
+        },
+        {
+          "label": "10 h 30",
+          "text": "Follina, célèbre pour son abbaye cistercienne du XIIe siècle (visite du cloître 20 min), puis Cison di Valmarino : CastelBrando et la Via dei Mulini, balade nature de 30 à 45 min."
+        },
+        {
+          "label": "12 h 30",
+          "text": "Déjeuner à Trévise, la « Petite Venise », à 45 min de Cison."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Balade sous les arcades et le long des canaux du quartier de la Pescheria. Trévise est à seulement 30 min de l'aéroport : la plus logique pour finir, zéro stress pour le vol."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture : Refrontolo à 15 min de Valdobbiadene, Follina à 10 min, Cison de Valmarino à proximité, Trévise à 45 min de Cison"
+        }
+      ],
+      "food": [
+        "Déjeuner à Trévise : un dernier plat de pâtes fraîches ou un risotto près du canal de la Pescheria.",
+        "Tiramisu chez Le Beccherie, là où il aurait été inventé."
+      ],
+      "ideas": [
+        {
+          "label": "Option Nature épique : Dolomites, Cortina",
+          "text": "Si la météo est de cristal : 1 h 45 de route depuis Bassano, jusqu'au lac de Misurina. Un aller-retour intense, mais le contraste avec les vignes de la veille est un souvenir indélébile."
+        },
+        {
+          "label": "Option Architecture pure : Vicence",
+          "text": "À 40 min de Bassano, pour le Théâtre olympique et la Villa Rotonda. Très chic, très calme, très esthétique."
+        }
+      ]
+    }
+  ],
+  "guides": [],
+  "season": "Mi-saison",
+  "kind": "short"
+}

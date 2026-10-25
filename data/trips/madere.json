@@ -1,0 +1,767 @@
+{
+  "id": "madere",
+  "title": "Madère",
+  "subtitle": "Six jours de roadtrip entre Funchal, la côte nord et l'ouest : levadas, miradors, canyoning, broderie et vin, avec une nuit à Lisbonne",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Madeira",
+  "days": [
+    {
+      "n": 1,
+      "title": "Vendredi : vol vers Madère et Ponta de São Lourenço",
+      "summary": "Vol Nantes - Madère avec escale à Lisbonne, voiture de location, hôtel, randonnée à la Ponta de São Lourenço, coucher de soleil au Cristo Rei et dîner à Funchal.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Funchal",
+          "wiki": "Funchal"
+        },
+        {
+          "name": "Ponta de São Lourenço",
+          "wiki": "Ponta de São Lourenço",
+          "culture": "Pointe la plus à l'est de l'île, aux falaises rouges qui contrastent avec le bleu de l'océan, presque sans végétation ; c'est l'une des plus célèbres randonnées de Madère."
+        },
+        {
+          "name": "Miradouro do Cristo Rei",
+          "coords": [
+            32.637,
+            -16.879
+          ],
+          "culture": "Belvédère au pied de la statue du Christ-Roi de Garajau, avec une belle lumière le soir ; on accède au petit chemin à gauche de la statue.",
+          "photo": "File:Madeira-Cristo Rei at Garajau.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Hôtel Inn & Art",
+        "coords": [
+          32.65,
+          -16.91
+        ],
+        "note": "Hôtel Inn & Art (réservé sur Booking)"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Retour de la voiture de location à 9 h, départ d'Angers à 8 h au plus tard ; vol Nantes à 10 h 25, escale à Lisbonne d'une heure."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Arrivée à Madère à 14 h 20, voiture à 14 h 30. Passage à l'hôtel pour poser les affaires, welcome drinks. Randonnée à la Ponta de São Lourenço (15 h-17 h), puis exploration du nord-est de l'île."
+        },
+        {
+          "label": "Soir",
+          "text": "Retour à l'hôtel, puis départ à 20 h pour le dîner ; passage par le Miradouro Cristo Rei au coucher du soleil ; dîner à Funchal à 21 h."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol Nantes 10 h 25, avec escale d'une heure à Lisbonne ; arrivée à Madère à 14 h 20"
+        },
+        {
+          "mode": "car",
+          "text": "Voiture de location chez Cassiano's à 14 h 30 (navettes ; faire le self check-in et envoyer un WhatsApp le matin)"
+        }
+      ],
+      "food": [
+        "Dîner à Funchal à 21 h : Terra Food Concept, réservé sur TheFork."
+      ],
+      "notes": [
+        "La Ponta de São Lourenço (PR8) est un aller-retour d'environ 10 km (2 à 3 h avec des pauses), 3 € via l'application. Il faut réserver à l'avance : à une première visite, il n'y avait plus de places dans l'application, et il a fallu faire demi-tour."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Samedi : canyoning et route de la côte nord",
+      "summary": "Petit déjeuner vue mer et canyoning à Ribeiro Frio, puis déjeuner à Porto da Cruz et route de la côte nord jusqu'à São Vicente, où l'on arrive après 17 h 30 à cause des routes fermées pour un rallye.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Ribeiro Frio",
+          "culture": "Village de montagne du nord de l'île, en pleine forêt laurifère, point de départ de randonnées et site de canyoning.",
+          "photo": "File:Ribeiro Frio (Madeira, Portugal), Ribeiro Frio -- 2025 -- 1498.jpg",
+          "coords": [
+            32.7167,
+            -16.8833
+          ]
+        },
+        {
+          "name": "Porto da Cruz",
+          "wiki": "Porto da Cruz"
+        },
+        {
+          "name": "Santana",
+          "wiki": "Santana, Madeira",
+          "culture": "Connue pour ses maisons traditionnelles au toit de chaume très pointu, qui font aussi office de murs latéraux ; très touristique et photographiée."
+        },
+        {
+          "name": "Miradouro de São Cristóvão",
+          "coords": [
+            32.816,
+            -16.883
+          ],
+          "culture": "Belvédère sur le littoral nord, avec un restaurant et le départ d'une randonnée à flanc de falaise d'environ 2 h aller-retour.",
+          "photo": "local:madere-sao-cristovao"
+        },
+        {
+          "name": "São Vicente",
+          "culture": "Village central, sur la route qui traverse l'île du nord au sud, avec une église, des trottoirs pavés et des rues aux enseignes rétro.",
+          "photo": "File:2016. Rúa de Sao Vicente. Madeira. Portugal.jpg",
+          "coords": [
+            32.8,
+            -17.04
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Solar da Bica",
+        "coords": [
+          32.801,
+          -17.037
+        ],
+        "note": "Solar da Bica, São Vicente (réservation en direct ; pré-check-in par mail, obligatoire si arrivée hors de 15 h-18 h)"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Petit déjeuner vue mer ; canyoning à Ribeiro Frio (à réserver)."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Late lunch à la Baía do Bago (Porto da Cruz), route de la côte nord jusqu'à São Vicente, arrivée vers 16 h-17 h au Solar da Bica pour en profiter."
+        },
+        {
+          "label": "Soir",
+          "text": "Messe éventuelle le samedi soir (Feiteras 18 h, Seixal 18 h 30, Ponta Delgada Capela da Lombada 19 h) ; dîner à définir, Quinta do Furão ou Taberna São Vicente."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Route de la côte nord jusqu'à São Vicente, arrivée vers 16 h-17 h prévue"
+        }
+      ],
+      "food": [
+        "Petit déjeuner vue mer.",
+        "Déjeuner tardif à la Baía do Bago (Porto da Cruz).",
+        "Dîner à définir : Quinta do Furão ou Taberna São Vicente."
+      ],
+      "notes": [
+        "Routes fermées pour le rallye de São Vicente et Boaventura : la grande route du Nord est normalement libre à partir de 14 h 35 (bloquée par le parcours 6, alors que le parcours 8 s'arrête au croisement de l'école de Boaventura, qui n'est pas sur Google Maps). Le Solar da Bica est inaccessible avant 17 h 30 à cause des parcours 3, 6 et 9 : le seul créneau possible est entre 12 h et 13 h, entre les parcours 3 et 6, mais pas en venant de Boaventura. Il faut donc y arriver après 17 h 30.",
+        "Le canyoning demi-journée de niveau 2 est le bon niveau pour des débutants pas empotés."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Dimanche : côte nord et ouest, fête des fleurs",
+      "summary": "Messe, exploration rapide du centre de l'île (route ER105 fermée), puis roadtrip côte nord et ouest vers Atrio, avec Seixal et la forêt de Fanal ; l'après-midi, fête des fleurs à Funchal.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Seixal",
+          "photo": "File:Seixal - Madeira 01.jpg",
+          "coords": [
+            32.825,
+            -17.11
+          ],
+          "culture": "Village de pêcheurs du nord-ouest, connu pour sa plage de sable noir et ses cascades."
+        },
+        {
+          "name": "Praia do Porto do Seixal",
+          "coords": [
+            32.828,
+            -17.11
+          ],
+          "culture": "Unanimement la plus belle plage de l'île : sable noir, piscine naturelle, cascade qui se jette sur la plage et falaises alentour.",
+          "photo": "File:Panoramicas de Seixal (1).jpg"
+        },
+        {
+          "name": "Forêt de Fanal",
+          "wiki": "Fanal",
+          "culture": "Plateau de lauriers tortueux couverts de mousses et de lichens, vestiges de la forêt laurifère primaire qui couvrait une grande partie de l'Europe ; souvent dans la brume.",
+          "coords": [
+            32.796,
+            -17.137
+          ]
+        },
+        {
+          "name": "Fête des fleurs de Funchal",
+          "wiki": "Funchal",
+          "culture": "Fête printanière de Funchal, avec exposition de fleurs au Largo da Restauração et défilé."
+        },
+        {
+          "name": "Mirador de la côte ouest",
+          "coords": [
+            32.77,
+            -17.19
+          ],
+          "culture": "L'un des nombreux miradors de la côte ouest, où l'on regarde le soleil se coucher sur l'Atlantique."
+        }
+      ],
+      "stay": {
+        "name": "Atrio",
+        "coords": [
+          32.74,
+          -17.16
+        ],
+        "note": "Atrio, côte ouest (réservation en direct, arrivée annoncée à 14 h)"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Profiter de l'hôtel ; messe si pas déjà faite (église de Lameiros, juste devant le Solar da Bica, 10 h 15) ; exploration rapide du centre de l'île (ER105 fermée) éventuellement ; puis roadtrip côte nord et ouest jusqu'à Atrio ; arrêts éventuels à Seixal et à la forêt de Fanal."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Funchal : fête des fleurs à 16 h 30. Visites éventuelles : jardin botanique, dégustation de vin (Blandy's ; D'Oliveira fermé le dimanche), musée de la broderie Bordal."
+        },
+        {
+          "label": "Soir",
+          "text": "Retour à Atrio, coucher du soleil à un mirador de la côte ouest, dîner à définir."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Roadtrip côte nord et ouest jusqu'à Atrio"
+        }
+      ],
+      "food": [
+        "Dîner à définir : Sunshine Pub & Grill ?"
+      ],
+      "ideas": [
+        "Porto Moniz, au nord-ouest, entre l'océan et des formations rocheuses, avec des piscines naturelles : sympa mais surcoté, assez bétonné.",
+        "Miradouro da Garganta Funda et Ponta do Tristão, la pointe la plus occidentale de l'île, top pour attendre la tombée de la nuit."
+      ],
+      "notes": [
+        "La très belle route ER105, au centre de l'île, qui relierait Funchal plus vite aux 25 Fontes et à Fanal, est fermée à cause des feux de forêt et des éboulements."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Lundi : nord-ouest et retour à Funchal",
+      "summary": "Roadtrip dans le nord-ouest de l'île (Fanal si pas déjà fait) ou canyoning ; déjeuner près de Seixal ou coupe vers Funchal par la randonnée PR25 ; retour à Funchal pour le jardin botanique, le vin et la broderie ; coucher de soleil à la vallée des Nonnes et dîner en taverne.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Levada das 25 Fontes",
+          "culture": "Randonnée parmi les plus célèbres de Madère : belle vue sur la vallée de Rabaçal, marche le long d'une levada dans la forêt laurifère et cascades impressionnantes, à combiner avec la levada do Risco et la levada do Alecrim.",
+          "photo": "File:Levada das 25 Fontes - 2009-06-30 13-56-17.jpg",
+          "coords": [
+            32.756,
+            -17.131
+          ]
+        },
+        {
+          "name": "Mercado dos Lavradores",
+          "wiki": "Mercado dos Lavradores",
+          "culture": "Marché des agriculteurs de Funchal, sur trois niveaux autour d'un patio aux pierres noires et blanches ; à voir pour l'architecture et les étals, mais pas pour acheter fruits et légumes, très chers."
+        },
+        {
+          "name": "Jardin tropical du Monte Palace",
+          "photo": "File:Monte Palace Tropical Garden - Fountain 01.jpg",
+          "coords": [
+            32.667,
+            -16.899
+          ],
+          "culture": "Jardin tropical sur les hauteurs de Funchal, aux azulejos, fontaines et collections de plantes du monde."
+        },
+        {
+          "name": "Broderie Bordal",
+          "coords": [
+            32.646,
+            -16.912
+          ],
+          "culture": "Manufacture emblématique de la broderie de Madère, où l'on peut visiter les ateliers avec les brodeuses encore en activité."
+        },
+        {
+          "name": "Blandy's Wine Lodge",
+          "photo": "File:Blandy's Wine Lodge - Funchal 03.jpg",
+          "coords": [
+            32.649,
+            -16.906
+          ],
+          "culture": "Institution du vin de Madère, installée dans un ancien monastère, avec dégustations et visites guidées."
+        },
+        {
+          "name": "Eira do Serrado",
+          "culture": "Belvédère spectaculaire sur la vallée des Nonnes et le village de Curral das Freiras, accroché à la montagne ; un incontournable, plus calme le matin ou en fin d'après-midi.",
+          "photo": "File:Curral das Freiras from Eira do Serrado 02.jpg",
+          "coords": [
+            32.715,
+            -16.961
+          ]
+        }
+      ],
+      "stay": {
+        "name": "Hôtel Quinta da Serra",
+        "coords": [
+          32.67,
+          -16.95
+        ],
+        "note": "Hôtel Quinta da Serra (réservé via eDreams)"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Roadtrip dans le nord-ouest de l'île, sur les parties pas déjà faites : potentiellement la forêt de Fanal. Ou canyoning si pas déjà fait."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Déjeuner dans le nord-ouest, peut-être vers Seixal, ou coupe vers Funchal par la randonnée PR25. Retour à Funchal : nouvelle occasion pour le jardin botanique, le vin et la broderie. Installation à l'hôtel Quinta da Serra."
+        },
+        {
+          "label": "Soir",
+          "text": "Coucher du soleil à la vallée des Nonnes si beau temps ; dîner à Funchal."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Voiture"
+        }
+      ],
+      "food": [
+        "Dîner en taverne à Funchal : Taberna Portuense, réservée à 21 h sur TheFork."
+      ],
+      "ideas": [
+        "Randonnée PR6, levada das 25 Fontes : par exemple Bica da Cana au lever du soleil, puis la levada (2 à 3 h selon les pauses photo). Payante et sur réservation ; il existe un tarif maximum par jour pour les randonnées de l'île, donc deux segments suffisent à plafonner le prix.",
+        "Randonnée PR9, levada do Caldeirão Verde : très populaire, à faire tôt le matin ou en fin de journée ; déconseillée aux claustrophobes (tunnels) ; prévoir chaussures imperméables et coupe-vent, car très humide."
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Mardi : dernières visites et nuit à Lisbonne",
+      "summary": "Profiter de l'hôtel, rattraper ce qu'on n'a pas fait (Funchal, canyoning reporté, vallée des Nonnes, 25 Fontes), retour à l'aéroport à 18 h, dîner à l'aéroport et nuit à Lisbonne.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Fajã dos Padres",
+          "photo": "local:madere-faja-dos-padres",
+          "coords": [
+            32.648,
+            -16.993
+          ],
+          "culture": "Les fajãs sont des zones plates cultivables au pied de falaises volcaniques ; celle-ci se rejoint par un téléphérique, et son restaurant sert un bolo do caco fait avec les produits de son potager."
+        },
+        {
+          "name": "Curral das Freiras",
+          "wiki": "Curral das Freiras",
+          "culture": "Village niché au fond d'un ancien cratère, la « vallée des Nonnes », où des religieuses se seraient réfugiées au XVIe siècle."
+        },
+        {
+          "name": "Aéroport de Madère",
+          "wiki": "Madeira Airport"
+        },
+        {
+          "name": "Lisbonne",
+          "wiki": "Lisbon"
+        }
+      ],
+      "stay": {
+        "name": "Boavista 83, Lisbonne",
+        "coords": [
+          38.708,
+          -9.15
+        ],
+        "note": "Nuit au Boavista 83 à Lisbonne (réservation en direct, check-in possible par mail)"
+      },
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Profiter de l'hôtel ; ce qu'on n'a pas encore fait : reste des activités à Funchal, canyoning si reporté, etc."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Ce qu'on n'a pas encore fait : vallée des Nonnes, 25 Fontes, etc."
+        },
+        {
+          "label": "Soir",
+          "text": "Retour à l'aéroport à 18 h, dîner à l'aéroport, nuit à Lisbonne."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol Madère - Lisbonne en fin de journée"
+        }
+      ],
+      "food": [
+        "Dîner à l'aéroport."
+      ],
+      "ideas": [
+        "Câmara de Lobos : centre très mignon à 15 min de Funchal, pour se balader et boire un café avec vue.",
+        "Cabo Girão : belvédère à plus de 500 m de hauteur avec promontoire en verre ; payant pour s'en approcher, jugé surcoté."
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Mercredi : Lisbonne et retour",
+      "summary": "Matinée de travail dans la chambre, check-out à 11 h, cowork de 11 h à 16 h, puis vol à 18 h 15 et arrivée à Paris à 21 h 30.",
+      "route": "none",
+      "stops": [
+        {
+          "name": "Lisbonne",
+          "wiki": "Lisbon"
+        }
+      ],
+      "stay": null,
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Travail dans la chambre le matin, check-out à 11 h (12 h en France)."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Cowork de 11 h à 16 h, réservé 5 h ; départ du cowork à 16 h (17 h en France), vol à 18 h 15."
+        },
+        {
+          "label": "Soir",
+          "text": "Arrivée à Paris à 21 h 30."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Vol Lisbonne - Paris à 18 h 15, arrivée à 21 h 30"
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "villages",
+      "title": "Villages et visites",
+      "summary": "Funchal, Porto Moniz, Santana, Câmara de Lobos, Ponta do Sol, Jardim do Mar et São Vicente.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Funchal"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Mercado dos Lavradores : à voir pour l'architecture et les étals, mais pas pour acheter fruits et légumes. On y goûte la pitanga, le maracujá-banane ou la banane-ananas.",
+            "Téléphérique jusqu'au village de Monte : 25 € l'aller-retour, jugé trop cher. Jardin tropical du Monte Palace : 15 €. Il existe plusieurs jardins botaniques à Funchal, celui de Monte Palace est le plus beau ; un deuxième téléphérique mène au Jardin botanique de Madère.",
+            "Vieille ville : l'avenue Arriaga et la rua dos Capelistas, le palais São Lourenço, la cathédrale Sé. Rua de Santa Maria, connue pour ses peintures murales sur les portes des commerces, véritable musée à ciel ouvert.",
+            "Musées : le musée CR7, dédié à Cristiano Ronaldo ; le musée de la photographie, à la façade rétro rose ; la Quinta das Cruzes, pour les arts décoratifs portugais du XVe au XXe siècle."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Autres villages"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Porto Moniz : route vers le nord-ouest, entre l'océan et des formations rocheuses. Piscines naturelles sympa mais surcotées, assez bétonnées.",
+            "Santana : habitat traditionnel madérien, chaumières au toit très pointu. Surcoté, instagrammable, touristique.",
+            "Câmara de Lobos : à 15 min de Funchal, centre très mignon. Rien de particulier à faire, sinon se balader et boire un café avec vue sur l'océan.",
+            "Ponta do Sol : village niché dans une petite baie, entre l'océan et les montagnes. Un festival de musique avait lieu sur la digue le jour de la visite.",
+            "Jardim do Mar : vraiment très beau, mieux que les deux précédents. Centre plus mignon, belle vue depuis la promenade panoramique autour du village (côte et cascades à pic), ruelles piétonnes très romantiques. Attention aux nombreux escaliers.",
+            "São Vicente : village central, sur la route qui traverse l'île du nord au sud. Peu de choses à visiter, mais un centre très mignon pour une pause, avec une église, des trottoirs pavés et des enseignes rétro. Sur un piton rocheux, la petite chapelle blanche de Nossa Senhora de Fátima. À la sortie du village, un Continente, l'une des deux grandes chaînes de supermarchés du Portugal avec Pingo Doce."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "restaurants",
+      "title": "Où manger",
+      "summary": "Restaurants, boulangerie et spécialités de Madère, avec ce qui a été testé ou non.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Sud et est"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Abrigo do Pastor : cuisine traditionnelle de Madère dans un décor authentique. Pas testé."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Funchal et sud"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Casa do Bolo do Caco : petits sandwichs typiques de Madère, garnis à votre convenance. Très bon.",
+            "Casa do Farol (Câmara de Lobos) : restaurant près du port, viandes grillées ou poisson. Pas testé.",
+            "Fajã dos Padres (plage) : restaurant cher mais bien placé, avec un bolo do caco fait avec les produits de leur potager. Une simple glace était parfaite.",
+            "[TERRA Food Concept](https://www.thefork.co.uk/restaurant/terra-food-concept-r726506) : dans les vieilles ruelles de Funchal, gastronomique. Pas testé."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Centre"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Sabores do Curral : restaurant typique avec une belle vue, plats traditionnels à base de châtaignes. Pas testé."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Nord-est"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Restaurant São Cristóvão (près du belvédère) : déjeuner avec vue imprenable sur les pics et promontoires du littoral. Pas mangé sur place, mais la vue est dingue.",
+            "Quinta do Furão (environ 30 € par personne) : restaurant sur falaise, super pour un dîner de qualité dans un beau cadre.",
+            "Padaria do Calhau : boulangerie traditionnelle, considérée par beaucoup comme l'une des meilleures institutions."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Spécialités : le bolo do caco"
+        },
+        {
+          "type": "text",
+          "text": "Le bolo do caco est le pain local à base de patate douce, à la fois accompagnement et plat à part entière : odorant, fin, à la croûte légèrement brûlée. On peut apprendre à le préparer avec une famille locale (pétrir la pâte, préparer le beurre à l'ail, cuire, puis déguster tout chaud avec des produits du jardin et un verre de poncha)."
+        },
+        {
+          "type": "list",
+          "items": [
+            "La cuisson : il doit être cuit sur une pierre de basalte (le « caco »).",
+            "La texture : la mie très moelleuse grâce à la patate douce, et la croûte avec quelques taches de brûlé superficielles.",
+            "L'accompagnement : ne jamais le manger sans son beurre à l'ail et au persil, fraîchement fondu."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "randonnees",
+      "title": "Randonnées et levadas",
+      "summary": "Les levadas, les randonnées à ne pas manquer, leur niveau, leur durée et les pièges à éviter.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "État des sentiers : [Madeira Journey, trails status](https://madeirajourney.com/trails-status/)."
+        },
+        {
+          "type": "heading",
+          "text": "Les levadas"
+        },
+        {
+          "type": "text",
+          "text": "Beaucoup de randonnées suivent des levadas, des aqueducs ou rigoles construits le long des montagnes. Creusées à partir du XVIe siècle pour irriguer les parties reculées de l'île, elles serpentent partout malgré le relief, et permettent aujourd'hui de suivre des sentiers balisés, toujours en pente douce. La levada Referta permet d'explorer le nord-est de l'île et ses villages pittoresques, avec le rocher de Penha d'Águia, une faune et une flore endémiques."
+        },
+        {
+          "type": "heading",
+          "text": "Les plus belles"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Ponta de São Lourenço (PR8) : à l'extrême est, idéale pour le lever du soleil. Végétation presque inexistante, terre rouge qui contraste avec le bleu de l'océan. 10 km, mais on peut faire demi-tour quand on veut (aller-retour) ; comptez 2 à 3 h avec des pauses, 3 € via l'application. Attention : il faut réserver à l'avance, sinon il n'y a plus de places.",
+            "Pico do Arieiro (PR1) : la randonnée phare de l'île, et de loin la plus belle. Connue pour le lever du soleil (les places partent en premier sur l'application), toujours avec des contrôles. Départ au parking du Miradouro do Pico do Arieiro. Le long sentier de 12 km jusqu'au Pico Ruivo, avec 1 000 m de dénivelé, est fermé à cause des incendies, avec des ouvertures ponctuelles ; c'est un aller simple, donc à éviter, puisqu'une navette ou un taxi sont très chers et très longs. La randonnée consiste donc à marcher 1,8 km, puis à faire demi-tour : 20 à 30 minutes à l'aller, sans grande difficulté, très impressionnant.",
+            "Achada do Teixeira au Pico Ruivo (PR1.2) : 5,6 km aller-retour, environ 2 h, à 30 min de Porto da Cruz. Une alternative plus facile pour découvrir le Pico Ruivo, à faire au lever du soleil.",
+            "Pico Grande : depuis le point de vue de Boca da Corrida, 10 km aller-retour avec 700 m de dénivelé, réservé à ceux qui n'ont pas le vertige (cordes et escalade) et en bonne condition physique.",
+            "Levada das 25 Fontes (PR6) : l'une des plus célèbres, à combiner en boucle depuis le parking avec la levada do Risco (PR6.1) et la levada do Alecrim (PR6.2). Belle vue sur la vallée de Rabaçal, marche en forêt laurifère, cascade de Risco, petits oiseaux. Payante et sur réservation ; il existe un tarif maximum par jour.",
+            "Forêt de Fanal : au nord-ouest, par la route ER209, sur de larges plateaux. Restes de la forêt laurifère primaire, arbres centenaires qui rappellent une œuvre de Tim Burton. On peut se balader au hasard ou prendre la levada dos Cedros (PR14) ou la vereda do Fanal (PR13), soumises à une taxe de 3 €. Vérifier en amont si les sentiers sont ouverts.",
+            "Levada do Caldeirão Verde (PR9) : très populaire, à faire très tôt le matin ou en fin de journée ; parking payant (8 €), la barrière se lève en fin d'après-midi. Déconseillée aux claustrophobes (tunnels) ; chaussures imperméables et coupe-vent."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Conseils"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La météo peut être très aléatoire au Pico do Arieiro, à plus de 1 800 m : prévoir un coupe-vent.",
+            "Pour savoir si le paysage est dégagé, ne pas regarder la météo (elle ment) mais les webcams en ligne ; c'est valable pour tous les endroits de Madère."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plages-miradors-cascades",
+      "title": "Plages, miradors et cascades",
+      "summary": "Les plus belles plages, les miradors par côte et les cascades, avec ce qu'il vaut mieux éviter.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Plages"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Praia Machico : beau sable.",
+            "Praia Garajau : assez difficile d'accès (téléphérique) mais très belle.",
+            "Praia do Porto do Seixal : unanimement la plus belle plage de l'île, de sable noir, avec une piscine naturelle qui la borde, une cascade qui se jette sur la plage et des falaises alentour.",
+            "Fajã dos Padres : un des endroits préférés. Un téléphérique impressionnant descend jusqu'à un petit village de bord de mer, avec une plantation de bananes, de fruits et de fleurs, et un petit hôtel ; un monte-charge remonte les récoltes. Les fajãs sont ces zones plates cultivables, d'origine volcanique, au pied d'immenses falaises ; sur une île où les terrains plats sont rares, on les exploite malgré tout. [Plus d'infos sur les fajãs](https://fr.wikipedia.org/wiki/Faj%C3%A3)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Miradors"
+        },
+        {
+          "type": "text",
+          "text": "C'est l'activité principale de l'île, il y en a partout."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Côte sud : Miradouro do Cristo Rei (belle lumière le soir, petit chemin à gauche de la statue) ; Cabo Girão, jugé une arnaque : il faut payer pour s'approcher du promontoire en verre, à plus de 500 m de hauteur.",
+            "Côte nord : Miradouro do Guindaste ; Miradouro da Vigia ; Miradouro de São Cristóvão (paysage formidable, restaurant, départ d'une randonnée à flanc de falaise de 2 h aller-retour).",
+            "Côte nord-ouest : Miradouro Ilhéus da Ribeira da Janela, aux formations rocheuses pointues.",
+            "Côte ouest : Miradouro da Garganta Funda ; Ponta do Tristão, la pointe la plus occidentale, peu connue, avec de bonnes chances d'être seul.",
+            "Centre : Mirador dos Balcões et Eira do Serrado, vue spectaculaire sur la vallée des Nonnes et le village de Curral das Freiras, incontournable ; plus calme le matin ou en fin d'après-midi. Miradouro do Chão do Pasto, jolie vue pour le coucher du soleil. Bica da Cana, avec un peu de chance au-dessus d'une mer de nuages.",
+            "Côte nord-est : Rocha do Navio, vue sur une fajã ; Beira da Quinta."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Cascades"
+        },
+        {
+          "type": "list",
+          "items": [
+            "À éviter : Cascata dos Anjos, près de Ponta do Sol, cascade très célèbre qui tombe sur la route, avec des dizaines de personnes pour la photo.",
+            "Cascade Lombinho : une chute d'eau entourée de végétation tropicale qui se jette sur la route, sans personne autour. L'arrêt est rapide, mais ça vaut le coup ; il faut se garer sur la route, attention à la sortie de virage."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "canyoning",
+      "title": "Canyoning",
+      "summary": "Spots, niveaux, prix et compagnies pour faire du canyoning à Madère.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Madère est un terrain de jeu idéal pour le canyoning : paysages luxuriants, cascades et reliefs spectaculaires. Une demi-journée de niveau 2 est le bon niveau pour des débutants pas empotés. La compagnie choisit le spot selon la saison, et fait en général une réduction si l'on y va en voiture, plutôt qu'en navette depuis Funchal. Ribeira do Cidrão / vallée des Nonnes : génial. À éviter : Ribeira das Cales, trop débutant."
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Compagnie",
+            "Ce qu'il faut savoir",
+            "Prix"
+          ],
+          "rows": [
+            [
+              "Fast Rope Tours",
+              "Utilisée, top. [fastropemadeira.com](https://www.fastropemadeira.com/). Intermédiaire : Ribeira do Cidrão (Curral das Freiras), Ribeira do Lajeado (Rabaçal), Ribeira do Alecrim (Rabaçal), Ribeiro Frio (Santana). Avancé : Ribeira Funda (Seixal), Ribeira da Furna (Santana), Ribeira da Camisa (Ponta Delgada).",
+              "Intermédiaire 80 € ; avancé 150 €"
+            ],
+            [
+              "Epic Madeira",
+              "Compagnie numéro 1 sur l'île. 5 à 6 h (2 à 3 h 30 dans le canyon), photos gratuites, 10 % de réduction sans transfert. [epicmadeira.com](https://epicmadeira.com/all-tours/). Intermédiaire (12 ans et plus) : Funchal, Curral das Freiras, Ribeiro Frio, Paul da Serra.",
+              "Intermédiaire 83,93 €"
+            ],
+            [
+              "Madeira Adventure Kingdom",
+              "Compagnie historique et très sérieuse. Très peu de créneaux sur le site : il vaut mieux les contacter directement ; pas de disponibilité lors des demandes, liste d'attente demandée. Ribeira do Cidrão (Curral das Freiras) et Ribeira do Lajeado (Paul da Serra), niveau 2 intermédiaire.",
+              "-"
+            ],
+            [
+              "Discovery Island Madeira",
+              "[discoveryisland-madeira.com](https://discoveryisland-madeira.com/experiences/canyoning/). Niveau 2, modéré, Curral das Freiras.",
+              "90 €"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "broderie",
+      "title": "La broderie de Madère",
+      "summary": "La manufacture Bordal et le parcours de fabrication en six étapes.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "La broderie madérienne est réputée pour ses détails complexes et son identité unique. Bordal (rua Fernão de Ornelas, 77) est la manufacture emblématique, vraiment canon. Pas de réservation nécessaire : il suffit d'arriver au magasin avant le début de la visite. Il y a des horaires, mais on peut simplement entrer et demander à visiter : une visite privée avec les brodeuses encore en activité dans les ateliers à l'étage. En semaine uniquement, et ça vaut le coup."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Visites guidées : 9 h 30, 10 h 30, 11 h 30, 12 h 30, 14 h 30, 15 h 30, 16 h 45 et 17 h 30. Prix : 5 € par personne.",
+            "Ateliers pour apprendre à broder : tous les jeudis de 10 h 30 à 12 h."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Histoire et méthode"
+        },
+        {
+          "type": "text",
+          "text": "La broderie de Madère fait partie de l'histoire et des racines de chaque maison madérienne. Il y a un siècle, il existait environ 100 maisons de broderie ; aujourd'hui, on peut les compter sur les doigts d'une main. La plupart des brodeuses travaillent à domicile dans les villages de montagne ; l'usine est le centre où le tissu est préparé avant de partir dans les familles, puis réceptionné pour les finitions. La visite suit les six étapes traditionnelles :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Le dessin : les artistes créent des motifs à la main sur du papier calque.",
+            "La perforation : le dessin est piqué de milliers de petits trous pour créer un pochoir. Certains papiers calques perforés ont plus de 100 ans. C'est souvent l'étape qui impressionne le plus.",
+            "L'impression : une éponge imbibée d'encre bleue spéciale transfère le motif sur le tissu (lin, soie ou coton).",
+            "La broderie : le travail est souvent fait à domicile à travers l'île, avant de revenir à l'usine.",
+            "Lavage et repassage : les pièces sont nettoyées pour enlever l'encre bleue et lissées à la vapeur.",
+            "La découpe (recorte) : l'étape finale, où l'on retire l'excédent de tissu autour des motifs ajourés."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vin-de-madere",
+      "title": "Le vin de Madère",
+      "summary": "Où déguster et ce qu'il faut savoir sur le vin de Madère : méthodes, cépages, histoire.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Où déguster"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Pereira d'Oliveira : la meilleure qualité, avec des stocks incroyables de vieux millésimes (frasqueiras). Moins organisé pour les touristes, donc plus authentique : il faut entrer et demander à goûter, la dégustation de base est souvent offerte (et on peut goûter des vins très anciens au verre à un prix raisonnable), mais ils s'attendent à ce qu'on achète. Fermé le dimanche.",
+            "Blandy's Wine Lodge : l'institution de l'île, dans un ancien monastère. Plus touristique, mais beau et bien fait pour déguster. On s'est simplement assis dans l'espace dégustation pour une formule de 4 verres, autour de 12 € (super pas cher), qui permet de comparer les cépages, du plus sucré au moins sucré. Il y a aussi des visites guidées.",
+            "Vinhos Barbeito : sur les hauteurs, près de Câmara de Lobos, plus moderne."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Définitions"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Estufagem : méthode rapide, où le vin est chauffé artificiellement en cuve (environ 45-50 °C pendant quelques mois), puis repose. Utilisée pour les Madères jeunes (souvent 3 ans). Résultat : des profils corrects mais plus simples, parfois légèrement « cuits ».",
+            "Canteiro : méthode traditionnelle, où le vin vieillit en fûts, lentement, sous la chaleur naturelle des greniers exposés au soleil, pendant des années voire des décennies. Résultat : des vins plus complexes, fins et concentrés, typiques des Madères haut de gamme."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Le Madère est pratiquement indestructible : on a goûté des Madères des années 1880 au goût frais, malgré leur aspect trouble. Une bouteille se garde presque indéfiniment et, une fois ouverte, reste buvable après un an. Tout ce qui peut arriver de « mauvais » à un vin lui est déjà arrivé : il est oxydé, vieilli et chauffé (littéralement « madérisé »). Des millésimes anciens sont encore disponibles, mais de plus en plus chers et difficiles à trouver, même sur l'île : des bouteilles des années 1960-1970 se vendent plusieurs centaines d'euros."
+        },
+        {
+          "type": "heading",
+          "text": "Le vin de Madère en 10 points"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tout est histoire. Le vin de Madère remonte au XVIe siècle, avec les premiers plants (Malvasia Candida) installés à Fajã dos Padres par des moines. On a découvert que le vin placé en lest au fond des bateaux, qui faisaient des allers-retours à travers l'Atlantique, était meilleur : c'est le « vinho da roda ». La fortification, c'est-à-dire l'ajout d'alcool pour arrêter la fermentation, ne s'est généralisée qu'au milieu du XVIIIe siècle.",
+            "Le lien avec la Grande-Bretagne. Comme le porto, le Madère a une longue histoire avec le Royaume-Uni, ce qui lui vaut une image un peu démodée ; mais il connaît une renaissance.",
+            "La géographie. L'île est montagneuse et volcanique, du niveau de la mer, où poussent les bananes, aux sommets qui voient parfois la neige. La plupart des vignes sont en terrasses, plus haut, dans le sud-ouest, entre 200 et 800 m, car le nord est plus humide et plus frais. Il n'y a que 450 ha cultivés, et certaines variétés ne représentent que de minuscules quantités : 4 ha de Terrantez, par exemple.",
+            "Les cépages. Les plus notables et prisés sont, par ordre de douceur croissante : Sercial (« l'étrangleur de chiens »), Verdelho, Bual (Boal) et Malvasia (Malmsey), puis des cépages rares comme le Bastardo et l'extrêmement rare Terrantez. Le plus planté est le Tinta Negra. Si une variété figure sur l'étiquette, elle doit représenter au moins 85 % du contenu.",
+            "Il n'y en a pas beaucoup : à peine 3,1 millions de litres vendus en 2021, alors que Gallo, premier producteur mondial, en fait plus de 70 millions chaque année.",
+            "Le climat. Une température moyenne de 19 °C et des pluies assez constantes font de Madère un endroit difficile pour cultiver la vigne ; pergolas, palissage vertical et altitude rendent la culture tout juste possible, mais maladies et maturation sont un défi.",
+            "Le vin de cuisine. La plupart des Madères sont faits par estufa, avec des assemblages où domine le Tinta Negra : on les cuit dans de grandes cuves en inox pour leur donner les caractères oxydatifs. La France et la Belgique en consomment beaucoup pour la cuisine. Une bouteille sans millésime ni mention d'âge est faite par cette méthode.",
+            "Le Madère de qualité est produit par le système canteiro : le vin vieillit en fûts pendant 5, 10, 15 ans ou plus. Les vins avec mention d'âge sont des assemblages. Avec un millésime, on parle de frasqueira (plus de 20 ans) ou de colheita (un seul millésime, 5 à 18 ans en fût), toujours d'un seul cépage. En général, plus il est vieux, plus il est complexe. Une fois en bouteille, le vin ne vieillit plus : on voit donc deux dates sur l'étiquette, celle de la mise en bouteille et celle du millésime.",
+            "Le vin de table de Madère s'appelle « Madeiran Wine », pour le distinguer du Madère fortifié. La production est faible et limitée par l'acidité naturelle. Visites : Terras do Avô et Quinta do Barbusano, deux salles de dégustation avec des vues superbes ; Terras do Avô est un cran au-dessus en qualité.",
+            "Production réglementée par l'organisme qui supervise aussi la broderie : l'Institut du vin, de la broderie et de l'artisanat de Madère (IVBAM)."
+          ]
+        }
+      ]
+    }
+  ],
+  "season": "Mi-saison",
+  "kind": "short",
+  "done": true
+}

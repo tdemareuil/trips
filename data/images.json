@@ -5434,5 +5434,525 @@
   "page": "https://commons.wikimedia.org/wiki/File:Coastline_near_Iftane_beach,_Sidi_Ahmed_Essayeh,_Morocco,_2008.jpg",
   "artist": "DimiTalen",
   "license": "CC0"
+ },
+ "Asolo": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Asolo-Nov-2021jpg_%283%29.jpg/1920px-Asolo-Nov-2021jpg_%283%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Asolo-Nov-2021jpg_(3).jpg",
+  "artist": "ModriDirkac",
+  "license": "CC BY-SA 4.0",
+  "lat": 45.8,
+  "lon": 11.91667,
+  "extract": "Asolo est une commune italienne d'environ 8 870 habitants, située dans la province de Trévise, en Vénétie, région d'Italie du nord-est.",
+  "article": "https://fr.wikipedia.org/wiki/Asolo"
+ },
+ "Basilica of Saint Anthony of Padua": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Basilica_of_St._Anthony_in_Padua.jpg/1920px-Basilica_of_St._Anthony_in_Padua.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Basilica_of_St._Anthony_in_Padua.jpg",
+  "artist": "G41rn8 (edited by MenkinAlRire)",
+  "license": "CC BY-SA 4.0",
+  "lat": 45.4015,
+  "lon": 11.8809,
+  "extract": "La basilique Saint-Antoine de Padoue est la deuxième plus grande église de la ville de Padoue en Italie et la plus visitée. Elle n'est néanmoins pas la cathédrale padouane, titre qui revient au Dôme de Padoue.",
+  "article": "https://fr.wikipedia.org/wiki/Basilique_Saint-Antoine_de_Padoue"
+ },
+ "Bassano del Grappa": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Bassano_del_Grappa_Vista_Aerea.jpg/1920px-Bassano_del_Grappa_Vista_Aerea.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bassano_del_Grappa_Vista_Aerea.jpg",
+  "artist": "Paolo Fiorese",
+  "license": "CC BY-SA 4.0",
+  "lat": 45.76667,
+  "lon": 11.73417,
+  "extract": "Bassano del Grappa est une ville italienne d'environ 43 500 habitants, située dans la province de Vicence en Vénétie, dans l'Italie nord-orientale.",
+  "article": "https://fr.wikipedia.org/wiki/Bassano_del_Grappa"
+ },
+ "Blandy's Madeira Wine Lodge": {},
+ "Burano": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Burano_Venice_17.jpg/1920px-Burano_Venice_17.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Burano_Venice_17.jpg",
+  "artist": "kallerna",
+  "license": "CC BY-SA 4.0",
+  "lat": 45.486,
+  "lon": 12.417,
+  "extract": "Burano est une île du nord de la lagune de Venise, en Italie. Elle est connue pour sa dentelle et ses canaux bordés de maisons vivement colorées.",
+  "article": "https://fr.wikipedia.org/wiki/Burano"
+ },
+ "Cartizze": {},
+ "CastelBrando": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/9/94/Castelbrando_Aerial_View.jpg",
+  "page": "https://en.wikipedia.org/wiki/File:Castelbrando_Aerial_View.jpg",
+  "artist": "Hotel Castelbrando",
+  "license": "CC-BY-SA-3.0"
+ },
+ "Cison di Valmarino": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Cison_di_valmarino_-_municipio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cison_di_valmarino_-_municipio.jpg",
+  "artist": "Vaghestelledellorsa, Paolo Steffan",
+  "license": "CC BY-SA 3.0",
+  "extract": "Cison di Valmarino est une commune italienne de la province de Trévise, dans la région Vénétie.",
+  "article": "https://fr.wikipedia.org/wiki/Cison_di_Valmarino"
+ },
+ "Curral das Freiras": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Vista_de_Curral_das_Freiras%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_82.jpg/1920px-Vista_de_Curral_das_Freiras%2C_Madeira%2C_Portugal%2C_2019-05-30%2C_DD_82.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Curral_das_Freiras,_Madeira,_Portugal,_2019-05-30,_DD_82.jpg",
+  "artist": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "lat": 32.72,
+  "lon": -16.96972,
+  "extract": "Curral das Freiras est une freguesia portugaise située dans la ville de Câmara de Lobos, dans la région autonome de Madère. Avec une superficie de 25,07 km2 et une population de 1 673 habitants, la paroisse possède une densité de 66,7 hab/km2.",
+  "article": "https://fr.wikipedia.org/wiki/Curral_das_Freiras"
+ },
+ "Eira do Serrado": {},
+ "Fanal": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/J.G._Schelter_%26_Giesecke_Leipzig_%285653744061%29.jpg/1920px-J.G._Schelter_%26_Giesecke_Leipzig_%285653744061%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:J.G._Schelter_%26_Giesecke_Leipzig_(5653744061).jpg",
+  "artist": "Frédéric BISSON from Rouen, France",
+  "license": "CC BY 2.0"
+ },
+ "Follina Abbey": {},
+ "Funchal": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Funchal%2C_Jardins_da_Quinta_Vigia_%28lookout%29.jpg/1920px-Funchal%2C_Jardins_da_Quinta_Vigia_%28lookout%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Funchal,_Jardins_da_Quinta_Vigia_(lookout).jpg",
+  "artist": "Dr. Thomas Liptak",
+  "license": "CC BY-SA 4.0",
+  "lat": 32.65,
+  "lon": -16.91667,
+  "extract": "Funchal est une ville portugaise, bordée par l'océan Atlantique, chef-lieu de l'île de Madère et de la région autonome de Madère regroupant les îles de l'archipel.",
+  "article": "https://fr.wikipedia.org/wiki/Funchal"
+ },
+ "Grand Canal (Venice)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg/1920px-View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg",
+  "artist": "Didier Descouens",
+  "license": "CC BY-SA 4.0",
+  "extract": "Le Grand Canal est la principale artère maritime qui traverse Venise, en Italie.",
+  "article": "https://fr.wikipedia.org/wiki/Grand_Canal_(Venise)"
+ },
+ "Isola della Pescheria": {},
+ "La Fenice": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Gran_Teatro_La_Fenice%2C_Venice_%2830906998336%29.jpg/1920px-Gran_Teatro_La_Fenice%2C_Venice_%2830906998336%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gran_Teatro_La_Fenice,_Venice_(30906998336).jpg",
+  "artist": "Dimitris Kamaras from Athens, Greece",
+  "license": "CC BY 2.0",
+  "lat": 45.4337,
+  "lon": 12.3339,
+  "extract": "La Fenice est un opéra construit à Venise au XVIIIe siècle dans le style néo-classique avec une salle proposant cinq étages superposés de loges finement décorées en rouge et or.",
+  "article": "https://fr.wikipedia.org/wiki/La_Fenice"
+ },
+ "Lisbon": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lisboa_-_Portugal_%2852597836992%29.jpg/1920px-Lisboa_-_Portugal_%2852597836992%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lisboa_-_Portugal_(52597836992).jpg",
+  "artist": "Vitor Oliveira from Torres Vedras, PORTUGAL",
+  "license": "CC BY-SA 2.0",
+  "lat": 38.72528,
+  "lon": -9.15,
+  "extract": "Lisbonne est la capitale et la plus grande ville du Portugal. La ville est également le chef-lieu du district de Lisbonne, du Grand Lisbonne et de la zone métropolitaine de Lisbonne.",
+  "article": "https://fr.wikipedia.org/wiki/Lisbonne"
+ },
+ "Madeira": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Madeira.svg/1920px-Flag_of_Madeira.svg.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Flag_of_Madeira.svg",
+  "artist": "Original:  Brian Boru Vector:  Nuno Tavares",
+  "license": "CC BY-SA 1.0",
+  "lat": 32.75,
+  "lon": -17,
+  "extract": "Madère est un archipel volcanique portugais situé dans l'océan Atlantique à 800 km de l'extrême sud-ouest du continent européen, le cap de Sagres, 973 km de la capitale du Portugal, Lisbonne, et à 640 km au nord-nord-ouest du cap Juby dans la province de Tarfaya au Maroc.",
+  "article": "https://fr.wikipedia.org/wiki/Mad%C3%A8re"
+ },
+ "Madeira Airport": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Madeira_Airport_logo.svg/1920px-Madeira_Airport_logo.svg.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Madeira_Airport_logo.svg",
+  "artist": "Aeroporto Madeira",
+  "license": "Public domain",
+  "lat": 32.69417,
+  "lon": -16.77806,
+  "extract": "L'aéroport de Madère (nom complet aéroport international de Madère Cristiano-Ronaldo est un aéroport international portugais, situé sur l'île de Madère.",
+  "article": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Mad%C3%A8re"
+ },
+ "Marostica": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Marostica6.JPG/1920px-Marostica6.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Marostica6.JPG",
+  "artist": "Lucamenini",
+  "license": "CC BY-SA 3.0",
+  "lat": 45.75,
+  "lon": 11.65,
+  "extract": "Marostica, est une commune italienne de la province de Vicence dans la région Vénétie en Italie. Elle est située à 30 km au nord de Vicence. Ses habitants sont appelés les marosticensi.",
+  "article": "https://fr.wikipedia.org/wiki/Marostica"
+ },
+ "Mercado dos Lavradores": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Mercado_dos_Lavradores.jpg/1920px-Mercado_dos_Lavradores.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mercado_dos_Lavradores.jpg",
+  "artist": "Luke H. Gordon",
+  "license": "CC BY 2.0",
+  "lat": 32.64864,
+  "lon": -16.90389,
+  "extract": "Le Mercado dos Lavradores, est un bâtiment historique et un marché de fruits, de légumes, de fleurs et de poissons situé dans le centre-ville de Funchal, à Madère. Le bâtiment est classé et c’est une attraction touristique majeure de l’île.",
+  "article": "https://fr.wikipedia.org/wiki/Mercado_dos_Lavradores"
+ },
+ "Molinetto della Croda": {},
+ "Monte Palace Tropical Garden": {},
+ "Murano": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Murano_sunset.JPG/1920px-Murano_sunset.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Murano_sunset.JPG",
+  "artist": "Wittylama",
+  "license": "CC BY-SA 4.0",
+  "lat": 45.4575,
+  "lon": 12.35361,
+  "extract": "L'île de Murano est située à Venise, dans sa lagune et au nord-est de son centre historique.",
+  "article": "https://fr.wikipedia.org/wiki/Murano"
+ },
+ "Orto botanico di Padova": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Orto_botanico_padova.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Orto_botanico_padova.JPG",
+  "artist": "",
+  "license": "CC BY-SA 2.5",
+  "lat": 45.39911,
+  "lon": 11.88067,
+  "extract": "Le Jardin botanique de Padoue est le plus ancien jardin botanique encore existant au monde, créé en 1545.",
+  "article": "https://fr.wikipedia.org/wiki/Jardin_botanique_de_Padoue"
+ },
+ "Padua": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Prato_della_Valle.JPG/1920px-Prato_della_Valle.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Prato_della_Valle.JPG",
+  "artist": "Hannelore",
+  "license": "CC BY-SA 3.0",
+  "lat": 45.4078,
+  "lon": 11.8733,
+  "extract": "Padoue est une ville italienne de la région de la Vénétie, située au nord de la péninsule dans la plaine du Pô, à moins de 40 kilomètres de Venise, sur le fleuve Bacchiglione. Saint Antoine de Padoue, originaire de Lisbonne, doit son nom à cette ville.",
+  "article": "https://fr.wikipedia.org/wiki/Padoue"
+ },
+ "Palazzo Bo": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Palazzo_Bo_%28Padua%29.jpg/1920px-Palazzo_Bo_%28Padua%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Palazzo_Bo_(Padua).jpg",
+  "artist": "Didier Descouens",
+  "license": "CC BY-SA 4.0",
+  "lat": 45.4093,
+  "lon": 11.8762,
+  "extract": "Le palais Bo, ou palazzo Bo en italien ou même Il Bo, héberge le siège de l'université de Padoue depuis 1493. Il abrite un théâtre anatomique permanent longtemps considéré comme le premier de son genre, le théâtre anatomique de Padoue.",
+  "article": "https://fr.wikipedia.org/wiki/Palais_Bo"
+ },
+ "Palazzo della Ragione": {
+  "extract": "Le Palazzo della Ragione est, dans les villes du Nord de l'Italie, un type d'édifice public qui s'est développé du Moyen Âge à la Renaissance, destiné à accueillir tout à la fois les réunions de Conseil et les audiences des tribunaux.",
+  "article": "https://fr.wikipedia.org/wiki/Palazzo_della_Ragione"
+ },
+ "Peggy Guggenheim Collection": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/PI5DAE~2_-_CopyPeggy_Guggenheim_Museum.JPG/1920px-PI5DAE~2_-_CopyPeggy_Guggenheim_Museum.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:PI5DAE~2_-_CopyPeggy_Guggenheim_Museum.JPG",
+  "artist": "G.Lanting",
+  "license": "CC BY 3.0",
+  "lat": 45.43056,
+  "lon": 12.33111,
+  "extract": "La collection Peggy-Guggenheim est un ensemble d'œuvres d'art accumulées par la collectionneuse et mécène Peggy Guggenheim au cours de sa vie, et exposées au palais Venier dei Leoni à Venise.",
+  "article": "https://fr.wikipedia.org/wiki/Collection_Peggy-Guggenheim"
+ },
+ "Ponta de São Lourenço": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Ponta_de_S%C3%A3o_Louren%C3%A7o_north_north_east.jpg/1920px-Ponta_de_S%C3%A3o_Louren%C3%A7o_north_north_east.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ponta_de_S%C3%A3o_Louren%C3%A7o_north_north_east.jpg",
+  "artist": "Richard Bartz",
+  "license": "CC BY-SA 3.0",
+  "lat": 32.74583,
+  "lon": -16.71111,
+  "extract": "La pointe Saint Laurent ou pointe de São Lourenço est un cap dans la freguesia de Caniçal, municipalité de Machico à Madère.",
+  "article": "https://fr.wikipedia.org/wiki/Ponta_de_S%C3%A3o_Louren%C3%A7o"
+ },
+ "Ponte degli Alpini": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bassano_z01.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Bassano_z01.JPG",
+  "artist": "Zyance",
+  "license": "CC BY 3.0",
+  "lat": 45.76868,
+  "lon": 11.72929,
+  "extract": "Le Ponte Vecchio ou Ponte di Bassano ou Ponte degli Alpini est considéré comme un des ponts les plus caractéristiques d'Italie. Il franchit le Brenta dans la ville de Bassano del Grappa, en province de Vicence.",
+  "article": "https://fr.wikipedia.org/wiki/Ponte_Vecchio_(Bassano_del_Grappa)"
+ },
+ "Porto da Cruz": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Porto_da_Cruz%2C_Madeira.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Porto_da_Cruz,_Madeira.jpg",
+  "artist": "anybookers",
+  "license": "CC BY 2.0",
+  "lat": 32.77222,
+  "lon": -16.82889,
+  "extract": "Porto da Cruz est une freguesia portugaise située dans la ville de Machico, dans la région autonome de Madère. Situé à 36 km de Funchal sur la côte nord, ses habitants sont dispersés sur 2 522 hectares.",
+  "article": "https://fr.wikipedia.org/wiki/Porto_da_Cruz"
+ },
+ "Prato della Valle": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Prato_della_Valle_in_Padua.JPG/1920px-Prato_della_Valle_in_Padua.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Prato_della_Valle_in_Padua.JPG",
+  "artist": "AnatolyPm",
+  "license": "CC BY-SA 4.0",
+  "lat": 45.39833,
+  "lon": 11.87583,
+  "extract": "Le Prato della Valle est une place de 8,86 hectares de forme elliptique à Padoue, en Italie. C'est l'une des plus grandes places d'Italie, et une des plus grandes de toute l'Europe.",
+  "article": "https://fr.wikipedia.org/wiki/Prato_della_Valle"
+ },
+ "Punta della Dogana": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/0_Venise%2C_Canal_della_Giudecca%2C_Dogana%2C_Santa._Maria_della_Salute_et_Canal_Grande.JPG/1920px-0_Venise%2C_Canal_della_Giudecca%2C_Dogana%2C_Santa._Maria_della_Salute_et_Canal_Grande.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:0_Venise,_Canal_della_Giudecca,_Dogana,_Santa._Maria_della_Salute_et_Canal_Grande.JPG",
+  "artist": "Jean-Pol GRANDMONT",
+  "license": "CC BY 4.0",
+  "lat": 45.431,
+  "lon": 12.336,
+  "extract": "La Punta della Dogana est un musée d'art situé dans les anciennes douanes de Venise. Elle jouxte la basilique Santa Maria della Salute de Venise.",
+  "article": "https://fr.wikipedia.org/wiki/Punta_della_Dogana"
+ },
+ "Rabaçal": {},
+ "Ribeiro Frio": {
+  "lat": 32.73417,
+  "lon": -16.88667
+ },
+ "San Pantalon": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Venezia_-_chiesa_di_San_Pantaleone.jpg/1920px-Venezia_-_chiesa_di_San_Pantaleone.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Venezia_-_chiesa_di_San_Pantaleone.jpg",
+  "artist": "Didier Descouens",
+  "license": "CC BY-SA 4.0",
+  "lat": 45.4356,
+  "lon": 12.3242,
+  "extract": "L'église San Pantalon est une église catholique de Venise, en Italie. Elle est située dans le sestiere/quartier de Dorsoduro. San Pantalon est la forme vénitienne de saint Pantaléon",
+  "article": "https://fr.wikipedia.org/wiki/%C3%89glise_San_Pantalon"
+ },
+ "Santa Maria dei Miracoli": {},
+ "Santa Maria della Salute": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Santa_Maria_della_Salute_from_Hotel_Monaco.jpg/1920px-Santa_Maria_della_Salute_from_Hotel_Monaco.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Santa_Maria_della_Salute_from_Hotel_Monaco.jpg",
+  "artist": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here are not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+  "license": "CC BY-SA 3.0",
+  "lat": 45.43083,
+  "lon": 12.33444,
+  "extract": "La basilique Santa Maria della Salute est une église de Venise située à l'extrémité sud du Grand Canal. La sacristie renferme de nombreux tableaux, dont les célèbres Noces de Cana du Tintoret.",
+  "article": "https://fr.wikipedia.org/wiki/Basilique_Santa_Maria_della_Salute_de_Venise"
+ },
+ "Santa Maria e San Donato": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Murano%2C_santi_maria_e_donato_%28duomo%29%2C_esterno%2C_08.jpg/1920px-Murano%2C_santi_maria_e_donato_%28duomo%29%2C_esterno%2C_08.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Murano,_santi_maria_e_donato_(duomo),_esterno,_08.jpg",
+  "artist": "Sailko",
+  "license": "CC BY 3.0",
+  "lat": 45.45743,
+  "lon": 12.3572,
+  "extract": "La basilique Sainte-Marie-et-Saint-Donat est une église catholique à Murano, île de la lagune de Venise, en Italie. Elle est dédiée à la Vierge et à saint Donat d'Évria. La fondation de cette église très ancienne remonte au VIIe siècle.",
+  "article": "https://fr.wikipedia.org/wiki/Basilique_Sainte-Marie-et-Saint-Donat"
+ },
+ "Santana, Madeira": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Arco_de_S%C3%A3o_Jorge.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Arco_de_S%C3%A3o_Jorge.jpg",
+  "artist": "Thomas Hobbs",
+  "license": "CC BY-SA 2.0",
+  "lat": 32.80374,
+  "lon": -16.87981,
+  "extract": "Santana est une ville et une municipalité de l'île de Madère au Portugal. Santana est situé au nord de l'île de Madère. La ville est connue pour ses maisons typiques au toit de chaume.",
+  "article": "https://fr.wikipedia.org/wiki/Santana_(Mad%C3%A8re)"
+ },
+ "Scrovegni Chapel": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Padova_Cappella_degli_Scrovegni_Innen_Langhaus_West_5.jpg/1920px-Padova_Cappella_degli_Scrovegni_Innen_Langhaus_West_5.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Padova_Cappella_degli_Scrovegni_Innen_Langhaus_West_5.jpg",
+  "artist": "Zairon",
+  "license": "CC BY-SA 4.0",
+  "lat": 45.41184,
+  "lon": 11.87952,
+  "extract": "La chapelle des Scrovegni est un édifice religieux déconsacré, faisant partie d'un palais construit au XIVe siècle à l'emplacement de l'ancienne arène romaine de Padoue en Italie. De style gothique, la chapelle abrite le cycle de fresques de Giotto.",
+  "article": "https://fr.wikipedia.org/wiki/Chapelle_des_Scrovegni"
+ },
+ "Seixal, Madeira": {},
+ "São Vicente, Madeira": {
+  "lat": 32.77389,
+  "lon": -17.03167,
+  "extract": "São Vicente est une ville de l'île de Madère, située sur la côte nord. Sa population est de 5 723 habitants.",
+  "article": "https://fr.wikipedia.org/wiki/S%C3%A3o_Vicente_(Mad%C3%A8re)"
+ },
+ "Treviso": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Treviso_views.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Treviso_views.jpg",
+  "artist": "MaiDireLollo",
+  "license": "CC BY-SA 3.0",
+  "lat": 45.6658,
+  "lon": 12.2456,
+  "extract": "Trévise est une ville italienne de la province éponyme, en Vénétie.",
+  "article": "https://fr.wikipedia.org/wiki/Tr%C3%A9vise"
+ },
+ "Valdobbiadene": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Hillside_View_of_Valdobbiadene.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hillside_View_of_Valdobbiadene.jpg",
+  "artist": "Mruzzene (talk)  Latter image enhancement by Sandstein (talk).",
+  "license": "Public domain",
+  "lat": 45.9,
+  "lon": 11.91667,
+  "extract": "Valdobbiadene est une commune italienne d'environ 10 800 habitants située dans la province de Trévise dans la région Vénétie, dans le nord-est de l'Italie.",
+  "article": "https://fr.wikipedia.org/wiki/Valdobbiadene"
+ },
+ "Veneto": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Veneto_in_Italy.svg/1920px-Veneto_in_Italy.svg.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Veneto_in_Italy.svg",
+  "artist": "TUBS",
+  "license": "CC BY-SA 3.0",
+  "lat": 45.73333,
+  "lon": 11.85,
+  "extract": "La Vénétie est une région du nord-est de l’Italie. Elle compte environ cinq millions d'habitants, étant la cinquième région la plus peuplée du pays, sur un territoire de 18 391 km2. Son chef-lieu est Venise.",
+  "article": "https://fr.wikipedia.org/wiki/V%C3%A9n%C3%A9tie"
+ },
+ "Venice": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/1920px-Venezia_aerial_view.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Venezia_aerial_view.jpg",
+  "artist": "kallerna",
+  "license": "CC BY-SA 4.0",
+  "lat": 45.4375,
+  "lon": 12.33583,
+  "extract": "Venise est une ville côtière du Nord-Est de l'Italie, sur les rives de la mer Adriatique. Elle s'étend sur la Terraferma veneziana ainsi que sur un ensemble de 121 petites îles séparées par un réseau de canaux et reliées par 435 ponts.",
+  "article": "https://fr.wikipedia.org/wiki/Venise"
+ },
+ "Villa Barbaro": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Villa_Barbaro_panoramica_fronte_Marcok.jpg/1920px-Villa_Barbaro_panoramica_fronte_Marcok.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Villa_Barbaro_panoramica_fronte_Marcok.jpg",
+  "artist": "Marcok / it.wikipedia.org",
+  "license": "Public domain",
+  "lat": 45.8122,
+  "lon": 11.9764,
+  "extract": "La villa Barbaro dite villa Volpi est une villa veneta conçue par l'architecte Andrea Palladio entre 1550 et 1560 pour les frères Barbaro à Maser, commune italienne de la province de Trévise en Vénétie.",
+  "article": "https://fr.wikipedia.org/wiki/Villa_Barbaro"
+ },
+ "Villa Pisani": {
+  "extract": "Le nom de villa Pisani peut s'appliquer à plusieurs maisons de plaisance de Vénétie, construites pour des membres de la famille Pisani : par Andrea Palladio : la villa Pisani, à Montagnana ; la villa Pisani, à Bagnolo. la Villa Pisani Bolognesi Scalabrin, Vescovana. la villa Pisani, à Stra. la villa Pisani, à Lonigo.",
+  "article": "https://fr.wikipedia.org/wiki/Villa_Pisani"
+ },
+ "File:2016. Rúa de Sao Vicente. Madeira. Portugal.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2016._R%C3%BAa_de_Sao_Vicente._Madeira._Portugal.jpg/1920px-2016._R%C3%BAa_de_Sao_Vicente._Madeira._Portugal.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:2016._R%C3%BAa_de_Sao_Vicente._Madeira._Portugal.jpg",
+  "artist": "Luis miguel Bugallo Sánchez (Lmbuga)",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Bassano del Grappa - Casa Nardini 01.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Bassano_del_Grappa_-_Casa_Nardini_01.jpg/1920px-Bassano_del_Grappa_-_Casa_Nardini_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bassano_del_Grappa_-_Casa_Nardini_01.jpg",
+  "artist": "Syrio",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Blandy's Wine Lodge - Funchal 03.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Blandy%27s_Wine_Lodge_-_Funchal_03.jpg/1920px-Blandy%27s_Wine_Lodge_-_Funchal_03.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Blandy%27s_Wine_Lodge_-_Funchal_03.jpg",
+  "artist": "H. Zell",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Città di Stra - Villa Pisani - Facciata 45.407738,12.013244.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Citt%C3%A0_di_Stra_-_Villa_Pisani_-_Facciata_45.407738%2C12.013244.jpg/1920px-Citt%C3%A0_di_Stra_-_Villa_Pisani_-_Facciata_45.407738%2C12.013244.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Citt%C3%A0_di_Stra_-_Villa_Pisani_-_Facciata_45.407738,12.013244.jpg",
+  "artist": "Didier Descouens",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Curral das Freiras from Eira do Serrado 02.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Curral_das_Freiras_from_Eira_do_Serrado_02.jpg/1920px-Curral_das_Freiras_from_Eira_do_Serrado_02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Curral_das_Freiras_from_Eira_do_Serrado_02.jpg",
+  "artist": "H. Zell",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Exterior of Palazzo della Ragione (Padua).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Exterior_of_Palazzo_della_Ragione_%28Padua%29.jpg/1920px-Exterior_of_Palazzo_della_Ragione_%28Padua%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Exterior_of_Palazzo_della_Ragione_(Padua).jpg",
+  "artist": "Didier Descouens",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:FollinaChiostro.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/FollinaChiostro.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:FollinaChiostro.jpg",
+  "artist": "Lawrence Murray from Perth, Australia",
+  "license": "CC BY 2.0"
+ },
+ "File:Fondamenta della Misericordia (Venice).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Fondamenta_della_Misericordia_%28Venice%29.jpg/1920px-Fondamenta_della_Misericordia_%28Venice%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fondamenta_della_Misericordia_(Venice).jpg",
+  "artist": "Didier Descouens",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Isola della Pescheria (Treviso) 1.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Isola_della_Pescheria_%28Treviso%29_1.jpg/1920px-Isola_della_Pescheria_%28Treviso%29_1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Isola_della_Pescheria_(Treviso)_1.jpg",
+  "artist": "Nicola Quirico",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Levada das 25 Fontes - 2009-06-30 13-56-17.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Levada_das_25_Fontes_-_2009-06-30_13-56-17.jpg/1920px-Levada_das_25_Fontes_-_2009-06-30_13-56-17.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Levada_das_25_Fontes_-_2009-06-30_13-56-17.jpg",
+  "artist": "Jean & Nathalie",
+  "license": "CC BY 2.0"
+ },
+ "File:Madeira-Cristo Rei at Garajau.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Madeira-Cristo_Rei_at_Garajau.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Madeira-Cristo_Rei_at_Garajau.jpg",
+  "artist": "<<graham>>",
+  "license": "CC BY 2.0"
+ },
+ "File:Molinetto della Croda (Front).jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Molinetto_della_Croda_%28Front%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Molinetto_della_Croda_(Front).jpg",
+  "artist": "Piave",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Monte Palace Tropical Garden - Fountain 01.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Monte_Palace_Tropical_Garden_-_Fountain_01.jpg/1920px-Monte_Palace_Tropical_Garden_-_Fountain_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Monte_Palace_Tropical_Garden_-_Fountain_01.jpg",
+  "artist": "H. Zell",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Nicolamisù - IMG 1762 (41633752255).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Nicolamis%C3%B9_-_IMG_1762_%2841633752255%29.jpg/1920px-Nicolamis%C3%B9_-_IMG_1762_%2841633752255%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Nicolamis%C3%B9_-_IMG_1762_(41633752255).jpg",
+  "artist": "N i c o l a from Fiumicino (Rome), Italy",
+  "license": "CC BY 2.0"
+ },
+ "File:Panoramicas de Seixal (1).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Panoramicas_de_Seixal_%281%29.jpg/1920px-Panoramicas_de_Seixal_%281%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Panoramicas_de_Seixal_(1).jpg",
+  "artist": "Alberto-g-rovi",
+  "license": "CC BY 3.0"
+ },
+ "File:Pentagono del Cartizze 01.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Pentagono_del_Cartizze_01.jpg/1920px-Pentagono_del_Cartizze_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pentagono_del_Cartizze_01.jpg",
+  "artist": "Civvì",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Ribeiro Frio (Madeira, Portugal), Ribeiro Frio -- 2025 -- 1498.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Ribeiro_Frio_%28Madeira%2C_Portugal%29%2C_Ribeiro_Frio_--_2025_--_1498.jpg/1920px-Ribeiro_Frio_%28Madeira%2C_Portugal%29%2C_Ribeiro_Frio_--_2025_--_1498.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ribeiro_Frio_(Madeira,_Portugal),_Ribeiro_Frio_--_2025_--_1498.jpg",
+  "artist": "Dietmar Rabich",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Santa Maria dei Miracoli (facciata).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Santa_Maria_dei_Miracoli_%28facciata%29.jpg/1920px-Santa_Maria_dei_Miracoli_%28facciata%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Santa_Maria_dei_Miracoli_(facciata).jpg",
+  "artist": "Didier Descouens",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Seixal - Madeira 01.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Seixal_-_Madeira_01.jpg/1920px-Seixal_-_Madeira_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Seixal_-_Madeira_01.jpg",
+  "artist": "H. Zell",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Sigiriya 02.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sigiriya_02.jpg/1920px-Sigiriya_02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sigiriya_02.jpg",
+  "artist": "Bernard Gagnon",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Sunset on Lake Atitlan (6996006719).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Sunset_on_Lake_Atitlan_%286996006719%29.jpg/1920px-Sunset_on_Lake_Atitlan_%286996006719%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunset_on_Lake_Atitlan_(6996006719).jpg",
+  "artist": "Murray Foubister",
+  "license": "CC BY-SA 2.0"
+ },
+ "File:View from Miradouro de São Cristovão, Madeira.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/View_from_Miradouro_de_S%C3%A3o_Cristov%C3%A3o%2C_Madeira.jpg/1920px-View_from_Miradouro_de_S%C3%A3o_Cristov%C3%A3o%2C_Madeira.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:View_from_Miradouro_de_S%C3%A3o_Cristov%C3%A3o,_Madeira.jpg",
+  "artist": "Gerda Arendt",
+  "license": "CC0"
+ },
+ "local:madere-faja-dos-padres": {
+  "url": "assets/photos/madere/faja-dos-padres.jpg",
+  "page": "",
+  "artist": "Photo personnelle",
+  "license": "tous droits réservés"
+ },
+ "local:madere-sao-cristovao": {
+  "url": "assets/photos/madere/sao-cristovao.jpg",
+  "page": "",
+  "artist": "Photo personnelle",
+  "license": "tous droits réservés"
  }
 }

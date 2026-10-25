@@ -165,7 +165,12 @@ def build_images(trips, refresh):
     path = DATA / "images.json"
     images = {} if refresh else load_json(path)
     missing = sorted(k for k in collect_keys(trips) if k not in images)
+    local = load_json(DATA / "local_photos.json")
+    for key in [k for k in missing if k in local]:
+        images[key] = local[key]
+    missing = [k for k in missing if k not in local]
     if not missing:
+        path.write_text(json.dumps(images, indent=1, ensure_ascii=False) + "\n")
         print("images: up to date")
         return images
 

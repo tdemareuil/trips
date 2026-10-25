@@ -271,7 +271,7 @@ function mountHome() {
     .filter(se => trips.some(t => t.season === se));
   const unseasoned = trips.filter(t => !t.season);
   app.innerHTML = `<section class="home">
-    <p class="eyebrow">Prochains voyages</p>
+    <p class="eyebrow">Nos voyages</p>
     <h1 class="title big">Où va-t-on ensuite ?</h1>
     <p class="lead">Itinéraires jour par jour, cartes et photos.</p>
     ${unseasoned.length ? `<div class="cards">${unseasoned.map(t => card(t.id)).join('')}</div>` : ''}
@@ -358,7 +358,7 @@ function mountGuide(trip, gid) {
 function mountStory(trip, start) {
   const days = trip.days;
   const N = days.length;
-  const credit = '<p class="credits">Photos : Wikipédia / Wikimedia Commons, sous licences libres. Le © de chaque photo renvoie à son auteur.</p>';
+  const credit = '<p class="credits">Photos : Wikipédia / Wikimedia Commons, sous licences libres, sauf mention « Photo personnelle ». Le © de chaque photo renvoie à son auteur.</p>';
 
   const dots = ['Aperçu', ...days.map(d => `Jour ${d.n}${d.dateLong ? ` · ${d.dateLong}` : ''}`)].map((label, i) => `
     <a class="dot" href="#/${trip.id}/${i}" data-i="${i}" data-label="${esc(label)}" style="left:${(i / N) * 100}%;--c:${i ? days[i - 1].color : '#1b2130'}" aria-label="${esc(label)}">${i || '◎'}</a>`).join('');
@@ -430,7 +430,7 @@ function mountStory(trip, start) {
         <li><a href="#/${trip.id}/guide/${g.id}"><b>${esc(g.title)}</b><span>${esc(g.summary)}</span></a></li>`).join('')}
       </ul>` : '';
     return `
-      <p class="eyebrow">${esc(trip.travelers.join(' & '))}${trip.done ? ' · Voyage réalisé' : ''}</p>
+      <p class="eyebrow">${esc([trip.travelers.join(' & '), trip.done ? 'Voyage réalisé' : ''].filter(Boolean).join(' · '))}</p>
       <h1 class="title big">${esc(trip.title)}</h1>
       ${trip.range ? `<p class="dates">${esc(trip.range)}</p>` : ''}
       ${trip.altLabel ? `<p class="alt-dates">Option : départ le ${esc(trip.altLabel)}</p>` : ''}
@@ -456,7 +456,7 @@ function mountStory(trip, start) {
             <span class="num" style="--c:${day.color}">${k + 1}</span>
             <span class="name">${esc(s.name)}</span>
             <span class="hint" aria-hidden="true">↻</span>
-            ${s.img ? `<a class="credit" href="${esc(s.img.page)}" target="_blank" rel="noopener" title="${esc(`Photo : ${s.img.artist || 'Wikimedia Commons'} · ${s.img.license}`)}">©</a>` : ''}
+            ${s.img ? (s.img.page ? `<a class="credit" href="${esc(s.img.page)}" target="_blank" rel="noopener" title="${esc(`Photo : ${s.img.artist || 'Wikimedia Commons'} · ${s.img.license}`)}">©</a>` : `<span class="credit" title="${esc(`Photo : ${s.img.artist}`)}">©</span>`) : ''}
           </div>
           <div class="face back" style="--c:${day.color}">
             <h3>${esc(s.name)}</h3>

@@ -944,5 +944,7 @@
     }
   ],
   "season": "Août / Septembre",
-  "kind": "short"
+  "kind": "short",
+  "start": "2025-08-31",
+  "done": true
 }
