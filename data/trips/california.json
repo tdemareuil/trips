@@ -943,16 +943,16 @@
     },
     {
       "id": "sierra-foothills",
-      "title": "Livermore Valley et Gold Country : où déguster",
-      "summary": "La dégustation sur la route (Livermore Valley) et, en variante, les domaines et les villes de la ruée vers l'or des contreforts de la Sierra.",
+      "title": "Livermore Valley : où déguster",
+      "summary": "La dégustation sur la route, dans la Livermore Valley.",
       "blocks": [
         {
           "type": "text",
-          "text": "La Livermore Valley est la région viticole la plus proche de l'axe : elle borde la I-580, que l'on emprunte de toute façon en quittant San Francisco vers Yosemite, donc sans détour notable. Dans l'Amador County, plus loin, l'esthétique est celle d'un pays de l'or, romantique et très cinématographique dans la lumière d'hiver."
+          "text": "La Livermore Valley est la région viticole la plus proche de l'axe : elle borde la I-580, que l'on emprunte de toute façon en quittant San Francisco vers Yosemite, donc sans détour notable."
         },
         {
           "type": "text",
-          "text": "Notre choix : déguster à Murrieta's Well, dans la Livermore Valley, vers 13 h, puis filer vers Yosemite. Les domaines d'Amador ci-dessous ne sont plus sur le parcours : ils restent une variante si l'on préfère une nuit dans le Gold Country, au prix d'environ 1 h 30 de route supplémentaire, à visiter avant 17 h."
+          "text": "Notre choix : déguster à Murrieta's Well, vers 13 h, puis filer vers Yosemite. McGrail est l'alternative, pour sa vue de crête."
         },
         {
           "type": "table",
@@ -971,31 +971,6 @@
               "McGrail Vineyards and Winery (Livermore Valley)",
               "Juché sur une crête, avec des vues panoramiques sur les collines et les vignes.",
               "Sur la route (I-580), ouvert vers midi, à confirmer"
-            ],
-            [
-              "La Mesa Vineyards (Amador County)",
-              "Perché dans les collines de la Shenandoah Valley, avec de larges vues sur les contreforts de la Sierra. Salle de dégustation moderne, aux grandes baies vitrées qui encadrent la vallée ; terrasses entourées de manzanitas et de chênes ; atmosphère immersive et tranquille.",
-              "4,9 sur Google, ouvert jusqu'à 17 h"
-            ],
-            [
-              "Bella Grace Vineyards, salle de Sutter Creek",
-              "Dans un bâtiment historique du XIXe siècle, sur Main Street, dans l'une des plus pittoresques villes de la ruée vers l'or : brique, charme d'antiquaire, cour-jardin intime pour une dégustation. Les avis louent les détails de l'intérieur et la ville historique à pied, digne d'une carte postale.",
-              "4,9 sur Google, ouvert jusqu'à 17 h"
-            ],
-            [
-              "Casino Mine Ranch Winery",
-              "Contraste architectural sobre et haut de gamme avec les paysages rustiques de la Shenandoah Valley : design minimaliste, paysagisme local, accents de métal et de bois, belles vues dégagées. Ambiance boutique exclusive, sur rendez-vous, qui rivalise avec les domaines modernes de Napa sans la foule.",
-              "4,8 sur Google, ouvert jusqu'à 16 h 30, sur rendez-vous"
-            ],
-            [
-              "Scott Harvey Winery & Tasting Room",
-              "Esthétique chaleureuse et classique de pays viticole, dans les collines de l'Amador County : architecture de pierre et de bois, places assises confortables, terrasses face aux vieilles vignes de zinfandel. Les avis soulignent l'accueil de domaine familial.",
-              "4,9 sur Google, ouvert jusqu'à 17 h"
-            ],
-            [
-              "The End of Nowhere (Amador City)",
-              "Ambiance rétro-chic et artistique dans la ville minière historique d'Amador City, minuscule et remarquablement préservée, qui ressemble à un décor de film. Décor vintage très composé (chaque coin est photogénique), vibe décontractée centrée sur l'expression artistique et les vins nature.",
-              "4,9 sur Google, ouvert jusqu'à 18 h"
             ]
           ]
         }
@@ -1003,7 +978,7 @@
     },
     {
       "id": "idees-ecartees",
-      "title": "Idées écartées : San Diego, Morro Bay, Napa, Sonoma, Muir Woods, Point Reyes",
+      "title": "Idées écartées : San Diego, Morro Bay, Napa, Sonoma, Muir Woods, Point Reyes, Amador County",
       "summary": "Ce que prévoyait le programme avant de remplacer la fin du voyage par la Livermore Valley et Yosemite.",
       "blocks": [
         {
@@ -1051,6 +1026,49 @@
             "Sausalito : Ancien village de pêcheurs devenu havre d'artistes, connu pour sa communauté de maisons flottantes et sa vue sur la baie de San Francisco.",
             "Muir Woods National Monument : Forêt de séquoias à feuilles d'if, dont certains ont plus de 600 ans. Classée monument national en 1908, elle porte le nom du naturaliste John Muir.",
             "Point Reyes National Seashore : Péninsule battue par les vents, traversée par la faille de San Andreas : lors du séisme de 1906, le sol s'y est déplacé d'environ 6 m. On y observe éléphants de mer, cerfs tule et un phare de 1870."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Amador County et le Gold Country"
+        },
+        {
+          "type": "text",
+          "text": "Les domaines d'Amador ne sont plus sur le parcours : ils restent une variante si l'on préfère une nuit dans le Gold Country (Sutter Creek ou Amador City), au prix d'environ 1 h 30 de route supplémentaire, à visiter avant 17 h."
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Domaine",
+            "Ce qu'on y trouve",
+            "À savoir"
+          ],
+          "rows": [
+            [
+              "La Mesa Vineyards (Amador County)",
+              "Perché dans les collines de la Shenandoah Valley, avec de larges vues sur les contreforts de la Sierra. Salle de dégustation moderne, aux grandes baies vitrées qui encadrent la vallée ; terrasses entourées de manzanitas et de chênes ; atmosphère immersive et tranquille.",
+              "4,9 sur Google, ouvert jusqu'à 17 h"
+            ],
+            [
+              "Bella Grace Vineyards, salle de Sutter Creek",
+              "Dans un bâtiment historique du XIXe siècle, sur Main Street, dans l'une des plus pittoresques villes de la ruée vers l'or : brique, charme d'antiquaire, cour-jardin intime pour une dégustation. Les avis louent les détails de l'intérieur et la ville historique à pied, digne d'une carte postale.",
+              "4,9 sur Google, ouvert jusqu'à 17 h"
+            ],
+            [
+              "Casino Mine Ranch Winery",
+              "Contraste architectural sobre et haut de gamme avec les paysages rustiques de la Shenandoah Valley : design minimaliste, paysagisme local, accents de métal et de bois, belles vues dégagées. Ambiance boutique exclusive, sur rendez-vous, qui rivalise avec les domaines modernes de Napa sans la foule.",
+              "4,8 sur Google, ouvert jusqu'à 16 h 30, sur rendez-vous"
+            ],
+            [
+              "Scott Harvey Winery & Tasting Room",
+              "Esthétique chaleureuse et classique de pays viticole, dans les collines de l'Amador County : architecture de pierre et de bois, places assises confortables, terrasses face aux vieilles vignes de zinfandel. Les avis soulignent l'accueil de domaine familial.",
+              "4,9 sur Google, ouvert jusqu'à 17 h"
+            ],
+            [
+              "The End of Nowhere (Amador City)",
+              "Ambiance rétro-chic et artistique dans la ville minière historique d'Amador City, minuscule et remarquablement préservée, qui ressemble à un décor de film. Décor vintage très composé (chaque coin est photogénique), vibe décontractée centrée sur l'expression artistique et les vins nature.",
+              "4,9 sur Google, ouvert jusqu'à 18 h"
+            ]
           ]
         }
       ]
