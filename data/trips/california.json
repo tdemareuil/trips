@@ -350,34 +350,37 @@
     {
       "n": 6,
       "weekday": "Lundi",
-      "title": "Highway 1 : Big Sur & arrivée à San Francisco",
-      "summary": "Grande journée côtière : départ à 7 h de Santa Barbara, pause à Cambria, Big Sur avec Bixby Bridge, Point Lobos et Carmel-by-the-Sea, puis arrivée à San Francisco en début de soirée, voiture rendue sur place.",
+      "title": "US-101 jusqu'à Carmel, Bixby Bridge & arrivée à San Francisco",
+      "summary": "Départ de Santa Barbara à 7 h par la US-101 (moins fatigante que la côte), pause à Paso Robles, Carmel-by-the-Sea pour le déjeuner, Bixby Bridge par le nord, puis San Francisco avant la nuit.",
       "route": "drive",
       "stops": [
         {
-          "name": "Cambria",
-          "wiki": "Cambria, California",
-          "photo": "File:Cambria, California.jpg",
+          "name": "Paso Robles",
+          "wiki": "Paso Robles, California",
           "coords": [
-            35.5641,
-            -121.0807
+            35.6264,
+            -120.691
           ],
-          "culture": "Village de la côte centrale, à quelques minutes du Hearst Castle ; pause café et dernier plein d'essence avant Big Sur."
+          "culture": "Capitale viticole de la côte centrale, avec une place centrale à l'allure d'une petite ville de western."
         },
         {
-          "name": "Big Sur : Bixby Creek Bridge",
-          "wiki": "Bixby Creek Bridge",
-          "culture": "Arche de béton de 85 m de haut, construite en 1932 pour la future Highway 1. C'est l'un des ponts les plus photographiés de Californie."
-        },
-        {
-          "name": "Point Lobos State Natural Reserve",
-          "wiki": "Point Lobos",
-          "culture": "Réserve naturelle d'État surnommée le « joyau de la couronne » des parcs californiens. On y croise otaries, loutres de mer et cyprès de Monterey."
+          "name": "Salinas",
+          "wiki": "Salinas, California",
+          "coords": [
+            36.6777,
+            -121.6555
+          ],
+          "culture": "Ville natale de John Steinbeck, au cœur d'une vallée surnommée le « saladier » de la Californie ; le National Steinbeck Center y est installé."
         },
         {
           "name": "Carmel-by-the-Sea",
           "wiki": "Carmel-by-the-Sea, California",
           "culture": "Village d'artistes aux maisons de conte de fées, sans numéros de rue. Clint Eastwood en a été le maire de 1986 à 1988."
+        },
+        {
+          "name": "Big Sur : Bixby Creek Bridge",
+          "wiki": "Bixby Creek Bridge",
+          "culture": "Arche de béton de 85 m de haut, construite en 1932 pour la future Highway 1. C'est l'un des ponts les plus photographiés de Californie."
         }
       ],
       "stay": {
@@ -391,37 +394,41 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Santa Barbara → Cambria : environ 2 h 30 ; Cambria → Carmel : 2 h 30 à 3 h ; Carmel → San Francisco : environ 2 h 15 (environ 8 à 9 h sans arrêt au total)"
+          "text": "Santa Barbara → Carmel : environ 5 h par la US-101 ; Carmel → Bixby Bridge : environ 30 min (aller-retour 1 h) ; Carmel → San Francisco : environ 2 h à 2 h 30"
         }
       ],
       "parts": [
         {
           "label": "Matin",
-          "text": "Départ de Santa Barbara à 7 h par la US-101 puis la Highway 1 : pause à Cambria vers 9 h 30 (café, essence : il y en a très peu à Big Sur)."
+          "text": "Départ de Santa Barbara à 7 h par la US-101 vers le nord (environ 5 h jusqu'à Carmel), avec une pause café à Paso Robles vers 9 h 30."
         },
         {
           "label": "Midi",
-          "text": "Big Sur : Bixby Creek Bridge vers 12 h, puis Point Lobos vers 13 h 30 (faune et calanques)."
+          "text": "Arrivée à Carmel-by-the-Sea vers 12 h 15, puis Bixby Creek Bridge, à environ 30 min au sud par la Highway 1 (aller-retour d'environ 1 h avec les photos)."
+        },
+        {
+          "label": "Début d'après-midi",
+          "text": "Déjeuner et balade à Carmel-by-the-Sea."
         },
         {
           "label": "Après-midi",
-          "text": "Carmel-by-the-Sea, vers 15 h 30 pour une balade."
-        },
-        {
-          "label": "Soir",
-          "text": "Route vers San Francisco (environ 2 h 15, davantage avec la circulation), arrivée entre 18 h et 19 h, rendu de la voiture de location."
+          "text": "Départ de Carmel avant 15 h 30 pour éviter l'heure de pointe, route vers San Francisco (environ 2 h à 2 h 30), arrivée vers 18 h, rendu de la voiture de location."
         }
       ],
       "notes": [
-        "Journée longue (environ 8 à 9 h de route sans arrêt) : les sources donnent de 8 h à plus de 9 h entre Santa Barbara et San Francisco par la Highway 1. Partir à 7 h au plus tard.",
-        "La Highway 1 à Big Sur est régulièrement fermée en hiver par des éboulements : vérifier l'état de la route (site de la Caltrans) avant de partir. Plan B : de Cambria, la CA-46 jusqu'à Paso Robles puis la US-101 vers San Francisco (environ 5 h).",
-        "Le soleil se couche vers 17 h 20 : la partie falaise doit être faite avant la nuit. Faire le plein à Cambria ou à Carmel.",
+        "Journée plus calme que par la côte : la US-101 est une grande route sans falaises, et le Big Sur sud et central est laissé de côté. Total d'environ 7 h 30 de route, contre environ 8 h par la Highway 1 complète.",
+        "Le tronçon de la Highway 1 entre Carmel et Bixby peut être fermé par des éboulements en hiver : vérifier l'état de la route (site de la Caltrans) ; sinon, sauter Bixby et garder Point Lobos.",
+        "Le soleil se couche vers 17 h 20 : partir de Carmel avant 15 h 30 pour arriver à San Francisco avant la nuit et avant l'heure de pointe.",
         "Location depuis Los Angeles rendue à San Francisco : prévoir d'éventuels frais d'abandon pour un retour sur un autre site."
       ],
       "ideas": [
         {
-          "label": "McWay Falls",
-          "text": "Chute d'environ 24 m qui tombe directement sur la plage, dans le parc d'État Julia Pfeiffer Burns, au sud de Bixby Bridge : un détour si vous êtes en avance."
+          "label": "Point Lobos",
+          "text": "Réserve d'État de Point Lobos, juste au sud de Carmel, sur le chemin de Bixby : environ 1 h 30 à 2 h de balade à pied (promontoires, cyprès de Monterey, otaries et loutres). Ajouter 1 h 30 à 2 h à la journée."
+        },
+        {
+          "label": "Big Sur central et sud",
+          "text": "Pour voir McWay Falls, Pfeiffer Beach et Ragged Point, il faut faire la Highway 1 en entier (voir le guide des alternatives)."
         }
       ]
     },
@@ -803,6 +810,91 @@
   "season": "Janvier",
   "kind": "long",
   "guides": [
+    {
+      "id": "alternatives-cote",
+      "title": "Alternatives pour dimanche et lundi",
+      "summary": "Les autres combinaisons de nuit et de route envisagées entre Joshua Tree et San Francisco, avec les durées de route estimées.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Durées de route estimées, sans arrêt ; elles n'ont pas été vérifiées sur une carte. Dormir plus au nord ne réduit pas la route totale : cela la déplace du lundi vers le dimanche."
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Option",
+            "Dimanche",
+            "Lundi",
+            "Total",
+            "Ce que ça coûte"
+          ],
+          "rows": [
+            [
+              "Retenu : nuit à Santa Barbara, puis US-101 jusqu'à Carmel et Bixby par le nord",
+              "≈ 4 h 15",
+              "≈ 7 h 30",
+              "≈ 11 h 45",
+              "On perd tout le Big Sur central et sud (McWay Falls, Pfeiffer, Ragged Point) ; gain de seulement 30 à 45 min"
+            ],
+            [
+              "Nuit à Santa Barbara, puis Highway 1 complète",
+              "≈ 4 h 15",
+              "≈ 8 h",
+              "≈ 12 h 15",
+              "Un lundi très long, départ à 7 h, arrivée à San Francisco entre 18 h et 19 h"
+            ],
+            [
+              "Nuit à Los Olivos, puis Highway 1 complète",
+              "≈ 5 h 05",
+              "≈ 7 h 10",
+              "≈ 12 h 15",
+              "On remplace Santa Barbara par Los Olivos, le lundi reste long"
+            ],
+            [
+              "Nuit à San Luis Obispo ou Pismo, puis Highway 1 complète",
+              "≈ 6 h 05",
+              "≈ 6 h 15",
+              "≈ 12 h 20",
+              "On perd Santa Barbara, dimanche plus long"
+            ],
+            [
+              "Nuit à Cambria, puis Highway 1 complète",
+              "≈ 6 h 45",
+              "≈ 5 h 30",
+              "≈ 12 h 15",
+              "On perd Santa Barbara, dimanche très long, pas de pause à destination"
+            ],
+            [
+              "Nuit à Santa Barbara, puis US-101 directe jusqu'à San Francisco",
+              "≈ 4 h 15",
+              "≈ 5 h",
+              "≈ 9 h 15",
+              "Plus de Highway 1 du tout"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Los Olivos"
+        },
+        {
+          "type": "text",
+          "text": "Petit village de la Santa Ynez Valley, à environ 50 min au nord de Santa Barbara : une rue principale bordée d'arbres, de salles de dégustation et de galeries, dans des collines de chênes et de ranchs. Plus rustique et moins luxueux que Sonoma, et joli surtout en janvier, quand les collines sont vertes. Dormir à Los Olivos rapproche de 50 min la route du lundi si l'on fait la Highway 1 complète."
+        },
+        {
+          "type": "heading",
+          "text": "Le Big Sur central et sud"
+        },
+        {
+          "type": "list",
+          "items": [
+            "McWay Falls, dans le parc d'État Julia Pfeiffer Burns : une chute d'environ 24 m qui tombe directement sur la plage.",
+            "Pfeiffer Beach, connue pour son arche rocheuse, très fréquentée au coucher du soleil.",
+            "Ragged Point, à l'extrémité sud de Big Sur."
+          ]
+        }
+      ]
+    },
     {
       "id": "sierra-foothills",
       "title": "Amador County : où déguster et dormir",

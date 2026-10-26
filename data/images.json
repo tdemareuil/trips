@@ -6894,5 +6894,25 @@
   "page": "https://commons.wikimedia.org/wiki/File:Joshua_Tree,_Arch_Rock_Nature_Trail,_California,_USA_(52615938558).jpg",
   "artist": "Domenico Convertini from Zurich, Schweiz",
   "license": "CC BY-SA 2.0"
+ },
+ "Paso Robles, California": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pasorobles2.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Pasorobles2.JPG",
+  "artist": "No machine-readable author provided. Houstontech assumed (based on copyright claims).",
+  "license": "Public domain",
+  "lat": 35.62851,
+  "lon": -120.65036,
+  "extract": "Paso Robles est une ville du comté de San Luis Obispo en Californie, située à peu près à mi-chemin entre San Francisco et Los Angeles.",
+  "article": "https://fr.wikipedia.org/wiki/Paso_Robles"
+ },
+ "Salinas, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Monterey_County_Courthouse_2018_Salinas_CA_%281%29.jpg/1920px-Monterey_County_Courthouse_2018_Salinas_CA_%281%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Monterey_County_Courthouse_2018_Salinas_CA_(1).jpg",
+  "artist": "Sgerbic",
+  "license": "CC BY-SA 4.0",
+  "lat": 36.67778,
+  "lon": -121.65556,
+  "extract": "Salinas est une municipalité de Californie aux États-Unis, c'est le siège du comté de Monterey et la « capitale de la laitue ». Sa population était de 163 542 habitants en 2020.",
+  "article": "https://fr.wikipedia.org/wiki/Salinas_(Californie)"
  }
 }
