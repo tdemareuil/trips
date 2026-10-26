@@ -90,15 +90,18 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol aller (Ryanair depuis Paris-Beauvais, options dernière minute à partir de 80 à 135 €)"
+          "text": "Vol aller (Ryanair depuis Paris-Beauvais, options dernière minute à partir de 80 à 135 €)",
+          "after": -1
         },
         {
           "mode": "car",
-          "text": "Voiture de location, 8 jours, retirée à l'aéroport d'Olbia le dimanche 6 août à 9 h 30 : DiscoverCars, Felirent, 275 €"
+          "text": "Voiture de location, 8 jours, retirée à l'aéroport d'Olbia le dimanche 6 août à 9 h 30 : DiscoverCars, Felirent, 275 €",
+          "after": -1
         },
         {
           "mode": "boat",
-          "text": "Ferry Palau - La Maddalena : toutes les 15 min, Delcomar ou Maddalena Lines au même prix, 42 € l'aller-retour pour deux personnes avec la voiture, 20 min de trajet ; billet à acheter sur place au port, pas besoin de réserver"
+          "text": "Ferry Palau - La Maddalena : toutes les 15 min, Delcomar ou Maddalena Lines au même prix, 42 € l'aller-retour pour deux personnes avec la voiture, 20 min de trajet ; billet à acheter sur place au port, pas besoin de réserver",
+          "after": 1
         }
       ],
       "food": [
@@ -285,7 +288,8 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Ferry Maddalena - Palau à 12 h 30"
+          "text": "Ferry Maddalena - Palau à 12 h 30",
+          "after": 0
         }
       ],
       "food": [
@@ -441,7 +445,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Voiture, route côtière d'Alghero à Bosa (SP 49)"
+          "text": "Voiture, route côtière d'Alghero à Bosa (SP 49)",
+          "after": 1
         }
       ],
       "ideas": [
@@ -569,15 +574,18 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Retour de la voiture à Olbia le dimanche 13 août à 12 h 30"
+          "text": "Retour de la voiture à Olbia le dimanche 13 août à 12 h 30",
+          "after": 0
         },
         {
           "mode": "flight",
-          "text": "Vol Olbia - Nice, Volotea, 13 h 20 - 14 h 25, 41 € (toujours disponible en dernière minute à 47 €) : pas le choix, seul prix décent, et on arrive directement dans le sud"
+          "text": "Vol Olbia - Nice, Volotea, 13 h 20 - 14 h 25, 41 € (toujours disponible en dernière minute à 47 €) : pas le choix, seul prix décent, et on arrive directement dans le sud",
+          "after": 0
         },
         {
           "mode": "bus",
-          "text": "Flixbus aéroport de Nice - Toulon, 15 h 40 - 18 h 05, 9 €"
+          "text": "Flixbus aéroport de Nice - Toulon, 15 h 40 - 18 h 05, 9 €",
+          "after": 1
         }
       ],
       "ideas": [

@@ -124,7 +124,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "2 h 30 à 3 h de route vers Bou Tharar ou les gorges du Dadès (Jbel El Oulia)"
+          "text": "2 h 30 à 3 h de route vers Bou Tharar ou les gorges du Dadès (Jbel El Oulia)",
+          "after": -1
         }
       ],
       "ideas": [
@@ -199,11 +200,13 @@
       "transport": [
         {
           "mode": "car",
-          "text": "4 h de route : traversée du Jbel Saghro depuis Boulmane Dadès (3 h environ ; 4 h depuis le bout des gorges du Dadès)"
+          "text": "4 h de route : traversée du Jbel Saghro depuis Boulmane Dadès (3 h environ ; 4 h depuis le bout des gorges du Dadès)",
+          "after": 0
         },
         {
           "mode": "car",
-          "text": "4x4 jusqu'au Jbel Serdrar"
+          "text": "4x4 jusqu'au Jbel Serdrar",
+          "after": 1
         }
       ],
       "ideas": [
@@ -256,7 +259,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "6 h de route pour le retour vers Marrakech, arrivée à 18 h"
+          "text": "6 h de route pour le retour vers Marrakech, arrivée à 18 h",
+          "after": 0
         }
       ],
       "ideas": [

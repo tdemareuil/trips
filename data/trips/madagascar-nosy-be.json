@@ -85,7 +85,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Voiture (3 h)"
+          "text": "Voiture (3 h)",
+          "after": -1
         }
       ]
     },
@@ -126,7 +127,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Voiture (6 h)"
+          "text": "Voiture (6 h)",
+          "after": -1
         }
       ]
     },
@@ -189,7 +191,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Voiture (6 h)"
+          "text": "Voiture (6 h)",
+          "after": -1
         }
       ]
     },
@@ -292,7 +295,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Voiture (4 h)"
+          "text": "Voiture (4 h)",
+          "after": -1
         }
       ]
     },
@@ -343,7 +347,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol Tuléar → Nosy Be (2 h)"
+          "text": "Vol Tuléar → Nosy Be (2 h)",
+          "after": -1
         }
       ]
     },
@@ -385,7 +390,8 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Bateau (30 min)"
+          "text": "Bateau (30 min)",
+          "after": -1
         }
       ]
     },
@@ -459,7 +465,8 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Bateau (1 h)"
+          "text": "Bateau (1 h)",
+          "after": -1
         }
       ]
     },

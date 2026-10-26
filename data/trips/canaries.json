@@ -42,7 +42,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Paris → Fuerteventura (voir « Vols et aéroports »)"
+          "text": "Paris → Fuerteventura (voir « Vols et aéroports »)",
+          "after": -1
         }
       ],
       "food": [
@@ -292,7 +293,8 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Ferry Corralejo → Playa Blanca : 30 min. [Líneas Romero](https://www.lineasromero.com/) (peu fréquent, 17,50 € par personne sans voiture), [Fred Olsen](https://compra.fredolsen.es/Booking/en/availability) (plus fréquent, passager + voiture 69 €), [Naviera Armas](https://armastrasmediterranea.com/) (peu fréquent, passager + voiture 73 €)"
+          "text": "Ferry Corralejo → Playa Blanca : 30 min. [Líneas Romero](https://www.lineasromero.com/) (peu fréquent, 17,50 € par personne sans voiture), [Fred Olsen](https://compra.fredolsen.es/Booking/en/availability) (plus fréquent, passager + voiture 69 €), [Naviera Armas](https://armastrasmediterranea.com/) (peu fréquent, passager + voiture 73 €)",
+          "after": 0
         }
       ],
       "food": [
@@ -449,7 +451,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Playa Blanca → Jardín de Cactus : ~40 min ; Cueva de los Verdes → Jameos del Agua : ~5 min"
+          "text": "Playa Blanca → Jardín de Cactus : ~40 min ; Cueva de los Verdes → Jameos del Agua : ~5 min",
+          "after": 0
         }
       ],
       "food": [
@@ -521,7 +524,8 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Ferry Orzola → La Graciosa : ~40 min, tôt le matin"
+          "text": "Ferry Orzola → La Graciosa : ~40 min, tôt le matin",
+          "after": -1
         }
       ]
     },
@@ -591,7 +595,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Lanzarote → Madrid"
+          "text": "Lanzarote → Madrid",
+          "after": 1
         }
       ],
       "food": [
@@ -728,7 +733,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Madrid → Paris"
+          "text": "Madrid → Paris",
+          "after": 1
         }
       ],
       "ideas": [

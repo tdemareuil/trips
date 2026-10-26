@@ -55,11 +55,13 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol Orly 19 h 55 → Naples 22 h 05, 70 €"
+          "text": "Vol Orly 19 h 55 → Naples 22 h 05, 70 €",
+          "after": -1
         },
         {
           "mode": "bus",
-          "text": "Bus Alibus vers Napoli Centrale / Garibaldi : 5 € (achat en ligne), 15 min de trajet, départs à 22 h 25, 22 h 50 et 23 h 15"
+          "text": "Bus Alibus vers Napoli Centrale / Garibaldi : 5 € (achat en ligne), 15 min de trajet, départs à 22 h 25, 22 h 50 et 23 h 15",
+          "after": -1
         }
       ]
     },
@@ -132,11 +134,13 @@
       "transport": [
         {
           "mode": "train",
-          "text": "Circumvesuviana Naples Porta Nolana → Sorrente : toutes les 25 min environ, 3,60 €, 1 h 10 de trajet"
+          "text": "Circumvesuviana Naples Porta Nolana → Sorrente : toutes les 25 min environ, 3,60 €, 1 h 10 de trajet",
+          "after": -1
         },
         {
           "mode": "bus",
-          "text": "Bus SITA n° 5070 Sorrente → Positano, arrêt Sponda pour la Fenice : départs à 14 h (1 h), 14 h 45 (50 min), 15 h 10 (35 min, sûrement le mieux), 15 h 30 (1 h), 15 h 45 (35 min)"
+          "text": "Bus SITA n° 5070 Sorrente → Positano, arrêt Sponda pour la Fenice : départs à 14 h (1 h), 14 h 45 (50 min), 15 h 10 (35 min, sûrement le mieux), 15 h 30 (1 h), 15 h 45 (35 min)",
+          "after": 1
         }
       ],
       "food": [
@@ -250,7 +254,8 @@
       "transport": [
         {
           "mode": "bus",
-          "text": "Bus « Mobility Amalfi Coast » jusqu'à Nocelle : 30 min, toutes les heures environ, ticket achetable à bord"
+          "text": "Bus « Mobility Amalfi Coast » jusqu'à Nocelle : 30 min, toutes les heures environ, ticket achetable à bord",
+          "after": -1
         }
       ],
       "food": [
@@ -350,11 +355,13 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Ferry Amalfi - Capri : environ 1 h de trajet. Les grosses compagnies, réservables en ligne, coûtent environ 50 € par personne au total ; bien meilleur plan, la petite compagnie Sant'Andrea : 37,50 € l'aller-retour, 8 h 45 - 16 h 50"
+          "text": "Ferry Amalfi - Capri : environ 1 h de trajet. Les grosses compagnies, réservables en ligne, coûtent environ 50 € par personne au total ; bien meilleur plan, la petite compagnie Sant'Andrea : 37,50 € l'aller-retour, 8 h 45 - 16 h 50",
+          "after": 0
         },
         {
           "mode": "bus",
-          "text": "Bus SITA n° 5110 Amalfi - Ravello, 18 h 50 ou 19 h 45 : descendre à Incrocio via Zia Marta (10 min), puis 15 min de marche avec de gros escaliers"
+          "text": "Bus SITA n° 5110 Amalfi - Ravello, 18 h 50 ou 19 h 45 : descendre à Incrocio via Zia Marta (10 min), puis 15 min de marche avec de gros escaliers",
+          "after": 1
         }
       ],
       "food": [
@@ -429,11 +436,13 @@
       "transport": [
         {
           "mode": "bus",
-          "text": "Bus Pintour Minori → Naples : 15 h 37, achat en ligne, 20 € par personne, très ponctuel, certainement le meilleur plan pour rentrer à Naples (arrêt à Minori, Via Alfonso Gatto 59 ou Via Roma 44)"
+          "text": "Bus Pintour Minori → Naples : 15 h 37, achat en ligne, 20 € par personne, très ponctuel, certainement le meilleur plan pour rentrer à Naples (arrêt à Minori, Via Alfonso Gatto 59 ou Via Roma 44)",
+          "after": 2
         },
         {
           "mode": "flight",
-          "text": "Vol retour depuis Naples à 18 h 20 avec escale à Gênes, arrivée à Orly à 22 h 35, 120 €"
+          "text": "Vol retour depuis Naples à 18 h 20 avec escale à Gênes, arrivée à Orly à 22 h 35, 120 €",
+          "after": 2
         }
       ]
     }

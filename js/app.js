@@ -451,7 +451,9 @@ function mountStory(trip, start) {
   }
 
   function dayHTML(day) {
-    const parts = day.parts ? `<ul class="parts">${day.parts.map(p => `<li><b>${esc(p.label)}</b><span>${rich(p.text)}</span></li>`).join('')}</ul>` : '';
+    const leg = t => `<li class="leg"><span class="mode">${MODE_LABEL[t.mode] || ''}</span><span>${rich(t.text)}</span></li>`;
+    const legsAfter = k => (day.transport || []).filter(t => Number.isInteger(t.after) && t.after === k).map(leg).join('');
+    const parts = day.parts ? `<ul class="parts">${legsAfter(-1)}${day.parts.map((p, k) => `<li><b>${esc(p.label)}</b><span>${rich(p.text)}</span></li>${legsAfter(k)}`).join('')}</ul>` : '';
     const stops = day.stops.map((s, k) => {
       const article = data.images[s.wiki];
       const text = s.culture || article?.extract;
@@ -476,16 +478,16 @@ function mountStory(trip, start) {
     const stay = day.stay
       ? `<div class="stay"><span class="glyph">☾</span><div><small>${rich(day.stay.note || 'Nuit à')}</small><b>${esc(day.stay.name)}</b>${day.stay.price ? `<em class="price">${esc(day.stay.price)}</em>` : ''}${day.stay.options?.length ? `<ul class="options">${day.stay.options.map(o => `<li>${rich(o)}</li>`).join('')}</ul>` : ''}</div></div>`
       : day.end ? `<div class="stay"><span class="glyph">✈</span><div><small>Fin du voyage</small><b>${esc(day.end)}</b></div></div>` : '';
-    const transport = (day.transport || []).map(t => `<li><span class="mode">${MODE_LABEL[t.mode] || ''}</span>${rich(t.text)}</li>`).join('');
+    const transport = (day.transport || []).filter(t => !(day.parts?.length && Number.isInteger(t.after))).map(t => `<li><span class="mode">${MODE_LABEL[t.mode] || ''}</span>${rich(t.text)}</li>`).join('');
     return `
       <p class="eyebrow" style="--c:${day.color}"><span class="swatch"></span>Jour ${day.n}</p>
       ${day.dateLong ? `<p class="date" style="--c:${day.color}">${esc(day.dateLong)}${day.when ? ` <small>${esc(day.when)}</small>` : ''}</p>` : ''}
       <h1 class="title">${esc(day.title)}</h1>
       <p class="lead">${esc(day.summary)}</p>
+      ${transport ? `<ul class="transport">${transport}</ul>` : ''}
       ${parts}
       ${day.stops.length ? `<h2 class="section">Lieux</h2><div class="stops">${stops}</div>` : ''}
       ${stay}
-      ${transport ? `<ul class="transport">${transport}</ul>` : ''}
       ${day.food?.length ? `<h2 class="section">Où manger et boire</h2><ul class="food">${day.food.map(f => `<li>${rich(f)}</li>`).join('')}</ul>` : ''}
       ${day.ideas?.length ? `<h2 class="section">Idées, variantes et alternatives</h2><ul class="ideas">${day.ideas.map(i => `<li>${typeof i === 'string' ? rich(i) : `<b>${esc(i.label)}</b> ${rich(i.text)}`}</li>`).join('')}</ul>` : ''}
       ${day.notes?.length ? `<ul class="notes">${day.notes.map(n => `<li>${rich(n)}</li>`).join('')}</ul>` : ''}

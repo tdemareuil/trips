@@ -61,7 +61,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol international jusqu'à Arusha (8 à 12 h)"
+          "text": "Vol international jusqu'à Arusha (8 à 12 h)",
+          "after": -1
         }
       ]
     },
@@ -197,7 +198,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Passage de la frontière à Loitokitok (le plus proche) ou à Namanga (il reste 1 h 30 de route)"
+          "text": "Passage de la frontière à Loitokitok (le plus proche) ou à Namanga (il reste 1 h 30 de route)",
+          "after": 0
         }
       ]
     },
@@ -257,7 +259,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Voiture (2 h)"
+          "text": "Voiture (2 h)",
+          "after": -1
         }
       ]
     },
@@ -315,7 +318,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Voiture (3 à 4 h)"
+          "text": "Voiture (3 à 4 h)",
+          "after": -1
         }
       ]
     },
@@ -402,7 +406,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Voiture (2 h)"
+          "text": "Voiture (2 h)",
+          "after": -1
         }
       ]
     },
@@ -539,7 +544,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Voiture, passage de la frontière à Isebania : prévoir eVisa, shillings et 1 à 2 h"
+          "text": "Voiture, passage de la frontière à Isebania : prévoir eVisa, shillings et 1 à 2 h",
+          "after": -1
         }
       ]
     },
@@ -662,7 +668,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol"
+          "text": "Vol",
+          "after": -1
         }
       ]
     },
@@ -784,7 +791,8 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Ferry (1 h)"
+          "text": "Ferry (1 h)",
+          "after": -1
         }
       ]
     },
@@ -933,7 +941,8 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Ferry (15 min)"
+          "text": "Ferry (15 min)",
+          "after": -1
         },
         {
           "mode": "car",

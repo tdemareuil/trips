@@ -229,11 +229,13 @@
         },
         {
           "mode": "bus",
-          "text": "Bus B1, 24 ou 21J depuis l'arrêt « Luminy Parc national des Calanques »"
+          "text": "Bus B1, 24 ou 21J depuis l'arrêt « Luminy Parc national des Calanques »",
+          "after": 5
         },
         {
           "mode": "train",
-          "text": "Retour à Paris depuis la gare Saint-Charles"
+          "text": "Retour à Paris depuis la gare Saint-Charles",
+          "after": 6
         }
       ],
       "food": [

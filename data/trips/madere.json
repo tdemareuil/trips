@@ -57,11 +57,13 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol Nantes 10 h 25, avec escale d'une heure à Lisbonne ; arrivée à Madère à 14 h 20"
+          "text": "Vol Nantes 10 h 25, avec escale d'une heure à Lisbonne ; arrivée à Madère à 14 h 20",
+          "after": 0
         },
         {
           "mode": "car",
-          "text": "Voiture de location chez Cassiano's à 14 h 30 (navettes ; faire le self check-in et envoyer un WhatsApp le matin ; contact pour la navette : +351 937310425)"
+          "text": "Voiture de location chez Cassiano's à 14 h 30 (navettes ; faire le self check-in et envoyer un WhatsApp le matin ; contact pour la navette : +351 937310425)",
+          "after": 0
         }
       ],
       "food": [
@@ -139,7 +141,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Route de la côte nord jusqu'à São Vicente, arrivée vers 16 h-17 h prévue"
+          "text": "Route de la côte nord jusqu'à São Vicente, arrivée vers 16 h-17 h prévue",
+          "after": 0
         }
       ],
       "food": [
@@ -384,7 +387,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol Madère - Lisbonne en fin de journée"
+          "text": "Vol Madère - Lisbonne en fin de journée",
+          "after": 1
         }
       ],
       "food": [
@@ -424,7 +428,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol Lisbonne - Paris à 18 h 15, arrivée à 21 h 30"
+          "text": "Vol Lisbonne - Paris à 18 h 15, arrivée à 21 h 30",
+          "after": 1
         }
       ]
     }

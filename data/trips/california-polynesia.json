@@ -61,7 +61,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol international (1 000 EUR pour 2)"
+          "text": "Vol international (1 000 EUR pour 2)",
+          "after": -1
         }
       ]
     },
@@ -133,7 +134,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Location de voiture ; route depuis Los Angeles (1 h)"
+          "text": "Location de voiture ; route depuis Los Angeles (1 h)",
+          "after": -1
         }
       ]
     },
@@ -202,7 +204,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Route vers Joshua Tree (2 h 30)"
+          "text": "Route vers Joshua Tree (2 h 30)",
+          "after": -1
         }
       ]
     },
@@ -271,7 +274,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Route vers Anza-Borrego (2 h)"
+          "text": "Route vers Anza-Borrego (2 h)",
+          "after": -1
         }
       ]
     },
@@ -324,7 +328,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Route vers San Diego (2 h)"
+          "text": "Route vers San Diego (2 h)",
+          "after": -1
         }
       ],
       "food": [
@@ -401,11 +406,13 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Route vers LAX (2 h 30)"
+          "text": "Route vers LAX (2 h 30)",
+          "after": 0
         },
         {
           "mode": "flight",
-          "text": "Vol vers Papeete (8 h, 900 EUR pour 2)"
+          "text": "Vol vers Papeete (8 h, 900 EUR pour 2)",
+          "after": 0
         }
       ]
     },
@@ -522,7 +529,8 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Ferry vers Moorea (45 min, 50 EUR)"
+          "text": "Ferry vers Moorea (45 min, 50 EUR)",
+          "after": -1
         }
       ]
     },
@@ -629,7 +637,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol vers Huahine (40 min, 180 EUR)"
+          "text": "Vol vers Huahine (40 min, 180 EUR)",
+          "after": -1
         }
       ]
     },
@@ -726,7 +735,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol vers Bora Bora (45 min, 200 EUR)"
+          "text": "Vol vers Bora Bora (45 min, 200 EUR)",
+          "after": -1
         }
       ]
     },
@@ -835,7 +845,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol vers Rangiroa (1 h 20, 250 EUR)"
+          "text": "Vol vers Rangiroa (1 h 20, 250 EUR)",
+          "after": -1
         }
       ]
     },
@@ -933,7 +944,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol vers Tikehau (20 min, 150 EUR)"
+          "text": "Vol vers Tikehau (20 min, 150 EUR)",
+          "after": -1
         }
       ]
     },
@@ -1022,7 +1034,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol vers Papeete (1 h, 150 EUR)"
+          "text": "Vol vers Papeete (1 h, 150 EUR)",
+          "after": -1
         }
       ]
     },
@@ -1047,7 +1060,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol retour vers Paris (22 h, 1 000 EUR pour 2)"
+          "text": "Vol retour vers Paris (22 h, 1 000 EUR pour 2)",
+          "after": 0
         }
       ]
     }

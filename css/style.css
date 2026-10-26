@@ -200,6 +200,7 @@ button:disabled { cursor: default; }
 /* Day */
 .parts { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
 .parts li { display: grid; grid-template-columns: 96px 1fr; gap: 12px; padding: 12px 14px; border-radius: 14px; background: var(--card); border: 1px solid var(--line); font-size: 14.5px; }
+.parts li.leg { display: flex; align-items: baseline; gap: 10px; padding: 2px 14px; background: none; border: 0; font-size: 13.5px; color: #3b4254; }
 .parts b { color: var(--muted); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; padding-top: 2px; }
 
 .stops { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
@@ -278,7 +279,7 @@ button:disabled { cursor: default; }
 .ideas b { font-weight: 700; color: var(--ink); }
 .parts a, .options a, .food a, .ideas a, .notes a, .transport a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
 .g-table a, .g-text a, .g-list a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
-.transport { list-style: none; margin: 14px 0 0; padding: 0; display: grid; gap: 8px; }
+.transport { list-style: none; margin: 0 0 14px; padding: 0; display: grid; gap: 8px; }
 .transport li { display: flex; align-items: baseline; gap: 10px; font-size: 14px; color: #3b4254; }
 .mode { flex: none; padding: 2px 9px; border-radius: 999px; background: rgba(27, 33, 48, 0.08); color: var(--ink); font-size: 11px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; }
 

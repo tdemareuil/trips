@@ -62,11 +62,13 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Arrivée à Palma à 14 h 55"
+          "text": "Arrivée à Palma à 14 h 55",
+          "after": -1
         },
         {
           "mode": "bus",
-          "text": "Bus depuis l'aéroport jusqu'à la ville"
+          "text": "Bus depuis l'aéroport jusqu'à la ville",
+          "after": -1
         }
       ],
       "food": [
@@ -491,11 +493,13 @@
         },
         {
           "mode": "bus",
-          "text": "Bus 334 depuis le Port de Pollença jusqu'au Cap Formentor, 1,80 € par carte, 45 min"
+          "text": "Bus 334 depuis le Port de Pollença jusqu'au Cap Formentor, 1,80 € par carte, 45 min",
+          "after": 0
         },
         {
           "mode": "boat",
-          "text": "Ferry Corsica Ferries Alcúdia - Toulon, 21 h 30 - 10 h"
+          "text": "Ferry Corsica Ferries Alcúdia - Toulon, 21 h 30 - 10 h",
+          "after": 1
         }
       ],
       "ideas": [

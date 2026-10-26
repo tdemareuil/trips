@@ -69,7 +69,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Arrivée à l'aéroport à 12 h 55"
+          "text": "Arrivée à l'aéroport à 12 h 55",
+          "after": -1
         }
       ],
       "food": [

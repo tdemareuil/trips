@@ -57,11 +57,13 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Marrakech → Essaouira : 2 h 45 de route"
+          "text": "Marrakech → Essaouira : 2 h 45 de route",
+          "after": 0
         },
         {
           "mode": "car",
-          "text": "Essaouira → Imsouane : 1 h 45 de route"
+          "text": "Essaouira → Imsouane : 1 h 45 de route",
+          "after": 1
         }
       ],
       "ideas": [
@@ -132,11 +134,13 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Voiture jusqu'à Tillilt, à côté d'Imsouane"
+          "text": "Voiture jusqu'à Tillilt, à côté d'Imsouane",
+          "after": 0
         },
         {
           "mode": "car",
-          "text": "Randonnée chamelière"
+          "text": "Randonnée chamelière",
+          "after": 1
         }
       ],
       "ideas": [
@@ -263,7 +267,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Retour à Marrakech en voiture"
+          "text": "Retour à Marrakech en voiture",
+          "after": 0
         }
       ],
       "ideas": [

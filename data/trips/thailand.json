@@ -56,7 +56,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol international (15 à 16 h avec escale)"
+          "text": "Vol international (15 à 16 h avec escale)",
+          "after": -1
         }
       ]
     },
@@ -279,7 +280,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol Bangkok → Chiang Mai (1 h 20)"
+          "text": "Vol Bangkok → Chiang Mai (1 h 20)",
+          "after": -1
         }
       ]
     },
@@ -384,7 +386,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol vers Surat Thani (2 h) + transfert (2 h)"
+          "text": "Vol vers Surat Thani (2 h) + transfert (2 h)",
+          "after": -1
         }
       ]
     },
@@ -484,7 +487,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Transfert en voiture (3 h)"
+          "text": "Transfert en voiture (3 h)",
+          "after": -1
         }
       ],
       "ideas": [
@@ -608,7 +612,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Voiture (30 min)"
+          "text": "Voiture (30 min)",
+          "after": 0
         },
         {
           "mode": "boat",
@@ -671,7 +676,8 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Ferry (1 h 30)"
+          "text": "Ferry (1 h 30)",
+          "after": -1
         }
       ]
     },
@@ -866,11 +872,13 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Ferry"
+          "text": "Ferry",
+          "after": -1
         },
         {
           "mode": "flight",
-          "text": "Vol (3 à 4 h au total)"
+          "text": "Vol (3 à 4 h au total)",
+          "after": -1
         }
       ]
     },
@@ -992,7 +1000,8 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Ferry rapide (2 h)"
+          "text": "Ferry rapide (2 h)",
+          "after": -1
         }
       ]
     },

@@ -76,7 +76,8 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Arrivée en ferry à Bastia à 6h"
+          "text": "Arrivée en ferry à Bastia à 6h",
+          "after": -1
         }
       ],
       "food": [
@@ -235,7 +236,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Saint-Florent → Calvi, par la Balagne : ~1 h 15"
+          "text": "Saint-Florent → Calvi, par la Balagne : ~1 h 15",
+          "after": -1
         }
       ],
       "food": [
@@ -309,7 +311,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Calvi → calanques de Piana : ~2 h de route"
+          "text": "Calvi → calanques de Piana : ~2 h de route",
+          "after": -1
         }
       ],
       "food": [
@@ -372,11 +375,13 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Porto → Ajaccio : ~2 h"
+          "text": "Porto → Ajaccio : ~2 h",
+          "after": -1
         },
         {
           "mode": "boat",
-          "text": "Ferry au départ d'Ajaccio à 23h"
+          "text": "Ferry au départ d'Ajaccio à 23h",
+          "after": 2
         }
       ],
       "food": [

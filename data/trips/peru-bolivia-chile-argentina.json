@@ -63,7 +63,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Vol international jusqu'à Lima"
+          "text": "Vol international jusqu'à Lima",
+          "after": -1
         }
       ]
     },
@@ -123,7 +124,8 @@
       "transport": [
         {
           "mode": "bus",
-          "text": "Bus Lima → Cusco (22 h)"
+          "text": "Bus Lima → Cusco (22 h)",
+          "after": -1
         }
       ]
     },
@@ -265,7 +267,8 @@
       "transport": [
         {
           "mode": "train",
-          "text": "Train vers Aguas Calientes (2 h 30)"
+          "text": "Train vers Aguas Calientes (2 h 30)",
+          "after": -1
         }
       ]
     },
@@ -310,7 +313,8 @@
       "transport": [
         {
           "mode": "train",
-          "text": "Retour en train (2 h 30)"
+          "text": "Retour en train (2 h 30)",
+          "after": -1
         }
       ]
     },
@@ -467,7 +471,8 @@
       "transport": [
         {
           "mode": "bus",
-          "text": "Bus Puno → Arequipa (6 h)"
+          "text": "Bus Puno → Arequipa (6 h)",
+          "after": -1
         }
       ]
     },
@@ -554,7 +559,8 @@
       "transport": [
         {
           "mode": "bus",
-          "text": "Bus Arequipa → La Paz (7 h)"
+          "text": "Bus Arequipa → La Paz (7 h)",
+          "after": -1
         }
       ]
     },
@@ -586,7 +592,8 @@
       "transport": [
         {
           "mode": "bus",
-          "text": "Bus La Paz → Uyuni (10 h)"
+          "text": "Bus La Paz → Uyuni (10 h)",
+          "after": 0
         }
       ]
     },

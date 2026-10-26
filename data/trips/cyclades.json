@@ -45,11 +45,13 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Paris → Athènes : départ 14h15, arrivée 18h25"
+          "text": "Paris → Athènes : départ 14h15, arrivée 18h25",
+          "after": -1
         },
         {
           "mode": "transit",
-          "text": "Métro ligne M3 jusqu'à Monastiraki : ~40 min"
+          "text": "Métro ligne M3 jusqu'à Monastiraki : ~40 min",
+          "after": 0
         }
       ],
       "food": [
@@ -122,11 +124,13 @@
       "transport": [
         {
           "mode": "transit",
-          "text": "Métro Athènes → Le Pirée : ~45 min"
+          "text": "Métro Athènes → Le Pirée : ~45 min",
+          "after": 0
         },
         {
           "mode": "boat",
-          "text": "Ferry Le Pirée → Sifnos : 15h20 – 18h35 (3h15)"
+          "text": "Ferry Le Pirée → Sifnos : 15h20 – 18h35 (3h15)",
+          "after": 1
         }
       ],
       "food": [
@@ -278,7 +282,8 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Ferry Sifnos → Milos : 11h40 (Fast Ferries, 18 €, 1h30) ou 18h45 (SeaJets, 34,70 €, 45 min)"
+          "text": "Ferry Sifnos → Milos : 11h40 (Fast Ferries, 18 €, 1h30) ou 18h45 (SeaJets, 34,70 €, 45 min)",
+          "after": 0
         }
       ],
       "food": [
@@ -543,11 +548,13 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Ferry Milos → Santorin : 11h45 – 14h15"
+          "text": "Ferry Milos → Santorin : 11h45 – 14h15",
+          "after": 0
         },
         {
           "mode": "car",
-          "text": "Voiture de location récupérée au port de Santorin"
+          "text": "Voiture de location récupérée au port de Santorin",
+          "after": 0
         }
       ],
       "food": [
@@ -616,7 +623,8 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Santorin → Paris Orly : 20h05 – 22h50 (Transavia)"
+          "text": "Santorin → Paris Orly : 20h05 – 22h50 (Transavia)",
+          "after": 1
         }
       ],
       "food": [

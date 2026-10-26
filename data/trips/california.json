@@ -156,7 +156,13 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Los Angeles → Palm Springs : environ 2 h ; Palm Springs → Joshua Tree : environ 45 min"
+          "text": "Los Angeles → Palm Springs : environ 2 h",
+          "after": 0
+        },
+        {
+          "mode": "car",
+          "text": "Palm Springs → Joshua Tree : environ 45 min",
+          "after": 1
         }
       ]
     },
@@ -251,7 +257,18 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Joshua Tree (village) → Hidden Valley : environ 20 min ; → Cholla Cactus Garden : environ 55 min ; → Pioneertown : environ 25 min"
+          "text": "Joshua Tree (village) → Hidden Valley : environ 20 min",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Joshua Tree (village) → Cholla Cactus Garden : environ 55 min",
+          "after": 1
+        },
+        {
+          "mode": "car",
+          "text": "→ Pioneertown : environ 25 min",
+          "after": 2
         }
       ],
       "food": [
@@ -337,7 +354,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Joshua Tree → Santa Barbara : environ 4 h 15 de route"
+          "text": "Joshua Tree → Santa Barbara : environ 4 h 15 de route",
+          "after": 0
         }
       ],
       "ideas": [
@@ -394,7 +412,18 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Santa Barbara → Carmel : environ 5 h par la US-101 ; Carmel → Bixby Bridge : environ 30 min (aller-retour 1 h) ; Carmel → San Francisco : environ 2 h à 2 h 30"
+          "text": "Santa Barbara → Carmel : environ 5 h par la US-101",
+          "after": 0
+        },
+        {
+          "mode": "car",
+          "text": "Carmel → Bixby Bridge : environ 30 min (aller-retour 1 h)",
+          "after": 1
+        },
+        {
+          "mode": "car",
+          "text": "Carmel → San Francisco : environ 2 h à 2 h 30",
+          "after": 2
         }
       ],
       "parts": [
@@ -546,8 +575,8 @@
     {
       "n": 9,
       "weekday": "Jeudi",
-      "title": "Matinée SF & route vers les contreforts de la Sierra",
-      "summary": "Matin à San Francisco, nouvelle voiture de location à midi, puis route (environ 3 h) vers l'Amador County : dégustation en fin d'après-midi dans les collines de la Shenandoah Valley, balade dans les villes de la ruée vers l'or, Sutter Creek et Amador City, et nuit sur place.",
+      "title": "Matinée SF, Livermore Valley & contreforts de la Sierra",
+      "summary": "Matin à San Francisco, nouvelle voiture de location à midi, dégustation dans la Livermore Valley (sur la route, à une heure de San Francisco), puis route vers l'Amador County : balade dans les villes de la ruée vers l'or, Sutter Creek et Amador City, et nuit sur place.",
       "route": "drive",
       "parts": [
         {
@@ -560,7 +589,11 @@
         },
         {
           "label": "Après-midi",
-          "text": "Midi : prise d'une voiture de location à San Francisco et départ vers l'Amador County (environ 3 h). Vers 16 h, dégustation à La Mesa Vineyards, perchée dans les collines de la Shenandoah Valley, avec la lumière dorée de fin de journée sur les contreforts de la Sierra (les caves ferment vers 17 h)."
+          "text": "Midi : prise d'une voiture de location à San Francisco et départ vers l'est par la I-580. Vers 13 h, dégustation dans la Livermore Valley, à Murrieta's Well : domaine historique en brique centenaire, entouré de verdure (alternative : McGrail Vineyards, perché sur une crête avec vue sur les collines et les vignes). Les domaines ouvrent vers midi."
+        },
+        {
+          "label": "Fin d'après-midi",
+          "text": "Départ de Livermore vers 14 h 30, arrivée à Sutter Creek vers 16 h 45."
         },
         {
           "label": "Soir",
@@ -579,12 +612,12 @@
           "culture": "Inauguré en 1937, il était alors le plus long pont suspendu du monde, avec ses tours de 227 m de haut."
         },
         {
-          "name": "La Mesa Vineyards",
+          "name": "Murrieta's Well",
           "coords": [
-            38.516,
-            -120.728
+            37.6562,
+            -121.7373
           ],
-          "culture": "Domaine perché dans les collines de la Shenandoah Valley, avec une salle de dégustation moderne aux grandes baies vitrées sur la vallée, 4,9 sur Google, et des terrasses entourées de manzanitas et de chênes."
+          "culture": "Domaine historique de la Livermore Valley, avec ses bâtiments de brique centenaires entourés de verdure ; une ambiance romantique, proche de celle des domaines de Sonoma. McGrail Vineyards, perché sur une crête avec une vue panoramique sur les collines et les vignes, est l'alternative."
         },
         {
           "name": "Sutter Creek",
@@ -621,14 +654,20 @@
       "transport": [
         {
           "mode": "car",
-          "text": "San Francisco → Sutter Creek : environ 3 h de route (Bay Bridge, I-80 puis CA-99 / CA-49)"
+          "text": "San Francisco → Livermore Valley : environ 1 h de route par la I-580",
+          "after": 1
+        },
+        {
+          "mode": "car",
+          "text": "Livermore Valley → Sutter Creek : environ 2 h de route, par la I-580 puis la CA-99 / CA-49",
+          "after": 2
         }
       ],
       "food": [
         "Dîner à Sutter Creek ou à Amador City."
       ],
       "notes": [
-        "Les caves ferment vers 17 h (La Mesa, Bella Grace, Scott Harvey) : partir de San Francisco à midi pile. Casino Mine Ranch ne se visite que sur rendez-vous."
+        "Les domaines de Livermore ouvrent vers midi : à confirmer sur leur site avant de partir, et partir de San Francisco à midi pile. Dans l'Amador County, les caves ferment vers 17 h, d'où la balade de soirée ; Casino Mine Ranch ne se visite que sur rendez-vous."
       ]
     },
     {
@@ -736,7 +775,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Sutter Creek → vallée de Yosemite : environ 3 h 15 de route, par la CA-49 puis la CA-140"
+          "text": "Sutter Creek → vallée de Yosemite : environ 3 h 15 de route, par la CA-49 puis la CA-140",
+          "after": -1
         }
       ],
       "notes": [
@@ -793,11 +833,13 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Vallée de Yosemite → aéroport de Sacramento (SMF) : environ 4 h de route"
+          "text": "Vallée de Yosemite → aéroport de Sacramento (SMF) : environ 4 h de route",
+          "after": 1
         },
         {
           "mode": "car",
-          "text": "Vallée de Yosemite → aéroport de San Francisco (SFO) : environ 4 h 30 de route"
+          "text": "Vallée de Yosemite → aéroport de San Francisco (SFO) : environ 4 h 30 de route",
+          "after": 1
         }
       ],
       "notes": [
@@ -904,16 +946,16 @@
     },
     {
       "id": "sierra-foothills",
-      "title": "Amador County : où déguster et dormir",
-      "summary": "Les domaines et les villes des contreforts de la Sierra pour la nuit du jeudi, avec notre choix le plus esthétique.",
+      "title": "Livermore Valley et Amador County : où déguster et dormir",
+      "summary": "La dégustation sur la route (Livermore Valley) et les domaines et villes des contreforts de la Sierra pour la nuit du jeudi.",
       "blocks": [
         {
           "type": "text",
-          "text": "Pour l'esthétique (beauté des paysages, architecture de conte, décors de vignes et détails photogéniques), c'est la route des contreforts de la Sierra (Amador County et Shenandoah Valley) qu'il faut privilégier : pas de resorts de luxe comme à Napa, mais une esthétique romantique et dramatique de pays de l'or, très cinématographique dans la lumière d'hiver."
+          "text": "La Livermore Valley est la région viticole la plus proche de l'axe : elle borde la I-580, que l'on emprunte de toute façon en quittant San Francisco vers Yosemite, donc sans détour notable. Dans l'Amador County, plus loin, l'esthétique est celle d'un pays de l'or, romantique et très cinématographique dans la lumière d'hiver."
         },
         {
           "type": "text",
-          "text": "Notre choix : dormir à Sutter Creek ou à Amador City, pour les rues de brique et le décor de film ; faire la dégustation de fin d'après-midi à La Mesa Vineyards, pour la vue sur les collines à la lumière dorée ; et, si l'on veut une seconde adresse, Bella Grace (cour-jardin historique) ou The End of Nowhere (rétro-chic), à visiter avant 17 h."
+          "text": "Notre choix : déguster à Murrieta's Well, dans la Livermore Valley, vers 13 h ; dormir à Sutter Creek ou à Amador City pour les rues de brique et le décor de film. En alternative, McGrail pour la vue sur la crête, ou, en Amador, La Mesa Vineyards, Bella Grace (cour-jardin historique) ou The End of Nowhere (rétro-chic), à visiter avant 17 h."
         },
         {
           "type": "table",
@@ -923,6 +965,16 @@
             "À savoir"
           ],
           "rows": [
+            [
+              "Murrieta's Well (Livermore Valley)",
+              "Domaine historique en brique centenaire, entouré de verdure, avec une ambiance romantique proche de celle de Sonoma.",
+              "Sur la route (I-580), ouvert vers midi, à confirmer"
+            ],
+            [
+              "McGrail Vineyards and Winery (Livermore Valley)",
+              "Juché sur une crête, avec des vues panoramiques sur les collines et les vignes.",
+              "Sur la route (I-580), ouvert vers midi, à confirmer"
+            ],
             [
               "La Mesa Vineyards (Amador County)",
               "Perché dans les collines de la Shenandoah Valley, avec de larges vues sur les contreforts de la Sierra. Salle de dégustation moderne, aux grandes baies vitrées qui encadrent la vallée ; terrasses entourées de manzanitas et de chênes ; atmosphère immersive et tranquille.",

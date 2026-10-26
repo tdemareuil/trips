@@ -275,15 +275,18 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Speed boat Ilha Grande → Paraty : ~1 h 30"
+          "text": "Speed boat Ilha Grande → Paraty : ~1 h 30",
+          "after": 0
         },
         {
           "mode": "bus",
-          "text": "Paraty → Rio : ~5 h"
+          "text": "Paraty → Rio : ~5 h",
+          "after": 1
         },
         {
           "mode": "flight",
-          "text": "Rio → Foz do Iguaçu : ~2 h"
+          "text": "Rio → Foz do Iguaçu : ~2 h",
+          "after": 1
         }
       ],
       "food": [
@@ -460,11 +463,13 @@
       "transport": [
         {
           "mode": "bus",
-          "text": "Boipeba → Salvador : ~4 h"
+          "text": "Boipeba → Salvador : ~4 h",
+          "after": 0
         },
         {
           "mode": "bus",
-          "text": "Bus de nuit Salvador → Lençóis : ~6 h"
+          "text": "Bus de nuit Salvador → Lençóis : ~6 h",
+          "after": 1
         }
       ]
     },

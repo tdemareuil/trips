@@ -162,7 +162,8 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "Vaporetto vers Murano à 8 h 30 ; Burano à 40 minutes de plus en bateau"
+          "text": "Vaporetto vers Murano à 8 h 30 ; Burano à 40 minutes de plus en bateau",
+          "after": -1
         }
       ]
     },
@@ -274,11 +275,13 @@
       "transport": [
         {
           "mode": "train",
-          "text": "Train rapide Venise - Padoue (25 min), consigne à la gare ou voiture de location"
+          "text": "Train rapide Venise - Padoue (25 min), consigne à la gare ou voiture de location",
+          "after": -1
         },
         {
           "mode": "car",
-          "text": "Route vers Valdobbiadene (1 h 15)"
+          "text": "Route vers Valdobbiadene (1 h 15)",
+          "after": 1
         }
       ],
       "food": [
