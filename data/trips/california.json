@@ -1,7 +1,7 @@
 {
   "id": "california",
   "title": "Californie",
-  "subtitle": "De Los Angeles à San Francisco : désert de Palm Springs et de Joshua Tree, Highway 1 et Big Sur, contreforts de la Sierra, séquoias et Yosemite en hiver",
+  "subtitle": "De Los Angeles à San Francisco : désert de Palm Springs et de Joshua Tree, Highway 1 et Big Sur, Livermore Valley, séquoias et Yosemite en hiver",
   "travelers": [
     "Thomas",
     "Louison"
@@ -575,8 +575,8 @@
     {
       "n": 9,
       "weekday": "Jeudi",
-      "title": "Matinée SF, Livermore Valley & contreforts de la Sierra",
-      "summary": "Matin à San Francisco, nouvelle voiture de location à midi, dégustation dans la Livermore Valley (sur la route, à une heure de San Francisco), puis route vers l'Amador County : balade dans les villes de la ruée vers l'or, Sutter Creek et Amador City, et nuit sur place.",
+      "title": "Matinée SF, Livermore Valley & route vers Yosemite",
+      "summary": "Matin à San Francisco, nouvelle voiture de location à midi, dégustation dans la Livermore Valley (sur la route), puis route vers Yosemite par la Highway 140, la plus basse et la moins enneigée : arrivée à la tombée de la nuit et dîner dans la vallée. Les deux autres options de nuit (Groveland, El Portal) sont détaillées plus bas.",
       "route": "drive",
       "parts": [
         {
@@ -593,11 +593,11 @@
         },
         {
           "label": "Fin d'après-midi",
-          "text": "Départ de Livermore vers 14 h 30, arrivée à Sutter Creek vers 16 h 45."
+          "text": "Départ de Livermore vers 14 h 15, puis la Highway 140 par Mariposa (pause café possible), le long du canyon de la Merced River et sous Arch Rock : arrivée dans la vallée vers 18 h, à la tombée de la nuit. Avec une dégustation d'une heure, l'arrivée se fait vers 17 h 30."
         },
         {
           "label": "Soir",
-          "text": "Balade dans Sutter Creek et Amador City, villes de la ruée vers l'or restées intactes, dîner et nuit sur place."
+          "text": "Installation dans la vallée et dîner sur place : la salle à manger de l'Ahwahnee (à réserver) ou la cafétéria de Yosemite Valley Lodge."
         }
       ],
       "stops": [
@@ -620,35 +620,25 @@
           "culture": "Domaine historique de la Livermore Valley, avec ses bâtiments de brique centenaires entourés de verdure ; une ambiance romantique, proche de celle des domaines de Sonoma. McGrail Vineyards, perché sur une crête avec une vue panoramique sur les collines et les vignes, est l'alternative."
         },
         {
-          "name": "Sutter Creek",
-          "wiki": "Sutter Creek, California",
+          "name": "Mariposa",
+          "wiki": "Mariposa, California",
           "coords": [
-            38.3927,
-            -120.8027
+            37.4849,
+            -119.9663
           ],
-          "culture": "Ville de la ruée vers l'or sur la Main Street de brique et de bois du XIXe siècle ; c'est là que se trouve la salle de dégustation de Bella Grace Vineyards, dans un bâtiment historique avec cour-jardin."
-        },
-        {
-          "name": "Amador City",
-          "wiki": "Amador City, California",
-          "coords": [
-            38.4196,
-            -120.8241
-          ],
-          "culture": "Minuscule ville minière remarquablement préservée, qui ressemble à un décor de film ; The End of Nowhere y propose une ambiance rétro-chic et des vins nature."
+          "culture": "Petite ville de la ruée vers l'or sur la Highway 140, à une heure de la vallée, avec le plus ancien tribunal du comté encore en service à l'ouest du Mississippi ; une pause café ou un déjeuner tardif avant la montée vers Yosemite."
         }
       ],
       "stay": {
-        "name": "Sutter Creek ou Amador City (Amador County)",
+        "name": "Yosemite Valley (vallée)",
         "coords": [
-          38.3927,
-          -120.8027
+          37.7456,
+          -119.5936
         ],
-        "note": "Nuit dans le wine country des contreforts de la Sierra (hébergement à choisir)",
+        "note": "Nuit dans la vallée, deux nuits au même hôtel (jeudi et vendredi)",
         "options": [
-          "Imperial Hotel, Amador City (hôtel historique de la ruée vers l'or)",
-          "Sutter Creek Inn, Sutter Creek (auberge historique)",
-          "Grey Gables Inn, Sutter Creek (chambres d'hôtes)"
+          "Yosemite Valley Lodge (dans la vallée)",
+          "The Ahwahnee, hôtel historique (dans la vallée)"
         ]
       },
       "transport": [
@@ -659,30 +649,45 @@
         },
         {
           "mode": "car",
-          "text": "Livermore Valley → Sutter Creek : environ 2 h de route, par la I-580 puis la CA-99 / CA-49",
+          "text": "Livermore Valley → vallée de Yosemite : environ 3 h 45 de route, par la I-580, la CA-99 puis la CA-140 (Mariposa, El Portal)",
           "after": 2
         }
       ],
       "food": [
-        "Dîner à Sutter Creek ou à Amador City."
+        "Dîner à l'Ahwahnee (réserver) ou à la cafétéria de Yosemite Valley Lodge."
       ],
       "notes": [
-        "Les domaines de Livermore ouvrent vers midi : à confirmer sur leur site avant de partir, et partir de San Francisco à midi pile. Dans l'Amador County, les caves ferment vers 17 h, d'où la balade de soirée ; Casino Mine Ranch ne se visite que sur rendez-vous."
+        "Les domaines de Livermore ouvrent vers midi : à confirmer sur leur site avant de partir, et partir de San Francisco à midi pile. La nuit tombe vers 17 h 20 fin janvier : arriver de jour dans la vallée demande de partir de Livermore avant 14 h 15.",
+        "En hiver, la CA-140 est la route d'accès la plus basse et la plus souvent dégagée ; la CA-120 passe à Crane Flat, à plus de 1 800 m, où chaînes et neige sont fréquentes. Vérifier l'état des routes avant de partir."
+      ],
+      "ideas": [
+        {
+          "label": "Option A (recommandée) : dormir dans la vallée, arrivée par la CA-140",
+          "text": "C'est le plus beau cadre et la route la moins enneigée. On gagne une vraie journée complète dans la vallée le vendredi, sans changer d'hôtel. Trajet : environ 4 h 45 avec la dégustation, arrivée vers 18 h."
+        },
+        {
+          "label": "Option B : dormir à Groveland, par la CA-120",
+          "text": "Ville de la ruée vers l'or à la porte ouest du parc, avec des hôtels historiques (Groveland Hotel, Hotel Charlotte) et un vrai dîner en ville. Trajet : environ 3 h 15 depuis Livermore, arrivée vers 17 h 30, mais 45 minutes à 1 h de route le vendredi matin pour entrer dans la vallée, par la CA-120, qui est la plus sujette aux chaînes et à la neige (Crane Flat)."
+        },
+        {
+          "label": "Option C : dormir à El Portal, par la CA-140",
+          "text": "En dehors du parc, sur la Merced River, à 25 minutes de la vallée : Cedar Lodge ou Yosemite View Lodge, souvent moins chers. C'est le point le plus bas des trois options, donc le moins enneigé, mais le cadre est moins spectaculaire que dans la vallée. Trajet jeudi identique à l'option A ; entrée dans la vallée vers 9 h le vendredi."
+        }
       ]
     },
     {
       "n": 10,
       "weekday": "Vendredi",
       "title": "Yosemite : la vallée et ses icônes",
-      "summary": "Route des contreforts jusqu'à la vallée de Yosemite par la Highway 140, puis journée bien remplie d'est en ouest : Cook's Meadow et Lower Yosemite Fall, Mirror Lake, El Capitan Meadow, Bridalveil Fall, Valley View et coucher du soleil à Tunnel View.",
+      "summary": "Journée entière dans la vallée, d'est en ouest : Cook's Meadow et Lower Yosemite Fall, Mirror Lake, El Capitan Meadow, Bridalveil Fall, Valley View et coucher du soleil à Tunnel View.",
       "route": "drive",
       "parts": [
         {
-          "label": "Midi",
-          "text": "Arrivée dans la vallée par la Highway 140 : balade plate autour de Cook's Meadow, avec le reflet de Half Dome dans la rivière, puis jusqu'au pied de Lower Yosemite Fall (boucle de 0,8 km)."
+          "label": "Matin",
+          "text": "Cook's Meadow : balade plate avec le reflet de Half Dome dans la rivière, puis jusqu'au pied de Lower Yosemite Fall (boucle de 0,8 km). Avec les options B ou C, la journée démarre vers 9 h."
         },
         {
-          "label": "Début d'après-midi",
+          "label": "Midi",
           "text": "Mirror Lake : le chemin goudronné d'environ 3 km, tranquille en hiver, pour regarder Half Dome juste au-dessus."
         },
         {
@@ -759,26 +764,18 @@
         }
       ],
       "stay": {
-        "name": "Yosemite (vallée ou El Portal)",
+        "name": "Yosemite Valley (vallée)",
         "coords": [
           37.7456,
           -119.5936
         ],
-        "note": "Nuit à Yosemite (hébergement à choisir)",
+        "note": "Même hôtel que la veille",
         "options": [
           "Yosemite Valley Lodge (dans la vallée)",
-          "The Ahwahnee, hôtel historique (dans la vallée)",
-          "Yosemite View Lodge, El Portal (en dehors du parc, sur la Merced River)",
-          "Cedar Lodge, El Portal"
+          "The Ahwahnee, hôtel historique (dans la vallée)"
         ]
       },
-      "transport": [
-        {
-          "mode": "car",
-          "text": "Sutter Creek → vallée de Yosemite : environ 3 h 15 de route, par la CA-49 puis la CA-140",
-          "after": -1
-        }
-      ],
+      "transport": [],
       "notes": [
         "En hiver, la route peut exiger des chaînes (contrôles possibles) : vérifier l'état des routes avant de partir. La Glacier Point Road et la Tioga Road sont fermées l'hiver."
       ]
@@ -946,8 +943,8 @@
     },
     {
       "id": "sierra-foothills",
-      "title": "Livermore Valley et Amador County : où déguster et dormir",
-      "summary": "La dégustation sur la route (Livermore Valley) et les domaines et villes des contreforts de la Sierra pour la nuit du jeudi.",
+      "title": "Livermore Valley et Gold Country : où déguster",
+      "summary": "La dégustation sur la route (Livermore Valley) et, en variante, les domaines et les villes de la ruée vers l'or des contreforts de la Sierra.",
       "blocks": [
         {
           "type": "text",
@@ -955,7 +952,7 @@
         },
         {
           "type": "text",
-          "text": "Notre choix : déguster à Murrieta's Well, dans la Livermore Valley, vers 13 h ; dormir à Sutter Creek ou à Amador City pour les rues de brique et le décor de film. En alternative, McGrail pour la vue sur la crête, ou, en Amador, La Mesa Vineyards, Bella Grace (cour-jardin historique) ou The End of Nowhere (rétro-chic), à visiter avant 17 h."
+          "text": "Notre choix : déguster à Murrieta's Well, dans la Livermore Valley, vers 13 h, puis filer vers Yosemite. Les domaines d'Amador ci-dessous ne sont plus sur le parcours : ils restent une variante si l'on préfère une nuit dans le Gold Country, au prix d'environ 1 h 30 de route supplémentaire, à visiter avant 17 h."
         },
         {
           "type": "table",
@@ -1007,7 +1004,7 @@
     {
       "id": "idees-ecartees",
       "title": "Idées écartées : San Diego, Morro Bay, Napa, Sonoma, Muir Woods, Point Reyes",
-      "summary": "Ce que prévoyait le programme avant de remplacer la fin du voyage par les contreforts de la Sierra et Yosemite.",
+      "summary": "Ce que prévoyait le programme avant de remplacer la fin du voyage par la Livermore Valley et Yosemite.",
       "blocks": [
         {
           "type": "heading",

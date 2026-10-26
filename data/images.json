@@ -6914,5 +6914,15 @@
   "lon": -121.65556,
   "extract": "Salinas est une municipalité de Californie aux États-Unis, c'est le siège du comté de Monterey et la « capitale de la laitue ». Sa population était de 163 542 habitants en 2020.",
   "article": "https://fr.wikipedia.org/wiki/Salinas_(Californie)"
+ },
+ "Mariposa, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Mariposa_County_Courthouse_January_2025.jpg/1920px-Mariposa_County_Courthouse_January_2025.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mariposa_County_Courthouse_January_2025.jpg",
+  "artist": "Guywelch2000",
+  "license": "CC0",
+  "lat": 37.485,
+  "lon": -119.96639,
+  "extract": "Mariposa est le chef-lieu du comté de Mariposa dans l'État de Californie, aux États-Unis. Cette localité, qui regroupe 2 173 habitants, est située à une demi-heure du parc national de Yosemite et offre des possibilités d'hébergement.",
+  "article": "https://fr.wikipedia.org/wiki/Mariposa_(Californie)"
  }
 }
