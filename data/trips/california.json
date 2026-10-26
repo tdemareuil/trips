@@ -289,12 +289,12 @@
       "n": 5,
       "weekday": "Dimanche",
       "title": "De Joshua Tree à Santa Barbara",
-      "summary": "Route vers la côte (environ 4 h 15) et fin de journée tranquille à Santa Barbara : mission, tour du palais de justice, Funk Zone et Stearns Wharf.",
+      "summary": "Route vers la côte (environ 4 h 15) par l'I-210 au pied des montagnes de San Gabriel, pause à Pasadena, puis fin de journée tranquille à Santa Barbara : mission, tour du palais de justice, Funk Zone et Stearns Wharf.",
       "route": "drive",
       "parts": [
         {
           "label": "Matin",
-          "text": "Départ de Joshua Tree vers 9 h 30, par l'I-10 puis la US-101 (environ 4 h 15), avec une pause café."
+          "text": "Départ de Joshua Tree vers 9 h 30, par l'I-10 puis l'I-210 au pied des montagnes de San Gabriel, plutôt que par le centre de Los Angeles : pause café à Pasadena, puis la US-101 jusqu'à Santa Barbara (environ 4 h 15 au total)."
         },
         {
           "label": "Après-midi",
@@ -306,6 +306,15 @@
         }
       ],
       "stops": [
+        {
+          "name": "Pasadena",
+          "wiki": "Pasadena, California",
+          "coords": [
+            34.1478,
+            -118.1445
+          ],
+          "culture": "Ville au pied des montagnes de San Gabriel, sur l'I-210 : pause café avant de rejoindre la côte."
+        },
         {
           "name": "Mission Santa Barbara",
           "wiki": "Mission Santa Barbara",
@@ -354,7 +363,12 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Joshua Tree → Santa Barbara : environ 4 h 15 de route",
+          "text": "Joshua Tree → Pasadena : environ 2 h 15 de route, par l'I-10 puis l'I-210",
+          "after": 0
+        },
+        {
+          "mode": "car",
+          "text": "Pasadena → Santa Barbara : environ 2 h de route, par la US-101",
           "after": 0
         }
       ],

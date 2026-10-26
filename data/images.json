@@ -6924,5 +6924,15 @@
   "lon": -119.96639,
   "extract": "Mariposa est le chef-lieu du comté de Mariposa dans l'État de Californie, aux États-Unis. Cette localité, qui regroupe 2 173 habitants, est située à une demi-heure du parc national de Yosemite et offre des possibilités d'hébergement.",
   "article": "https://fr.wikipedia.org/wiki/Mariposa_(Californie)"
+ },
+ "Pasadena, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Pasadena_City_Hall_David_Wakely_%28cropped%29.jpg/1920px-Pasadena_City_Hall_David_Wakely_%28cropped%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pasadena_City_Hall_David_Wakely_(cropped).jpg",
+  "artist": "David Wakely",
+  "license": "CC BY-SA 2.5",
+  "lat": 34.1475,
+  "lon": -118.1439,
+  "extract": "Pasadena est une ville américaine située à l'est de Los Angeles et au pied des montagnes de San Gabriel, dans l'État de Californie. Sa population comptait 138 699 habitants lors du recensement de 2020.",
+  "article": "https://fr.wikipedia.org/wiki/Pasadena"
  }
 }
