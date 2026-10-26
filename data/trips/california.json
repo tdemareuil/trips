@@ -163,33 +163,166 @@
     {
       "n": 4,
       "weekday": "Samedi",
-      "title": "Joshua Tree & route vers Santa Barbara",
-      "summary": "Matinée de balade dans le parc national de Joshua Tree, puis route (environ 4 h 15) vers la côte et Santa Barbara pour la nuit.",
+      "title": "Journée dans le désert : Joshua Tree et alentours",
+      "summary": "Une journée entière à Joshua Tree : Hidden Valley, Barker Dam, Skull Rock, Arch Rock et Cholla Cactus Garden, puis Pioneertown pour le dîner, avec en option une demi-journée du côté de Palm Springs.",
       "route": "drive",
       "parts": [
         {
           "label": "Matin",
-          "text": "Joshua Tree : balades faciles parmi les arbres de Josué et les blocs de granit."
+          "text": "Parc national de Joshua Tree : boucle de Hidden Valley, Barker Dam, puis Skull Rock et Arch Rock."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner à Joshua Tree (village) ou pique-nique dans le parc."
         },
         {
           "label": "Après-midi",
-          "text": "Départ vers midi vers Santa Barbara par l'I-10 puis la US-101 (environ 4 h 15), arrivée en fin d'après-midi."
+          "text": "Cholla Cactus Garden, à la lumière rasante de l'après-midi. Ou, à la place, une sortie du côté de Palm Springs (téléphérique ou Indian Canyons, voir les idées)."
         },
         {
           "label": "Soir",
-          "text": "Soirée et dîner à Santa Barbara."
+          "text": "Pioneertown et dîner chez Pappy & Harriet's (barbecue, parfois des concerts ; réserver)."
         }
       ],
       "stops": [
         {
-          "name": "Joshua Tree : balade du matin",
-          "wiki": "Joshua Tree National Park",
-          "culture": "À la jonction des déserts du Mojave et du Colorado. Son nom vient des arbres de Josué, que des colons mormons comparaient à un prophète les bras levés. L'album The Joshua Tree de U2 (1987) lui doit son titre."
+          "name": "Hidden Valley",
+          "wiki": "Hidden Valley (Joshua Tree National Park)",
+          "coords": [
+            34.012,
+            -116.168
+          ],
+          "culture": "Cuvette fermée par des blocs de granit, dont la légende dit qu'elle servait de cachette aux voleurs de bétail."
         },
         {
-          "name": "Santa Barbara",
-          "wiki": "Santa Barbara, California",
-          "culture": "Surnommée la « Riviera américaine » pour son climat méditerranéen. Reconstruite en style colonial espagnol après le séisme de 1925, elle abrite une mission fondée en 1786, la « reine des missions »."
+          "name": "Barker Dam",
+          "coords": [
+            34.015,
+            -116.153
+          ],
+          "culture": "Petit barrage construit par des éleveurs au début du XXe siècle, qui retient une mare où viennent les oiseaux et, parfois, les mouflons.",
+          "photo": "File:Barker Dam Joshua Tree December 2013 004.jpg"
+        },
+        {
+          "name": "Skull Rock",
+          "coords": [
+            33.993,
+            -116.06
+          ],
+          "culture": "Bloc de granit dont les cavités, creusées par l'érosion, évoquent un crâne.",
+          "photo": "File:Skull Rock, Joshua Tree National Park.jpg"
+        },
+        {
+          "name": "Arch Rock",
+          "coords": [
+            33.999,
+            -116.014
+          ],
+          "culture": "Arche naturelle de granit, près du camping de White Tank, accessible par un court sentier.",
+          "photo": "File:Joshua Tree, Arch Rock Nature Trail, California, USA (52615938558).jpg"
+        },
+        {
+          "name": "Cholla Cactus Garden",
+          "coords": [
+            33.924,
+            -115.929
+          ],
+          "culture": "Champ de chollas « ours en peluche », particulièrement beau tôt le matin ou au coucher du soleil, quand la lumière traverse leurs épines.",
+          "photo": "File:Joshua Tree National Park (California, USA) -- 2012 -- 5666.jpg"
+        },
+        {
+          "name": "Pioneertown",
+          "wiki": "Pioneertown, California",
+          "coords": [
+            34.156,
+            -116.489
+          ],
+          "culture": "Décor de western bâti en 1946 pour des tournages, devenu un village où se trouve le bar-restaurant Pappy & Harriet's."
+        }
+      ],
+      "stay": {
+        "name": "Joshua Tree",
+        "coords": [
+          34.1347,
+          -116.3131
+        ],
+        "note": "Nuit à Joshua Tree (hébergement à choisir) : les nuits d'hiver y sont proches de 0 °C"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Joshua Tree (village) → Hidden Valley : environ 20 min ; → Cholla Cactus Garden : environ 55 min ; → Pioneertown : environ 25 min"
+        }
+      ],
+      "food": [
+        "Dîner chez Pappy & Harriet's, à Pioneertown : barbecue dans un décor de western ; réservation conseillée."
+      ],
+      "ideas": [
+        {
+          "label": "Palm Springs Aerial Tramway",
+          "text": "Téléphérique à cabines rotatives jusqu'à environ 2 600 m, avec de la neige en haut en hiver. Environ 1 h de route depuis Joshua Tree ; à faire à la place de Cholla Cactus Garden."
+        },
+        {
+          "label": "Indian Canyons",
+          "text": "Palmeraies et canyons des Agua Caliente, près de Palm Springs, en demi-journée. Environ 1 h de route depuis Joshua Tree ; à faire à la place de Cholla Cactus Garden."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "weekday": "Dimanche",
+      "title": "De Joshua Tree à Santa Barbara",
+      "summary": "Route vers la côte (environ 4 h 15) et fin de journée tranquille à Santa Barbara : mission, tour du palais de justice, Funk Zone et Stearns Wharf.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Départ de Joshua Tree vers 9 h 30, par l'I-10 puis la US-101 (environ 4 h 15), avec une pause café."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Arrivée à Santa Barbara vers 14 h 30 : la mission, la tour du palais de justice (vue gratuite sur la ville), la Funk Zone."
+        },
+        {
+          "label": "Soir",
+          "text": "Stearns Wharf au coucher du soleil, puis dîner à Santa Barbara."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Mission Santa Barbara",
+          "wiki": "Mission Santa Barbara",
+          "coords": [
+            34.4381,
+            -119.7137
+          ],
+          "culture": "Surnommée la « reine des missions », fondée en 1786, avec sa façade à deux tours."
+        },
+        {
+          "name": "Palais de justice de Santa Barbara",
+          "wiki": "Santa Barbara County Courthouse",
+          "coords": [
+            34.4247,
+            -119.703
+          ],
+          "culture": "Palais de justice de style colonial espagnol (1929), dont la tour de l'horloge offre une vue gratuite sur la ville."
+        },
+        {
+          "name": "Funk Zone",
+          "coords": [
+            34.413,
+            -119.69
+          ],
+          "culture": "Ancienne zone industrielle près du port, devenue un quartier de salles de dégustation, d'ateliers d'art et de restaurants."
+        },
+        {
+          "name": "Stearns Wharf",
+          "wiki": "Stearns Wharf",
+          "coords": [
+            34.409,
+            -119.685
+          ],
+          "culture": "Jetée de bois de 1872, la plus ancienne de Californie encore en activité."
         }
       ],
       "stay": {
@@ -206,76 +339,31 @@
           "mode": "car",
           "text": "Joshua Tree → Santa Barbara : environ 4 h 15 de route"
         }
-      ]
-    },
-    {
-      "n": 5,
-      "weekday": "Dimanche",
-      "title": "Highway 1 (partie 1) : Morro Bay, Cambria & phoques éléphants",
-      "summary": "Départ de Santa Barbara, Morro Rock à Morro Bay, déjeuner à Cambria et fin de journée aux phoques éléphants de Piedras Blancas, avant la nuit à San Simeon.",
-      "route": "drive",
-      "parts": [
-        {
-          "label": "Matin",
-          "text": "Départ de Santa Barbara vers 9 h par la US-101 (environ 2 h 20 jusqu'à Morro Bay) : Morro Rock."
-        },
-        {
-          "label": "Midi",
-          "text": "Cambria : déjeuner et balade sur Moonstone Beach."
-        },
-        {
-          "label": "Fin d'après-midi",
-          "text": "Piedras Blancas : la colonie de phoques éléphants, en pleine saison des naissances en janvier, puis installation à San Simeon."
-        }
       ],
-      "stops": [
+      "ideas": [
         {
-          "name": "Morro Bay",
-          "wiki": "Morro Bay, California",
-          "culture": "Dominée par Morro Rock, un bouchon volcanique d'environ 176 m de haut où nichent des faucons pèlerins."
-        },
-        {
-          "name": "Cambria",
-          "wiki": "Cambria, California",
-          "photo": "File:Cambria, California.jpg",
-          "culture": "Village de la côte centrale, à quelques minutes du Hearst Castle, le château du magnat de la presse William Randolph Hearst. Sa plage de Moonstone Beach est réputée pour ses galets polis et ses couchers de soleil.",
-          "coords": [
-            35.5641,
-            -121.0807
-          ]
-        },
-        {
-          "name": "Phoques éléphants de Piedras Blancas",
-          "photo": "File:Seals at Piedras Blancas elephant seal rookery 2013 03.jpg",
-          "coords": [
-            35.667,
-            -121.284
-          ],
-          "culture": "Colonie de phoques éléphants du nord, sur une plage à l'accès libre ; les naissances ont lieu de décembre à janvier, avec des mâles qui se battent à partir de janvier."
-        }
-      ],
-      "stay": {
-        "name": "San Simeon ou Cambria",
-        "coords": [
-          35.6444,
-          -121.189
-        ],
-        "wiki": "Cambria, California"
-      },
-      "transport": [
-        {
-          "mode": "car",
-          "text": "Santa Barbara → Morro Bay : environ 2 h 20 ; Morro Bay → Cambria → San Simeon : environ 1 h"
+          "label": "Vignoble de Santa Ynez et Solvang",
+          "text": "Environ 40 min de Santa Barbara : collines de chênes et ranchs, plus rustiques et moins luxueux que Sonoma ; Los Olivos est le plus joli village, et Solvang un village « danois » plutôt kitsch. En janvier, les collines sont vertes. Dormir à Los Olivos plutôt qu'à Santa Barbara raccourcirait d'environ 45 min la route du lundi."
         }
       ]
     },
     {
       "n": 6,
       "weekday": "Lundi",
-      "title": "Highway 1 (partie 2) : Big Sur & arrivée à San Francisco",
-      "summary": "Départ à 8 h 30 : traversée complète de Big Sur avec Bixby Bridge, randonnée côtière à Point Lobos, halte à Carmel-by-the-Sea, puis arrivée à San Francisco vers 18 h, voiture rendue sur place.",
+      "title": "Highway 1 : Big Sur & arrivée à San Francisco",
+      "summary": "Grande journée côtière : départ à 7 h de Santa Barbara, pause à Cambria, Big Sur avec Bixby Bridge, Point Lobos et Carmel-by-the-Sea, puis arrivée à San Francisco en début de soirée, voiture rendue sur place.",
       "route": "drive",
       "stops": [
+        {
+          "name": "Cambria",
+          "wiki": "Cambria, California",
+          "photo": "File:Cambria, California.jpg",
+          "coords": [
+            35.5641,
+            -121.0807
+          ],
+          "culture": "Village de la côte centrale, à quelques minutes du Hearst Castle ; pause café et dernier plein d'essence avant Big Sur."
+        },
         {
           "name": "Big Sur : Bixby Creek Bridge",
           "wiki": "Bixby Creek Bridge",
@@ -303,27 +391,38 @@
       "transport": [
         {
           "mode": "car",
-          "text": "San Simeon → Carmel : environ 2 h 45 sans arrêt ; Carmel → San Francisco : environ 2 h 30"
+          "text": "Santa Barbara → Cambria : environ 2 h 30 ; Cambria → Carmel : 2 h 30 à 3 h ; Carmel → San Francisco : environ 2 h 15 (environ 8 à 9 h sans arrêt au total)"
         }
       ],
       "parts": [
         {
           "label": "Matin",
-          "text": "Départ de San Simeon à 8 h 30 : route de Big Sur, avec Bixby Creek Bridge vers 11 h 30."
+          "text": "Départ de Santa Barbara à 7 h par la US-101 puis la Highway 1 : pause à Cambria vers 9 h 30 (café, essence : il y en a très peu à Big Sur)."
+        },
+        {
+          "label": "Midi",
+          "text": "Big Sur : Bixby Creek Bridge vers 12 h, puis Point Lobos vers 13 h 30 (faune et calanques)."
         },
         {
           "label": "Après-midi",
-          "text": "Point Lobos vers 13 h 30 (faune et calanques), puis Carmel-by-the-Sea."
+          "text": "Carmel-by-the-Sea, vers 15 h 30 pour une balade."
         },
         {
           "label": "Soir",
-          "text": "Route vers San Francisco (environ 2 h 30), arrivée vers 18 h, rendu de la voiture de location."
+          "text": "Route vers San Francisco (environ 2 h 15, davantage avec la circulation), arrivée entre 18 h et 19 h, rendu de la voiture de location."
         }
       ],
       "notes": [
-        "La Highway 1 à Big Sur est régulièrement fermée en hiver par des éboulements : vérifier l'état de la route (site de la Caltrans) avant de partir. Plan B : de Cambria, la CA-46 jusqu'à Paso Robles puis la US-101 vers San Francisco (environ 5 h 30).",
-        "Le soleil se couche vers 17 h 20 : ne pas rouler la nuit sur la partie falaise de la Highway 1.",
+        "Journée longue (environ 8 à 9 h de route sans arrêt) : les sources donnent de 8 h à plus de 9 h entre Santa Barbara et San Francisco par la Highway 1. Partir à 7 h au plus tard.",
+        "La Highway 1 à Big Sur est régulièrement fermée en hiver par des éboulements : vérifier l'état de la route (site de la Caltrans) avant de partir. Plan B : de Cambria, la CA-46 jusqu'à Paso Robles puis la US-101 vers San Francisco (environ 5 h).",
+        "Le soleil se couche vers 17 h 20 : la partie falaise doit être faite avant la nuit. Faire le plein à Cambria ou à Carmel.",
         "Location depuis Los Angeles rendue à San Francisco : prévoir d'éventuels frais d'abandon pour un retour sur un autre site."
+      ],
+      "ideas": [
+        {
+          "label": "McWay Falls",
+          "text": "Chute d'environ 24 m qui tombe directement sur la plage, dans le parc d'État Julia Pfeiffer Burns, au sud de Bixby Bridge : un détour si vous êtes en avance."
+        }
       ]
     },
     {
@@ -756,7 +855,7 @@
     },
     {
       "id": "idees-ecartees",
-      "title": "Idées écartées : San Diego, Napa, Sonoma, Muir Woods, Point Reyes",
+      "title": "Idées écartées : San Diego, Morro Bay, Napa, Sonoma, Muir Woods, Point Reyes",
       "summary": "Ce que prévoyait le programme avant de remplacer la fin du voyage par les contreforts de la Sierra et Yosemite.",
       "blocks": [
         {
@@ -769,6 +868,17 @@
             "Little Italy, San Diego : Quartier fondé par des pêcheurs d'origine italienne, spécialisés dans le thon. On y vient aujourd'hui pour ses restaurants et son grand marché du samedi.",
             "La Jolla : Station balnéaire chic de San Diego, connue pour ses falaises sur le Pacifique et sa crique où se prélassent phoques et otaries. Son nom viendrait de l'espagnol « la joya », le joyau.",
             "San Bernardino : Le tout premier restaurant McDonald's y a ouvert en 1940, créé par les frères Dick et Mac McDonald."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Côte centrale"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Morro Bay : Dominée par Morro Rock, un bouchon volcanique d'environ 176 m de haut où nichent des faucons pèlerins.",
+            "Phoques éléphants de Piedras Blancas : Colonie de phoques éléphants du nord, sur une plage à l'accès libre ; les naissances ont lieu de décembre à janvier, avec des mâles qui se battent à partir de janvier. On en voit aussi à Carmel et près de San Francisco."
           ]
         },
         {

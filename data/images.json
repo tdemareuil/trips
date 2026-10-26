@@ -6846,5 +6846,53 @@
   "page": "https://commons.wikimedia.org/wiki/File:Seals_at_Piedras_Blancas_elephant_seal_rookery_2013_03.jpg",
   "artist": "Tuxyso",
   "license": "CC BY-SA 3.0"
+ },
+ "Mission Santa Barbara": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Mission_Santa_Barbara_2025.jpg/1920px-Mission_Santa_Barbara_2025.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mission_Santa_Barbara_2025.jpg",
+  "artist": "Hayden Soloviev",
+  "license": "CC BY 4.0",
+  "extract": "La mission Santa Barbara, connue comme la « reine des missions », a été fondée le 4 décembre 1786 par le père Fermín Francisco de Lasuén, quatre ans après la fondation de la forteresse qui fut à l'origine de la ville de Santa Barbara en Californie.",
+  "article": "https://fr.wikipedia.org/wiki/Mission_Santa_Barbara"
+ },
+ "Pioneertown, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Pioneertown_california_saloon_and_bath_house.jpg/1920px-Pioneertown_california_saloon_and_bath_house.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pioneertown_california_saloon_and_bath_house.jpg",
+  "artist": "Mfield, Matthew Field, http://www.photography.mattfield.com",
+  "license": "CC BY-SA 3.0",
+  "lat": 34.15444,
+  "lon": -116.49861,
+  "extract": "Pioneertown est une zone non incorporée située dans le comté de San Bernardino en Californie, aux États-Unis. Elle est située dans le Bassin de Morongo dans le haut désert de San Bernardino.",
+  "article": "https://fr.wikipedia.org/wiki/Pioneertown_(Californie)"
+ },
+ "Santa Barbara County Courthouse": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Santa_Barbara_County_Courthouse.jpg/1920px-Santa_Barbara_County_Courthouse.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Santa_Barbara_County_Courthouse.jpg",
+  "artist": "Konrad Summers from Santa Clarita (Valencia) , California, USA",
+  "license": "CC BY-SA 2.0",
+  "lat": 34.42435,
+  "lon": -119.70246,
+  "extract": "La Santa Barbara County Courthouse est un palais de justice américain situé à Santa Barbara, dans le comté de Santa Barbara, en Californie.",
+  "article": "https://fr.wikipedia.org/wiki/Santa_Barbara_County_Courthouse"
+ },
+ "Stearns Wharf": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Stearns_Wharf_by_Don_Ramey_Logan.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Stearns_Wharf_by_Don_Ramey_Logan.jpg",
+  "artist": "Don Ramey Logan",
+  "license": "CC BY-SA 4.0",
+  "lat": 34.41067,
+  "lon": -119.68736
+ },
+ "File:Barker Dam Joshua Tree December 2013 004.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Barker_Dam_Joshua_Tree_December_2013_004.jpg/1920px-Barker_Dam_Joshua_Tree_December_2013_004.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Barker_Dam_Joshua_Tree_December_2013_004.jpg",
+  "artist": "King of Hearts",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:Joshua Tree, Arch Rock Nature Trail, California, USA (52615938558).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Joshua_Tree%2C_Arch_Rock_Nature_Trail%2C_California%2C_USA_%2852615938558%29.jpg/1920px-Joshua_Tree%2C_Arch_Rock_Nature_Trail%2C_California%2C_USA_%2852615938558%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Joshua_Tree,_Arch_Rock_Nature_Trail,_California,_USA_(52615938558).jpg",
+  "artist": "Domenico Convertini from Zurich, Schweiz",
+  "license": "CC BY-SA 2.0"
  }
 }
