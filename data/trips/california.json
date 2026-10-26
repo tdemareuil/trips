@@ -747,10 +747,10 @@
       "n": 11,
       "weekday": "Samedi",
       "title": "Yosemite : dernière balade & départ",
-      "summary": "Matinée légère : montée au pont de Vernal Fall par le Mist Trail, boisson chaude dans le grand salon de l'Ahwahnee, puis route vers l'aéroport de San Francisco pour le vol du soir.",
+      "summary": "Matinée légère : montée au pont de Vernal Fall par le Mist Trail, boisson chaude dans le grand salon de l'Ahwahnee, puis route vers l'aéroport (Sacramento ou San Francisco selon le vol choisi).",
       "route": "drive",
       "stay": null,
-      "end": "Décollage le soir",
+      "end": "Vol de retour (1 escale) depuis Sacramento ou San Francisco",
       "parts": [
         {
           "label": "Matin",
@@ -761,8 +761,8 @@
           "text": "The Ahwahnee : se poser dans le grand salon de l'hôtel historique, près des immenses cheminées de pierre, avec une boisson chaude, avant de partir."
         },
         {
-          "label": "Début d'après-midi",
-          "text": "Route vers l'aéroport de San Francisco (SFO) pour le vol du soir."
+          "label": "Fin de matinée / début d'après-midi",
+          "text": "Route vers l'aéroport : vers 11 h pour le vol de Sacramento (18 h), vers 12 h ou 13 h pour les vols de San Francisco (19 h 30 ou 20 h 30). Voir le tableau des horaires ci-dessous."
         }
       ],
       "stops": [
@@ -793,16 +793,23 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Vallée de Yosemite → SFO : environ 4 h 30 de route"
+          "text": "Vallée de Yosemite → aéroport de Sacramento (SMF) : environ 4 h de route"
+        },
+        {
+          "mode": "car",
+          "text": "Vallée de Yosemite → aéroport de San Francisco (SFO) : environ 4 h 30 de route"
         }
       ],
       "notes": [
-        "Vol le soir : prévoir environ 4 h 30 de route entre la vallée et SFO, plus le retour de la voiture ; partir de la vallée au plus tard en début d'après-midi, selon l'heure du vol."
+        "Trois vols de retour pour Paris, tous avec 1 escale. Sacramento (SMF) : départ 18 h, environ 200 € de moins. San Francisco (SFO) : départ 19 h 30 ou 20 h 30.",
+        "Pour être à l'aéroport 2 h 30 avant le vol, il faut quitter la vallée de Yosemite : à 11 h pour le vol SMF de 18 h (arrivée à l'aéroport vers 15 h 30) ; à 12 h pour le vol SFO de 19 h 30 (arrivée vers 17 h) ; à 13 h pour le vol SFO de 20 h 30 (arrivée vers 18 h).",
+        "Ces horaires comptent 4 h de route vers SMF et 4 h 30 vers SFO, plus environ 30 minutes pour faire le plein et rendre la voiture avant d'arriver au terminal. Prévoir une marge supplémentaire pour la neige ou une chaîne obligatoire sur la route de la vallée en hiver.",
+        "Si la voiture est rendue à Sacramento plutôt qu'à San Francisco ou Los Angeles, vérifier les frais d'abandon du loueur : ils peuvent réduire l'économie de 200 €."
       ],
       "ideas": [
         {
-          "label": "Option si le départ est plus tardif : Mariposa Grove",
-          "text": "Les séquoias géants de Mariposa Grove, à l'entrée sud du parc. En hiver, la navette ne circule pas : on marche environ 3 km depuis le centre d'accueil jusqu'au bosquet (ou on loue des raquettes ou des skis de fond au magasin du sentier si la neige est abondante)."
+          "label": "Option avec un départ plus tardif (vols SFO)",
+          "text": "Avec le vol de 20 h 30, on gagne deux heures dans la vallée par rapport au vol de Sacramento : de quoi aller jusqu'à Mariposa Grove, les séquoias géants de l'entrée sud du parc. En hiver, la navette ne circule pas : on marche environ 3 km depuis le centre d'accueil jusqu'au bosquet (ou on loue des raquettes ou des skis de fond au magasin du sentier si la neige est abondante)."
         }
       ]
     }
