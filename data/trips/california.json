@@ -1,7 +1,7 @@
 {
   "id": "california",
   "title": "Californie",
-  "subtitle": "De Los Angeles à San Francisco : désert de Joshua Tree, Highway 1 et Big Sur, contreforts de la Sierra, séquoias et Yosemite en hiver",
+  "subtitle": "De Los Angeles à San Francisco : désert de Palm Springs et de Joshua Tree, Highway 1 et Big Sur, contreforts de la Sierra, séquoias et Yosemite en hiver",
   "travelers": [
     "Thomas",
     "Louison"
@@ -106,100 +106,129 @@
     {
       "n": 3,
       "weekday": "Vendredi",
-      "title": "Échappée à San Diego & route vers le désert",
-      "summary": "Déjeuner et balade à San Diego, puis remontée directe vers le désert en fin d'après-midi.",
+      "title": "Route vers le désert : Palm Springs & Joshua Tree",
+      "summary": "Départ de Los Angeles, pause déjeuner à Palm Springs pour ses rues design, puis Joshua Tree en fin d'après-midi avec le coucher du soleil à Keys View.",
       "route": "drive",
       "parts": [
         {
+          "label": "Matin",
+          "text": "Départ de Los Angeles vers 9 h, par l'I-10 vers l'est (environ 2 h jusqu'à Palm Springs)."
+        },
+        {
           "label": "Midi",
-          "text": "Déjeuner et balade à San Diego (Little Italy / La Jolla)."
+          "text": "Palm Springs : balade d'une heure et demie dans les rues design et déjeuner, puis route vers Joshua Tree par la CA-62 (environ 45 min)."
         },
         {
-          "label": "Soir",
-          "text": "Remontée directe en fin d'après-midi vers le désert."
+          "label": "Fin d'après-midi",
+          "text": "Entrée dans le parc national de Joshua Tree et coucher du soleil à Keys View, avec vue sur la vallée de Coachella."
         }
       ],
       "stops": [
-        {
-          "name": "Little Italy, San Diego",
-          "wiki": "Little Italy, San Diego",
-          "culture": "Quartier fondé par des pêcheurs d'origine italienne, spécialisés dans le thon. On y vient aujourd'hui pour ses restaurants et son grand marché du samedi."
-        },
-        {
-          "name": "La Jolla",
-          "wiki": "La Jolla",
-          "culture": "Station balnéaire chic de San Diego, connue pour ses falaises sur le Pacifique et sa crique où se prélassent phoques et otaries. Son nom viendrait de l'espagnol « la joya », le joyau."
-        }
-      ],
-      "stay": {
-        "name": "Région de Joshua Tree / Palm Springs",
-        "coords": [
-          34.1347,
-          -116.3131
-        ],
-        "wiki": "Joshua Tree, California"
-      },
-      "transport": [
-        {
-          "mode": "car",
-          "text": "LA > San Diego : ~2h15"
-        },
-        {
-          "mode": "car",
-          "text": "San Diego > Joshua Tree : ~2h45 (simple)"
-        }
-      ]
-    },
-    {
-      "n": 4,
-      "weekday": "Samedi",
-      "title": "Désert, Palm Springs & San Bernardino",
-      "summary": "Exploration matinale du parc national de Joshua Tree, pause design et luxe à Palm Springs, puis passage par les contreforts de San Bernardino (vallées basses) pour basculer vers la côte.",
-      "route": "drive",
-      "stops": [
-        {
-          "name": "Joshua Tree National Park",
-          "wiki": "Joshua Tree National Park",
-          "culture": "À la jonction des déserts du Mojave et du Colorado. Son nom vient des arbres de Josué, que des colons mormons comparaient à un prophète les bras levés. L'album The Joshua Tree de U2 (1987) lui doit son titre."
-        },
         {
           "name": "Palm Springs",
           "wiki": "Palm Springs, California",
           "culture": "Escapade favorite des stars d'Hollywood dans les années 1950-60. La ville est aujourd'hui célèbre pour son architecture Mid-Century modern et ses maisons aux couleurs vives."
         },
         {
-          "name": "San Bernardino",
-          "wiki": "San Bernardino, California",
-          "culture": "Le tout premier restaurant McDonald's y a ouvert en 1940, créé par les frères Dick et Mac McDonald."
+          "name": "Joshua Tree National Park",
+          "wiki": "Joshua Tree National Park",
+          "culture": "À la jonction des déserts du Mojave et du Colorado. Son nom vient des arbres de Josué, que des colons mormons comparaient à un prophète les bras levés. L'album The Joshua Tree de U2 (1987) lui doit son titre."
+        },
+        {
+          "name": "Keys View",
+          "wiki": "Keys View",
+          "photo": "File:Keys View Joshua Tree December 2013 003.jpg",
+          "coords": [
+            33.925,
+            -116.187
+          ],
+          "culture": "Belvédère à environ 1 580 m d'altitude, avec vue sur la vallée de Coachella et la faille de San Andreas."
         }
       ],
       "stay": {
-        "name": "San Simeon ou Cambria",
+        "name": "Joshua Tree",
         "coords": [
-          35.5641,
-          -121.0807
+          34.1347,
+          -116.3131
         ],
-        "wiki": "Cambria, California"
+        "note": "Nuit à Joshua Tree (hébergement à choisir) : les nuits d'hiver y sont proches de 0 °C"
       },
       "transport": [
         {
           "mode": "car",
-          "text": "Joshua Tree > San Bernardino > San Simeon : ~4h30 de route"
+          "text": "Los Angeles → Palm Springs : environ 2 h ; Palm Springs → Joshua Tree : environ 45 min"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "weekday": "Samedi",
+      "title": "Joshua Tree & route vers Santa Barbara",
+      "summary": "Matinée de balade dans le parc national de Joshua Tree, puis route (environ 4 h 15) vers la côte et Santa Barbara pour la nuit.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Joshua Tree : balades faciles parmi les arbres de Josué et les blocs de granit."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Départ vers midi vers Santa Barbara par l'I-10 puis la US-101 (environ 4 h 15), arrivée en fin d'après-midi."
+        },
+        {
+          "label": "Soir",
+          "text": "Soirée et dîner à Santa Barbara."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Joshua Tree : balade du matin",
+          "wiki": "Joshua Tree National Park",
+          "culture": "À la jonction des déserts du Mojave et du Colorado. Son nom vient des arbres de Josué, que des colons mormons comparaient à un prophète les bras levés. L'album The Joshua Tree de U2 (1987) lui doit son titre."
+        },
+        {
+          "name": "Santa Barbara",
+          "wiki": "Santa Barbara, California",
+          "culture": "Surnommée la « Riviera américaine » pour son climat méditerranéen. Reconstruite en style colonial espagnol après le séisme de 1925, elle abrite une mission fondée en 1786, la « reine des missions »."
+        }
+      ],
+      "stay": {
+        "name": "Santa Barbara",
+        "coords": [
+          34.4208,
+          -119.6982
+        ],
+        "wiki": "Santa Barbara, California",
+        "note": "Nuit à Santa Barbara (hébergement à choisir)"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Joshua Tree → Santa Barbara : environ 4 h 15 de route"
         }
       ]
     },
     {
       "n": 5,
       "weekday": "Dimanche",
-      "title": "Highway 1 (partie 1)",
-      "summary": "Liaison vers la côte pacifique : passage par Santa Barbara, Morro Bay, Cambria et installation en bord d'océan.",
+      "title": "Highway 1 (partie 1) : Morro Bay, Cambria & phoques éléphants",
+      "summary": "Départ de Santa Barbara, Morro Rock à Morro Bay, déjeuner à Cambria et fin de journée aux phoques éléphants de Piedras Blancas, avant la nuit à San Simeon.",
       "route": "drive",
-      "stops": [
+      "parts": [
         {
-          "name": "Santa Barbara",
-          "wiki": "Santa Barbara, California",
-          "culture": "Surnommée la « Riviera américaine » pour son climat méditerranéen. Reconstruite en style colonial espagnol après le séisme de 1925, elle abrite une mission fondée en 1786, la « reine des missions »."
+          "label": "Matin",
+          "text": "Départ de Santa Barbara vers 9 h par la US-101 (environ 2 h 20 jusqu'à Morro Bay) : Morro Rock."
         },
+        {
+          "label": "Midi",
+          "text": "Cambria : déjeuner et balade sur Moonstone Beach."
+        },
+        {
+          "label": "Fin d'après-midi",
+          "text": "Piedras Blancas : la colonie de phoques éléphants, en pleine saison des naissances en janvier, puis installation à San Simeon."
+        }
+      ],
+      "stops": [
         {
           "name": "Morro Bay",
           "wiki": "Morro Bay, California",
@@ -209,29 +238,42 @@
           "name": "Cambria",
           "wiki": "Cambria, California",
           "photo": "File:Cambria, California.jpg",
-          "culture": "Village de la côte centrale, à quelques minutes du Hearst Castle, le château du magnat de la presse William Randolph Hearst. Sa plage de Moonstone Beach est réputée pour ses galets polis et ses couchers de soleil."
+          "culture": "Village de la côte centrale, à quelques minutes du Hearst Castle, le château du magnat de la presse William Randolph Hearst. Sa plage de Moonstone Beach est réputée pour ses galets polis et ses couchers de soleil.",
+          "coords": [
+            35.5641,
+            -121.0807
+          ]
+        },
+        {
+          "name": "Phoques éléphants de Piedras Blancas",
+          "photo": "File:Seals at Piedras Blancas elephant seal rookery 2013 03.jpg",
+          "coords": [
+            35.667,
+            -121.284
+          ],
+          "culture": "Colonie de phoques éléphants du nord, sur une plage à l'accès libre ; les naissances ont lieu de décembre à janvier, avec des mâles qui se battent à partir de janvier."
         }
       ],
       "stay": {
         "name": "San Simeon ou Cambria",
         "coords": [
-          35.5641,
-          -121.0807
+          35.6444,
+          -121.189
         ],
         "wiki": "Cambria, California"
       },
       "transport": [
         {
           "mode": "car",
-          "text": "Étape côtière"
+          "text": "Santa Barbara → Morro Bay : environ 2 h 20 ; Morro Bay → Cambria → San Simeon : environ 1 h"
         }
       ]
     },
     {
       "n": 6,
       "weekday": "Lundi",
-      "title": "Highway 1 (partie 2) & arrivée à San Francisco",
-      "summary": "Remontée spectaculaire de Big Sur, randonnée côtière à Point Lobos (faune et calanques), halte à Carmel-by-the-Sea, puis entrée à San Francisco par le sud.",
+      "title": "Highway 1 (partie 2) : Big Sur & arrivée à San Francisco",
+      "summary": "Départ à 8 h 30 : traversée complète de Big Sur avec Bixby Bridge, randonnée côtière à Point Lobos, halte à Carmel-by-the-Sea, puis arrivée à San Francisco vers 18 h, voiture rendue sur place.",
       "route": "drive",
       "stops": [
         {
@@ -261,8 +303,27 @@
       "transport": [
         {
           "mode": "car",
-          "text": "San Simeon > SF : ~4h30 à 5h (aller simple)"
+          "text": "San Simeon → Carmel : environ 2 h 45 sans arrêt ; Carmel → San Francisco : environ 2 h 30"
         }
+      ],
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Départ de San Simeon à 8 h 30 : route de Big Sur, avec Bixby Creek Bridge vers 11 h 30."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Point Lobos vers 13 h 30 (faune et calanques), puis Carmel-by-the-Sea."
+        },
+        {
+          "label": "Soir",
+          "text": "Route vers San Francisco (environ 2 h 30), arrivée vers 18 h, rendu de la voiture de location."
+        }
+      ],
+      "notes": [
+        "La Highway 1 à Big Sur est régulièrement fermée en hiver par des éboulements : vérifier l'état de la route (site de la Caltrans) avant de partir. Plan B : de Cambria, la CA-46 jusqu'à Paso Robles puis la US-101 vers San Francisco (environ 5 h 30).",
+        "Le soleil se couche vers 17 h 20 : ne pas rouler la nuit sur la partie falaise de la Highway 1.",
+        "Location depuis Los Angeles rendue à San Francisco : prévoir d'éventuels frais d'abandon pour un retour sur un autre site."
       ]
     },
     {
@@ -380,7 +441,7 @@
       "n": 9,
       "weekday": "Jeudi",
       "title": "Matinée SF & route vers les contreforts de la Sierra",
-      "summary": "Matin à San Francisco, puis route (environ 3 h) vers l'Amador County : dégustation en fin d'après-midi dans les collines de la Shenandoah Valley, balade dans les villes de la ruée vers l'or, Sutter Creek et Amador City, et nuit sur place.",
+      "summary": "Matin à San Francisco, nouvelle voiture de location à midi, puis route (environ 3 h) vers l'Amador County : dégustation en fin d'après-midi dans les collines de la Shenandoah Valley, balade dans les villes de la ruée vers l'or, Sutter Creek et Amador City, et nuit sur place.",
       "route": "drive",
       "parts": [
         {
@@ -393,7 +454,7 @@
         },
         {
           "label": "Après-midi",
-          "text": "Retrouvailles, puis route vers l'Amador County (environ 3 h). Vers 16 h, dégustation à La Mesa Vineyards, perchée dans les collines de la Shenandoah Valley, avec la lumière dorée de fin de journée sur les contreforts de la Sierra (les caves ferment vers 17 h)."
+          "text": "Midi : prise d'une voiture de location à San Francisco et départ vers l'Amador County (environ 3 h). Vers 16 h, dégustation à La Mesa Vineyards, perchée dans les collines de la Shenandoah Valley, avec la lumière dorée de fin de journée sur les contreforts de la Sierra (les caves ferment vers 17 h)."
         },
         {
           "label": "Soir",
@@ -461,7 +522,7 @@
         "Dîner à Sutter Creek ou à Amador City."
       ],
       "notes": [
-        "Les caves ferment vers 17 h (La Mesa, Bella Grace, Scott Harvey) : prévoir de quitter San Francisco en début d'après-midi. Casino Mine Ranch ne se visite que sur rendez-vous."
+        "Les caves ferment vers 17 h (La Mesa, Bella Grace, Scott Harvey) : partir de San Francisco à midi pile. Casino Mine Ranch ne se visite que sur rendez-vous."
       ]
     },
     {
@@ -695,9 +756,21 @@
     },
     {
       "id": "idees-ecartees",
-      "title": "Idées écartées : Napa, Sonoma, Muir Woods, Point Reyes",
+      "title": "Idées écartées : San Diego, Napa, Sonoma, Muir Woods, Point Reyes",
       "summary": "Ce que prévoyait le programme avant de remplacer la fin du voyage par les contreforts de la Sierra et Yosemite.",
       "blocks": [
+        {
+          "type": "heading",
+          "text": "Sud de la Californie"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Little Italy, San Diego : Quartier fondé par des pêcheurs d'origine italienne, spécialisés dans le thon. On y vient aujourd'hui pour ses restaurants et son grand marché du samedi.",
+            "La Jolla : Station balnéaire chic de San Diego, connue pour ses falaises sur le Pacifique et sa crique où se prélassent phoques et otaries. Son nom viendrait de l'espagnol « la joya », le joyau.",
+            "San Bernardino : Le tout premier restaurant McDonald's y a ouvert en 1940, créé par les frères Dick et Mac McDonald."
+          ]
+        },
         {
           "type": "heading",
           "text": "Napa et Sonoma"
