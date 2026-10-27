@@ -270,7 +270,7 @@ function mountHome() {
   const trips = data.order.map(id => data.trips[id]);
   const group = (title, list) => list.length
     ? `<h3 class="home-sub">${title}</h3><div class="cards">${list.map(t => card(t.id)).join('')}</div>` : '';
-  const known = ['Mi-saison', 'Août / Septembre', 'Janvier', 'Week-ends en France'];
+  const known = ['Week-ends en France', 'Janvier', 'Mi-saison', 'Août / Septembre'];
   const seasons = [...known, ...new Set(trips.map(t => t.season).filter(se => se && !known.includes(se)))]
     .filter(se => trips.some(t => t.season === se));
   const unseasoned = trips.filter(t => !t.season);
