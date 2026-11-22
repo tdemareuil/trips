@@ -126,5 +126,6 @@
     }
   ],
   "season": "Week-ends en France",
-  "kind": "short"
+  "kind": "short",
+  "done": true
 }

@@ -242,5 +242,6 @@
     }
   ],
   "season": "Mi-saison",
-  "kind": "short"
+  "kind": "short",
+  "done": true
 }
