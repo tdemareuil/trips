@@ -7056,5 +7056,221 @@
   "license": "CC BY-SA 4.0",
   "lat": 18.4769,
   "lon": -69.8832
+ },
+ "Bahia Honda State Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Bahia_Honda_State_Park_%289189349800%29.jpg/1920px-Bahia_Honda_State_Park_%289189349800%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bahia_Honda_State_Park_(9189349800).jpg",
+  "artist": "KimonBerlin",
+  "license": "CC BY-SA 2.0",
+  "lat": 24.65958,
+  "lon": -81.26158
+ },
+ "Cape Florida Light": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/CapeFloridaLight.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:CapeFloridaLight.jpg",
+  "artist": "Dr Zak at English Wikipedia",
+  "license": "CC BY-SA 3.0",
+  "lat": 25.66659,
+  "lon": -80.15596,
+  "extract": "Le phare de Cape Florida est situé à la pointe sud de Key Biscayne dans le comté de Miami-Dade en Floride.",
+  "article": "https://fr.wikipedia.org/wiki/Phare_de_Cape_Florida"
+ },
+ "Coconut Grove": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Coconut_Grove_Street_20100321.jpg/1920px-Coconut_Grove_Street_20100321.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Coconut_Grove_Street_20100321.jpg",
+  "artist": "Averette",
+  "license": "CC BY 3.0",
+  "lat": 25.71667,
+  "lon": -80.25,
+  "extract": "Coconut Grove est un quartier de la ville de Miami aux États-Unis. La mairie de Miami se trouve dans ce quartier. Coconut Grove compte environ 19 000 habitants.",
+  "article": "https://fr.wikipedia.org/wiki/Coconut_Grove_(Miami)"
+ },
+ "Dry Tortugas National Park": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Fort-Jefferson_Dry-Tortugas.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fort-Jefferson_Dry-Tortugas.jpg",
+  "artist": "U.S. National Park Service",
+  "license": "Public domain",
+  "lat": 24.62861,
+  "lon": -82.87333,
+  "extract": "Le parc national des Dry Tortugas abrite les îles de Dry Tortugas, dans l'archipel des Keys ainsi que le fort Jefferson, qui en est la pièce maîtresse. Le parc couvre une superficie de 262 km2, dont la majeure partie est sous-marine.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_des_Dry_Tortugas"
+ },
+ "Ernest Hemingway House": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Hemingwayhouse.jpg/1920px-Hemingwayhouse.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hemingwayhouse.jpg",
+  "artist": "Andreas Lamecker",
+  "license": "CC BY 2.5",
+  "lat": 24.55119,
+  "lon": -81.8006,
+  "extract": "La maison-musée d'Ernest Hemingway est une maison de l'île de Key West en Floride aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Maison_d%27Ernest_Hemingway"
+ },
+ "Espíritu Santo Island": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Isla_Esp%C3%ADritu_Santo_and_Isla_Partida_%285378264191%29.jpg/1920px-Isla_Esp%C3%ADritu_Santo_and_Isla_Partida_%285378264191%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Isla_Esp%C3%ADritu_Santo_and_Isla_Partida_(5378264191).jpg",
+  "artist": "Shawn from Airdrie, Canada",
+  "license": "CC BY-SA 2.0",
+  "lat": 24.47139,
+  "lon": -110.3325,
+  "extract": "Espíritu Santo est une île mexicaine située dans le golfe de Californie au large des côtes de la Basse-Californie du Sud.",
+  "article": "https://fr.wikipedia.org/wiki/Esp%C3%ADritu_Santo"
+ },
+ "File:Anne's Beach - panoramio.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Anne%27s_Beach_-_panoramio.jpg/1920px-Anne%27s_Beach_-_panoramio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Anne%27s_Beach_-_panoramio.jpg",
+  "artist": "Bohao Zhao",
+  "license": "CC BY 3.0"
+ },
+ "File:Bahia Honda State Park - Beach with palm trees.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bahia_Honda_State_Park_-_Beach_with_palm_trees.jpg/1920px-Bahia_Honda_State_Park_-_Beach_with_palm_trees.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bahia_Honda_State_Park_-_Beach_with_palm_trees.jpg",
+  "artist": "Daniel Di Palma",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Cape Florida Beach 1.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Cape_Florida_Beach_1.jpg/1920px-Cape_Florida_Beach_1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cape_Florida_Beach_1.jpg",
+  "artist": "Wilfredor",
+  "license": "CC0"
+ },
+ "File:Cerritos Beach - Near Todos Santos - Baja California Sur - Mexico - 04 (23775057435).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Cerritos_Beach_-_Near_Todos_Santos_-_Baja_California_Sur_-_Mexico_-_04_%2823775057435%29.jpg/1920px-Cerritos_Beach_-_Near_Todos_Santos_-_Baja_California_Sur_-_Mexico_-_04_%2823775057435%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cerritos_Beach_-_Near_Todos_Santos_-_Baja_California_Sur_-_Mexico_-_04_(23775057435).jpg",
+  "artist": "Adam Jones from Kelowna, BC, Canada",
+  "license": "CC BY-SA 2.0"
+ },
+ "File:Mission San Jose del Cabo-1a.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Mission_San_Jose_del_Cabo-1a.jpg/1920px-Mission_San_Jose_del_Cabo-1a.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mission_San_Jose_del_Cabo-1a.jpg",
+  "artist": "NCalBeetleGuy",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Mission at Todos Santos (199627044).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Mission_at_Todos_Santos_%28199627044%29.jpg/1920px-Mission_at_Todos_Santos_%28199627044%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mission_at_Todos_Santos_(199627044).jpg",
+  "artist": "Graham from Rickmansworth, England",
+  "license": "CC BY-SA 2.0"
+ },
+ "File:Playa Balandra, Baja California Sur 5.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Playa_Balandra%2C_Baja_California_Sur_5.jpg/1920px-Playa_Balandra%2C_Baja_California_Sur_5.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Playa_Balandra,_Baja_California_Sur_5.jpg",
+  "artist": "ProtoplasmaKid",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Playa Santa Maria, Baja California (432544031).jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Playa_Santa_Maria%2C_Baja_California_%28432544031%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Playa_Santa_Maria,_Baja_California_(432544031).jpg",
+  "artist": "Fulvio Spada from Torino, Italy",
+  "license": "CC BY-SA 2.0"
+ },
+ "File:Playa Tecolote 1.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Playa_Tecolote_1.jpg/1920px-Playa_Tecolote_1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Playa_Tecolote_1.jpg",
+  "artist": "ProtoplasmaKid",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Sunset - Cerritos - Near Todos Santos - Baja California Sur - Mexico (23581300691).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Sunset_-_Cerritos_-_Near_Todos_Santos_-_Baja_California_Sur_-_Mexico_%2823581300691%29.jpg/1920px-Sunset_-_Cerritos_-_Near_Todos_Santos_-_Baja_California_Sur_-_Mexico_%2823581300691%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunset_-_Cerritos_-_Near_Todos_Santos_-_Baja_California_Sur_-_Mexico_(23581300691).jpg",
+  "artist": "Adam Jones from Kelowna, BC, Canada",
+  "license": "CC BY-SA 2.0"
+ },
+ "File:Sunset at Sombrero Beach - panoramio.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Sunset_at_Sombrero_Beach_-_panoramio.jpg/1920px-Sunset_at_Sombrero_Beach_-_panoramio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunset_at_Sombrero_Beach_-_panoramio.jpg",
+  "artist": "AmberGirl",
+  "license": "CC BY 3.0"
+ },
+ "File:Zachary Taylor Beach FL1.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Zachary_Taylor_Beach_FL1.jpg/1920px-Zachary_Taylor_Beach_FL1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Zachary_Taylor_Beach_FL1.jpg",
+  "artist": "Acroterion",
+  "license": "CC BY-SA 4.0"
+ },
+ "Fort Zachary Taylor Historic State Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Aerial_view_of_Fort_Zachary_Taylor_State_Park.jpg/1920px-Aerial_view_of_Fort_Zachary_Taylor_State_Park.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Fort_Zachary_Taylor_State_Park.jpg",
+  "artist": "U.S. Department of Transportation",
+  "license": "Public domain",
+  "lat": 24.54667,
+  "lon": -81.81056,
+  "extract": "Le fort Zachary Taylor State Historic Park, mieux connu sous fort Taylor, est un ancien fort et un parc d’État de Floride situé près de la ville de Key West aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Fort_Zachary_Taylor"
+ },
+ "John Pennekamp Coral Reef State Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Fish_and_corals_in_John_Pennekamp_Marine_Park_%282351507031%29.jpg/1920px-Fish_and_corals_in_John_Pennekamp_Marine_Park_%282351507031%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fish_and_corals_in_John_Pennekamp_Marine_Park_(2351507031).jpg",
+  "artist": "Matt Kieffer from London, United Kingdom",
+  "license": "CC BY-SA 2.0",
+  "lat": 25.12,
+  "lon": -80.405,
+  "extract": "Le parc d'État de John Pennekamp Coral Reef est un parc d'État américain situé en Floride, à Key Largo. Il a une superficie d'environ 130 km2. Il est le premier parc marin des États-Unis, et inscrit au Registre national des lieux historiques le 14 avril 1972.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_d%27%C3%89tat_de_John_Pennekamp_Coral_Reef"
+ },
+ "Key West International Airport": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Key_west_international_airport.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Key_west_international_airport.jpg",
+  "artist": "ksr8s",
+  "license": "CC BY-SA 2.0",
+  "lat": 24.55611,
+  "lon": -81.75944,
+  "extract": "L'aéroport international de Key West, également connu en tant qu'aéroport de Key West, est un aéroport international américain situé dans le comté de Monroe, en Floride, à 3,2 km à l'est de Key West.",
+  "article": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_Key_West"
+ },
+ "La Paz, Baja California Sur": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Vista_a%C3%A9rea_del_Museo_de_Arte_de_Baja_California_Sur_01.jpg/1920px-Vista_a%C3%A9rea_del_Museo_de_Arte_de_Baja_California_Sur_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_Museo_de_Arte_de_Baja_California_Sur_01.jpg",
+  "artist": "ProtoplasmaKid",
+  "license": "CC BY-SA 4.0",
+  "lat": 24.14222,
+  "lon": -110.31083,
+  "extract": "La Paz est une ville mexicaine, capitale de l'État de Basse-Californie du Sud et siège de la municipalité du même nom.",
+  "article": "https://fr.wikipedia.org/wiki/La_Paz_(Basse-Californie_du_Sud)"
+ },
+ "Los Cabos International Airport": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/LCAAI.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:LCAAI.jpg",
+  "artist": "Los Cabos International Airport",
+  "license": "CC BY-SA 4.0",
+  "lat": 23.15167,
+  "lon": -109.72083,
+  "extract": "L'aéroport international de San José de Los Cabos également appelé aéroport international de Los Cabos, est le sixième aéroport le plus fréquenté du Mexique, situé à San José del Cabo, dans la municipalité de Los Cabos, dans l'État de Baja California Sur à l'ouest du Mexique.",
+  "article": "https://fr.wikipedia.org/wiki/A%C3%A9roport_de_San_Jos%C3%A9_del_Cabo"
+ },
+ "Mallory Square": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Mallory_Square%2C_Key_West%2C_Florida.JPG",
+  "page": "https://en.wikipedia.org/wiki/File:Mallory_Square,_Key_West,_Florida.JPG",
+  "artist": "",
+  "license": "PD",
+  "lat": 24.55998,
+  "lon": -81.80743
+ },
+ "Miami International Airport": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Aerial_view_of_Miami_International_Airport_in_2026.jpg/1920px-Aerial_view_of_Miami_International_Airport_in_2026.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Miami_International_Airport_in_2026.jpg",
+  "artist": "Quintin Soloviev",
+  "license": "CC BY 4.0",
+  "lat": 25.79333,
+  "lon": -80.29056,
+  "extract": "L'aéroport international de Miami, connu localement sous le sigle MIA, est un aéroport américain desservant la ville de Miami, dans l'État de Floride.",
+  "article": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_de_Miami"
+ },
+ "San José del Cabo": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/SJCmunicipalhall01.JPG/1920px-SJCmunicipalhall01.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:SJCmunicipalhall01.JPG",
+  "artist": "Thelmadatter",
+  "license": "CC BY-SA 4.0",
+  "lat": 23.06139,
+  "lon": -109.70806,
+  "extract": "San José del Cabo est une ville du Mexique située en Basse-Californie du Sud, siège de la municipalité de Los Cabos.",
+  "article": "https://fr.wikipedia.org/wiki/San_Jos%C3%A9_del_Cabo"
+ },
+ "Seven Mile Bridge": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Seven_mile_bridge.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Seven_mile_bridge.jpg",
+  "artist": "Tinsley Advertising",
+  "license": "Attribution",
+  "extract": "Le Seven Mile Bridge, est un ouvrage d'art de l'U.S. Route 1, appelée Overseas Highway, dans les Keys de Floride aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Seven_Mile_Bridge"
  }
 }

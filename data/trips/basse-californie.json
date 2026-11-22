@@ -1,0 +1,557 @@
+{
+  "id": "basse-californie",
+  "title": "Basse-Californie du Sud",
+  "subtitle": "Sept nuits entre San José del Cabo, Todos Santos et La Paz : criques de la mer de Cortez, Balandra, Cerritos et île Espíritu Santo",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "File:Playa Balandra, Baja California Sur 5.jpg",
+  "days": [
+    {
+      "n": 1,
+      "title": "Arrivée à Los Cabos, San José del Cabo",
+      "summary": "Vol via Francfort, arrivée en milieu d'après-midi, et première soirée dans le centre historique de San José del Cabo, à 15 min de l'aéroport.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Après-midi",
+          "text": "Vol Condor via Francfort, arrivée à Los Cabos vers 15 h 40. Récupération de la voiture de location."
+        },
+        {
+          "label": "Soir",
+          "text": "Installation dans le centre historique de San José del Cabo : place, mission et rues piétonnes. Dîner sur place."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Aéroport de Los Cabos (SJD)",
+          "wiki": "Los Cabos International Airport"
+        },
+        {
+          "name": "San José del Cabo",
+          "wiki": "San José del Cabo",
+          "coords": [
+            23.0619,
+            -109.6966
+          ],
+          "culture": "Ville coloniale fondée en 1730 autour de sa mission, au calme par rapport aux resorts de Cabo San Lucas.",
+          "photo": "File:Mission San Jose del Cabo-1a.jpg"
+        }
+      ],
+      "stay": {
+        "name": "San José del Cabo (centre historique)",
+        "coords": [
+          23.0625,
+          -109.6975
+        ],
+        "note": "Petit hôtel dans le centre historique (à choisir)",
+        "options": [
+          "Casa Natalia (hôtel boutique sur la place)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Paris CDG → Francfort → Los Cabos : Condor, 7 h 30 → 15 h 40, une escale de 2 h (environ 651 $ par personne dans Navan, tarif « Economy Zero » sans bagage en soute)",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Aéroport → San José del Cabo : environ 15 min",
+          "after": 0
+        }
+      ],
+      "notes": [
+        "Grossesse : le Mexique reste classé « à risque » pour le Zika, mais la circulation est quasi nulle (4 cas dans tout le pays en 2025, aucun en Basse-Californie du Sud, dernière transmission locale en 2017). En janvier, le climat sec et frais limite les moustiques et la dengue (21 cas dans tout l'État sur les 14 premières semaines de 2025). Répulsif adapté à la grossesse, préservatifs pour le partenaire pendant toute la grossesse, et en parler au médecin avant de réserver."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Crique de Santa María, Cerritos et Todos Santos",
+      "summary": "Baignade dans une crique protégée du corridor de Los Cabos, puis route vers la côte pacifique : plage de Cerritos et arrivée à Todos Santos.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Playa Santa María : petite baie protégée, eau calme et snorkeling, à l'écart des resorts."
+        },
+        {
+          "label": "Midi",
+          "text": "Route vers Todos Santos par Cabo San Lucas et la côte pacifique."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Playa Los Cerritos : la plage la plus sûre pour se baigner de ce côté du Pacifique, avec une pointe rocheuse qui la protège."
+        },
+        {
+          "label": "Soir",
+          "text": "Installation à Todos Santos, petite ville classée Pueblo Mágico, et dîner."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Playa Santa María",
+          "coords": [
+            22.923,
+            -109.809
+          ],
+          "culture": "Baie en fer à cheval protégée, réserve marine, l'une des meilleures criques de snorkeling de Los Cabos.",
+          "photo": "File:Playa Santa Maria, Baja California (432544031).jpg"
+        },
+        {
+          "name": "Playa Los Cerritos",
+          "coords": [
+            23.3285,
+            -110.1735
+          ],
+          "culture": "Longue plage de sable sur le Pacifique, protégée par une pointe rocheuse : l'une des rares où l'on peut se baigner sur cette côte.",
+          "photo": "File:Cerritos Beach - Near Todos Santos - Baja California Sur - Mexico - 04 (23775057435).jpg"
+        }
+      ],
+      "stay": {
+        "name": "Todos Santos",
+        "coords": [
+          23.4482,
+          -110.2263
+        ],
+        "note": "Todos Santos, 3 nuits : hôtel boutique",
+        "options": [
+          "Todos Santos Boutique Hotel (dix suites dans une demeure de 1890, clef Michelin)",
+          "Hotel San Cristóbal (sur la plage de Punta Lobos)",
+          "Guaycura Boutique Hotel"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "San José del Cabo → Playa Santa María : environ 25 min",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Playa Santa María → Cerritos : environ 1 h 15",
+          "after": 1
+        },
+        {
+          "mode": "car",
+          "text": "Cerritos → Todos Santos : environ 15 min",
+          "after": 2
+        }
+      ],
+      "food": [
+        "Dîner à Todos Santos. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Todos Santos et Punta Lobos",
+      "summary": "La petite ville de Todos Santos, ses maisons de brique et sa mission, puis le retour des barques de pêcheurs à Punta Lobos et le coucher du soleil à La Pastora.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Balade dans le centre historique : mission, théâtre Márquez de León, maisons de brique du XIXe siècle et l'Hotel California."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner de produits de la ferme, chez Hierbabuena ou Jazamango."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Punta Lobos : les pêcheurs ramènent leurs barques sur la plage en fin d'après-midi. Baignade déconseillée (courants)."
+        },
+        {
+          "label": "Coucher du soleil",
+          "text": "Playa La Pastora."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Mission de Todos Santos",
+          "coords": [
+            23.4475,
+            -110.2245
+          ],
+          "culture": "Mission fondée en 1723, au cœur de la petite ville.",
+          "photo": "File:Mission at Todos Santos (199627044).jpg"
+        },
+        {
+          "name": "Punta Lobos",
+          "coords": [
+            23.4206,
+            -110.2387
+          ],
+          "culture": "Plage des pêcheurs de Todos Santos, où les barques reviennent chargées en fin d'après-midi."
+        },
+        {
+          "name": "Playa La Pastora",
+          "coords": [
+            23.487,
+            -110.259
+          ],
+          "culture": "Plage sauvage au nord de la ville, pour le coucher du soleil sur le Pacifique."
+        }
+      ],
+      "stay": {
+        "name": "Todos Santos",
+        "coords": [
+          23.4482,
+          -110.2263
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Trajets de 10 à 15 min",
+          "after": -1
+        }
+      ],
+      "ideas": [
+        {
+          "label": "Lâcher de bébés tortues",
+          "text": "Le groupe Tortugueros Las Playitas relâche des bébés tortues au coucher du soleil, en principe jusqu'à mi-janvier et seulement s'il y a des éclosions : à confirmer avant de venir."
+        }
+      ],
+      "notes": [
+        "Sur la côte pacifique, la mer est forte : ne se baigner qu'à Cerritos."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Journée à Cerritos",
+      "summary": "Une journée lente sur la plage de Cerritos, la plus sûre de la côte pacifique, avec un déjeuner les pieds dans le sable.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Plage de Cerritos : baignade dans la partie protégée par la pointe, et balade sur le sable."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner sur la plage."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Repos à l'hôtel."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner à Todos Santos."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Playa Los Cerritos",
+          "coords": [
+            23.3285,
+            -110.1735
+          ],
+          "culture": "Longue plage protégée par une pointe rocheuse.",
+          "photo": "File:Sunset - Cerritos - Near Todos Santos - Baja California Sur - Mexico (23581300691).jpg"
+        }
+      ],
+      "stay": {
+        "name": "Todos Santos",
+        "coords": [
+          23.4482,
+          -110.2263
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Todos Santos → Cerritos : environ 15 min",
+          "after": -1
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Route vers La Paz et plage d'El Tecolote",
+      "summary": "Une heure de route à travers le désert jusqu'à La Paz, sur la mer de Cortez, puis plage d'El Tecolote et coucher du soleil sur le Malecón.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Route vers La Paz par la route 19 (environ 1 h 15)."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner sur le Malecón."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Playa El Tecolote : longue plage de sable, eau calme et turquoise face à l'île Espíritu Santo."
+        },
+        {
+          "label": "Coucher du soleil",
+          "text": "Promenade sur le Malecón de La Paz."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Playa El Tecolote",
+          "coords": [
+            24.336,
+            -110.313
+          ],
+          "culture": "Grande plage de la mer de Cortez, eau calme et peu profonde, face à l'île Espíritu Santo.",
+          "photo": "File:Playa Tecolote 1.jpg"
+        },
+        {
+          "name": "Malecón de La Paz",
+          "wiki": "La Paz, Baja California Sur",
+          "coords": [
+            24.16,
+            -110.315
+          ],
+          "culture": "Promenade de plusieurs kilomètres en bord de mer, le cœur de la ville au coucher du soleil."
+        }
+      ],
+      "stay": {
+        "name": "La Paz",
+        "coords": [
+          24.158,
+          -110.313
+        ],
+        "note": "La Paz, 3 nuits : hôtel boutique sur le Malecón",
+        "options": [
+          "Baja Club Hotel (villa restaurée de 32 chambres, clef Michelin)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Todos Santos → La Paz : environ 1 h 15",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "La Paz → El Tecolote : environ 30 min",
+          "after": 1
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Playa Balandra",
+      "summary": "La plage la plus célèbre de Basse-Californie : une lagune de sable blanc et d'eau turquoise peu profonde, idéale pour se baigner sans vagues.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Playa Balandra, créneau de 8 h à 12 h : lagune peu profonde où l'on marche dans l'eau turquoise, et sentier jusqu'au point de vue au-dessus de la baie."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Retour à La Paz, repos, ou plage de Pichilingue."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner à La Paz."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Playa Balandra",
+          "coords": [
+            24.322,
+            -110.327
+          ],
+          "culture": "Lagune protégée de sable blanc et d'eau turquoise peu profonde, dans une aire naturelle : l'accès est limité à 450 personnes par créneau.",
+          "photo": "File:Playa Balandra, Baja California Sur 5.jpg"
+        }
+      ],
+      "stay": {
+        "name": "La Paz",
+        "coords": [
+          24.158,
+          -110.313
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "La Paz → Balandra : environ 30 min",
+          "after": -1
+        }
+      ],
+      "notes": [
+        "Accès en deux créneaux (8 h - 12 h et 13 h - 17 h), 450 personnes au maximum par créneau, avec un bracelet de la CONANP à acheter à l'avance (environ 120 pesos). En haute saison, les créneaux sont complets : arriver tôt."
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Île Espíritu Santo",
+      "summary": "Sortie en bateau vers l'île Espíritu Santo, classée par l'UNESCO : falaises rouges, criques turquoise et colonie de lions de mer à Los Islotes.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Bateau depuis La Paz vers l'île Espíritu Santo : falaises rouges et criques désertes."
+        },
+        {
+          "label": "Midi",
+          "text": "Pique-nique sur une plage de l'île, snorkeling dans une crique abritée."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Retour à La Paz."
+        },
+        {
+          "label": "Soir",
+          "text": "Dernier dîner à La Paz."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Île Espíritu Santo",
+          "wiki": "Espíritu Santo Island",
+          "coords": [
+            24.495,
+            -110.36
+          ],
+          "culture": "Île désertique protégée, aux falaises rouges et aux criques turquoise, classée par l'UNESCO avec les îles du golfe de Californie."
+        }
+      ],
+      "stay": {
+        "name": "La Paz",
+        "coords": [
+          24.158,
+          -110.313
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "La Paz → île Espíritu Santo : environ 1 h de bateau",
+          "after": -1
+        }
+      ],
+      "notes": [
+        "En hiver, le vent du nord souffle souvent : les opérateurs se replient alors sur les baies abritées du sud de l'île, ou annulent. Grossesse : choisir un bateau assez grand, s'asseoir à l'arrière et renoncer si la mer est formée. Une journée de plage à Balandra ou à El Tecolote remplace très bien la sortie."
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Retour vers Los Cabos et vol direct vers San Francisco",
+      "summary": "Route vers l'aéroport de Los Cabos, puis vol direct de 3 h 20 vers San Francisco, arrivée en début de soirée.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Petit-déjeuner sur le Malecón, puis route vers l'aéroport de Los Cabos (environ 2 h)."
+        },
+        {
+          "label": "Départ",
+          "text": "Retour de la voiture et vol direct United vers San Francisco."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Aéroport de Los Cabos (SJD)",
+          "wiki": "Los Cabos International Airport"
+        }
+      ],
+      "end": "Vol direct Los Cabos → San Francisco",
+      "transport": [
+        {
+          "mode": "car",
+          "text": "La Paz → aéroport de Los Cabos : environ 2 h",
+          "after": 0
+        },
+        {
+          "mode": "flight",
+          "text": "Los Cabos → San Francisco : United direct, 16 h 23 → 18 h 45 (environ 302 $ par personne dans Navan, tarif de base), ou 14 h 20 → 16 h 42 (environ 329 $)",
+          "after": 0
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "avis",
+      "title": "Notre avis : pourquoi Todos Santos et La Paz",
+      "summary": "Les choix de l'itinéraire pour une grossesse, les vols, et ce qui a été écarté.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Pourquoi cet itinéraire"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Les deux bases les plus « boutique » de Basse-Californie du Sud : Todos Santos sur le Pacifique et La Paz sur la mer de Cortez, loin des resorts du corridor de Los Cabos.",
+            "Les plus belles plages pour se baigner sans vagues : Balandra, El Tecolote, Santa María et Cerritos.",
+            "Peu de route : 1 h 15 au plus par jour, sauf le dernier jour (2 h jusqu'à l'aéroport).",
+            "Le retour vers San Francisco est un vol direct de 3 h 20."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Santé et grossesse"
+        },
+        {
+          "type": "text",
+          "text": "Grossesse : le Mexique reste classé « à risque » pour le Zika, mais la circulation est quasi nulle (4 cas dans tout le pays en 2025, aucun en Basse-Californie du Sud, dernière transmission locale en 2017). En janvier, le climat sec et frais limite les moustiques et la dengue (21 cas dans tout l'État sur les 14 premières semaines de 2025). Répulsif adapté à la grossesse, préservatifs pour le partenaire pendant toute la grossesse, et en parler au médecin avant de réserver."
+        },
+        {
+          "type": "heading",
+          "text": "Vols (Navan, par personne, tarifs de base)"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Trajet",
+            "Vol",
+            "Prix"
+          ],
+          "rows": [
+            [
+              "Paris → Los Cabos, lundi 18",
+              "Condor via Francfort, 7 h 30 → 15 h 40 (une escale de 2 h)",
+              "~651 $"
+            ],
+            [
+              "Los Cabos → San Francisco, lundi 25",
+              "United direct, 16 h 23 → 18 h 45",
+              "~302 $"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Le tarif Condor « Economy Zero » et le tarif de base United n'incluent pas de bagage en soute : compter environ 50 à 100 $ de plus par trajet et par valise."
+        },
+        {
+          "type": "heading",
+          "text": "Météo de fin janvier (ordres de grandeur, non vérifiés)"
+        },
+        {
+          "type": "text",
+          "text": "Environ 24 °C le jour, nuits fraîches autour de 13 °C, mer à 21 ou 22 °C. Sur la côte pacifique, les vagues et les courants sont forts : on se baigne à Cerritos, et surtout du côté de la mer de Cortez."
+        },
+        {
+          "type": "heading",
+          "text": "Écarté"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Le corridor de Cabo San Lucas : resorts américains géants.",
+            "Cabo Pulmo : très beau récif, mais à 2 h 30 de La Paz, en partie par une piste.",
+            "Riviera Nayarit (Sayulita) : dengue active même en saison sèche et eaux usées récurrentes sur la plage principale de Sayulita."
+          ]
+        }
+      ]
+    }
+  ],
+  "start": "2027-01-18",
+  "done": false,
+  "season": "Janvier",
+  "kind": "short"
+}

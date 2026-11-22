@@ -1,0 +1,597 @@
+{
+  "id": "floride",
+  "title": "Floride : Keys et Key Biscayne",
+  "subtitle": "Sept nuits entre Miami, Islamorada et Key West : plages de Key Biscayne et de Bahia Honda, récif de corail, Seven Mile Bridge et vieille ville de Key West",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "File:Bahia Honda State Park - Beach with palm trees.jpg",
+  "days": [
+    {
+      "n": 1,
+      "title": "Arrivée à Miami, Coconut Grove",
+      "summary": "Vol direct Paris → Miami, voiture de location et première soirée dans le quartier verdoyant de Coconut Grove, au bord de la baie de Biscayne.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Après-midi",
+          "text": "Vol Air France direct depuis Roissy, arrivée à Miami vers 17 h 40. Récupération de la voiture de location."
+        },
+        {
+          "label": "Soir",
+          "text": "Installation à Coconut Grove, quartier arboré et tranquille au bord de la baie, et dîner à pied."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Aéroport de Miami (MIA)",
+          "wiki": "Miami International Airport"
+        },
+        {
+          "name": "Coconut Grove",
+          "wiki": "Coconut Grove",
+          "coords": [
+            25.728,
+            -80.241
+          ],
+          "culture": "Le plus ancien quartier de Miami, arboré et résidentiel, au bord de la baie de Biscayne : loin des tours de Miami Beach."
+        }
+      ],
+      "stay": {
+        "name": "Coconut Grove, Miami",
+        "coords": [
+          25.728,
+          -80.241
+        ],
+        "note": "Hôtel de charme à Coconut Grove (à choisir)",
+        "options": [
+          "Mr. C Coconut Grove",
+          "Silver Sands Beach Resort, Key Biscayne (petit hôtel des années 1950 sur la plage)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Paris CDG → Miami : vol direct Air France AF90, 13 h 10 → 17 h 40 (environ 622 $ par personne dans Navan, tarif de base)",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Aéroport → Coconut Grove : environ 20 min",
+          "after": 0
+        }
+      ],
+      "notes": [
+        "Grossesse : la Floride est classée en risque Zika négligeable par la liste britannique TravelHealthPro, et aucun cas de dengue locale n'a été signalé dans les Keys en 2026 (les cas de l'État sont surtout à Tampa). Janvier est la saison la plus sèche, avec peu de moustiques : répulsif adapté à la grossesse le soir quand même. Les soins sont excellents mais très chers : assurance voyage couvrant la grossesse indispensable."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Key Biscayne, puis route vers Islamorada",
+      "summary": "Matinée sur les plus belles plages de Miami, à Key Biscayne, puis route vers les Keys jusqu'à Islamorada pour le coucher du soleil.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Bill Baggs Cape Florida State Park, à la pointe de Key Biscayne : plage de sable, eau claire et phare de 1825. Puis Crandon Park, autre grande plage du côté nord."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner à Key Biscayne."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Route vers les Keys par l'US-1, arrivée à Islamorada en fin d'après-midi."
+        },
+        {
+          "label": "Coucher du soleil",
+          "text": "Morada Bay Beach Café : tables et chaises longues dans le sable, face au coucher du soleil sur la baie de Floride."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Bill Baggs Cape Florida",
+          "wiki": "Cape Florida Light",
+          "coords": [
+            25.668,
+            -80.1567
+          ],
+          "culture": "Parc d'État à la pointe de Key Biscayne, avec une longue plage et le phare de Cape Florida, l'un des plus anciens bâtiments de la région.",
+          "photo": "File:Cape Florida Beach 1.jpg"
+        },
+        {
+          "name": "Crandon Park",
+          "coords": [
+            25.712,
+            -80.155
+          ],
+          "culture": "Grande plage de sable de Key Biscayne, au calme grâce au récif."
+        },
+        {
+          "name": "Morada Bay Beach Café",
+          "coords": [
+            24.9312,
+            -80.6212
+          ],
+          "culture": "Restaurant les pieds dans le sable, sur la baie de Floride : le rendez-vous du coucher du soleil à Islamorada."
+        }
+      ],
+      "stay": {
+        "name": "Islamorada",
+        "coords": [
+          24.936,
+          -80.615
+        ],
+        "note": "Islamorada, 3 nuits : hôtel boutique au bord de l'eau",
+        "options": [
+          "Casa Morada (petit hôtel boutique, réservé aux adultes)",
+          "The Moorings Village (cottages dans une cocoteraie, plage privée)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Coconut Grove → Key Biscayne : environ 20 min",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Key Biscayne → Islamorada : environ 1 h 45 par l'US-1",
+          "after": 1
+        }
+      ],
+      "food": [
+        "Dîner à Islamorada, au Morada Bay Beach Café ou dans un restaurant de poisson grillé. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Islamorada : plages et lagons",
+      "summary": "Journée lente à Islamorada : la lagune peu profonde d'Anne's Beach, les tarpons de Robbie's et le coucher du soleil sur la baie.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Anne's Beach : longue plage peu profonde, presque une lagune, avec une promenade en bois dans la mangrove. Idéale pour se baigner sans vagues."
+        },
+        {
+          "label": "Midi",
+          "text": "Robbie's of Islamorada : marina où l'on nourrit les tarpons géants depuis le ponton, et déjeuner sur place."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Piscine et repos à l'hôtel, ou kayak tranquille dans la mangrove."
+        },
+        {
+          "label": "Coucher du soleil",
+          "text": "Coucher du soleil côté baie de Floride."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Anne's Beach",
+          "coords": [
+            24.8526,
+            -80.736
+          ],
+          "culture": "Plage peu profonde et protégée, avec une promenade en bois dans la mangrove : une des rares vraies plages des Keys.",
+          "photo": "File:Anne's Beach - panoramio.jpg"
+        },
+        {
+          "name": "Robbie's of Islamorada",
+          "coords": [
+            24.8829,
+            -80.6683
+          ],
+          "culture": "Marina historique où les tarpons, poissons d'argent de plus d'un mètre, viennent se nourrir au pied du ponton."
+        }
+      ],
+      "stay": {
+        "name": "Islamorada",
+        "coords": [
+          24.936,
+          -80.615
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Trajets de 10 à 20 min sur l'US-1",
+          "after": -1
+        }
+      ],
+      "food": [
+        "Poisson grillé (mahi-mahi, mérou) dans les restaurants de bord de mer. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Key Largo : le récif de John Pennekamp",
+      "summary": "Le premier parc sous-marin des États-Unis : bateau à fond de verre ou snorkeling au-dessus du récif de corail, et plage de Cannon Beach.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Parc John Pennekamp Coral Reef, à Key Largo : sortie en bateau à fond de verre au-dessus du récif (environ 2 h 30), ou snorkeling depuis Cannon Beach, dans le parc."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Retour à Islamorada, plage et repos."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner à Islamorada."
+        }
+      ],
+      "stops": [
+        {
+          "name": "John Pennekamp Coral Reef State Park",
+          "wiki": "John Pennekamp Coral Reef State Park",
+          "coords": [
+            25.125,
+            -80.406
+          ],
+          "culture": "Premier parc sous-marin des États-Unis, créé en 1963, qui protège une partie du seul récif corallien vivant d'Amérique du Nord."
+        }
+      ],
+      "stay": {
+        "name": "Islamorada",
+        "coords": [
+          24.936,
+          -80.615
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Islamorada → Key Largo : environ 30 min",
+          "after": -1
+        },
+        {
+          "mode": "boat",
+          "text": "Bateau à fond de verre vers le récif : environ 2 h 30 aller-retour",
+          "after": -1
+        }
+      ],
+      "notes": [
+        "Grossesse : par vent fort, la mer peut être agitée sur le récif. Choisir le bateau à fond de verre (plus stable) ou rester à Cannon Beach si la mer est formée."
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Seven Mile Bridge, Bahia Honda et Key West",
+      "summary": "La plus belle route des Keys : Sombrero Beach à Marathon, le Seven Mile Bridge, puis Bahia Honda, la plus belle plage des Keys, avant le coucher du soleil à Key West.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Route vers le sud, arrêt à Sombrero Beach, à Marathon : plage de sable bordée de palmiers."
+        },
+        {
+          "label": "Midi",
+          "text": "Traversée du Seven Mile Bridge, puis Bahia Honda State Park : sable blanc, eau turquoise et vue sur l'ancien pont ferroviaire. Pique-nique sur la plage."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Arrivée à Key West et installation dans la vieille ville."
+        },
+        {
+          "label": "Coucher du soleil",
+          "text": "Mallory Square, où toute la ville se retrouve pour le coucher du soleil."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Sombrero Beach",
+          "coords": [
+            24.693,
+            -81.087
+          ],
+          "culture": "Plage publique de Marathon, sable et palmiers, au calme.",
+          "photo": "File:Sunset at Sombrero Beach - panoramio.jpg"
+        },
+        {
+          "name": "Seven Mile Bridge",
+          "wiki": "Seven Mile Bridge",
+          "coords": [
+            24.706,
+            -81.16
+          ],
+          "culture": "Pont de 11 km au-dessus de l'eau turquoise, ouvert en 1982, qui longe l'ancien pont ferroviaire de Henry Flagler."
+        },
+        {
+          "name": "Bahia Honda State Park",
+          "wiki": "Bahia Honda State Park",
+          "coords": [
+            24.656,
+            -81.277
+          ],
+          "culture": "Souvent classée parmi les plus belles plages des États-Unis : sable blanc, eau turquoise et vestiges du pont de Flagler.",
+          "photo": "File:Bahia Honda State Park - Beach with palm trees.jpg"
+        },
+        {
+          "name": "Mallory Square",
+          "wiki": "Mallory Square",
+          "coords": [
+            24.5597,
+            -81.8077
+          ],
+          "culture": "Place du port de Key West où l'on vient chaque soir regarder le coucher du soleil, avec musiciens et artistes de rue."
+        }
+      ],
+      "stay": {
+        "name": "Key West (vieille ville)",
+        "coords": [
+          24.555,
+          -81.8
+        ],
+        "note": "Key West, 3 nuits : petit hôtel ou maison d'hôtes dans la vieille ville",
+        "options": [
+          "The Marquesa Hotel (maisons de bois du XIXe siècle)",
+          "Kona Kai Resort (petit hôtel réservé aux adultes, jardins tropicaux)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Islamorada → Marathon : environ 1 h",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Marathon → Bahia Honda : environ 30 min",
+          "after": 0
+        },
+        {
+          "mode": "car",
+          "text": "Bahia Honda → Key West : environ 45 min",
+          "after": 1
+        }
+      ],
+      "notes": [
+        "Bahia Honda est ouvert tous les jours de 8 h au coucher du soleil (environ 8 $ par voiture)."
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Key West, à pied et à vélo",
+      "summary": "La vieille ville en bois peint, la maison d'Hemingway et la plage de Fort Zachary Taylor, la meilleure de Key West pour nager et faire du snorkeling.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Balade à vélo dans la vieille ville : maisons de bois peint, jardins tropicaux, maison d'Ernest Hemingway et ses chats à six doigts."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner au Blue Heaven, dans une cour ombragée."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Fort Zachary Taylor : plage sous les pins, eau claire et snorkeling sur les rochers."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner face à la mer, au Louie's Backyard par exemple, et part de key lime pie."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Maison d'Ernest Hemingway",
+          "wiki": "Ernest Hemingway House",
+          "coords": [
+            24.5512,
+            -81.8006
+          ],
+          "culture": "Maison coloniale de 1851 où Hemingway a vécu dans les années 1930, aujourd'hui peuplée de dizaines de chats à six doigts."
+        },
+        {
+          "name": "Fort Zachary Taylor",
+          "wiki": "Fort Zachary Taylor Historic State Park",
+          "coords": [
+            24.5458,
+            -81.8104
+          ],
+          "culture": "Fort de la guerre de Sécession et la plus belle plage de Key West, à l'ombre des pins, bonne pour le snorkeling.",
+          "photo": "File:Zachary Taylor Beach FL1.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Key West (vieille ville)",
+        "coords": [
+          24.555,
+          -81.8
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "bus",
+          "text": "Vélo ou à pied dans la vieille ville",
+          "after": -1
+        }
+      ],
+      "food": [
+        "Blue Heaven (cour ombragée), Louie's Backyard (terrasse sur la mer), key lime pie chez Kermit's. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Dry Tortugas, ou journée plage",
+      "summary": "Le parc national le plus isolé des États-Unis, Fort Jefferson et son eau turquoise, en hydravion ; ou une journée tranquille sur les plages de Key West.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Hydravion jusqu'aux Dry Tortugas (environ 40 min) : Fort Jefferson, immense fort de brique au milieu de la mer, plage et snorkeling."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Retour à Key West, repos. Option sans les Dry Tortugas : Smathers Beach et une balade en vélo jusqu'au point le plus au sud des États-Unis."
+        },
+        {
+          "label": "Soir",
+          "text": "Coucher du soleil depuis la jetée et dîner."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Dry Tortugas et Fort Jefferson",
+          "wiki": "Dry Tortugas National Park",
+          "coords": [
+            24.6285,
+            -82.8732
+          ],
+          "culture": "Archipel à 110 km à l'ouest de Key West, accessible seulement en bateau ou en hydravion, autour d'un fort de 16 millions de briques jamais achevé."
+        },
+        {
+          "name": "Smathers Beach",
+          "coords": [
+            24.552,
+            -81.772
+          ],
+          "culture": "La plus longue plage de Key West, sable et palmiers."
+        }
+      ],
+      "stay": {
+        "name": "Key West (vieille ville)",
+        "coords": [
+          24.555,
+          -81.8
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Hydravion Key West → Dry Tortugas : environ 40 min (le ferry met environ 2 h 15 en mer ouverte)",
+          "after": -1
+        }
+      ],
+      "notes": [
+        "Grossesse : préférer l'hydravion au ferry, dont la traversée de 2 h 15 en mer ouverte peut être agitée. Les places sont limitées et chères : réserver tôt, ou garder cette journée pour la plage."
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Dernière matinée et vol vers San Francisco",
+      "summary": "Matinée tranquille à Key West, puis vol avec une escale vers San Francisco, arrivée en fin de soirée.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Petit-déjeuner, dernière baignade à Fort Zachary Taylor ou à Smathers Beach."
+        },
+        {
+          "label": "Départ",
+          "text": "Retour de la voiture et vol depuis Key West en début d'après-midi."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Aéroport de Key West (EYW)",
+          "wiki": "Key West International Airport"
+        }
+      ],
+      "end": "Vol Key West → San Francisco, une escale",
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Key West → San Francisco : American via Charlotte, 13 h 52 → 22 h 52, ou Delta via Atlanta, 17 h 01 → 22 h 43 (environ 405 $ par personne dans Navan, tarif de base)",
+          "after": 0
+        }
+      ],
+      "notes": [
+        "Variante moins chère : revenir en voiture à Miami le dimanche (environ 3 h 45) et prendre un vol direct Miami → San Francisco le lundi (United 16 h 37 → 20 h 09, environ 242 $), soit environ 160 $ de moins par personne mais une longue route."
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "avis",
+      "title": "Notre avis : pourquoi les Keys, et les alternatives",
+      "summary": "Les choix de l'itinéraire pour une grossesse, les vols, et la variante sur la côte du golfe du Mexique.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Pourquoi cet itinéraire"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Peu de route : 2 h au plus par jour, et un seul vol direct à l'aller.",
+            "Les plus belles plages du sud de la Floride accessibles sans longue route : Key Biscayne, Anne's Beach, Bahia Honda et Fort Zachary Taylor.",
+            "Des hôtels de taille humaine : Islamorada et la vieille ville de Key West, loin des tours de Miami Beach.",
+            "La mer la plus chaude de Floride en janvier, autour de 22 à 23 °C dans les Keys."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Santé et grossesse"
+        },
+        {
+          "type": "text",
+          "text": "Grossesse : la Floride est classée en risque Zika négligeable par la liste britannique TravelHealthPro, et aucun cas de dengue locale n'a été signalé dans les Keys en 2026 (les cas de l'État sont surtout à Tampa). Janvier est la saison la plus sèche, avec peu de moustiques : répulsif adapté à la grossesse le soir quand même. Les soins sont excellents mais très chers : assurance voyage couvrant la grossesse indispensable."
+        },
+        {
+          "type": "heading",
+          "text": "Vols (Navan, par personne, tarifs de base)"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Trajet",
+            "Vol",
+            "Prix"
+          ],
+          "rows": [
+            [
+              "Paris → Miami, lundi 18",
+              "Air France AF90 direct, 13 h 10 → 17 h 40",
+              "~622 $"
+            ],
+            [
+              "Key West → San Francisco, lundi 25",
+              "American via Charlotte (13 h 52 → 22 h 52) ou Delta via Atlanta (17 h 01 → 22 h 43)",
+              "~405 $"
+            ],
+            [
+              "Variante : Miami → San Francisco, lundi 25",
+              "United direct, 16 h 37 → 20 h 09",
+              "~242 $"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Les tarifs de base n'incluent pas de bagage en soute : compter environ 35 à 75 $ de plus par trajet et par valise."
+        },
+        {
+          "type": "heading",
+          "text": "Variante : la côte du golfe du Mexique"
+        },
+        {
+          "type": "text",
+          "text": "Pour des plages plus belles encore (sable blanc très fin), on peut remplacer les Keys par Naples, Sanibel et Captiva, et Anna Maria Island, avec un retour depuis Tampa. La mer y est plus fraîche en janvier (environ 19 à 20 °C), et les ouragans de 2024 ont touché cette côte : vérifier l'état des hôtels et des plages avant de réserver."
+        },
+        {
+          "type": "heading",
+          "text": "Écarté"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Nord-ouest de la Floride (littoral 30A) : magnifique, mais trop froid en janvier pour se baigner (environ 16 °C).",
+            "Miami Beach : grande plage, mais très urbaine et bordée de tours."
+          ]
+        }
+      ]
+    }
+  ],
+  "start": "2027-01-18",
+  "done": false,
+  "season": "Janvier",
+  "kind": "short"
+}
