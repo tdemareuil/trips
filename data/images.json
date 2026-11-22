@@ -6934,5 +6934,127 @@
   "lon": -118.1439,
   "extract": "Pasadena est une ville américaine située à l'est de Los Angeles et au pied des montagnes de San Gabriel, dans l'État de Californie. Sa population comptait 138 699 habitants lors du recensement de 2020.",
   "article": "https://fr.wikipedia.org/wiki/Pasadena"
+ },
+ "Alcázar de Colón": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Maison_du_gouverneur_Don_Diego_Colomb.jpg/1920px-Maison_du_gouverneur_Don_Diego_Colomb.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Maison_du_gouverneur_Don_Diego_Colomb.jpg",
+  "artist": "Caribeanvybz",
+  "license": "CC BY-SA 4.0",
+  "lat": 18.4775,
+  "lon": -69.8828
+ },
+ "Bahía de las Águilas": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Bahia_de_las_Aguilas_Dominican_Republic.jpg/1920px-Bahia_de_las_Aguilas_Dominican_Republic.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bahia_de_las_Aguilas_Dominican_Republic.jpg",
+  "artist": "https://www.flickr.com/photos/jordina_collellcortacans/",
+  "license": "CC BY-SA 2.0",
+  "lat": 17.86194,
+  "lon": -71.64556
+ },
+ "Cathedral of Santo Domingo": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Bas%C3%ADlica_Menor_de_Santa_Mar%C3%ADa_CCSD_07_2017_4676.jpg/1920px-Bas%C3%ADlica_Menor_de_Santa_Mar%C3%ADa_CCSD_07_2017_4676.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_Menor_de_Santa_Mar%C3%ADa_CCSD_07_2017_4676.jpg",
+  "artist": "Mariordo (Mario Roberto Durán Ortiz)",
+  "license": "CC BY-SA 4.0",
+  "lat": 18.47278,
+  "lon": -69.88389,
+  "extract": "La cathédrale Notre-Dame-de-l'Incarnation est le premier édifice de ce type construit au début du XVIe siècle sur le continent américain par les espagnols à Saint-Domingue, actuelle capitale de République dominicaine.",
+  "article": "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame-de-l%27Incarnation_de_Saint-Domingue"
+ },
+ "File:Bahia de las Aguilas.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Bahia_de_las_Aguilas.jpg/1920px-Bahia_de_las_Aguilas.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bahia_de_las_Aguilas.jpg",
+  "artist": "Scmjht",
+  "license": "CC BY-SA 3.0"
+ },
+ "File:DOM Las Terrenas, Playa Cosón 0022.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/DOM_Las_Terrenas%2C_Playa_Cos%C3%B3n_0022.jpg/1920px-DOM_Las_Terrenas%2C_Playa_Cos%C3%B3n_0022.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:DOM_Las_Terrenas,_Playa_Cos%C3%B3n_0022.jpg",
+  "artist": "-wuppertaler",
+  "license": "CC BY 4.0"
+ },
+ "File:DOM Santa Bárbara de Samaná, El Limón, Monumento Natural Salto El Limón 0014.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/DOM_Santa_B%C3%A1rbara_de_Saman%C3%A1%2C_El_Lim%C3%B3n%2C_Monumento_Natural_Salto_El_Lim%C3%B3n_0014.jpg/1920px-DOM_Santa_B%C3%A1rbara_de_Saman%C3%A1%2C_El_Lim%C3%B3n%2C_Monumento_Natural_Salto_El_Lim%C3%B3n_0014.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:DOM_Santa_B%C3%A1rbara_de_Saman%C3%A1,_El_Lim%C3%B3n,_Monumento_Natural_Salto_El_Lim%C3%B3n_0014.jpg",
+  "artist": "-wuppertaler",
+  "license": "CC BY 4.0"
+ },
+ "File:Hoyo de Pelempito.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Hoyo_de_Pelempito.jpg/1920px-Hoyo_de_Pelempito.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hoyo_de_Pelempito.jpg",
+  "artist": "Eric Carrasco-Nuñez",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Playa Frontón December 2020.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Playa_Front%C3%B3n_December_2020.jpg/1920px-Playa_Front%C3%B3n_December_2020.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Playa_Front%C3%B3n_December_2020.jpg",
+  "artist": "Danu Widjajanto",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Playa Rincón December 2020 2.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Playa_Rinc%C3%B3n_December_2020_2.jpg/1920px-Playa_Rinc%C3%B3n_December_2020_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Playa_Rinc%C3%B3n_December_2020_2.jpg",
+  "artist": "Danu Widjajanto",
+  "license": "CC BY-SA 4.0"
+ },
+ "Humpback whale": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Humpback_whale_breaching_off_Cabo_San_Lucas.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Humpback_whale_breaching_off_Cabo_San_Lucas.jpg",
+  "artist": "Juan Cruzado Cortés",
+  "license": "CC BY 4.0",
+  "extract": "La Baleine à bosse, le Mégaptère, la Jubarte ou, au Canada francophone, le Rorqual à bosse est une espèce de cétacés à fanons. Sa longueur moyenne est de 14 mètres, pour une masse de 30 tonnes.",
+  "article": "https://fr.wikipedia.org/wiki/Baleine_%C3%A0_bosse"
+ },
+ "Larimar": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Larimar.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Larimar.jpg",
+  "artist": "No machine-readable author provided. Vassil assumed (based on copyright claims).",
+  "license": "Public domain",
+  "extract": "Le larimar, pierre fine, est une variété de pectolite de couleur bleue qui se trouve en République dominicaine. Sa coloration varie du blanc au bleu foncé en passant par différentes teintes de bleu.",
+  "article": "https://fr.wikipedia.org/wiki/Larimar"
+ },
+ "Las Américas International Airport": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/MDSD-TerminalA.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:MDSD-TerminalA.JPG",
+  "artist": "Lacreta at English Wikipedia",
+  "license": "CC BY-SA 3.0",
+  "lat": 18.42944,
+  "lon": -69.66889,
+  "extract": "L'aéroport international Las Américas est un aéroport de la République dominicaine. Il s'agit de l'aéroport principal de la capitale, Saint-Domingue, avec près de 4 millions de visiteurs par an, et le deuxième du pays après Punta Cana.",
+  "article": "https://fr.wikipedia.org/wiki/A%C3%A9roport_international_Las_Am%C3%A9ricas"
+ },
+ "Las Galeras": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Playa_Front%C3%B3n_December_2020.jpg/1920px-Playa_Front%C3%B3n_December_2020.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Playa_Front%C3%B3n_December_2020.jpg",
+  "artist": "Danu Widjajanto",
+  "license": "CC BY-SA 4.0",
+  "lat": 19.3,
+  "lon": -69.2
+ },
+ "Los Haitises National Park": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Los_Haitises_Park.jpeg",
+  "page": "https://commons.wikimedia.org/wiki/File:Los_Haitises_Park.jpeg",
+  "artist": "Anton Bielousov",
+  "license": "CC BY-SA 3.0",
+  "lat": 19.00667,
+  "lon": -69.64194,
+  "extract": "Le parc national Los Haitises est un parc national au nord-est de la République dominicaine, qui s'étend de la baie de San Lorenzo à la zone sud et sud-ouest de la baie de Samaná qui en fait partie, sur une superficie de 208 km2.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_Los_Haitises"
+ },
+ "National Pantheon of the Dominican Republic": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Pant%C3%A9on_de_la_Patria_0008.jpg/1920px-DOM_Santo_Domingo%2C_Ciudad_Colonial%2C_Pant%C3%A9on_de_la_Patria_0008.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:DOM_Santo_Domingo,_Ciudad_Colonial,_Pant%C3%A9on_de_la_Patria_0008.jpg",
+  "artist": "-wuppertaler",
+  "license": "CC BY 4.0",
+  "lat": 18.475,
+  "lon": -69.88306
+ },
+ "Plaza de España (Santo Domingo)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/CCSD_Plaza_Espa%C3%B1a_07_2017_4671.jpg/1920px-CCSD_Plaza_Espa%C3%B1a_07_2017_4671.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:CCSD_Plaza_Espa%C3%B1a_07_2017_4671.jpg",
+  "artist": "Mariordo (Mario Roberto Durán Ortiz)",
+  "license": "CC BY-SA 4.0",
+  "lat": 18.4769,
+  "lon": -69.8832
  }
 }

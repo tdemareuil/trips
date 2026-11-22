@@ -1,0 +1,776 @@
+{
+  "id": "republique-dominicaine",
+  "title": "République dominicaine",
+  "subtitle": "Six nuits entre Santo Domingo, Barahona et la péninsule de Samaná : Zona Colonial, Bahía de las Águilas, plages sauvages, baleines et Los Haitises",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "File:Bahia de las Aguilas.jpg",
+  "days": [
+    {
+      "n": 1,
+      "title": "Santo Domingo : première soirée dans la Zona Colonial",
+      "summary": "Arrivée à l'aéroport, installation dans une maison coloniale du XVIe siècle, balade au coucher du soleil sur la Calle El Conde et la Plaza de España, puis dîner en rooftop.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Arrivée",
+          "text": "Arrivée à l'aéroport de Santo Domingo (SDQ) et transfert vers la Zona Colonial (environ 35 min)."
+        },
+        {
+          "label": "Coucher du soleil",
+          "text": "Première balade sur la Calle El Conde et la Plaza de España, puis apéritif en terrasse face à l'Alcázar de Colón."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner à Maraca, rooftop romantique de l'hôtel Billini, avec vue sur l'église Regina Angelorum."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Aéroport de Santo Domingo (SDQ)",
+          "wiki": "Las Américas International Airport"
+        },
+        {
+          "name": "Calle El Conde",
+          "coords": [
+            18.4727,
+            -69.8836
+          ],
+          "culture": "Rue piétonne principale de la Zona Colonial, bordée de boutiques et de terrasses, qui mène à la Plaza de España."
+        },
+        {
+          "name": "Plaza de España",
+          "wiki": "Plaza de España (Santo Domingo)",
+          "coords": [
+            18.4783,
+            -69.8828
+          ],
+          "culture": "Grande place de la Zona Colonial, face à l'Alcázar de Colón, avec ses terrasses de restaurants."
+        }
+      ],
+      "stay": {
+        "name": "Casas del XVI, Santo Domingo",
+        "coords": [
+          18.4742,
+          -69.8835
+        ],
+        "note": "Casas del XVI : clef Michelin, 10 chambres dans des villas coloniales du XVIe siècle, avec majordome"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Aéroport SDQ → Zona Colonial : environ 35 min",
+          "after": -1
+        }
+      ],
+      "food": [
+        "Dîner : Maraca, rooftop romantique de l'hôtel Billini, avec vue sur l'église Regina Angelorum ([OpenTable](https://www.opentable.ca/landmark/restaurants-near-catedral-primada-de-america))."
+      ],
+      "notes": [
+        "Hébergement : [Casas del XVI sur le guide Michelin](https://guide.michelin.com/ca/fr/hotels-stays/santo-domingo/casas-del-xvi-7926).",
+        "Santé : le virus Zika circule en République dominicaine, comme dans le reste des Caraïbes. Pour une femme enceinte, les autorités sanitaires recommandent de reporter les voyages non essentiels et d'en parler au médecin avant de réserver ([CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/dominican-republic)). Répulsif et manches longues en toutes circonstances (dengue)."
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Zona Colonial & route vers la côte de Barahona",
+      "summary": "Matinée d'architecture dans la première ville européenne des Amériques, déjeuner à la Plaza de España, puis route côtière vers Barahona (environ 3 h 30) pour le coucher du soleil sur la falaise.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Architecture de la Zona Colonial : Catedral Primada (première cathédrale des Amériques), Alcázar de Colón, Fortaleza Ozama, Calle Las Damas (première rue pavée du Nouveau Monde) et Panteón Nacional."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner à Pat'e Palo, sur la Plaza de España, l'une des plus anciennes tables de la ville."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Départ vers 13 h pour Barahona, arrivée vers 16 h 30, avant le coucher du soleil (vers 18 h 15 fin janvier). Dîner à l'hôtel."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Catedral Primada de América",
+          "wiki": "Cathedral of Santo Domingo",
+          "coords": [
+            18.4733,
+            -69.8837
+          ],
+          "culture": "Première cathédrale des Amériques."
+        },
+        {
+          "name": "Alcázar de Colón",
+          "wiki": "Alcázar de Colón",
+          "coords": [
+            18.4781,
+            -69.8829
+          ],
+          "culture": "Palais de Diego Colomb, fils de Christophe Colomb, sur la Plaza de España."
+        },
+        {
+          "name": "Fortaleza Ozama",
+          "coords": [
+            18.4756,
+            -69.883
+          ],
+          "culture": "Plus ancienne forteresse coloniale des Amériques, au bord du fleuve Ozama."
+        },
+        {
+          "name": "Calle Las Damas",
+          "coords": [
+            18.4768,
+            -69.8826
+          ],
+          "culture": "Première rue pavée du Nouveau Monde."
+        },
+        {
+          "name": "Panteón Nacional",
+          "wiki": "National Pantheon of the Dominican Republic",
+          "coords": [
+            18.4743,
+            -69.8838
+          ],
+          "culture": "Ancienne église jésuite devenue le panthéon des héros nationaux."
+        }
+      ],
+      "stay": {
+        "name": "Hotel El Quemaito, Barahona",
+        "coords": [
+          18.115,
+          -71.105
+        ],
+        "note": "Hotel El Quemaito, sur la falaise au sud de Barahona, face à la mer (à confirmer)",
+        "options": [
+          "Platon Ecolodge : écolodge dans la montagne près de Paraíso, le mieux noté de la région, mais accès par une piste",
+          "Casa del Mar Lodge",
+          "Casa Bonita Tropical Lodge : probablement fermé (un avis de mars 2026 décrit des bâtiments démolis)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Santo Domingo → Barahona : environ 3 h 30, départ vers 13 h",
+          "after": 1
+        }
+      ],
+      "food": [
+        "Déjeuner : Pat'e Palo, sur la Plaza de España ([Barceló](https://barcelo.com/pinandtravel/en/where-to-eat-santo-domingo-dominican-republic)). Dîner à l'hôtel."
+      ],
+      "notes": [
+        "Casa Bonita Tropical Lodge, prévu au départ, est probablement fermé : un avis Tripadvisor de mars 2026 décrit des bâtiments démolis ([Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g25429268-d151013-Reviews-Casa_Bonita_Tropical_Lodge-El_Champan_Barahona_Province_Dominican_Republic.html)). El Quemaito et Platon Ecolodge sont les alternatives les mieux notées ([Tripadvisor](https://www.tripadvisor.com/Hotels-g3458429-zff10-Barahona_Province_Dominican_Republic-Hotels.html)) ; vérifier des avis récents avant de réserver."
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Bahía de las Águilas",
+      "summary": "Départ à 5 h 30 vers le sud-ouest, flamants de la Laguna de Oviedo au lever du jour, puis bateau jusqu'à huit kilomètres de plage vierge dans le parc Jaragua : snorkeling, récifs protégés et tortues. Retour à Barahona avant la nuit.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Très tôt",
+          "text": "Départ à 5 h 30 vers Cabo Rojo (environ 2 h 30). Arrêt d'une demi-heure à la Laguna de Oviedo, vers 7 h, à la meilleure lumière pour les flamants roses et les iguanes."
+        },
+        {
+          "label": "Matin et midi",
+          "text": "Bateau de 30 à 45 min depuis Cabo Rojo jusqu'à la Bahía de las Águilas, vers 9 h : 8 km de plage vierge dans le parc Jaragua, avec des récifs protégés et en très bonne santé (poissons, tortues). Snorkeling sans crème solaire. La plage n'a aucun service : emporter eau, pique-nique et ombre."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Retour en bateau vers 14 h, poisson grillé à Cabo Rojo ou à Pedernales, puis départ au plus tard à 15 h 30 pour arriver à Barahona avant la nuit."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Laguna de Oviedo",
+          "coords": [
+            17.82,
+            -71.37
+          ],
+          "culture": "Lagune salée du parc Jaragua, avec flamants roses et iguanes."
+        },
+        {
+          "name": "Bahía de las Águilas",
+          "wiki": "Bahía de las Águilas",
+          "coords": [
+            17.795,
+            -71.65
+          ],
+          "culture": "Environ 8 km de plage vierge, sans construction, dans le parc national Jaragua."
+        }
+      ],
+      "stay": {
+        "name": "Hotel El Quemaito, Barahona",
+        "coords": [
+          18.115,
+          -71.105
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Barahona → Cabo Rojo : environ 2 h 30",
+          "after": -1
+        },
+        {
+          "mode": "boat",
+          "text": "Cabo Rojo → Bahía de las Águilas : 30 à 45 min en bateau, même chose au retour",
+          "after": 0
+        },
+        {
+          "mode": "car",
+          "text": "Cabo Rojo → Barahona : environ 2 h 30",
+          "after": 2
+        }
+      ],
+      "food": [
+        "Pique-nique sur la plage. Poisson grillé à Cabo Rojo ou à Pedernales au retour. Dîner à l'hôtel."
+      ],
+      "notes": [
+        "Voir [Jaragua](https://www.ncl.com/uk/en/shore-excursions/CBR_01/Bahia-De-Las-Aguilas-Beach-Escape-And-Snorkeling) pour l'excursion en bateau.",
+        "Le coucher du soleil est vers 18 h 15 fin janvier : éviter de conduire de nuit sur ces routes, peu éclairées et fréquentées par les motos et les animaux."
+      ],
+      "ideas": [
+        {
+          "label": "Hoyo de Pelempito",
+          "text": "Immense dépression boisée de la Sierra de Bahoruco, au nord de Pedernales. Avec la plage, la journée devient trop longue et le retour se ferait de nuit : à garder seulement si l'on renonce au bateau, ou avec une nuit sur place à Pedernales."
+        },
+        {
+          "label": "Si la mer est trop agitée",
+          "text": "Le lac Enriquillo et l'île Cabritos sont le meilleur remplacement : voir le guide."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Grande traversée vers Las Galeras",
+      "summary": "La plus longue journée de route : plage de Los Patos au lever du jour, boutique de larimar, puis autoroute par Santo Domingo et l'Autopista del Nordeste jusqu'à Las Galeras (6 h 30 à 7 h de conduite).",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Départ à 7 h. Plage de Los Patos, où une rivière glacée se jette dans la mer, puis arrêt dans une boutique de larimar, la pierre bleue qu'on ne trouve que dans cette région. Reprendre la route vers 8 h 30."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner à Santo Domingo vers 12 h."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Autopista del Nordeste (péage) jusqu'à la péninsule de Samaná, arrivée à Las Galeras vers 16 h 30, pour le coucher du soleil. Dîner les pieds dans le sable."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Los Patos",
+          "coords": [
+            17.995,
+            -71.19
+          ],
+          "culture": "Plage où une rivière glacée se jette dans la mer."
+        },
+        {
+          "name": "Boutique de larimar",
+          "wiki": "Larimar",
+          "coords": [
+            18.15,
+            -71.15
+          ],
+          "culture": "Le larimar, pierre bleue, ne se trouve que dans cette région de Barahona."
+        },
+        {
+          "name": "Las Galeras",
+          "wiki": "Las Galeras",
+          "coords": [
+            19.2933,
+            -69.204
+          ],
+          "culture": "Village tranquille à l'extrémité est de la péninsule de Samaná, au bout de la route, avec ses plages sauvages."
+        }
+      ],
+      "stay": {
+        "name": "Las Galeras (péninsule de Samaná)",
+        "coords": [
+          19.29,
+          -69.207
+        ],
+        "note": "Nuit à Las Galeras, sur la plage",
+        "options": [
+          "TODOBLANCO (sur la plage, plage privée)",
+          "Villa Serena"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Barahona → Santo Domingo : environ 3 h",
+          "after": 0
+        },
+        {
+          "mode": "car",
+          "text": "Santo Domingo → Las Galeras : environ 3 h, par l'Autopista del Nordeste",
+          "after": 1
+        }
+      ],
+      "food": [
+        "Déjeuner sur la route à Santo Domingo. Dîner les pieds dans le sable à Las Galeras."
+      ],
+      "notes": [
+        "Hébergement : [Booking, Samaná](https://m.booking.com/reviews/region/samana-and-vicinity.en-gb.html) et [Fodor's](https://www.fodors.com/world/caribbean/dominican-republic/samana-peninsula/places/las-terrenas/hotels).",
+        "C'est la journée la plus lourde du voyage : avec 3 nuits de plus (arrivée le samedi 16), mieux vaut la couper par une nuit à Santo Domingo."
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Playa Frontón, Playa Madama et Playa Rincón",
+      "summary": "Journée en bateau privé depuis Las Galeras : le meilleur snorkeling de Samaná à Playa Frontón, la crique cachée de Playa Madama, puis trois kilomètres de sable blanc à Playa Rincón.",
+      "route": "none",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Bateau privé depuis Las Galeras (à négocier la veille sur la plage). Playa Frontón : falaises, eau cristalline, meilleur snorkeling de Samaná, accessible seulement en bateau ou après 1 h de marche."
+        },
+        {
+          "label": "Midi",
+          "text": "Playa Madama, petite crique cachée."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Playa Rincón : 3 km de sable blanc et de cocotiers, régulièrement classée parmi les plus belles plages des Caraïbes, avec la rivière Caño Frío à l'extrémité ouest. Langouste ou poisson grillé dans les cabanes de la plage."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Playa Frontón",
+          "coords": [
+            19.3093,
+            -69.1823
+          ],
+          "culture": "Falaises et eau cristalline, avec le meilleur snorkeling de Samaná ; accessible seulement en bateau ou après 1 h de marche.",
+          "photo": "File:Playa Frontón December 2020.jpg"
+        },
+        {
+          "name": "Playa Madama",
+          "coords": [
+            19.3015,
+            -69.185
+          ],
+          "culture": "Petite crique cachée, accessible en bateau."
+        },
+        {
+          "name": "Playa Rincón",
+          "coords": [
+            19.267,
+            -69.146
+          ],
+          "culture": "Trois kilomètres de sable blanc et de cocotiers, avec la rivière Caño Frío à l'extrémité ouest.",
+          "photo": "File:Playa Rincón December 2020 2.jpg"
+        }
+      ],
+      "stay": {
+        "name": "Las Galeras (péninsule de Samaná)",
+        "coords": [
+          19.29,
+          -69.207
+        ],
+        "note": "Las Galeras (2e nuit)"
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Bateau privé depuis Las Galeras, à négocier la veille sur la plage",
+          "after": -1
+        }
+      ],
+      "food": [
+        "Langouste ou poisson grillé dans les cabanes de Playa Rincón."
+      ],
+      "notes": [
+        "Hébergement : [Lonely Planet](https://www.lonelyplanet.com/dominican-republic/peninsula-de-samana/hotels)."
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Baleines, Los Haitises et Las Terrenas",
+      "summary": "Matin avec les baleines à bosse dans la baie de Samaná, après-midi dans le parc national de Los Haitises (îlots karstiques, mangroves, grottes taïnos), puis nuit à Las Terrenas.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Port de Samaná vers 8 h 30 pour les baleines à bosse dans la baie. Réserver tôt, car le week-end est la période la plus demandée, et choisir une sortie sans arrêt à Cayo Levantado. Le plus simple est une sortie qui enchaîne baleines et Los Haitises, ou un bateau privé qui part tôt pour rentrer vers 16 h."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Los Haitises : traversée de la baie, îlots karstiques couverts de forêt, mangroves rouges, grottes ornées de pictogrammes taïnos vieux de 750 ans, îlot aux pélicans."
+        },
+        {
+          "label": "Soir",
+          "text": "Route vers Las Terrenas, à faire de jour si possible, puis dîner au Pueblo de los Pescadores, avec ses restaurants de poisson sur pilotis aux influences française et italienne."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Baie de Samaná (baleines)",
+          "wiki": "Humpback whale",
+          "coords": [
+            19.2,
+            -69.3336
+          ],
+          "culture": "Un des meilleurs sites d'observation de baleines à bosse au monde, avec un sanctuaire fermé aux bateaux non autorisés."
+        },
+        {
+          "name": "Parc national de Los Haitises",
+          "wiki": "Los Haitises National Park",
+          "coords": [
+            19.017,
+            -69.47
+          ],
+          "culture": "Environ 600 km² de pitons karstiques, de mangroves et de grottes ornées d'art rupestre taïno."
+        },
+        {
+          "name": "Pueblo de los Pescadores, Las Terrenas",
+          "coords": [
+            19.3167,
+            -69.54
+          ],
+          "culture": "Restaurants de poisson sur pilotis à Las Terrenas, avec des influences françaises et italiennes."
+        }
+      ],
+      "stay": {
+        "name": "Las Terrenas",
+        "coords": [
+          19.317,
+          -69.534
+        ],
+        "note": "Nuit à Las Terrenas",
+        "options": [
+          "Mahona Boutique Hotel (9,3/10)",
+          "Sublime Samaná"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Las Galeras → port de Samaná : environ 45 min",
+          "after": -1
+        },
+        {
+          "mode": "boat",
+          "text": "Traversée de la baie vers Los Haitises",
+          "after": 0
+        },
+        {
+          "mode": "car",
+          "text": "Samaná → Las Terrenas : environ 45 min",
+          "after": 1
+        }
+      ],
+      "food": [
+        "Dîner au Pueblo de los Pescadores à Las Terrenas."
+      ],
+      "notes": [
+        "La saison des baleines 2026 s'est déroulée du 15 janvier au 31 mars. Les dates 2027 ne sont pas encore annoncées par le ministère. Le 24 janvier tombe en tout début de saison : les baleines sont là, mais moins nombreuses qu'en février.",
+        "Sources : [saison 2026](https://dominicantoday.com/?p=252102), [dates 2027](https://www.riotimesonline.com/samana-whale-watching-dominican-republic-2026/), [Los Haitises](https://www.travelocity.com/es/things-to-do/m.a47810562.detalles-actividades), [hôtels](https://www.booking.com/region/do/samana-and-vicinity.html?inac=0).",
+        "Plusieurs opérateurs enchaînent baleines et Los Haitises dans la journée, avec un retour au port de Samaná vers 17 h 30 à 18 h ([Exploras](https://www.exploras.do/blog/los-haitises-samana-bay-combo-tours-included-booking-tips-2026), [GetYourGuide](https://www.getyourguide.com/samana-l145033/)). Dans ce cas, les 45 min jusqu'à Las Terrenas se font de nuit."
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Las Terrenas & départ",
+      "summary": "Selon l'heure du vol : baignade à l'aube à Playa Cosón ou à la cascade de Salto El Limón, puis route vers l'aéroport de Santo Domingo (environ 2 h 30, avec 3 h 30 de marge avant le vol).",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Petit-déjeuner à l'hôtel, puis selon l'heure du vol : baignade à l'aube à Playa Cosón (sauvage, cocotiers) ou Salto El Limón (cascade de 40 m, environ 1 h de marche, départ à 8 h ; le trajet existe aussi à cheval, à éviter en cas de grossesse)."
+        },
+        {
+          "label": "Départ",
+          "text": "Route vers l'aéroport de Santo Domingo, en prévoyant une marge de 3 h 30 avant le vol."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Playa Cosón",
+          "coords": [
+            19.335,
+            -69.57
+          ],
+          "culture": "Longue plage sauvage bordée de cocotiers, à côté de Las Terrenas.",
+          "photo": "File:DOM Las Terrenas, Playa Cosón 0022.jpg"
+        },
+        {
+          "name": "Salto El Limón",
+          "coords": [
+            19.287,
+            -69.418
+          ],
+          "culture": "Cascade de 40 m dans la jungle, à 1 h de marche ou à cheval.",
+          "photo": "File:DOM Santa Bárbara de Samaná, El Limón, Monumento Natural Salto El Limón 0014.jpg"
+        },
+        {
+          "name": "Aéroport de Santo Domingo (SDQ)",
+          "wiki": "Las Américas International Airport"
+        }
+      ],
+      "end": "Vol retour depuis Santo Domingo (SDQ)",
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Las Terrenas → aéroport SDQ : environ 2 h 30, avec 3 h 30 de marge avant le vol",
+          "after": 0
+        }
+      ],
+      "notes": [
+        "Si le vol est le matin, mieux vaut dormir le dimanche près de Santo Domingo."
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "avis",
+      "title": "Notre avis sur l'itinéraire",
+      "summary": "Points forts, points faibles, ce qui a été corrigé et deux variantes.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Points forts"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Un itinéraire qui évite presque tout le tourisme de masse (Punta Cana, Saona) sans renoncer aux plus beaux sites : la Zona Colonial, la Bahía de las Águilas, les plages de Samaná et Los Haitises.",
+            "Les deux régions les plus sauvages du pays, le sud-ouest et la péninsule de Samaná, très différentes l'une de l'autre.",
+            "La date tombe au début de la saison des baleines, qui commence vers le 15 janvier."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Points faibles"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Beaucoup de route pour 6 nuits : environ 20 h de conduite au total, dont 15 h pour les trois jours du sud-ouest (jours 2 à 4). La Bahía de las Águilas coûte à elle seule environ 12 h de voiture aller-retour depuis Santo Domingo.",
+            "Le jour 4 est très long : 6 h 30 à 7 h de conduite, plus les arrêts.",
+            "Le lodge prévu à Barahona, Casa Bonita, est probablement fermé.",
+            "Le jour 3 prévoyait aussi le Hoyo de Pelempito : avec la plage, le retour se serait fait de nuit.",
+            "Les sorties en mer (Bahía de las Águilas, baleines, Los Haitises) dépendent de la houle et peuvent être annulées.",
+            "Les dates (19 au 25 janvier 2027) recouvrent celles du voyage en Californie (20 au 30 janvier) : c'est l'un ou l'autre."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "En cas de grossesse"
+        },
+        {
+          "type": "text",
+          "text": "C'est le point le plus important. Le virus Zika circule en République dominicaine, et les autorités sanitaires recommandent aux femmes enceintes de reporter les voyages non essentiels vers les zones à risque ; les sources ne s'accordent pas sur l'existence d'une alerte active, donc il faut en parler au médecin avant de réserver ([CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/dominican-republic), [Travel Doctor](https://www.traveldoctor.network/country/dominican-republic/risk/zika-virus/)). S'y ajoutent les longues journées de route, les bateaux rapides sur une mer parfois formée, l'accès au Salto El Limón à cheval, et des soins éloignés dans le sud-ouest. Dans ce cas, le voyage en Californie est le choix le plus simple."
+        },
+        {
+          "type": "heading",
+          "text": "Ce qui a été corrigé"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Nuits à Barahona : Hotel El Quemaito à la place de Casa Bonita, avec Platon Ecolodge et Casa del Mar Lodge en alternatives.",
+            "Jour 3 : le Hoyo de Pelempito passe en idée, avec un horaire qui permet de rentrer avant la nuit ; pique-nique et eau à prévoir, car la plage n'a aucun service.",
+            "Jour 4 : horaires réalistes, avec les deux tronçons de route (Barahona → Santo Domingo, Santo Domingo → Las Galeras).",
+            "Jour 6 : une seule sortie qui enchaîne baleines et Los Haitises, sans arrêt à Cayo Levantado, et un départ tôt pour éviter la route de nuit.",
+            "Jour 7 : Salto El Limón à pied plutôt qu'à cheval."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Variante avec 3 nuits de plus (arrivée le samedi 16)"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Une nuit à Santo Domingo entre Barahona et Samaná, pour couper le jour 4 en deux et faire la Zona Colonial à ce moment-là.",
+            "Une troisième nuit à Barahona pour le lac Enriquillo ou le Hoyo de Pelempito.",
+            "Une nuit de plus à Las Terrenas pour Playa Cosón, Playa El Valle et le Salto El Limón sans se presser."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Variante sans le sud-ouest (6 nuits)"
+        },
+        {
+          "type": "text",
+          "text": "Une nuit à Santo Domingo, trois à Las Galeras et deux à Las Terrenas : environ 8 h de route au total au lieu de 20, et plus de temps sur les plages de Samaná, mais sans la Bahía de las Águilas, qui est le site le plus fort du voyage. Les sources : [Rome2rio](https://www.rome2rio.com/s/Bah%C3%ADa-de-Las-Aguilas/Las-Galeras), [Las Galeras](https://dominicanrepublic365.com/destinations/las-galeras)."
+        }
+      ]
+    },
+    {
+      "id": "top-republique-dominicaine",
+      "title": "Le top de la République dominicaine : retenu et écarté",
+      "summary": "Les sites forts du pays, ceux de l'itinéraire et ceux écartés avec leur fréquentation, leur raison et un tableau des gros spots touristiques.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Le pays a reçu 11,68 millions de visiteurs en 2025. La province de Punta Cana–Bávaro concentre 57,7 % des chambres d'hôtel du pays, et l'aéroport de Punta Cana reçoit environ la moitié des arrivées aériennes. Tout ce qui est accessible en excursion d'une journée depuis les resorts est donc très fréquenté. Pour chaque lieu, « retenu » signifie qu'il est dans l'itinéraire, et « écarté » vient avec l'ampleur de la fréquentation et la raison."
+        },
+        {
+          "type": "heading",
+          "text": "Nature et paysages"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Retenu : parc national de Los Haitises. Environ 600 km² de pitons karstiques, de mangroves et de grottes ornées d'art rupestre taïno. Le paysage le plus singulier du pays, peu fréquenté car éloigné de Punta Cana.",
+            "Retenu : parc Jaragua et Bahía de las Águilas. La côte la plus sauvage du pays : environ 52 700 visiteurs en 2024, soit 15 fois moins que Saona.",
+            "Retenu : baleines à bosse de Samaná, l'un des meilleurs sites d'observation au monde.",
+            "Retenu : Laguna de Oviedo (flamants roses et iguanes) et Salto El Limón (cascade de 40 m).",
+            "Écarté : lac Enriquillo et île Cabritos. Point le plus bas des Caraïbes (environ −40 m), lac hypersalé avec crocodiles américains et iguanes rhinocéros ; très confidentiel, mais il faut une demi-journée dans une autre direction. C'est le meilleur remplacement si Bahía de las Águilas est annulée pour cause de mer agitée.",
+            "Écarté : Silver Bank. Le seul endroit au monde où l'on peut nager légalement avec les baleines à bosse, en snorkeling (environ 61 500 visiteurs en 2024, avec le banc de La Navidad). Cela se fait uniquement en croisière d'une semaine depuis Puerto Plata, ce qui est incompatible avec ce format ; à garder pour un futur voyage.",
+            "Écarté : Constanza et Valle Nuevo. Les « Alpes caribéennes » à 1 200–2 500 m, avec gel possible en janvier, et le Salto Aguas Blancas (environ 80 m). Il faut 2 jours dans le centre du pays, sans plage.",
+            "Écarté : Pico Duarte et Jarabacoa. Plus haut sommet des Caraïbes (3 098 m), rafting et cascades ; 2 à 3 jours de trek.",
+            "Écarté : Cueva Fun Fun (spéléologie en rappel, trop loin et sportive) et Ojos Indígenas (cénotes du parc écologique de Punta Cana, dans la zone des resorts)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Plages"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Retenu : Bahía de las Águilas (8 km de sable blanc sans construction), Playa Rincón (3 km de cocotiers et la rivière Caño Frío), Playa Frontón (falaises et récif, en bateau ou à pied), Playa Madama (petite crique), Playa Cosón (sauvage) et Playa Los Patos (une rivière glacée se jette dans la mer).",
+            "Écarté : Playa El Valle (Samaná), encaissée entre des collines de jungle avec de grosses vagues ; par manque de temps, remplaçable par Cosón.",
+            "Écarté : Playa Ermitaño et Playa Grande (Río San Juan), très belles mais sur la côte nord.",
+            "Écarté : Playa Esmeralda (Miches). C'était la plage vierge emblématique de l'est, mais des resorts géants y ouvrent depuis 2024 : elle est en train de devenir un « nouveau Punta Cana »."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Snorkeling"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Retenu : Bahía de las Águilas / Cabo Rojo (récifs protégés, tortues, parfois des lamantins) et Playa Frontón, le meilleur de Samaná.",
+            "Écarté : Cayo Arena (Monte Cristi), îlot de sable posé sur un récif, à l'extrême nord-ouest, à environ 5 h de route de tout le reste.",
+            "Écarté : Isla Catalina, bon tombant récifal (environ 119 000 visiteurs en 2024), surtout alimenté par les resorts de La Romana et les croisières.",
+            "Écarté : Bayahibe, bon village de plongée, mais port de départ des excursions vers Saona avec un flux très dense le matin."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Architecture et patrimoine"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Retenu : Ciudad Colonial de Santo Domingo (UNESCO), première ville européenne des Amériques : Catedral Primada, Alcázar de Colón, Fortaleza Ozama, Calle Las Damas. Selon une enquête du ministère du Tourisme, parmi les touristes sortant de leur hôtel, 18 % allaient à Saona et seulement 8 % visitaient la Ciudad Colonial : elle est fréquentée, mais pas saturée.",
+            "Retenu : art rupestre taïno de Los Haitises et larimar de Barahona, pierre bleue qu'on ne trouve qu'à cet endroit.",
+            "Écarté : basilique de Higüey. Arche de béton de 80 m conçue par deux architectes français (1971), un chef-d'œuvre moderniste, mais à l'est, près de Punta Cana.",
+            "Écarté : Centro León (Santiago). Le meilleur musée du pays, dans la région des cigares, au nord.",
+            "Écarté : Puerto Plata victorien. Maisons « gingerbread » colorées et téléphérique jusqu'au Pico Isabel de Torres, sur la côte nord, envahi par les croisiéristes certains jours.",
+            "Écarté : Faro a Colón, gigantesque mausolée en béton, intéressant surtout comme curiosité politique.",
+            "Écarté : Altos de Chavón. Faux village méditerranéen du XVIe siècle construit en 1976 dans le complexe Casa de Campo : artificiel et très touristique.",
+            "Écarté : Los Tres Ojos (Santo Domingo). Grottes à lacs souterrains, environ 279 000 visiteurs en 2024, joli mais court et bondé ; à faire seulement avec 1 h de libre à Santo Domingo."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Gastronomie"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Retenu : Santo Domingo (Pat'e Palo, Maraca, Lulú Tasting Bar, et El Mesón de la Cava, installé dans une grotte naturelle) et Las Terrenas, avec sa forte présence française et italienne.",
+            "À goûter : sancocho, mofongo, langouste et poisson grillés de Samaná, pescado con coco (spécialité de Samaná), et les rhums vieux comme Barceló Imperial ou Brugal 1888.",
+            "Écarté : route du cacao (San Francisco de Macorís) et route du cigare (Tamboril, Santiago), dans le centre et le nord."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Les gros spots touristiques écartés"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Spot",
+            "Ampleur",
+            "Pourquoi écarté"
+          ],
+          "rows": [
+            [
+              "Punta Cana / Bávaro / Cap Cana",
+              "Énorme : l'aéroport reçoit environ 50 à 60 % des arrivées aériennes du pays",
+              "Tout-inclus, bracelets, plages privatisées"
+            ],
+            [
+              "Isla Saona",
+              "Énorme : environ 808 000 visiteurs en 2024 dans son parc, soit environ 2 200 par jour en moyenne ; site naturel n° 1 des étrangers",
+              "La plupart des visiteurs sont acheminés depuis les resorts, avec un format catamaran, rhum et musique. Bahía de las Águilas offre le même décor sans la foule"
+            ],
+            [
+              "Hoyo Azul / Scape Park (Cap Cana)",
+              "Fort",
+              "Cénote réel, mais intégré à un parc d'attractions payant de resort"
+            ],
+            [
+              "27 Charcos de Damajagua",
+              "Fort : environ 211 000 visiteurs en 2024, dont 35 % de croisiéristes",
+              "Superbe et sportif, mais au nord et saturé les jours d'escale ; à recommander pour un voyage sur la côte nord"
+            ],
+            [
+              "Laguna Gri-Gri",
+              "Moyen : environ 289 000 visiteurs, presque tous dominicains",
+              "Agréable mais pas spectaculaire, côte nord"
+            ],
+            [
+              "Cayo Levantado",
+              "Moyen",
+              "Îlot de la baie de Samaná partagé entre un resort tout-inclus et une plage publique qui accueille les excursions de baleines ; évité volontairement"
+            ],
+            [
+              "Montaña Redonda (Miches)",
+              "Moyen, en hausse avec Instagram",
+              "Balançoires et vue à 360°, devenu un spot photo à la chaîne"
+            ],
+            [
+              "Isla Catalina / Bayahibe",
+              "Moyen : environ 119 000 visiteurs à Catalina",
+              "Bon snorkeling, mais tourné vers les excursions des resorts du sud-est"
+            ],
+            [
+              "Sosúa / Cabarete",
+              "Moyen",
+              "Cabarete est un excellent spot de kitesurf et Sosúa a une image de tourisme festif ; hors de l'axe"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "En résumé, cet itinéraire coche 8 des 10 sites les plus forts du pays pour ce profil. Les deux grands absents, le Silver Bank et Constanza / Valle Nuevo, demandent chacun un voyage à eux seuls."
+        },
+        {
+          "type": "heading",
+          "text": "Sources"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[Visites des aires protégées 2024, Dominican Today](https://dominicantoday.com/?p=243301)",
+            "[Saona et enquête du ministère du Tourisme, Acento](https://acento.com.do/opinion/saona-una-cimbreante-mulata-tropical-9547084.html)",
+            "[Isla Saona, Lonely Planet](https://www.lonelyplanet.com/pois/1411165)",
+            "[Économie du tourisme 2026, Rio Times](https://www.riotimesonline.com/dominican-republic-tourism-economy-2026/)",
+            "[Los Haitises, Meliá](https://www.melia.com/en/blog/travel/what-to-see-parque-nacional-los-haitises)",
+            "[Baleines de Samaná, Barceló](https://barcelo.com/pinandtravel/en/dominican-republic-whale-watching-guide)"
+          ]
+        }
+      ]
+    }
+  ],
+  "start": "2027-01-19",
+  "done": false,
+  "season": "Janvier",
+  "kind": "short"
+}
