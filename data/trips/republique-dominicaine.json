@@ -568,7 +568,7 @@
         },
         {
           "type": "text",
-          "text": "C'est le point le plus important. Le virus Zika circule en République dominicaine, et les autorités sanitaires recommandent aux femmes enceintes de reporter les voyages non essentiels vers les zones à risque ; les sources ne s'accordent pas sur l'existence d'une alerte active, donc il faut en parler au médecin avant de réserver ([CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/dominican-republic), [Travel Doctor](https://www.traveldoctor.network/country/dominican-republic/risk/zika-virus/)). S'y ajoutent les longues journées de route, les bateaux rapides sur une mer parfois formée, l'accès au Salto El Limón à cheval, et des soins éloignés dans le sud-ouest. Dans ce cas, le voyage en Californie est le choix le plus simple."
+          "text": "C'est le point le plus important. Le virus Zika circule en République dominicaine, et les autorités sanitaires recommandent aux femmes enceintes de reporter les voyages non essentiels vers les zones à risque ; les sources ne s'accordent pas sur l'existence d'une alerte active, donc il faut en parler au médecin avant de réserver ([CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/dominican-republic), [Travel Doctor](https://www.traveldoctor.network/country/dominican-republic/risk/zika-virus/)). S'y ajoutent les longues journées de route, les bateaux rapides sur une mer parfois formée, l'accès au Salto El Limón à cheval, et des soins éloignés dans le sud-ouest. Dans ce cas, le voyage en Californie est le choix le plus simple. Le détail, avec la comparaison des autres îles, est dans le guide « Santé et grossesse »."
         },
         {
           "type": "heading",
@@ -603,6 +603,206 @@
         {
           "type": "text",
           "text": "Une nuit à Santo Domingo, trois à Las Galeras et deux à Las Terrenas : environ 8 h de route au total au lieu de 20, et plus de temps sur les plages de Samaná, mais sans la Bahía de las Águilas, qui est le site le plus fort du voyage. Les sources : [Rome2rio](https://www.rome2rio.com/s/Bah%C3%ADa-de-Las-Aguilas/Las-Galeras), [Las Galeras](https://dominicanrepublic365.com/destinations/las-galeras)."
+        }
+      ]
+    },
+    {
+      "id": "sante-grossesse",
+      "title": "Santé et grossesse : les risques et les autres îles",
+      "summary": "Zika, dengue, paludisme, soins : ce que cela implique pour une grossesse, et quelles îles des Caraïbes ont le meilleur équilibre. Point fait en novembre 2026.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Point fait en novembre 2026 à partir des sources officielles (CDC, Institut Pasteur, France Diplomatie, TravelHealthPro) et des données de surveillance. Ce n'est pas un avis médical : la décision se prend avec l'obstétricien ou la sage-femme, ce comparatif en main."
+        },
+        {
+          "type": "heading",
+          "text": "République dominicaine : les risques un par un"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Risque",
+            "Situation",
+            "Ce que ça implique"
+          ],
+          "rows": [
+            [
+              "Zika",
+              "Le pays reste dans le groupe à risque de la liste britannique TravelHealthPro (mise à jour le 4 novembre 2026). Pas d'épidémie en cours selon la dernière classification du CDC (2024), et aucune alerte Zika du CDC aujourd'hui.",
+              "Le CDC demande d'en parler au médecin avant de partir et d'éviter les piqûres. Le partenaire doit utiliser des préservatifs, ou s'abstenir, pendant tout le reste de la grossesse."
+            ],
+            [
+              "Dengue",
+              "France Diplomatie (15 octobre 2026) signale une recrudescence, notamment dans le district de Saint-Domingue et dans celui de Barahona : deux étapes du voyage. Environ 400 cas confirmés dans le pays à la semaine 39.",
+              "La dengue est plus souvent grave pendant la grossesse. Le vaccin est contre-indiqué chez la femme enceinte."
+            ],
+            [
+              "Paludisme",
+              "Les sources se contredisent. Le CDC cite les provinces d'Azua, Elías Piña, La Altagracia, San Juan et Santo Domingo (zones d'hôtels comprises) et y recommande un traitement préventif. Pasteur ne recommande pas de traitement pour un voyage classique. France Diplomatie dit qu'il n'y a aucun risque dans la ville de Saint-Domingue.",
+              "La route des jours 2 et 4 traverse Azua. Pendant la grossesse, les traitements préventifs possibles sont limités (la doxycycline est contre-indiquée) : à décider avec le médecin."
+            ],
+            [
+              "Oropouche et chikungunya",
+              "France Diplomatie demande aux femmes enceintes de consulter avant le départ, car l'Oropouche se transmettrait au fœtus. Pas de chiffre récent trouvé pour le pays ; le foyer régional est Cuba.",
+              "Le vaccin chikungunya n'est pas recommandé pendant la grossesse."
+            ],
+            [
+              "Soins",
+              "La plupart des hôpitaux publics ne peuvent pas prendre en charge une urgence. Le privé exige une avance ou une preuve d'assurance. Aucune convention de sécurité sociale avec la France.",
+              "Barahona et Cabo Rojo sont à 3 à 6 h des cliniques de Saint-Domingue. Il faut une assurance qui couvre les complications de grossesse et le rapatriement."
+            ],
+            [
+              "Le voyage lui-même",
+              "Environ 20 h de route en 6 nuits, sur des routes dangereuses. Des bateaux rapides en mer ouverte. Deux longs vols la même semaine (Paris → Saint-Domingue, puis Saint-Domingue → San Francisco avec une escale).",
+              "Fatigue, chocs sur les bateaux, risque de phlébite pendant les vols."
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Verdict : aucun point n'est rédhibitoire seul, mais l'addition est lourde. Le niveau Zika est plus élevé que celui d'autres îles, la dengue progresse dans deux étapes du voyage, et le sud-ouest est loin de tout soin. La version la moins risquée serait sans le sud-ouest (une nuit à Saint-Domingue et cinq à Samaná), mais elle ne change rien aux risques liés aux moustiques."
+        },
+        {
+          "type": "heading",
+          "text": "Comparaison des îles des Caraïbes"
+        },
+        {
+          "type": "text",
+          "text": "Le niveau Zika vient de la liste britannique TravelHealthPro : le tableau du site porte la date de juillet 2024, la page a été mise à jour le 4 novembre 2026. Les chiffres de dengue 2026 sont des estimations du Global Dengue Observatory (au 4 novembre 2026) ou des autorités locales."
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Île",
+            "Zika",
+            "Dengue en 2026",
+            "Paludisme",
+            "Soins",
+            "Vers San Francisco",
+            "Pour nous"
+          ],
+          "rows": [
+            [
+              "République dominicaine",
+              "Groupe à risque",
+              "Recrudescence à Saint-Domingue et Barahona",
+              "Zones à risque selon le CDC",
+              "Faibles hors du privé de Saint-Domingue",
+              "Facile (nombreux vols vers les États-Unis)",
+              "Le plus beau programme, mais le plus de risques"
+            ],
+            [
+              "Curaçao",
+              "Risque très faible",
+              "Cas isolés (Aruba, Bonaire et Curaçao jusqu'à la semaine 31)",
+              "Aucun",
+              "Hôpital moderne",
+              "Via Miami ou une autre grande ville américaine ; depuis Paris via Amsterdam (KLM)",
+              "Île sèche, centre historique de Willemstad classé à l'UNESCO, plages et snorkeling avec les tortues, parc Christoffel, peu de route"
+            ],
+            [
+              "Îles Caïmans",
+              "Risque très faible",
+              "Aucun cas en 2026 selon la santé publique locale",
+              "Aucun",
+              "Bons hôpitaux privés",
+              "Miami à environ 1 h",
+              "Plages et fonds marins superbes, lutte anti-moustiques très active, mais île plate, chère et assez balnéaire"
+            ],
+            [
+              "Îles Vierges américaines (St John)",
+              "Risque très faible",
+              "Épidémie en 2024 et 2025 (263 cas, un décès) ; pas de chiffre 2026",
+              "Aucun",
+              "Normes américaines, structures petites",
+              "Vols directs vers plusieurs grandes villes américaines",
+              "La plus belle nature des trois (parc national sur environ 60 % de l'île), mais la dengue récente est à vérifier"
+            ],
+            [
+              "Bonaire",
+              "Groupe à risque",
+              "Cas isolés",
+              "Aucun",
+              "Petite structure",
+              "Via Amsterdam ou les États-Unis",
+              "Le meilleur snorkeling depuis la plage, île sèche et calme"
+            ],
+            [
+              "Aruba",
+              "Groupe à risque",
+              "Environ 15 cas, faible et stable",
+              "Aucun",
+              "Correcte",
+              "Nombreux vols vers les États-Unis",
+              "Île sèche, mais très touristique"
+            ],
+            [
+              "Guadeloupe, Martinique",
+              "Risque très faible",
+              "Cas isolés en Guadeloupe, foyers en Martinique (septembre 2026)",
+              "Aucun",
+              "Système français, carte Vitale",
+              "Via Miami",
+              "Écartées : îles françaises"
+            ],
+            [
+              "Porto Rico, Cuba",
+              "Groupe à risque",
+              "Porto Rico : environ 970 cas ; Cuba : dengue, chikungunya et Oropouche",
+              "Aucun",
+              "Variable",
+              "—",
+              "À éviter"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Notre classement hors îles françaises"
+        },
+        {
+          "type": "list",
+          "items": [
+            "1. Curaçao : le meilleur équilibre. Risque Zika très faible, dengue sporadique, île sèche avec moins de moustiques, pas de paludisme, un hôpital moderne, et un programme qui mêle architecture (Willemstad), nature et snorkeling, avec peu de route.",
+            "2. Grand Cayman : les risques les plus bas (aucune dengue en 2026, Zika très faible) et le trajet le plus simple vers San Francisco, mais moins de charme et de nature, et des prix élevés.",
+            "3. St John (îles Vierges américaines) : la plus belle nature, mais l'épidémie de dengue de 2024-2025 impose de vérifier la situation de 2026 avant de réserver."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Précautions, quelle que soit l'île"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Consultation avant le départ avec l'obstétricien ou un centre de vaccinations internationales.",
+            "Répulsif adapté à la grossesse (à faire conseiller par le pharmacien), vêtements longs et clairs le soir, chambres climatisées ou moustiquaire.",
+            "Dans une zone à risque Zika : préservatifs ou abstinence pendant tout le reste de la grossesse, selon le CDC.",
+            "Toute fièvre pendant le séjour ou dans les 3 mois qui suivent le retour impose de consulter sans délai (Institut Pasteur).",
+            "Assurance qui couvre les complications de grossesse et le rapatriement.",
+            "Bas de contention, marche et hydratation pendant les vols ; eau en bouteille, aliments cuits, pas de poisson cru ni de lait cru."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Sources"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[CDC, République dominicaine](https://wwwnc.cdc.gov/travel/destinations/traveler/none/dominican-republic) et [CDC, Zika (archive 2024)](https://wwwnc.cdc.gov/travel/page/zika-information)",
+            "[TravelHealthPro, niveaux de risque Zika](https://travelhealthpro.org.uk/factsheets/zika-virus-evaluating-the-risk-to-individual-travellers)",
+            "[France Diplomatie, santé en République dominicaine](https://www.diplomatie.gouv.fr/fr/information-par-pays/republique-dominicaine/conseils-aux-voyageurs-sante)",
+            "[Institut Pasteur, République dominicaine](https://www.pasteur.fr/fr/votre-sante/voyages-et-sante/recommandations-sanitaires-par-pays/republique-dominicaine) et [FAQ Zika et grossesse](https://www.pasteur.fr/fr/faq/je-suis-enceinte-ou-je-projette-etre-puis-je-partir-voyage-pays-epidemique-virus-zika)",
+            "[Dominican Today, dengue et paludisme 2026](https://dominicantoday.com/dominican-republic-reports-338-dengue-and-137-malaria-cases-so-far-in-2026/) et [Global Risk Atlas, dengue semaine 39](https://globalriskatlas.com/en/dominican-republic-396-confirmed-dengue-cases-in-the-first-39-epidemiological-weeks-of-2026/)",
+            "[Global Dengue Observatory, Caraïbes](https://globaldengueobservatory.org/pages/caribbean.html)",
+            "[LCR, dengue dans les îles néerlandaises](https://lcr.nl/berichten/8648)",
+            "[Cayman Compass, octobre 2026](https://www.caymancompass.com/2026/10/10/mosquito-numbers-falling-in-cayman/)",
+            "[VI Consortium, dengue aux îles Vierges américaines](https://viconsortium.com/vi-health/virgin-islands-cdc-reveals-263-dengue-cases--first-usvi-death-since-2005-and-testing-delays-of-up-to-two-months)",
+            "[Dengue Visual Atlas, Porto Rico 2026](https://denguevisualatlas.com/en/922-cases-of-dengue-in-puerto-rico-in-2026/) et [OPS, chikungunya à Cuba](https://www.paho.org/sites/default/files/2026/04/phsa-cuba-revised-033126.pdf)",
+            "[no-bites.com, dengue aux Antilles](https://no-bites.com/mosquitoes-in-martinique-and-guadeloupe)"
+          ]
         }
       ]
     },
