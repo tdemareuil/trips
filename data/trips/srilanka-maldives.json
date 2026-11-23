@@ -9,27 +9,8 @@
   "days": [
     {
       "n": 1,
-      "title": "Paris ➔ Colombo",
-      "summary": "Vol vers Colombo, avec une escale éventuelle au Moyen-Orient.",
-      "hero": "Colombo",
-      "route": "none",
-      "stops": [],
-      "stay": {
-        "name": "Colombo",
-        "wiki": "Colombo",
-        "note": "Nuit dans l'avion ou à l'hôtel"
-      },
-      "transport": [
-        {
-          "mode": "flight",
-          "text": "Paris → Colombo, avec une escale éventuelle au Moyen-Orient"
-        }
-      ]
-    },
-    {
-      "n": 2,
       "title": "Colombo ➔ Sigiriya",
-      "summary": "Visite courte de Colombo, puis route vers Sigiriya.",
+      "summary": "Arrivée à Colombo le matin, après un vol de nuit au départ de Paris la veille au soir. Visite courte de Colombo, puis route vers Sigiriya.",
       "route": "none",
       "stops": [
         {
@@ -93,6 +74,11 @@
       },
       "transport": [
         {
+          "mode": "flight",
+          "text": "Paris → Colombo, avec une escale éventuelle au Moyen-Orient",
+          "after": -1
+        },
+        {
           "mode": "car",
           "text": "Colombo → Sigiriya : ~3 h, chauffeur ou taxi"
         }
@@ -102,7 +88,7 @@
       ]
     },
     {
-      "n": 3,
+      "n": 2,
       "title": "Sigiriya et Dambulla",
       "summary": "Vue sur le Rocher du Lion depuis Pidurangala Rock, puis Dambulla : marché local, temple d'or et temple de la roche, aux grottes ornées de fresques bouddhistes.",
       "route": "none",
@@ -169,7 +155,7 @@
       ]
     },
     {
-      "n": 4,
+      "n": 3,
       "title": "Sigiriya et Polonnaruwa",
       "summary": "Visite d'Anuradhapura (stupa géant de Jethawanaramaya, arbre sacré Sri Maha Bodhi) et/ou de Polonnaruwa, à vélo, en slalomant entre les temples et les stūpas.",
       "route": "none",
@@ -223,7 +209,7 @@
       ]
     },
     {
-      "n": 5,
+      "n": 4,
       "title": "Sigiriya ➔ Kitulgala",
       "summary": "Route vers Kitulgala, avec un point de vue sur les plantations de thé comparable à Lipton's Seat, mais gratuit.",
       "route": "none",
@@ -258,7 +244,7 @@
       ]
     },
     {
-      "n": 6,
+      "n": 5,
       "title": "Kandy ➔ Ella (en train)",
       "summary": "Le trajet en train de Kandy à Ella, superbe, de la première classe avec réservation en gare à la troisième classe sans réservation.",
       "route": "none",
@@ -285,7 +271,7 @@
       ]
     },
     {
-      "n": 7,
+      "n": 6,
       "title": "Ella ➔ Nuwara Eliya",
       "summary": "Train panoramique vers Nuwara Eliya, la station d'altitude : lac Gregory, jardin botanique d'Hakgala, Victoria Park, fermes de fraises, plantations de thé et cascade.",
       "route": "none",
@@ -349,7 +335,7 @@
       ]
     },
     {
-      "n": 8,
+      "n": 7,
       "title": "Ella : Little Adam's Peak",
       "summary": "Randonnée facile à Little Adam's Peak, pont aux Neuf Arches et chutes de Ravana.",
       "route": "none",
@@ -392,7 +378,7 @@
       ]
     },
     {
-      "n": 9,
+      "n": 8,
       "title": "Ella : Ella's Rock et thé",
       "summary": "Randonnée à Ella's Rock, visite d'une plantation de thé avec dégustation, et trajet en train Ella–Badulla pour qui le souhaite.",
       "route": "none",
@@ -432,7 +418,7 @@
       ]
     },
     {
-      "n": 10,
+      "n": 9,
       "title": "Ella ➔ Udawalawe",
       "summary": "Route vers Udawalawe, avec un arrêt aux chutes de Diyaluma, puis safari éléphants dans le parc national.",
       "route": "none",
@@ -467,7 +453,7 @@
       ]
     },
     {
-      "n": 11,
+      "n": 10,
       "title": "Udawalawe ➔ Galle",
       "summary": "Train panoramique ou voiture vers Galle, puis promenade dans le fort : remparts, ruelles d'influence hollandaise, Queen's House et église anglicane.",
       "route": "none",
@@ -512,7 +498,7 @@
       ]
     },
     {
-      "n": 12,
+      "n": 11,
       "title": "Galle ➔ Mirissa",
       "summary": "Route vers Mirissa, plage et surf, Coconut Tree Hill et Parrot Rock. Tangalle est cependant préférable, d'après vos notes.",
       "route": "none",
@@ -585,7 +571,7 @@
       ]
     },
     {
-      "n": 13,
+      "n": 12,
       "title": "Galle ➔ Tangalle",
       "summary": "Train très beau de Galle à Matara, puis bus vers Tangalle : plages d'Unakuruwa, Silent Beach, Madilla, Blue Beach Island, avec des langurs gris.",
       "route": "none",
@@ -641,7 +627,7 @@
       ]
     },
     {
-      "n": 14,
+      "n": 13,
       "title": "Tangalle",
       "summary": "Journée de plages, surf et kayak : Hiriketiya, Goyambokka, lagune de Rekawa, temple de Mulkirigala.",
       "route": "none",
@@ -706,7 +692,7 @@
       ]
     },
     {
-      "n": 15,
+      "n": 14,
       "title": "Colombo ➔ Malé (Maldives)",
       "summary": "Vol vers Malé et installation dans un resort sur une île privée : détente sur la plage, snorkeling autour du récif, croisière au coucher du soleil et observation des dauphins.",
       "route": "none",
@@ -735,7 +721,7 @@
       ]
     },
     {
-      "n": 16,
+      "n": 15,
       "title": "Maldives : plongée",
       "summary": "Plongée sous-marine dans des récifs avec des raies manta et des requins, et excursion en kayak transparent.",
       "route": "none",
@@ -751,7 +737,7 @@
       ]
     },
     {
-      "n": 17,
+      "n": 16,
       "title": "Maldives : spa et plancton",
       "summary": "Spa et massages, dîner romantique sur la plage, et plancton bioluminescent à Vaadhoo ou à Gili Lankanfushi.",
       "route": "none",
@@ -777,7 +763,7 @@
       ]
     },
     {
-      "n": 18,
+      "n": 17,
       "title": "Maldives : banc de sable",
       "summary": "Excursion sur un banc de sable isolé et découverte d'un village local.",
       "route": "none",
@@ -798,7 +784,7 @@
       }
     },
     {
-      "n": 19,
+      "n": 18,
       "title": "Maldives : paddle et snorkeling",
       "summary": "Paddle board et plongée libre pour explorer les récifs coralliens.",
       "route": "none",
@@ -814,7 +800,7 @@
       ]
     },
     {
-      "n": 20,
+      "n": 19,
       "title": "Malé ➔ Paris",
       "summary": "Vol retour vers Paris.",
       "hero": "Malé",
@@ -1120,8 +1106,8 @@
               "500 EUR"
             ],
             [
-              "Hébergement (21 nuits)",
-              "5 200 EUR"
+              "Hébergement (18 nuits)",
+              "4 450 EUR"
             ],
             [
               "Activités et repas",
@@ -1129,7 +1115,7 @@
             ],
             [
               "Total estimé pour 2 personnes",
-              "10 500 EUR"
+              "9 750 EUR"
             ]
           ]
         }

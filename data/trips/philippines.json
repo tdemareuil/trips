@@ -9,27 +9,8 @@
   "days": [
     {
       "n": 1,
-      "title": "Paris ➔ Manille",
-      "summary": "Vol international vers Manille.",
-      "hero": "Manila",
-      "route": "none",
-      "stops": [],
-      "stay": {
-        "name": "Manille",
-        "wiki": "Manila",
-        "note": "Nuit dans l'avion ou à l'hôtel"
-      },
-      "transport": [
-        {
-          "mode": "flight",
-          "text": "Paris → Manille : 10 h en direct, 17 à 20 h avec escale"
-        }
-      ]
-    },
-    {
-      "n": 2,
       "title": "Manille ➔ Mont Pinatubo",
-      "summary": "Repos ou visite de Manille (Intramuros, Rizal Park, Greenhills, quartier BGC), puis transfert privé vers un hôtel avec piscine près du Pinatubo.",
+      "summary": "Arrivée à Manille le matin, après un vol de nuit au départ de Paris la veille au soir. Repos ou visite de Manille (Intramuros, Rizal Park, Greenhills, quartier BGC), puis transfert privé vers un hôtel avec piscine près du Pinatubo.",
       "route": "none",
       "stops": [
         {
@@ -66,13 +47,18 @@
       },
       "transport": [
         {
+          "mode": "flight",
+          "text": "Paris → Manille : 10 h en direct, 17 à 20 h avec escale",
+          "after": -1
+        },
+        {
           "mode": "car",
           "text": "Manille → Pinatubo : transfert privé"
         }
       ]
     },
     {
-      "n": 3,
+      "n": 2,
       "title": "Mont Pinatubo ➔ Manille",
       "summary": "Randonnée du mont Pinatubo en 4x4 puis à pied, retour à Manille et coucher de soleil sur la baie, à Baywalk.",
       "route": "none",
@@ -111,7 +97,7 @@
       ]
     },
     {
-      "n": 4,
+      "n": 3,
       "title": "Manille ➔ Puerto Princesa",
       "summary": "Vol vers Palawan et exploration de Puerto Princesa : rivière souterraine, tour des lucioles et du plancton bioluminescent sur l'Iwahig River, plage de Nagtabon.",
       "route": "none",
@@ -152,7 +138,7 @@
       ]
     },
     {
-      "n": 5,
+      "n": 4,
       "title": "Puerto Princesa ➔ El Nido",
       "summary": "Détente et réveillon du Nouvel An à El Nido : Nacpan Beach, plages cachées, snorkeling à Coral Garden, Las Cabanas, Lio Beach, Maremegmeg et Vanilla Beach.",
       "route": "none",
@@ -236,7 +222,7 @@
       ]
     },
     {
-      "n": 6,
+      "n": 5,
       "title": "El Nido : island hopping, puis croisière",
       "summary": "Island hopping dans la baie de Bacuit : Big Lagoon, Small Lagoon et Snake Island, puis départ de la croisière de deux nuits vers Coron.",
       "route": "none",
@@ -298,7 +284,7 @@
       ]
     },
     {
-      "n": 7,
+      "n": 6,
       "title": "Croisière El Nido ➔ Coron",
       "summary": "Deuxième jour de croisière entre El Nido et Coron.",
       "hero": "Coron, Palawan",
@@ -320,7 +306,7 @@
       ]
     },
     {
-      "n": 8,
+      "n": 7,
       "title": "Arrivée à Coron",
       "summary": "Fin de la croisière et arrivée à Coron, avec une exploration marine.",
       "route": "none",
@@ -342,7 +328,7 @@
       ]
     },
     {
-      "n": 9,
+      "n": 8,
       "title": "Coron : lacs et lagons",
       "summary": "Island hopping en tour privé : Kayangan Lake, Twin Lagoon, snorkeling à Siete Pecados et plage de Pasandigan, puis tour des lucioles et du plancton bioluminescent à Kingfisher Park.",
       "route": "none",
@@ -390,7 +376,7 @@
       ]
     },
     {
-      "n": 10,
+      "n": 9,
       "title": "Coron : épave et îles",
       "summary": "Island hopping en tour privé et découverte libre : épave de la canonnière Lusong, Coral Garden, île de Malcapuya, randonnée ou exploration libre.",
       "route": "none",
@@ -425,7 +411,7 @@
       ]
     },
     {
-      "n": 11,
+      "n": 10,
       "title": "Coron ➔ Bohol",
       "summary": "Vol intérieur via Cebu vers Bohol, puis exploration terrestre : Chocolate Hills, sanctuaire des tarsiers, rivière Loboc, rizières de Cambuyo, plage, et dîner avec lucioles sur l'Abatan River ou la Loay River.",
       "route": "none",
@@ -481,7 +467,7 @@
       ]
     },
     {
-      "n": 12,
+      "n": 11,
       "title": "Bohol : Panglao",
       "summary": "Exploration marine : plongée à Balicasag Island et plage d'Alona.",
       "route": "none",
@@ -510,7 +496,7 @@
       }
     },
     {
-      "n": 13,
+      "n": 12,
       "title": "Panglao ➔ Siquijor",
       "summary": "Ferry depuis le port de Tagbilaran vers Siquijor, puis cascades et plages.",
       "route": "none",
@@ -537,7 +523,7 @@
       ]
     },
     {
-      "n": 14,
+      "n": 13,
       "title": "Siquijor : cascades et plages",
       "summary": "Tour de l'île en scooter : cascades et plages, avec un cocktail au coucher du soleil à Lambojon Terraces ou au Bu Café.",
       "route": "none",
@@ -576,7 +562,7 @@
       ]
     },
     {
-      "n": 15,
+      "n": 14,
       "title": "Siquijor",
       "summary": "Dernière journée de cascades et de plages, en scooter.",
       "hero": "Siquijor",
@@ -595,7 +581,7 @@
       ]
     },
     {
-      "n": 16,
+      "n": 15,
       "title": "Siquijor ➔ Manille ➔ Paris",
       "summary": "Vol retour vers Paris, via Manille.",
       "hero": "Siquijor",
