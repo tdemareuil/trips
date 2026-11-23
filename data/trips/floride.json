@@ -1,7 +1,7 @@
 {
   "id": "floride",
-  "title": "Floride : Keys et Key Biscayne",
-  "subtitle": "Sept nuits entre Miami, Islamorada et Key West : plages de Key Biscayne et de Bahia Honda, récif de corail, Seven Mile Bridge et vieille ville de Key West",
+  "title": "Floride : Everglades et Keys",
+  "subtitle": "Sept nuits entre Miami, Islamorada et Key West : villa Vizcaya, Everglades de Shark Valley à Flamingo, récif de corail, Seven Mile Bridge, Bahia Honda et Dry Tortugas",
   "travelers": [
     "En couple"
   ],
@@ -63,25 +63,31 @@
       ],
       "notes": [
         "Grossesse : la Floride est classée en risque Zika négligeable par la liste britannique TravelHealthPro, et aucun cas de dengue locale n'a été signalé dans les Keys en 2026 (les cas de l'État sont surtout à Tampa). Janvier est la saison la plus sèche, avec peu de moustiques : répulsif adapté à la grossesse le soir quand même. Les soins sont excellents mais très chers : assurance voyage couvrant la grossesse indispensable."
+      ],
+      "ideas": [
+        {
+          "label": "Soirée Art déco à South Beach",
+          "text": "À 25 min de Coconut Grove : Ocean Drive et ses hôtels Art déco des années 1930, éclairés au néon le soir. Une promenade et un dîner, sans y dormir."
+        }
       ]
     },
     {
       "n": 2,
-      "title": "Key Biscayne, puis route vers Islamorada",
-      "summary": "Matinée sur les plus belles plages de Miami, à Key Biscayne, puis route vers les Keys jusqu'à Islamorada pour le coucher du soleil.",
+      "title": "Vizcaya, Shark Valley, puis Islamorada",
+      "summary": "La villa Vizcaya et ses jardins sur la baie, puis Shark Valley, au cœur des Everglades, avant la route des Keys jusqu'à Islamorada.",
       "route": "drive",
       "parts": [
         {
           "label": "Matin",
-          "text": "Bill Baggs Cape Florida State Park, à la pointe de Key Biscayne : plage de sable, eau claire et phare de 1825. Puis Crandon Park, autre grande plage du côté nord."
+          "text": "Vizcaya Museum and Gardens, à Coconut Grove : villa de style vénitien de 1916 au bord de la baie de Biscayne, salons d'époque et jardins à l'italienne descendant vers l'eau. Ouverture à 9 h 30, compter 1 h 30."
         },
         {
           "label": "Midi",
-          "text": "Déjeuner à Key Biscayne."
+          "text": "Shark Valley, sur la Tamiami Trail : tram de 2 h sur une boucle de 24 km dans la « rivière d'herbe » des Everglades, avec arrêt en haut de la tour d'observation, à mi-parcours, d'où l'on voit le marais jusqu'à l'horizon. Alligators au bord de la route en saison sèche. Réserver le tram à l'avance (parking plein dès 10 h en hiver) ; pique-nique avant le départ."
         },
         {
           "label": "Après-midi",
-          "text": "Route vers les Keys par l'US-1, arrivée à Islamorada en fin d'après-midi."
+          "text": "Route vers les Keys par Florida City et l'US-1, arrivée à Islamorada vers 17 h 30."
         },
         {
           "label": "Coucher du soleil",
@@ -90,22 +96,22 @@
       ],
       "stops": [
         {
-          "name": "Bill Baggs Cape Florida",
-          "wiki": "Cape Florida Light",
+          "name": "Vizcaya Museum and Gardens",
+          "wiki": "Vizcaya Museum and Gardens",
           "coords": [
-            25.668,
-            -80.1567
+            25.7443,
+            -80.2105
           ],
-          "culture": "Parc d'État à la pointe de Key Biscayne, avec une longue plage et le phare de Cape Florida, l'un des plus anciens bâtiments de la région.",
-          "photo": "File:Cape Florida Beach 1.jpg"
+          "culture": "Villa d'hiver de l'industriel James Deering, achevée en 1916, avec ses jardins à la française et à l'italienne sur la baie de Biscayne."
         },
         {
-          "name": "Crandon Park",
+          "name": "Shark Valley (Everglades)",
+          "wiki": "Everglades National Park",
           "coords": [
-            25.712,
-            -80.155
+            25.7573,
+            -80.7665
           ],
-          "culture": "Grande plage de sable de Key Biscayne, au calme grâce au récif."
+          "culture": "Entrée nord du parc national des Everglades : une boucle dans la prairie inondée, et une tour d'observation de béton construite en 1964."
         },
         {
           "name": "Morada Bay Beach Café",
@@ -131,28 +137,147 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Coconut Grove → Key Biscayne : environ 20 min",
+          "text": "Coconut Grove → Vizcaya : environ 10 min",
           "after": -1
         },
         {
           "mode": "car",
-          "text": "Key Biscayne → Islamorada : environ 1 h 45 par l'US-1",
+          "text": "Vizcaya → Shark Valley : environ 50 min",
+          "after": 0
+        },
+        {
+          "mode": "car",
+          "text": "Shark Valley → Islamorada : environ 2 h",
           "after": 1
         }
       ],
       "food": [
         "Dîner à Islamorada, au Morada Bay Beach Café ou dans un restaurant de poisson grillé. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+      ],
+      "ideas": [
+        {
+          "label": "Key Biscayne",
+          "text": "Les plages de Bill Baggs Cape Florida, avec son phare de 1825, et de Crandon Park, à 20 min de Coconut Grove : à faire à la place de Vizcaya si l'on préfère une matinée de plage."
+        },
+        {
+          "label": "Loutres de rivière",
+          "text": "Des loutres de rivière vivent dans les canaux de Shark Valley et de l'Anhinga Trail. Elles sont plus visibles en saison sèche, quand l'eau se concentre, mais restent une chance plutôt qu'une certitude : regarder les canaux le long des passerelles, tôt le matin."
+        }
+      ],
+      "notes": [
+        "Shark Valley a rouvert fin août 2026 après un incendie : vérifier l'état du site sur le site du parc avant de réserver. Grossesse : en janvier, il y a très peu de moustiques dans les Everglades, mais emporter du répulsif adapté."
       ]
     },
     {
       "n": 3,
-      "title": "Islamorada : plages et lagons",
-      "summary": "Journée lente à Islamorada : la lagune peu profonde d'Anne's Beach, les tarpons de Robbie's et le coucher du soleil sur la baie.",
+      "title": "Les Everglades jusqu'à Flamingo",
+      "summary": "Journée entière dans le sud des Everglades : l'Anhinga Trail tôt le matin, quand les animaux sont le plus actifs, puis la route jusqu'à Flamingo, au bord de la baie de Floride, avec lamantins et crocodiles.",
       "route": "drive",
       "parts": [
         {
           "label": "Matin",
-          "text": "Anne's Beach : longue plage peu profonde, presque une lagune, avec une promenade en bois dans la mangrove. Idéale pour se baigner sans vagues."
+          "text": "Départ vers 7 h 30. Anhinga Trail : passerelle de 1,2 km au-dessus du marais. En janvier, l'eau se concentre dans les mares et l'on voit alligators, tortues, hérons, aigrettes et anhingas à quelques mètres. Puis le Gumbo Limbo Trail, sous les arbres tropicaux."
+        },
+        {
+          "label": "Fin de matinée",
+          "text": "Route de 60 km jusqu'à Flamingo à travers les pins, les cyprès nains et la mangrove, avec arrêts aux passerelles de Pa-hay-okee (vue sur la « rivière d'herbe ») et de Mahogany Hammock."
+        },
+        {
+          "label": "Midi",
+          "text": "Flamingo : centre des visiteurs rénové, pique-nique face à la baie de Floride. Depuis le ponton de la marina, on voit souvent en hiver des lamantins et des crocodiles américains. Croisière d'environ 1 h 30 dans la baie ou dans les canaux de mangrove, si l'on veut."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Retour vers les Keys, arrêt milkshake à la mangue chez Robert Is Here, stand de fruits tropicaux de Homestead ouvert depuis 1959."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner à Islamorada."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Anhinga Trail (Everglades)",
+          "wiki": "Everglades National Park",
+          "coords": [
+            25.3826,
+            -80.6095
+          ],
+          "culture": "Le sentier le plus connu du parc national des Everglades, classé par l'UNESCO : une passerelle au-dessus du marais, au milieu des alligators et des oiseaux."
+        },
+        {
+          "name": "Pa-hay-okee Overlook",
+          "coords": [
+            25.441,
+            -80.7836
+          ],
+          "culture": "Courte passerelle surélevée avec vue sur l'immense prairie de joncs des Everglades."
+        },
+        {
+          "name": "Flamingo (Everglades)",
+          "wiki": "Flamingo, Florida",
+          "coords": [
+            25.1416,
+            -80.9237
+          ],
+          "culture": "Ancien village de pêcheurs au bout de la route du parc, au bord de la baie de Floride : marina, centre des visiteurs et départ des croisières."
+        },
+        {
+          "name": "Robert Is Here",
+          "coords": [
+            25.4456,
+            -80.5005
+          ],
+          "culture": "Stand de fruits tropicaux à l'entrée des Everglades, tenu par la même famille depuis 1959."
+        }
+      ],
+      "stay": {
+        "name": "Islamorada",
+        "coords": [
+          24.936,
+          -80.615
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Islamorada → Anhinga Trail : environ 1 h 15",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Anhinga Trail → Flamingo : environ 1 h avec les arrêts",
+          "after": 0
+        },
+        {
+          "mode": "car",
+          "text": "Flamingo → Homestead → Islamorada : environ 2 h",
+          "after": 2
+        }
+      ],
+      "food": [
+        "Poisson grillé (mahi-mahi, mérou) dans les restaurants de bord de mer. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+      ],
+      "notes": [
+        "La plus longue journée de route du voyage (environ 4 h 15 en tout), sur des routes plates et vides. Prévoir eau et pique-nique : il n'y a presque rien à manger dans le parc."
+      ],
+      "ideas": [
+        {
+          "label": "Loutres de rivière",
+          "text": "Des loutres de rivière vivent dans les canaux de Shark Valley et de l'Anhinga Trail. Elles sont plus visibles en saison sèche, quand l'eau se concentre, mais restent une chance plutôt qu'une certitude : regarder les canaux le long des passerelles, tôt le matin."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Le récif de John Pennekamp et Islamorada",
+      "summary": "Le matin, le récif de corail de Key Largo ; l'après-midi, les tarpons de Robbie's et la baignade à Anne's Beach.",
+      "route": "drive",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Parc John Pennekamp Coral Reef, à Key Largo : sortie en bateau à fond de verre au-dessus du récif (environ 2 h 30), ou sortie snorkeling jusqu'au Christ des Abysses, statue de bronze immergée sur le récif de Key Largo Dry Rocks, à environ 7 m sous la surface, visible depuis l'eau avec un masque."
         },
         {
           "label": "Midi",
@@ -160,7 +285,7 @@
         },
         {
           "label": "Après-midi",
-          "text": "Piscine et repos à l'hôtel, ou kayak tranquille dans la mangrove."
+          "text": "Anne's Beach : longue plage peu profonde, presque une lagune, avec une promenade en bois dans la mangrove. Idéale pour se baigner sans vagues."
         },
         {
           "label": "Coucher du soleil",
@@ -168,6 +293,24 @@
         }
       ],
       "stops": [
+        {
+          "name": "John Pennekamp Coral Reef State Park",
+          "wiki": "John Pennekamp Coral Reef State Park",
+          "coords": [
+            25.125,
+            -80.406
+          ],
+          "culture": "Premier parc sous-marin des États-Unis, créé en 1963, qui protège une partie du seul récif corallien vivant d'Amérique du Nord."
+        },
+        {
+          "name": "Christ des Abysses (Key Largo Dry Rocks)",
+          "wiki": "Christ of the Abyss",
+          "coords": [
+            25.1253,
+            -80.298
+          ],
+          "culture": "Copie de la statue immergée de San Fruttuoso, en Italie, posée sur le récif de Key Largo en 1965."
+        },
         {
           "name": "Anne's Beach",
           "coords": [
@@ -197,55 +340,6 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Trajets de 10 à 20 min sur l'US-1",
-          "after": -1
-        }
-      ],
-      "food": [
-        "Poisson grillé (mahi-mahi, mérou) dans les restaurants de bord de mer. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
-      ]
-    },
-    {
-      "n": 4,
-      "title": "Key Largo : le récif de John Pennekamp",
-      "summary": "Le premier parc sous-marin des États-Unis : bateau à fond de verre ou snorkeling au-dessus du récif de corail, et plage de Cannon Beach.",
-      "route": "drive",
-      "parts": [
-        {
-          "label": "Matin",
-          "text": "Parc John Pennekamp Coral Reef, à Key Largo : sortie en bateau à fond de verre au-dessus du récif (environ 2 h 30), ou snorkeling depuis Cannon Beach, dans le parc."
-        },
-        {
-          "label": "Après-midi",
-          "text": "Retour à Islamorada, plage et repos."
-        },
-        {
-          "label": "Soir",
-          "text": "Dîner à Islamorada."
-        }
-      ],
-      "stops": [
-        {
-          "name": "John Pennekamp Coral Reef State Park",
-          "wiki": "John Pennekamp Coral Reef State Park",
-          "coords": [
-            25.125,
-            -80.406
-          ],
-          "culture": "Premier parc sous-marin des États-Unis, créé en 1963, qui protège une partie du seul récif corallien vivant d'Amérique du Nord."
-        }
-      ],
-      "stay": {
-        "name": "Islamorada",
-        "coords": [
-          24.936,
-          -80.615
-        ],
-        "note": "Même hôtel que la veille"
-      },
-      "transport": [
-        {
-          "mode": "car",
           "text": "Islamorada → Key Largo : environ 30 min",
           "after": -1
         },
@@ -253,6 +347,11 @@
           "mode": "boat",
           "text": "Bateau à fond de verre vers le récif : environ 2 h 30 aller-retour",
           "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Key Largo → Robbie's : environ 35 min",
+          "after": 0
         }
       ],
       "notes": [
@@ -352,6 +451,12 @@
       ],
       "notes": [
         "Bahia Honda est ouvert tous les jours de 8 h au coucher du soleil (environ 8 $ par voiture)."
+      ],
+      "ideas": [
+        {
+          "label": "Big Pine Key",
+          "text": "Détour de 10 min après Bahia Honda : le Blue Hole, ancienne carrière où vivent alligators et tortues, et les cerfs des Keys, minuscules cerfs que l'on ne trouve que sur ces îles."
+        }
       ]
     },
     {
@@ -419,21 +524,21 @@
     },
     {
       "n": 7,
-      "title": "Dry Tortugas, ou journée plage",
-      "summary": "Le parc national le plus isolé des États-Unis, Fort Jefferson et son eau turquoise, en hydravion ; ou une journée tranquille sur les plages de Key West.",
+      "title": "Dry Tortugas, ou le récif de Looe Key",
+      "summary": "Journée au large : en hydravion jusqu'à Fort Jefferson aux Dry Tortugas, ou en bateau jusqu'au récif de Looe Key, le plus beau des Keys pour le snorkeling.",
       "route": "none",
       "parts": [
         {
-          "label": "Matin",
-          "text": "Hydravion jusqu'aux Dry Tortugas (environ 40 min) : Fort Jefferson, immense fort de brique au milieu de la mer, plage et snorkeling."
+          "label": "Option A",
+          "text": "Hydravion jusqu'aux Dry Tortugas (environ 40 min de vol au-dessus des bancs de sable et des épaves) : Fort Jefferson, immense fort de brique hexagonal au milieu de la mer, plage de sable blanc et snorkeling le long des douves. Demi-journée, retour à Key West en début d'après-midi."
         },
         {
-          "label": "Après-midi",
-          "text": "Retour à Key West, repos. Option sans les Dry Tortugas : Smathers Beach et une balade en vélo jusqu'au point le plus au sud des États-Unis."
+          "label": "Option B",
+          "text": "Récif de Looe Key, au large de Big Pine Key : sortie snorkeling de 4 h avec Captain Hook's (à partir d'environ 54 $, gilet fourni), deux sites de récif avec coraux, raies et poissons-perroquets. Puis une heure à Bahia Honda sur le chemin du retour."
         },
         {
           "label": "Soir",
-          "text": "Coucher du soleil depuis la jetée et dîner."
+          "text": "Coucher du soleil depuis la jetée et dîner. Sans sortie en mer : Smathers Beach et une balade à vélo jusqu'au point le plus au sud des États-Unis."
         }
       ],
       "stops": [
@@ -445,6 +550,15 @@
             -82.8732
           ],
           "culture": "Archipel à 110 km à l'ouest de Key West, accessible seulement en bateau ou en hydravion, autour d'un fort de 16 millions de briques jamais achevé."
+        },
+        {
+          "name": "Récif de Looe Key",
+          "wiki": "Looe Key",
+          "coords": [
+            24.5466,
+            -81.4064
+          ],
+          "culture": "Sanctuaire marin des Keys : un récif en éperons et sillons, considéré comme le plus beau site de snorkeling de l'archipel."
         },
         {
           "name": "Smathers Beach",
@@ -466,12 +580,17 @@
       "transport": [
         {
           "mode": "flight",
-          "text": "Hydravion Key West → Dry Tortugas : environ 40 min (le ferry met environ 2 h 15 en mer ouverte)",
+          "text": "Option A : hydravion Key West → Dry Tortugas, environ 40 min (le ferry met environ 2 h 15 en mer ouverte)",
           "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Option B : Key West → Big Pine Key, environ 45 min, puis 30 min de bateau jusqu'au récif",
+          "after": 0
         }
       ],
       "notes": [
-        "Grossesse : préférer l'hydravion au ferry, dont la traversée de 2 h 15 en mer ouverte peut être agitée. Les places sont limitées et chères : réserver tôt, ou garder cette journée pour la plage."
+        "Grossesse : snorkeling en surface avec un gilet, pas de plongée bouteille. Les sorties sont annulées si la mer est forte : choisir le jour le plus calme de la semaine, et garder la journée de plage comme repli."
       ]
     },
     {
@@ -521,8 +640,9 @@
         {
           "type": "list",
           "items": [
-            "Peu de route : 2 h au plus par jour, et un seul vol direct à l'aller.",
-            "Les plus belles plages du sud de la Floride accessibles sans longue route : Key Biscayne, Anne's Beach, Bahia Honda et Fort Zachary Taylor.",
+            "Peu de route, sauf la journée des Everglades (environ 4 h en tout), et un seul vol direct à l'aller.",
+            "Les plus belles plages du sud de la Floride accessibles sans longue route : Anne's Beach, Bahia Honda et Fort Zachary Taylor.",
+            "Les sites les plus spectaculaires du sud de la Floride sont sur le trajet : la villa Vizcaya, les Everglades, de Shark Valley à Flamingo, le récif de John Pennekamp et le Christ des Abysses, le Seven Mile Bridge, le récif de Looe Key et Fort Jefferson aux Dry Tortugas.",
             "Des hôtels de taille humaine : Islamorada et la vieille ville de Key West, loin des tours de Miami Beach.",
             "La mer la plus chaude de Floride en janvier, autour de 22 à 23 °C dans les Keys."
           ]

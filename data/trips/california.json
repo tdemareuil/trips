@@ -382,8 +382,8 @@
     {
       "n": 6,
       "weekday": "Lundi",
-      "title": "US-101 jusqu'à Carmel, Bixby Bridge & arrivée à San Francisco",
-      "summary": "Départ de Santa Barbara à 7 h par la US-101 (moins fatigante que la côte), pause à Paso Robles, Carmel-by-the-Sea pour le déjeuner, Bixby Bridge par le nord, puis San Francisco avant la nuit.",
+      "title": "US-101 jusqu'à Carmel, Bixby Bridge, loutres de Moss Landing & arrivée à San Francisco",
+      "summary": "Départ de Santa Barbara à 7 h par la US-101 (moins fatigante que la côte), pause à Paso Robles, Carmel-by-the-Sea pour le déjeuner, Bixby Bridge par le nord, les loutres de mer de Moss Landing sur la route, puis San Francisco.",
       "route": "drive",
       "stops": [
         {
@@ -408,6 +408,15 @@
           "name": "Carmel-by-the-Sea",
           "wiki": "Carmel-by-the-Sea, California",
           "culture": "Village d'artistes aux maisons de conte de fées, sans numéros de rue. Clint Eastwood en a été le maire de 1986 à 1988."
+        },
+        {
+          "name": "Moss Landing (loutres de mer)",
+          "wiki": "Moss Landing, California",
+          "coords": [
+            36.8068,
+            -121.7866
+          ],
+          "culture": "Petit port de pêche à l'embouchure de l'estuaire d'Elkhorn Slough, où vit l'une des plus grandes concentrations de loutres de mer de Californie."
         },
         {
           "name": "Big Sur : Bixby Creek Bridge",
@@ -436,8 +445,13 @@
         },
         {
           "mode": "car",
-          "text": "Carmel → San Francisco : environ 2 h à 2 h 30",
+          "text": "Carmel → Moss Landing : environ 35 min",
           "after": 2
+        },
+        {
+          "mode": "car",
+          "text": "Moss Landing → San Francisco : environ 1 h 45 à 2 h",
+          "after": 3
         }
       ],
       "parts": [
@@ -455,14 +469,19 @@
         },
         {
           "label": "Après-midi",
-          "text": "Départ de Carmel avant 15 h 30 pour éviter l'heure de pointe, route vers San Francisco (environ 2 h à 2 h 30), arrivée vers 18 h, rendu de la voiture de location."
+          "text": "Départ de Carmel vers 15 h. Arrêt à Moss Landing, sur la Highway 1 : depuis le bord du port et de Jetty Road, on voit presque toujours des loutres de mer flottant sur le dos dans l'eau calme de l'estuaire d'Elkhorn Slough, souvent en groupes, et des phoques et otaries sur les pontons. Compter 30 à 40 min, jumelles conseillées."
+        },
+        {
+          "label": "Fin d'après-midi",
+          "text": "Route vers San Francisco, arrivée vers 18 h 15, rendu de la voiture de location."
         }
       ],
       "notes": [
         "Journée plus calme que par la côte : la US-101 est une grande route sans falaises, et le Big Sur sud et central est laissé de côté. Total d'environ 7 h 30 de route, contre environ 8 h par la Highway 1 complète.",
         "Le tronçon de la Highway 1 entre Carmel et Bixby peut être fermé par des éboulements en hiver : vérifier l'état de la route (site de la Caltrans) ; sinon, sauter Bixby et garder Point Lobos.",
-        "Le soleil se couche vers 17 h 20 : partir de Carmel avant 15 h 30 pour arriver à San Francisco avant la nuit et avant l'heure de pointe.",
-        "Location depuis Los Angeles rendue à San Francisco : prévoir d'éventuels frais d'abandon pour un retour sur un autre site."
+        "Le soleil se couche vers 17 h 20 : avec l'arrêt à Moss Landing, la dernière heure de route vers San Francisco se fait de nuit, sur l'autoroute. Partir de Carmel à 15 h au plus tard.",
+        "Location depuis Los Angeles rendue à San Francisco : prévoir d'éventuels frais d'abandon pour un retour sur un autre site.",
+        "Loutres : les regarder depuis la rive, sans s'approcher en kayak ou en bateau, ce qui les dérange et leur fait dépenser l'énergie dont elles ont besoin pour se nourrir. Rester à au moins 15 m de celles qui se reposent sur les pontons ou la plage."
       ],
       "ideas": [
         {

@@ -1,7 +1,7 @@
 {
   "id": "basse-californie",
-  "title": "Basse-Californie du Sud",
-  "subtitle": "Sept nuits entre San José del Cabo, Todos Santos et La Paz : criques de la mer de Cortez, Balandra, Cerritos et île Espíritu Santo",
+  "title": "Basse-Californie du Sud, de Los Cabos à Loreto",
+  "subtitle": "Sept nuits de Los Cabos à Loreto : arche de Cabo San Lucas, récif de Cabo Pulmo, Espíritu Santo et ses otaries, Balandra, Todos Santos, baie de Concepción et mission de San Javier",
   "travelers": [
     "En couple"
   ],
@@ -44,7 +44,7 @@
           23.0625,
           -109.6975
         ],
-        "note": "Petit hôtel dans le centre historique (à choisir)",
+        "note": "San José del Cabo, 1 nuit : petit hôtel dans le centre historique",
         "options": [
           "Casa Natalia (hôtel boutique sur la place)"
         ]
@@ -67,28 +67,37 @@
     },
     {
       "n": 2,
-      "title": "Crique de Santa María, Cerritos et Todos Santos",
-      "summary": "Baignade dans une crique protégée du corridor de Los Cabos, puis route vers la côte pacifique : plage de Cerritos et arrivée à Todos Santos.",
       "route": "drive",
+      "title": "L'arche de Cabo San Lucas, Santa María, puis Cabo Pulmo",
+      "summary": "Tôt le matin, le bateau jusqu'à l'arche du bout de la péninsule, une baignade dans la crique de Santa María, puis la route de la côte est jusqu'au village de Cabo Pulmo, pour y dormir au bord du récif.",
       "parts": [
         {
           "label": "Matin",
-          "text": "Playa Santa María : petite baie protégée, eau calme et snorkeling, à l'écart des resorts."
+          "text": "Depuis la marina de Cabo San Lucas, premier départ vers 8 h 30 : bateau à fond de verre ou taxi nautique (environ 45 min à 1 h) jusqu'à El Arco, l'arche de granite où se rejoignent le Pacifique et la mer de Cortez, avec la colonie d'otaries et la plage de Lover's Beach. Tôt, il y a peu de bateaux et la mer est plus calme."
         },
         {
-          "label": "Midi",
-          "text": "Route vers Todos Santos par Cabo San Lucas et la côte pacifique."
+          "label": "Fin de matinée",
+          "text": "Playa Santa María : petite baie protégée, eau calme et snorkeling, à l'écart des resorts. Déjeuner rapide à San José del Cabo en remontant."
         },
         {
           "label": "Après-midi",
-          "text": "Playa Los Cerritos : la plage la plus sûre pour se baigner de ce côté du Pacifique, avec une pointe rocheuse qui la protège."
+          "text": "Route vers Cabo Pulmo par la route 1, La Ribera et les derniers kilomètres de piste. Arrivée vers 15 h 30, baignade et snorkeling depuis la plage de Los Arbolitos."
         },
         {
           "label": "Soir",
-          "text": "Installation à Todos Santos, petite ville classée Pueblo Mágico, et dîner."
+          "text": "Dîner de poisson grillé au village, nuit sous un ciel très étoilé : pas de ville à des dizaines de kilomètres."
         }
       ],
       "stops": [
+        {
+          "name": "El Arco de Cabo San Lucas",
+          "wiki": "El Arco de Cabo San Lucas",
+          "coords": [
+            22.8757,
+            -109.8915
+          ],
+          "culture": "Arche de granite à la pointe de la péninsule de Basse-Californie, là où le Pacifique rencontre la mer de Cortez."
+        },
         {
           "name": "Playa Santa María",
           "coords": [
@@ -99,206 +108,124 @@
           "photo": "File:Playa Santa Maria, Baja California (432544031).jpg"
         },
         {
-          "name": "Playa Los Cerritos",
+          "name": "Playa Los Arbolitos",
           "coords": [
-            23.3285,
-            -110.1735
+            23.4128,
+            -109.4245
           ],
-          "culture": "Longue plage de sable sur le Pacifique, protégée par une pointe rocheuse : l'une des rares où l'on peut se baigner sur cette côte.",
-          "photo": "File:Cerritos Beach - Near Todos Santos - Baja California Sur - Mexico - 04 (23775057435).jpg"
+          "culture": "Petite plage abritée au sud du village, avec du snorkeling depuis le bord."
         }
       ],
       "stay": {
-        "name": "Todos Santos",
+        "name": "Cabo Pulmo",
         "coords": [
-          23.4482,
-          -110.2263
+          23.4405,
+          -109.4285
         ],
-        "note": "Todos Santos, 3 nuits : hôtel boutique",
+        "note": "Cabo Pulmo, 1 nuit : bungalows simples dans le village (pas d'hôtel boutique ici)",
         "options": [
-          "Todos Santos Boutique Hotel (dix suites dans une demeure de 1890, clef Michelin)",
-          "Hotel San Cristóbal (sur la plage de Punta Lobos)",
-          "Guaycura Boutique Hotel"
+          "Cabo Pulmo Baja Bungalows (à vérifier)",
+          "Autres bungalows et casitas du village"
         ]
       },
       "transport": [
         {
           "mode": "car",
-          "text": "San José del Cabo → Playa Santa María : environ 25 min",
+          "text": "San José del Cabo → marina de Cabo San Lucas : environ 30 min",
+          "after": -1
+        },
+        {
+          "mode": "boat",
+          "text": "Bateau jusqu'à l'arche : 45 min à 1 h aller-retour",
           "after": -1
         },
         {
           "mode": "car",
-          "text": "Playa Santa María → Cerritos : environ 1 h 15",
-          "after": 1
+          "text": "Cabo San Lucas → Santa María : environ 20 min",
+          "after": 0
         },
         {
           "mode": "car",
-          "text": "Cerritos → Todos Santos : environ 15 min",
-          "after": 2
+          "text": "Santa María → Cabo Pulmo : environ 2 h par la route 1 et La Ribera, dont environ 10 km de piste",
+          "after": 1
         }
       ],
       "food": [
-        "Dîner à Todos Santos. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+        "Poisson grillé et tacos au village de Cabo Pulmo. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+      ],
+      "ideas": [
+        {
+          "label": "Baleines à bosse depuis le bateau",
+          "text": "De janvier à mars, les baleines à bosse passent l'hiver au large de Cabo San Lucas et on les voit souvent pendant la sortie vers l'arche. Avertissement : les sorties dédiées à l'observation des baleines sont encadrées (distance minimale, temps limité), mais les bateaux sont nombreux autour de Cabo et les règles pas toujours respectées. Choisir un petit opérateur qui coupe le moteur à distance, ou se contenter de les voir depuis la côte."
+        }
+      ],
+      "notes": [
+        "Ne pas arriver à Cabo Pulmo de nuit : la piste se fait en voiture ordinaire par temps sec, mais lentement (tôle ondulée). Grossesse : à Lover's Beach, le débarquement se fait dans les vagues : rester à bord si la houle est forte.",
+        "Écartés à Cabo San Lucas : la plage d'El Médano (jet-skis, musique, vendeurs) et la randonnée du mont Solmar (montée raide avec des passages à mains, accès souvent contesté, déconseillée enceinte)."
       ]
     },
     {
       "n": 3,
-      "title": "Todos Santos et Punta Lobos",
-      "summary": "La petite ville de Todos Santos, ses maisons de brique et sa mission, puis le retour des barques de pêcheurs à Punta Lobos et le coucher du soleil à La Pastora.",
       "route": "drive",
+      "title": "Le récif de Cabo Pulmo, Los Barriles, canyon de la Zorra et La Paz",
+      "summary": "Le récif à l'heure où la mer est la plus calme, puis la remontée vers La Paz par les villages de la côte est et de la montagne : le spot de kitesurf de Los Barriles, la cascade du canyon de la Zorra et le village minier d'El Triunfo.",
       "parts": [
         {
           "label": "Matin",
-          "text": "Balade dans le centre historique : mission, théâtre Márquez de León, maisons de brique du XIXe siècle et l'Hotel California."
+          "text": "Sortie snorkeling sur le récif de Cabo Pulmo avec un opérateur du village (obligatoire pour les sites du récif), vers 8 h, avant le vent et les excursions venues de Cabo : coraux, raies, tortues, et parfois les grands bancs de carangues qui tournent en tourbillon. Bateau de 10 à 15 min dans la baie."
         },
         {
           "label": "Midi",
-          "text": "Déjeuner de produits de la ferme, chez Hierbabuena ou Jazamango."
+          "text": "Los Barriles : l'un des spots de kitesurf et de planche à voile les plus connus du Mexique, et janvier est sa saison, avec le vent du nord. Déjeuner face à la plage en regardant les voiles ; cours possibles pour qui veut s'y mettre."
         },
         {
-          "label": "Après-midi",
-          "text": "Punta Lobos : les pêcheurs ramènent leurs barques sur la plage en fin d'après-midi. Baignade déconseillée (courants)."
+          "label": "Début d'après-midi",
+          "text": "Canyon de la Zorra, près de Santiago : 20 min de piste puis un escalier d'environ 300 marches jusqu'à une cascade de 10 m dans un canyon de granite, avec un bassin où l'on peut se baigner."
         },
         {
-          "label": "Coucher du soleil",
-          "text": "Playa La Pastora."
-        }
-      ],
-      "stops": [
-        {
-          "name": "Mission de Todos Santos",
-          "coords": [
-            23.4475,
-            -110.2245
-          ],
-          "culture": "Mission fondée en 1723, au cœur de la petite ville.",
-          "photo": "File:Mission at Todos Santos (199627044).jpg"
-        },
-        {
-          "name": "Punta Lobos",
-          "coords": [
-            23.4206,
-            -110.2387
-          ],
-          "culture": "Plage des pêcheurs de Todos Santos, où les barques reviennent chargées en fin d'après-midi."
-        },
-        {
-          "name": "Playa La Pastora",
-          "coords": [
-            23.487,
-            -110.259
-          ],
-          "culture": "Plage sauvage au nord de la ville, pour le coucher du soleil sur le Pacifique."
-        }
-      ],
-      "stay": {
-        "name": "Todos Santos",
-        "coords": [
-          23.4482,
-          -110.2263
-        ],
-        "note": "Même hôtel que la veille"
-      },
-      "transport": [
-        {
-          "mode": "car",
-          "text": "Trajets de 10 à 15 min",
-          "after": -1
-        }
-      ],
-      "ideas": [
-        {
-          "label": "Lâcher de bébés tortues",
-          "text": "Le groupe Tortugueros Las Playitas relâche des bébés tortues au coucher du soleil, en principe jusqu'à mi-janvier et seulement s'il y a des éclosions : à confirmer avant de venir."
-        }
-      ],
-      "notes": [
-        "Sur la côte pacifique, la mer est forte : ne se baigner qu'à Cerritos."
-      ]
-    },
-    {
-      "n": 4,
-      "title": "Journée à Cerritos",
-      "summary": "Une journée lente sur la plage de Cerritos, la plus sûre de la côte pacifique, avec un déjeuner les pieds dans le sable.",
-      "route": "drive",
-      "parts": [
-        {
-          "label": "Matin",
-          "text": "Plage de Cerritos : baignade dans la partie protégée par la pointe, et balade sur le sable."
-        },
-        {
-          "label": "Midi",
-          "text": "Déjeuner sur la plage."
-        },
-        {
-          "label": "Après-midi",
-          "text": "Repos à l'hôtel."
+          "label": "Fin d'après-midi",
+          "text": "El Triunfo : ancien village minier du XIXe siècle, maisons d'adobe, grande cheminée de brique et petit musée de la musique. Café sur la place."
         },
         {
           "label": "Soir",
-          "text": "Dîner à Todos Santos."
+          "text": "Arrivée à La Paz vers 18 h, promenade sur le Malecón et dîner."
         }
       ],
       "stops": [
         {
-          "name": "Playa Los Cerritos",
+          "name": "Cabo Pulmo",
+          "wiki": "Cabo Pulmo National Park",
           "coords": [
-            23.3285,
-            -110.1735
+            23.4405,
+            -109.4285
           ],
-          "culture": "Longue plage protégée par une pointe rocheuse.",
-          "photo": "File:Sunset - Cerritos - Near Todos Santos - Baja California Sur - Mexico (23581300691).jpg"
-        }
-      ],
-      "stay": {
-        "name": "Todos Santos",
-        "coords": [
-          23.4482,
-          -110.2263
-        ],
-        "note": "Même hôtel que la veille"
-      },
-      "transport": [
-        {
-          "mode": "car",
-          "text": "Todos Santos → Cerritos : environ 15 min",
-          "after": -1
-        }
-      ]
-    },
-    {
-      "n": 5,
-      "title": "Route vers La Paz et plage d'El Tecolote",
-      "summary": "Une heure de route à travers le désert jusqu'à La Paz, sur la mer de Cortez, puis plage d'El Tecolote et coucher du soleil sur le Malecón.",
-      "route": "drive",
-      "parts": [
-        {
-          "label": "Matin",
-          "text": "Route vers La Paz par la route 19 (environ 1 h 15)."
+          "culture": "Parc national marin créé en 1995 à la demande des pêcheurs du village. La biomasse de poissons y a été multipliée par quatre en dix ans, l'un des plus grands succès de protection marine au monde. Classé par l'UNESCO."
         },
         {
-          "label": "Midi",
-          "text": "Déjeuner sur le Malecón."
-        },
-        {
-          "label": "Après-midi",
-          "text": "Playa El Tecolote : longue plage de sable, eau calme et turquoise face à l'île Espíritu Santo."
-        },
-        {
-          "label": "Coucher du soleil",
-          "text": "Promenade sur le Malecón de La Paz."
-        }
-      ],
-      "stops": [
-        {
-          "name": "Playa El Tecolote",
+          "name": "Los Barriles",
+          "wiki": "Los Barriles",
           "coords": [
-            24.336,
-            -110.313
+            23.6829,
+            -109.699
           ],
-          "culture": "Grande plage de la mer de Cortez, eau calme et peu profonde, face à l'île Espíritu Santo.",
-          "photo": "File:Playa Tecolote 1.jpg"
+          "culture": "Village de la côte est, au bord de la baie de Palmas, rendez-vous des kitesurfeurs et des véliplanchistes pendant la saison du vent du nord, de novembre à mars."
+        },
+        {
+          "name": "Canyon de la Zorra",
+          "coords": [
+            23.4449,
+            -109.7853
+          ],
+          "culture": "Cascade dans un canyon de granite, au pied de la Sierra de la Laguna, près du village de Santiago."
+        },
+        {
+          "name": "El Triunfo",
+          "wiki": "El Triunfo, Baja California Sur",
+          "coords": [
+            23.8037,
+            -110.1093
+          ],
+          "culture": "Village minier d'or et d'argent fondé au XIXe siècle, presque abandonné puis restauré."
         },
         {
           "name": "Malecón de La Paz",
@@ -323,83 +250,58 @@
       },
       "transport": [
         {
-          "mode": "car",
-          "text": "Todos Santos → La Paz : environ 1 h 15",
+          "mode": "boat",
+          "text": "Bateau vers le récif : 10 à 15 min",
           "after": -1
         },
         {
           "mode": "car",
-          "text": "La Paz → El Tecolote : environ 30 min",
+          "text": "Cabo Pulmo → Los Barriles : environ 1 h, dont la piste",
+          "after": 0
+        },
+        {
+          "mode": "car",
+          "text": "Los Barriles → canyon de la Zorra : environ 45 min, dont 20 min de piste",
           "after": 1
-        }
-      ]
-    },
-    {
-      "n": 6,
-      "title": "Playa Balandra",
-      "summary": "La plage la plus célèbre de Basse-Californie : une lagune de sable blanc et d'eau turquoise peu profonde, idéale pour se baigner sans vagues.",
-      "route": "drive",
-      "parts": [
-        {
-          "label": "Matin",
-          "text": "Playa Balandra, créneau de 8 h à 12 h : lagune peu profonde où l'on marche dans l'eau turquoise, et sentier jusqu'au point de vue au-dessus de la baie."
         },
-        {
-          "label": "Après-midi",
-          "text": "Retour à La Paz, repos, ou plage de Pichilingue."
-        },
-        {
-          "label": "Soir",
-          "text": "Dîner à La Paz."
-        }
-      ],
-      "stops": [
-        {
-          "name": "Playa Balandra",
-          "coords": [
-            24.322,
-            -110.327
-          ],
-          "culture": "Lagune protégée de sable blanc et d'eau turquoise peu profonde, dans une aire naturelle : l'accès est limité à 450 personnes par créneau.",
-          "photo": "File:Playa Balandra, Baja California Sur 5.jpg"
-        }
-      ],
-      "stay": {
-        "name": "La Paz",
-        "coords": [
-          24.158,
-          -110.313
-        ],
-        "note": "Même hôtel que la veille"
-      },
-      "transport": [
         {
           "mode": "car",
-          "text": "La Paz → Balandra : environ 30 min",
-          "after": -1
+          "text": "Canyon de la Zorra → El Triunfo : environ 1 h",
+          "after": 2
+        },
+        {
+          "mode": "car",
+          "text": "El Triunfo → La Paz : environ 50 min",
+          "after": 3
+        }
+      ],
+      "ideas": [
+        {
+          "label": "Arrêt facultatif : Santuario de los Cactus",
+          "text": "À El Rosario, entre El Triunfo et La Paz, sur la route 1. Petite réserve communautaire de 6 hectares au pied de la Sierra de la Laguna, dans une forêt de cardons, les plus grands cactus du monde (jusqu'à 15 ou 20 m, certains âgés de plusieurs siècles), avec aussi des pitayas et des chollas. Sentier facile de 45 min à 1 h entre les cactus et les blocs de granite, petit droit d'entrée à régler sur place. Le site est modeste, mais c'est la façon la plus simple de marcher au milieu des cardons. Ajoute environ 1 h à la journée : sauter alors le canyon de la Zorra."
         }
       ],
       "notes": [
-        "Accès en deux créneaux (8 h - 12 h et 13 h - 17 h), 450 personnes au maximum par créneau, avec un bracelet de la CONANP à acheter à l'avance (environ 120 pesos). En haute saison, les créneaux sont complets : arriver tôt."
+        "Journée chargée (environ 3 h 45 de route en tout) : si l'on manque de temps, sauter le canyon de la Zorra. Grossesse : snorkeling en surface avec un gilet, pas de plongée bouteille ; payer le bracelet du parc (CONANP), crème solaire biodégradable, ne pas toucher le corail. Pas de kitesurf pour la future maman."
       ]
     },
     {
-      "n": 7,
-      "title": "Île Espíritu Santo",
-      "summary": "Sortie en bateau vers l'île Espíritu Santo, classée par l'UNESCO : falaises rouges, criques turquoise et colonie de lions de mer à Los Islotes.",
+      "n": 4,
       "route": "none",
+      "title": "Île Espíritu Santo et les otaries de Los Islotes",
+      "summary": "Sortie en bateau vers l'île Espíritu Santo, classée par l'UNESCO : falaises rouges, criques turquoise et colonie de lions de mer à Los Islotes.",
       "parts": [
         {
           "label": "Matin",
-          "text": "Bateau depuis La Paz vers l'île Espíritu Santo : falaises rouges et criques désertes."
+          "text": "Bateau depuis La Paz le long des falaises rouges de l'île Espíritu Santo jusqu'à Los Islotes, à la pointe nord : snorkeling avec la colonie d'environ 300 lions de mer, curieux et joueurs, qui viennent tourner autour des nageurs."
         },
         {
           "label": "Midi",
-          "text": "Pique-nique sur une plage de l'île, snorkeling dans une crique abritée."
+          "text": "Déjeuner sur la plage d'Ensenada Grande, l'une des plus belles du Mexique : sable blanc et eau turquoise au pied des falaises."
         },
         {
           "label": "Après-midi",
-          "text": "Retour à La Paz."
+          "text": "Snorkeling dans une crique abritée, puis retour à La Paz."
         },
         {
           "label": "Soir",
@@ -415,6 +317,22 @@
             -110.36
           ],
           "culture": "Île désertique protégée, aux falaises rouges et aux criques turquoise, classée par l'UNESCO avec les îles du golfe de Californie."
+        },
+        {
+          "name": "Los Islotes",
+          "coords": [
+            24.5967,
+            -110.3993
+          ],
+          "culture": "Îlots rocheux à la pointe nord d'Espíritu Santo, où vit une colonie de lions de mer de Californie. La baignade y est fermée de juin à août, pendant les naissances, et ouverte en janvier."
+        },
+        {
+          "name": "Ensenada Grande",
+          "coords": [
+            24.5605,
+            -110.395
+          ],
+          "culture": "Grande baie de sable blanc sur la côte ouest d'Espíritu Santo."
         }
       ],
       "stay": {
@@ -428,54 +346,406 @@
       "transport": [
         {
           "mode": "boat",
-          "text": "La Paz → île Espíritu Santo : environ 1 h de bateau",
+          "text": "La Paz → Los Islotes : environ 1 h 15 de bateau",
           "after": -1
         }
       ],
       "notes": [
-        "En hiver, le vent du nord souffle souvent : les opérateurs se replient alors sur les baies abritées du sud de l'île, ou annulent. Grossesse : choisir un bateau assez grand, s'asseoir à l'arrière et renoncer si la mer est formée. Une journée de plage à Balandra ou à El Tecolote remplace très bien la sortie."
+        "En hiver, le vent du nord souffle souvent : Los Islotes est alors inaccessible, et les opérateurs se replient sur les baies abritées du sud de l'île, ou annulent. Grossesse : choisir un bateau assez grand, s'asseoir à l'arrière, rester à distance des mâles et renoncer si la mer est formée. Combinaison néoprène conseillée (mer autour de 21 °C).",
+        "Garder cette journée flexible : la faire le jour le plus calme entre le jour 4 et le jour 5, en inversant avec le jour 5 si besoin. Sans sortie possible : Playa El Tecolote, longue plage calme face à l'île."
+      ],
+      "ideas": [
+        {
+          "label": "Requins-baleines dans la baie de La Paz",
+          "text": "Le matin, petit bateau (environ 20 min) puis snorkeling en surface à côté de jeunes requins-baleines de 5 à 10 m, inoffensifs, près d'El Mogote. Sortie de 2 à 3 h, saison d'octobre à avril, seulement si assez d'animaux sont présents (suspendue en février 2024 et en février 2025). Avertissement : la baie est un refuge protégé depuis 2018 et les sorties sont encadrées (un bateau par requin, cinq nageurs au plus, interdiction de toucher), mais une étude de Whale Shark Mexico publiée en 2025 montre que 50 à 60 % des requins-baleines de la baie portent des blessures causées par les bateaux. Si on y va : opérateur agréé, petit groupe, crème solaire biodégradable, rester à au moins 2 m de l'animal. À faire un matin à la place de Balandra, en décalant Balandra sur le créneau de 13 h à 17 h."
+        }
       ]
     },
     {
-      "n": 8,
-      "title": "Retour vers Los Cabos et vol direct vers San Francisco",
-      "summary": "Route vers l'aéroport de Los Cabos, puis vol direct de 3 h 20 vers San Francisco, arrivée en début de soirée.",
+      "n": 5,
       "route": "drive",
+      "title": "Balandra, puis Todos Santos et Pescadero",
+      "summary": "Le matin, la lagune turquoise de Balandra ; l'après-midi, la côte pacifique : les rues de Todos Santos, une ferme de Pescadero, et le coucher du soleil sur la vague de San Pedrito.",
       "parts": [
         {
           "label": "Matin",
-          "text": "Petit-déjeuner sur le Malecón, puis route vers l'aéroport de Los Cabos (environ 2 h)."
+          "text": "Playa Balandra, créneau de 8 h à 12 h : lagune peu profonde où l'on marche dans l'eau turquoise, et sentier jusqu'au point de vue au-dessus de la baie. Hérons, aigrettes et balbuzards dans la mangrove, raies et petits poissons dans l'eau claire."
         },
         {
-          "label": "Départ",
-          "text": "Retour de la voiture et vol direct United vers San Francisco."
+          "label": "Midi",
+          "text": "Route vers Todos Santos et déjeuner de produits de la ferme, chez Hierbabuena ou Jazamango."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Todos Santos, petite ville classée Pueblo Mágico : mission, théâtre Márquez de León, maisons de brique du XIXe siècle et boutiques d'artisanat, et l'Hotel California. Puis Pescadero, à 15 min : ferme bio et vergers (mangues, avocats, agrumes) où l'on achète ses fruits."
+        },
+        {
+          "label": "Coucher du soleil",
+          "text": "Playa San Pedrito : la vague droite la plus réputée de la côte, à regarder depuis la plage, ou Playa Los Cerritos pour une dernière baignade, plus sûre."
+        },
+        {
+          "label": "Soir",
+          "text": "Dîner à Todos Santos, puis retour à La Paz par la route 19 (environ 1 h, autoroute à quatre voies)."
         }
       ],
       "stops": [
         {
-          "name": "Aéroport de Los Cabos (SJD)",
-          "wiki": "Los Cabos International Airport"
+          "name": "Playa Balandra",
+          "coords": [
+            24.322,
+            -110.327
+          ],
+          "culture": "Lagune protégée de sable blanc et d'eau turquoise peu profonde, dans une aire naturelle : l'accès est limité à 450 personnes par créneau.",
+          "photo": "File:Playa Balandra, Baja California Sur 5.jpg"
+        },
+        {
+          "name": "Mission de Todos Santos",
+          "coords": [
+            23.4475,
+            -110.2245
+          ],
+          "culture": "Mission fondée en 1723, au cœur de la petite ville.",
+          "photo": "File:Mission at Todos Santos (199627044).jpg"
+        },
+        {
+          "name": "Pescadero",
+          "coords": [
+            23.3647,
+            -110.1693
+          ],
+          "culture": "Village agricole de la côte pacifique, connu pour ses fermes bio, ses vergers et ses restaurants de poisson."
+        },
+        {
+          "name": "Playa San Pedrito",
+          "coords": [
+            23.3897,
+            -110.201
+          ],
+          "culture": "Plage de sable au sud de Todos Santos, avec une vague droite de pointe réputée chez les surfeurs."
+        },
+        {
+          "name": "Playa Los Cerritos",
+          "coords": [
+            23.3285,
+            -110.1735
+          ],
+          "culture": "Longue plage de sable sur le Pacifique, protégée par une pointe rocheuse : l'une des rares où l'on peut se baigner sur cette côte.",
+          "photo": "File:Cerritos Beach - Near Todos Santos - Baja California Sur - Mexico - 04 (23775057435).jpg"
         }
       ],
-      "end": "Vol direct Los Cabos → San Francisco",
+      "stay": {
+        "name": "La Paz",
+        "coords": [
+          24.158,
+          -110.313
+        ],
+        "note": "Même hôtel que la veille"
+      },
       "transport": [
         {
           "mode": "car",
-          "text": "La Paz → aéroport de Los Cabos : environ 2 h",
+          "text": "La Paz → Balandra : environ 30 min",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Balandra → Todos Santos : environ 1 h 30",
           "after": 0
         },
         {
-          "mode": "flight",
-          "text": "Los Cabos → San Francisco : United direct, 16 h 23 → 18 h 45 (environ 302 $ par personne dans Navan, tarif de base), ou 14 h 20 → 16 h 42 (environ 329 $)",
+          "mode": "car",
+          "text": "Todos Santos → Pescadero : environ 15 min",
+          "after": 2
+        },
+        {
+          "mode": "car",
+          "text": "Todos Santos → La Paz : environ 1 h",
+          "after": 4
+        }
+      ],
+      "food": [
+        "Déjeuner à Todos Santos, dîner de poisson à Pescadero ou Todos Santos. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+      ],
+      "ideas": [
+        {
+          "label": "Surf",
+          "text": "L'hiver est la saison des houles du nord-ouest sur la côte de Todos Santos. Cerritos : vagues douces sur fond de sable, écoles et location de planches sur la plage, idéal pour débuter. San Pedrito et La Pastora : pointes pour surfeurs confirmés. Grossesse : surf déconseillé pour la future maman ; le partenaire peut surfer pendant qu'elle profite de la plage de Cerritos."
+        },
+        {
+          "label": "Baleines depuis la plage",
+          "text": "Depuis Punta Lobos et la plage de La Pastora, on voit souvent en janvier les souffles et les sauts des baleines à bosse au large, sans déranger personne."
+        },
+        {
+          "label": "Lâcher de bébés tortues",
+          "text": "Le groupe Tortugueros Las Playitas relâche des bébés tortues au coucher du soleil, en principe jusqu'à mi-janvier et seulement s'il reste des éclosions. Avertissement : l'écloserie protège réellement les nids, mais pour le lâcher en public les tortues sont gardées plusieurs heures après l'éclosion, une pratique critiquée par des associations de conservation mexicaines. Si on y va : ne pas toucher les tortues, pas de flash, et rester derrière la ligne. On peut aussi soutenir l'écloserie par un don sans assister au lâcher."
+        },
+        {
+          "label": "La Paz : marché et cathédrale",
+          "text": "Le marché municipal Francisco I. Madero (fruits, tacos, jus frais) et la cathédrale Notre-Dame-de-La-Paz, sur la place Constitución, se voient en une heure : un matin avant la plage, ou un soir sur le chemin du Malecón."
+        }
+      ],
+      "notes": [
+        "Réserver le bracelet de Balandra à l'avance auprès de la CONANP (environ 120 pesos, 450 personnes par créneau, deux créneaux : 8 h-12 h et 13 h-17 h). Sur la côte pacifique, ne se baigner qu'à Cerritos."
+      ]
+    },
+    {
+      "n": 6,
+      "route": "drive",
+      "title": "Route vers Loreto",
+      "summary": "La grande traversée vers le nord : le désert de cardons et la plaine de Ciudad Constitución, puis la descente vers la mer de Cortez et Loreto, première mission des Californies.",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Départ de La Paz vers 8 h par la route 1, à travers le désert de cardons et les plaines agricoles de Ciudad Constitución. Pause café à mi-chemin."
+        },
+        {
+          "label": "Midi",
+          "text": "Fin de route spectaculaire : la descente vers la mer de Cortez au pied de la Sierra de la Giganta, montagne ocre rouge, avec les îles de la baie de Loreto au large. Arrivée vers 13 h, déjeuner."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Loreto, petite ville tranquille : la mission Notre-Dame de Loreto, fondée en 1697, la première des Californies, et son petit musée des missions ; les rues piétonnes autour de la place."
+        },
+        {
+          "label": "Coucher du soleil",
+          "text": "Malecón de Loreto, face à l'île Carmen."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Mission de Loreto",
+          "wiki": "Misión de Nuestra Señora de Loreto Conchó",
+          "coords": [
+            26.0113,
+            -111.3434
+          ],
+          "culture": "Première mission permanente des Californies, fondée par les jésuites en 1697 : le point de départ de la colonisation de toute la côte jusqu'à San Francisco."
+        },
+        {
+          "name": "Malecón de Loreto",
+          "coords": [
+            26.013,
+            -111.341
+          ],
+          "culture": "Promenade du bord de mer, face aux îles du parc national de la baie de Loreto."
+        }
+      ],
+      "stay": {
+        "name": "Loreto",
+        "coords": [
+          26.011,
+          -111.344
+        ],
+        "note": "Loreto, 2 nuits : petit hôtel dans le centre historique",
+        "options": [
+          "Posada de las Flores (petit hôtel sur la place, à vérifier)",
+          "Hotel 1697 (à vérifier)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "La Paz → Loreto : environ 4 h 30 à 5 h par la route 1",
           "after": 0
         }
+      ],
+      "ideas": [
+        {
+          "label": "Baleines grises de la baie de Magdalena",
+          "text": "De janvier à mars, les baleines grises viennent mettre bas dans la lagune de Magdalena, à environ 3 h de La Paz, où elles s'approchent d'elles-mêmes des barques. Avertissement : l'observation est réglementée dans une zone protégée, mais les barques approchent des mères et de leurs petits. Sur la route : depuis Ciudad Constitución, détour de 1 h vers Puerto San Carlos, sortie en barque de 2 h, puis 1 h pour revenir sur la route 1. C'est le seul endroit où la présence des baleines est quasi certaine fin janvier. Ajoute environ 4 h à la journée : partir de La Paz à 6 h 30, et arriver à Loreto en fin de journée."
+        }
+      ],
+      "notes": [
+        "La plus longue journée de route (environ 360 km), sur une route goudronnée à deux voies : faire le plein à Ciudad Constitución, rouler de jour seulement (bétail sur la route), et s'arrêter toutes les heures et demie, pour la grossesse."
+      ]
+    },
+    {
+      "n": 7,
+      "route": "drive",
+      "title": "La baie de Concepción",
+      "summary": "Journée sur la plus belle côte de la péninsule : une suite de plages sauvages d'eau turquoise et calme, adossées au désert et aux cardons.",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Route vers le nord le long de la mer. Playa El Requesón, la plus belle : une langue de sable blanc qui rejoint un îlot à marée basse, de l'eau des deux côtés. Puis Playa La Perla, juste à côté."
+        },
+        {
+          "label": "Midi",
+          "text": "Playa Escondida et Playa Ecomundo : location de masques, tubas et kayaks pour longer la côte dans l'eau calme de la baie. Pique-nique ou poisson grillé dans une palapa."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Playa Santispac, au fond de la baie, puis le point de vue sur la route au-dessus, d'où l'on voit toute la baie et ses îlots. Si le temps le permet, Mulegé, à 20 min : petite oasis de palmiers au bord d'une rivière, et sa mission de 1766."
+        },
+        {
+          "label": "Soir",
+          "text": "Retour à Loreto avant la nuit et dîner."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Playa El Requesón",
+          "wiki": "Bahía Concepción",
+          "coords": [
+            26.6403,
+            -111.8317
+          ],
+          "culture": "Langue de sable qui relie la côte à un îlot à marée basse, dans la baie de Concepción."
+        },
+        {
+          "name": "Playa La Perla",
+          "coords": [
+            26.645,
+            -111.8335
+          ],
+          "culture": "Petite crique de sable blanc, voisine d'El Requesón."
+        },
+        {
+          "name": "Playa Ecomundo",
+          "coords": [
+            26.752,
+            -111.884
+          ],
+          "culture": "Plage abritée avec location de kayaks et de matériel de snorkeling."
+        },
+        {
+          "name": "Playa Santispac",
+          "coords": [
+            26.7647,
+            -111.8879
+          ],
+          "culture": "Plage au fond d'une anse protégée, au nord de la baie, avec la vue sur l'ensemble de la baie depuis la route."
+        },
+        {
+          "name": "Mulegé",
+          "wiki": "Mulegé",
+          "coords": [
+            26.8919,
+            -111.9814
+          ],
+          "culture": "Oasis de palmiers dattiers au bord d'une rivière, avec une mission jésuite de 1766 sur la colline."
+        }
+      ],
+      "stay": {
+        "name": "Loreto",
+        "coords": [
+          26.011,
+          -111.344
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Loreto → Playa El Requesón : environ 1 h 30",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Requesón → Santispac : environ 20 min, avec les arrêts aux plages",
+          "after": 1
+        },
+        {
+          "mode": "car",
+          "text": "Santispac → Loreto : environ 1 h 45 (2 h par Mulegé)",
+          "after": 2
+        }
+      ],
+      "food": [
+        "Poisson grillé dans les palapas de la baie. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+      ],
+      "notes": [
+        "Il n'y a presque rien sur les plages : prendre eau, parasol et pique-nique. Les plages ne sont pas surveillées, mais la mer y est très calme."
+      ]
+    },
+    {
+      "n": 8,
+      "route": "drive",
+      "title": "Baleines bleues, mission de San Javier, puis vol vers San Francisco",
+      "summary": "Une sortie en barque dans la baie de Loreto, avec une chance de voir des baleines bleues, puis la route de montagne jusqu'à la mission de San Javier, avant le vol du soir vers San Francisco.",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Sortie en barque de 3 h dans le parc national de la baie de Loreto, départ vers 7 h 30, quand la mer est la plus calme : dauphins et rorquals communs, et peut-être une baleine bleue, le plus grand animal ayant jamais existé."
+        },
+        {
+          "label": "Midi",
+          "text": "Route vers la mission de San Javier : 35 km dans la Sierra de la Giganta, montagne ocre rouge couverte de cardons, puis le long d'une petite rivière bordée de palmiers jusqu'au village. Déjeuner simple au village."
+        },
+        {
+          "label": "Début d'après-midi",
+          "text": "Mission de San Francisco Javier (1758), l'une des plus belles missions jésuites de Basse-Californie, en pierre volcanique, avec son retable doré et un olivier planté par les missionnaires. Retour à Loreto."
+        },
+        {
+          "label": "Départ",
+          "text": "Retour de la voiture à l'aéroport de Loreto vers 15 h, vol Alaska via Los Angeles, arrivée à San Francisco à 21 h 27."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Baie de Loreto (baleines)",
+          "wiki": "Loreto Bay National Marine Park",
+          "coords": [
+            25.95,
+            -111.25
+          ],
+          "culture": "Parc national marin de la baie de Loreto, classé par l'UNESCO avec les îles du golfe de Californie : l'un des rares endroits où les baleines bleues viennent se nourrir près de la côte."
+        },
+        {
+          "name": "Mission de San Javier",
+          "wiki": "Misión San Francisco Javier de Viggé-Biaundó",
+          "coords": [
+            25.8606,
+            -111.544
+          ],
+          "culture": "Mission jésuite achevée en 1758, au cœur de la Sierra de la Giganta, souvent considérée comme la plus belle de Basse-Californie."
+        },
+        {
+          "name": "Aéroport de Loreto (LTO)",
+          "coords": [
+            25.9892,
+            -111.348
+          ],
+          "culture": "Petit aéroport international, à 10 min du centre."
+        }
+      ],
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Barque dans la baie : environ 3 h",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Loreto → San Javier : environ 1 h",
+          "after": 0
+        },
+        {
+          "mode": "car",
+          "text": "San Javier → aéroport de Loreto : environ 1 h",
+          "after": 2
+        },
+        {
+          "mode": "flight",
+          "text": "Loreto → Los Angeles → San Francisco : Alaska AS3227 puis AS411, 17 h 01 → 21 h 27, une escale de 1 h 35 (environ 260 à 320 $ par personne dans Navan, tarif de base). Ou American via Phoenix, 12 h 08 → 16 h 27 (environ 225 $), mais sans les baleines ni San Javier.",
+          "after": 3
+        }
+      ],
+      "ideas": [
+        {
+          "label": "Baleines bleues : probabilité réelle et avertissement",
+          "text": "Fin janvier, la probabilité de voir une baleine bleue est faible à moyenne : la saison va de janvier à mars, avec un pic en février et mars, et les premières arrivent courant janvier, certaines années seulement en février. Aucun chiffre de taux d'observation n'est publié. Le plus probable : dauphins et rorquals communs, et peut-être une baleine bleue. L'observation est encadrée dans le parc national (distance minimale, moteur au ralenti, durée limitée), et il y a beaucoup moins de bateaux qu'à Cabo, mais cela reste une approche en bateau : choisir un opérateur agréé du parc, en petit groupe, qui coupe le moteur à distance. Grossesse : barque ouverte, à éviter si la mer est formée ; sinon, kayak tranquille le long du Malecón ou matinée sur la plage."
+        }
+      ],
+      "notes": [
+        "Location de voiture prise à Los Cabos et rendue à Loreto : prévoir des frais d'abandon, parfois élevés, à vérifier au moment de réserver."
       ]
     }
   ],
   "guides": [
     {
       "id": "avis",
-      "title": "Notre avis : pourquoi Todos Santos et La Paz",
+      "title": "Notre avis : de Los Cabos à Loreto, et la variante plus calme",
       "summary": "Les choix de l'itinéraire pour une grossesse, les vols, et ce qui a été écarté.",
       "blocks": [
         {
@@ -485,10 +755,9 @@
         {
           "type": "list",
           "items": [
-            "Les deux bases les plus « boutique » de Basse-Californie du Sud : Todos Santos sur le Pacifique et La Paz sur la mer de Cortez, loin des resorts du corridor de Los Cabos.",
-            "Les plus belles plages pour se baigner sans vagues : Balandra, El Tecolote, Santa María et Cerritos.",
-            "Peu de route : 1 h 15 au plus par jour, sauf le dernier jour (2 h jusqu'à l'aéroport).",
-            "Le retour vers San Francisco est un vol direct de 3 h 20."
+            "Tous les sites les plus spectaculaires du sud de la péninsule en une semaine, à un rythme soutenu : l'arche de Cabo San Lucas, le récif de Cabo Pulmo, Espíritu Santo et ses otaries, Balandra, Todos Santos, puis la baie de Concepción, la plus belle côte de la péninsule, et la mission de San Javier.",
+            "Des bases à taille humaine, loin des resorts : un village de pêcheurs à Cabo Pulmo, un hôtel boutique à La Paz, un petit hôtel dans le centre de Loreto.",
+            "Le prix : beaucoup de route (environ 20 h en tout, dont une journée de 5 h entre La Paz et Loreto), et un retour avec une escale au lieu d'un vol direct. La variante plus calme ci-dessous reste dans le sud."
           ]
         },
         {
@@ -505,11 +774,6 @@
         },
         {
           "type": "table",
-          "columns": [
-            "Trajet",
-            "Vol",
-            "Prix"
-          ],
           "rows": [
             [
               "Paris → Los Cabos, lundi 18",
@@ -517,15 +781,30 @@
               "~651 $"
             ],
             [
-              "Los Cabos → San Francisco, lundi 25",
+              "Loreto → San Francisco, lundi 25",
+              "Alaska via Los Angeles, 17 h 01 → 21 h 27",
+              "~260 à 320 $"
+            ],
+            [
+              "Ou : Loreto → San Francisco, lundi 25",
+              "American via Phoenix, 12 h 08 → 16 h 27",
+              "~225 $"
+            ],
+            [
+              "Variante calme : Los Cabos → San Francisco, lundi 25",
               "United direct, 16 h 23 → 18 h 45",
               "~302 $"
             ]
+          ],
+          "columns": [
+            "Trajet",
+            "Vol",
+            "Prix"
           ]
         },
         {
           "type": "text",
-          "text": "Le tarif Condor « Economy Zero » et le tarif de base United n'incluent pas de bagage en soute : compter environ 50 à 100 $ de plus par trajet et par valise."
+          "text": "Il n'y a pas de vol direct Loreto → San Francisco en janvier 2027 : Alaska a annulé la ligne prévue pour l'hiver 2026-2027. Les tarifs de base n'incluent pas de bagage en soute : compter environ 50 à 100 $ de plus par trajet et par valise."
         },
         {
           "type": "heading",
@@ -537,14 +816,77 @@
         },
         {
           "type": "heading",
+          "text": "Variante plus calme : le sud seulement"
+        },
+        {
+          "type": "text",
+          "text": "Moins de route (environ 9 h en tout), un vol direct vers San Francisco, et plus de temps sur chaque plage. On perd la baie de Concepción, San Javier, Los Barriles et les baleines de Loreto."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Jour 1",
+              "Arrivée à Los Cabos",
+              "San José del Cabo"
+            ],
+            [
+              "Jour 2",
+              "Cabo Pulmo à la journée : récif et Los Arbolitos",
+              "San José del Cabo"
+            ],
+            [
+              "Jour 3",
+              "Santa María, l'arche de Cabo San Lucas, Cerritos",
+              "Todos Santos"
+            ],
+            [
+              "Jour 4",
+              "Todos Santos, Pescadero, Punta Lobos et La Pastora",
+              "Todos Santos"
+            ],
+            [
+              "Jour 5",
+              "Route vers La Paz, El Tecolote, Malecón",
+              "La Paz"
+            ],
+            [
+              "Jour 6",
+              "Balandra et El Tesoro",
+              "La Paz"
+            ],
+            [
+              "Jour 7",
+              "Espíritu Santo et Los Islotes",
+              "La Paz"
+            ],
+            [
+              "Jour 8",
+              "El Triunfo (et le Santuario de los Cactus), puis vol direct United Los Cabos → San Francisco, 16 h 23 → 18 h 45",
+              "–"
+            ]
+          ],
+          "columns": [
+            "Jour",
+            "Programme",
+            "Nuit"
+          ]
+        },
+        {
+          "type": "heading",
           "text": "Écarté"
         },
         {
           "type": "list",
           "items": [
-            "Le corridor de Cabo San Lucas : resorts américains géants.",
-            "Cabo Pulmo : très beau récif, mais à 2 h 30 de La Paz, en partie par une piste.",
-            "Riviera Nayarit (Sayulita) : dengue active même en saison sèche et eaux usées récurrentes sur la plage principale de Sayulita."
+            "Le corridor de Cabo San Lucas : resorts américains géants, la plage d'El Médano (jet-skis, fête) et la randonnée du mont Solmar (raide, accès contesté). On y passe seulement pour le bateau jusqu'à l'arche.",
+            "Riviera Nayarit (Sayulita) : dengue active même en saison sèche et eaux usées récurrentes sur la plage principale de Sayulita.",
+            "Les baleines grises de la baie de Magdalena et les baleines à bosse de Cabo : en idées avec un avertissement, aux jours 2 et 6.",
+            "Nager avec les requins-baleines de la baie de La Paz : la baie est un refuge protégé depuis 2018 et les sorties sont encadrées, mais une étude de Whale Shark Mexico publiée en 2025 montre que 50 à 60 % des requins-baleines de la baie portent encore des blessures causées par les bateaux. Le respect total de l'animal n'est pas garanti : laissé en idée, avec un avertissement, au jour 4.",
+            "Les lâchers de bébés tortues à Todos Santos : les écloseries protègent réellement les nids, mais les lâchers en public au coucher du soleil gardent les tortues plusieurs heures après l'éclosion pour attendre les visiteurs, une pratique critiquée par des associations de conservation mexicaines. On peut soutenir les écloseries par un don sans assister au lâcher. Laissé en idée, avec un avertissement, au jour 5.",
+            "La Sierra de la Laguna : les belles randonnées y sont longues, souvent sur plusieurs jours ; on la longe au canyon de la Zorra.",
+            "La Ventana, près de La Paz : encore plus réputée que Los Barriles pour le kitesurf, mais sans intérêt pour des non-pratiquants une fois Los Barriles vu.",
+            "Les otaries de Los Islotes ne sont pas des loutres : il n'y a pas de loutres dans le sud de la Basse-Californie. Les plus proches sont les loutres de mer de Moss Landing, sur la route de Carmel à San Francisco."
           ]
         }
       ]

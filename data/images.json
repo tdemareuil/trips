@@ -7272,5 +7272,131 @@
   "license": "Attribution",
   "extract": "Le Seven Mile Bridge, est un ouvrage d'art de l'U.S. Route 1, appelée Overseas Highway, dans les Keys de Floride aux États-Unis.",
   "article": "https://fr.wikipedia.org/wiki/Seven_Mile_Bridge"
+ },
+ "Christ of the Abyss": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Cristo_degli_abissi.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cristo_degli_abissi.jpg",
+  "artist": "The original uploader was Yoruno at Italian Wikipedia.",
+  "license": "CC BY-SA 3.0",
+  "lat": 44.31404,
+  "lon": 9.17498,
+  "extract": "Le Christ des Abysses est une imposante sculpture en bronze, placée à 17 m de profondeur dans la baie de San Fruttuoso de Camogli en Italie.",
+  "article": "https://fr.wikipedia.org/wiki/Christ_des_Abysses"
+ },
+ "El Arco de Cabo San Lucas": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Cabo_San_Lucas_Los_Arcos_3.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cabo_San_Lucas_Los_Arcos_3.jpg",
+  "artist": "User:Stan Shebs",
+  "license": "CC BY-SA 3.0",
+  "lat": 22.87515,
+  "lon": -109.89417
+ },
+ "El Triunfo, Baja California Sur": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/El_Triunfo%2C_South_Baja_California_%285761729379%29.jpg/1920px-El_Triunfo%2C_South_Baja_California_%285761729379%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:El_Triunfo,_South_Baja_California_(5761729379).jpg",
+  "artist": "Amante Darmanin from Malta",
+  "license": "CC BY 2.0",
+  "lat": 23.80389,
+  "lon": -110.10611
+ },
+ "Everglades National Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Sunset_over_the_River_of_Grass%2C_NPSphoto%2C_G.Gardner_%289255157507%29.jpg/1920px-Sunset_over_the_River_of_Grass%2C_NPSphoto%2C_G.Gardner_%289255157507%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sunset_over_the_River_of_Grass,_NPSphoto,_G.Gardner_(9255157507).jpg",
+  "artist": "Everglades NPS from Homestead, Florida, United States",
+  "license": "Public domain",
+  "lat": 25.3125,
+  "lon": -80.6875,
+  "extract": "Le parc national des Everglades, situé en Floride, aux États-Unis, s'étend sur les comtés de Miami-Dade, Monroe et de Collier.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_des_Everglades"
+ },
+ "Looe Key": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Looe_Key_chart11445.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Looe_Key_chart11445.jpg",
+  "artist": "NOAA",
+  "license": "Public domain",
+  "lat": 24.54861,
+  "lon": -81.40583
+ },
+ "Vizcaya Museum and Gardens": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Villa_Vizcaya_20110228.jpg/1920px-Villa_Vizcaya_20110228.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Villa_Vizcaya_20110228.jpg",
+  "artist": "Averette",
+  "license": "CC BY 3.0",
+  "lat": 25.74361,
+  "lon": -80.21028,
+  "extract": "Le musée et les jardins Vizcaya, anciennement la villa Vizcaya, est un édifice construit dans le style d'une villa nord italienne du XVIe siècle. Il est localisé à Coconut Grove un quartier près du centre de Miami en Floride aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Villa_Vizcaya"
+ },
+ "Whale shark": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Similan_Dive_Center_-_great_whale_shark.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Similan_Dive_Center_-_great_whale_shark.jpg",
+  "artist": "Abe Khao Lak",
+  "license": "CC BY-SA 4.0",
+  "extract": "Le Requin-baleine est une espèce de poissons cartilagineux, seul membre du genre Rhincodon et seule espèce actuelle de la famille des Rhincodontidae.",
+  "article": "https://fr.wikipedia.org/wiki/Requin-baleine"
+ },
+ "Cabo Pulmo National Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Cabo_Pulmo.jpg/1920px-Cabo_Pulmo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cabo_Pulmo.jpg",
+  "artist": "John Markos O'Neill from San Francisco, California",
+  "license": "CC BY-SA 2.0",
+  "lat": 23.43361,
+  "lon": -109.42444,
+  "extract": "Le parc national de Cabo Pulmo qui inclut une partie de la baie de Cabo Pulmo est l'une des aires naturelles marines réputées les plus importantes de la région de la mer de Cortez, au sud de la péninsule de Basse-Californie du Sud, sur la côte pacifique du Mexique, au niveau du tropique du Cancer.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_Cabo_Pulmo"
+ },
+ "Flamingo, Florida": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Flamingo_Visitor_Center_FL1.jpg/1920px-Flamingo_Visitor_Center_FL1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Flamingo_Visitor_Center_FL1.jpg",
+  "artist": "Acroterion",
+  "license": "CC BY-SA 4.0",
+  "lat": 25.14083,
+  "lon": -80.92417,
+  "extract": "Flamingo est une zone non-incorporée du comté de Monroe, en Floride, aux États-Unis. Terminus d'une route traversant le parc national des Everglades, elle en constitue le point le plus méridional.",
+  "article": "https://fr.wikipedia.org/wiki/Flamingo_(Floride)"
+ },
+ "Moss Landing, California": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Moss_Landing_California_aerial_view.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Moss_Landing_California_aerial_view.jpg",
+  "artist": "U.S. Army Corps of Engineers, photographer not specified or unknown",
+  "license": "Public domain",
+  "lat": 36.80444,
+  "lon": -121.78694,
+  "extract": "Moss Landing est une census-designated place américaine dans le comté de Monterey, en Californie.",
+  "article": "https://fr.wikipedia.org/wiki/Moss_Landing"
+ },
+ "Bahía Concepción": {},
+ "Loreto Bay National Marine Park": {},
+ "Los Barriles": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Los_Barriles_Beach.jpg/1920px-Los_Barriles_Beach.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Los_Barriles_Beach.jpg",
+  "artist": "Purecabo",
+  "license": "CC BY-SA 4.0",
+  "lat": 23.68,
+  "lon": -109.69944
+ },
+ "Misión San Francisco Javier de Viggé-Biaundó": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/San_javier_mission_3_%2839760880685%29.jpg/1920px-San_javier_mission_3_%2839760880685%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:San_javier_mission_3_(39760880685).jpg",
+  "artist": "Rafael Saldaña",
+  "license": "CC BY 2.0",
+  "lat": 25.861,
+  "lon": -111.544
+ },
+ "Misión de Nuestra Señora de Loreto Conchó": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Iglesia_de_Nuestra_Se%C3%B1ora_de_Loreto_y_Museo_de_la_Misi%C3%B3n.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Nuestra_Se%C3%B1ora_de_Loreto_y_Museo_de_la_Misi%C3%B3n.JPG",
+  "artist": "Lugasalo",
+  "license": "CC BY-SA 3.0",
+  "lat": 26.01028,
+  "lon": -111.34333
+ },
+ "Mulegé": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Santa_rosal%C3%ADa_exterior.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Santa_rosal%C3%ADa_exterior.jpg",
+  "artist": "Rose Vekony",
+  "license": "CC BY-SA 3.0",
+  "lat": 26.89167,
+  "lon": -111.98083
  }
 }
