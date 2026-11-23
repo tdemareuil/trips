@@ -110,7 +110,7 @@
       "n": 4,
       "title": "Rio ➔ Ilha Grande",
       "summary": "Transfert vers Ilha Grande, île sans voitures au large de la côte sud de l'État de Rio. Randonnée et plages : Lopes Mendes, Pico do Papagaio, cascade de la Feiticeira.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Lopes Mendes",
@@ -434,7 +434,7 @@
       "n": 12,
       "title": "Boipeba ➔ Salvador ➔ Chapada Diamantina",
       "summary": "Matinée à Boipeba, retour à Salvador dans l'après-midi pour visiter la ville, puis bus de nuit vers la Chapada Diamantina.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -545,7 +545,7 @@
       "n": 15,
       "title": "Chapada Diamantina ➔ Salvador",
       "summary": "Dernière journée de randonnée et d'exploration dans la Chapada, avant le bus de nuit de retour vers Salvador.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Poço Encantado",
@@ -693,7 +693,7 @@
       "n": 19,
       "title": "São Luís ➔ Jericoacoara",
       "summary": "Longue journée en 4x4 vers Jericoacoara, pour une première soirée dans ce village de dunes.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Jericoacoara",
@@ -722,7 +722,7 @@
       "n": 20,
       "title": "Jericoacoara ➔ Fortaleza",
       "summary": "Activités nautiques et détente à Jericoacoara, puis transfert en 4x4 vers Fortaleza par les beaux endroits de la côte. Souvenirs au marché artisanal et promenade sur l'Avenida Beira Mar.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Pedra Furada",

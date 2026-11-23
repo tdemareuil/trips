@@ -70,7 +70,7 @@
       "n": 2,
       "title": "Mont Kilimandjaro",
       "summary": "Randonnée au pied du Kilimandjaro et exploration des villages chagga, avec une vue spectaculaire sur le sommet.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Mont Kilimandjaro",
@@ -136,7 +136,7 @@
       "n": 3,
       "title": "Parc d'Amboseli (Kenya)",
       "summary": "Passage de la frontière, puis safari et montgolfière face au Kilimandjaro dans le parc d'Amboseli.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Frontière de Loitokitok",
@@ -207,7 +207,7 @@
       "n": 4,
       "title": "Arusha → parc de Tarangire",
       "summary": "Safari d'après-midi dans le parc de Tarangire, pour ses éléphants et ses baobabs, avec un passage par Mto Wa Mbu.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Mto Wa Mbu",
@@ -327,7 +327,7 @@
       "n": 6,
       "title": "Volcan Ol Doinyo Lengai",
       "summary": "Ascension du volcan sacré des Maasaï, de nuit (4 à 6 h) ou en exploration de jour, et rencontre avec les Maasaï locaux.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Ol Doinyo Lengai",
@@ -364,7 +364,7 @@
       "n": 7,
       "title": "Ol Doinyo Lengai → cratère du Ngorongoro",
       "summary": "Route vers le cratère du Ngorongoro et safari toute la journée dans le cratère : Big 5 et rhinocéros noirs.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Cratère du Ngorongoro",
@@ -415,7 +415,7 @@
       "n": 8,
       "title": "Parc du Serengeti",
       "summary": "Safari au lever du soleil dans le Serengeti : grande migration, grands félins, plaines et kopjes ; villages traditionnels autour du lac Eyasi.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Lac Eyasi",
@@ -506,7 +506,7 @@
       "n": 10,
       "title": "Serengeti → Masai Mara",
       "summary": "Passage de la frontière à Isebania (eVisa, shillings, 1 à 2 h), puis safari l'après-midi dans le Masai Mara.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Réserve nationale du Masai Mara",
@@ -677,7 +677,7 @@
       "n": 14,
       "title": "Mahé",
       "summary": "Randonnée au Morne Seychellois, marché de Victoria, jardin botanique et plages sauvages du Sud.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Morne Seychellois",
@@ -1004,7 +1004,7 @@
       "n": 20,
       "title": "La Digue : exploration approfondie",
       "summary": "Randonnée vers la plage isolée d'Anse Cocos, piscines naturelles, Grand Anse et Petite Anse ; paddle ou kayak au coucher du soleil en option.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Anse Cocos",

@@ -77,7 +77,7 @@
       "n": 2,
       "title": "Samedi : canyoning et route de la côte nord",
       "summary": "Petit déjeuner vue mer et canyoning à Ribeiro Frio, puis déjeuner à Porto da Cruz et route de la côte nord jusqu'à São Vicente, où l'on arrive après 17 h 30 à cause des routes fermées pour un rallye.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Ribeiro Frio",
@@ -159,7 +159,7 @@
       "n": 3,
       "title": "Dimanche : côte nord et ouest, fête des fleurs",
       "summary": "Messe, exploration rapide du centre de l'île (route ER105 fermée), puis roadtrip côte nord et ouest vers Atrio, avec Seixal et la forêt de Fanal ; l'après-midi, fête des fleurs à Funchal.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Seixal",
@@ -245,7 +245,7 @@
       "n": 4,
       "title": "Lundi : nord-ouest et retour à Funchal",
       "summary": "Roadtrip dans le nord-ouest de l'île (Fanal si pas déjà fait) ou canyoning ; déjeuner près de Seixal ou coupe vers Funchal par la randonnée PR25 ; retour à Funchal pour le jardin botanique, le vin et la broderie ; coucher de soleil à la vallée des Nonnes et dîner en taverne.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Levada das 25 Fontes",

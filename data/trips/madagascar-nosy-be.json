@@ -94,7 +94,7 @@
       "n": 3,
       "title": "Andasibe → parc de Ranomafana",
       "summary": "Voiture (6 h) vers Ranomafana, forêt tropicale dense, sources chaudes naturelles et lémuriens rares.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Parc national de Ranomafana",
@@ -162,7 +162,7 @@
       "n": 5,
       "title": "Ranomafana → Fianarantsoa → Isalo",
       "summary": "Voiture (6 h) puis découverte du massif de l'Isalo : formations rocheuses uniques, canyons et piscines naturelles.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Fianarantsoa",
@@ -399,7 +399,7 @@
       "n": 10,
       "title": "Nosy Be : Andilana",
       "summary": "Journée détente à Andilana Beach et excursion en quad pour explorer l'île.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Plage d'Andilana",

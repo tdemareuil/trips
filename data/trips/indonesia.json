@@ -85,7 +85,7 @@
       "n": 3,
       "title": "Yogyakarta ➔ Borobudur ➔ Bromo",
       "summary": "Route vers Borobudur, avec exploration des stupas, déjeuner à Magelang et visite d'un atelier de batik, puis longue route vers le mont Bromo.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Borobudur",
@@ -214,7 +214,7 @@
       "n": 6,
       "title": "Pemuteran ➔ Munduk ➔ Ubud",
       "summary": "Snorkeling autour de l'île de Menjangan le matin, puis route vers Munduk, ses lacs jumeaux et ses cascades, avant de rejoindre Ubud.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Île de Menjangan",
@@ -285,7 +285,7 @@
       "n": 7,
       "title": "Ubud : temples, danse et rizières",
       "summary": "Découverte culturelle et détente autour d'Ubud : temples, sources sacrées, rizières de Tegalalang et soirée de danse traditionnelle (kecak, la danse du feu).",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Campuhan Ridge Walk",
@@ -357,7 +357,7 @@
       "n": 8,
       "title": "Ubud ➔ Sidemen",
       "summary": "Découverte naturelle et culturelle : randonnée dans les rizières, villages traditionnels, rizières de Jatiluwih et dégustation de café balinais dans une plantation.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Rizières de Jatiluwih",
@@ -408,7 +408,7 @@
       "n": 9,
       "title": "Sidemen ➔ Amed",
       "summary": "Exploration et détente, plongée et snorkeling : temple de Besakih, balades dans la campagne, snorkeling à Jemeluk Bay et plongée sur l'épave de l'USS Liberty à Tulamben.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Temple de Besakih",
@@ -819,7 +819,7 @@
       "n": 18,
       "title": "Labuan Bajo ➔ Ruteng (Flores)",
       "summary": "Route vers Ruteng et découverte culturelle et naturelle : village traditionnel de Wae Rebo, rizières en toile d'araignée de Cancar, rizières en terrasses.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Village de Wae Rebo",
@@ -862,7 +862,7 @@
       "n": 19,
       "title": "Ruteng ➔ Labuan Bajo",
       "summary": "Retour à Labuan Bajo et détente : coucher de soleil à Bukit Sylvia, découverte de la ville portuaire, grottes de Batu Cermin et marché de poissons frais.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Cascade de Cunca Wulang",

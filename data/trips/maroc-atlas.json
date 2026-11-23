@@ -11,7 +11,7 @@
       "n": 1,
       "title": "Marrakech → Aït Ben Haddou",
       "summary": "Départ de l'aéroport vers 10 h (arrivée à 9 h 35), col de Tizi n'Tichka, déjeuner à Telouet dans le Haut-Atlas, descente de la vallée de l'Ounila et nuit à Aït Ben Haddou.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Marrakech",
@@ -86,7 +86,7 @@
       "n": 2,
       "title": "Gorges du Dadès",
       "summary": "Deux heures trente à trois heures de voiture jusqu'à Bou Tharar ou aux gorges du Dadès (Jbel El Oulia), randonnée sur place et nuit en village berbère.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Gorges du Dadès",
@@ -139,7 +139,7 @@
       "n": 3,
       "title": "Jbel Saghro et bivouac dans les dunes",
       "summary": "Traversée du Jbel Saghro et de l'Anti-Atlas depuis Boulmane Dadès (3 h environ, 4 h depuis le bout des gorges), arrivée au Camp Sedrar à Tazzarine, 4x4 jusqu'au Jbel Serdrar et bivouac dans les dunes de Foum Tizza.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Boulmane Dadès",
@@ -221,7 +221,7 @@
       "n": 4,
       "title": "Retour à Marrakech par la vallée du Draa",
       "summary": "Lever de soleil et matinée dans les dunes, puis retour à Marrakech par la superbe vallée du Draa (6 h de route), arrivée vers 18 h.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Vallée du Draa",

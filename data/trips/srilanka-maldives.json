@@ -91,7 +91,7 @@
       "n": 2,
       "title": "Sigiriya et Dambulla",
       "summary": "Vue sur le Rocher du Lion depuis Pidurangala Rock, puis Dambulla : marché local, temple d'or et temple de la roche, aux grottes ornées de fresques bouddhistes.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Rocher de Sigiriya",
@@ -158,7 +158,7 @@
       "n": 3,
       "title": "Sigiriya et Polonnaruwa",
       "summary": "Visite d'Anuradhapura (stupa géant de Jethawanaramaya, arbre sacré Sri Maha Bodhi) et/ou de Polonnaruwa, à vélo, en slalomant entre les temples et les stūpas.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Anuradhapura",
@@ -212,7 +212,7 @@
       "n": 4,
       "title": "Sigiriya ➔ Kitulgala",
       "summary": "Route vers Kitulgala, avec un point de vue sur les plantations de thé comparable à Lipton's Seat, mais gratuit.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Kitulgala",
@@ -421,7 +421,7 @@
       "n": 9,
       "title": "Ella ➔ Udawalawe",
       "summary": "Route vers Udawalawe, avec un arrêt aux chutes de Diyaluma, puis safari éléphants dans le parc national.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Chutes de Diyaluma",
@@ -501,7 +501,7 @@
       "n": 11,
       "title": "Galle ➔ Mirissa",
       "summary": "Route vers Mirissa, plage et surf, Coconut Tree Hill et Parrot Rock. Tangalle est cependant préférable, d'après vos notes.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Coconut Tree Hill",

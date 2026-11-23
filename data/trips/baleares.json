@@ -79,7 +79,7 @@
       "n": 2,
       "title": "Lundi : vin et détente",
       "summary": "Matinée à Palma, joli petit café, fin de la visite à pied et bon sandwich, puis visite d'un domaine viticole autour de Binissalem, Pollença ou une plage du nord si le temps le permet, et nuit à Selva.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Binissalem",
@@ -145,7 +145,7 @@
       "n": 3,
       "title": "Mardi : journée montagne et route MA-10",
       "summary": "Piscine à Selva le matin, déjeuner à Sóller, baignade à Cala Deià, route MA-10 jusqu'à Banyalbufar et dîner avec vue sur la mer à Banyalbufar ou Valldemossa.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Sóller",
@@ -221,7 +221,7 @@
       "n": 4,
       "title": "Mercredi : Sant Elm ou direction sud",
       "summary": "Soit Sant Elm, soit direction du sud et Cala Pi.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Sant Elm",
@@ -264,7 +264,7 @@
       "n": 5,
       "title": "Jeudi : sud-est",
       "summary": "Le sud-est de l'île : Cala Llombards, Cala des Moro, Cala Figuera.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Cala des Moro",
@@ -324,7 +324,7 @@
       "n": 6,
       "title": "Vendredi : nord-est (Mondragó et Agulla)",
       "summary": "Le nord-est de l'île : parc naturel de Mondragó et Cala Agulla.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Parc naturel de Mondragó",
@@ -370,7 +370,7 @@
       "n": 7,
       "title": "Samedi : nord-est (Mesquida et Betlem)",
       "summary": "Le nord-est de l'île : Cala Mesquida et la randonnée entre Betlem et Es Caló.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Cala Mesquida",

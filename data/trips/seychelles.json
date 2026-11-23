@@ -96,7 +96,7 @@
       "n": 2,
       "weekday": "Dimanche",
       "title": "Vallée de Mai et Anse Lazio",
-      "route": "none",
+      "route": "drive",
       "summary": "La forêt primaire des cocos de mer, classée par l'UNESCO, puis Anse Lazio, l'une des plus belles plages du monde.",
       "parts": [
         {
@@ -276,7 +276,7 @@
       "n": 5,
       "weekday": "Mercredi",
       "title": "Grand Anse, Petite Anse et Anse Cocos",
-      "route": "none",
+      "route": "drive",
       "summary": "La côte sauvage du sud-est de La Digue : grandes plages battues par les vagues et sentier jusqu'à l'Anse Cocos et ses piscines naturelles.",
       "parts": [
         {
@@ -412,7 +412,7 @@
       "n": 7,
       "weekday": "Vendredi",
       "title": "Copolia et Anse Royale",
-      "route": "none",
+      "route": "drive",
       "summary": "Le matin, la randonnée de Copolia dans la forêt du Morne Seychellois ; l'après-midi, baignade et snorkeling depuis la plage à l'Anse Royale, sur la côte est abritée.",
       "parts": [
         {
@@ -485,7 +485,7 @@
       "n": 8,
       "weekday": "Samedi",
       "title": "Marché de Victoria, plages du sud et vol de nuit",
-      "route": "none",
+      "route": "drive",
       "summary": "Le marché de Victoria le samedi matin, les plus belles plages du sud de Mahé, puis vol de nuit vers Paris.",
       "parts": [
         {

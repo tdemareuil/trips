@@ -72,7 +72,7 @@
       "n": 2,
       "title": "Lima → Cusco",
       "summary": "Bus de nuit jusqu'à Cusco (22 h), puis exploration du centre historique : place d'Armes, cathédrale et quartier de San Blas.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Cusco",
@@ -170,7 +170,7 @@
       "n": 4,
       "title": "Vallée Sacrée : Pisac et Ollantaytambo",
       "summary": "Excursion en bus privé dans la Vallée Sacrée : marché de Pisac et forteresse d'Ollantaytambo.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Pisac",
@@ -322,7 +322,7 @@
       "n": 7,
       "title": "Cusco → Puno (lac Titicaca)",
       "summary": "Bus Cusco → Puno (7 h) avec arrêts panoramiques : Andahuaylillas, Raqchi et La Raya.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Andahuaylillas",
@@ -428,7 +428,7 @@
       "n": 9,
       "title": "Puno → Arequipa",
       "summary": "Bus Puno → Arequipa (6 h), détente avant le départ pour le canyon de Colca, place d'Armes et couvent de Santa Catalina.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Arequipa",
@@ -516,7 +516,7 @@
       "n": 11,
       "title": "Arequipa → La Paz (Bolivie)",
       "summary": "Bus Arequipa → La Paz (7 h), puis découverte de La Paz : vallée de la Lune et téléphérique Mi Teleférico.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "La Paz",
@@ -568,7 +568,7 @@
       "n": 12,
       "title": "La Paz → Uyuni",
       "summary": "Bus La Paz → Uyuni (10 h) et détente avant le départ pour le salar, avec une balade nocturne sous le ciel étoilé.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Uyuni",
@@ -601,7 +601,7 @@
       "n": 13,
       "title": "Salar d'Uyuni",
       "summary": "Début du tour de 3 jours en 4x4 : désert de sel infini et Isla Incahuasi, île de cactus géants au milieu du salar.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Salar d'Uyuni",
@@ -648,7 +648,7 @@
       "n": 14,
       "title": "Salar d'Uyuni : lagunes et déserts",
       "summary": "Suite du tour en 4x4 : lagunes colorées, Laguna Colorada et ses flamants roses, geysers Sol de Mañana.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Laguna Colorada",
@@ -690,7 +690,7 @@
       "n": 15,
       "title": "Salar d'Uyuni → Atacama (Chili)",
       "summary": "Traversée de paysages désertiques : Laguna Verde, désert de Siloli, puis bus vers San Pedro de Atacama (8 h).",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Désert de Siloli",
@@ -776,7 +776,7 @@
       "n": 17,
       "title": "Atacama → Salta (Argentine)",
       "summary": "Bus Atacama → Salta (8 h) par le Paso de Jama, avec des paysages andins et un panorama sur la Puna.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Paso de Jama",
@@ -860,7 +860,7 @@
       "n": 19,
       "title": "Salta → Cafayate",
       "summary": "Route panoramique de 4 h vers Cafayate, par la Quebrada de las Conchas, avec dégustation de vins.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Quebrada de las Conchas",
@@ -933,7 +933,7 @@
       "n": 21,
       "title": "Cafayate → Purmamarca",
       "summary": "Route de 5 h vers Purmamarca : randonnée, montagne aux 7 couleurs, village traditionnel et artisanat.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Purmamarca",

@@ -61,7 +61,7 @@
       "n": 2,
       "title": "Mont Pinatubo ➔ Manille",
       "summary": "Randonnée du mont Pinatubo en 4x4 puis à pied, retour à Manille et coucher de soleil sur la baie, à Baywalk.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Mont Pinatubo",
@@ -141,7 +141,7 @@
       "n": 4,
       "title": "Puerto Princesa ➔ El Nido",
       "summary": "Détente et réveillon du Nouvel An à El Nido : Nacpan Beach, plages cachées, snorkeling à Coral Garden, Las Cabanas, Lio Beach, Maremegmeg et Vanilla Beach.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Nacpan Beach",
@@ -526,7 +526,7 @@
       "n": 13,
       "title": "Siquijor : cascades et plages",
       "summary": "Tour de l'île en scooter : cascades et plages, avec un cocktail au coucher du soleil à Lambojon Terraces ou au Bu Café.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Cambugahay Falls",

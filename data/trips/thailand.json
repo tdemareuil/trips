@@ -65,7 +65,7 @@
       "n": 2,
       "title": "Bangkok",
       "summary": "Visites culturelles et spirituelles : Grand Palais, Wat Phra Kaew, Wat Arun, Chinatown, marchés flottants et marché nocturne de Talad Rot Fai.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Marché flottant de Damnoen Saduak",
@@ -289,7 +289,7 @@
       "n": 5,
       "title": "Chiang Mai : nature et artisanat",
       "summary": "Doi Suthep, Doi Inthanon, ferme d'éléphants éthique, village karen, ateliers de cuisine thaïlandaise et d'artisanat.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Doi Suthep",
@@ -428,7 +428,7 @@
       "n": 8,
       "title": "Khao Sok → Krabi",
       "summary": "Transfert en voiture (3 h), plage d'Ao Nang, coucher de soleil sur Railay Beach et marché de nuit.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Krabi",
@@ -886,7 +886,7 @@
       "n": 16,
       "title": "Koh Samui",
       "summary": "Cascade de Na Muang, plage de Silver Beach et excursion en bateau vers l'archipel de Mu Ko Ang Thong.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Archipel d'Ang Thong",

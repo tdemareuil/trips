@@ -11,7 +11,7 @@
       "n": 1,
       "title": "Marrakech → Essaouira → Imsouane",
       "summary": "Stan arrive à 9 h 35 : départ de l'aéroport vers 10 h avec le guide, Essaouira à 2 h 45 de route, pause déjeuner, puis Imsouane (1 h 45), installation au gîte à 17 h et surf au coucher du soleil.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Marrakech",
@@ -78,7 +78,7 @@
       "n": 2,
       "title": "Imsouane : surf et randonnée chamelière",
       "summary": "Surf le matin à Imsouane, puis départ en randonnée chamelière depuis Imsouane ou Tillilt (à côté, en voiture) et nuit en bivouac près d'un village berbère.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Imsouane",
@@ -152,7 +152,7 @@
       "n": 3,
       "title": "Marche jusqu'à Tafedna",
       "summary": "Marche jusqu'à Tafedna (4 h) ou surf à Tafedna puis marche jusqu'à Sidi Ahmed Saïd (5 h), visite d'une plantation d'huile d'argan à midi, puis surf l'après-midi ou le soir.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Tafedna",
@@ -229,7 +229,7 @@
       "n": 4,
       "title": "Retour à Marrakech",
       "summary": "Surf le matin s'il y a le temps, puis retour à Marrakech, avec le désert de pierre d'Agafay sur la route.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Désert d'Agafay",

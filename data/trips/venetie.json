@@ -296,7 +296,7 @@
       "n": 4,
       "title": "La route palladienne et les asperges",
       "summary": "Villa Barbaro à Maser, passage optionnel par Asolo, déjeuner d'asperges blanches à Bassano del Grappa, Ponte Vecchio, Marostica, puis retour à Asolo pour la tombée de la nuit.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Villa Barbaro à Maser",
@@ -376,7 +376,7 @@
       "n": 5,
       "title": "Trévise pour finir : art, ville et tiramisu",
       "summary": "Départ de Valdobbiadene le matin en suivant la ligne de crête : Molinetto della Croda, abbaye de Follina, Cison di Valmarino, puis déjeuner et balade à Trévise, à 30 min de l'aéroport. Deux autres options : Dolomites ou Vicence.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Molinetto della Croda",

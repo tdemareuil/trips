@@ -128,7 +128,7 @@
       "n": 2,
       "title": "Caprera : Cala Coticcio et pizza au coucher du soleil",
       "summary": "Demi-journée de randonnée à Cala Coticcio avec un guide, sandwich sur Caprera, plage de Testa del Polpo et pizza face au coucher du soleil à Punta Tegge.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Cala Coticcio",
@@ -310,7 +310,7 @@
       "n": 4,
       "title": "Plages et vignoble autour de Castelsardo",
       "summary": "Journée autour de Castelsardo : plage de Badesi, domaine viticole de Vermentino et deuxième nuit à Castelsardo.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Plage de Badesi",
@@ -373,7 +373,7 @@
       "n": 5,
       "title": "Alghero et route panoramique vers Bosa",
       "summary": "Possible visite du domaine Sella e Mosca au nord d'Alghero, plage de Porto Ferro, route panoramique côtière jusqu'à Bosa et nuit à Bosa.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Porto Ferro",
@@ -458,7 +458,7 @@
       "n": 6,
       "title": "Route vers Orosei",
       "summary": "Traversée de l'île vers l'est et installation à Galtellì, près d'Orosei.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Orosei",
@@ -499,7 +499,7 @@
       "n": 7,
       "title": "Golfe d'Orosei : Cala Fuili",
       "summary": "Les bateaux de Cala Gonone se sont révélés trop chers : matinée à Cala Fuili, la plage la plus proche, puis deuxième nuit à Orosei.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Cala Gonone",

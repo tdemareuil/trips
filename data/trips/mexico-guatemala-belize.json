@@ -109,7 +109,7 @@
       "n": 3,
       "title": "Oaxaca : marché, mezcal et arbre de Tule",
       "summary": "Grand marché de Tlacolula le dimanche, tisserands et chocolat chaud à Teotitlán, arbre de Tule, et palenque de mezcal à réserver.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Marché de Tlacolula",
@@ -172,7 +172,7 @@
       "n": 4,
       "title": "Oaxaca ➔ Puerto Escondido ➔ Mazunte",
       "summary": "Route vers la côte Pacifique : plages de Puerto Escondido, puis Mazunte et le lâcher de tortues le soir.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Puerto Escondido",
@@ -271,7 +271,7 @@
       "n": 6,
       "title": "Puerto Escondido ➔ Oaxaca : Nouvel An",
       "summary": "Éventuellement surf, puis départ vers 17h pour arriver à Oaxaca avant 21h et fêter le Nouvel An.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Oaxaca",
@@ -504,7 +504,7 @@
       "n": 10,
       "title": "Lac Atitlán ➔ Chichicastenango ➔ Antigua",
       "summary": "Santa Cruz la Laguna, Santa Catarina Palopó et San Marcos, éventuellement le marché de Chichicastenango et la messe de Santo Tomás, puis retour à Antigua.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "San Marcos La Laguna",
@@ -550,7 +550,7 @@
       "n": 11,
       "title": "Volcan Acatenango : nuit sur le volcan",
       "summary": "Randonnée du volcan Acatenango et nuit au camp, face au volcan de Fuego.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Volcan Acatenango",
@@ -623,7 +623,7 @@
       "n": 13,
       "title": "Tikal et Yaxhá",
       "summary": "Visite de Tikal le matin, Yaxhá au coucher du soleil, et nuit dans un lodge en pleine jungle.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Tikal",
@@ -666,7 +666,7 @@
       "n": 14,
       "title": "Yaxhá ➔ Hopkins (Belize)",
       "summary": "Bus vers le Belize, plage de Hopkins et sunset cruise (la bioluminescence, trop incertaine, n'a pas été réservée).",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Hopkins",
@@ -796,7 +796,7 @@
       "n": 17,
       "title": "Bacalar : croisière et kayak",
       "summary": "Journée croisière sur la lagune de Bacalar, kayak aux Rápidos, marquesitas au parc.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Lagune de Bacalar",
@@ -862,7 +862,7 @@
       "n": 18,
       "title": "Bacalar ➔ Tulum",
       "summary": "Transfert en taxi à trouver sur place, trajet et plage de Tulum.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Tulum",

@@ -70,7 +70,7 @@
       "n": 2,
       "title": "Malibu et Santa Barbara",
       "summary": "Journée à Malibu et Santa Barbara : Pacific Coast Highway, Malibu Pier, randonnée à Point Dume, Zuma Beach, Getty Villa et vignobles de Santa Barbara.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Getty Villa",
@@ -143,7 +143,7 @@
       "n": 3,
       "title": "Joshua Tree National Park",
       "summary": "Route vers Joshua Tree (2 h 30) : randonnée à Hidden Valley, coucher de soleil à Keys View, Skull Rock et Cholla Cactus Garden.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Parc national de Joshua Tree",
@@ -213,7 +213,7 @@
       "n": 4,
       "title": "Désert d'Anza-Borrego",
       "summary": "Route vers Anza-Borrego (2 h) : Palm Canyon Trail, Borrego Badlands, sculptures de Galleta Meadows et vignobles de Temecula.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Vignobles de Temecula",
@@ -283,7 +283,7 @@
       "n": 5,
       "title": "San Diego",
       "summary": "Route vers San Diego (2 h) et détente à La Jolla Cove ; Balboa Park, Gaslamp Quarter, Old Town, Cabrillo National Monument et dîner de fruits de mer.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "San Diego",

@@ -170,7 +170,7 @@
       "n": 3,
       "title": "Calvi et la Balagne",
       "summary": "Sur la route de Calvi, villages perchés de la Balagne (Sant'Antonino, Pigna, Corbara), oliveraies et artisans, puis citadelle et plage de Calvi.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -251,7 +251,7 @@
       "n": 4,
       "title": "Calanques de Piana et Porto",
       "summary": "Fin de la visite de Calvi si besoin, puis route vers les calanques de Piana, visite de Porto et croisière possible dans la réserve de Scandola.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
