@@ -62,6 +62,7 @@
         }
       ],
       "notes": [
+        "Décalage horaire : 8 h de moins qu'à Paris. Vers l'ouest, il passe assez bien : les premiers jours, on se réveille vers 5 h et on a sommeil dès 20 h. Le programme en tient compte : départs tôt les jours 2 et 3, pas de soirée chargée, après-midis tranquilles. Le soir de l'arrivée, rester dehors à la lumière jusqu'au coucher du soleil, dîner tôt et se coucher vers 21 h. Grossesse : pas de mélatonine ni de somnifère sans avis médical.",
         "Grossesse : le Mexique reste classé « à risque » pour le Zika, mais la circulation est quasi nulle (4 cas dans tout le pays en 2025, aucun en Basse-Californie du Sud, dernière transmission locale en 2017). En janvier, le climat sec et frais limite les moustiques et la dengue (21 cas dans tout l'État sur les 14 premières semaines de 2025). Répulsif adapté à la grossesse, préservatifs pour le partenaire pendant toute la grossesse, et en parler au médecin avant de réserver."
       ],
       "food": [
@@ -173,8 +174,8 @@
     {
       "n": 3,
       "route": "drive",
-      "title": "Le récif de Cabo Pulmo, Los Barriles, canyon de la Zorra et La Paz",
-      "summary": "Le récif à l'heure où la mer est la plus calme, puis la remontée vers La Paz par les villages de la côte est et de la montagne : le spot de kitesurf de Los Barriles, la cascade du canyon de la Zorra et le village minier d'El Triunfo.",
+      "title": "Le récif de Cabo Pulmo, Los Barriles, El Triunfo et La Paz",
+      "summary": "Le récif à l'heure où la mer est la plus calme, puis la remontée tranquille vers La Paz par le spot de kitesurf de Los Barriles et le village minier d'El Triunfo.",
       "parts": [
         {
           "label": "Matin",
@@ -185,16 +186,12 @@
           "text": "Los Barriles : l'un des spots de kitesurf et de planche à voile les plus connus du Mexique, et janvier est sa saison, avec le vent du nord. Déjeuner face à la plage en regardant les voiles ; cours possibles pour qui veut s'y mettre."
         },
         {
-          "label": "Début d'après-midi",
-          "text": "Canyon de la Zorra, près de Santiago : 20 min de piste puis un escalier d'environ 300 marches jusqu'à une cascade de 10 m dans un canyon de granite, avec un bassin où l'on peut se baigner."
-        },
-        {
-          "label": "Fin d'après-midi",
+          "label": "Après-midi",
           "text": "El Triunfo : ancien village minier du XIXe siècle, maisons d'adobe, grande cheminée de brique et petit musée de la musique. Café sur la place."
         },
         {
           "label": "Soir",
-          "text": "Arrivée à La Paz vers 18 h, promenade sur le Malecón et dîner."
+          "text": "Arrivée à La Paz vers 17 h, promenade sur le Malecón et dîner."
         }
       ],
       "stops": [
@@ -215,14 +212,6 @@
             -109.699
           ],
           "culture": "Village de la côte est, au bord de la baie de Palmas, rendez-vous des kitesurfeurs et des véliplanchistes pendant la saison du vent du nord, de novembre à mars."
-        },
-        {
-          "name": "Canyon de la Zorra",
-          "coords": [
-            23.4449,
-            -109.7853
-          ],
-          "culture": "Cascade dans un canyon de granite, au pied de la Sierra de la Laguna, près du village de Santiago."
         },
         {
           "name": "El Triunfo",
@@ -267,28 +256,27 @@
         },
         {
           "mode": "car",
-          "text": "Los Barriles → canyon de la Zorra : environ 45 min, dont 20 min de piste",
+          "text": "Los Barriles → El Triunfo : environ 1 h 15 par la route 1",
           "after": 1
         },
         {
           "mode": "car",
-          "text": "Canyon de la Zorra → El Triunfo : environ 1 h",
-          "after": 2
-        },
-        {
-          "mode": "car",
           "text": "El Triunfo → La Paz : environ 50 min",
-          "after": 3
+          "after": 2
         }
       ],
       "ideas": [
         {
+          "label": "Canyon de la Zorra",
+          "text": "Près de Santiago, à mi-chemin entre Los Barriles et El Triunfo : 20 min de piste puis un escalier d'environ 300 marches jusqu'à une cascade de 10 m dans un canyon de granite, avec un bassin où l'on peut se baigner. Ajoute environ 1 h 30 à la journée : seulement si l'on se sent en forme."
+        },
+        {
           "label": "Arrêt facultatif : Santuario de los Cactus",
-          "text": "À El Rosario, entre El Triunfo et La Paz, sur la route 1. Petite réserve communautaire de 6 hectares au pied de la Sierra de la Laguna, dans une forêt de cardons, les plus grands cactus du monde (jusqu'à 15 ou 20 m, certains âgés de plusieurs siècles), avec aussi des pitayas et des chollas. Sentier facile de 45 min à 1 h entre les cactus et les blocs de granite, petit droit d'entrée à régler sur place. Le site est modeste, mais c'est la façon la plus simple de marcher au milieu des cardons. Ajoute environ 1 h à la journée : sauter alors le canyon de la Zorra."
+          "text": "À El Rosario, entre El Triunfo et La Paz, sur la route 1. Petite réserve communautaire de 6 hectares au pied de la Sierra de la Laguna, dans une forêt de cardons, les plus grands cactus du monde (jusqu'à 15 ou 20 m, certains âgés de plusieurs siècles), avec aussi des pitayas et des chollas. Sentier facile de 45 min à 1 h entre les cactus et les blocs de granite, petit droit d'entrée à régler sur place. Le site est modeste, mais c'est la façon la plus simple de marcher au milieu des cardons. Ajoute environ 1 h à la journée."
         }
       ],
       "notes": [
-        "Journée chargée (environ 3 h 45 de route en tout) : si l'on manque de temps, sauter le canyon de la Zorra. Grossesse : snorkeling en surface avec un gilet, pas de plongée bouteille ; payer le bracelet du parc (CONANP), crème solaire biodégradable, ne pas toucher le corail. Pas de kitesurf pour la future maman."
+        "Environ 3 h de route en tout, à faire tranquillement, encore un peu décalés. Grossesse : snorkeling en surface avec un gilet, pas de plongée bouteille ; payer le bracelet du parc (CONANP), crème solaire biodégradable, ne pas toucher le corail. Pas de kitesurf pour la future maman."
       ],
       "food": [
         "Déjeuner de tacos face à la plage de Los Barriles. Fromage de ranch (fromage frais des ranchs de la Sierra de la Laguna) vendu sur la route vers El Triunfo : pour le partenaire seulement, il est presque toujours au lait cru. Le soir à La Paz : les stands de tacos du Malecón, ou le Bismarkcito, institution des fruits de mer de la ville. Pour le partenaire, c'est le moment d'un aguachile de crevettes (crevettes crues au citron vert, piment et concombre) ou d'un ceviche du jour (pas à la sierra, riche en mercure) ; pour la future maman, crevettes grillées ou à la diable. Grossesse : tout bien cuit, pas de crudités douteuses, pas de fromage au lait cru, pas d'alcool."
@@ -787,6 +775,10 @@
           "text": "Environ 24 °C le jour, nuits fraîches autour de 13 °C, mer à 21 ou 22 °C. Sur la côte pacifique, les vagues et les courants sont forts : on se baigne à Cerritos, et surtout du côté de la mer de Cortez."
         },
         {
+          "type": "text",
+          "text": "Soleil (heure locale) : lever vers 7 h et coucher vers 17 h 55 à 18 h, de Los Cabos à Loreto. Les journées font environ 11 h, avec un peu de lumière dès 6 h 35 et jusqu'à 18 h 25 : avec le décalage horaire, on se réveille avant le jour les premiers matins."
+        },
+        {
           "type": "heading",
           "text": "Vols (Navan, par personne, tarifs de base)"
         },
@@ -844,7 +836,7 @@
             "Les baleines grises de la baie de Magdalena et les baleines à bosse de Cabo : en idées avec un avertissement, aux jours 2 et 6.",
             "Nager avec les requins-baleines de la baie de La Paz : la baie est un refuge protégé depuis 2018 et les sorties sont encadrées, mais une étude de Whale Shark Mexico publiée en 2025 montre que 50 à 60 % des requins-baleines de la baie portent encore des blessures causées par les bateaux. Le respect total de l'animal n'est pas garanti : laissé en idée, avec un avertissement, au jour 4.",
             "Les lâchers de bébés tortues à Todos Santos : les écloseries protègent réellement les nids, mais les lâchers en public au coucher du soleil gardent les tortues plusieurs heures après l'éclosion pour attendre les visiteurs, une pratique critiquée par des associations de conservation mexicaines. On peut soutenir les écloseries par un don sans assister au lâcher. Laissé en idée, avec un avertissement, au jour 5.",
-            "La Sierra de la Laguna : les belles randonnées y sont longues, souvent sur plusieurs jours ; on la longe au canyon de la Zorra.",
+            "La Sierra de la Laguna : les belles randonnées y sont longues, souvent sur plusieurs jours ; on en voit le pied au canyon de la Zorra, en option au jour 3.",
             "La Ventana, près de La Paz : encore plus réputée que Los Barriles pour le kitesurf, mais sans intérêt pour des non-pratiquants une fois Los Barriles vu.",
             "Les otaries de Los Islotes ne sont pas des loutres : il n'y a pas de loutres dans le sud de la Basse-Californie. Les plus proches sont les loutres de mer de Moss Landing, sur la route de Carmel à San Francisco."
           ]
