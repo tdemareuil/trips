@@ -1,7 +1,7 @@
 {
   "id": "republique-dominicaine",
   "title": "République dominicaine",
-  "subtitle": "Six nuits de Santo Domingo à Samaná : Zona Colonial, Bahía de las Águilas, plages sauvages et Los Haitises",
+  "subtitle": "Une semaine de Santo Domingo à Samaná : Zona Colonial, Bahía de las Águilas, plages sauvages et Los Haitises",
   "travelers": [
     "En couple"
   ],
@@ -623,7 +623,7 @@
         {
           "type": "list",
           "items": [
-            "Beaucoup de route pour 6 nuits : environ 20 h de conduite au total, dont 15 h pour les trois jours du sud-ouest (jours 2 à 4). La Bahía de las Águilas coûte à elle seule environ 12 h de voiture aller-retour depuis Santo Domingo.",
+            "Beaucoup de route pour une semaine : environ 20 h de conduite au total, dont 15 h pour les trois jours du sud-ouest (jours 2 à 4). La Bahía de las Águilas coûte à elle seule environ 12 h de voiture aller-retour depuis Santo Domingo.",
             "Le jour 4 est très long : 6 h 30 à 7 h de conduite, plus les arrêts.",
             "Le lodge prévu à Barahona, Casa Bonita, est probablement fermé.",
             "Le jour 3 prévoyait aussi le Hoyo de Pelempito : avec la plage, le retour se serait fait de nuit.",
@@ -667,7 +667,7 @@
         },
         {
           "type": "heading",
-          "text": "Variante sans le sud-ouest (6 nuits)"
+          "text": "Variante sans le sud-ouest (une semaine)"
         },
         {
           "type": "text",
@@ -723,7 +723,7 @@
             ],
             [
               "Le voyage lui-même",
-              "Environ 20 h de route en 6 nuits. Les routes dominicaines sont les plus meurtrières de la région : environ 27 morts par an pour 100 000 habitants selon l'OPS (2021), contre environ 18 au Belize, 13 au Guatemala et 11 au Mexique ; une autre estimation de l'OMS (2019) va jusqu'à 65. S'y ajoutent des bateaux rapides en mer ouverte et deux longs vols la même semaine (Paris → Saint-Domingue, puis Saint-Domingue → San Francisco avec une escale).",
+              "Environ 20 h de route en une semaine. Les routes dominicaines sont les plus meurtrières de la région : environ 27 morts par an pour 100 000 habitants selon l'OPS (2021), contre environ 18 au Belize, 13 au Guatemala et 11 au Mexique ; une autre estimation de l'OMS (2019) va jusqu'à 65. S'y ajoutent des bateaux rapides en mer ouverte et deux longs vols la même semaine (Paris → Saint-Domingue, puis Saint-Domingue → San Francisco avec une escale).",
               "Fatigue, chocs sur les bateaux, risque de phlébite pendant les vols."
             ]
           ]
