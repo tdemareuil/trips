@@ -7858,5 +7858,26 @@
   "extract": "La Gamble House, également connue sous le nom de David B. Gamble House, est une maison remarquable située à Pasadena, en Californie. Elle est conçue par le cabinet d'architectes Greene and Greene et construite en 1908–1909 pour David B.",
   "article": "https://fr.wikipedia.org/wiki/Gamble_House"
  },
- "Rincon Point": {}
+ "Rincon Point": {},
+ "Alamo Square, San Francisco": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Alamo_Square_with_Painted_Ladies%2C_SF%2C_CA%2C_jjron_26.03.2012.jpg/1920px-Alamo_Square_with_Painted_Ladies%2C_SF%2C_CA%2C_jjron_26.03.2012.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Alamo_Square_with_Painted_Ladies,_SF,_CA,_jjron_26.03.2012.jpg",
+  "artist": "jjron",
+  "license": "GFDL 1.2",
+  "lat": 37.77638,
+  "lon": -122.43471,
+  "extract": "Alamo Square est un quartier résidentiel de San Francisco, en Californie. Il est nommé d'après le jardin public qui constitue son cœur. Il est enclavé dans le quartier de Western Addition, compris dans le cinquième district de la ville.",
+  "article": "https://fr.wikipedia.org/wiki/Alamo_Square"
+ },
+ "Clarion Alley": {},
+ "Ocean Beach, San Francisco": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Cliff_House_from_Ocean_Beach.jpg/1920px-Cliff_House_from_Ocean_Beach.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cliff_House_from_Ocean_Beach.jpg",
+  "artist": "Brocken Inaglory",
+  "license": "CC BY-SA 3.0",
+  "lat": 37.75944,
+  "lon": -122.51083,
+  "extract": "Ocean Beach est une plage qui longe la côté ouest de San Francisco, Californie, donnant dans l’océan Pacifique. Elle est située à proximité du Golden Gate Park, du Richmond District et du Sunset District. On y trouve Sutro Baths et le restaurant Cliff House.",
+  "article": "https://fr.wikipedia.org/wiki/Ocean_Beach_(San_Francisco)"
+ }
 }

@@ -278,7 +278,7 @@
         }
       ],
       "notes": [
-        "Entrée du parc : 30 $ par voiture, valable 7 jours (25 $ est le tarif moto). Joshua Tree ne fait pas partie des 11 parcs où les non-résidents paient, depuis 2026, 100 $ par personne en plus ; Yosemite, si (35 $ par voiture plus 2 × 100 $, soit 235 $). La carte annuelle America the Beautiful pour non-résidents, à 250 $, couvre les deux parcs, voiture et supplément compris : 250 $ au lieu de 265 $. L'acheter en ligne avant le départ et la garder dans la voiture.",
+        "Entrée de Joshua Tree : 30 $ par voiture, valable 7 jours ; pas de supplément pour les non-résidents ici, mais à Yosemite, si. Voir le guide « Parcs nationaux » : la carte annuelle pour non-résidents (250 $) couvre les deux parcs, à acheter en ligne avant le départ.",
         "Prise de voiture : à LAX plutôt qu'à Santa Monica, pour partir avant 7 h. Location rendue à San Francisco : prévoir d'éventuels frais d'abandon.",
         "Pleine lune : pas de Voie lactée ces deux nuits à Joshua Tree, pourtant parc labellisé « ciel étoilé » ; en échange, le désert éclairé par la lune, assez pour marcher sans lampe."
       ],
@@ -589,6 +589,7 @@
         "wiki": "Santa Barbara, California",
         "note": "Nuit dans le centre de Santa Barbara ou dans la Funk Zone : tout se fait à pied le soir, et départ direct sur la US-101 lundi à 7 h",
         "options": [
+          "Harbor View Inn (face à l'océan et à Stearns Wharf, style espagnol sur deux niveaux, patios et palmiers) : l'hôtel proposé par Voyageurs du Monde, identifié d'après leur description, à vérifier",
           "Spanish Garden Inn (petit hôtel de charme de style espagnol, dans le centre)",
           "Hotel Indigo (Funk Zone, plus simple)",
           "Montecito Inn (hôtel de 1928 lié à Charlie Chaplin, à Montecito, 10 min au sud : plus calme, mais 10 min de route en plus lundi)"
@@ -758,7 +759,11 @@
         },
         {
           "label": "Louison",
-          "text": "Centre-ville de San Francisco : Cable Car, Chinatown, Union Square, Financial District."
+          "text": "Centre-ville de San Francisco : Cable Car, Chinatown, Union Square, Financial District. L'après-midi, Alamo Square et ses maisons victoriennes (les « Painted Ladies »), puis Mission : Valencia Street, les fresques de Clarion Alley et la mission Dolores."
+        },
+        {
+          "label": "Soir, à deux",
+          "text": "Ocean Beach, la grande plage sur le Pacifique au bout de la ville, au coucher du soleil (vers 17 h 25), si le travail finit tôt ; sinon, dîner dans Mission."
         }
       ],
       "stops": [
@@ -785,6 +790,34 @@
           "name": "Financial District",
           "wiki": "Financial District, San Francisco",
           "culture": "Le « Wall Street de l'Ouest », dominé par la Transamerica Pyramid (1972) et la Salesforce Tower (2018)."
+        },
+        {
+          "name": "Alamo Square",
+          "wiki": "Alamo Square, San Francisco",
+          "coords": [
+            37.7764,
+            -122.4346
+          ],
+          "culture": "Parc en pente face à une rangée de maisons victoriennes de 1890 aux couleurs pastel, les « Painted Ladies », avec les tours du centre-ville derrière."
+        },
+        {
+          "name": "Mission et Clarion Alley",
+          "wiki": "Clarion Alley",
+          "coords": [
+            37.7631,
+            -122.4216
+          ],
+          "culture": "Le quartier latino de la ville, autour de Valencia Street et de la mission Dolores (1776), le plus ancien bâtiment de San Francisco ; la ruelle de Clarion Alley est couverte de fresques depuis 1992."
+        },
+        {
+          "name": "Ocean Beach",
+          "wiki": "Ocean Beach, San Francisco",
+          "coords": [
+            37.7594,
+            -122.5107
+          ],
+          "optional": true,
+          "culture": "Plage de 5 km sur le Pacifique, à l'ouest de la ville, souvent ventée et froide, mais très belle au coucher du soleil. Baignade dangereuse (courants)."
         }
       ],
       "stay": {
@@ -798,7 +831,7 @@
       "transport": [
         {
           "mode": "transit",
-          "text": "Transports en commun / à pied"
+          "text": "Transports en commun / à pied ; Ocean Beach à environ 30 à 40 min en bus ou en Uber du centre"
         }
       ]
     },
@@ -869,7 +902,7 @@
         },
         {
           "label": "Matin · Louison",
-          "text": "Fisherman's Wharf / Waterfront et Golden Gate Bridge."
+          "text": "Fisherman's Wharf, puis vélo électrique jusqu'à Sausalito par le Golden Gate Bridge : environ 13 km depuis Fisherman's Wharf, le long de la baie et de Crissy Field, puis sur le pont, et retour en ferry (environ 30 min) avec la vue sur la ville et Alcatraz. Location de vélo près de Fisherman's Wharf, billet de ferry à acheter sur place ou en ligne. Grossesse : vélo électrique à son rythme, sans forcer dans la montée vers le pont ; s'il y a du vent ou du brouillard, se contenter de la promenade de Crissy Field jusqu'au pied du pont."
         },
         {
           "label": "Après-midi",
@@ -894,6 +927,16 @@
           "name": "Golden Gate Bridge",
           "wiki": "Golden Gate Bridge",
           "culture": "Inauguré en 1937, il était alors le plus long pont suspendu du monde, avec ses tours de 227 m de haut."
+        },
+        {
+          "name": "Sausalito",
+          "wiki": "Sausalito, California",
+          "coords": [
+            37.8591,
+            -122.4853
+          ],
+          "optional": true,
+          "culture": "Ancien port de pêche au pied des collines de Marin, en face de San Francisco, avec ses maisons flottantes et ses vues sur la ville."
         },
         {
           "name": "Mariposa",
@@ -935,7 +978,7 @@
       "notes": [
         "Le soleil se couche vers 17 h 15 fin janvier, et plus tôt encore au fond de la vallée, derrière les falaises : sans la dégustation, on arrive de jour (vers 16 h 45) ; avec, les 45 dernières minutes de route se font de nuit.",
         "En hiver, la CA-140 est la route d'accès la plus basse et la plus souvent dégagée ; la CA-120 passe à Crane Flat, à plus de 1 800 m, où chaînes et neige sont fréquentes. Vérifier l'état des routes avant de partir.",
-        "Entrée de Yosemite : 35 $ par voiture, plus 100 $ par personne pour les non-résidents depuis 2026, ou la carte annuelle America the Beautiful pour non-résidents (250 $), achetée pour Joshua Tree (voir le jour 3)."
+        "Entrée de Yosemite : 35 $ par voiture plus 100 $ par personne pour les non-résidents, même pour une seule journée ; couverts par la carte annuelle pour non-résidents (voir le guide « Parcs nationaux »)."
       ],
       "ideas": [
         {
@@ -1576,7 +1619,86 @@
             "Valise : il faut en plus des affaires de plage et de baignade, pour 25 °C en Floride, avant les 10 à 14 °C de San Francisco et le froid de Yosemite.",
             "Grossesse : mêmes règles que dans le voyage Floride (rien de cru, mercure, crème solaire minérale), et répulsif adapté le soir.",
             "Le détail de chaque journée, les hôtels et les options avec leurs avertissements (Robbie's, Christ des Abysses, Mallory Square, Kennedy) sont dans le voyage Floride.",
-            "Parcs nationaux : l'Everglades et Yosemite font partie des 11 parcs où les non-résidents paient, depuis 2026, 100 $ par personne en plus de l'entrée (35 $ par voiture dans chacun). Pour les deux, la carte annuelle America the Beautiful pour non-résidents, à 250 $, revient bien moins cher : environ 470 $ sans elle."
+            "Parcs nationaux : l'Everglades et Yosemite font partie des 11 parcs où les non-résidents paient 100 $ par personne en plus de l'entrée ; avec la carte annuelle pour non-résidents (250 $), on paie environ 250 $ au lieu de 470 $ (voir le guide « Parcs nationaux »)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "parcs-nationaux",
+      "title": "Parcs nationaux : prix d'entrée et bon plan",
+      "summary": "Ce que coûte l'entrée des parcs nationaux du voyage, le supplément pour les non-résidents depuis 2026, et la carte annuelle qui le couvre.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Le supplément pour les non-résidents"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Depuis le 1er janvier 2026, les visiteurs qui ne résident pas aux États-Unis paient 100 $ par personne (à partir de 16 ans) en plus de l'entrée habituelle dans 11 parcs : Acadia, Bryce Canyon, Everglades, Glacier, Grand Canyon, Grand Teton, Rocky Mountain, Sequoia et Kings Canyon, Yellowstone, Yosemite et Zion.",
+            "Il s'applique même pour une visite d'une seule journée : il est payé à l'entrée, et il est valable aussi longtemps que le billet d'entrée, soit 7 jours.",
+            "Les journées gratuites des parcs ne valent plus que pour les résidents américains.",
+            "Les autres parcs ne sont pas concernés : on y paie seulement l'entrée habituelle, par voiture."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Ce que coûte ce voyage"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Parc",
+            "Entrée (par voiture, 7 jours)",
+            "Supplément non-résidents (pour deux)",
+            "Total"
+          ],
+          "rows": [
+            [
+              "Joshua Tree",
+              "30 $",
+              "non concerné",
+              "30 $"
+            ],
+            [
+              "Yosemite",
+              "35 $",
+              "200 $",
+              "235 $"
+            ],
+            [
+              "Avec l'alternative Floride : Everglades",
+              "35 $",
+              "200 $",
+              "235 $"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Le bon plan : la carte annuelle pour non-résidents"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La carte America the Beautiful pour non-résidents coûte 250 $ et donne accès pendant 12 mois à tous les parcs nationaux et sites fédéraux. Elle couvre l'entrée de la voiture et le supplément de 100 $ pour le titulaire et jusqu'à trois adultes qui l'accompagnent : une seule carte suffit pour deux.",
+            "Pour ce voyage, sans la carte : 265 $ (Joshua Tree et Yosemite). Avec la carte : 250 $. L'économie n'est que de 15 $, mais une seule carte sert aux deux parcs, achetée une fois.",
+            "Avec l'alternative Floride (Everglades et Yosemite), l'écart devient net : environ 470 $ sans la carte, 250 $ avec.",
+            "Elle ne vaut pas le coup seulement si l'on ne va que dans un parc sans supplément, comme Joshua Tree seul."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Où et comment payer"
+        },
+        {
+          "type": "list",
+          "items": [
+            "En ligne à l'avance sur Recreation.gov, le site officiel : billet d'entrée ou carte annuelle en version numérique, à télécharger sur le téléphone avant d'arriver, car il n'y a souvent pas de réseau à l'entrée des parcs.",
+            "Ou au guichet de l'entrée du premier parc visité, par carte bancaire (beaucoup de parcs n'acceptent plus les espèces). Certaines entrées secondaires n'ont pas de guichet ouvert en fin de journée ou en hiver : mieux vaut acheter avant.",
+            "Les non-résidents doivent pouvoir montrer leur passeport à l'entrée.",
+            "Tarifs relevés sur le site du National Park Service pour 2026 : à vérifier avant le départ."
           ]
         }
       ]

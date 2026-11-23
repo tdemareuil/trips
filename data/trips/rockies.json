@@ -549,5 +549,92 @@
     }
   ],
   "season": "Mi-saison",
-  "kind": "long"
+  "kind": "long",
+  "guides": [
+    {
+      "id": "parcs-nationaux",
+      "title": "Parcs nationaux : prix d'entrée et bon plan",
+      "summary": "Ce que coûte l'entrée des parcs nationaux du voyage, le supplément pour les non-résidents depuis 2026, et la carte annuelle qui le couvre.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Le supplément pour les non-résidents"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Depuis le 1er janvier 2026, les visiteurs qui ne résident pas aux États-Unis paient 100 $ par personne (à partir de 16 ans) en plus de l'entrée habituelle dans 11 parcs : Acadia, Bryce Canyon, Everglades, Glacier, Grand Canyon, Grand Teton, Rocky Mountain, Sequoia et Kings Canyon, Yellowstone, Yosemite et Zion.",
+            "Il s'applique même pour une visite d'une seule journée : il est payé à l'entrée, et il est valable aussi longtemps que le billet d'entrée, soit 7 jours.",
+            "Les journées gratuites des parcs ne valent plus que pour les résidents américains.",
+            "Les autres parcs ne sont pas concernés : on y paie seulement l'entrée habituelle, par voiture."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Ce que coûte ce voyage"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Parc",
+            "Entrée (par voiture, 7 jours)",
+            "Supplément non-résidents (pour deux)",
+            "Total"
+          ],
+          "rows": [
+            [
+              "Rocky Mountain",
+              "35 $",
+              "200 $",
+              "235 $"
+            ],
+            [
+              "Black Canyon of the Gunnison (option du jour 5)",
+              "30 $",
+              "non concerné",
+              "30 $"
+            ],
+            [
+              "Grand Teton",
+              "35 $",
+              "200 $",
+              "235 $"
+            ],
+            [
+              "Yellowstone",
+              "35 $",
+              "200 $",
+              "235 $"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Le bon plan : la carte annuelle pour non-résidents"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La carte America the Beautiful pour non-résidents coûte 250 $ et donne accès pendant 12 mois à tous les parcs nationaux et sites fédéraux. Elle couvre l'entrée de la voiture et le supplément de 100 $ pour le titulaire et jusqu'à trois adultes qui l'accompagnent : une seule carte suffit pour deux.",
+            "Pour ce voyage, sans la carte : environ 705 $ (735 $ avec le Black Canyon). Avec la carte : 250 $, soit environ 450 à 485 $ d'économie.",
+            "C'est clairement le bon choix ici.",
+            "Rocky Mountain National Park demande aussi, en été et au début de l'automne, la réservation d'un créneau horaire d'entrée sur Recreation.gov (en 2025, jusqu'à la mi-octobre) : à vérifier pour 2028, la carte ne dispense pas de cette réservation."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Où et comment payer"
+        },
+        {
+          "type": "list",
+          "items": [
+            "En ligne à l'avance sur Recreation.gov, le site officiel : billet d'entrée ou carte annuelle en version numérique, à télécharger sur le téléphone avant d'arriver, car il n'y a souvent pas de réseau à l'entrée des parcs.",
+            "Ou au guichet de l'entrée du premier parc visité, par carte bancaire (beaucoup de parcs n'acceptent plus les espèces). Certaines entrées secondaires n'ont pas de guichet ouvert en fin de journée ou en hiver : mieux vaut acheter avant.",
+            "Les non-résidents doivent pouvoir montrer leur passeport à l'entrée.",
+            "Tarifs relevés sur le site du National Park Service pour 2026 : à vérifier avant le départ."
+          ]
+        }
+      ]
+    }
+  ]
 }
