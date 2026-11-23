@@ -46,7 +46,8 @@
         "note": "Hôtel de charme à Coconut Grove (à choisir)",
         "options": [
           "Mr. C Coconut Grove",
-          "Silver Sands Beach Resort, Key Biscayne (petit hôtel des années 1950 sur la plage)"
+          "Silver Sands Beach Resort, Key Biscayne (petit hôtel des années 1950 sur la plage)",
+          "Esmé Miami Beach (petit hôtel hispano-méditerranéen bohème sur Española Way, à South Beach : plus pratique pour le lever du soleil du jour 2, mais quartier plus animé ; identifié d'après la description de Voyageurs du Monde, à vérifier)"
         ]
       },
       "transport": [
@@ -182,7 +183,7 @@
         },
         {
           "label": "Option espace : centre spatial Kennedy",
-          "text": "Le centre spatial Kennedy, à Cap Canaveral, est à environ 3 h 15 au nord de Miami : fusée Saturn V et centre Apollo, navette Atlantis exposée, et visite en bus des pas de tir. Option lourde : environ 7 h de route en plus sur deux jours, une nuit à Cocoa Beach, et on perd Vizcaya, Shark Valley et une journée à Islamorada. À ne faire que si l'espace compte vraiment, ou si un lancement est annoncé pendant le séjour. Lancements : en novembre 2026, environ cinq lancements depuis Cap Canaveral étaient prévus en janvier 2027 (Falcon Heavy, Starliner, Axiom, New Glenn), aucun avec une date ferme pendant notre séjour (19 au 25 janvier), et les dates glissent souvent. Les lancements de satellites Starlink, les plus fréquents, ne sont annoncés que quelques jours à l'avance : vérifier sur un site de calendrier (Next Spaceflight, Space Launch Schedule) une à deux semaines avant le départ. Détail dans le guide « Notre avis »."
+          "text": "Le centre spatial Kennedy, à Cap Canaveral, est à environ 3 h 15 au nord de Miami : fusée Saturn V et centre Apollo, navette Atlantis exposée, et visite en bus des pas de tir. Option lourde : environ 7 h de route en plus sur deux jours, une nuit à Cocoa Beach, et on perd Vizcaya, Shark Valley et une journée à Islamorada. À ne faire que si l'espace compte vraiment, ou si un lancement est annoncé pendant le séjour. Lancements : en novembre 2026, environ cinq lancements depuis Cap Canaveral étaient prévus en janvier 2027 (Falcon Heavy, Starliner, Axiom, New Glenn), aucun avec une date ferme pendant notre séjour (19 au 25 janvier), et les dates glissent souvent. Les lancements de satellites Starlink, les plus fréquents, ne sont annoncés que quelques jours à l'avance : vérifier sur un site de calendrier (Next Spaceflight, Space Launch Schedule) une à deux semaines avant le départ. Détail dans le guide « Notre avis ». Sur place, en option : sortie de nuit en kayak transparent sur la lagune d'Indian River, à Cocoa Beach, pour voir l'eau s'illuminer. En hiver, ce sont surtout de petits cténophores (animaux gélatineux lumineux) qui brillent, de façon irrégulière ; il faut une nuit sans lune, or la pleine lune tombe le 22 janvier. Grossesse : kayak de nuit seulement par eau très calme, avec gilet."
         }
       ],
       "notes": [
@@ -291,6 +292,10 @@
         {
           "label": "En option, avec réserve : les tarpons de Robbie's",
           "text": "À Islamorada, la marina de Robbie's vend des seaux de poissons pour nourrir les tarpons géants depuis le ponton. Avertissement : c'est un nourrissage d'animaux sauvages organisé pour les touristes, qui habitue les tarpons et les pélicans à être nourris par l'homme ; l'endroit est aussi très fréquenté. Si l'on y va, regarder sans acheter de seau. On voit souvent des tarpons dans l'eau claire des Keys sans les nourrir, depuis les ponts et les marinas."
+        },
+        {
+          "label": "Alternative : croisière naturaliste dans la mangrove depuis Islamorada",
+          "text": "Au lieu d'aller jusqu'à Flamingo, une sortie en petit bateau avec un guide naturaliste dans la mangrove et la baie de Floride : dauphins, oiseaux, alligators, et lamantins selon la saison (ils se regroupent dans les eaux chaudes en hiver). Contraintes : chère en privé, et l'observation dépend du vent et de la marée ; choisir un opérateur qui coupe le moteur à distance des animaux. Grossesse : bateau stable, mer de la baie en général calme."
         }
       ]
     },
@@ -379,7 +384,8 @@
         "note": "Key West, 3 nuits : petit hôtel ou maison d'hôtes dans la vieille ville",
         "options": [
           "The Marquesa Hotel (maisons de bois du XIXe siècle)",
-          "Kona Kai Resort (petit hôtel réservé aux adultes, jardins tropicaux)"
+          "Kona Kai Resort (petit hôtel réservé aux adultes, jardins tropicaux)",
+          "Kimpton Winslow's Bungalows (trois piscines, vélos, près de Duval Street ; identifié d'après la description de Voyageurs du Monde, à vérifier)"
         ]
       },
       "transport": [
@@ -498,6 +504,10 @@
         {
           "label": "Duval Street",
           "text": "La rue principale de Key West : bars, boutiques de souvenirs et ambiance de fête le soir. À traverser plutôt qu'à fréquenter."
+        },
+        {
+          "label": "Option : coucher du soleil en voilier",
+          "text": "À la place de la foule de Mallory Square, une sortie en voilier de 2 h au coucher du soleil, souvent avec apéritif. Contraintes : beaucoup de bateaux de sortie « fête » avec musique et alcool à volonté ; choisir un petit voilier avec peu de passagers. Grossesse : renoncer si la mer est agitée, et pas d'alcool."
         }
       ]
     },
@@ -677,7 +687,7 @@
         },
         {
           "type": "text",
-          "text": "Pour des plages plus belles encore (sable blanc très fin), on peut remplacer les Keys par Naples, Sanibel et Captiva, et Anna Maria Island, avec un retour depuis Tampa. La mer y est plus fraîche en janvier : environ 18 à 20 °C à Naples et Sanibel, 16 à 18 °C à Anna Maria Island, contre environ 22 à 24 °C dans les Keys. Sanibel et Captiva se sont presque entièrement remises de l'ouragan Ian (2022) : la plupart des hôtels ont rouvert, mais les prix ont augmenté et la végétation n'a pas fini de repousser. Anna Maria Island a été inondée par les ouragans Helene et Milton en 2024 : la plupart des hôtels avaient rouvert au printemps 2025, mais vérifier l'hôtel choisi et l'état des plages avant de réserver."
+          "text": "Pour des plages plus belles encore (sable blanc très fin), on peut remplacer les Keys par Naples, Sanibel et Captiva, et Anna Maria Island, avec un retour depuis Tampa. La mer y est plus fraîche en janvier : environ 18 à 20 °C à Naples et Sanibel, 16 à 18 °C à Anna Maria Island, contre environ 22 à 24 °C dans les Keys. Sanibel et Captiva se sont presque entièrement remises de l'ouragan Ian (2022) : la plupart des hôtels ont rouvert, mais les prix ont augmenté et la végétation n'a pas fini de repousser. Anna Maria Island a été inondée par les ouragans Helene et Milton en 2024 : la plupart des hôtels avaient rouvert au printemps 2025, mais vérifier l'hôtel choisi et l'état des plages avant de réserver. Sur cette côte, en option : sortie en bateau et en kayak dans les Dix Mille Îles (Ten Thousand Islands), au départ de Marco Island ou d'Everglades City, parmi les îlots de mangrove, avec dauphins et oiseaux. Avec réserve : la baignade avec les lamantins à Crystal River, plus au nord : encadrée, mais critiquée pour le dérangement des animaux, qui viennent s'y réchauffer en hiver. Si l'on y va, rester à la surface, ne jamais toucher, et choisir l'observation depuis les passerelles de Three Sisters Springs plutôt que la nage."
         },
         {
           "type": "heading",
@@ -707,7 +717,8 @@
           "type": "list",
           "items": [
             "Nord-ouest de la Floride (littoral 30A) : magnifique, mais trop froid en janvier pour se baigner (environ 16 °C).",
-            "Miami Beach : grande plage très urbaine, bordée de tours ; seulement un coup d'œil à South Beach au lever du soleil (jour 2), sans y dormir."
+            "Miami Beach : grande plage très urbaine, bordée de tours ; seulement un coup d'œil à South Beach au lever du soleil (jour 2), sans y dormir.",
+            "Les hydroglisseurs (airboats) dans les Everglades : proposés par la plupart des agences, mais très bruyants et dérangeants pour les animaux. En option avec réserve seulement, si l'on tient à l'expérience : choisir un opérateur qui limite la vitesse et le bruit près des oiseaux, et porter des protections auditives. Shark Valley et Flamingo montrent autant d'animaux, en silence."
           ]
         }
       ]
