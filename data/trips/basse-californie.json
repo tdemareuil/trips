@@ -169,6 +169,10 @@
         {
           "label": "Étoiles avant l'aube",
           "text": "Le mardi 19 au matin, la lune se couche vers 4 h 25 et le ciel reste noir jusqu'à environ 5 h 40, début de l'aube. Avec le décalage horaire, on est souvent réveillé à cette heure : sortir sur la terrasse de l'hôtel ou au bord de l'estuaire de San José, loin des réverbères, pour la Voie lactée d'hiver, Orion et la Croix du Sud basse sur l'horizon (visible depuis cette latitude au petit matin). Le soir à Cabo Pulmo, en revanche, la lune presque pleine éclaire toute la nuit : un beau ciel, mais peu d'étoiles."
+        },
+        {
+          "label": "Alternative : une nuit dans un rancho près de Santiago",
+          "text": "Au lieu de dormir à Cabo Pulmo, une nuit dans un rancho de la Sierra de la Laguna, près de Santiago et du canyon de la Zorra : élevage de chèvres et ruches, fromage fait sur place, cuisine de la production du domaine, balades à pied ou à dos de mule (pas de mule pour la future maman). Voyageurs du Monde propose ce type de séjour sans nommer le rancho ; le Rancho Ecológico Sol de Mayo, à l'entrée du canyon, loue aussi des cabanes. Le prix : le lendemain, il faut environ 1 h 15 de route tôt le matin pour être au récif de Cabo Pulmo à 9 h, puis revenir vers Los Barriles. Fromage du rancho : au lait cru en général, donc pour le partenaire seulement."
         }
       ],
       "notes": [
@@ -370,6 +374,10 @@
         {
           "label": "Bahía de los Sueños et Punta Arena",
           "text": "Bahía de los Sueños et Punta Arena, à environ 1 h à l'est de La Paz par Los Planes : baie turquoise encaissée avec un petit restaurant au bord de l'eau, pêcheurs et pélicans, puis 15 min de piste jusqu'à Punta Arena, que la blogueuse Kikis (avril 2026) a trouvée la plus belle plage de son voyage. Il n'y a presque rien sur place : prendre eau et pique-nique. Le phare ne vaut pas le détour, et La Ventana, sur la route, non plus. Une bonne journée de remplacement si le vent empêche la sortie à Espíritu Santo."
+        },
+        {
+          "label": "Kayak et snorkeling autour de La Paz",
+          "text": "Sortie guidée en kayak et snorkeling autour de La Paz (proposée notamment par Voyageurs du Monde) : point de vue au-dessus de la baie de Balandra, kayak jusqu'à une plage qu'on n'atteint que par la mer, snorkeling sur un petit récif, et pique-nique sur la plage. Seulement par mer calme ; grossesse : kayak tranquille, gilet, et pas de ceviche au pique-nique (demander une alternative cuite). Une bonne alternative si le vent empêche la longue traversée vers Espíritu Santo, la baie étant plus abritée."
         }
       ],
       "food": [
@@ -1232,7 +1240,7 @@
             ],
             [
               "Jour 5",
-              "Journée souple : Bahía de los Sueños et Punta Arena (environ 1 h à l'est), marché et Malecón, ou Espíritu Santo si le vent a empêché la sortie la veille",
+              "Journée souple : Bahía de los Sueños et Punta Arena (environ 1 h à l'est), ou sortie guidée en kayak et snorkeling autour de La Paz, ou Espíritu Santo si le vent a empêché la sortie la veille",
               "La Paz"
             ],
             [
@@ -1507,6 +1515,212 @@
             "Jour",
             "Programme",
             "Nuit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "variante-san-ignacio",
+      "title": "Variante baleines grises : la lagune de San Ignacio",
+      "summary": "Trois nuits dans un camp au bord de la lagune de San Ignacio, au milieu des baleines grises, accessible en petit avion depuis Los Cabos, puis La Paz et Todos Santos.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Le principe"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La lagune de San Ignacio, sur la côte pacifique, classée par l'UNESCO, est l'un des rares endroits au monde où les baleines grises viennent s'accoupler et mettre bas, et où elles s'approchent d'elles-mêmes des barques.",
+            "On y accède en petit avion (Cessna Caravan) depuis Los Cabos, pour 3 nuits dans un camp de tentes confortables au bord de l'eau, en pension complète, avec jusqu'à trois sorties en barque par jour et un guide naturaliste. Kayak, paddle dans la mangrove, marche et vélo au camp.",
+            "Le nombre de barques est limité par les autorités, et il est interdit de poursuivre ou de nourrir les baleines : c'est l'observation des baleines la plus respectueuse de la péninsule.",
+            "Le reste du voyage reprend le sud : La Paz, Espíritu Santo, Balandra, Todos Santos, avec un vol direct Los Cabos → San Francisco au retour."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Les réserves"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La date : la saison va en gros de janvier à avril, avec le pic en février et mars. Fin janvier, c'est le début : des baleines sont déjà là, mais moins nombreuses qu'en pleine saison, et les mères avec leurs petits arrivent surtout plus tard.",
+            "Le prix : c'est l'option la plus chère. Le voyage de Voyageurs du Monde qui l'inclut coûte en moyenne 9 200 € par personne pour 13 jours ; un séjour de 3 nuits au camp avec le vol coûte à lui seul plusieurs milliers d'euros pour deux (à vérifier auprès des camps).",
+            "La grossesse : petit avion (sans problème en général), barques ouvertes sur la lagune (plus calme que la mer, mais renoncer par vent fort), et un camp isolé, à plusieurs heures d'un hôpital. Repas en pension complète : prévenir le camp pour la cuisine sans cru (ceviche fréquent).",
+            "On perd la côte est (Cabo Pulmo, Los Barriles), Loreto, la baie de Concepción et San Javier.",
+            "Le camp n'est pas nommé par Voyageurs du Monde ; plusieurs camps existent au bord de la lagune (par exemple Campo Cortez), à comparer."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Jour par jour"
+        },
+        {
+          "type": "map",
+          "days": [
+            {
+              "label": "Jour 1",
+              "night": "San José del Cabo",
+              "points": [
+                [
+                  23.1518,
+                  -109.7211
+                ],
+                [
+                  23.0625,
+                  -109.6975
+                ]
+              ]
+            },
+            {
+              "label": "Jour 2",
+              "night": "Lagune de San Ignacio",
+              "mode": "flight",
+              "points": [
+                [
+                  23.1518,
+                  -109.7211
+                ],
+                [
+                  26.8,
+                  -113.22
+                ]
+              ]
+            },
+            {
+              "label": "Jour 3",
+              "night": "Lagune de San Ignacio",
+              "mode": "boat",
+              "points": [
+                [
+                  26.8,
+                  -113.22
+                ]
+              ]
+            },
+            {
+              "label": "Jour 4",
+              "night": "Lagune de San Ignacio",
+              "mode": "boat",
+              "points": [
+                [
+                  26.8,
+                  -113.22
+                ]
+              ]
+            },
+            {
+              "label": "Jour 5",
+              "night": "La Paz",
+              "mode": "flight",
+              "points": [
+                [
+                  23.1518,
+                  -109.7211
+                ],
+                [
+                  24.158,
+                  -110.313
+                ]
+              ]
+            },
+            {
+              "label": "Jour 6",
+              "night": "La Paz",
+              "mode": "boat",
+              "points": [
+                [
+                  24.5967,
+                  -110.3993
+                ],
+                [
+                  24.5605,
+                  -110.395
+                ],
+                [
+                  24.158,
+                  -110.313
+                ]
+              ]
+            },
+            {
+              "label": "Jour 7",
+              "night": "Todos Santos",
+              "points": [
+                [
+                  24.322,
+                  -110.327
+                ],
+                [
+                  23.4482,
+                  -110.2263
+                ]
+              ]
+            },
+            {
+              "label": "Jour 8",
+              "night": "Vol vers San Francisco",
+              "points": [
+                [
+                  23.3285,
+                  -110.1735
+                ],
+                [
+                  23.1518,
+                  -109.7211
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Programme",
+            "Nuit"
+          ],
+          "rows": [
+            [
+              "Jour 1",
+              "Arrivée à Los Cabos",
+              "San José del Cabo"
+            ],
+            [
+              "Jour 2",
+              "Vol en Cessna vers la lagune de San Ignacio, premières sorties d'observation l'après-midi",
+              "Camp de San Ignacio"
+            ],
+            [
+              "Jour 3",
+              "Sorties en barque au choix (tôt le matin, fin de matinée, après-midi), kayak dans la mangrove",
+              "Camp de San Ignacio"
+            ],
+            [
+              "Jour 4",
+              "Dernières sorties, marche ou vélo autour du camp",
+              "Camp de San Ignacio"
+            ],
+            [
+              "Jour 5",
+              "Vol retour vers Los Cabos, voiture, route vers La Paz (environ 2 h) avec halte à la Bahía de los Sueños, Malecón le soir",
+              "La Paz"
+            ],
+            [
+              "Jour 6",
+              "Espíritu Santo et les otaries de Los Islotes",
+              "La Paz"
+            ],
+            [
+              "Jour 7",
+              "Balandra le matin (8 h-12 h), puis Todos Santos et Pescadero",
+              "Todos Santos"
+            ],
+            [
+              "Jour 8",
+              "Baignade à Cerritos, route vers l'aéroport (environ 1 h 15), vol direct United 16 h 23 → 18 h 45",
+              "–"
+            ]
           ]
         }
       ]

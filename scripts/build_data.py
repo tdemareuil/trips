@@ -264,7 +264,7 @@ def build_routes(trips, images, refresh):
                     via = [[round(lon, 5), round(lat, 5)] for lat, lon in pts]
                     via = [p for j, p in enumerate(via) if j == 0 or p != via[j - 1]]
                     key = f"{guide['id']}:{k}"
-                    if leg.get("mode") == "boat" or len(via) < 2 or store.get(key, {}).get("via") == via:
+                    if leg.get("mode") in ("boat", "flight") or len(via) < 2 or store.get(key, {}).get("via") == via:
                         continue
                     url = OSRM_URL.format(coords=";".join(f"{lon},{lat}" for lon, lat in via))
                     result = get_json(url)
