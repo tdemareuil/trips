@@ -252,6 +252,28 @@ def build_routes(trips, images, refresh):
             store[str(day["n"])] = {"via": via, "line": line}
             fetched += 1
             time.sleep(1)
+        # Maps inside guides (variants): one driving line per day, stored as "<guide id>:<k>".
+        for guide in trip.get("guides", []):
+            for block in guide["blocks"]:
+                if block.get("type") != "map":
+                    continue
+                prev = None
+                for k, leg in enumerate(block["days"]):
+                    pts = ([prev] if prev else []) + leg["points"]
+                    prev = leg["points"][-1]
+                    via = [[round(lon, 5), round(lat, 5)] for lat, lon in pts]
+                    via = [p for j, p in enumerate(via) if j == 0 or p != via[j - 1]]
+                    key = f"{guide['id']}:{k}"
+                    if leg.get("mode") == "boat" or len(via) < 2 or store.get(key, {}).get("via") == via:
+                        continue
+                    url = OSRM_URL.format(coords=";".join(f"{lon},{lat}" for lon, lat in via))
+                    result = get_json(url)
+                    if result.get("code") != "Ok":
+                        print(f"routes: {key} failed ({result.get('code')})")
+                        continue
+                    store[key] = {"via": via, "line": thin(result["routes"][0]["geometry"]["coordinates"])}
+                    fetched += 1
+                    time.sleep(1)
     path.write_text(json.dumps(routes, separators=(",", ":")) + "\n")
     print(f"routes: {fetched} fetched")
 

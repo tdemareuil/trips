@@ -407,3 +407,7 @@ button:disabled { cursor: default; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition-duration: 0.01ms !important; }
 }
+
+/* Smaller map inside a guide (variant itineraries). */
+.g-map { position: relative; height: 420px; margin: 18px 0 8px; border-radius: 20px; overflow: hidden; border: 1px solid var(--line); }
+@media (max-width: 640px) { .g-map { height: 320px; } }

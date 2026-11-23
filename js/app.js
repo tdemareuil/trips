@@ -364,6 +364,7 @@ function blockHTML(b) {
     const rows = b.rows.map(r => `<tr>${r.map((c, i) => `<td data-label="${esc(b.columns[i])}">${rich(c)}</td>`).join('')}</tr>`).join('');
     return `<div class="g-table-wrap"><table class="g-table"><thead><tr>${head}</tr></thead><tbody>${rows}</tbody></table></div>`;
   }
+  if (b.type === 'map') return `<div class="g-map" data-map="${b.__k}"></div>`;
   if (b.type === 'image') {
     return `<figure class="g-figure"><a href="${esc(b.src)}" target="_blank" rel="noopener"><img src="${esc(b.src)}" alt="${esc(b.alt || '')}" loading="lazy"></a>${b.caption ? `<figcaption>${esc(b.caption)}</figcaption>` : ''}</figure>`;
   }
@@ -380,9 +381,53 @@ function mountGuide(trip, gid) {
     <h1 class="title">${esc(guide.title)}</h1>
     <p class="lead">${esc(guide.summary)}</p>
     ${trip.guides.length > 1 ? `<nav class="chips">${chips}</nav>` : ''}
-    ${guide.blocks.map(blockHTML).join('')}
+    ${guide.blocks.map((b, k) => blockHTML({ ...b, __k: k })).join('')}
   </article>`;
-  return { kind: 'guide', destroy() {} };
+  const maps = [...app.querySelectorAll('.g-map')].map(el => guideMap(el, trip, guide, guide.blocks[+el.dataset.map]));
+  return { kind: 'guide', destroy() { maps.forEach(m => m.remove()); } };
+}
+
+// A smaller map for a variant itinerary: one coloured line per day, a numbered pin at each night.
+function guideMap(container, trip, guide, block) {
+  const n = block.days.length;
+  const routes = data.routes[trip.id] || {};
+  const lnglat = ([lat, lon]) => [lon, lat];
+  let prev = null;
+  const legs = block.days.map((leg, k) => {
+    const pts = [...(prev ? [prev] : []), ...leg.points].map(lnglat);
+    prev = leg.points[leg.points.length - 1];
+    const line = routes[`${guide.id}:${k}`]?.line;
+    return { ...leg, color: dayColor(k, n), path: line || pts, dashed: !line, end: lnglat(prev) };
+  });
+  const map = new maplibregl.Map({ container, style: STYLE_URL, center: legs[0].end, zoom: 6, attributionControl: false, cooperativeGestures: true });
+  map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
+  map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
+  map.on('load', () => {
+    const firstLabel = map.getStyle().layers.find(l => l.type === 'symbol')?.id;
+    map.addLayer({ id: 'veil', type: 'background', paint: { 'background-color': '#f5f2ea', 'background-opacity': 0.4 } }, firstLabel);
+    const feats = legs.filter(l => l.path.length > 1).map(l => ({ type: 'Feature', properties: { color: l.color, dashed: l.dashed }, geometry: { type: 'LineString', coordinates: l.path } }));
+    map.addSource('legs', { type: 'geojson', data: fc(feats) });
+    const layout = { 'line-cap': 'round', 'line-join': 'round' };
+    map.addLayer({ id: 'legs', type: 'line', source: 'legs', filter: ['==', ['get', 'dashed'], false], layout, paint: { 'line-color': ['get', 'color'], 'line-width': 4 } });
+    map.addLayer({ id: 'legs-dashed', type: 'line', source: 'legs', filter: ['==', ['get', 'dashed'], true], layout, paint: { 'line-color': ['get', 'color'], 'line-width': 3, 'line-dasharray': [1, 2] } });
+    const seen = new Map();
+    legs.forEach((l, k) => {
+      const key = l.end.join(',');
+      const label = seen.has(key) ? `${seen.get(key)}·${k + 1}` : `${k + 1}`;
+      seen.set(key, label);
+    });
+    const placed = new Set();
+    [...legs].reverse().forEach(l => {
+      const key = l.end.join(',');
+      if (placed.has(key)) return;
+      placed.add(key);
+      const el = pinMarker(seen.get(key), l.color, { stay: true });
+      el.title = `${l.label} : ${l.night}`;
+      new maplibregl.Marker({ element: el }).setLngLat(l.end).addTo(map);
+    });
+    map.fitBounds(boundsOf(legs.flatMap(l => l.path)), { padding: 40, duration: 0 });
+  });
+  return map;
 }
 
 // --- Story -----------------------------------------------------------------
