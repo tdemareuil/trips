@@ -674,6 +674,14 @@
           "name": "Big Sur : Bixby Creek Bridge",
           "wiki": "Bixby Creek Bridge",
           "culture": "Arche de béton de 85 m de haut, construite en 1932 pour la future Highway 1. C'est l'un des ponts les plus photographiés de Californie."
+        },
+        {
+          "name": "Centre de location de SFO",
+          "coords": [
+            37.6305,
+            -122.4009
+          ],
+          "hidden": true
         }
       ],
       "stay": {
@@ -725,15 +733,15 @@
         },
         {
           "label": "Fin d'après-midi",
-          "text": "Route vers San Francisco, arrivée vers 18 h 15, rendu de la voiture de location."
+          "text": "Route vers San Francisco par la US-101, qui passe juste à côté de l'aéroport : rendu de la voiture vers 18 h au centre de location de SFO, ouvert 24 h/24, puis Uber ou BART jusqu'à l'hôtel (environ 25 à 35 min). On évite ainsi de traverser la ville en voiture, de payer le parking de l'hôtel (souvent 50 à 70 $ la nuit) et de risquer une vitre cassée : les vols dans les voitures garées sont fréquents à San Francisco."
         }
       ],
       "notes": [
         "Journée plus calme que par la côte : la US-101 est une grande route sans falaises, et le Big Sur sud et central est laissé de côté. Total d'environ 7 h 30 de route, contre environ 8 h par la Highway 1 complète.",
         "Le tronçon de la Highway 1 entre Carmel et Bixby peut être fermé par des éboulements en hiver : vérifier l'état de la route (site de la Caltrans) ; sinon, sauter Bixby et garder Point Lobos.",
         "Le soleil se couche vers 17 h 20 : avec l'arrêt à Moss Landing, la dernière heure de route vers San Francisco se fait de nuit, sur l'autoroute. Partir de Carmel à 15 h au plus tard.",
-        "Location depuis Los Angeles rendue à San Francisco : prévoir d'éventuels frais d'abandon pour un retour sur un autre site.",
-        "Loutres : les regarder depuis la rive, sans s'approcher en kayak ou en bateau, ce qui les dérange et leur fait dépenser l'énergie dont elles ont besoin pour se nourrir. Rester à au moins 15 m de celles qui se reposent sur les pontons ou la plage."
+        "Loutres : les regarder depuis la rive, sans s'approcher en kayak ou en bateau, ce qui les dérange et leur fait dépenser l'énergie dont elles ont besoin pour se nourrir. Rester à au moins 15 m de celles qui se reposent sur les pontons ou la plage.",
+        "Location prise à LAX et rendue à SFO : prévoir d'éventuels frais d'abandon, souvent moins élevés entre deux aéroports qu'avec une agence du centre-ville."
       ],
       "ideas": [
         {
@@ -1003,12 +1011,12 @@
           "text": "Fisherman's Wharf, puis vélo électrique jusqu'à Sausalito par le Golden Gate Bridge : environ 13 km depuis Fisherman's Wharf, le long de la baie et de Crissy Field, puis sur le pont, et retour en ferry (environ 30 min) avec la vue sur la ville et Alcatraz. Location de vélo près de Fisherman's Wharf, billet de ferry à acheter sur place ou en ligne. Grossesse : vélo électrique à son rythme, sans forcer dans la montée vers le pont ; s'il y a du vent ou du brouillard, se contenter de la promenade de Crissy Field jusqu'au pied du pont."
         },
         {
-          "label": "Après-midi",
-          "text": "Midi : prise d'une voiture de location à San Francisco et départ vers l'est par la I-580, à travers la Livermore Valley."
+          "label": "Début d'après-midi",
+          "text": "Fin du travail à 13 h, puis prise d'une nouvelle voiture vers 13 h 30 dans une agence du centre, autour d'Union Square (Hertz, Avis, Enterprise et National y ont des agences, à quelques rues les unes des autres) : c'est sur le chemin du Bay Bridge, alors que l'aéroport est dans la direction opposée. Départ vers 13 h 45, par le Bay Bridge puis la I-580 vers l'est, à travers la Livermore Valley."
         },
         {
           "label": "Fin d'après-midi",
-          "text": "Highway 140 par Mariposa (pause café possible), le long du canyon de la Merced River et sous Arch Rock : arrivée dans la vallée vers 16 h 45, avant la tombée de la nuit (coucher du soleil vers 17 h 15). Avec la dégustation en option, départ de Livermore vers 14 h 15 et arrivée vers 18 h, à la nuit tombée."
+          "text": "Highway 140 par Mariposa (pause café possible), le long du canyon de la Merced River et sous Arch Rock : arrivée dans la vallée vers 18 h, environ 45 min après le coucher du soleil (vers 17 h 15). La dernière heure, dans le canyon, se fait donc de nuit : rouler doucement, la route est étroite et sinueuse. Pour arriver de jour, dormir à El Portal (option C), à 25 min de la vallée, ou partir plus tôt si le travail le permet."
         },
         {
           "label": "Soir",
@@ -1035,6 +1043,14 @@
           ],
           "optional": true,
           "culture": "Ancien port de pêche au pied des collines de Marin, en face de San Francisco, avec ses maisons flottantes et ses vues sur la ville."
+        },
+        {
+          "name": "Agences de location d'Union Square",
+          "coords": [
+            37.788,
+            -122.41
+          ],
+          "hidden": true
         },
         {
           "name": "Mariposa",
@@ -1074,14 +1090,15 @@
         "Dîner à l'Ahwahnee (réserver) ou à la cafétéria de Yosemite Valley Lodge."
       ],
       "notes": [
-        "Le soleil se couche vers 17 h 15 fin janvier, et plus tôt encore au fond de la vallée, derrière les falaises : sans la dégustation, on arrive de jour (vers 16 h 45) ; avec, les 45 dernières minutes de route se font de nuit.",
+        "Le soleil se couche vers 17 h 15 fin janvier, et plus tôt encore au fond de la vallée, derrière les falaises : avec un départ de San Francisco vers 13 h 45, les 45 dernières minutes de route se font de nuit.",
         "En hiver, la CA-140 est la route d'accès la plus basse et la plus souvent dégagée ; la CA-120 passe à Crane Flat, à plus de 1 800 m, où chaînes et neige sont fréquentes. Vérifier l'état des routes avant de partir.",
-        "Entrée de Yosemite : 35 $ par voiture plus 100 $ par personne pour les non-résidents, même pour une seule journée ; couverts par la carte annuelle pour non-résidents (voir le guide « Parcs nationaux »)."
+        "Entrée de Yosemite : 35 $ par voiture plus 100 $ par personne pour les non-résidents, même pour une seule journée ; couverts par la carte annuelle pour non-résidents (voir le guide « Parcs nationaux »).",
+        "Voiture : prise dans le centre de San Francisco, et rendue à l'aéroport du vol de retour samedi (SFO ou Sacramento) ; un retour dans un autre lieu que celui de la prise peut entraîner des frais d'abandon. Ne rien laisser de visible dans la voiture garée en ville."
       ],
       "ideas": [
         {
           "label": "Option : dégustation dans la Livermore Valley",
-          "text": "La Livermore Valley borde la I-580, que l'on emprunte de toute façon en quittant San Francisco vers Yosemite : une dégustation vers 13 h se fait sans détour, mais ajoute environ 1 h 15 et fait arriver dans la vallée à la nuit tombée. Murrieta's Well : domaine historique en brique centenaire, entouré de verdure, ambiance proche de celle de Sonoma. Alternative : McGrail Vineyards and Winery, juché sur une crête avec vue panoramique sur les collines. Les deux ouvrent vers midi, à confirmer sur leur site. Grossesse : dégustation pour le partenaire seulement, et prévoir que la personne qui goûte ne conduit pas ensuite."
+          "text": "Avec la reprise de la voiture à 13 h 30, la dégustation ne tient plus que si l'on accepte d'arriver dans la vallée vers 19 h 15, après 2 h de route de nuit : à garder seulement si le travail finit plus tôt. La Livermore Valley borde la I-580, que l'on emprunte de toute façon en quittant San Francisco vers Yosemite : une dégustation vers 13 h se fait sans détour, mais ajoute environ 1 h 15 et fait arriver dans la vallée à la nuit tombée. Murrieta's Well : domaine historique en brique centenaire, entouré de verdure, ambiance proche de celle de Sonoma. Alternative : McGrail Vineyards and Winery, juché sur une crête avec vue panoramique sur les collines. Les deux ouvrent vers midi, à confirmer sur leur site. Grossesse : dégustation pour le partenaire seulement, et prévoir que la personne qui goûte ne conduit pas ensuite."
         },
         {
           "label": "Option A (recommandée) : dormir dans la vallée, arrivée par la CA-140",
