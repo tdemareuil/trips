@@ -13,7 +13,7 @@
       "n": 1,
       "weekday": "Mercredi soir",
       "title": "Arrivée à Los Angeles",
-      "summary": "Prise de la voiture de location et installation. Privilégier Uber/Lyft en ville.",
+      "summary": "Arrivée à LAX en fin de journée et Uber jusqu'à Santa Monica, sans voiture : elle ne sera prise que vendredi matin, pour la route du désert.",
       "hero": "Los Angeles",
       "route": "drive",
       "stops": [
@@ -26,49 +26,36 @@
         }
       ],
       "stay": {
-        "name": "Los Angeles",
+        "name": "Santa Monica",
         "coords": [
-          34.0522,
-          -118.2437
+          34.0195,
+          -118.4912
+        ],
+        "wiki": "Santa Monica, California",
+        "note": "Deux nuits à Santa Monica, sur la côte : à 25 min de LAX, au bord de la plage et à pied le soir",
+        "options": [
+          "The Georgian (hôtel Art déco de 1933 face à l'océan, prix moyens à élevés)",
+          "Palihouse Santa Monica (calme, à deux rues de la plage)",
+          "Hotel Erwin, à Venice (sur la promenade, plus animé)"
         ]
       },
       "transport": [
         {
           "mode": "car",
-          "text": "LAX > Hôtel : ~45 min"
+          "text": "LAX → Santa Monica : environ 25 à 40 min en Uber ou Lyft"
         }
+      ],
+      "notes": [
+        "Pourquoi la côte : le soir, on dîne à pied à Santa Monica, sans voiture ; le matin, avec le décalage, on se lève tôt pour marcher le long de la plage. Hollywood et Griffith sont à environ 45 min à 1 h en Uber, une seule fois dans le séjour. Dormir à Hollywood ou dans le centre rapprocherait des sites, mais les soirées y sont moins agréables."
       ]
     },
     {
       "n": 2,
       "weekday": "Jeudi",
       "title": "Immersion à Los Angeles",
-      "summary": "Une journée pour faire le tour des grands classiques de la ville, de Hollywood au coucher de soleil sur les hauteurs.",
+      "summary": "Le matin sur la côte, de Santa Monica à Venice, puis Beverly Hills, Hollywood et le coucher du soleil à Griffith, tout en Uber.",
       "route": "drive",
       "stops": [
-        {
-          "name": "Hollywood Walk of Fame",
-          "wiki": "Hollywood Walk of Fame",
-          "coords": [
-            34.1016,
-            -118.3267
-          ],
-          "culture": "Plus de 2 700 étoiles en laiton, incrustées dans le trottoir, honorent des artistes du cinéma, de la télé, de la musique et de la radio. Les premières ont été posées en 1960."
-        },
-        {
-          "name": "TCL Chinese Theatre",
-          "wiki": "TCL Chinese Theatre",
-          "culture": "Ouvert en 1927 par Sid Grauman, ce cinéma à la façade de pagode est célèbre pour sa cour, où les stars impriment leurs mains et leurs pieds dans le ciment."
-        },
-        {
-          "name": "Rodeo Drive, Beverly Hills",
-          "wiki": "Rodeo Drive",
-          "coords": [
-            34.0679,
-            -118.4001
-          ],
-          "culture": "Artère mondialement connue, bordée de boutiques de luxe. Les scènes de shopping de Pretty Woman (1990) y ont été tournées."
-        },
         {
           "name": "Santa Monica",
           "wiki": "Santa Monica, California",
@@ -85,111 +72,248 @@
           "culture": "Fondée en 1905 par Abbot Kinney, qui rêvait d'une Venise californienne creusée de canaux. Aujourd'hui, skateurs, culturistes de Muscle Beach et artistes de rue animent Ocean Front Walk."
         },
         {
+          "name": "Rodeo Drive, Beverly Hills",
+          "wiki": "Rodeo Drive",
+          "coords": [
+            34.0679,
+            -118.4001
+          ],
+          "culture": "Artère mondialement connue, bordée de boutiques de luxe. Les scènes de shopping de Pretty Woman (1990) y ont été tournées."
+        },
+        {
+          "name": "Hollywood Walk of Fame",
+          "wiki": "Hollywood Walk of Fame",
+          "coords": [
+            34.1016,
+            -118.3267
+          ],
+          "culture": "Plus de 2 700 étoiles en laiton, incrustées dans le trottoir, honorent des artistes du cinéma, de la télé, de la musique et de la radio. Les premières ont été posées en 1960."
+        },
+        {
+          "name": "TCL Chinese Theatre",
+          "wiki": "TCL Chinese Theatre",
+          "culture": "Ouvert en 1927 par Sid Grauman, ce cinéma à la façade de pagode est célèbre pour sa cour, où les stars impriment leurs mains et leurs pieds dans le ciment."
+        },
+        {
           "name": "Griffith Observatory",
           "wiki": "Griffith Observatory",
           "culture": "Ouvert en 1935 sur les hauteurs de la ville, avec une entrée gratuite et une vue sur le panneau Hollywood. Il apparaît dans La Fureur de vivre (1955) et dans La La Land."
         }
       ],
       "stay": {
-        "name": "Los Angeles",
+        "name": "Santa Monica",
         "coords": [
-          34.0522,
-          -118.2437
-        ]
+          34.0195,
+          -118.4912
+        ],
+        "wiki": "Santa Monica, California",
+        "note": "Même hôtel que la veille"
       },
       "transport": [
         {
           "mode": "car",
-          "text": "Intra-muros : ~2h30 à 3h A/R"
+          "text": "Santa Monica → Beverly Hills : environ 25 min en Uber",
+          "after": 0
+        },
+        {
+          "mode": "car",
+          "text": "Griffith → Santa Monica : environ 45 min à 1 h en Uber",
+          "after": 3
         }
+      ],
+      "parts": [
+        {
+          "label": "Lever du soleil",
+          "text": "Réveillé tôt par le décalage : balade le long de la plage de Santa Monica jusqu'à Venice et ses canaux (environ 1 h 30 à pied, ou à vélo), avec le lever du soleil vers 6 h 55 derrière la ville et la jetée encore vide."
+        },
+        {
+          "label": "Matin",
+          "text": "Uber jusqu'à Beverly Hills (Rodeo Drive, environ 25 min), puis Hollywood : Walk of Fame et TCL Chinese Theatre, simple coup d'œil (très touristique)."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Griffith Observatory (ouvert à partir de midi en semaine, fermé le lundi ; entrée gratuite) et ses sentiers, avec la vue sur le panneau Hollywood."
+        },
+        {
+          "label": "Coucher du soleil",
+          "text": "Depuis les terrasses de Griffith (vers 17 h 10), puis Uber retour à Santa Monica (environ 45 min à 1 h) et dîner à pied."
+        }
+      ],
+      "food": [
+        "Grand Central Market, dans le centre, ou les tacos de rue : bien cuits, sans crudités ni sauces fraîches laissées au comptoir. Grossesse : viande et poisson bien cuits, rien de cru (sushis, huîtres, oursin de Santa Barbara), pas de fromage au lait cru, crudités bien lavées, pas d'alcool."
       ]
     },
     {
       "n": 3,
       "weekday": "Vendredi",
-      "title": "Route vers le désert : Palm Springs & Joshua Tree",
-      "summary": "Départ de Los Angeles, pause déjeuner à Palm Springs pour ses rues design, puis Joshua Tree en fin d'après-midi avec le coucher du soleil à Keys View.",
+      "title": "Palm Springs, puis la traversée de Joshua Tree",
+      "summary": "Voiture prise à l'aube à LAX, les palmeraies d'Indian Canyons et les maisons Mid-Century de Palm Springs, puis la traversée de Joshua Tree du sud au nord, avec Cholla Cactus Garden au coucher du soleil et la pleine lune qui se lève sur le désert.",
       "route": "drive",
       "parts": [
         {
+          "label": "Très tôt",
+          "text": "Debout vers 5 h avec le décalage. Uber vers 5 h 45 jusqu'aux agences de location de LAX, ouvertes 24 h/24 (environ 20 min à cette heure) : plus de choix et d'horaires qu'à Santa Monica, où les agences n'ouvrent que vers 7 h 30 ou 8 h. Sur la route vers 6 h 30, avant le gros des bouchons du vendredi, par l'I-10 vers l'est (environ 2 h 15)."
+        },
+        {
           "label": "Matin",
-          "text": "Départ de Los Angeles vers 9 h, par l'I-10 vers l'est (environ 2 h jusqu'à Palm Springs)."
+          "text": "Entrée dans Palm Springs par la station-service d'Albert Frey (1965), devenue l'office de tourisme. Puis Indian Canyons, sur les terres de la tribu Agua Caliente (ouvert dès 8 h d'octobre à juin, entrée payante) : la boucle plate d'Andreas Canyon (environ 1,6 km le long d'un ruisseau, sous les palmiers) et Palm Canyon, la plus grande palmeraie de palmiers de Californie au monde, au fond d'un canyon de roche rouge."
+        },
+        {
+          "label": "Fin de matinée",
+          "text": "Tour en voiture des quartiers Mid-Century, Old Las Palmas, Vista Las Palmas et le Movie Colony : maisons d'architectes des années 1950 et 1960 à voir depuis la rue, dont la Kaufmann House de Richard Neutra (1946)."
         },
         {
           "label": "Midi",
-          "text": "Palm Springs : balade d'une heure et demie dans les rues design et déjeuner, puis route vers Joshua Tree par la CA-62 (environ 45 min)."
+          "text": "Uptown Design District, sur North Palm Canyon Drive : boutiques de design et de vintage, et déjeuner (voir « Que manger »). Départ vers 14 h 45."
         },
         {
-          "label": "Fin d'après-midi",
-          "text": "Entrée dans le parc national de Joshua Tree et coucher du soleil à Keys View (vers 17 h 05), avec vue sur la vallée de Coachella."
+          "label": "Après-midi",
+          "text": "Par l'I-10 jusqu'à l'entrée sud de Joshua Tree, à Cottonwood (environ 1 h). On traverse le parc du sud au nord : le désert du Colorado, bas et plat, avec ses ocotillos, puis Cholla Cactus Garden vers 16 h 25."
+        },
+        {
+          "label": "Coucher du soleil",
+          "text": "Cholla Cactus Garden (vers 17 h 05) : les épines des chollas s'allument à contre-jour, c'est la plus belle lumière du parc. Pleine lune le 22 janvier : elle se lève à l'est, au-dessus du bassin de Pinto, à peu près au moment où le soleil se couche. Rester sur le sentier, les épines s'accrochent au moindre contact."
+        },
+        {
+          "label": "Soir",
+          "text": "Route de nuit jusqu'à la sortie nord, à Twentynine Palms (environ 35 min, lentement, à cause des animaux), dîner au 29 Palms Inn, puis Joshua Tree (village), à 20 min."
         }
       ],
       "stops": [
         {
-          "name": "Palm Springs",
-          "wiki": "Palm Springs, California",
-          "culture": "Escapade favorite des stars d'Hollywood dans les années 1950-60. La ville est aujourd'hui célèbre pour son architecture Mid-Century modern et ses maisons aux couleurs vives."
-        },
-        {
-          "name": "Joshua Tree National Park",
-          "wiki": "Joshua Tree National Park",
-          "culture": "À la jonction des déserts du Mojave et du Colorado. Son nom vient des arbres de Josué, que des colons mormons comparaient à un prophète les bras levés. L'album The Joshua Tree de U2 (1987) lui doit son titre."
-        },
-        {
-          "name": "Keys View",
-          "wiki": "Keys View",
-          "photo": "File:Keys View Joshua Tree December 2013 003.jpg",
+          "name": "Agences de location de LAX",
           "coords": [
-            33.925,
-            -116.187
+            33.9445,
+            -118.387
           ],
-          "culture": "Belvédère à environ 1 580 m d'altitude, avec vue sur la vallée de Coachella et la faille de San Andreas."
+          "hidden": true
+        },
+        {
+          "name": "Station-service d'Albert Frey",
+          "wiki": "Tramway Gas Station",
+          "coords": [
+            33.8544,
+            -116.5569
+          ],
+          "culture": "Station-service à l'auvent en aile d'avion, dessinée en 1965 par Albert Frey au pied du téléphérique. Elle accueille aujourd'hui l'office de tourisme de Palm Springs."
+        },
+        {
+          "name": "Indian Canyons",
+          "wiki": "Indian Canyons",
+          "coords": [
+            33.7606,
+            -116.5513
+          ],
+          "culture": "Canyons des Agua Caliente, peuple cahuilla qui vit ici depuis des siècles. Palm Canyon abrite la plus grande palmeraie de palmiers de Californie au monde, nourrie par les ruisseaux du mont San Jacinto.",
+          "photo": "File:Palm Canyon Creek (39319392884).jpg"
+        },
+        {
+          "name": "Kaufmann House",
+          "wiki": "Kaufmann Desert House",
+          "coords": [
+            33.8378,
+            -116.5508
+          ],
+          "culture": "Maison de verre et d'acier dessinée en 1946 par Richard Neutra pour Edgar Kaufmann, déjà client de Frank Lloyd Wright à Fallingwater. Propriété privée, à voir depuis la rue."
+        },
+        {
+          "name": "Uptown Design District",
+          "coords": [
+            33.8355,
+            -116.5466
+          ],
+          "culture": "Tronçon de North Palm Canyon Drive bordé de boutiques de design, de mobilier vintage et de restaurants, dans des bâtiments des années 1950."
+        },
+        {
+          "name": "Entrée de Cottonwood",
+          "coords": [
+            33.748,
+            -115.8236
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Cholla Cactus Garden",
+          "coords": [
+            33.924,
+            -115.929
+          ],
+          "culture": "Champ de chollas « ours en peluche », particulièrement beau tôt le matin ou au coucher du soleil, quand la lumière traverse leurs épines.",
+          "photo": "File:Joshua Tree National Park (California, USA) -- 2012 -- 5666.jpg"
         }
       ],
       "stay": {
-        "name": "Joshua Tree",
+        "name": "Joshua Tree (village)",
         "coords": [
           34.1347,
           -116.3131
         ],
-        "note": "Nuit à Joshua Tree (hébergement à choisir) : les nuits d'hiver y sont proches de 0 °C"
+        "note": "Deux nuits à Joshua Tree (village), à 5 min de l'entrée ouest : le plus près de Hidden Valley, de Keys View et de Pioneertown. Nuits proches de 0 °C. Dîner : vendredi à Twentynine Palms (29 Palms Inn), sur la route en sortant du parc ; samedi à Pioneertown. Le village de Joshua Tree a peu de restaurants le soir.",
+        "options": [
+          "Une maison louée au milieu des blocs de granit, côté Joshua Tree ou Yucca Valley : c'est l'hébergement typique ici, souvent avec une terrasse face au désert",
+          "Joshua Tree Inn (motel historique simple)",
+          "Pour le charme : Pioneertown Motel (décor de western, à 25 min de l'entrée ouest, à pied de Pappy & Harriet's)"
+        ]
       },
       "transport": [
         {
           "mode": "car",
-          "text": "Los Angeles → Palm Springs : environ 2 h",
+          "text": "LAX → Palm Springs : environ 2 h 15",
           "after": 0
         },
         {
           "mode": "car",
-          "text": "Palm Springs → Joshua Tree : environ 45 min",
-          "after": 1
+          "text": "Palm Springs → entrée de Cottonwood : environ 1 h",
+          "after": 3
+        },
+        {
+          "mode": "car",
+          "text": "Cholla Cactus Garden → Twentynine Palms : environ 35 min",
+          "after": 5
+        },
+        {
+          "mode": "car",
+          "text": "Twentynine Palms → Joshua Tree (village) : environ 20 min",
+          "after": 6
         }
       ],
-      "notes": []
+      "notes": [
+        "Prise de voiture : à LAX plutôt qu'à Santa Monica, pour partir avant 7 h. Location rendue à San Francisco : prévoir d'éventuels frais d'abandon.",
+        "Pleine lune : pas de Voie lactée ces deux nuits à Joshua Tree, pourtant parc labellisé « ciel étoilé » ; en échange, le désert éclairé par la lune, assez pour marcher sans lampe."
+      ],
+      "food": [
+        "Milkshake aux dattes, la spécialité de la vallée de Coachella : chez Hadley Fruit Orchards, à Cabazon, sur l'I-10 juste avant Palm Springs (vérifier l'heure d'ouverture). Lait pasteurisé, sans risque pour la grossesse.",
+        "Déjeuner dans l'Uptown Design District : Cheeky's (brunch réputé, souvent la queue ; vérifier les jours d'ouverture) ou un des cafés de North Palm Canyon Drive.",
+        "Dîner au 29 Palms Inn, à Twentynine Palms : restaurant simple au bord de l'oasis de Mara, sur la route de l'hôtel. Dans le village de Joshua Tree, le choix le soir est limité (Crossroads Cafe, Joshua Tree Saloon).",
+        "Grossesse : viande et poisson bien cuits, rien de cru (sushis, huîtres, oursin de Santa Barbara), pas de fromage au lait cru, crudités bien lavées, pas d'alcool."
+      ]
     },
     {
       "n": 4,
       "weekday": "Samedi",
       "title": "Journée dans le désert : Joshua Tree et alentours",
-      "summary": "Une journée entière à Joshua Tree : Hidden Valley, Barker Dam, Skull Rock, Arch Rock et Cholla Cactus Garden, puis Pioneertown pour le dîner, avec en option une demi-journée du côté de Palm Springs.",
+      "summary": "Le matin dans les blocs de granit, Hidden Valley, Barker Dam, Skull Rock et Arch Rock ; une longue pause au milieu de la journée ; Keys View au coucher du soleil, puis Pioneertown pour le dîner.",
       "route": "drive",
       "parts": [
         {
+          "label": "Lever du soleil",
+          "text": "Entrée ouest vers 6 h 45 (le samedi, la file à l'entrée peut être longue dès 9 h). Hidden Valley (boucle de 1,6 km) dans la première lumière, vers 6 h 50, puis Barker Dam (1,8 km), où l'on a le plus de chances de voir des mouflons tôt le matin. Petit-déjeuner pique-nique emporté du village."
+        },
+        {
           "label": "Matin",
-          "text": "Parc national de Joshua Tree : boucle de Hidden Valley, Barker Dam, puis Skull Rock et Arch Rock."
+          "text": "Skull Rock, puis Arch Rock par un court sentier (environ 2 km aller-retour), au milieu des blocs de granit et des arbres de Josué."
         },
         {
           "label": "Midi",
-          "text": "Déjeuner à Joshua Tree (village) ou pique-nique dans le parc."
+          "text": "Déjeuner au village de Joshua Tree et pause à l'hôtel au début de l'après-midi."
         },
         {
-          "label": "Après-midi",
-          "text": "Cholla Cactus Garden, à la lumière rasante de l'après-midi (coucher du soleil vers 17 h 05). Ou, à la place, une sortie du côté de Palm Springs (téléphérique ou Indian Canyons, voir les idées)."
+          "label": "Coucher du soleil",
+          "text": "Keys View (vers 17 h 05 ; y être vers 16 h 30) : vue sur la vallée de Coachella, la faille de San Andreas et le mont San Jacinto, souvent enneigé en janvier."
         },
         {
           "label": "Soir",
-          "text": "Pioneertown et dîner chez Pappy & Harriet's (barbecue, parfois des concerts ; réserver)."
+          "text": "Pioneertown (environ 50 min), décor de western construit en 1946 pour le cinéma, à la tombée de la nuit, puis dîner chez Pappy & Harriet's. La lune, encore pleine, se lève vers 18 h."
         }
       ],
       "stops": [
@@ -230,13 +354,14 @@
           "photo": "File:Joshua Tree, Arch Rock Nature Trail, California, USA (52615938558).jpg"
         },
         {
-          "name": "Cholla Cactus Garden",
+          "name": "Keys View",
+          "wiki": "Keys View",
+          "photo": "File:Keys View Joshua Tree December 2013 003.jpg",
           "coords": [
-            33.924,
-            -115.929
+            33.925,
+            -116.187
           ],
-          "culture": "Champ de chollas « ours en peluche », particulièrement beau tôt le matin ou au coucher du soleil, quand la lumière traverse leurs épines.",
-          "photo": "File:Joshua Tree National Park (California, USA) -- 2012 -- 5666.jpg"
+          "culture": "Belvédère à environ 1 580 m d'altitude, avec vue sur la vallée de Coachella et la faille de San Andreas."
         },
         {
           "name": "Pioneertown",
@@ -264,44 +389,54 @@
         },
         {
           "mode": "car",
-          "text": "Joshua Tree (village) → Cholla Cactus Garden : environ 55 min",
-          "after": 1
-        },
-        {
-          "mode": "car",
-          "text": "→ Pioneertown : environ 25 min",
-          "after": 2
+          "text": "Keys View → Pioneertown : environ 50 min",
+          "after": 3
         }
       ],
       "food": [
-        "Dîner chez Pappy & Harriet's, à Pioneertown : barbecue dans un décor de western ; réservation conseillée."
+        "Déjeuner au village : Natural Sisters Café (cuisine simple et végétarienne) ou pique-nique.",
+        "Dîner chez Pappy & Harriet's, à Pioneertown : barbecue dans un décor de western, concerts le week-end. Lieu connu et plein le samedi soir : réserver. Viande bien cuite, pas d'alcool."
       ],
       "ideas": [
         {
           "label": "Palm Springs Aerial Tramway",
-          "text": "Téléphérique à cabines rotatives jusqu'à environ 2 600 m, avec de la neige en haut en hiver. Environ 1 h de route depuis Joshua Tree ; à faire à la place de Cholla Cactus Garden."
+          "text": "Téléphérique à cabines rotatives jusqu'à environ 2 600 m, avec de la neige en haut en hiver. Environ 1 h de route depuis Joshua Tree ; à faire l'après-midi, à la place de la pause et de Keys View."
         },
         {
-          "label": "Indian Canyons",
-          "text": "Palmeraies et canyons des Agua Caliente, près de Palm Springs, en demi-journée. Environ 1 h de route depuis Joshua Tree ; à faire à la place de Cholla Cactus Garden."
+          "label": "Ryan Mountain",
+          "text": "Le sommet le plus panoramique du parc : 4,8 km aller-retour et environ 300 m de montée sur des marches de pierre. À éviter si la montée fatigue pendant la grossesse."
         }
       ],
-      "notes": []
+      "notes": [
+        "Une journée entière n'est pas de trop : le parc ne se voit bien qu'à la lumière rasante du matin et du soir, et le milieu de la journée sert de pause. Si l'on a vu assez de désert, on peut partir dès le samedi après-midi vers Ojai, pour raccourcir le dimanche ; on perd alors Keys View et Pioneertown."
+      ]
     },
     {
       "n": 5,
       "weekday": "Dimanche",
-      "title": "De Joshua Tree à Santa Barbara",
-      "summary": "Route vers la côte (environ 4 h 15) par l'I-210 au pied des montagnes de San Gabriel, pause à Pasadena, puis fin de journée tranquille à Santa Barbara : mission, tour du palais de justice, Funk Zone et Stearns Wharf.",
+      "title": "De Joshua Tree à Santa Barbara, par Ojai",
+      "summary": "Deux façons de rejoindre la côte : par Ojai, sans traverser Los Angeles, avec les phoques de Carpinteria et la mission de Santa Barbara ; ou par la côte de Malibu, plus spectaculaire, mais plus longue.",
       "route": "drive",
       "parts": [
         {
-          "label": "Matin",
-          "text": "Départ de Joshua Tree vers 9 h 30, par l'I-10 puis l'I-210 au pied des montagnes de San Gabriel, plutôt que par le centre de Los Angeles : pause café à Pasadena, puis la US-101 jusqu'à Santa Barbara (environ 4 h 15 au total)."
+          "label": "Option A · par Ojai",
+          "text": "Départ vers 8 h, par l'I-10 et l'I-210 au pied des montagnes de San Gabriel (peu de circulation le dimanche matin), puis la CA-126 à travers les vergers d'orangers de la vallée de la Santa Clara jusqu'à Ojai (environ 3 h 45)."
         },
         {
-          "label": "Après-midi",
-          "text": "Arrivée à Santa Barbara vers 14 h 30 : la mission, la tour du palais de justice (vue gratuite sur la ville), la Funk Zone."
+          "label": "Option A · midi",
+          "text": "Ojai : petite ville au fond d'une vallée fermée par les montagnes, avec les arcades de style espagnol d'Ojai Avenue (1917) et Bart's Books, une librairie en plein air ouverte en 1964. Déjeuner et balade jusqu'à 13 h 45."
+        },
+        {
+          "label": "Option A · après-midi",
+          "text": "La CA-150 par le lac Casitas jusqu'à Carpinteria (environ 35 min) : colonie de phoques communs, à regarder depuis la falaise (plage fermée de décembre à mai pour la mise bas ; des bénévoles y installent souvent des longues-vues). Puis Santa Barbara vers 15 h 15 : la mission, la tour du palais de justice avant 16 h 30 (vue gratuite sur la ville), et la Funk Zone."
+        },
+        {
+          "label": "Option B · par Malibu",
+          "text": "Départ vers 8 h, l'I-10 jusqu'à Santa Monica (environ 2 h 30, par Los Angeles, mais peu de circulation le dimanche matin), puis la Pacific Coast Highway le long de Malibu : le promontoire de Point Dume (court sentier au-dessus de la mer, phoques et parfois baleines grises en janvier) et El Matador State Beach, ses aiguilles de roche dans les vagues (escalier raide, à marée basse). Déjeuner de poisson cuit dans une cabane de bord de route."
+        },
+        {
+          "label": "Option B · après-midi",
+          "text": "La US-101 jusqu'à Santa Barbara (environ 1 h 15), arrivée vers 16 h : trop tard pour la mission, mais la Funk Zone et Stearns Wharf. Environ 45 min de route de plus que l'option A, et la côte se voit aussi à Santa Monica et le lendemain à Big Sur."
         },
         {
           "label": "Soir",
@@ -310,13 +445,42 @@
       ],
       "stops": [
         {
-          "name": "Pasadena",
-          "wiki": "Pasadena, California",
+          "name": "Ojai",
+          "wiki": "Ojai, California",
           "coords": [
-            34.1478,
-            -118.1445
+            34.448,
+            -119.2429
           ],
-          "culture": "Ville au pied des montagnes de San Gabriel, sur l'I-210 : pause café avant de rejoindre la côte."
+          "culture": "Petite ville d'une vallée orientée est-ouest : au coucher du soleil, les montagnes Topatopa se teintent de rose, ce que les habitants appellent le « pink moment »."
+        },
+        {
+          "name": "Phoques de Carpinteria",
+          "coords": [
+            34.3883,
+            -119.5155
+          ],
+          "culture": "Une des rares plages de Californie du Sud où les phoques communs mettent bas, au pied des falaises de Carpinteria. La plage est fermée de décembre à mai, et on les regarde depuis le haut de la falaise.",
+          "photo": "File:Carpinteria Harbor Seal Preserve.jpg"
+        },
+        {
+          "name": "Point Dume",
+          "wiki": "Point Dume",
+          "coords": [
+            34.0013,
+            -118.8061
+          ],
+          "optional": true,
+          "culture": "Promontoire rocheux à l'ouest de Malibu, d'où l'on guette les baleines grises qui descendent vers le Mexique en hiver."
+        },
+        {
+          "name": "El Matador State Beach",
+          "wiki": "El Matador State Beach",
+          "coords": [
+            34.0383,
+            -118.8747
+          ],
+          "optional": true,
+          "culture": "Petite plage au pied d'une falaise, avec des arches et des aiguilles de roche dans les vagues."
         },
         {
           "name": "Mission Santa Barbara",
@@ -361,18 +525,28 @@
           -119.6982
         ],
         "wiki": "Santa Barbara, California",
-        "note": "Nuit à Santa Barbara (hébergement à choisir)"
+        "note": "Nuit dans le centre de Santa Barbara ou dans la Funk Zone : tout se fait à pied le soir, et départ direct sur la US-101 lundi à 7 h",
+        "options": [
+          "Spanish Garden Inn (petit hôtel de charme de style espagnol, dans le centre)",
+          "Hotel Indigo (Funk Zone, plus simple)",
+          "Montecito Inn (hôtel de 1928 lié à Charlie Chaplin, à Montecito, 10 min au sud : plus calme, mais 10 min de route en plus lundi)"
+        ]
       },
       "transport": [
         {
           "mode": "car",
-          "text": "Joshua Tree → Pasadena : environ 2 h 15 de route, par l'I-10 puis l'I-210",
-          "after": 0
+          "text": "Joshua Tree → Ojai : environ 3 h 45, par l'I-10, l'I-210 et la CA-126",
+          "after": -1
         },
         {
           "mode": "car",
-          "text": "Pasadena → Santa Barbara : environ 2 h de route, par la US-101",
-          "after": 0
+          "text": "Ojai → Carpinteria → Santa Barbara : environ 55 min, par la CA-150",
+          "after": 1
+        },
+        {
+          "mode": "car",
+          "text": "Joshua Tree → Malibu : environ 2 h 45, puis Malibu → Santa Barbara : environ 1 h 15",
+          "after": 2
         }
       ],
       "ideas": [
@@ -381,7 +555,13 @@
           "text": "Environ 40 min de Santa Barbara : collines de chênes et ranchs, plus rustiques et moins luxueux que Sonoma ; Los Olivos est le plus joli village, et Solvang un village « danois » plutôt kitsch. En janvier, les collines sont vertes. Dormir à Los Olivos plutôt qu'à Santa Barbara raccourcirait d'environ 45 min la route du lundi."
         }
       ],
-      "notes": []
+      "notes": [],
+      "food": [
+        "Option A, à Ojai : Farmer and the Cook (cuisine bio et mexicaine simple, à Meiners Oaks) ou les cafés d'Ojai Avenue. Option B, à Malibu : une cabane de poisson de bord de route (poisson et crevettes bien cuits ; les restaurants de la jetée de Malibu sont chers et touristiques).",
+        "À Santa Barbara : La Super-Rica Taqueria (petite taqueria mexicaine, chère à Julia Child, pas chère et souvent la queue ; vérifier les jours d'ouverture), ou Lucky Penny et Loquita dans la Funk Zone. Les crevettes de Santa Barbara (spot prawns), cuites, sont un bon choix pour le mercure.",
+        "Sur Stearns Wharf, les restaurants de poisson sont touristiques et chers pour ce qu'ils servent : y aller pour le coucher du soleil, dîner ailleurs.",
+        "Grossesse : viande et poisson bien cuits, rien de cru (sushis, huîtres, oursin de Santa Barbara), pas de fromage au lait cru, crudités bien lavées, pas d'alcool."
+      ]
     },
     {
       "n": 6,
@@ -1079,6 +1259,263 @@
               "Ambiance rétro-chic et artistique dans la ville minière historique d'Amador City, minuscule et remarquablement préservée, qui ressemble à un décor de film. Décor vintage très composé (chaque coin est photogénique), vibe décontractée centrée sur l'expression artistique et les vins nature.",
               "4,9 sur Google, ouvert jusqu'à 18 h"
             ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alternative-floride",
+      "title": "Alternative : passage par la Floride au lieu de Los Angeles",
+      "summary": "Du mercredi soir au lundi midi en Floride, à la place de Los Angeles, Joshua Tree et Santa Barbara : le meilleur du voyage Floride, puis un vol vers San Francisco.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Le principe"
+        },
+        {
+          "type": "list",
+          "items": [
+            "On arrive à Miami le mercredi soir au lieu de Los Angeles, et on rejoint San Francisco en avion le lundi, à la place de la route de la côte. La suite du voyage, à partir du mardi à San Francisco, ne change pas.",
+            "On garde le meilleur du voyage Floride : la villa Vizcaya, les Everglades de Shark Valley à Flamingo, la route des Keys avec le Seven Mile Bridge et Bahia Honda, et Key West ; les Dry Tortugas en option, car elles coûtent cher.",
+            "On retire une journée par rapport à ce voyage : il ne reste qu'une journée entière à Key West.",
+            "Ce qu'on perd côté Californie : Los Angeles, Palm Springs, Joshua Tree, Ojai, Santa Barbara, Bixby Bridge et les loutres de Moss Landing.",
+            "Ce qu'on gagne : la mer chaude (environ 22 à 24 °C dans les Keys), des plages où l'on se baigne, les alligators et les lamantins des Everglades, et beaucoup moins de route (environ 9 h en tout, contre environ 17 h de Los Angeles à San Francisco)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Jour par jour"
+        },
+        {
+          "type": "map",
+          "days": [
+            {
+              "label": "Mercredi",
+              "night": "Coconut Grove",
+              "points": [
+                [
+                  25.7959,
+                  -80.287
+                ],
+                [
+                  25.728,
+                  -80.241
+                ]
+              ]
+            },
+            {
+              "label": "Jeudi",
+              "night": "Islamorada",
+              "points": [
+                [
+                  25.781,
+                  -80.13
+                ],
+                [
+                  25.7443,
+                  -80.2105
+                ],
+                [
+                  25.7573,
+                  -80.7665
+                ],
+                [
+                  24.936,
+                  -80.615
+                ]
+              ]
+            },
+            {
+              "label": "Vendredi",
+              "night": "Islamorada",
+              "points": [
+                [
+                  25.3826,
+                  -80.6095
+                ],
+                [
+                  25.441,
+                  -80.7836
+                ],
+                [
+                  25.1416,
+                  -80.9237
+                ],
+                [
+                  25.4456,
+                  -80.5005
+                ],
+                [
+                  24.936,
+                  -80.615
+                ]
+              ]
+            },
+            {
+              "label": "Samedi",
+              "night": "Key West",
+              "points": [
+                [
+                  25.125,
+                  -80.406
+                ],
+                [
+                  24.8526,
+                  -80.736
+                ],
+                [
+                  24.706,
+                  -81.16
+                ],
+                [
+                  24.656,
+                  -81.277
+                ],
+                [
+                  24.5458,
+                  -81.8104
+                ],
+                [
+                  24.555,
+                  -81.8
+                ]
+              ]
+            },
+            {
+              "label": "Dimanche",
+              "night": "Key West",
+              "points": [
+                [
+                  24.555,
+                  -81.8
+                ],
+                [
+                  24.5458,
+                  -81.8104
+                ],
+                [
+                  24.552,
+                  -81.772
+                ],
+                [
+                  24.555,
+                  -81.8
+                ]
+              ]
+            },
+            {
+              "label": "Lundi",
+              "night": "Vol vers San Francisco",
+              "points": [
+                [
+                  24.5458,
+                  -81.8104
+                ],
+                [
+                  24.5561,
+                  -81.7596
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Programme",
+            "Nuit"
+          ],
+          "rows": [
+            [
+              "Mercredi soir",
+              "Vol Air France direct Paris → Miami (AF90, arrivée vers 17 h 40), voiture de location, dîner à pied à Coconut Grove",
+              "Coconut Grove"
+            ],
+            [
+              "Jeudi",
+              "Lever du soleil sur South Beach (simple coup d'œil sur Ocean Drive), villa Vizcaya à 9 h 30, tram de Shark Valley dans les Everglades, puis route des Keys",
+              "Islamorada"
+            ],
+            [
+              "Vendredi",
+              "Anhinga Trail tôt le matin, route jusqu'à Flamingo (lamantins et crocodiles depuis la marina), milkshake chez Robert Is Here au retour",
+              "Islamorada"
+            ],
+            [
+              "Samedi",
+              "Récif de John Pennekamp, Anne's Beach, Seven Mile Bridge, Bahia Honda, coucher du soleil à Fort Zachary Taylor",
+              "Key West"
+            ],
+            [
+              "Dimanche",
+              "Key West à vélo : la vieille ville en bois peint, Fort Zachary Taylor pour nager, coucher du soleil et dîner face à la mer. En option, les Dry Tortugas (voir plus bas)",
+              "Key West"
+            ],
+            [
+              "Lundi",
+              "Baignade à Fort Zachary Taylor, retour de la voiture et vol vers San Francisco vers 14 h",
+              "San Francisco"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Les Dry Tortugas : cher, mais pas une arnaque"
+        },
+        {
+          "type": "list",
+          "items": [
+            "C'est un parc national, à 110 km de Key West : Fort Jefferson, un immense fort de brique du XIXe siècle au milieu de la mer, une plage de sable blanc et du snorkeling le long des douves. Le site est réellement exceptionnel, et le nombre de visiteurs est limité par le parc.",
+            "Le prix est le problème : l'hydravion coûte environ 507 $ par adulte pour une demi-journée (40 min de vol, environ 2 h 30 sur place), plus 15 $ d'entrée au parc, soit environ 1 040 $ pour deux.",
+            "Le ferry Yankee Freedom coûte environ 235 à 260 $ par adulte, entrée comprise, mais prend la journée entière (départ vers 8 h, environ 2 h 15 de traversée dans chaque sens, en pleine mer). En janvier, les coups de vent du nord rendent souvent la traversée agitée : peu conseillé pendant la grossesse si l'on est sujet au mal de mer.",
+            "Avec une seule journée à Key West, le ferry la prend en entier. Pour un budget plus raisonnable : une sortie snorkeling au récif de Looe Key (environ 54 $ par personne, voir le voyage Floride), ou rien de plus que Key West."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Vols"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Trajet",
+            "Vol",
+            "Remarque"
+          ],
+          "rows": [
+            [
+              "Paris → Miami, mercredi 20",
+              "Air France AF90 direct, 13 h 10 → 17 h 40",
+              "Horaire relevé pour le mardi 19 dans le voyage Floride, à vérifier pour le mercredi"
+            ],
+            [
+              "Key West → San Francisco, lundi 25",
+              "American via Charlotte, 13 h 52 → 22 h 52",
+              "Environ 405 $ par personne en tarif de base, une escale, arrivée à 22 h 52 : le mardi est une journée de travail en ville"
+            ],
+            [
+              "Variante : Miami → San Francisco, lundi 25",
+              "United direct, 16 h 37 → 20 h 09",
+              "Environ 242 $ par personne et direct, mais environ 3 h 45 de route depuis Key West le lundi matin, et la voiture rendue à Miami sans frais d'abandon"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Le retour vers Paris, depuis San Francisco ou Sacramento, ne change pas. La voiture prise à Miami et rendue à Key West coûte des frais d'abandon : comparer avec un retour à Miami et le vol direct United."
+        },
+        {
+          "type": "heading",
+          "text": "À savoir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Décalage : la Floride est à 6 h de Paris, contre 9 h pour la Californie ; on arrive moins fatigué, et on rattrape 3 h en arrivant à San Francisco.",
+            "Valise : il faut en plus des affaires de plage et de baignade, pour 25 °C en Floride, avant les 10 à 14 °C de San Francisco et le froid de Yosemite.",
+            "Grossesse : mêmes règles que dans le voyage Floride (rien de cru, mercure, crème solaire minérale), et répulsif adapté le soir.",
+            "Le détail de chaque journée, les hôtels et les options avec leurs avertissements (Robbie's, Christ des Abysses, Mallory Square, Kennedy) sont dans le voyage Floride."
           ]
         }
       ]

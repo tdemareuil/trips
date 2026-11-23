@@ -7774,5 +7774,54 @@
   "page": "https://commons.wikimedia.org/wiki/File:Wayang_Klithik_Museum_Wayang_Kekayon.jpg",
   "artist": "Faa.story",
   "license": "CC BY-SA 4.0"
+ },
+ "El Matador State Beach": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/El_matador_beach_malibu.jpg/1920px-El_matador_beach_malibu.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:El_matador_beach_malibu.jpg",
+  "artist": "Graham",
+  "license": "CC BY 2.0",
+  "lat": 34.03861,
+  "lon": -118.875
+ },
+ "Indian Canyons": {},
+ "Kaufmann Desert House": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Kaufman_Desert_Home.jpg/1920px-Kaufman_Desert_Home.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kaufman_Desert_Home.jpg",
+  "artist": "Pmeulbroek",
+  "license": "CC BY-SA 4.0",
+  "lat": 33.8451,
+  "lon": -116.5529,
+  "extract": "Kaufmann House ou Kaufmann Desert House est une résidence de style architecture californienne moderne, construite en 1946 par l'architecte austro-californien Richard Neutra à Palm Springs dans le désert de Californie aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Kaufmann_Desert_House"
+ },
+ "Ojai, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Ojai_Valley_Museum_2014_02.JPG/1920px-Ojai_Valley_Museum_2014_02.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Ojai_Valley_Museum_2014_02.JPG",
+  "artist": "Patrick Pelletier",
+  "license": "CC BY-SA 3.0",
+  "lat": 34.44917,
+  "lon": -119.24667,
+  "extract": "Ojai est une ville de Californie du comté de Ventura. C'est une station thermale située à l'est de Santa Barbara. Elle a été fondée dans les années 1870 par un journaliste, Charles Nordhoff, et a porté son nom, avant d'être rebaptisée Ojai en 1917.",
+  "article": "https://fr.wikipedia.org/wiki/Ojai"
+ },
+ "Tramway Gas Station": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Palm_Springs_Visitor_Center_Sideview-%28revised%292.jpg/1920px-Palm_Springs_Visitor_Center_Sideview-%28revised%292.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Palm_Springs_Visitor_Center_Sideview-(revised)2.jpg",
+  "artist": "Bryanb7",
+  "license": "CC BY-SA 4.0",
+  "lat": 33.8584,
+  "lon": -116.5581
+ },
+ "File:Carpinteria Harbor Seal Preserve.jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Carpinteria_Harbor_Seal_Preserve.jpg/1920px-Carpinteria_Harbor_Seal_Preserve.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Carpinteria_Harbor_Seal_Preserve.jpg",
+  "artist": "Chuy1530",
+  "license": "CC BY-SA 4.0"
+ },
+ "File:Palm Canyon Creek (39319392884).jpg": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Palm_Canyon_Creek_%2839319392884%29.jpg/1920px-Palm_Canyon_Creek_%2839319392884%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Palm_Canyon_Creek_(39319392884).jpg",
+  "artist": "blmcalifornia",
+  "license": "Public domain"
  }
 }
