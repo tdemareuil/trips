@@ -5,7 +5,7 @@
   "travelers": [
     "En couple"
   ],
-  "cover": "File:Sigiriya Sun Set.jpg",
+  "cover": "File:Sigiriya (141688197).jpeg",
   "days": [
     {
       "n": 1,
@@ -1155,6 +1155,5 @@
     }
   ],
   "season": "Janvier",
-  "kind": "long",
-  "coverPosition": "35% 100%"
+  "kind": "long"
 }

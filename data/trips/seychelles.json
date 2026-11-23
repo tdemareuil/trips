@@ -1,0 +1,666 @@
+{
+  "id": "seychelles",
+  "title": "Seychelles : Praslin, La Digue et Mahé",
+  "subtitle": "Huit jours entre Praslin, La Digue et Mahé : vallée de Mai, Anse Lazio, tortues de Curieuse, Anse Source d'Argent, Anse Cocos et Copolia",
+  "travelers": [
+    "En couple"
+  ],
+  "cover": "Anse Source d'Argent",
+  "done": false,
+  "season": "Janvier",
+  "kind": "short",
+  "days": [
+    {
+      "n": 1,
+      "weekday": "Samedi",
+      "title": "Arrivée à Mahé, ferry vers Praslin",
+      "route": "none",
+      "summary": "Vol de nuit le vendredi soir, arrivée le samedi matin à Mahé, ferry rapide vers Praslin et premier après-midi au calme sur l'anse Volbert.",
+      "parts": [
+        {
+          "label": "La veille",
+          "text": "Vol de nuit le vendredi soir depuis Paris, avec une escale dans le Golfe (Emirates via Dubaï, Qatar Airways via Doha, Etihad via Abou Dhabi) ou à Istanbul (Turkish Airlines). Certains hivers, un vol direct saisonnier existe : à vérifier au moment de réserver."
+        },
+        {
+          "label": "Matin",
+          "text": "Arrivée à l'aéroport de Mahé, transfert au port de Victoria (environ 20 min)."
+        },
+        {
+          "label": "Midi",
+          "text": "Ferry rapide Cat Cocos vers Praslin (environ 1 h), puis installation à l'hôtel."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Repos et baignade sur l'anse Volbert, longue plage abritée face à l'île Curieuse."
+        },
+        {
+          "label": "Soir",
+          "text": "Coucher tôt pour récupérer du vol (3 h de plus qu'à Paris en février)."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Aéroport de Mahé (SEZ)",
+          "coords": [
+            -4.6743,
+            55.5218
+          ],
+          "culture": "Seul aéroport international de l'archipel, sur la côte est de Mahé."
+        },
+        {
+          "name": "Anse Volbert",
+          "photo": "File:Anse Volbert rocks Praslin.jpg",
+          "coords": [
+            -4.318,
+            55.74
+          ],
+          "culture": "Longue plage de sable blanc, abritée, au nord de Praslin, face à l'île Curieuse."
+        }
+      ],
+      "stay": {
+        "name": "Praslin",
+        "coords": [
+          -4.314,
+          55.733
+        ],
+        "note": "Praslin, 3 nuits : petit hôtel au bord de l'eau",
+        "options": [
+          "Le Domaine de La Réserve (anse Petite Cour, à vérifier)",
+          "Coco de Mer Hotel & Black Parrot Suites (anse Bois de Rose, à vérifier)",
+          "Château de Feuilles (petit hôtel haut de gamme sur une colline, à vérifier)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "flight",
+          "text": "Paris → Mahé : environ 13 à 15 h avec une escale",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Aéroport → port de Victoria : environ 20 min",
+          "after": 1
+        },
+        {
+          "mode": "boat",
+          "text": "Victoria → Praslin : ferry rapide Cat Cocos, environ 1 h",
+          "after": 1
+        }
+      ],
+      "notes": [
+        "Grossesse : bas de contention, marcher toutes les heures, boire beaucoup, siège côté couloir. Garder le carnet de grossesse sur soi.",
+        "Décalage horaire : 3 h de plus qu'à Paris en février. Le Cat Cocos peut être secoué par mer formée : s'asseoir au centre, en bas."
+      ]
+    },
+    {
+      "n": 2,
+      "weekday": "Dimanche",
+      "title": "Vallée de Mai et Anse Lazio",
+      "route": "none",
+      "summary": "La forêt primaire des cocos de mer, classée par l'UNESCO, puis Anse Lazio, l'une des plus belles plages du monde.",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Vallée de Mai à l'ouverture, avant la chaleur et les groupes : forêt de palmiers géants où pousse le coco de mer, la plus grosse graine du monde, et peut-être le perroquet noir des Seychelles. Sentiers faciles, compter 1 h 30 à 2 h."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Anse Lazio : sable blanc, eau turquoise et blocs de granit rose. Baignade seulement si la mer est calme."
+        },
+        {
+          "label": "Coucher du soleil",
+          "text": "Sur la plage d'Anse Lazio."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Vallée de Mai",
+          "wiki": "Vallée de Mai Nature Reserve",
+          "culture": "Réserve inscrite à l'UNESCO, où pousse le coco de mer, dont la noix est la plus grosse graine du monde."
+        },
+        {
+          "name": "Anse Lazio",
+          "wiki": "Anse Lazio",
+          "culture": "Souvent citée parmi les plus belles plages du monde, bordée de rochers de granit."
+        }
+      ],
+      "stay": {
+        "name": "Praslin",
+        "coords": [
+          -4.314,
+          55.733
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Trajets de 15 à 25 min en voiture de location ou en taxi",
+          "after": -1
+        }
+      ],
+      "food": [
+        "Poisson grillé et carry créole (curry de poisson au lait de coco). Grossesse : poisson et viande bien cuits, rien de cru (tartares de poisson, sushis), pas de fromage au lait cru, crudités lavées à l'eau potable, eau en bouteille, pas d'alcool. Éviter l'espadon et le thon rouge (mercure) : préférer le bourgeois, la carangue et les crevettes."
+      ],
+      "notes": [
+        "Entrée de la vallée de Mai payante et assez chère. Anse Lazio : courants et vagues possibles pendant la mousson ; pas de baignade si le drapeau est rouge."
+      ]
+    },
+    {
+      "n": 3,
+      "weekday": "Lundi",
+      "title": "Île Curieuse et îlot Saint-Pierre",
+      "route": "none",
+      "summary": "Bateau vers l'île Curieuse et ses tortues géantes en liberté, mangrove, puis snorkeling autour de l'îlot Saint-Pierre.",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Bateau depuis l'anse Volbert vers l'île Curieuse : tortues géantes d'Aldabra en liberté autour de la station des gardes, sentier sur pilotis dans la mangrove jusqu'à la maison du docteur."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner sur la plage (barbecue de poisson souvent proposé par les bateliers)."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Snorkeling autour de l'îlot Saint-Pierre, rocher de granit et cocotiers au milieu de l'eau turquoise, puis retour. C'est le site le plus réputé du voyage pour ses coraux et la clarté de l'eau."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Île Curieuse",
+          "wiki": "Curieuse"
+        },
+        {
+          "name": "Îlot Saint-Pierre",
+          "photo": "File:Islet Saint Pierre near Praslin Seychelles.JPG",
+          "coords": [
+            -4.313,
+            55.757
+          ],
+          "culture": "Îlot de granit près de Praslin, apprécié pour le snorkeling."
+        }
+      ],
+      "stay": {
+        "name": "Praslin",
+        "coords": [
+          -4.314,
+          55.733
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Bateau vers Curieuse : environ 15 min",
+          "after": -1
+        }
+      ],
+      "food": [
+        "Barbecue de poisson sur la plage : vérifier qu'il est bien cuit. Grossesse : poisson et viande bien cuits, rien de cru (tartares de poisson, sushis), pas de fromage au lait cru, crudités lavées à l'eau potable, eau en bouteille, pas d'alcool. Éviter l'espadon et le thon rouge (mercure) : préférer le bourgeois, la carangue et les crevettes."
+      ],
+      "notes": [
+        "Ne pas nourrir ni toucher les tortues, rester à distance. Grossesse : snorkeling en surface avec gilet, renoncer si la mer est formée."
+      ]
+    },
+    {
+      "n": 4,
+      "weekday": "Mardi",
+      "title": "Ferry vers La Digue, Anse Source d'Argent",
+      "route": "none",
+      "summary": "Quinze minutes de ferry vers La Digue, l'île sans voitures, puis l'Anse Source d'Argent à vélo.",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Ferry vers La Digue (environ 15 min), installation et location de vélos électriques."
+        },
+        {
+          "label": "Après-midi",
+          "text": "L'Union Estate, ancienne plantation de coprah, puis l'Anse Source d'Argent, ses blocs de granit sculptés et son eau peu profonde : y aller à marée basse, et plutôt en fin d'après-midi quand les groupes repartent."
+        },
+        {
+          "label": "Coucher du soleil",
+          "text": "Sur l'Anse Source d'Argent ou l'Anse Sévère."
+        }
+      ],
+      "stops": [
+        {
+          "name": "La Digue",
+          "wiki": "La Digue"
+        },
+        {
+          "name": "L'Union Estate",
+          "photo": "File:Old cemetery in Union Estate Park - La Digue - Seychelles - 2.jpg",
+          "coords": [
+            -4.355,
+            55.831
+          ],
+          "culture": "Ancienne plantation de coprah, avec moulin, vanille et tortues terrestres ; l'entrée donne accès à l'Anse Source d'Argent."
+        },
+        {
+          "name": "Anse Source d'Argent",
+          "wiki": "Anse Source d'Argent",
+          "culture": "Souvent citée parmi les plages les plus photographiées du monde, avec ses rochers de granite."
+        }
+      ],
+      "stay": {
+        "name": "La Digue",
+        "coords": [
+          -4.35,
+          55.832
+        ],
+        "note": "La Digue, 2 nuits : petit hôtel ou maison d'hôtes",
+        "options": [
+          "Le Repaire Boutique Hotel (anse La Réunion, à vérifier)",
+          "Le Domaine de L'Orangeraie (villas dans la végétation, à vérifier)",
+          "Une maison d'hôtes créole à La Passe (plus simple et moins chère)"
+        ]
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Praslin → La Digue : ferry, environ 15 min",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Vélo sur l'île (pas de voitures de location)",
+          "after": 0
+        }
+      ],
+      "notes": [
+        "Entrée payante à L'Union Estate pour accéder à la plage. Les enclos de tortues de l'Union Estate sont petits : les tortues de Curieuse, en liberté, sont plus agréables à voir."
+      ]
+    },
+    {
+      "n": 5,
+      "weekday": "Mercredi",
+      "title": "Grand Anse, Petite Anse et Anse Cocos",
+      "route": "none",
+      "summary": "La côte sauvage du sud-est de La Digue : grandes plages battues par les vagues et sentier jusqu'à l'Anse Cocos et ses piscines naturelles.",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Vélo jusqu'à Grand Anse (environ 20 min, une côte), puis sentier de 30 min vers Petite Anse et Anse Cocos, à l'ombre des takamakas."
+        },
+        {
+          "label": "Midi",
+          "text": "Pique-nique à Anse Cocos ; baignade dans les piscines naturelles entre les rochers au bout de la plage, à l'abri des vagues."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Retour, puis réserve de la Veuve, où niche le gobemouche de paradis, oiseau rarissime à longue queue noire."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Grand Anse (La Digue)",
+          "photo": "File:Grand Anse-La Digue-Seychellen.jpg",
+          "coords": [
+            -4.373,
+            55.845
+          ],
+          "culture": "Grande plage sauvage du sud-est de La Digue, souvent battue par les vagues."
+        },
+        {
+          "name": "Petite Anse",
+          "photo": "File:Petite Anse La Digue Seychelles.jpg",
+          "coords": [
+            -4.389,
+            55.835
+          ],
+          "culture": "Petite plage voisine de Grand Anse, au pied de blocs de granit."
+        },
+        {
+          "name": "Anse Cocos",
+          "photo": "File:Anse Cocos-La Digue-Seychelles.jpg",
+          "coords": [
+            -4.369,
+            55.866
+          ],
+          "culture": "Plage isolée, accessible à pied depuis Grand Anse ou en bateau."
+        }
+      ],
+      "stay": {
+        "name": "La Digue",
+        "coords": [
+          -4.35,
+          55.832
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Vélo électrique : environ 20 min jusqu'à Grand Anse",
+          "after": -1
+        }
+      ],
+      "notes": [
+        "Grand Anse et Petite Anse : forts courants et vagues, baignade dangereuse ; se baigner seulement dans les piscines naturelles d'Anse Cocos. Grossesse : vélo électrique et sentier faciles, mais prendre de l'eau et partir tôt à cause de la chaleur."
+      ]
+    },
+    {
+      "n": 6,
+      "weekday": "Jeudi",
+      "title": "Îlot Coco, puis retour à Mahé",
+      "route": "none",
+      "summary": "Le matin, snorkeling autour de l'îlot Coco ; l'après-midi, ferry vers Mahé et installation dans le sud de l'île.",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Sortie en bateau vers l'îlot Coco et l'île aux Félicité : snorkeling parmi les poissons tropicaux et les tortues marines, dans une eau souvent très claire. Les coraux y sont en moins bon état qu'autrefois, mais les poissons restent nombreux."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Ferry vers Mahé (environ 1 h 30 avec le changement à Praslin), voiture de location et route vers le sud de l'île (environ 45 min)."
+        },
+        {
+          "label": "Coucher du soleil",
+          "text": "Sur l'Anse Soleil, petite crique à l'ouest."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Îlot Coco",
+          "photo": "File:COCO ISLAND, LA DIGUE, SEYCHELLES, APRIL 2013 - panoramio.jpg",
+          "coords": [
+            -4.325,
+            55.85
+          ],
+          "culture": "Îlot de granit au large de La Digue, réputé pour le snorkeling."
+        },
+        {
+          "name": "Anse Soleil",
+          "coords": [
+            -4.7395,
+            55.4697
+          ],
+          "culture": "Petite crique de sable blanc à l'ouest de Mahé, entourée de granit et de végétation."
+        }
+      ],
+      "stay": {
+        "name": "Sud de Mahé",
+        "coords": [
+          -4.745,
+          55.475
+        ],
+        "note": "Sud de Mahé, 2 nuits : petit hôtel ou maison d'hôtes au-dessus d'une crique (Anse Soleil, Anse Takamaka)"
+      },
+      "transport": [
+        {
+          "mode": "boat",
+          "text": "Bateau vers l'îlot Coco : environ 20 min",
+          "after": -1
+        },
+        {
+          "mode": "boat",
+          "text": "La Digue → Praslin → Mahé : ferries, environ 1 h 30",
+          "after": 0
+        },
+        {
+          "mode": "car",
+          "text": "Victoria → sud de Mahé : environ 45 min",
+          "after": 0
+        }
+      ],
+      "notes": [
+        "Grossesse : snorkeling en surface avec gilet, renoncer si la mer est formée. On roule à gauche à Mahé, sur des routes étroites et sinueuses : rouler de jour."
+      ]
+    },
+    {
+      "n": 7,
+      "weekday": "Vendredi",
+      "title": "Copolia et Anse Royale",
+      "route": "none",
+      "summary": "Le matin, la randonnée de Copolia dans la forêt du Morne Seychellois ; l'après-midi, baignade et snorkeling depuis la plage à l'Anse Royale, sur la côte est abritée.",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Randonnée de Copolia, dans le parc national du Morne Seychellois : environ 1 h 30 aller-retour dans la forêt jusqu'à un sommet de granit, avec vue sur Victoria et les îles du parc marin. Partir tôt, avant la chaleur."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner créole à Victoria."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Anse Royale, sur la côte est : longue plage protégée par le récif, calme pendant la mousson du nord-ouest, avec du snorkeling depuis le bord autour de l'îlot Souris, à quelques dizaines de mètres."
+        },
+        {
+          "label": "Soir",
+          "text": "Retour dans le sud de Mahé, coucher du soleil sur l'Anse Soleil."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Copolia (Morne Seychellois)",
+          "wiki": "Morne Seychellois National Park",
+          "coords": [
+            -4.6455,
+            55.4618
+          ],
+          "culture": "Sentier forestier du parc national du Morne Seychellois, jusqu'à un dôme de granit dominant Victoria."
+        },
+        {
+          "name": "Anse Royale",
+          "coords": [
+            -4.738,
+            55.523
+          ],
+          "culture": "Grande plage de la côte est de Mahé, protégée par le récif, avec l'îlot Souris au large."
+        }
+      ],
+      "stay": {
+        "name": "Sud de Mahé",
+        "coords": [
+          -4.745,
+          55.475
+        ],
+        "note": "Même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Sud de Mahé → départ du sentier de Copolia : environ 40 min",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Victoria → Anse Royale : environ 30 min",
+          "after": 1
+        }
+      ],
+      "notes": [
+        "Grossesse : montée raide par endroits sur le sentier de Copolia, avancer doucement et prendre de l'eau ; snorkeling en surface avec gilet."
+      ],
+      "ideas": [
+        {
+          "label": "En option, avec réserve : le parc marin de Sainte-Anne",
+          "text": "Six îles et leurs récifs au large de Victoria, avec tortues imbriquées et calmars entre les rochers de granit. Avertissement : on y va surtout en bateau à fond de verre, un produit très touristique (vitre souvent rayée, peu de temps sur le récif, groupes nombreux, parfois buffet et musique). Si l'on y tient, prendre un petit bateau privé qui s'arrête pour le snorkeling, ou une sortie en kayak guidée, et vérifier les avis récents : les coraux ont souffert du blanchissement de 2024."
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "weekday": "Samedi",
+      "title": "Marché de Victoria, plages du sud et vol de nuit",
+      "route": "none",
+      "summary": "Le marché de Victoria le samedi matin, les plus belles plages du sud de Mahé, puis vol de nuit vers Paris.",
+      "parts": [
+        {
+          "label": "Matin",
+          "text": "Marché Sir Selwyn Clarke à Victoria, le plus animé le samedi matin : épices, fruits tropicaux, poissons."
+        },
+        {
+          "label": "Midi",
+          "text": "Anse Intendance, grande plage sauvage du sud bordée de palmiers (vagues fréquentes : regarder plutôt que se baigner), puis déjeuner créole."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Dernière baignade à l'Anse Takamaka ou à l'Anse Soleil, puis route vers l'aéroport."
+        },
+        {
+          "label": "Départ",
+          "text": "Vol de nuit vers Paris, avec une escale, arrivée le dimanche matin."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Marché de Victoria",
+          "wiki": "Victoria, Seychelles",
+          "culture": "Marché couvert de la capitale, le plus animé le samedi matin."
+        },
+        {
+          "name": "Anse Intendance",
+          "wiki": "Anse Intendance"
+        },
+        {
+          "name": "Anse Takamaka",
+          "photo": "File:Anse Takamaka-Mahé-Seychelles.jpg",
+          "coords": [
+            -4.77,
+            55.455
+          ],
+          "culture": "Son nom vient du takamaka, arbre emblématique des Seychelles."
+        },
+        {
+          "name": "Aéroport de Mahé (SEZ)",
+          "coords": [
+            -4.6743,
+            55.5218
+          ]
+        }
+      ],
+      "stay": null,
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Sud de Mahé → Victoria : environ 45 min",
+          "after": -1
+        },
+        {
+          "mode": "car",
+          "text": "Victoria → Anse Intendance : environ 50 min",
+          "after": 0
+        },
+        {
+          "mode": "car",
+          "text": "Sud de Mahé → aéroport : environ 35 min",
+          "after": 2
+        },
+        {
+          "mode": "flight",
+          "text": "Mahé → Paris : vol de nuit, environ 13 à 15 h avec une escale",
+          "after": 3
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "avis",
+      "title": "Notre avis : février aux Seychelles",
+      "summary": "La météo et le snorkeling de février, et les vols.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Pourquoi Praslin, La Digue et Mahé"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Les trois îles principales en 8 nuits, avec un seul hôtel par île : 3 nuits à Praslin, 2 à La Digue, 2 dans le sud de Mahé.",
+            "Peu de route : on circule à vélo sur La Digue, et les trajets en voiture à Praslin et à Mahé font moins d'une heure."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Février aux Seychelles"
+        },
+        {
+          "type": "text",
+          "text": "C'est la saison de la mousson du nord-ouest : chaud (environ 30 °C le jour, 25 °C la nuit) et humide, avec des averses souvent courtes et des journées très ensoleillées entre deux. L'archipel est en dehors de la zone des cyclones, contrairement à Maurice. La mer est chaude (environ 28 °C) et souvent calme, mais certaines plages exposées peuvent avoir des vagues : choisir chaque jour la côte abritée. Les meilleurs mois restent avril-mai et octobre-novembre, entre les deux moussons."
+        },
+        {
+          "type": "heading",
+          "text": "Le snorkeling en février"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La visibilité n'est pas à son meilleur : sur les forums de voyageurs, février est souvent cité comme « pas la meilleure période », et la mer peut être troublée par le vent et les averses. Les mois les plus calmes, avec une visibilité qui approche parfois 30 m, sont avril, octobre et novembre.",
+            "Les coraux ont beaucoup souffert : le blanchissement de 2024 est le plus sévère jamais mesuré aux Seychelles, selon le bilan national de 2026. Les poissons restent nombreux, mais une partie des coraux est morte ou blanchie, avec de fortes différences d'un site à l'autre.",
+            "Îlot Saint-Pierre (Praslin, jour 3) : souvent cité par les voyageurs pour ses coraux et la clarté de l'eau, le meilleur site de ce voyage.",
+            "Îlot Coco (La Digue, jour 6) : un « aquarium naturel » de poissons tropicaux selon les retours, mais des coraux en moins bon état qu'autrefois.",
+            "Parc marin de Sainte-Anne (Mahé, en option au jour 7) : tortues imbriquées et calmars entre les gros rochers de granit, mais beaucoup de bateaux d'excursion. Anse Royale, sur la côte est, permet un snorkeling simple depuis la plage, à l'abri de la mousson.",
+            "La Digue : la côte ouest est abritée et en général calme ; la côte est (Grand Anse, Petite Anse) est trop dangereuse pour le snorkeling, à cause de la houle et des courants.",
+            "Tortues imbriquées : on en voit encore en février, la fin de leur meilleure saison (d'août à février).",
+            "Conseil des voyageurs : vérifier la marée et le vent avant chaque sortie en bateau, et choisir chaque jour le côté de l'île à l'abri du vent."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Vols"
+        },
+        {
+          "type": "text",
+          "text": "Pas de vol direct régulier depuis Paris : une escale à Dubaï (Emirates), Doha (Qatar Airways), Abou Dhabi (Etihad) ou Istanbul (Turkish Airlines), environ 13 à 15 h. Un vol direct saisonnier existe certains hivers : à vérifier. Départ le vendredi soir pour arriver le samedi matin, retour par un vol de nuit le samedi pour arriver le dimanche matin à Paris. Je n'ai pas vérifié les horaires ni les prix pour février."
+        }
+      ]
+    },
+    {
+      "id": "sante",
+      "title": "Santé et grossesse",
+      "summary": "Chikungunya, dengue, Zika, mer et soins : les risques pour une grossesse aux Seychelles en février.",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Point fait en novembre 2026. Ce n'est pas un avis médical : à voir avec le médecin avant de réserver."
+        },
+        {
+          "type": "heading",
+          "text": "Les risques"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Chikungunya : risque présent selon TravelHealthPro ; plus de 70 voyageurs européens sont rentrés infectés entre novembre 2025 et février 2026. Maladie lourde pour la mère ; le risque pour le bébé concerne surtout une infection proche de l'accouchement ; le vaccin n'est pas recommandé pendant la grossesse.",
+            "Dengue : présente, plus fréquente en saison chaude et humide, donc en février.",
+            "Zika : cité par le CDC parmi les risques des Seychelles ; aucune épidémie signalée en 2026.",
+            "Pas de paludisme.",
+            "Mer : courants dangereux sur plusieurs grandes plages (Grand Anse et Petite Anse à La Digue, Anse Intendance à Mahé).",
+            "Soins : un hôpital à Victoria (Mahé), des structures plus petites à Praslin et La Digue ; en cas de complication sérieuse, évacuation possible vers l'étranger. Assurance couvrant la grossesse et le rapatriement indispensable.",
+            "Vols : environ 13 à 15 h avec une escale, dans chaque sens."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Précautions"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Répulsif adapté à la grossesse (DEET ou icaridine), vêtements longs le soir, chambres climatisées ou avec moustiquaire : le moustique du chikungunya et de la dengue pique surtout le jour.",
+            "Préservatifs pendant toute la grossesse si le médecin retient un risque de Zika.",
+            "Alimentation (non immunisée contre la toxoplasmose) : rien de cru ni de mariné, pas de fromage au lait cru, crudités lavées à l'eau potable, eau en bouteille.",
+            "Toute fièvre pendant le séjour ou dans les semaines qui suivent : consulter sans attendre.",
+            "Crème solaire minérale à l'oxyde de zinc, chapeau, et boire beaucoup : il fait chaud et humide."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Sources"
+        },
+        {
+          "type": "list",
+          "items": [
+            "[TravelHealthPro, Seychelles](https://travelhealthpro.org.uk/countries/seychelles)",
+            "[TravelHealthPro, mises à jour des épidémies](https://travelhealthpro.org.uk/updates.php?base=5218)",
+            "[CDC, Seychelles](https://wwwnc.cdc.gov/travel/destinations/traveler/children/Seychelles)"
+          ]
+        }
+      ]
+    }
+  ]
+}
