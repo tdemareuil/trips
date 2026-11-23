@@ -167,20 +167,24 @@
     {
       "n": 3,
       "title": "Bahía de las Águilas",
-      "summary": "Départ à 6 h 45 vers le sud-ouest, pour rouler de jour, flamants de la Laguna de Oviedo en matinée, puis bateau jusqu'à huit kilomètres de plage vierge dans le parc Jaragua : snorkeling, récifs protégés et tortues. Retour à Barahona avant la nuit.",
+      "summary": "Départ à 6 h 45 vers le sud-ouest, tour en barque sur la Laguna de Oviedo (flamants roses et iguanes), puis bateau jusqu'à huit kilomètres de plage vierge dans le parc Jaragua : snorkeling, récifs protégés et tortues. Retour à Barahona avant la nuit.",
       "route": "drive",
       "parts": [
         {
           "label": "Tôt",
-          "text": "Départ à 6 h 45, peu avant le lever du soleil (vers 7 h 05), vers Cabo Rojo (environ 2 h 30). Arrêt de 20 min à la Laguna de Oviedo vers 8 h 15, pour les flamants roses et les iguanes."
+          "text": "Départ à 6 h 45, peu avant le lever du soleil (vers 7 h 05), vers la Laguna de Oviedo (environ 1 h 30)."
         },
         {
-          "label": "Matin et midi",
-          "text": "Bateau de 30 à 45 min depuis Cabo Rojo jusqu'à la Bahía de las Águilas, vers 9 h 45 (arrivée sur la plage vers 10 h 30) : 8 km de plage vierge dans le parc Jaragua, avec des récifs protégés et en très bonne santé (poissons, tortues). Snorkeling sans crème solaire. La plage n'a aucun service : emporter eau, pique-nique et ombre."
+          "label": "Matin",
+          "text": "Laguna de Oviedo, vers 8 h 15 : tour en barque d'environ 1 h 30 avec les guides du centre d'accueil du parc Jaragua, sur la plus grande lagune salée du pays. Flamants roses, spatules et hérons, mangroves, et l'îlot des iguanes rhinocéros, gros iguanes endémiques de l'île. Le matin, la lumière est belle et les oiseaux sont actifs. Demander au guide de rester à distance des flamants."
+        },
+        {
+          "label": "Fin de matinée",
+          "text": "Route jusqu'à Cabo Rojo (environ 45 min), puis bateau de 30 à 45 min jusqu'à la Bahía de las Águilas, arrivée vers 11 h 15 : 8 km de plage vierge dans le parc Jaragua, avec des récifs protégés et en très bonne santé (poissons, tortues). Environ 2 h de plage et de snorkeling, sans crème solaire. La plage n'a aucun service : emporter eau et ombre."
         },
         {
           "label": "Après-midi",
-          "text": "Retour en bateau vers 14 h, déjeuner rapide de poisson grillé à Cabo Rojo, puis départ au plus tard à 15 h 30 pour arriver à Barahona avant la nuit (coucher du soleil vers 18 h 15)."
+          "text": "Retour en bateau vers 13 h 15, déjeuner de poisson grillé à Cabo Rojo, puis départ vers 15 h pour arriver à Barahona vers 17 h 30, avant la nuit (coucher du soleil vers 18 h 15)."
         }
       ],
       "stops": [
@@ -213,18 +217,28 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Barahona → Cabo Rojo : environ 2 h 30",
+          "text": "Barahona → Laguna de Oviedo : environ 1 h 30",
           "after": -1
         },
         {
           "mode": "boat",
-          "text": "Cabo Rojo → Bahía de las Águilas : 30 à 45 min en bateau, même chose au retour",
+          "text": "Tour en barque sur la lagune : environ 1 h 30",
           "after": 0
         },
         {
           "mode": "car",
+          "text": "Laguna de Oviedo → Cabo Rojo : environ 45 min",
+          "after": 1
+        },
+        {
+          "mode": "boat",
+          "text": "Cabo Rojo → Bahía de las Águilas : 30 à 45 min en bateau, même chose au retour",
+          "after": 1
+        },
+        {
+          "mode": "car",
           "text": "Cabo Rojo → Barahona : environ 2 h 30",
-          "after": 2
+          "after": 3
         }
       ],
       "food": [

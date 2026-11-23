@@ -1035,6 +1035,126 @@
       ]
     },
     {
+      "id": "variante-intermediaire",
+      "title": "Variante intermédiaire : sans la côte est",
+      "summary": "Le nord (Loreto, Concepción, San Javier) sans Cabo Pulmo : environ 13 h de route au lieu de 20, et une journée de secours à La Paz.",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Le principe"
+        },
+        {
+          "type": "list",
+          "items": [
+            "On garde le nord, Loreto, la baie de Concepción et San Javier, et on retire la côte est : Cabo Pulmo, Los Barriles, le canyon de la Zorra et El Triunfo.",
+            "La côte est coûte beaucoup de route et de piste pour un seul grand moment, le récif de Cabo Pulmo ; la baie de Concepción est le site que les guides placent le plus haut dans la péninsule.",
+            "Environ 13 h de route au lieu de 20, sans piste, et une journée de secours à La Paz, utile parce que le vent du nord fait souvent annuler la sortie à Espíritu Santo en janvier.",
+            "Un début de voyage plus calme pour le décalage horaire ; les deux soirées au ciel noir de Loreto sont gardées.",
+            "Ce qui ne change pas : la grosse journée La Paz → Loreto (environ 5 h), et un vol de retour avec une escale."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Jour par jour"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "Jour",
+            "Programme",
+            "Nuit"
+          ],
+          "rows": [
+            [
+              "Jour 1",
+              "Arrivée à Los Cabos",
+              "San José del Cabo"
+            ],
+            [
+              "Jour 2",
+              "L'arche de Cabo San Lucas tôt le matin, Santa María, Cerritos, puis Todos Santos",
+              "Todos Santos"
+            ],
+            [
+              "Jour 3",
+              "Todos Santos et Pescadero le matin, route vers La Paz (environ 1 h), Balandra l'après-midi (13 h-17 h)",
+              "La Paz"
+            ],
+            [
+              "Jour 4",
+              "Espíritu Santo et les otaries de Los Islotes",
+              "La Paz"
+            ],
+            [
+              "Jour 5",
+              "Journée souple : El Tecolote, marché, Malecón, ou Espíritu Santo si le vent a empêché la sortie la veille",
+              "La Paz"
+            ],
+            [
+              "Jour 6",
+              "Route vers Loreto (environ 5 h)",
+              "Loreto"
+            ],
+            [
+              "Jour 7",
+              "Baie de Concepción",
+              "Loreto"
+            ],
+            [
+              "Jour 8",
+              "Barque dans la baie de Loreto, mission de San Javier, vol Alaska de 17 h 01 vers San Francisco",
+              "–"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Les trois options"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "",
+            "Principal",
+            "Intermédiaire",
+            "Calme"
+          ],
+          "rows": [
+            [
+              "Route",
+              "environ 20 h",
+              "environ 13 h",
+              "environ 9 h"
+            ],
+            [
+              "Piste",
+              "Cabo Pulmo",
+              "aucune",
+              "Cabo Pulmo"
+            ],
+            [
+              "Vol de retour",
+              "une escale",
+              "une escale",
+              "direct"
+            ],
+            [
+              "Cabo Pulmo",
+              "oui",
+              "non",
+              "oui"
+            ],
+            [
+              "Concepción, San Javier, Loreto",
+              "oui",
+              "oui",
+              "non"
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "id": "variante-calme",
       "title": "Variante plus calme : le sud seulement",
       "summary": "Moins de route et un vol direct vers San Francisco, sans Loreto.",
