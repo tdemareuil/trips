@@ -167,20 +167,20 @@
     {
       "n": 3,
       "title": "Bahía de las Águilas",
-      "summary": "Départ à 5 h 30 vers le sud-ouest, flamants de la Laguna de Oviedo au lever du jour, puis bateau jusqu'à huit kilomètres de plage vierge dans le parc Jaragua : snorkeling, récifs protégés et tortues. Retour à Barahona avant la nuit.",
+      "summary": "Départ à 6 h 45 vers le sud-ouest, pour rouler de jour, flamants de la Laguna de Oviedo en matinée, puis bateau jusqu'à huit kilomètres de plage vierge dans le parc Jaragua : snorkeling, récifs protégés et tortues. Retour à Barahona avant la nuit.",
       "route": "drive",
       "parts": [
         {
-          "label": "Très tôt",
-          "text": "Départ à 5 h 30 vers Cabo Rojo (environ 2 h 30). Arrêt d'une demi-heure à la Laguna de Oviedo, vers 7 h, à la meilleure lumière pour les flamants roses et les iguanes."
+          "label": "Tôt",
+          "text": "Départ à 6 h 45, peu avant le lever du soleil (vers 7 h 05), vers Cabo Rojo (environ 2 h 30). Arrêt de 20 min à la Laguna de Oviedo vers 8 h 15, pour les flamants roses et les iguanes."
         },
         {
           "label": "Matin et midi",
-          "text": "Bateau de 30 à 45 min depuis Cabo Rojo jusqu'à la Bahía de las Águilas, vers 9 h : 8 km de plage vierge dans le parc Jaragua, avec des récifs protégés et en très bonne santé (poissons, tortues). Snorkeling sans crème solaire. La plage n'a aucun service : emporter eau, pique-nique et ombre."
+          "text": "Bateau de 30 à 45 min depuis Cabo Rojo jusqu'à la Bahía de las Águilas, vers 9 h 45 (arrivée sur la plage vers 10 h 30) : 8 km de plage vierge dans le parc Jaragua, avec des récifs protégés et en très bonne santé (poissons, tortues). Snorkeling sans crème solaire. La plage n'a aucun service : emporter eau, pique-nique et ombre."
         },
         {
           "label": "Après-midi",
-          "text": "Retour en bateau vers 14 h, poisson grillé à Cabo Rojo ou à Pedernales, puis départ au plus tard à 15 h 30 pour arriver à Barahona avant la nuit."
+          "text": "Retour en bateau vers 14 h, déjeuner rapide de poisson grillé à Cabo Rojo, puis départ au plus tard à 15 h 30 pour arriver à Barahona avant la nuit (coucher du soleil vers 18 h 15)."
         }
       ],
       "stops": [
@@ -233,7 +233,7 @@
       "notes": [
         "Voir [Jaragua](https://www.ncl.com/uk/en/shore-excursions/CBR_01/Bahia-De-Las-Aguilas-Beach-Escape-And-Snorkeling) pour l'excursion en bateau.",
         "Le coucher du soleil est vers 18 h 15 fin janvier : éviter de conduire de nuit sur ces routes, peu éclairées et fréquentées par les motos et les animaux.",
-        "Transfert privé : le départ à 5 h 30 se fait de nuit. Pour rouler de jour, partir vers 6 h 45 (le soleil se lève vers 7 h 05) et arriver à Cabo Rojo vers 9 h 15."
+        "Transfert privé : départ à 6 h 45 pour rouler de jour, comme au retour."
       ],
       "ideas": [
         {
