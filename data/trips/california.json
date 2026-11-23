@@ -611,8 +611,8 @@
     {
       "n": 9,
       "weekday": "Jeudi",
-      "title": "Matinée SF, Livermore Valley & route vers Yosemite",
-      "summary": "Matin à San Francisco, nouvelle voiture de location à midi, dégustation dans la Livermore Valley (sur la route), puis route vers Yosemite par la Highway 140, la plus basse et la moins enneigée : arrivée à la tombée de la nuit et dîner dans la vallée. Les deux autres options de nuit (Groveland, El Portal) sont détaillées plus bas.",
+      "title": "Matinée SF & route vers Yosemite",
+      "summary": "Matin à San Francisco, nouvelle voiture de location à midi, puis route vers Yosemite par la Highway 140, la plus basse et la moins enneigée : arrivée dans la vallée avant la nuit. En option, une dégustation dans la Livermore Valley, sur la route. Les deux autres options de nuit (Groveland, El Portal) sont détaillées plus bas.",
       "route": "drive",
       "parts": [
         {
@@ -625,11 +625,11 @@
         },
         {
           "label": "Après-midi",
-          "text": "Midi : prise d'une voiture de location à San Francisco et départ vers l'est par la I-580. Vers 13 h, dégustation dans la Livermore Valley, à Murrieta's Well : domaine historique en brique centenaire, entouré de verdure (alternative : McGrail Vineyards, perché sur une crête avec vue sur les collines et les vignes). Les domaines ouvrent vers midi."
+          "text": "Midi : prise d'une voiture de location à San Francisco et départ vers l'est par la I-580, à travers la Livermore Valley."
         },
         {
           "label": "Fin d'après-midi",
-          "text": "Départ de Livermore vers 14 h 15, puis la Highway 140 par Mariposa (pause café possible), le long du canyon de la Merced River et sous Arch Rock : arrivée dans la vallée vers 18 h, à la tombée de la nuit. Avec une dégustation d'une heure, l'arrivée se fait vers 17 h 30."
+          "text": "Highway 140 par Mariposa (pause café possible), le long du canyon de la Merced River et sous Arch Rock : arrivée dans la vallée vers 16 h 45, avant la tombée de la nuit (coucher du soleil vers 17 h 15). Avec la dégustation en option, départ de Livermore vers 14 h 15 et arrivée vers 18 h, à la nuit tombée."
         },
         {
           "label": "Soir",
@@ -646,14 +646,6 @@
           "name": "Golden Gate Bridge",
           "wiki": "Golden Gate Bridge",
           "culture": "Inauguré en 1937, il était alors le plus long pont suspendu du monde, avec ses tours de 227 m de haut."
-        },
-        {
-          "name": "Murrieta's Well",
-          "coords": [
-            37.6562,
-            -121.7373
-          ],
-          "culture": "Domaine historique de la Livermore Valley, avec ses bâtiments de brique centenaires entourés de verdure ; une ambiance romantique, proche de celle des domaines de Sonoma. McGrail Vineyards, perché sur une crête avec une vue panoramique sur les collines et les vignes, est l'alternative."
         },
         {
           "name": "Mariposa",
@@ -693,13 +685,17 @@
         "Dîner à l'Ahwahnee (réserver) ou à la cafétéria de Yosemite Valley Lodge."
       ],
       "notes": [
-        "Les domaines de Livermore ouvrent vers midi : à confirmer sur leur site avant de partir, et partir de San Francisco à midi pile. Le soleil se couche vers 17 h 15 fin janvier, et plus tôt encore au fond de la vallée, derrière les falaises : arriver de jour dans la vallée demande de partir de Livermore avant 14 h 15.",
+        "Le soleil se couche vers 17 h 15 fin janvier, et plus tôt encore au fond de la vallée, derrière les falaises : sans la dégustation, on arrive de jour (vers 16 h 45) ; avec, les 45 dernières minutes de route se font de nuit.",
         "En hiver, la CA-140 est la route d'accès la plus basse et la plus souvent dégagée ; la CA-120 passe à Crane Flat, à plus de 1 800 m, où chaînes et neige sont fréquentes. Vérifier l'état des routes avant de partir."
       ],
       "ideas": [
         {
+          "label": "Option : dégustation dans la Livermore Valley",
+          "text": "La Livermore Valley borde la I-580, que l'on emprunte de toute façon en quittant San Francisco vers Yosemite : une dégustation vers 13 h se fait sans détour, mais ajoute environ 1 h 15 et fait arriver dans la vallée à la nuit tombée. Murrieta's Well : domaine historique en brique centenaire, entouré de verdure, ambiance proche de celle de Sonoma. Alternative : McGrail Vineyards and Winery, juché sur une crête avec vue panoramique sur les collines. Les deux ouvrent vers midi, à confirmer sur leur site. Grossesse : dégustation pour le partenaire seulement, et prévoir que la personne qui goûte ne conduit pas ensuite."
+        },
+        {
           "label": "Option A (recommandée) : dormir dans la vallée, arrivée par la CA-140",
-          "text": "C'est le plus beau cadre et la route la moins enneigée. On gagne une vraie journée complète dans la vallée le vendredi, sans changer d'hôtel. Trajet : environ 4 h 45 avec la dégustation, arrivée vers 18 h."
+          "text": "C'est le plus beau cadre et la route la moins enneigée. On gagne une vraie journée complète dans la vallée le vendredi, sans changer d'hôtel. Trajet : environ 3 h 45 depuis Livermore, arrivée vers 16 h 45 (vers 18 h avec la dégustation)."
         },
         {
           "label": "Option B : dormir à Groveland, par la CA-120",
@@ -983,41 +979,6 @@
             "McWay Falls, dans le parc d'État Julia Pfeiffer Burns : une chute d'environ 24 m qui tombe directement sur la plage.",
             "Pfeiffer Beach, connue pour son arche rocheuse, très fréquentée au coucher du soleil.",
             "Ragged Point, à l'extrémité sud de Big Sur."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "sierra-foothills",
-      "title": "Livermore Valley : où déguster",
-      "summary": "La dégustation sur la route, dans la Livermore Valley.",
-      "blocks": [
-        {
-          "type": "text",
-          "text": "La Livermore Valley est la région viticole la plus proche de l'axe : elle borde la I-580, que l'on emprunte de toute façon en quittant San Francisco vers Yosemite, donc sans détour notable."
-        },
-        {
-          "type": "text",
-          "text": "Notre choix : déguster à Murrieta's Well, vers 13 h, puis filer vers Yosemite. McGrail est l'alternative, pour sa vue de crête."
-        },
-        {
-          "type": "table",
-          "columns": [
-            "Domaine",
-            "Ce qu'on y trouve",
-            "À savoir"
-          ],
-          "rows": [
-            [
-              "Murrieta's Well (Livermore Valley)",
-              "Domaine historique en brique centenaire, entouré de verdure, avec une ambiance romantique proche de celle de Sonoma.",
-              "Sur la route (I-580), ouvert vers midi, à confirmer"
-            ],
-            [
-              "McGrail Vineyards and Winery (Livermore Valley)",
-              "Juché sur une crête, avec des vues panoramiques sur les collines et les vignes.",
-              "Sur la route (I-580), ouvert vers midi, à confirmer"
-            ]
           ]
         }
       ]
