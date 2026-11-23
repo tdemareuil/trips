@@ -733,8 +733,8 @@
   "guides": [
     {
       "id": "avis",
-      "title": "Notre avis : février aux Seychelles",
-      "summary": "La météo et le snorkeling de février, et les vols.",
+      "title": "Notre avis : février-avril aux Seychelles",
+      "summary": "La météo, le snorkeling et l'affluence de février à avril, mois par mois, et les vols.",
       "blocks": [
         {
           "type": "heading",
@@ -749,28 +749,105 @@
         },
         {
           "type": "heading",
-          "text": "Février aux Seychelles"
+          "text": "La météo de février à avril"
         },
         {
           "type": "text",
-          "text": "C'est la saison de la mousson du nord-ouest : chaud (environ 30 °C le jour, 25 °C la nuit) et humide, avec des averses souvent courtes et des journées très ensoleillées entre deux. L'archipel est en dehors de la zone des cyclones, contrairement à Maurice. La mer est chaude (environ 28 °C) et souvent calme, mais certaines plages exposées peuvent avoir des vagues : choisir chaque jour la côte abritée. Les meilleurs mois restent avril-mai et octobre-novembre, entre les deux moussons."
+          "text": "L'archipel est en dehors de la zone des cyclones, contrairement à Maurice, et il fait chaud toute l'année. De février à avril, on passe de la fin de la mousson du nord-ouest, humide, à la saison calme entre les deux moussons : les pluies et le vent diminuent de mois en mois. Les meilleurs mois restent avril-mai et octobre-novembre. Chaque jour, choisir la côte abritée du vent pour se baigner."
+        },
+        {
+          "type": "table",
+          "columns": [
+            "",
+            "Février",
+            "Mars",
+            "Avril"
+          ],
+          "rows": [
+            [
+              "Températures",
+              "environ 30 °C le jour, 25 °C la nuit, très humide",
+              "environ 31 °C et 25 °C",
+              "environ 31 °C et 26 °C, le mois le plus chaud"
+            ],
+            [
+              "Pluie (Victoria)",
+              "environ 260 mm, averses courtes mais fréquentes",
+              "environ 210 mm",
+              "environ 180 mm, averses plus rares"
+            ],
+            [
+              "Vent et mer",
+              "mousson du nord-ouest : vent faible à modéré, vagues sur les côtes nord et ouest exposées",
+              "le vent faiblit, mer plus souvent calme",
+              "entre deux moussons : peu de vent, mer très souvent plate"
+            ],
+            [
+              "Mer",
+              "environ 28 °C",
+              "environ 29 °C",
+              "environ 29 °C"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Chiffres arrondis à partir des moyennes de Victoria, à Mahé : ils varient d'une année à l'autre et d'une île à l'autre."
         },
         {
           "type": "heading",
-          "text": "Le snorkeling en février"
+          "text": "Le snorkeling de février à avril"
         },
         {
           "type": "list",
           "items": [
-            "La visibilité n'est pas à son meilleur : sur les forums de voyageurs, février est souvent cité comme « pas la meilleure période », et la mer peut être troublée par le vent et les averses. Les mois les plus calmes, avec une visibilité qui approche parfois 30 m, sont avril, octobre et novembre.",
+            "Février : la visibilité n'est pas à son meilleur. Sur les forums de voyageurs, il est souvent cité comme « pas la meilleure période », et la mer peut être troublée par le vent et les averses. Mars : la mer se calme et l'eau s'éclaircit. Avril : un des meilleurs mois, avec octobre et novembre, et une visibilité qui approche parfois 30 m.",
             "Les coraux ont beaucoup souffert : le blanchissement de 2024 est le plus sévère jamais mesuré aux Seychelles, selon le bilan national de 2026. Les poissons restent nombreux, mais une partie des coraux est morte ou blanchie, avec de fortes différences d'un site à l'autre.",
+            "Attention à la chaleur de l'eau : c'est en mars, avril et mai que la mer est la plus chaude, et c'est là que le blanchissement des coraux se déclenche les années de canicule marine, comme en 2024. Vérifier l'état des récifs dans les avis récents avant de réserver une sortie en bateau.",
             "Îlot Saint-Pierre (Praslin, jour 3) : souvent cité par les voyageurs pour ses coraux et la clarté de l'eau, le meilleur site de ce voyage.",
-            "Îlot Coco (La Digue, jour 6) : un « aquarium naturel » de poissons tropicaux selon les retours, mais des coraux en moins bon état qu'autrefois.",
-            "Parc marin de Sainte-Anne (Mahé, en option au jour 7) : tortues imbriquées et calmars entre les gros rochers de granit, mais beaucoup de bateaux d'excursion. Anse Royale, sur la côte est, permet un snorkeling simple depuis la plage, à l'abri de la mousson.",
+            "Îlot Coco (La Digue, jour 7) : un « aquarium naturel » de poissons tropicaux selon les retours, mais des coraux en moins bon état qu'autrefois.",
+            "Parc marin de Sainte-Anne (Mahé, en option au jour 8) : tortues imbriquées et calmars entre les gros rochers de granit, mais beaucoup de bateaux d'excursion. Anse Royale, sur la côte est, permet un snorkeling simple depuis la plage, à l'abri de la mousson.",
             "La Digue : la côte ouest est abritée et en général calme ; la côte est (Grand Anse, Petite Anse) est trop dangereuse pour le snorkeling, à cause de la houle et des courants.",
-            "Tortues imbriquées : on en voit encore en février, la fin de leur meilleure saison (d'août à février).",
+            "Tortues imbriquées : on en croise toute l'année en snorkeling. Leur saison de ponte va d'août à février : en février, on peut encore en voir pondre sur les plages, et plus guère en mars et avril.",
             "Conseil des voyageurs : vérifier la marée et le vent avant chaque sortie en bateau, et choisir chaque jour le côté de l'île à l'abri du vent."
           ]
+        },
+        {
+          "type": "heading",
+          "text": "Affluence et prix de février à avril"
+        },
+        {
+          "type": "table",
+          "columns": [
+            "",
+            "Février",
+            "Mars",
+            "Avril"
+          ],
+          "rows": [
+            [
+              "Affluence",
+              "moyenne ; plus de monde pendant les vacances d'hiver françaises, entre début février et début mars selon la zone",
+              "le mois le plus calme des trois, en dehors des vacances scolaires",
+              "forte pendant les vacances de Pâques (en avril, selon la zone) et autour du week-end de Pâques"
+            ],
+            [
+              "Prix des hôtels et des vols",
+              "moyens, plus élevés pendant les vacances d'hiver",
+              "les plus bas des trois",
+              "les plus élevés pendant les vacances de Pâques"
+            ],
+            [
+              "À noter",
+              "nouvel an chinois, le 6 février 2027 : plus de visiteurs d'Asie cette semaine-là",
+              "—",
+              "Pâques le 28 mars 2027 : réserver tôt pour fin mars et avril"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "En résumé : mars combine une mer qui se calme, des pluies en baisse et l'affluence la plus faible ; avril a la meilleure mer, mais il faut éviter les vacances de Pâques ; février est le plus humide des trois. Les algues (sargasses), qui touchent certaines plages des Seychelles, arrivent surtout de mai à septembre, pendant la mousson du sud-est."
         },
         {
           "type": "heading",
@@ -778,7 +855,7 @@
         },
         {
           "type": "text",
-          "text": "Pas de vol direct régulier depuis Paris : une escale à Dubaï (Emirates), Doha (Qatar Airways), Abou Dhabi (Etihad) ou Istanbul (Turkish Airlines), environ 13 à 15 h. Un vol direct saisonnier existe certains hivers : à vérifier. Départ le vendredi soir pour arriver le samedi matin, retour par un vol de nuit le dimanche pour arriver le lundi matin à Paris. Je n'ai pas vérifié les horaires ni les prix pour février."
+          "text": "Pas de vol direct régulier depuis Paris : une escale à Dubaï (Emirates), Doha (Qatar Airways), Abou Dhabi (Etihad) ou Istanbul (Turkish Airlines), environ 13 à 15 h. Un vol direct saisonnier existe certains hivers : à vérifier. Départ le vendredi soir pour arriver le samedi matin, retour par un vol de nuit le dimanche pour arriver le lundi matin à Paris. Je n'ai pas vérifié les horaires ni les prix pour février, mars ou avril : les vols sont plus chers pendant les vacances scolaires françaises."
         }
       ]
     },
