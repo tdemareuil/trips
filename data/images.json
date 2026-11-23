@@ -7879,5 +7879,33 @@
   "lon": -122.51083,
   "extract": "Ocean Beach est une plage qui longe la côté ouest de San Francisco, Californie, donnant dans l’océan Pacifique. Elle est située à proximité du Golden Gate Park, du Richmond District et du Sunset District. On y trouve Sutro Baths et le restaurant Cliff House.",
   "article": "https://fr.wikipedia.org/wiki/Ocean_Beach_(San_Francisco)"
+ },
+ "Castro District, San Francisco": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Entering_the_Castro_district%2C_San_Francisco_%2831984322697%29.jpg/1920px-Entering_the_Castro_district%2C_San_Francisco_%2831984322697%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Entering_the_Castro_district,_San_Francisco_(31984322697).jpg",
+  "artist": "Mike McBey",
+  "license": "CC BY 2.0",
+  "lat": 37.76083,
+  "lon": -122.435,
+  "extract": "Le Castro, parfois aussi appelé le Castro District, est un quartier de San Francisco, en Californie, aux États-Unis, autrefois appelé Eureka Valley.",
+  "article": "https://fr.wikipedia.org/wiki/Le_Castro"
+ },
+ "Lombard Street (San Francisco)": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Lombard_Street_2020.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lombard_Street_2020.jpg",
+  "artist": "Christopher Michel",
+  "license": "CC BY-SA 4.0",
+  "extract": "Lombard Street est une rue de San Francisco, en Californie.",
+  "article": "https://fr.wikipedia.org/wiki/Lombard_Street_(San_Francisco)"
+ },
+ "Mission Dolores Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dolores_Park_May_2025.jpg/1920px-Dolores_Park_May_2025.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dolores_Park_May_2025.jpg",
+  "artist": "Alexwennerberg",
+  "license": "CC0",
+  "lat": 37.75965,
+  "lon": -122.42608,
+  "extract": "Dolores Park est un parc public de la ville de San Francisco en Californie. Il se trouve à deux bloc au sud de Mission Dolores à l'ouest du quartier de Mission District.",
+  "article": "https://fr.wikipedia.org/wiki/Dolores_Park"
  }
 }

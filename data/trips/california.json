@@ -743,6 +743,10 @@
         {
           "label": "Big Sur central et sud",
           "text": "Pour voir McWay Falls, Pfeiffer Beach et Ragged Point, il faut faire la Highway 1 en entier (voir le guide des alternatives)."
+        },
+        {
+          "label": "Soirée : SFJAM au SFJAZZ Center",
+          "text": "Lundi soir, une session gratuite autour du centenaire d'Antônio Carlos Jobim, avec la saxophoniste Kristen Strom, au SFJAZZ Center (Hayes Valley). Horaire et inscription à vérifier sur le site du SFJAZZ : avec l'arrivée à San Francisco vers 19 h, c'est serré."
         }
       ]
     },
@@ -759,11 +763,11 @@
         },
         {
           "label": "Louison",
-          "text": "Centre-ville de San Francisco : Cable Car, Chinatown, Union Square, Financial District. L'après-midi, Alamo Square et ses maisons victoriennes (les « Painted Ladies »), puis Mission : Valencia Street, les fresques de Clarion Alley et la mission Dolores."
+          "text": "Matin : Union Square, puis le cable car de la ligne Powell-Hyde, avec un arrêt en option en haut de Lombard Street, la rue en lacets (simple coup d'œil, très touristique), Chinatown et le Financial District. Après-midi : Alamo Square et ses maisons victoriennes (les « Painted Ladies »), puis le Castro, le quartier gay historique (son cinéma de 1922 et ses passages piétons arc-en-ciel), Dolores Park et sa vue sur les tours du centre, et Mission : Valencia Street, les fresques de Clarion Alley et la mission Dolores."
         },
         {
           "label": "Soir · Louison",
-          "text": "Soirée au choix : un concert au SFJAZZ Center, à Hayes Valley, avec un dîner avant dans le quartier (programmation presque tous les soirs ; leur calendrier n'a pas pu être consulté, à vérifier et réserver) ; ou North Beach, le quartier italien : la librairie City Lights, ouverte tard, haut lieu de la Beat Generation, puis dîner dans une trattoria. Pas de concert au Davies Symphony Hall ni de ballet à l'opéra ces deux soirs : l'orchestre joue le vendredi 29 (Seong-Jin Cho, Mendelssohn et Brahms) et La Belle au bois dormant commence le 29, quand on sera à Yosemite. Retour en Uber."
+          "text": "Soirée au choix : North Beach, le quartier italien, avec la librairie City Lights, ouverte tard, haut lieu de la Beat Generation, puis un dîner dans une trattoria ; ou un dîner dans Mission ou Hayes Valley. Pistes vérifiées et écartées : le Davies Symphony Hall ne donne aucun concert le lundi 25, le mardi 26 ni le mercredi 27 (l'orchestre joue le vendredi 29, quand on sera à Yosemite) ; le San Francisco Ballet commence La Belle au bois dormant le 29 ; le SFJAZZ Center n'a que la session gratuite du lundi (voir le jour 6). Retour en Uber."
         },
         {
           "label": "Soir, à deux",
@@ -771,6 +775,11 @@
         }
       ],
       "stops": [
+        {
+          "name": "Union Square",
+          "wiki": "Union Square, San Francisco",
+          "culture": "Place du centre-ville entourée de grands magasins et d'hôtels. Elle doit son nom aux rassemblements en faveur de l'Union pendant la guerre de Sécession."
+        },
         {
           "name": "Cable Car",
           "wiki": "San Francisco cable car system",
@@ -781,14 +790,19 @@
           "culture": "Lancés en 1873 par Andrew Hallidie, ce sont les derniers tramways à câble du monde actionnés à la main, et un monument historique qui roule."
         },
         {
+          "name": "Lombard Street",
+          "wiki": "Lombard Street (San Francisco)",
+          "coords": [
+            37.8021,
+            -122.4187
+          ],
+          "optional": true,
+          "culture": "Un pâté de maisons de Russian Hill en huit virages serrés, entre des massifs d'hortensias, souvent présenté comme la rue la plus tortueuse du monde."
+        },
+        {
           "name": "Chinatown",
           "wiki": "Chinatown, San Francisco",
           "culture": "Fondé vers 1848, c'est le plus ancien quartier chinois d'Amérique du Nord. On y entre par la Dragon Gate, sur Grant Avenue, offerte par Taïwan en 1970."
-        },
-        {
-          "name": "Union Square",
-          "wiki": "Union Square, San Francisco",
-          "culture": "Place du centre-ville entourée de grands magasins et d'hôtels. Elle doit son nom aux rassemblements en faveur de l'Union pendant la guerre de Sécession."
         },
         {
           "name": "Financial District",
@@ -803,6 +817,24 @@
             -122.4346
           ],
           "culture": "Parc en pente face à une rangée de maisons victoriennes de 1890 aux couleurs pastel, les « Painted Ladies », avec les tours du centre-ville derrière."
+        },
+        {
+          "name": "Le Castro",
+          "wiki": "Castro District, San Francisco",
+          "coords": [
+            37.7609,
+            -122.435
+          ],
+          "culture": "Le quartier gay historique de San Francisco depuis les années 1970, où Harvey Milk tenait sa boutique, avec le Castro Theatre de 1922 et son enseigne au néon."
+        },
+        {
+          "name": "Dolores Park",
+          "wiki": "Mission Dolores Park",
+          "coords": [
+            37.7596,
+            -122.4269
+          ],
+          "culture": "Parc en pente entre le Castro et Mission, avec l'une des plus belles vues sur les tours du centre-ville."
         },
         {
           "name": "Mission et Clarion Alley",
@@ -868,7 +900,7 @@
         },
         {
           "label": "Soir · Louison",
-          "text": "Soirée au choix : un concert au SFJAZZ Center, à Hayes Valley, avec un dîner avant dans le quartier (programmation presque tous les soirs ; leur calendrier n'a pas pu être consulté, à vérifier et réserver) ; ou North Beach, le quartier italien : la librairie City Lights, ouverte tard, haut lieu de la Beat Generation, puis dîner dans une trattoria. Pas de concert au Davies Symphony Hall ni de ballet à l'opéra ces deux soirs : l'orchestre joue le vendredi 29 (Seong-Jin Cho, Mendelssohn et Brahms) et La Belle au bois dormant commence le 29, quand on sera à Yosemite. Retour en Uber."
+          "text": "Soirée au choix : North Beach, le quartier italien, avec la librairie City Lights, ouverte tard, haut lieu de la Beat Generation, puis un dîner dans une trattoria ; ou un dîner dans Mission ou Hayes Valley. Pistes vérifiées et écartées : le Davies Symphony Hall ne donne aucun concert le lundi 25, le mardi 26 ni le mercredi 27 (l'orchestre joue le vendredi 29, quand on sera à Yosemite) ; le San Francisco Ballet commence La Belle au bois dormant le 29 ; le SFJAZZ Center n'a que la session gratuite du lundi (voir le jour 6). Retour en Uber."
         }
       ],
       "stops": [
