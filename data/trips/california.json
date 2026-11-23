@@ -884,7 +884,7 @@
         },
         {
           "label": "Louison · matin",
-          "text": "Caltrain vers 8 h 30 depuis la gare de 4th & King, à côté d'Oracle Park, jusqu'à Palo Alto (environ 40 min en train express, 1 h en omnibus), puis la navette gratuite Marguerite jusqu'au campus de Stanford, en deux zones à pied. Le cœur du campus : Palm Drive et ses palmiers, le Main Quad et ses arcades de grès, la Memorial Church et sa façade de mosaïques, et la vue sur la baie depuis la Hoover Tower (payant, horaires à vérifier). Côté musée, à 10 min au nord : le jardin de sculptures de Rodin, en plein air et gratuit, et le petit jardin de cactus juste derrière. En option, la boucle de la « Dish » dans les collines (environ 5,5 km, avec une montée)."
+          "text": "Caltrain vers 8 h 30 depuis la gare de 4th & King, à côté d'Oracle Park, jusqu'à Palo Alto (environ 40 min en train express, 1 h en omnibus), puis la navette gratuite Marguerite jusqu'au campus de Stanford, en deux zones à pied. Le cœur du campus : Palm Drive et ses palmiers, le Main Quad et ses arcades de grès, la Memorial Church et sa façade de mosaïques, la vue sur la baie depuis la Hoover Tower (payant, horaires à vérifier), et la boutique de l'université, la Stanford Bookstore, à 5 min à pied, pour les sweats et souvenirs. Côté musée, à 10 min au nord : le jardin de sculptures de Rodin, en plein air et gratuit, et le petit jardin de cactus juste derrière. En option, la boucle de la « Dish » dans les collines (environ 5,5 km, avec une montée)."
         },
         {
           "label": "Louison · midi",
@@ -905,10 +905,10 @@
       ],
       "stops": [
         {
-          "name": "Stanford : Main Quad, Memorial Church et Hoover Tower",
+          "name": "Stanford : Main Quad, Memorial Church, Hoover Tower et boutique",
           "wiki": "Stanford University",
           "photo": "File:Stanford University Arches with Memorial Church in the background.jpg",
-          "culture": "Le cœur du campus : un quadrilatère d'arcades de grès de 1891, fermé par l'église que Jane Stanford fit construire en mémoire de son mari, et la tour de 87 m élevée en 1941 pour les archives de Herbert Hoover, avec sa terrasse panoramique.",
+          "culture": "Le cœur du campus : un quadrilatère d'arcades de grès de 1891, fermé par l'église que Jane Stanford fit construire en mémoire de son mari, et la tour de 87 m élevée en 1941 pour les archives de Herbert Hoover, avec sa terrasse panoramique. La Stanford Bookstore, la boutique de l'université, est à deux pas, sur White Plaza.",
           "coords": [
             37.4272,
             -122.1697
