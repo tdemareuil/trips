@@ -856,11 +856,174 @@
     {
       "id": "sante",
       "title": "Santé et grossesse",
-      "summary": "Zika, dengue et précautions pour la future maman.",
+      "summary": "Stade de grossesse, Zika et dengue, alimentation, eau, soleil, route, bateau, vols, soins et trousse : tout ce qui concerne la future maman.",
       "blocks": [
         {
           "type": "text",
-          "text": "Grossesse : le Mexique reste classé « à risque » pour le Zika, mais la circulation est quasi nulle (4 cas dans tout le pays en 2025, aucun en Basse-Californie du Sud, dernière transmission locale en 2017). En janvier, le climat sec et frais limite les moustiques et la dengue (21 cas dans tout l'État sur les 14 premières semaines de 2025). Répulsif adapté à la grossesse, préservatifs pour le partenaire pendant toute la grossesse, et en parler au médecin avant de réserver."
+          "text": "Ces informations ne remplacent pas l'avis du médecin ou d'une consultation de médecine des voyages, à prendre avant de réserver."
+        },
+        {
+          "type": "heading",
+          "text": "Le stade de la grossesse"
+        },
+        {
+          "type": "text",
+          "text": "Grossesse commencée trois mois avant le départ : environ 15 semaines d'aménorrhée le 18 janvier, 16 au retour. C'est le début du deuxième trimestre, souvent considéré comme la meilleure période pour voyager : nausées en général passées, risque de fausse couche plus faible qu'au premier trimestre, et aucune restriction des compagnies aériennes avant environ 28 semaines."
+        },
+        {
+          "type": "heading",
+          "text": "Zika : le point à trancher avec le médecin"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Le Mexique reste classé « zone à risque » pour le Zika. Certaines recommandations officielles, dont celles de la France, conseillent aux femmes enceintes de reporter un voyage vers ces zones.",
+            "En pratique, la circulation est quasi nulle : 4 cas dans tout le Mexique en 2025, aucun en Basse-Californie du Sud, dernière transmission locale dans l'État en 2017.",
+            "Janvier est la saison sèche et fraîche : peu de moustiques. Le moustique du Zika et de la dengue pique surtout le jour, à l'aube et en fin d'après-midi.",
+            "Le Zika se transmet aussi par voie sexuelle : préservatifs pendant toute la grossesse, y compris après le retour.",
+            "Si le médecin déconseille les zones à risque Zika, le voyage en Floride (risque négligeable) est l'alternative prête sur le site."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Dengue et autres maladies"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Dengue : quelques centaines de cas par an dans l'État, surtout en fin d'été et en automne ; très peu en janvier (21 cas dans tout l'État sur les 14 premières semaines de 2025). Mêmes protections que pour le Zika.",
+            "Pas de paludisme en Basse-Californie du Sud : aucun traitement préventif.",
+            "Vaccins : pas de vaccin vivant pendant la grossesse. La grippe et la coqueluche sont recommandées pendant toute grossesse ; l'hépatite A est à discuter avec le médecin."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Contre les moustiques"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Répulsif adapté à la grossesse sur la peau découverte : DEET (concentration indiquée par le médecin ou le pharmacien) ou icaridine.",
+            "Vêtements longs et clairs en fin de journée, chambres climatisées ou avec moustiquaires.",
+            "Mettre la crème solaire d'abord, le répulsif ensuite."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Alimentation (non immunisée contre la toxoplasmose)"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Viande et poisson bien cuits, rien de cru ni de mariné : ceviche, aguachile, huîtres, palourdes crues.",
+            "Pas de viande séchée si elle n'est pas recuite : la machaca seulement chaude, dans un plat cuit.",
+            "Pas de fromage au lait cru : demander « pasteurizado ». Le fromage de ranch est presque toujours au lait cru.",
+            "Crudités, salades et fruits seulement lavés à l'eau potable ou pelés soi-même ; éviter les salades des stands de rue et des restaurants de ferme.",
+            "Ne pas toucher la terre sans gants (fermes de Pescadero), éviter les chats, se laver les mains souvent.",
+            "Mercure : crevettes, palourdes cuites, sardines et petits poissons à volonté ; dorado, vivaneau et mérou une à deux fois par semaine au plus ; pas de marlin, d'espadon, de cazón (requin), de gros thon ni de sierra.",
+            "Sérologie de toxoplasmose juste avant le départ et juste après le retour, à caler avec le suivi mensuel."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Eau, chaleur et soleil"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Eau du robinet non potable : eau en bouteille, de préférence en verre, ou eau filtrée de l'hôtel dans une gourde en inox ; pas de glaçons douteux. Ne pas laisser les bouteilles chauffer au soleil.",
+            "Boire beaucoup : il fait 23 à 25 °C, l'air est sec, et la déshydratation est plus rapide enceinte.",
+            "Le masque de grossesse (taches brunes) est favorisé par le soleil : crème minérale à l'oxyde de zinc, chapeau, lycra anti-UV dans l'eau.",
+            "Éviter les bains très chauds et les longues expositions en plein midi."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Mer et baignade"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Côté Pacifique, ne se baigner qu'à Cerritos : vagues et courants forts ailleurs.",
+            "Snorkeling en surface avec un gilet ; pas de plongée bouteille pendant toute la grossesse.",
+            "Raies pastenagues sur les fonds de sable calmes (Balandra, El Tecolote, Concepción) : entrer dans l'eau en traînant les pieds pour les faire fuir.",
+            "Pas de surf ni de kitesurf (chutes, chocs de planche)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Bateaux"
+        },
+        {
+          "type": "text",
+          "text": "Le vrai risque en bateau, ce sont les chocs quand une barque ouverte tape dans les vagues. Choisir les bateaux les plus grands, s'asseoir à l'arrière, demander au pilote de ralentir, et renoncer si la mer est formée (vent du nord fréquent en janvier). Sorties concernées : l'arche (jour 2), le récif de Cabo Pulmo (jour 3), Espíritu Santo (jour 4) et les baleines de Loreto (jour 8)."
+        },
+        {
+          "type": "heading",
+          "text": "Route"
+        },
+        {
+          "type": "list",
+          "items": [
+            "C'est statistiquement le plus gros risque du voyage : environ 20 h de conduite en tout.",
+            "Rouler de jour seulement (bétail et nids-de-poule), ceinture sous le ventre, sur les hanches.",
+            "Pause toutes les heures et demie pour marcher et boire.",
+            "Piste de Cabo Pulmo et route de San Javier : rouler lentement, sans secousses."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Vols"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Aucune restriction des compagnies à ce stade ; garder le carnet de grossesse sur soi.",
+            "Bas de contention, marcher toutes les heures, boire beaucoup, siège côté couloir.",
+            "Contrôles de sécurité : les portiques et scanners sont sans danger ; on peut demander une fouille manuelle."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Soins sur place"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Los Cabos et La Paz ont de bonnes cliniques privées, habituées aux voyageurs.",
+            "Cabo Pulmo, la baie de Concepción et San Javier sont à 1 h 30 à 2 h d'un vrai hôpital ; Loreto n'a qu'un petit hôpital.",
+            "Assurance voyage couvrant explicitement la grossesse, les soins et le rapatriement : la vérifier avant de réserver. Les cliniques privées demandent souvent une garantie de paiement à l'admission.",
+            "Consulter sans attendre en cas de saignement, de douleurs ou de contractions, de fièvre, de diarrhée qui dure, ou si le bébé bouge moins (plus tard dans la grossesse)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "À faire avant le départ"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Avis du médecin sur le Zika et le voyage dans son ensemble.",
+            "Échographie du premier trimestre (11 à 13 semaines d'aménorrhée), avant le départ.",
+            "Sérologie de toxoplasmose juste avant le départ.",
+            "Résumé du dossier de grossesse en anglais ou en espagnol : groupe sanguin, terme, traitements, allergies.",
+            "Ordonnance des traitements habituels."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Trousse"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Paracétamol (pas d'ibuprofène ni d'aspirine pendant la grossesse sauf avis médical).",
+            "Sels de réhydratation, en cas de diarrhée.",
+            "Répulsif adapté, crème solaire minérale, après-soleil.",
+            "Bas de contention, pansements, désinfectant.",
+            "Anti-nauséeux ou traitement du mal de mer : seulement ceux validés par le médecin.",
+            "Scorpions dans le désert : secouer chaussures et vêtements laissés dehors."
+          ]
         }
       ]
     },
