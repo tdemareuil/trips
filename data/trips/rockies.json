@@ -578,7 +578,7 @@
           "columns": [
             "Parc",
             "Entrée (par voiture, 7 jours)",
-            "Supplément non-résidents (pour deux)",
+            "Supplément non-résidents (pour deux adultes)",
             "Total"
           ],
           "rows": [
@@ -615,8 +615,8 @@
         {
           "type": "list",
           "items": [
-            "La carte America the Beautiful pour non-résidents coûte 250 $ et donne accès pendant 12 mois à tous les parcs nationaux et sites fédéraux. Elle couvre l'entrée de la voiture et le supplément de 100 $ pour le titulaire et jusqu'à trois adultes qui l'accompagnent : une seule carte suffit pour deux.",
-            "Pour ce voyage, sans la carte : environ 705 $ (735 $ avec le Black Canyon). Avec la carte : 250 $, soit environ 450 à 485 $ d'économie.",
+            "La carte America the Beautiful pour non-résidents coûte 250 $ et donne accès pendant 12 mois à tous les parcs nationaux et sites fédéraux. Elle couvre l'entrée de la voiture et le supplément de 100 $ pour le titulaire et jusqu'à trois adultes qui l'accompagnent : une seule carte suffit pour une voiture de quatre adultes au plus.",
+            "Pour ce voyage, pour deux adultes, sans la carte : environ 705 $ (735 $ avec le Black Canyon). Avec la carte : 250 $, soit environ 450 à 485 $ d'économie. Avec plus d'adultes (16 ans et plus), le supplément de 100 $ s'ajoute pour chacun sans la carte, et l'écart grandit encore ; au-delà de quatre adultes ou d'une voiture, prendre une deuxième carte.",
             "C'est clairement le bon choix ici.",
             "Rocky Mountain National Park demande aussi, en été et au début de l'automne, la réservation d'un créneau horaire d'entrée sur Recreation.gov (en 2025, jusqu'à la mi-octobre) : à vérifier pour 2028, la carte ne dispense pas de cette réservation."
           ]
