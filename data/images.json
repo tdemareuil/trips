@@ -7907,5 +7907,33 @@
   "lon": -122.42608,
   "extract": "Dolores Park est un parc public de la ville de San Francisco en Californie. Il se trouve à deux bloc au sud de Mission Dolores à l'ouest du quartier de Mission District.",
   "article": "https://fr.wikipedia.org/wiki/Dolores_Park"
+ },
+ "Cantor Arts Center": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Iris_%26_B._Gerald_Cantor_Center_for_Visual_Arts%2C_Stanford%2C_California_-_20060728.jpg/1920px-Iris_%26_B._Gerald_Cantor_Center_for_Visual_Arts%2C_Stanford%2C_California_-_20060728.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Iris_%26_B._Gerald_Cantor_Center_for_Visual_Arts,_Stanford,_California_-_20060728.jpg",
+  "artist": "David Monniaux",
+  "license": "CC BY-SA 3.0",
+  "lat": 37.43298,
+  "lon": -122.17084,
+  "extract": "Le Cantor Arts Center, dit aussi Iris & B. Gerald Cantor Center for Visual Arts, est un musée d'art de l'Université Stanford ouvert en 1894 à Stanford aux Californie aux États-Unis.",
+  "article": "https://fr.wikipedia.org/wiki/Iris_%26_B._Gerald_Cantor_Center_for_Visual_Arts"
+ },
+ "Hoover Tower": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Hoover_Tower_Stanford_January_2013.jpg/1920px-Hoover_Tower_Stanford_January_2013.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hoover_Tower_Stanford_January_2013.jpg",
+  "artist": "King of Hearts",
+  "license": "CC BY-SA 3.0",
+  "lat": 37.4276,
+  "lon": -122.1669
+ },
+ "Stanford Memorial Church": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Stanford_Memorial_Church_%282025%29-L1007381.jpg/1920px-Stanford_Memorial_Church_%282025%29-L1007381.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Stanford_Memorial_Church_(2025)-L1007381.jpg",
+  "artist": "Frank Schulenburg",
+  "license": "CC BY-SA 4.0",
+  "lat": 37.4268,
+  "lon": -122.1705,
+  "extract": "Le Stanford Memorial Church est une église située au cœur de l'université Stanford en Californie, aux États-Unis, construite en mémoire de Leland Stanford.",
+  "article": "https://fr.wikipedia.org/wiki/Stanford_Memorial_Church"
  }
 }

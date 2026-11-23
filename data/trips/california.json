@@ -884,7 +884,7 @@
         },
         {
           "label": "Louison · matin",
-          "text": "Caltrain vers 8 h 30 depuis la gare de 4th & King, à côté d'Oracle Park, jusqu'à Palo Alto (environ 40 min en train express, 1 h en omnibus), puis la navette gratuite Marguerite jusqu'au campus de Stanford. Le Main Quad et ses arcades de grès, la Memorial Church et ses mosaïques dorées, la vue sur la baie depuis le haut de la Hoover Tower (horaires à vérifier), et le jardin de sculptures de Rodin du Cantor Arts Center (gratuit)."
+          "text": "Caltrain vers 8 h 30 depuis la gare de 4th & King, à côté d'Oracle Park, jusqu'à Palo Alto (environ 40 min en train express, 1 h en omnibus), puis la navette gratuite Marguerite jusqu'au campus de Stanford. À voir, dans l'ordre : Palm Drive et l'Oval, l'allée de palmiers qui mène au campus ; le Main Quad et ses arcades de grès de 1891 ; la Memorial Church et sa façade de mosaïques dorées ; la Hoover Tower, avec la vue sur la baie et les collines depuis la terrasse du haut (payant, horaires à vérifier) ; le jardin de sculptures de Rodin du Cantor Arts Center, en plein air et gratuit, avec Les Portes de l'Enfer ; et l'Arizona Cactus Garden, un jardin de cactus de 1880 caché derrière le musée. En option, la boucle de la « Dish » (environ 5,5 km dans les collines, avec une montée), pour la vue sur toute la vallée."
         },
         {
           "label": "Louison · midi",
@@ -909,6 +909,50 @@
           "wiki": "Stanford University",
           "photo": "File:Stanford University Arches with Memorial Church in the background.jpg",
           "culture": "Fondée en 1885 par Leland et Jane Stanford en souvenir de leur fils, mort à 15 ans. L'université est l'un des berceaux de la Silicon Valley."
+        },
+        {
+          "name": "Main Quad et Memorial Church",
+          "wiki": "Stanford Memorial Church",
+          "coords": [
+            37.427,
+            -122.1703
+          ],
+          "culture": "Le cœur du campus : un quadrilatère d'arcades de grès ocre de 1891, fermé par l'église que Jane Stanford fit construire en mémoire de son mari, avec sa façade de mosaïques."
+        },
+        {
+          "name": "Hoover Tower",
+          "wiki": "Hoover Tower",
+          "coords": [
+            37.4275,
+            -122.1667
+          ],
+          "culture": "Tour de 87 m construite en 1941 pour les archives de Herbert Hoover, ancien élève de Stanford devenu président des États-Unis ; terrasse panoramique au sommet."
+        },
+        {
+          "name": "Jardin Rodin du Cantor Arts Center",
+          "wiki": "Cantor Arts Center",
+          "coords": [
+            37.4328,
+            -122.1705
+          ],
+          "culture": "L'une des plus grandes collections de bronzes de Rodin hors de Paris, dont un tirage des Portes de l'Enfer, en plein air à côté du musée."
+        },
+        {
+          "name": "Arizona Cactus Garden",
+          "coords": [
+            37.4345,
+            -122.171
+          ],
+          "culture": "Jardin de cactus et de plantes du désert planté vers 1880 pour la résidence des Stanford, jamais construite, et restauré en 1997."
+        },
+        {
+          "name": "La « Dish »",
+          "coords": [
+            37.4087,
+            -122.1786
+          ],
+          "optional": true,
+          "culture": "Radiotélescope de 46 m posé dans les collines au-dessus du campus, entouré d'une boucle de marche très fréquentée, avec la vue sur la baie et la vallée."
         },
         {
           "name": "HP Garage",
