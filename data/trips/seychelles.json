@@ -1,14 +1,14 @@
 {
   "id": "seychelles",
   "title": "Seychelles",
-  "subtitle": "Huit jours entre Praslin, La Digue et Mahé : vallée de Mai, Anse Lazio, Curieuse, Anse Source d'Argent et Anse Cocos",
+  "subtitle": "Un peu plus d'une semaine entre Praslin, La Digue et Mahé : vallée de Mai, Anse Lazio, Curieuse, Anse Source d'Argent et Anse Cocos",
   "travelers": [
     "En couple"
   ],
   "cover": "Anse Source d'Argent",
   "done": false,
-  "season": "Janvier",
-  "kind": "short",
+  "season": "Mi-saison",
+  "kind": "long",
   "days": [
     {
       "n": 1,
@@ -295,7 +295,7 @@
           -4.35,
           55.832
         ],
-        "note": "Nuit 1 sur 2 à La Digue : petit hôtel ou maison d'hôtes",
+        "note": "Nuit 1 sur 3 à La Digue : petit hôtel ou maison d'hôtes",
         "options": [
           "Le Repaire Boutique Hotel (anse La Réunion, à vérifier)",
           "Le Domaine de L'Orangeraie (villas dans la végétation, à vérifier)",
@@ -373,7 +373,7 @@
           -4.35,
           55.832
         ],
-        "note": "Nuit 2 sur 2 à La Digue, même hôtel que la veille"
+        "note": "Nuit 2 sur 3 à La Digue, même hôtel que la veille"
       },
       "transport": [
         {
@@ -389,6 +389,108 @@
     {
       "n": 6,
       "weekday": "Jeudi",
+      "title": "Anse Source d'Argent au lever du jour et le nord de La Digue",
+      "route": "drive",
+      "summary": "Une journée de plus sur la plus belle île de l'archipel : l'Anse Source d'Argent tôt le matin, avant les groupes, puis le tour du nord à vélo, ses criques de granit et le coucher du soleil sur l'Anse Sévère.",
+      "parts": [
+        {
+          "label": "Tôt le matin",
+          "text": "Retour à l'Anse Source d'Argent à l'ouverture de L'Union Estate, vers 7 h, avec la lumière rasante sur les rochers de granit et la plage presque vide : les bateaux d'excursion de Praslin n'arrivent qu'en milieu de matinée. Choisir l'heure selon la marée basse, et reprendre un billet d'entrée."
+        },
+        {
+          "label": "Matin",
+          "text": "Petit-déjeuner, puis baignade dans les bassins peu profonds entre les rochers, au sud de la plage."
+        },
+        {
+          "label": "Midi",
+          "text": "Déjeuner créole à La Passe ou chez Jules, à l'Anse Banane, au nord-est de l'île."
+        },
+        {
+          "label": "Après-midi",
+          "text": "Tour du nord à vélo, par la route côtière : l'Anse Patates, petite crique de granit, puis l'Anse Sévère, avec du snorkeling depuis la plage si la mer est calme (la côte nord est plus exposée pendant la mousson du nord-ouest)."
+        },
+        {
+          "label": "Coucher du soleil",
+          "text": "Sur l'Anse Sévère, face à Praslin."
+        }
+      ],
+      "stops": [
+        {
+          "name": "Anse Source d'Argent (au lever du jour)",
+          "wiki": "Anse Source d'Argent",
+          "coords": [
+            -4.3711,
+            55.8277
+          ],
+          "culture": "Tôt le matin, avant l'arrivée des bateaux d'excursion, la plage la plus photographiée des Seychelles retrouve son calme."
+        },
+        {
+          "name": "Anse Patates",
+          "coords": [
+            -4.329,
+            55.835
+          ],
+          "culture": "Petite crique au nord de La Digue, entre de gros blocs de granit, au bord de la route côtière."
+        },
+        {
+          "name": "Anse Sévère",
+          "coords": [
+            -4.3357,
+            55.8296
+          ],
+          "culture": "Plage du nord-ouest de La Digue, face à Praslin, avec un récif proche du bord et de beaux couchers de soleil."
+        },
+        {
+          "name": "Nid d'Aigle",
+          "coords": [
+            -4.3571,
+            55.8445
+          ],
+          "optional": true,
+          "culture": "Point culminant de La Digue, à 333 m, avec la vue sur Praslin, Félicité et les îles Sœurs."
+        },
+        {
+          "name": "Anse Marron",
+          "coords": [
+            -4.382,
+            55.829
+          ],
+          "optional": true,
+          "culture": "Crique cachée au sud de l'Anse Source d'Argent, avec des piscines naturelles entre les blocs de granit, accessible seulement à pied, avec un guide."
+        }
+      ],
+      "stay": {
+        "name": "La Digue",
+        "coords": [
+          -4.35,
+          55.832
+        ],
+        "note": "Nuit 3 sur 3 à La Digue, même hôtel que la veille"
+      },
+      "transport": [
+        {
+          "mode": "car",
+          "text": "Vélo électrique : environ 10 min jusqu'à l'Anse Source d'Argent, puis environ 20 min pour le tour du nord",
+          "after": -1
+        }
+      ],
+      "ideas": [
+        {
+          "label": "Nid d'Aigle",
+          "text": "Montée au point culminant de l'île (environ 1 h depuis La Passe, raide et souvent boueuse), avec la plus belle vue sur l'archipel. Partir tôt, à cause de la chaleur ; à éviter si la montée fatigue pendant la grossesse."
+        },
+        {
+          "label": "Anse Marron, avec avertissement",
+          "text": "La crique la plus sauvage de La Digue, avec des piscines naturelles cachées : on y va seulement avec un guide (environ 3 à 4 h aller-retour depuis l'Anse Source d'Argent), en escaladant des rochers et en marchant dans l'eau. Peu conseillé pendant la grossesse, à cause du risque de chute, et dangereux par mer forte."
+        }
+      ],
+      "notes": [
+        "Grossesse : routes plates sur le tour du nord, mais chaleur forte en milieu de journée : eau, chapeau et pauses à l'ombre."
+      ]
+    },
+    {
+      "n": 7,
+      "weekday": "Vendredi",
       "title": "Îlot Coco, puis retour à Mahé",
       "route": "drive",
       "summary": "Le matin, snorkeling autour de l'îlot Coco ; l'après-midi, ferry vers Mahé et installation dans le sud de l'île.",
@@ -483,11 +585,11 @@
       ]
     },
     {
-      "n": 7,
-      "weekday": "Vendredi",
-      "title": "Copolia et Anse Royale",
+      "n": 8,
+      "weekday": "Samedi",
+      "title": "Copolia, marché de Victoria et Anse Royale",
       "route": "drive",
-      "summary": "Le matin, la randonnée de Copolia dans la forêt du Morne Seychellois ; l'après-midi, baignade et snorkeling depuis la plage à l'Anse Royale, sur la côte est abritée.",
+      "summary": "Le matin, la randonnée de Copolia dans la forêt du Morne Seychellois ; à midi, le marché de Victoria, le plus animé le samedi ; l'après-midi, baignade et snorkeling depuis la plage à l'Anse Royale, sur la côte est abritée.",
       "parts": [
         {
           "label": "Matin",
@@ -495,7 +597,7 @@
         },
         {
           "label": "Midi",
-          "text": "Déjeuner créole à Victoria."
+          "text": "Marché Sir Selwyn Clarke à Victoria, le plus animé le samedi : épices, fruits tropicaux, poissons. Puis déjeuner créole à Victoria."
         },
         {
           "label": "Après-midi",
@@ -515,6 +617,11 @@
             55.4618
           ],
           "culture": "Sentier forestier du parc national du Morne Seychellois, jusqu'à un dôme de granit dominant Victoria."
+        },
+        {
+          "name": "Marché de Victoria",
+          "wiki": "Victoria, Seychelles",
+          "culture": "Marché couvert de la capitale, le plus animé le samedi matin."
         },
         {
           "name": "Anse Royale",
@@ -543,7 +650,7 @@
         {
           "mode": "car",
           "text": "Victoria → Anse Royale : environ 30 min",
-          "after": 1
+          "after": 2
         }
       ],
       "notes": [
@@ -557,19 +664,19 @@
       ]
     },
     {
-      "n": 8,
-      "weekday": "Samedi",
-      "title": "Marché de Victoria, plages du sud et vol de nuit",
+      "n": 9,
+      "weekday": "Dimanche",
+      "title": "Plages du sud et vol de nuit",
       "route": "drive",
-      "summary": "Le marché de Victoria le samedi matin, les plus belles plages du sud de Mahé, puis vol de nuit vers Paris.",
+      "summary": "Les plus belles plages du sud de Mahé, puis vol de nuit vers Paris.",
       "parts": [
         {
           "label": "Matin",
-          "text": "Marché Sir Selwyn Clarke à Victoria, le plus animé le samedi matin : épices, fruits tropicaux, poissons."
+          "text": "Anse Intendance, grande plage sauvage du sud bordée de palmiers (vagues fréquentes : regarder plutôt que se baigner)."
         },
         {
           "label": "Midi",
-          "text": "Anse Intendance, grande plage sauvage du sud bordée de palmiers (vagues fréquentes : regarder plutôt que se baigner), puis déjeuner créole."
+          "text": "Déjeuner créole dans le sud de Mahé."
         },
         {
           "label": "Après-midi",
@@ -577,15 +684,10 @@
         },
         {
           "label": "Départ",
-          "text": "Vol de nuit vers Paris, avec une escale, arrivée le dimanche matin."
+          "text": "Vol de nuit vers Paris, avec une escale, arrivée le lundi matin."
         }
       ],
       "stops": [
-        {
-          "name": "Marché de Victoria",
-          "wiki": "Victoria, Seychelles",
-          "culture": "Marché couvert de la capitale, le plus animé le samedi matin."
-        },
         {
           "name": "Anse Intendance",
           "wiki": "Anse Intendance"
@@ -612,13 +714,8 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Sud de Mahé → Victoria : environ 45 min",
+          "text": "Sud de Mahé → Anse Intendance : environ 15 min",
           "after": -1
-        },
-        {
-          "mode": "car",
-          "text": "Victoria → Anse Intendance : environ 50 min",
-          "after": 0
         },
         {
           "mode": "car",
@@ -646,7 +743,7 @@
         {
           "type": "list",
           "items": [
-            "Les trois îles principales en huit jours, avec un seul hôtel par île : 3 nuits à Praslin, 2 à La Digue, 2 dans le sud de Mahé.",
+            "Les trois îles principales en un peu plus d'une semaine, avec un seul hôtel par île : 3 nuits à Praslin, 3 à La Digue, la plus belle, et 2 dans le sud de Mahé.",
             "Peu de route : on circule à vélo sur La Digue, et les trajets en voiture à Praslin et à Mahé font moins d'une heure."
           ]
         },
@@ -681,7 +778,7 @@
         },
         {
           "type": "text",
-          "text": "Pas de vol direct régulier depuis Paris : une escale à Dubaï (Emirates), Doha (Qatar Airways), Abou Dhabi (Etihad) ou Istanbul (Turkish Airlines), environ 13 à 15 h. Un vol direct saisonnier existe certains hivers : à vérifier. Départ le vendredi soir pour arriver le samedi matin, retour par un vol de nuit le samedi pour arriver le dimanche matin à Paris. Je n'ai pas vérifié les horaires ni les prix pour février."
+          "text": "Pas de vol direct régulier depuis Paris : une escale à Dubaï (Emirates), Doha (Qatar Airways), Abou Dhabi (Etihad) ou Istanbul (Turkish Airlines), environ 13 à 15 h. Un vol direct saisonnier existe certains hivers : à vérifier. Départ le vendredi soir pour arriver le samedi matin, retour par un vol de nuit le dimanche pour arriver le lundi matin à Paris. Je n'ai pas vérifié les horaires ni les prix pour février."
         }
       ]
     },
