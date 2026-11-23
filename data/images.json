@@ -7416,5 +7416,15 @@
   "page": "https://commons.wikimedia.org/wiki/File:Sigiriya_Sun_Set.jpg",
   "artist": "Nipuna Gamage",
   "license": "CC BY-SA 4.0"
+ },
+ "Miami Beach Architectural District": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/SouthBeachMiamiBeach.jpg/1920px-SouthBeachMiamiBeach.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SouthBeachMiamiBeach.jpg",
+  "artist": "Massimo Catarinella",
+  "license": "CC BY-SA 3.0",
+  "lat": 25.78583,
+  "lon": -80.13417,
+  "extract": "Le Miami Beach Architectural District est un quartier historique américain situé à Miami Beach en Floride. Il se trouve entre l’océan Atlantique, Miami Beach Boulevard, Alton Road et le canal Collins.",
+  "article": "https://fr.wikipedia.org/wiki/Miami_Beach_Architectural_District"
  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "floride",
   "title": "Floride : Everglades et Keys",
-  "subtitle": "Sept nuits entre Miami, Islamorada et Key West : villa Vizcaya, Everglades de Shark Valley à Flamingo, récif de corail, Seven Mile Bridge, Bahia Honda et Dry Tortugas",
+  "subtitle": "Six nuits entre Miami, Islamorada et Key West : villa Vizcaya, Everglades de Shark Valley à Flamingo, récif de corail, Seven Mile Bridge, Bahia Honda et Dry Tortugas",
   "travelers": [
     "En couple"
   ],
@@ -64,12 +64,6 @@
       "notes": [
         "Grossesse : la Floride est classée en risque Zika négligeable par la liste britannique TravelHealthPro, et aucun cas de dengue locale n'a été signalé dans les Keys en 2026 (les cas de l'État sont surtout à Tampa). Janvier est la saison la plus sèche, avec peu de moustiques : répulsif adapté à la grossesse le soir quand même. Les soins sont excellents mais très chers : assurance voyage couvrant la grossesse indispensable."
       ],
-      "ideas": [
-        {
-          "label": "Soirée Art déco à South Beach",
-          "text": "À 25 min de Coconut Grove : Ocean Drive et ses hôtels Art déco des années 1930, éclairés au néon le soir. Une promenade et un dîner, sans y dormir."
-        }
-      ],
       "food": [
         "Règles pour toute la semaine. Grossesse (non immunisée contre la toxoplasmose) : viande et poisson bien cuits, rien de cru (ceviche, huîtres, sushis), pas de fromage au lait cru, crudités lavées, pas d'alcool.",
         "Mercure : préférer les crevettes (les crevettes roses de Key West), le crabe, les coquilles Saint-Jacques et les petits poissons ; mahi-mahi, vivaneau (snapper) et mérou (grouper, le poisson star des Keys) une à deux fois par semaine au plus. Éviter l'espadon, le requin, le king mackerel, le marlin et les gros thons.",
@@ -78,10 +72,14 @@
     },
     {
       "n": 2,
-      "title": "Vizcaya, Shark Valley, puis Islamorada",
-      "summary": "La villa Vizcaya et ses jardins sur la baie, puis Shark Valley, au cœur des Everglades, avant la route des Keys jusqu'à Islamorada.",
+      "title": "South Beach, Vizcaya, Shark Valley, puis Islamorada",
+      "summary": "Le lever du soleil sur South Beach, la villa Vizcaya et ses jardins sur la baie, puis Shark Valley, au cœur des Everglades, avant la route des Keys jusqu'à Islamorada.",
       "route": "drive",
       "parts": [
+        {
+          "label": "Lever du soleil",
+          "text": "Avec le décalage horaire, on est réveillé tôt : coup d'œil à South Beach, à Miami Beach, pour le lever du soleil sur l'Atlantique vers 7 h 10. Balade d'une demi-heure sur Ocean Drive, le long des hôtels Art déco des années 1930 aux couleurs pastel, puis café face à la plage. Sans y dormir : la plage est très urbaine, bordée de tours."
+        },
         {
           "label": "Matin",
           "text": "Vizcaya Museum and Gardens, à Coconut Grove : villa de style vénitien de 1916 au bord de la baie de Biscayne, salons d'époque et jardins à l'italienne descendant vers l'eau. Ouverture à 9 h 30, compter 1 h 30."
@@ -100,6 +98,15 @@
         }
       ],
       "stops": [
+        {
+          "name": "South Beach, Ocean Drive",
+          "wiki": "Miami Beach Architectural District",
+          "coords": [
+            25.781,
+            -80.13
+          ],
+          "culture": "Le quartier Art déco de Miami Beach : plus de 800 bâtiments des années 1920 à 1940, classés."
+        },
         {
           "name": "Vizcaya Museum and Gardens",
           "wiki": "Vizcaya Museum and Gardens",
@@ -133,7 +140,7 @@
           24.936,
           -80.615
         ],
-        "note": "Islamorada, 3 nuits : hôtel boutique au bord de l'eau",
+        "note": "Islamorada, 2 nuits : hôtel boutique au bord de l'eau",
         "options": [
           "Casa Morada (petit hôtel boutique, réservé aux adultes)",
           "The Moorings Village (cottages dans une cocoteraie, plage privée)"
@@ -142,18 +149,23 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Coconut Grove → Vizcaya : environ 10 min",
+          "text": "Coconut Grove → South Beach : environ 25 min, vers 6 h 30",
           "after": -1
         },
         {
           "mode": "car",
-          "text": "Vizcaya → Shark Valley : environ 50 min",
+          "text": "South Beach → Vizcaya : environ 20 min",
           "after": 0
         },
         {
           "mode": "car",
-          "text": "Shark Valley → Islamorada : environ 2 h",
+          "text": "Vizcaya → Shark Valley : environ 50 min",
           "after": 1
+        },
+        {
+          "mode": "car",
+          "text": "Shark Valley → Islamorada : environ 2 h",
+          "after": 2
         }
       ],
       "food": [
@@ -167,6 +179,10 @@
         {
           "label": "Loutres de rivière",
           "text": "Des loutres de rivière vivent dans les canaux de Shark Valley et de l'Anhinga Trail. Elles sont plus visibles en saison sèche, quand l'eau se concentre, mais restent une chance plutôt qu'une certitude : regarder les canaux le long des passerelles, tôt le matin."
+        },
+        {
+          "label": "Option espace : centre spatial Kennedy",
+          "text": "Le centre spatial Kennedy, à Cap Canaveral, est à environ 3 h 15 au nord de Miami : fusée Saturn V et centre Apollo, navette Atlantis exposée, et visite en bus des pas de tir. Option lourde : environ 7 h de route en plus sur deux jours, une nuit à Cocoa Beach, et on perd Vizcaya, Shark Valley et une journée à Islamorada. À ne faire que si l'espace compte vraiment, ou si un lancement est annoncé pendant le séjour. Lancements : en novembre 2026, environ cinq lancements depuis Cap Canaveral étaient prévus en janvier 2027 (Falcon Heavy, Starliner, Axiom, New Glenn), aucun avec une date ferme pendant notre séjour (19 au 25 janvier), et les dates glissent souvent. Les lancements de satellites Starlink, les plus fréquents, ne sont annoncés que quelques jours à l'avance : vérifier sur un site de calendrier (Next Spaceflight, Space Launch Schedule) une à deux semaines avant le départ. Détail dans le guide « Notre avis »."
         }
       ],
       "notes": [
@@ -192,8 +208,8 @@
           "text": "Flamingo : centre des visiteurs rénové, pique-nique face à la baie de Floride. Depuis le ponton de la marina, on voit souvent en hiver des lamantins et des crocodiles américains. Croisière d'environ 1 h 30 dans la baie ou dans les canaux de mangrove, si l'on veut."
         },
         {
-          "label": "Après-midi",
-          "text": "Retour vers les Keys, arrêt milkshake à la mangue chez Robert Is Here, stand de fruits tropicaux de Homestead ouvert depuis 1959."
+          "label": "Fin d'après-midi",
+          "text": "Retour vers les Keys, arrêt milkshake à la mangue chez Robert Is Here, stand de fruits tropicaux de Homestead ouvert depuis 1959. Vers 16 h 30, Robbie's of Islamorada : les tarpons géants, poissons d'argent de plus d'un mètre, viennent se nourrir au pied du ponton."
         },
         {
           "label": "Soir",
@@ -234,6 +250,14 @@
             -80.5005
           ],
           "culture": "Stand de fruits tropicaux à l'entrée des Everglades, tenu par la même famille depuis 1959."
+        },
+        {
+          "name": "Robbie's of Islamorada",
+          "coords": [
+            24.8829,
+            -80.6683
+          ],
+          "culture": "Marina historique où les tarpons, poissons d'argent de plus d'un mètre, viennent se nourrir au pied du ponton."
         }
       ],
       "stay": {
@@ -276,9 +300,9 @@
     },
     {
       "n": 4,
-      "title": "Le récif de John Pennekamp et Islamorada",
-      "summary": "Le matin, le récif de corail de Key Largo ; l'après-midi, les tarpons de Robbie's et la baignade à Anne's Beach.",
       "route": "drive",
+      "title": "Le récif de Key Largo, Seven Mile Bridge, Bahia Honda et Key West",
+      "summary": "Le matin, le récif de corail de John Pennekamp ; puis toute la route des Keys vers le sud : la lagune d'Anne's Beach, le Seven Mile Bridge, la plage de Bahia Honda, et le coucher du soleil à Key West.",
       "parts": [
         {
           "label": "Matin",
@@ -286,15 +310,19 @@
         },
         {
           "label": "Midi",
-          "text": "Robbie's of Islamorada : marina où l'on nourrit les tarpons géants depuis le ponton, et déjeuner sur place."
+          "text": "Anne's Beach : longue plage peu profonde, presque une lagune, avec une promenade en bois dans la mangrove. Baignade sans vagues et pique-nique."
+        },
+        {
+          "label": "Début d'après-midi",
+          "text": "Traversée du Seven Mile Bridge, 11 km au-dessus de l'eau turquoise, le long de l'ancien pont ferroviaire."
         },
         {
           "label": "Après-midi",
-          "text": "Anne's Beach : longue plage peu profonde, presque une lagune, avec une promenade en bois dans la mangrove. Idéale pour se baigner sans vagues."
+          "text": "Bahia Honda State Park : sable blanc, eau turquoise et vue sur l'ancien pont de Flagler. Baignade jusqu'à 16 h 30."
         },
         {
           "label": "Coucher du soleil",
-          "text": "Coucher du soleil côté baie de Floride."
+          "text": "Arrivée à Key West vers 17 h 15, puis Mallory Square, où toute la ville se retrouve pour le coucher du soleil (vers 18 h)."
         }
       ],
       "stops": [
@@ -324,77 +352,6 @@
           ],
           "culture": "Plage peu profonde et protégée, avec une promenade en bois dans la mangrove : une des rares vraies plages des Keys.",
           "photo": "File:Anne's Beach - panoramio.jpg"
-        },
-        {
-          "name": "Robbie's of Islamorada",
-          "coords": [
-            24.8829,
-            -80.6683
-          ],
-          "culture": "Marina historique où les tarpons, poissons d'argent de plus d'un mètre, viennent se nourrir au pied du ponton."
-        }
-      ],
-      "stay": {
-        "name": "Islamorada",
-        "coords": [
-          24.936,
-          -80.615
-        ],
-        "note": "Même hôtel que la veille"
-      },
-      "transport": [
-        {
-          "mode": "car",
-          "text": "Islamorada → Key Largo : environ 30 min",
-          "after": -1
-        },
-        {
-          "mode": "boat",
-          "text": "Bateau à fond de verre vers le récif : environ 2 h 30 aller-retour",
-          "after": -1
-        },
-        {
-          "mode": "car",
-          "text": "Key Largo → Robbie's : environ 35 min",
-          "after": 0
-        }
-      ],
-      "notes": [
-        "Grossesse : par vent fort, la mer peut être agitée sur le récif. Choisir le bateau à fond de verre (plus stable) ou rester à Cannon Beach si la mer est formée."
-      ]
-    },
-    {
-      "n": 5,
-      "title": "Seven Mile Bridge, Bahia Honda et Key West",
-      "summary": "La plus belle route des Keys : Sombrero Beach à Marathon, le Seven Mile Bridge, puis Bahia Honda, la plus belle plage des Keys, avant le coucher du soleil à Key West.",
-      "route": "drive",
-      "parts": [
-        {
-          "label": "Matin",
-          "text": "Route vers le sud, arrêt à Sombrero Beach, à Marathon : plage de sable bordée de palmiers."
-        },
-        {
-          "label": "Midi",
-          "text": "Traversée du Seven Mile Bridge, puis Bahia Honda State Park : sable blanc, eau turquoise et vue sur l'ancien pont ferroviaire. Pique-nique sur la plage."
-        },
-        {
-          "label": "Après-midi",
-          "text": "Arrivée à Key West et installation dans la vieille ville."
-        },
-        {
-          "label": "Coucher du soleil",
-          "text": "Mallory Square, où toute la ville se retrouve pour le coucher du soleil."
-        }
-      ],
-      "stops": [
-        {
-          "name": "Sombrero Beach",
-          "coords": [
-            24.693,
-            -81.087
-          ],
-          "culture": "Plage publique de Marathon, sable et palmiers, au calme.",
-          "photo": "File:Sunset at Sombrero Beach - panoramio.jpg"
         },
         {
           "name": "Seven Mile Bridge",
@@ -440,24 +397,44 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Islamorada → Marathon : environ 1 h",
+          "text": "Islamorada → Key Largo : environ 30 min, départ vers 8 h 15",
+          "after": -1
+        },
+        {
+          "mode": "boat",
+          "text": "Bateau à fond de verre vers le récif : environ 2 h 30 aller-retour",
           "after": -1
         },
         {
           "mode": "car",
-          "text": "Marathon → Bahia Honda : environ 30 min",
+          "text": "Key Largo → Anne's Beach : environ 50 min",
           "after": 0
         },
         {
           "mode": "car",
-          "text": "Bahia Honda → Key West : environ 45 min",
+          "text": "Anne's Beach → Seven Mile Bridge : environ 1 h",
           "after": 1
+        },
+        {
+          "mode": "car",
+          "text": "Seven Mile Bridge → Bahia Honda : environ 15 min",
+          "after": 2
+        },
+        {
+          "mode": "car",
+          "text": "Bahia Honda → Key West : environ 45 min",
+          "after": 3
         }
       ],
       "notes": [
-        "Bahia Honda est ouvert tous les jours de 8 h au coucher du soleil (environ 8 $ par voiture)."
+        "Grossesse : par vent fort, la mer peut être agitée sur le récif. Choisir le bateau à fond de verre (plus stable) ou rester à Cannon Beach si la mer est formée.",
+        "Journée bien remplie (environ 3 h 20 de route en plus du bateau), mais tout le trajet est au bord de l'eau. Bahia Honda est ouvert de 8 h au coucher du soleil (environ 8 $ par voiture)."
       ],
       "ideas": [
+        {
+          "label": "Sombrero Beach",
+          "text": "À Marathon, juste avant le Seven Mile Bridge : plage de sable bordée de palmiers, pour une pause de 30 min si l'on a le temps."
+        },
         {
           "label": "Big Pine Key",
           "text": "Détour de 10 min après Bahia Honda : le Blue Hole, ancienne carrière où vivent alligators et tortues, et les cerfs des Keys, minuscules cerfs que l'on ne trouve que sur ces îles."
@@ -465,7 +442,7 @@
       ]
     },
     {
-      "n": 6,
+      "n": 5,
       "title": "Key West, à pied et à vélo",
       "summary": "La vieille ville en bois peint, la maison d'Hemingway et la plage de Fort Zachary Taylor, la meilleure de Key West pour nager et faire du snorkeling.",
       "route": "none",
@@ -528,7 +505,7 @@
       ]
     },
     {
-      "n": 7,
+      "n": 6,
       "title": "Dry Tortugas, ou le récif de Looe Key",
       "summary": "Journée au large : en hydravion jusqu'à Fort Jefferson aux Dry Tortugas, ou en bateau jusqu'au récif de Looe Key, le plus beau des Keys pour le snorkeling.",
       "route": "none",
@@ -599,7 +576,7 @@
       ]
     },
     {
-      "n": 8,
+      "n": 7,
       "title": "Dernière matinée et vol vers San Francisco",
       "summary": "Matinée tranquille à Key West, puis vol avec une escale vers San Francisco, arrivée en fin de soirée.",
       "route": "none",
@@ -628,7 +605,7 @@
         }
       ],
       "notes": [
-        "Variante moins chère : revenir en voiture à Miami le dimanche (environ 3 h 45) et prendre un vol direct Miami → San Francisco le lundi (United 16 h 37 → 20 h 09, environ 242 $), soit environ 160 $ de moins par personne mais une longue route."
+        "Variante moins chère : rendre la voiture à Miami au lieu de Key West, en partant de Key West vers 10 h le lundi (environ 3 h 45 de route), pour le vol direct Miami → San Francisco (United 16 h 37 → 20 h 09, environ 242 $) : environ 160 $ de moins par personne, mais une longue route le dernier jour."
       ]
     }
   ],
@@ -673,7 +650,7 @@
           ],
           "rows": [
             [
-              "Paris → Miami, lundi 18",
+              "Paris → Miami, mardi 19",
               "Air France AF90 direct, 13 h 10 → 17 h 40",
               "~622 $"
             ],
@@ -703,7 +680,27 @@
         },
         {
           "type": "text",
-          "text": "Pour des plages plus belles encore (sable blanc très fin), on peut remplacer les Keys par Naples, Sanibel et Captiva, et Anna Maria Island, avec un retour depuis Tampa. La mer y est plus fraîche en janvier (environ 19 à 20 °C), et les ouragans de 2024 ont touché cette côte : vérifier l'état des hôtels et des plages avant de réserver."
+          "text": "Pour des plages plus belles encore (sable blanc très fin), on peut remplacer les Keys par Naples, Sanibel et Captiva, et Anna Maria Island, avec un retour depuis Tampa. La mer y est plus fraîche en janvier : environ 18 à 20 °C à Naples et Sanibel, 16 à 18 °C à Anna Maria Island, contre environ 22 à 24 °C dans les Keys. Sanibel et Captiva se sont presque entièrement remises de l'ouragan Ian (2022) : la plupart des hôtels ont rouvert, mais les prix ont augmenté et la végétation n'a pas fini de repousser. Anna Maria Island a été inondée par les ouragans Helene et Milton en 2024 : la plupart des hôtels avaient rouvert au printemps 2025, mais vérifier l'hôtel choisi et l'état des plages avant de réserver."
+        },
+        {
+          "type": "heading",
+          "text": "Variante espace : le centre spatial Kennedy"
+        },
+        {
+          "type": "text",
+          "text": "Le centre spatial Kennedy, à Cap Canaveral, est à environ 3 h 15 au nord de Miami : fusée Saturn V et centre Apollo, navette Atlantis, et visite en bus jusqu'aux pas de tir. Entrée adulte d'environ 77 $ en 2026 (source non officielle), à réserver en ligne. Le site peut fermer sans préavis les jours de lancement. Lancements : en novembre 2026, environ cinq lancements depuis Cap Canaveral étaient prévus en janvier 2027 (Falcon Heavy, Starliner, Axiom, New Glenn), aucun avec une date ferme pendant notre séjour (19 au 25 janvier), et les dates glissent souvent. Les lancements de satellites Starlink, les plus fréquents, ne sont annoncés que quelques jours à l'avance : vérifier sur un site de calendrier (Next Spaceflight, Space Launch Schedule) une à deux semaines avant le départ."
+        },
+        {
+          "type": "list",
+          "items": [
+            "Jour 2 : départ de Miami vers 7 h, visite du centre de 10 h à 16 h, nuit à Cocoa Beach.",
+            "Jour 3 : route vers le sud (environ 3 h 45 jusqu'à Homestead), Anhinga Trail l'après-midi, puis Islamorada.",
+            "Ensuite, le voyage reprend : Islamorada 1 nuit au lieu de 2 (garder Flamingo ou John Pennekamp), puis Key West."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Option lourde : environ 7 h de route en plus sur deux jours, une nuit à Cocoa Beach, et on perd Vizcaya, Shark Valley et une journée à Islamorada. À ne faire que si l'espace compte vraiment, ou si un lancement est annoncé pendant le séjour."
         },
         {
           "type": "heading",
@@ -713,13 +710,13 @@
           "type": "list",
           "items": [
             "Nord-ouest de la Floride (littoral 30A) : magnifique, mais trop froid en janvier pour se baigner (environ 16 °C).",
-            "Miami Beach : grande plage, mais très urbaine et bordée de tours."
+            "Miami Beach : grande plage très urbaine, bordée de tours ; seulement un coup d'œil à South Beach au lever du soleil (jour 2), sans y dormir."
           ]
         }
       ]
     }
   ],
-  "start": "2027-01-18",
+  "start": "2027-01-19",
   "done": false,
   "season": "Janvier",
   "kind": "short"

@@ -643,9 +643,9 @@
               "La route des jours 2 et 4 traverse Azua. Le paludisme est plus grave pendant la grossesse, et les traitements préventifs possibles sont limités (la doxycycline est contre-indiquée)."
             ],
             [
-              "Oropouche et chikungunya",
-              "France Diplomatie demande aux femmes enceintes de consulter avant le départ, car l'Oropouche se transmettrait au fœtus. Pas de chiffre récent trouvé pour le pays ; le foyer régional est Cuba.",
-              "L'Oropouche se transmettrait au fœtus. Le vaccin chikungunya n'est pas recommandé pendant la grossesse."
+              "Chikungunya",
+              "Grosse épidémie récente en République dominicaine et en Haïti (des dizaines de milliers de cas suspects selon l'OPS, relayée par le CIDRAP), et hausse continue dans la région depuis fin 2025 selon l'alerte de l'OPS de février 2026. Chiffre de 2026 pour le pays non trouvé.",
+              "Maladie lourde pour la mère (fièvre, fortes douleurs articulaires) ; le risque pour le bébé concerne surtout une infection proche de l'accouchement. Le vaccin n'est pas recommandé pendant la grossesse."
             ],
             [
               "Soins",
@@ -654,7 +654,7 @@
             ],
             [
               "Le voyage lui-même",
-              "Environ 20 h de route en 6 nuits, sur des routes dangereuses. Des bateaux rapides en mer ouverte. Deux longs vols la même semaine (Paris → Saint-Domingue, puis Saint-Domingue → San Francisco avec une escale).",
+              "Environ 20 h de route en 6 nuits. Les routes dominicaines sont les plus meurtrières de la région : environ 27 morts par an pour 100 000 habitants selon l'OPS (2021), contre environ 18 au Belize, 13 au Guatemala et 11 au Mexique ; une autre estimation de l'OMS (2019) va jusqu'à 65. S'y ajoutent des bateaux rapides en mer ouverte et deux longs vols la même semaine (Paris → Saint-Domingue, puis Saint-Domingue → San Francisco avec une escale).",
               "Fatigue, chocs sur les bateaux, risque de phlébite pendant les vols."
             ]
           ]
@@ -665,11 +665,11 @@
         },
         {
           "type": "heading",
-          "text": "Les risques dans les autres îles des Caraïbes"
+          "text": "Les risques dans les autres îles qui nous correspondent"
         },
         {
           "type": "text",
-          "text": "Le niveau Zika vient de la liste britannique TravelHealthPro : le tableau du site porte la date de juillet 2024, la page a été mise à jour le 4 novembre 2026. Les chiffres de dengue 2026 sont des estimations du Global Dengue Observatory (au 4 novembre 2026) ou des autorités locales."
+          "text": "Seules les îles qui correspondent à ce qu'on cherche (belles plages, hôtels boutique plutôt que grands resorts) et qui restent simples à rejoindre depuis Paris puis à quitter vers San Francisco. Écartées pour cela : Aruba et les îles Caïmans (très balnéaires, grands hôtels), Bonaire (plages surtout rocheuses), Porto Rico et Cuba. Le niveau Zika vient de la liste britannique TravelHealthPro (tableau daté de juillet 2024, page mise à jour le 4 novembre 2026). Les chiffres de dengue 2026 sont des estimations du Global Dengue Observatory (au 4 novembre 2026) ou des autorités locales."
         },
         {
           "type": "table",
@@ -696,13 +696,6 @@
               "Hôpital moderne"
             ],
             [
-              "Îles Caïmans",
-              "Risque très faible",
-              "Aucun cas en 2026 selon la santé publique locale",
-              "Aucun",
-              "Bons hôpitaux privés"
-            ],
-            [
               "Îles Vierges américaines (St John)",
               "Risque très faible",
               "Épidémie en 2024 et 2025 (263 cas, un décès) ; pas de chiffre 2026",
@@ -710,32 +703,11 @@
               "Normes américaines, structures petites"
             ],
             [
-              "Bonaire",
-              "Groupe à risque",
-              "Cas isolés",
-              "Aucun",
-              "Petite structure"
-            ],
-            [
-              "Aruba",
-              "Groupe à risque",
-              "Environ 15 cas, faible et stable",
-              "Aucun",
-              "Correcte"
-            ],
-            [
               "Guadeloupe, Martinique",
               "Risque très faible",
               "Cas isolés en Guadeloupe, foyers en Martinique (septembre 2026)",
               "Aucun",
               "Système français, carte Vitale"
-            ],
-            [
-              "Porto Rico, Cuba",
-              "Groupe à risque",
-              "Porto Rico : environ 970 cas ; Cuba : dengue, chikungunya et Oropouche",
-              "Aucun",
-              "Variable"
             ]
           ]
         },
@@ -756,7 +728,9 @@
             "[Cayman Compass, octobre 2026](https://www.caymancompass.com/2026/10/10/mosquito-numbers-falling-in-cayman/)",
             "[VI Consortium, dengue aux îles Vierges américaines](https://viconsortium.com/vi-health/virgin-islands-cdc-reveals-263-dengue-cases--first-usvi-death-since-2005-and-testing-delays-of-up-to-two-months)",
             "[Dengue Visual Atlas, Porto Rico 2026](https://denguevisualatlas.com/en/922-cases-of-dengue-in-puerto-rico-in-2026/) et [OPS, chikungunya à Cuba](https://www.paho.org/sites/default/files/2026/04/phsa-cuba-revised-033126.pdf)",
-            "[no-bites.com, dengue aux Antilles](https://no-bites.com/mosquitoes-in-martinique-and-guadeloupe)"
+            "[no-bites.com, dengue aux Antilles](https://no-bites.com/mosquitoes-in-martinique-and-guadeloupe)",
+            "[OPS, alerte chikungunya de février 2026](https://www.paho.org/en/news/11-2-2026-chikungunya-cases-increasing-several-countries-americas-paho-recommends-preparedness) et [CIDRAP, chikungunya en République dominicaine et en Haïti](https://www.cidrap.umn.edu/chikungunya/haiti-dominican-republic-cases-push-chikungunya-total-past-260000)",
+            "[OPS, mortalité routière dans les Amériques (2021)](https://www.paho.org/pub/en/saving-lives-promoting-safe-systems-approach-road-safety-americas/1-road-traffic-deaths-crashes.html)"
           ]
         }
       ]
