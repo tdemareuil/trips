@@ -1033,8 +1033,21 @@
       "summary": "Moins de route et un vol direct vers San Francisco, sans Loreto.",
       "blocks": [
         {
-          "type": "text",
-          "text": "Moins de route (environ 9 h en tout), un vol direct vers San Francisco, et plus de temps sur chaque plage. On perd la baie de Concepción, San Javier, Los Barriles et les baleines de Loreto."
+          "type": "heading",
+          "text": "Itinéraire principal ou variante calme ?"
+        },
+        {
+          "type": "list",
+          "items": [
+            "L'itinéraire principal réunit en une semaine, à un rythme soutenu, les sites les plus spectaculaires du sud de la péninsule : l'arche de Cabo San Lucas, le récif de Cabo Pulmo, Espíritu Santo et ses otaries, Balandra, Todos Santos, puis la baie de Concepción, la plus belle côte de la péninsule, et la mission de San Javier.",
+            "Dans les deux cas, des bases à taille humaine, loin des resorts : un village de pêcheurs à Cabo Pulmo, des hôtels boutique à Todos Santos et à La Paz, un petit hôtel dans le centre de Loreto.",
+            "Le prix de l'itinéraire principal : environ 20 h de route en tout, dont une journée de 5 h entre La Paz et Loreto, et un retour avec une escale au lieu d'un vol direct.",
+            "La variante calme reste dans le sud : environ 9 h de route en tout, un vol direct vers San Francisco, et plus de temps sur chaque plage. On perd la baie de Concepción, San Javier, Los Barriles et les baleines de Loreto."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "La variante jour par jour"
         },
         {
           "type": "table",
