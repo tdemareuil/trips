@@ -247,12 +247,12 @@
     {
       "n": 4,
       "title": "Grande traversée vers Las Galeras",
-      "summary": "La plus longue journée de route : plage de Los Patos au lever du jour, boutique de larimar, puis autoroute par Santo Domingo et l'Autopista del Nordeste jusqu'à Las Galeras (6 h 30 à 7 h de conduite).",
+      "summary": "La plus longue journée de route : plage de Los Patos au lever du jour, puis autoroute par Santo Domingo et l'Autopista del Nordeste jusqu'à Las Galeras (6 h 30 à 7 h de conduite).",
       "route": "drive",
       "parts": [
         {
           "label": "Matin",
-          "text": "Départ à 7 h. Plage de Los Patos, où une rivière glacée se jette dans la mer, puis arrêt dans une boutique de larimar, la pierre bleue qu'on ne trouve que dans cette région. Reprendre la route vers 8 h 30."
+          "text": "Départ à 7 h. Plage de Los Patos, où une rivière glacée se jette dans la mer. Reprendre la route vers 8 h 30."
         },
         {
           "label": "Midi",
@@ -271,15 +271,6 @@
             -71.19
           ],
           "culture": "Plage où une rivière glacée se jette dans la mer."
-        },
-        {
-          "name": "Boutique de larimar",
-          "wiki": "Larimar",
-          "coords": [
-            18.15,
-            -71.15
-          ],
-          "culture": "Le larimar, pierre bleue, ne se trouve que dans cette région de Barahona."
         },
         {
           "name": "Las Galeras",
@@ -321,6 +312,12 @@
       "notes": [
         "Hébergement : [Booking, Samaná](https://m.booking.com/reviews/region/samana-and-vicinity.en-gb.html) et [Fodor's](https://www.fodors.com/world/caribbean/dominican-republic/samana-peninsula/places/las-terrenas/hotels).",
         "C'est la journée la plus lourde du voyage : avec 3 nuits de plus (arrivée le samedi 16), mieux vaut la couper par une nuit à Santo Domingo."
+      ],
+      "ideas": [
+        {
+          "label": "En option, avec réserve : le larimar",
+          "text": "Le larimar, pierre bleue qu'on ne trouve que dans la Sierra de Bahoruco. Avertissement : beaucoup de boutiques de bord de route vivent des commissions des guides, et l'on trouve des imitations ; acheter seulement dans une boutique sérieuse qui délivre un certificat, et se méfier des prix « spéciaux »."
+        }
       ]
     },
     {
@@ -400,11 +397,11 @@
       "parts": [
         {
           "label": "Matin",
-          "text": "Port de Samaná vers 8 h 30 pour les baleines à bosse dans la baie. Réserver tôt, car le week-end est la période la plus demandée, et choisir une sortie sans arrêt à Cayo Levantado. Le plus simple est une sortie qui enchaîne baleines et Los Haitises, ou un bateau privé qui part tôt pour rentrer vers 16 h."
+          "text": "Port de Samaná vers 8 h 30, bateau pour Los Haitises : traversée de la baie, îlots karstiques couverts de forêt, mangroves rouges, grottes ornées de pictogrammes taïnos vieux de 750 ans, îlot aux pélicans. Éviter les sorties qui s'arrêtent à Cayo Levantado, île réservée aux excursions de masse et aux croisiéristes."
         },
         {
           "label": "Après-midi",
-          "text": "Los Haitises : traversée de la baie, îlots karstiques couverts de forêt, mangroves rouges, grottes ornées de pictogrammes taïnos vieux de 750 ans, îlot aux pélicans."
+          "text": "Retour à Samaná en début d'après-midi, déjeuner sur le Malecón."
         },
         {
           "label": "Soir",
@@ -412,15 +409,6 @@
         }
       ],
       "stops": [
-        {
-          "name": "Baie de Samaná (baleines)",
-          "wiki": "Humpback whale",
-          "coords": [
-            19.2,
-            -69.3336
-          ],
-          "culture": "Un des meilleurs sites d'observation de baleines à bosse au monde, avec un sanctuaire fermé aux bateaux non autorisés."
-        },
         {
           "name": "Parc national de Los Haitises",
           "wiki": "Los Haitises National Park",
@@ -475,6 +463,12 @@
         "La saison des baleines 2026 s'est déroulée du 15 janvier au 31 mars. Les dates 2027 ne sont pas encore annoncées par le ministère. Le 24 janvier tombe en tout début de saison : les baleines sont là, mais moins nombreuses qu'en février.",
         "Sources : [saison 2026](https://dominicantoday.com/?p=252102), [dates 2027](https://www.riotimesonline.com/samana-whale-watching-dominican-republic-2026/), [Los Haitises](https://www.travelocity.com/es/things-to-do/m.a47810562.detalles-actividades), [hôtels](https://www.booking.com/region/do/samana-and-vicinity.html?inac=0).",
         "Plusieurs opérateurs enchaînent baleines et Los Haitises dans la journée, avec un retour au port de Samaná vers 17 h 30 à 18 h ([Exploras](https://www.exploras.do/blog/los-haitises-samana-bay-combo-tours-included-booking-tips-2026), [GetYourGuide](https://www.getyourguide.com/samana-l145033/)). Dans ce cas, les 45 min jusqu'à Las Terrenas se font de nuit."
+      ],
+      "ideas": [
+        {
+          "label": "En option, avec réserve : les baleines à bosse",
+          "text": "De mi-janvier à mars, les baleines à bosse viennent mettre bas dans la baie de Samaná, et beaucoup de sorties combinent baleines et Los Haitises. Avertissement : les bateaux sont nombreux le week-end et les règles d'approche (distance, nombre de bateaux, durée) ne sont pas toujours respectées. Choisir un opérateur agréé qui respecte le code d'observation, et renoncer par mer agitée (grossesse)."
+        }
       ]
     },
     {
@@ -485,7 +479,7 @@
       "parts": [
         {
           "label": "Matin",
-          "text": "Petit-déjeuner à l'hôtel, puis selon l'heure du vol : baignade à l'aube à Playa Cosón (sauvage, cocotiers) ou Salto El Limón (cascade de 40 m, environ 1 h de marche, départ à 8 h ; le trajet existe aussi à cheval, à éviter en cas de grossesse)."
+          "text": "Petit-déjeuner à l'hôtel, puis selon l'heure du vol : baignade à l'aube à Playa Cosón (sauvage, cocotiers) ou Salto El Limón (cascade de 40 m, environ 1 h de marche, départ à 8 h)."
         },
         {
           "label": "Départ",
@@ -525,7 +519,8 @@
         }
       ],
       "notes": [
-        "Si le vol est le matin, mieux vaut dormir le dimanche près de Santo Domingo."
+        "Si le vol est le matin, mieux vaut dormir le dimanche près de Santo Domingo.",
+        "Salto El Limón : la plupart des visiteurs montent à cheval, avec des guides qui insistent beaucoup. Avertissement : les chevaux sont souvent surmenés sur un sentier boueux et raide ; monter à pied, et à cheval de toute façon jamais pendant la grossesse."
       ]
     }
   ],
@@ -753,7 +748,7 @@
           "items": [
             "Retenu : parc national de Los Haitises. Environ 600 km² de pitons karstiques, de mangroves et de grottes ornées d'art rupestre taïno. Le paysage le plus singulier du pays, peu fréquenté car éloigné de Punta Cana.",
             "Retenu : parc Jaragua et Bahía de las Águilas. La côte la plus sauvage du pays : environ 52 700 visiteurs en 2024, soit 15 fois moins que Saona.",
-            "Retenu : baleines à bosse de Samaná, l'un des meilleurs sites d'observation au monde.",
+            "En option avec réserve : baleines à bosse de Samaná, l'un des meilleurs sites d'observation au monde, mais des bateaux nombreux et des règles d'approche pas toujours respectées (jour 6).",
             "Retenu : Laguna de Oviedo (flamants roses et iguanes) et Salto El Limón (cascade de 40 m).",
             "Écarté : lac Enriquillo et île Cabritos. Point le plus bas des Caraïbes (environ −40 m), lac hypersalé avec crocodiles américains et iguanes rhinocéros ; très confidentiel, mais il faut une demi-journée dans une autre direction. C'est le meilleur remplacement si Bahía de las Águilas est annulée pour cause de mer agitée.",
             "Écarté : Silver Bank. Le seul endroit au monde où l'on peut nager légalement avec les baleines à bosse, en snorkeling (environ 61 500 visiteurs en 2024, avec le banc de La Navidad). Cela se fait uniquement en croisière d'une semaine depuis Puerto Plata, ce qui est incompatible avec ce format ; à garder pour un futur voyage.",
@@ -796,7 +791,7 @@
           "type": "list",
           "items": [
             "Retenu : Ciudad Colonial de Santo Domingo (UNESCO), première ville européenne des Amériques : Catedral Primada, Alcázar de Colón, Fortaleza Ozama, Calle Las Damas. Selon une enquête du ministère du Tourisme, parmi les touristes sortant de leur hôtel, 18 % allaient à Saona et seulement 8 % visitaient la Ciudad Colonial : elle est fréquentée, mais pas saturée.",
-            "Retenu : art rupestre taïno de Los Haitises et larimar de Barahona, pierre bleue qu'on ne trouve qu'à cet endroit.",
+            "Retenu : art rupestre taïno de Los Haitises ; en option avec réserve, le larimar de Barahona, pierre bleue qu'on ne trouve qu'à cet endroit.",
             "Écarté : basilique de Higüey. Arche de béton de 80 m conçue par deux architectes français (1971), un chef-d'œuvre moderniste, mais à l'est, près de Punta Cana.",
             "Écarté : Centro León (Santiago). Le meilleur musée du pays, dans la région des cigares, au nord.",
             "Écarté : Puerto Plata victorien. Maisons « gingerbread » colorées et téléphérique jusqu'au Pico Isabel de Torres, sur la côte nord, envahi par les croisiéristes certains jours.",

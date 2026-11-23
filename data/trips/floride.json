@@ -209,7 +209,7 @@
         },
         {
           "label": "Fin d'après-midi",
-          "text": "Retour vers les Keys, arrêt milkshake à la mangue chez Robert Is Here, stand de fruits tropicaux de Homestead ouvert depuis 1959. Vers 16 h 30, Robbie's of Islamorada : les tarpons géants, poissons d'argent de plus d'un mètre, viennent se nourrir au pied du ponton."
+          "text": "Retour vers les Keys, arrêt milkshake à la mangue chez Robert Is Here, stand de fruits tropicaux de Homestead ouvert depuis 1959."
         },
         {
           "label": "Soir",
@@ -250,14 +250,6 @@
             -80.5005
           ],
           "culture": "Stand de fruits tropicaux à l'entrée des Everglades, tenu par la même famille depuis 1959."
-        },
-        {
-          "name": "Robbie's of Islamorada",
-          "coords": [
-            24.8829,
-            -80.6683
-          ],
-          "culture": "Marina historique où les tarpons, poissons d'argent de plus d'un mètre, viennent se nourrir au pied du ponton."
         }
       ],
       "stay": {
@@ -295,6 +287,10 @@
         {
           "label": "Loutres de rivière",
           "text": "Des loutres de rivière vivent dans les canaux de Shark Valley et de l'Anhinga Trail. Elles sont plus visibles en saison sèche, quand l'eau se concentre, mais restent une chance plutôt qu'une certitude : regarder les canaux le long des passerelles, tôt le matin."
+        },
+        {
+          "label": "En option, avec réserve : les tarpons de Robbie's",
+          "text": "À Islamorada, la marina de Robbie's vend des seaux de poissons pour nourrir les tarpons géants depuis le ponton. Avertissement : c'est un nourrissage d'animaux sauvages organisé pour les touristes, qui habitue les tarpons et les pélicans à être nourris par l'homme ; l'endroit est aussi très fréquenté. Si l'on y va, regarder sans acheter de seau. On voit souvent des tarpons dans l'eau claire des Keys sans les nourrir, depuis les ponts et les marinas."
         }
       ]
     },
@@ -306,7 +302,7 @@
       "parts": [
         {
           "label": "Matin",
-          "text": "Parc John Pennekamp Coral Reef, à Key Largo : sortie en bateau à fond de verre au-dessus du récif (environ 2 h 30), ou sortie snorkeling jusqu'au Christ des Abysses, statue de bronze immergée sur le récif de Key Largo Dry Rocks, à environ 7 m sous la surface, visible depuis l'eau avec un masque."
+          "text": "Parc John Pennekamp Coral Reef, à Key Largo : sortie en bateau à fond de verre au-dessus du récif (environ 2 h 30). Plus stable qu'une sortie snorkeling, et sans se mettre à l'eau en pleine mer."
         },
         {
           "label": "Midi",
@@ -322,7 +318,7 @@
         },
         {
           "label": "Coucher du soleil",
-          "text": "Arrivée à Key West vers 17 h 15, puis Mallory Square, où toute la ville se retrouve pour le coucher du soleil (vers 18 h)."
+          "text": "Arrivée à Key West vers 17 h 15, puis coucher du soleil (vers 18 h) sur la plage de Fort Zachary Taylor, plus calme : le parc reste ouvert jusqu'au coucher du soleil."
         }
       ],
       "stops": [
@@ -334,15 +330,6 @@
             -80.406
           ],
           "culture": "Premier parc sous-marin des États-Unis, créé en 1963, qui protège une partie du seul récif corallien vivant d'Amérique du Nord."
-        },
-        {
-          "name": "Christ des Abysses (Key Largo Dry Rocks)",
-          "wiki": "Christ of the Abyss",
-          "coords": [
-            25.1253,
-            -80.298
-          ],
-          "culture": "Copie de la statue immergée de San Fruttuoso, en Italie, posée sur le récif de Key Largo en 1965."
         },
         {
           "name": "Anne's Beach",
@@ -373,13 +360,14 @@
           "photo": "File:Bahia Honda State Park - Beach with palm trees.jpg"
         },
         {
-          "name": "Mallory Square",
-          "wiki": "Mallory Square",
+          "name": "Fort Zachary Taylor",
+          "wiki": "Fort Zachary Taylor Historic State Park",
           "coords": [
-            24.5597,
-            -81.8077
+            24.5458,
+            -81.8104
           ],
-          "culture": "Place du port de Key West où l'on vient chaque soir regarder le coucher du soleil, avec musiciens et artistes de rue."
+          "culture": "Fort de la guerre de Sécession et la plus belle plage de Key West, à l'ombre des pins, bonne pour le snorkeling.",
+          "photo": "File:Zachary Taylor Beach FL1.jpg"
         }
       ],
       "stay": {
@@ -432,28 +420,36 @@
       ],
       "ideas": [
         {
+          "label": "En option, avec réserve : le Christ des Abysses",
+          "text": "Statue de bronze d'environ 2,60 m posée en 1965 sur le récif de Key Largo Dry Rocks, à 7 ou 8 m de profondeur, à environ 8 km au large. Avertissement : on ne voit souvent qu'une silhouette verdâtre couverte d'algues, nette seulement par mer très calme et eau très claire ; les opérateurs changent fréquemment de site selon les conditions, et le récif alentour a beaucoup souffert. Snorkeling en pleine mer, avec de la houle possible pour la future maman. Le récif de Looe Key (jour 6) est bien meilleur."
+        },
+        {
+          "label": "En option, avec réserve : Mallory Square",
+          "text": "Le coucher du soleil « officiel » de Key West, sur la place du port, avec musiciens et artistes de rue. Avertissement : très touristique, beaucoup de monde, et des bateaux de croisière parfois à quai ; ambiance de fête foraine plutôt que de nature."
+        },
+        {
           "label": "Sombrero Beach",
           "text": "À Marathon, juste avant le Seven Mile Bridge : plage de sable bordée de palmiers, pour une pause de 30 min si l'on a le temps."
         },
         {
           "label": "Big Pine Key",
-          "text": "Détour de 10 min après Bahia Honda : le Blue Hole, ancienne carrière où vivent alligators et tortues, et les cerfs des Keys, minuscules cerfs que l'on ne trouve que sur ces îles."
+          "text": "Détour de 10 min après Bahia Honda : le Blue Hole, ancienne carrière où vivent alligators et tortues, et les cerfs des Keys, minuscules cerfs que l'on ne trouve que sur ces îles. Ne pas les nourrir ni s'approcher : c'est une espèce protégée, souvent victime des voitures, rouler lentement sur l'île."
         }
       ]
     },
     {
       "n": 5,
       "title": "Key West, à pied et à vélo",
-      "summary": "La vieille ville en bois peint, la maison d'Hemingway et la plage de Fort Zachary Taylor, la meilleure de Key West pour nager et faire du snorkeling.",
+      "summary": "La vieille ville en bois peint, la plage de Fort Zachary Taylor, la meilleure de Key West pour nager et faire du snorkeling.",
       "route": "none",
       "parts": [
         {
           "label": "Matin",
-          "text": "Balade à vélo dans la vieille ville : maisons de bois peint, jardins tropicaux, maison d'Ernest Hemingway et ses chats à six doigts."
+          "text": "Balade à vélo dans la vieille ville : maisons de bois peint et jardins tropicaux, rues résidentielles calmes à l'écart de Duval Street."
         },
         {
           "label": "Midi",
-          "text": "Déjeuner au Blue Heaven, dans une cour ombragée."
+          "text": "Déjeuner dans la vieille ville, par exemple au Blue Heaven, dans une cour ombragée (très connu et souvent plein : y aller tôt)."
         },
         {
           "label": "Après-midi",
@@ -465,15 +461,6 @@
         }
       ],
       "stops": [
-        {
-          "name": "Maison d'Ernest Hemingway",
-          "wiki": "Ernest Hemingway House",
-          "coords": [
-            24.5512,
-            -81.8006
-          ],
-          "culture": "Maison coloniale de 1851 où Hemingway a vécu dans les années 1930, aujourd'hui peuplée de dizaines de chats à six doigts."
-        },
         {
           "name": "Fort Zachary Taylor",
           "wiki": "Fort Zachary Taylor Historic State Park",
@@ -502,6 +489,16 @@
       ],
       "food": [
         "Blue Heaven (cour ombragée), Louie's Backyard (terrasse sur la mer), key lime pie chez Kermit's. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+      ],
+      "ideas": [
+        {
+          "label": "En option, avec réserve : la maison d'Ernest Hemingway",
+          "text": "La maison où l'écrivain a vécu dans les années 1930, avec la soixantaine de chats à six doigts descendants de son chat. Avertissement : visite très fréquentée, souvent avec la queue, entrée payante, et l'intérieur se voit vite ; à faire seulement si Hemingway vous intéresse."
+        },
+        {
+          "label": "Duval Street",
+          "text": "La rue principale de Key West : bars, boutiques de souvenirs et ambiance de fête le soir. À traverser plutôt qu'à fréquenter."
+        }
       ]
     },
     {
@@ -520,7 +517,7 @@
         },
         {
           "label": "Soir",
-          "text": "Coucher du soleil depuis la jetée et dîner. Sans sortie en mer : Smathers Beach et une balade à vélo jusqu'au point le plus au sud des États-Unis."
+          "text": "Coucher du soleil depuis la jetée et dîner. Sans sortie en mer : Smathers Beach et une balade à vélo jusqu'au point le plus au sud des États-Unis (une borne en béton peinte, où l'on fait souvent la queue pour la photo : simple coup d'œil en passant)."
         }
       ],
       "stops": [
@@ -624,7 +621,7 @@
           "items": [
             "Peu de route, sauf la journée des Everglades (environ 4 h en tout), et un seul vol direct à l'aller.",
             "Les plus belles plages du sud de la Floride accessibles sans longue route : Anne's Beach, Bahia Honda et Fort Zachary Taylor.",
-            "Les sites les plus spectaculaires du sud de la Floride sont sur le trajet : la villa Vizcaya, les Everglades, de Shark Valley à Flamingo, le récif de John Pennekamp et le Christ des Abysses, le Seven Mile Bridge, le récif de Looe Key et Fort Jefferson aux Dry Tortugas.",
+            "Les sites les plus spectaculaires du sud de la Floride sont sur le trajet : la villa Vizcaya, les Everglades, de Shark Valley à Flamingo, le récif de John Pennekamp, le Seven Mile Bridge, le récif de Looe Key et Fort Jefferson aux Dry Tortugas.",
             "Des hôtels de taille humaine : Islamorada et la vieille ville de Key West, loin des tours de Miami Beach.",
             "La mer la plus chaude de Floride en janvier, autour de 22 à 23 °C dans les Keys."
           ]

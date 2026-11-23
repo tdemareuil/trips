@@ -125,7 +125,11 @@
           "name": "Pico do Papagaio",
           "wiki": "Pico do Papagaio",
           "photo": "File:Pico do Papagaio - Ilha Grande - RJ.jpg",
-          "culture": "Sommet de 982 m dont la forme rappelle un bec de perroquet, d'où son nom. Le sentier traverse la forêt atlantique et offre une vue sur toute l'île."
+          "culture": "Sommet de 982 m dont la forme rappelle un bec de perroquet, d'où son nom. Le sentier traverse la forêt atlantique et offre une vue sur toute l'île.",
+          "coords": [
+            -23.1631,
+            -44.1922
+          ]
         },
         {
           "name": "Cachoeira da Feiticeira",

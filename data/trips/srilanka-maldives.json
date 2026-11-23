@@ -75,7 +75,11 @@
         },
         {
           "name": "Marché flottant",
-          "culture": "Marché flottant du lac Beira, à Pettah, dont les vendeurs proposent leurs produits depuis des bateaux."
+          "culture": "Marché flottant du lac Beira, à Pettah, dont les vendeurs proposent leurs produits depuis des bateaux.",
+          "coords": [
+            6.8768,
+            81.0608
+          ]
         }
       ],
       "stay": {
@@ -122,7 +126,11 @@
         },
         {
           "name": "Marché local de Dambulla",
-          "culture": "Dambulla abrite l'un des plus grands marchés de gros de fruits et légumes du pays."
+          "culture": "Dambulla abrite l'un des plus grands marchés de gros de fruits et légumes du pays.",
+          "coords": [
+            6.8768,
+            81.0608
+          ]
         },
         {
           "name": "Temple d'or de Dambulla",
@@ -357,8 +365,12 @@
         },
         {
           "name": "Pont aux Neuf Arches",
-          "wiki": "Nine Arches Bridge",
-          "culture": "Viaduc ferroviaire de neuf arches construit vers 1921, à l'époque britannique, en pierre, en brique et en ciment. Les voyageurs viennent y voir passer le train."
+          "culture": "Viaduc ferroviaire de neuf arches construit vers 1921, à l'époque britannique, en pierre, en brique et en ciment. Les voyageurs viennent y voir passer le train.",
+          "coords": [
+            6.8768,
+            81.0608
+          ],
+          "photo": "File:Nine Arches Bridge in Ella.jpg"
         },
         {
           "name": "Chutes de Ravana",
