@@ -770,20 +770,8 @@
     {
       "id": "avis",
       "title": "Notre avis, vols et décalage horaire",
-      "summary": "Pourquoi cet itinéraire, les vols vérifiés dans Navan, le décalage horaire, et ce qu'on a écarté.",
+      "summary": "La météo, le soleil et la lune, les vols vérifiés dans Navan, le décalage horaire, et ce qu'on a écarté.",
       "blocks": [
-        {
-          "type": "heading",
-          "text": "Pourquoi cet itinéraire"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Tous les sites les plus spectaculaires du sud de la péninsule en une semaine, à un rythme soutenu : l'arche de Cabo San Lucas, le récif de Cabo Pulmo, Espíritu Santo et ses otaries, Balandra, Todos Santos, puis la baie de Concepción, la plus belle côte de la péninsule, et la mission de San Javier.",
-            "Des bases à taille humaine, loin des resorts : un village de pêcheurs à Cabo Pulmo, un hôtel boutique à La Paz, un petit hôtel dans le centre de Loreto.",
-            "Le prix : beaucoup de route (environ 20 h en tout, dont une journée de 5 h entre La Paz et Loreto), et un retour avec une escale au lieu d'un vol direct. La variante plus calme ci-dessous reste dans le sud."
-          ]
-        },
         {
           "type": "heading",
           "text": "Météo de fin janvier (ordres de grandeur, non vérifiés)"
