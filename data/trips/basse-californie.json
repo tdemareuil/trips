@@ -1,11 +1,11 @@
 {
   "id": "basse-californie",
-  "title": "Basse-Californie du Sud, de Los Cabos à Loreto",
+  "title": "Basse-Californie du Sud",
   "subtitle": "Sept nuits de Los Cabos à Loreto : arche de Cabo San Lucas, récif de Cabo Pulmo, Espíritu Santo et ses otaries, Balandra, Todos Santos, baie de Concepción et mission de San Javier",
   "travelers": [
     "En couple"
   ],
-  "cover": "File:Playa Balandra, Baja California Sur 5.jpg",
+  "cover": "File:Playa el Requeson (^161 explore 05-24-2022) - Flickr - Kirt Edblom.jpg",
   "days": [
     {
       "n": 1,
@@ -65,7 +65,7 @@
         "Grossesse : le Mexique reste classé « à risque » pour le Zika, mais la circulation est quasi nulle (4 cas dans tout le pays en 2025, aucun en Basse-Californie du Sud, dernière transmission locale en 2017). En janvier, le climat sec et frais limite les moustiques et la dengue (21 cas dans tout l'État sur les 14 premières semaines de 2025). Répulsif adapté à la grossesse, préservatifs pour le partenaire pendant toute la grossesse, et en parler au médecin avant de réserver."
       ],
       "food": [
-        "Dîner à Flora's Field Kitchen, à Flora Farms (15 min du centre) : le grand restaurant de ferme de la région, cité par le guide Michelin, au milieu des champs d'une ferme bio. Réserver, et faire confirmer l'ouverture du lundi soir par téléphone : les sources se contredisent. Sinon, tacos dans le centre de San José. Grossesse : rien de cru (poisson, fruits de mer), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+        "Dîner de tacos dans le centre de San José del Cabo, dans une taquería fréquentée par les gens du coin, par exemple Las Guacamayas (à vérifier). Grossesse : rien de cru (poisson, fruits de mer), pas de fromage au lait cru, viande bien cuite, eau en bouteille. Alternative : Flora's Field Kitchen, à Flora Farms (15 min du centre), restaurant au milieu des champs d'une ferme bio, cité par le guide Michelin. Avertissement : adresse chère et à la mode, très fréquentée par une clientèle américaine ; la cuisine est réputée, mais on paie aussi le lieu. Réserver, et faire confirmer l'ouverture du lundi soir : les sources se contredisent."
       ]
     },
     {
@@ -382,7 +382,7 @@
         },
         {
           "label": "Midi",
-          "text": "Route vers Todos Santos et déjeuner de produits de la ferme, chez Hierbabuena ou Jazamango."
+          "text": "Route vers Todos Santos et déjeuner simple dans une fonda ou une taquería du centre."
         },
         {
           "label": "Après-midi",
@@ -473,7 +473,7 @@
         }
       ],
       "food": [
-        "Petit-déjeuner possible au marché municipal Madero de La Paz (jus frais, tacos de machaca). Déjeuner chez Jazamango, cuisine de la ferme et de la mer du chef Javier Plascencia, ou chez Hierbabuena, sous les arbres d'un potager à Pescadero. Acheter fruits et légumes dans une ferme de Pescadero. Dîner de poisson à Todos Santos. Grossesse : rien de cru (poisson, fruits de mer), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+        "Petit-déjeuner possible au marché municipal Madero de La Paz (jus frais, tacos de machaca). Déjeuner dans une fonda ou une taquería du centre de Todos Santos, en choisissant celles pleines de clients mexicains plutôt que les adresses de la rue principale. Acheter fruits et légumes directement dans une ferme de Pescadero, et dîner de poisson dans un restaurant simple de Pescadero. Grossesse : rien de cru (poisson, fruits de mer), pas de fromage au lait cru, viande bien cuite, eau en bouteille. Alternatives : Jazamango, à Todos Santos, cuisine de la ferme et de la mer du chef Javier Plascencia, ou Hierbabuena, sous les arbres d'un potager à Pescadero. Avertissement : adresse chère et à la mode, très fréquentée par une clientèle américaine ; la cuisine est réputée, mais on paie aussi le lieu."
       ],
       "ideas": [
         {
@@ -969,8 +969,8 @@
           "rows": [
             [
               "1",
-              "Flora's Field Kitchen, San José del Cabo",
-              "Restaurant de ferme cité par le guide Michelin. Réserver, ouverture du lundi soir à confirmer."
+              "Taquerías du centre de San José del Cabo",
+              "Tacos de poisson et de machaca, par exemple Las Guacamayas (à vérifier)."
             ],
             [
               "2",
@@ -984,8 +984,8 @@
             ],
             [
               "5",
-              "Marché Madero (La Paz), Jazamango ou Hierbabuena, ferme de Pescadero",
-              "Petit-déjeuner au marché, déjeuner de la ferme et de la mer, fruits de la ferme."
+              "Marché Madero (La Paz), fondas de Todos Santos, ferme de Pescadero",
+              "Petit-déjeuner au marché, déjeuner simple, fruits achetés à la ferme."
             ],
             [
               "6 à 8",
@@ -996,12 +996,17 @@
               "7",
               "Palapas de la baie de Concepción, Mulegé",
               "Poisson grillé, dattes de l'oasis."
+            ],
+            [
+              "1 ou 5 (alternative)",
+              "Flora's Field Kitchen (San José del Cabo), Jazamango (Todos Santos), Hierbabuena (Pescadero)",
+              "Cuisine de la ferme réputée. Avertissement : adresse chère et à la mode, très fréquentée par une clientèle américaine ; la cuisine est réputée, mais on paie aussi le lieu."
             ]
           ]
         },
         {
           "type": "text",
-          "text": "Ces adresses n'ont pas toutes été vérifiées pour janvier 2027 : contrôler les horaires et réserver les restaurants du soir."
+          "text": "Le programme privilégie les taquerías, les fondas et les marchés, pleins de clients mexicains. Flora's Field Kitchen, Jazamango et Hierbabuena sont mentionnés en alternative, avec un avertissement : très connus et réputés, mais chers et pensés pour une clientèle américaine. Ces adresses n'ont pas toutes été vérifiées pour janvier 2027 : contrôler les horaires."
         }
       ]
     }
