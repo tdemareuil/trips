@@ -608,12 +608,12 @@
     },
     {
       "id": "sante-grossesse",
-      "title": "Santé et grossesse : les risques et les autres îles",
-      "summary": "Zika, dengue, paludisme, soins : ce que cela implique pour une grossesse, et quelles îles des Caraïbes ont le meilleur équilibre. Point fait en novembre 2026.",
+      "title": "Santé et grossesse : les risques",
+      "summary": "Zika, dengue, paludisme, Oropouche, soins et fatigue du voyage : les risques pour une grossesse, en République dominicaine et dans les autres îles des Caraïbes. Point fait en novembre 2026.",
       "blocks": [
         {
           "type": "text",
-          "text": "Point fait en novembre 2026 à partir des sources officielles (CDC, Institut Pasteur, France Diplomatie, TravelHealthPro) et des données de surveillance. Ce n'est pas un avis médical : la décision se prend avec l'obstétricien ou la sage-femme, ce comparatif en main."
+          "text": "Point fait en novembre 2026 à partir des sources officielles (CDC, Institut Pasteur, France Diplomatie, TravelHealthPro) et des données de surveillance. Ce guide ne liste que les risques. Ce n'est pas un avis médical : la décision se prend avec l'obstétricien ou la sage-femme."
         },
         {
           "type": "heading",
@@ -624,13 +624,13 @@
           "columns": [
             "Risque",
             "Situation",
-            "Ce que ça implique"
+            "Pour une grossesse"
           ],
           "rows": [
             [
               "Zika",
               "Le pays reste dans le groupe à risque de la liste britannique TravelHealthPro (mise à jour le 4 novembre 2026). Pas d'épidémie en cours selon la dernière classification du CDC (2024), et aucune alerte Zika du CDC aujourd'hui.",
-              "Le CDC demande d'en parler au médecin avant de partir et d'éviter les piqûres. Le partenaire doit utiliser des préservatifs, ou s'abstenir, pendant tout le reste de la grossesse."
+              "Une infection pendant la grossesse peut provoquer des malformations du fœtus. Le virus se transmet aussi par voie sexuelle."
             ],
             [
               "Dengue",
@@ -640,17 +640,17 @@
             [
               "Paludisme",
               "Les sources se contredisent. Le CDC cite les provinces d'Azua, Elías Piña, La Altagracia, San Juan et Santo Domingo (zones d'hôtels comprises) et y recommande un traitement préventif. Pasteur ne recommande pas de traitement pour un voyage classique. France Diplomatie dit qu'il n'y a aucun risque dans la ville de Saint-Domingue.",
-              "La route des jours 2 et 4 traverse Azua. Pendant la grossesse, les traitements préventifs possibles sont limités (la doxycycline est contre-indiquée) : à décider avec le médecin."
+              "La route des jours 2 et 4 traverse Azua. Le paludisme est plus grave pendant la grossesse, et les traitements préventifs possibles sont limités (la doxycycline est contre-indiquée)."
             ],
             [
               "Oropouche et chikungunya",
               "France Diplomatie demande aux femmes enceintes de consulter avant le départ, car l'Oropouche se transmettrait au fœtus. Pas de chiffre récent trouvé pour le pays ; le foyer régional est Cuba.",
-              "Le vaccin chikungunya n'est pas recommandé pendant la grossesse."
+              "L'Oropouche se transmettrait au fœtus. Le vaccin chikungunya n'est pas recommandé pendant la grossesse."
             ],
             [
               "Soins",
               "La plupart des hôpitaux publics ne peuvent pas prendre en charge une urgence. Le privé exige une avance ou une preuve d'assurance. Aucune convention de sécurité sociale avec la France.",
-              "Barahona et Cabo Rojo sont à 3 à 6 h des cliniques de Saint-Domingue. Il faut une assurance qui couvre les complications de grossesse et le rapatriement."
+              "Barahona et Cabo Rojo sont à 3 à 6 h des cliniques de Saint-Domingue : en cas de complication, la prise en charge serait lointaine et coûteuse."
             ],
             [
               "Le voyage lui-même",
@@ -665,7 +665,7 @@
         },
         {
           "type": "heading",
-          "text": "Comparaison des îles des Caraïbes"
+          "text": "Les risques dans les autres îles des Caraïbes"
         },
         {
           "type": "text",
@@ -678,9 +678,7 @@
             "Zika",
             "Dengue en 2026",
             "Paludisme",
-            "Soins",
-            "Vers San Francisco",
-            "Pour nous"
+            "Soins"
           ],
           "rows": [
             [
@@ -688,100 +686,57 @@
               "Groupe à risque",
               "Recrudescence à Saint-Domingue et Barahona",
               "Zones à risque selon le CDC",
-              "Faibles hors du privé de Saint-Domingue",
-              "Facile (nombreux vols vers les États-Unis)",
-              "Le plus beau programme, mais le plus de risques"
+              "Faibles hors du privé de Saint-Domingue"
             ],
             [
               "Curaçao",
               "Risque très faible",
               "Cas isolés (Aruba, Bonaire et Curaçao jusqu'à la semaine 31)",
               "Aucun",
-              "Hôpital moderne",
-              "Via Miami ou une autre grande ville américaine ; depuis Paris via Amsterdam (KLM)",
-              "Île sèche, centre historique de Willemstad classé à l'UNESCO, plages et snorkeling avec les tortues, parc Christoffel, peu de route"
+              "Hôpital moderne"
             ],
             [
               "Îles Caïmans",
               "Risque très faible",
               "Aucun cas en 2026 selon la santé publique locale",
               "Aucun",
-              "Bons hôpitaux privés",
-              "Miami à environ 1 h",
-              "Plages et fonds marins superbes, lutte anti-moustiques très active, mais île plate, chère et assez balnéaire"
+              "Bons hôpitaux privés"
             ],
             [
               "Îles Vierges américaines (St John)",
               "Risque très faible",
               "Épidémie en 2024 et 2025 (263 cas, un décès) ; pas de chiffre 2026",
               "Aucun",
-              "Normes américaines, structures petites",
-              "Vols directs vers plusieurs grandes villes américaines",
-              "La plus belle nature des trois (parc national sur environ 60 % de l'île), mais la dengue récente est à vérifier"
+              "Normes américaines, structures petites"
             ],
             [
               "Bonaire",
               "Groupe à risque",
               "Cas isolés",
               "Aucun",
-              "Petite structure",
-              "Via Amsterdam ou les États-Unis",
-              "Le meilleur snorkeling depuis la plage, île sèche et calme"
+              "Petite structure"
             ],
             [
               "Aruba",
               "Groupe à risque",
               "Environ 15 cas, faible et stable",
               "Aucun",
-              "Correcte",
-              "Nombreux vols vers les États-Unis",
-              "Île sèche, mais très touristique"
+              "Correcte"
             ],
             [
               "Guadeloupe, Martinique",
               "Risque très faible",
               "Cas isolés en Guadeloupe, foyers en Martinique (septembre 2026)",
               "Aucun",
-              "Système français, carte Vitale",
-              "Via Miami",
-              "Écartées : îles françaises"
+              "Système français, carte Vitale"
             ],
             [
               "Porto Rico, Cuba",
               "Groupe à risque",
               "Porto Rico : environ 970 cas ; Cuba : dengue, chikungunya et Oropouche",
               "Aucun",
-              "Variable",
-              "—",
-              "À éviter"
+              "Variable"
             ]
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Notre classement hors îles françaises"
-        },
-        {
-          "type": "list",
-          "items": [
-            "1. Curaçao : le meilleur équilibre. Risque Zika très faible, dengue sporadique, île sèche avec moins de moustiques, pas de paludisme, un hôpital moderne, et un programme qui mêle architecture (Willemstad), nature et snorkeling, avec peu de route.",
-            "2. Grand Cayman : les risques les plus bas (aucune dengue en 2026, Zika très faible) et le trajet le plus simple vers San Francisco, mais moins de charme et de nature, et des prix élevés.",
-            "3. St John (îles Vierges américaines) : la plus belle nature, mais l'épidémie de dengue de 2024-2025 impose de vérifier la situation de 2026 avant de réserver."
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Précautions, quelle que soit l'île"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Consultation avant le départ avec l'obstétricien ou un centre de vaccinations internationales.",
-            "Répulsif adapté à la grossesse (à faire conseiller par le pharmacien), vêtements longs et clairs le soir, chambres climatisées ou moustiquaire.",
-            "Dans une zone à risque Zika : préservatifs ou abstinence pendant tout le reste de la grossesse, selon le CDC.",
-            "Toute fièvre pendant le séjour ou dans les 3 mois qui suivent le retour impose de consulter sans délai (Institut Pasteur).",
-            "Assurance qui couvre les complications de grossesse et le rapatriement.",
-            "Bas de contention, marche et hydratation pendant les vols ; eau en bouteille, aliments cuits, pas de poisson cru ni de lait cru."
           ]
         },
         {

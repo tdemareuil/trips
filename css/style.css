@@ -70,6 +70,23 @@ button:disabled { cursor: default; }
 .trip-card .when { margin-top: 10px; font-size: 12.5px; font-weight: 600; opacity: 0.85; }
 .home-section { margin: 64px 0 0; font: 700 clamp(26px, 3vw, 34px) var(--display); }
 .home-section + .cards { margin-top: 24px; }
+/* Table of contents on the home page: one dropdown per season, trips grouped by length. */
+.toc { margin: 8px 0 0; padding: 18px 20px; border-radius: 20px; background: var(--card); border: 1px solid var(--line); max-width: 720px; }
+.toc-title { margin: 0 0 8px; font-size: 13px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; opacity: 0.6; }
+.toc-group { border-top: 1px solid var(--line); }
+.toc-group:first-of-type { border-top: 0; }
+.toc-group summary { display: flex; align-items: center; gap: 10px; padding: 10px 0; cursor: pointer; list-style: none; font: 700 18px var(--display); }
+.toc-group summary::-webkit-details-marker { display: none; }
+.toc-group summary::after { content: '▾'; margin-left: auto; font-size: 14px; opacity: 0.5; transition: transform 0.2s; }
+.toc-group[open] summary::after { transform: rotate(180deg); }
+.toc-count { padding: 1px 8px; border-radius: 999px; background: rgba(27, 33, 48, 0.08); font: 700 12px var(--body); }
+.toc-sub { margin: 4px 0 2px; font-size: 11px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.toc ul { margin: 0 0 10px; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 6px; }
+.toc ul button { padding: 5px 12px; border-radius: 999px; border: 1px solid var(--line); background: #fff; font-size: 14px; }
+.toc ul button:hover { border-color: var(--ink); }
+.trip-card { scroll-margin: calc(var(--top) + 20px); }
+.trip-card.flash { animation: card-flash 1.6s ease-out; }
+@keyframes card-flash { 0%, 30% { box-shadow: 0 0 0 4px var(--accent), 0 12px 40px rgba(27, 33, 48, 0.14); } 100% { box-shadow: 0 12px 40px rgba(27, 33, 48, 0.14); } }
 .home-sub { margin: 28px 0 0; font-size: 13px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; opacity: 0.6; }
 .home-sub + .cards, .home-section + .home-sub + .cards { margin-top: 16px; }
 .trip-card h2 { margin: 0 0 6px; font: 700 34px var(--display); }

@@ -261,7 +261,7 @@ function mountHome() {
   const card = id => {
     const t = data.trips[id];
     const bg = t.coverImg ? `style="--img:url('${thumb(t.coverImg.url, 1280)}')${t.coverImg.pos ? `;--pos:${esc(t.coverImg.pos)}` : ''}"` : '';
-    return `<a class="trip-card" href="${tripHref(t)}" ${bg}>
+    return `<a class="trip-card" id="card-${esc(t.id)}" href="${tripHref(t)}" ${bg}>
       <span class="meta">${isLocked(t) ? LOCK_ICON : ''}${t.days.length ? `${t.days.length} jours` : 'Guide'}${t.done ? ' · Réalisé' : ''}</span>
       <h2>${esc(t.title)}</h2>
       <p>${esc(t.subtitle)}</p>
@@ -275,10 +275,18 @@ function mountHome() {
   const seasons = [...known, ...new Set(trips.map(t => t.season).filter(se => se && !known.includes(se)))]
     .filter(se => trips.some(t => t.season === se));
   const unseasoned = trips.filter(t => !t.season);
+  const tocLinks = list => list.map(t => `<li><button type="button" data-card="${esc(t.id)}">${esc(t.title)}</button></li>`).join('');
+  const tocSub = (title, list) => list.length ? `<p class="toc-sub">${title}</p><ul>${tocLinks(list)}</ul>` : '';
+  const tocGroup = (title, list) => `<details class="toc-group"><summary>${esc(title)}<span class="toc-count">${list.length}</span></summary>
+      ${tocSub('Voyages longs', list.filter(t => t.kind !== 'short'))}${tocSub('Voyages courts', list.filter(t => t.kind === 'short'))}</details>`;
+  const toc = `<nav class="toc" aria-label="Sommaire"><p class="toc-title">Sommaire</p>
+    ${unseasoned.length ? tocGroup('Autres voyages', unseasoned) : ''}
+    ${seasons.map(se => tocGroup(se, trips.filter(t => t.season === se))).join('')}</nav>`;
   app.innerHTML = `<section class="home">
     <p class="eyebrow">Nos voyages</p>
     <h1 class="title big">Où va-t-on ensuite ?</h1>
     <p class="lead">Itinéraires jour par jour, cartes et photos.</p>
+    ${toc}
     ${unseasoned.length ? `<div class="cards">${unseasoned.map(t => card(t.id)).join('')}</div>` : ''}
     ${seasons.map(se => {
       const list = trips.filter(t => t.season === se);
@@ -287,7 +295,23 @@ function mountHome() {
         + group('Voyages courts', list.filter(t => t.kind === 'short'));
     }).join('')}
   </section>`;
-  return { kind: 'home', destroy() {} };
+  const onToc = e => {
+    const btn = e.target.closest('.toc [data-card]');
+    if (!btn) return;
+    const card = document.getElementById(`card-${btn.dataset.card}`);
+    if (!card) return;
+    card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    // Fallback: some browsers skip the smooth animation (background tabs, reduced motion).
+    setTimeout(() => {
+      const r = card.getBoundingClientRect();
+      if (r.bottom < 0 || r.top > innerHeight) card.scrollIntoView({ block: 'center' });
+    }, 900);
+    card.classList.remove('flash');
+    void card.offsetWidth;
+    card.classList.add('flash');
+  };
+  app.addEventListener('click', onToc);
+  return { kind: 'home', destroy() { app.removeEventListener('click', onToc); } };
 }
 
 // --- Lock screen -----------------------------------------------------------
