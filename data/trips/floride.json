@@ -515,17 +515,17 @@
     },
     {
       "n": 6,
-      "title": "Dry Tortugas, ou le récif de Looe Key",
-      "summary": "Journée au large : en hydravion jusqu'à Fort Jefferson aux Dry Tortugas, ou en bateau jusqu'au récif de Looe Key, le plus beau des Keys pour le snorkeling.",
+      "title": "Snorkeling au récif de Looe Key, ou les Dry Tortugas en ferry",
+      "summary": "Journée en mer : snorkeling au récif de Looe Key, le plus beau des Keys, ou, en option, la journée en ferry jusqu'à Fort Jefferson aux Dry Tortugas.",
       "route": "drive",
       "parts": [
         {
           "label": "Option A",
-          "text": "Hydravion jusqu'aux Dry Tortugas (environ 40 min de vol au-dessus des bancs de sable et des épaves) : Fort Jefferson, immense fort de brique hexagonal au milieu de la mer, plage de sable blanc et snorkeling le long des douves. Demi-journée, retour à Key West en début d'après-midi. Environ 507 $ par adulte, plus 15 $ d'entrée au parc : cher, mais pas une arnaque, le site est exceptionnel. Le ferry Yankee Freedom coûte environ 235 à 260 $, mais prend la journée entière, avec environ 2 h 15 de traversée souvent agitée en janvier dans chaque sens."
+          "text": "Récif de Looe Key, au large de Big Pine Key : sortie snorkeling de 4 h avec Captain Hook's (à partir d'environ 54 $, gilet fourni), deux sites de récif avec coraux, raies et poissons-perroquets. Puis une heure à Bahia Honda sur le chemin du retour."
         },
         {
           "label": "Option B",
-          "text": "Récif de Looe Key, au large de Big Pine Key : sortie snorkeling de 4 h avec Captain Hook's (à partir d'environ 54 $, gilet fourni), deux sites de récif avec coraux, raies et poissons-perroquets. Puis une heure à Bahia Honda sur le chemin du retour."
+          "text": "Ferry Yankee Freedom jusqu'aux Dry Tortugas, journée entière (départ vers 8 h, environ 2 h 15 de traversée en pleine mer dans chaque sens) : Fort Jefferson, immense fort de brique hexagonal au milieu de la mer, plage de sable blanc et snorkeling le long des douves (matériel prêté). Environ 235 à 260 $ par adulte, entrée au parc comprise : cher, mais pas une arnaque, le site est exceptionnel. En janvier, les coups de vent du nord rendent souvent la traversée agitée : peu conseillé pendant la grossesse si l'on est sujet au mal de mer. Places limitées, à réserver longtemps à l'avance."
         },
         {
           "label": "Soir",
@@ -534,31 +534,12 @@
       ],
       "stops": [
         {
-          "name": "Aéroport de Key West (EYW)",
+          "name": "Marina de Big Pine Key",
           "coords": [
-            24.5561,
-            -81.7596
+            24.6687,
+            -81.3534
           ],
           "hidden": true
-        },
-        {
-          "name": "Dry Tortugas et Fort Jefferson",
-          "wiki": "Dry Tortugas National Park",
-          "coords": [
-            24.6285,
-            -82.8732
-          ],
-          "culture": "Archipel à 110 km à l'ouest de Key West, accessible seulement en bateau ou en hydravion, autour d'un fort de 16 millions de briques jamais achevé.",
-          "by": "flight"
-        },
-        {
-          "name": "Aéroport de Key West (EYW) (retour)",
-          "coords": [
-            24.5561,
-            -81.7596
-          ],
-          "hidden": true,
-          "by": "flight"
         },
         {
           "name": "Récif de Looe Key",
@@ -568,6 +549,25 @@
             -81.4064
           ],
           "culture": "Sanctuaire marin des Keys : un récif en éperons et sillons, considéré comme le plus beau site de snorkeling de l'archipel.",
+          "by": "boat"
+        },
+        {
+          "name": "Marina de Big Pine Key (retour)",
+          "coords": [
+            24.6687,
+            -81.3534
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
+        {
+          "name": "Dry Tortugas et Fort Jefferson",
+          "wiki": "Dry Tortugas National Park",
+          "coords": [
+            24.6285,
+            -82.8732
+          ],
+          "culture": "Archipel à 110 km à l'ouest de Key West, accessible seulement en bateau ou en hydravion, autour d'un fort de 16 millions de briques jamais achevé.",
           "optional": true
         },
         {
@@ -591,13 +591,13 @@
       },
       "transport": [
         {
-          "mode": "flight",
-          "text": "Option A : hydravion Key West → Dry Tortugas, environ 40 min (le ferry met environ 2 h 15 en mer ouverte)",
+          "mode": "car",
+          "text": "Option A : Key West → Big Pine Key, environ 45 min, puis 30 min de bateau jusqu'au récif",
           "after": -1
         },
         {
-          "mode": "car",
-          "text": "Option B : Key West → Big Pine Key, environ 45 min, puis 30 min de bateau jusqu'au récif",
+          "mode": "boat",
+          "text": "Option B : ferry Key West → Dry Tortugas, environ 2 h 15 dans chaque sens",
           "after": 0
         }
       ],

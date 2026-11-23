@@ -415,28 +415,28 @@
       "n": 5,
       "weekday": "Dimanche",
       "title": "De Joshua Tree à Santa Barbara, par Ojai",
-      "summary": "Deux façons de rejoindre la côte : par Ojai, sans traverser Los Angeles, avec les phoques de Carpinteria et la mission de Santa Barbara ; ou par la côte de Malibu, plus spectaculaire, mais plus longue.",
+      "summary": "Deux façons de rejoindre la côte, pour à peu près la même durée de route (environ 5 h) : par Ojai, sans traverser Los Angeles, avec les phoques de Carpinteria ; ou par la côte de Malibu, plus spectaculaire, mais par Los Angeles. Dans les deux cas, la mission de Santa Barbara en fin d'après-midi.",
       "route": "drive",
       "parts": [
         {
           "label": "Option A · par Ojai",
-          "text": "Départ vers 8 h, par l'I-10 et l'I-210 au pied des montagnes de San Gabriel (peu de circulation le dimanche matin), puis la CA-126 à travers les vergers d'orangers de la vallée de la Santa Clara jusqu'à Ojai (environ 3 h 45)."
+          "text": "Départ vers 8 h, par l'I-10 et l'I-210 au pied des montagnes de San Gabriel (peu de circulation le dimanche matin), puis la CA-126 à travers les vergers d'orangers de la vallée de la Santa Clara jusqu'à Ojai (environ 4 h 15)."
         },
         {
           "label": "Option A · midi",
-          "text": "Ojai : petite ville au fond d'une vallée fermée par les montagnes, avec les arcades de style espagnol d'Ojai Avenue (1917) et Bart's Books, une librairie en plein air ouverte en 1964. Déjeuner et balade jusqu'à 13 h 45."
+          "text": "Ojai : petite ville au fond d'une vallée fermée par les montagnes, avec les arcades de style espagnol d'Ojai Avenue (1917) et Bart's Books, une librairie en plein air ouverte en 1964. Déjeuner et balade jusqu'à 14 h."
         },
         {
           "label": "Option A · après-midi",
-          "text": "La CA-150 par le lac Casitas jusqu'à Carpinteria (environ 35 min) : colonie de phoques communs, à regarder depuis la falaise (plage fermée de décembre à mai pour la mise bas ; des bénévoles y installent souvent des longues-vues). Puis Santa Barbara vers 15 h 15 : la mission, la tour du palais de justice avant 16 h 30 (vue gratuite sur la ville), et la Funk Zone."
+          "text": "La CA-150 par le lac Casitas jusqu'à Carpinteria (environ 35 min) : colonie de phoques communs, à regarder depuis la falaise (plage fermée de décembre à mai pour la mise bas ; des bénévoles y installent souvent des longues-vues). Puis Santa Barbara vers 15 h 30 : la mission (vérifier l'heure de la dernière entrée), la tour du palais de justice avant 16 h 30 (vue gratuite sur la ville), et la Funk Zone."
         },
         {
           "label": "Option B · par Malibu",
-          "text": "Départ vers 8 h, l'I-10 jusqu'à Santa Monica (environ 2 h 30, par Los Angeles, mais peu de circulation le dimanche matin), puis la Pacific Coast Highway le long de Malibu : le promontoire de Point Dume (court sentier au-dessus de la mer, phoques et parfois baleines grises en janvier) et El Matador State Beach, ses aiguilles de roche dans les vagues (escalier raide, à marée basse). Déjeuner de poisson cuit dans une cabane de bord de route."
+          "text": "Départ vers 8 h, l'I-10 à travers Los Angeles jusqu'à Santa Monica (peu de circulation le dimanche matin), environ 3 h 30 jusqu'à Point Dume, puis la Pacific Coast Highway le long de Malibu : le promontoire de Point Dume (court sentier au-dessus de la mer, phoques et parfois baleines grises en janvier) et El Matador State Beach, ses aiguilles de roche dans les vagues (escalier raide, à marée basse). Déjeuner de poisson cuit dans une cabane de bord de route."
         },
         {
           "label": "Option B · après-midi",
-          "text": "La US-101 jusqu'à Santa Barbara (environ 1 h 15), arrivée vers 16 h : trop tard pour la mission, mais la Funk Zone et Stearns Wharf. Environ 45 min de route de plus que l'option A, et la côte se voit aussi à Santa Monica et le lendemain à Big Sur."
+          "text": "La US-101 jusqu'à Santa Barbara (environ 1 h 20), arrivée vers 15 h : la mission (vérifier l'heure de la dernière entrée), la tour du palais de justice avant 16 h 30 et la Funk Zone. Moins d'arrêts que l'option A, mais la plus belle côte de la journée ; la côte se voit aussi à Santa Monica et le lendemain à Big Sur."
         },
         {
           "label": "Soir",
@@ -535,17 +535,17 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Joshua Tree → Ojai : environ 3 h 45, par l'I-10, l'I-210 et la CA-126",
+          "text": "Joshua Tree → Ojai : environ 4 h 15, par l'I-10, l'I-210 et la CA-126",
           "after": -1
         },
         {
           "mode": "car",
-          "text": "Ojai → Carpinteria → Santa Barbara : environ 55 min, par la CA-150",
+          "text": "Ojai → Carpinteria → Santa Barbara : environ 1 h, par la CA-150",
           "after": 1
         },
         {
           "mode": "car",
-          "text": "Joshua Tree → Malibu : environ 2 h 45, puis Malibu → Santa Barbara : environ 1 h 15",
+          "text": "Joshua Tree → Point Dume : environ 3 h 30, puis Malibu → Santa Barbara : environ 1 h 20",
           "after": 2
         }
       ],
@@ -1276,7 +1276,7 @@
           "type": "list",
           "items": [
             "On arrive à Miami le mercredi soir au lieu de Los Angeles, et on rejoint San Francisco en avion le lundi, à la place de la route de la côte. La suite du voyage, à partir du mardi à San Francisco, ne change pas.",
-            "On garde le meilleur du voyage Floride : la villa Vizcaya, les Everglades de Shark Valley à Flamingo, la route des Keys avec le Seven Mile Bridge et Bahia Honda, et Key West ; les Dry Tortugas en option, car elles coûtent cher.",
+            "On garde le meilleur du voyage Floride : la villa Vizcaya, les Everglades de Shark Valley à Flamingo, la route des Keys avec le Seven Mile Bridge et Bahia Honda, le snorkeling à Looe Key et Key West ; les Dry Tortugas en ferry en option.",
             "On retire une journée par rapport à ce voyage : il ne reste qu'une journée entière à Key West.",
             "Ce qu'on perd côté Californie : Los Angeles, Palm Springs, Joshua Tree, Ojai, Santa Barbara, Bixby Bridge et les loutres de Moss Landing.",
             "Ce qu'on gagne : la mer chaude (environ 22 à 24 °C dans les Keys), des plages où l'on se baigne, les alligators et les lamantins des Everglades, et beaucoup moins de route (environ 9 h en tout, contre environ 17 h de Los Angeles à San Francisco)."
@@ -1386,16 +1386,8 @@
               "night": "Key West",
               "points": [
                 [
-                  24.555,
-                  -81.8
-                ],
-                [
-                  24.5458,
-                  -81.8104
-                ],
-                [
-                  24.552,
-                  -81.772
+                  24.6687,
+                  -81.3534
                 ],
                 [
                   24.555,
@@ -1449,7 +1441,7 @@
             ],
             [
               "Dimanche",
-              "Key West à vélo : la vieille ville en bois peint, Fort Zachary Taylor pour nager, coucher du soleil et dîner face à la mer. En option, les Dry Tortugas (voir plus bas)",
+              "Snorkeling au récif de Looe Key le matin (ou, en option, les Dry Tortugas en ferry toute la journée), puis Key West à vélo, coucher du soleil et dîner face à la mer",
               "Key West"
             ],
             [
@@ -1461,15 +1453,15 @@
         },
         {
           "type": "heading",
-          "text": "Les Dry Tortugas : cher, mais pas une arnaque"
+          "text": "Dimanche : snorkeling à Looe Key, ou les Dry Tortugas en ferry"
         },
         {
           "type": "list",
           "items": [
-            "C'est un parc national, à 110 km de Key West : Fort Jefferson, un immense fort de brique du XIXe siècle au milieu de la mer, une plage de sable blanc et du snorkeling le long des douves. Le site est réellement exceptionnel, et le nombre de visiteurs est limité par le parc.",
-            "Le prix est le problème : l'hydravion coûte environ 507 $ par adulte pour une demi-journée (40 min de vol, environ 2 h 30 sur place), plus 15 $ d'entrée au parc, soit environ 1 040 $ pour deux.",
-            "Le ferry Yankee Freedom coûte environ 235 à 260 $ par adulte, entrée comprise, mais prend la journée entière (départ vers 8 h, environ 2 h 15 de traversée dans chaque sens, en pleine mer). En janvier, les coups de vent du nord rendent souvent la traversée agitée : peu conseillé pendant la grossesse si l'on est sujet au mal de mer.",
-            "Avec une seule journée à Key West, le ferry la prend en entier. Pour un budget plus raisonnable : une sortie snorkeling au récif de Looe Key (environ 54 $ par personne, voir le voyage Floride), ou rien de plus que Key West."
+            "Snorkeling au récif de Looe Key, le plus beau des Keys : sortie de 4 h depuis Big Pine Key (environ 45 min de Key West), à partir d'environ 54 $ par personne, gilet fourni. On rentre en milieu d'après-midi, avec le temps d'une fin de journée à vélo dans Key West.",
+            "En option, les Dry Tortugas en ferry (Yankee Freedom) : un parc national à 110 km de Key West, avec Fort Jefferson, un immense fort de brique du XIXe siècle au milieu de la mer, une plage de sable blanc et du snorkeling le long des douves. Cher, mais pas une arnaque : environ 235 à 260 $ par adulte, entrée comprise.",
+            "Le ferry prend la journée entière (départ vers 8 h, environ 2 h 15 de traversée en pleine mer dans chaque sens) : avec une seule journée à Key West, il ne reste rien pour la ville. En janvier, les coups de vent du nord rendent souvent la traversée agitée, ce qui est peu conseillé pendant la grossesse si l'on est sujet au mal de mer.",
+            "Grossesse : snorkeling en surface avec un gilet, pas de plongée bouteille. Les sorties sont annulées si la mer est forte."
           ]
         },
         {
