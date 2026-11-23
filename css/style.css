@@ -61,7 +61,7 @@ button:disabled { cursor: default; }
 .trip-card {
   position: relative; display: flex; flex-direction: column; justify-content: flex-end;
   min-height: 340px; padding: 24px; border-radius: 24px; overflow: hidden; color: #fff;
-  background: linear-gradient(180deg, rgba(10, 14, 24, 0) 35%, rgba(10, 14, 24, 0.78)), var(--img, #c9d3e0) center / cover;
+  background: linear-gradient(180deg, rgba(10, 14, 24, 0) 35%, rgba(10, 14, 24, 0.78)), var(--img, #c9d3e0) var(--pos, center) / cover;
   box-shadow: 0 12px 40px rgba(27, 33, 48, 0.14);
   transition: transform 0.4s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.4s;
 }

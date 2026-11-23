@@ -927,5 +927,6 @@
   "start": "2027-01-18",
   "done": false,
   "season": "Janvier",
-  "kind": "short"
+  "kind": "short",
+  "coverPosition": "left center"
 }

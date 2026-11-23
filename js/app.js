@@ -54,6 +54,7 @@ function hydrate(trip) {
     return a && a.lat != null ? [a.lon, a.lat] : null;
   };
   trip.coverImg = img(trip.cover);
+  if (trip.coverImg && trip.coverPosition) trip.coverImg = { ...trip.coverImg, pos: trip.coverPosition };
   const start = trip.start ? new Date(`${trip.start}T00:00:00Z`) : null;
   if (start) trip.range = RANGE_DATE.formatRange(start, addDays(start, trip.days.length - 1));
   if (trip.altStart) trip.altLabel = LONG_DATE.format(new Date(`${trip.altStart}T00:00:00Z`));
@@ -259,7 +260,7 @@ const LOCK_ICON = '<svg class="lock-icon" viewBox="0 0 16 16" width="12" height=
 function mountHome() {
   const card = id => {
     const t = data.trips[id];
-    const bg = t.coverImg ? `style="--img:url('${thumb(t.coverImg.url, 1280)}')"` : '';
+    const bg = t.coverImg ? `style="--img:url('${thumb(t.coverImg.url, 1280)}')${t.coverImg.pos ? `;--pos:${esc(t.coverImg.pos)}` : ''}"` : '';
     return `<a class="trip-card" href="${tripHref(t)}" ${bg}>
       <span class="meta">${isLocked(t) ? LOCK_ICON : ''}${t.days.length ? `${t.days.length} jours` : 'Guide'}${t.done ? ' · Réalisé' : ''}</span>
       <h2>${esc(t.title)}</h2>
@@ -412,6 +413,7 @@ function mountStory(trip, start) {
       if (token !== bgToken) return;
       const next = layers[1 - front];
       next.style.backgroundImage = url ? `url("${url}")` : '';
+      next.style.backgroundPosition = img?.pos || '';
       next.classList.add('on');
       layers[front].classList.remove('on');
       front = 1 - front;
