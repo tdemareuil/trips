@@ -414,73 +414,40 @@
     {
       "n": 5,
       "weekday": "Dimanche",
-      "title": "De Joshua Tree à Santa Barbara, par Ojai",
-      "summary": "Deux façons de rejoindre la côte, pour à peu près la même durée de route (environ 5 h) : par Ojai, sans traverser Los Angeles, avec les phoques de Carpinteria ; ou par la côte de Malibu, plus spectaculaire, mais par Los Angeles. Dans les deux cas, la mission de Santa Barbara en fin d'après-midi.",
+      "title": "De Joshua Tree à Santa Barbara",
+      "summary": "Route vers la côte (environ 4 h 15) par l'I-210 au pied des montagnes de San Gabriel, pause à Pasadena, puis fin de journée tranquille à Santa Barbara : mission, tour du palais de justice, Funk Zone et Stearns Wharf. Deux variantes : par Ojai, ou par la côte de Malibu.",
       "route": "drive",
       "parts": [
         {
-          "label": "Option A · par Ojai",
-          "text": "Départ vers 8 h, par l'I-10 et l'I-210 au pied des montagnes de San Gabriel (peu de circulation le dimanche matin), puis la CA-126 à travers les vergers d'orangers de la vallée de la Santa Clara jusqu'à Ojai (environ 4 h 15)."
+          "label": "Matin",
+          "text": "Départ de Joshua Tree vers 9 h 30, par l'I-10 puis l'I-210 au pied des montagnes de San Gabriel, plutôt que par le centre de Los Angeles : pause café à Pasadena, puis la US-101 jusqu'à Santa Barbara (environ 4 h 15 au total)."
         },
         {
-          "label": "Option A · midi",
-          "text": "Ojai : petite ville au fond d'une vallée fermée par les montagnes, avec les arcades de style espagnol d'Ojai Avenue (1917) et Bart's Books, une librairie en plein air ouverte en 1964. Déjeuner et balade jusqu'à 14 h."
-        },
-        {
-          "label": "Option A · après-midi",
-          "text": "La CA-150 par le lac Casitas jusqu'à Carpinteria (environ 35 min) : colonie de phoques communs, à regarder depuis la falaise (plage fermée de décembre à mai pour la mise bas ; des bénévoles y installent souvent des longues-vues). Puis Santa Barbara vers 15 h 30 : la mission (vérifier l'heure de la dernière entrée), la tour du palais de justice avant 16 h 30 (vue gratuite sur la ville), et la Funk Zone."
-        },
-        {
-          "label": "Option B · par Malibu",
-          "text": "Départ vers 8 h, l'I-10 à travers Los Angeles jusqu'à Santa Monica (peu de circulation le dimanche matin), environ 3 h 30 jusqu'à Point Dume, puis la Pacific Coast Highway le long de Malibu : le promontoire de Point Dume (court sentier au-dessus de la mer, phoques et parfois baleines grises en janvier) et El Matador State Beach, ses aiguilles de roche dans les vagues (escalier raide, à marée basse). Déjeuner de poisson cuit dans une cabane de bord de route."
-        },
-        {
-          "label": "Option B · après-midi",
-          "text": "La US-101 jusqu'à Santa Barbara (environ 1 h 20), arrivée vers 15 h : la mission (vérifier l'heure de la dernière entrée), la tour du palais de justice avant 16 h 30 et la Funk Zone. Moins d'arrêts que l'option A, mais la plus belle côte de la journée ; la côte se voit aussi à Santa Monica et le lendemain à Big Sur."
+          "label": "Après-midi",
+          "text": "Arrivée à Santa Barbara vers 14 h 30 : la mission, la tour du palais de justice (vue gratuite sur la ville), la Funk Zone."
         },
         {
           "label": "Soir",
           "text": "Stearns Wharf au coucher du soleil (vers 17 h 20), puis dîner à Santa Barbara."
+        },
+        {
+          "label": "Variante · par Ojai",
+          "text": "Départ vers 8 h, l'I-10 et l'I-210, puis la CA-126 à travers les vergers d'orangers de la vallée de la Santa Clara jusqu'à Ojai (environ 4 h 15) : petite ville au fond d'une vallée fermée par les montagnes, avec les arcades de style espagnol d'Ojai Avenue (1917) et Bart's Books, une librairie en plein air ouverte en 1964. Déjeuner sur place, puis la CA-150 par le lac Casitas jusqu'à Carpinteria : colonie de phoques communs, à regarder depuis la falaise (plage fermée de décembre à mai pour la mise bas ; des bénévoles y installent souvent des longues-vues). Arrivée à Santa Barbara vers 15 h 30."
+        },
+        {
+          "label": "Variante · par Malibu",
+          "text": "Départ vers 8 h, l'I-10 à travers Los Angeles jusqu'à Santa Monica (peu de circulation le dimanche matin), puis la Pacific Coast Highway le long de Malibu, environ 3 h 30 jusqu'à Point Dume : court sentier au-dessus de la mer, phoques et parfois baleines grises en janvier. Puis El Matador State Beach, ses aiguilles de roche dans les vagues (escalier raide, à marée basse), un déjeuner de poisson cuit dans une cabane de bord de route, et la US-101 jusqu'à Santa Barbara (environ 1 h 20), arrivée vers 15 h."
         }
       ],
       "stops": [
         {
-          "name": "Ojai",
-          "wiki": "Ojai, California",
+          "name": "Pasadena",
+          "wiki": "Pasadena, California",
           "coords": [
-            34.448,
-            -119.2429
+            34.1478,
+            -118.1445
           ],
-          "culture": "Petite ville d'une vallée orientée est-ouest : au coucher du soleil, les montagnes Topatopa se teintent de rose, ce que les habitants appellent le « pink moment »."
-        },
-        {
-          "name": "Phoques de Carpinteria",
-          "coords": [
-            34.3883,
-            -119.5155
-          ],
-          "culture": "Une des rares plages de Californie du Sud où les phoques communs mettent bas, au pied des falaises de Carpinteria. La plage est fermée de décembre à mai, et on les regarde depuis le haut de la falaise.",
-          "photo": "File:Carpinteria Harbor Seal Preserve.jpg"
-        },
-        {
-          "name": "Point Dume",
-          "wiki": "Point Dume",
-          "coords": [
-            34.0013,
-            -118.8061
-          ],
-          "optional": true,
-          "culture": "Promontoire rocheux à l'ouest de Malibu, d'où l'on guette les baleines grises qui descendent vers le Mexique en hiver."
-        },
-        {
-          "name": "El Matador State Beach",
-          "wiki": "El Matador State Beach",
-          "coords": [
-            34.0383,
-            -118.8747
-          ],
-          "optional": true,
-          "culture": "Petite plage au pied d'une falaise, avec des arches et des aiguilles de roche dans les vagues."
+          "culture": "Ville au pied des montagnes de San Gabriel, sur l'I-210 : pause café avant de rejoindre la côte."
         },
         {
           "name": "Mission Santa Barbara",
@@ -516,6 +483,46 @@
             -119.685
           ],
           "culture": "Jetée de bois de 1872, la plus ancienne de Californie encore en activité."
+        },
+        {
+          "name": "Ojai",
+          "wiki": "Ojai, California",
+          "coords": [
+            34.448,
+            -119.2429
+          ],
+          "culture": "Petite ville d'une vallée orientée est-ouest : au coucher du soleil, les montagnes Topatopa se teintent de rose, ce que les habitants appellent le « pink moment ».",
+          "optional": true
+        },
+        {
+          "name": "Phoques de Carpinteria",
+          "coords": [
+            34.3883,
+            -119.5155
+          ],
+          "culture": "Une des rares plages de Californie du Sud où les phoques communs mettent bas, au pied des falaises de Carpinteria. La plage est fermée de décembre à mai, et on les regarde depuis le haut de la falaise.",
+          "photo": "File:Carpinteria Harbor Seal Preserve.jpg",
+          "optional": true
+        },
+        {
+          "name": "Point Dume",
+          "wiki": "Point Dume",
+          "coords": [
+            34.0013,
+            -118.8061
+          ],
+          "optional": true,
+          "culture": "Promontoire rocheux à l'ouest de Malibu, d'où l'on guette les baleines grises qui descendent vers le Mexique en hiver."
+        },
+        {
+          "name": "El Matador State Beach",
+          "wiki": "El Matador State Beach",
+          "coords": [
+            34.0383,
+            -118.8747
+          ],
+          "optional": true,
+          "culture": "Petite plage au pied d'une falaise, avec des arches et des aiguilles de roche dans les vagues."
         }
       ],
       "stay": {
@@ -535,18 +542,23 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Joshua Tree → Ojai : environ 4 h 15, par l'I-10, l'I-210 et la CA-126",
-          "after": -1
+          "text": "Joshua Tree → Pasadena : environ 2 h 15 de route, par l'I-10 puis l'I-210",
+          "after": 0
         },
         {
           "mode": "car",
-          "text": "Ojai → Carpinteria → Santa Barbara : environ 1 h, par la CA-150",
-          "after": 1
+          "text": "Pasadena → Santa Barbara : environ 2 h de route, par la US-101",
+          "after": 0
         },
         {
           "mode": "car",
-          "text": "Joshua Tree → Point Dume : environ 3 h 30, puis Malibu → Santa Barbara : environ 1 h 20",
-          "after": 2
+          "text": "Variante Ojai : Joshua Tree → Ojai environ 4 h 15, puis Ojai → Carpinteria → Santa Barbara environ 1 h",
+          "after": 3
+        },
+        {
+          "mode": "car",
+          "text": "Variante Malibu : Joshua Tree → Point Dume environ 3 h 30, puis Malibu → Santa Barbara environ 1 h 20",
+          "after": 4
         }
       ],
       "ideas": [
@@ -557,7 +569,7 @@
       ],
       "notes": [],
       "food": [
-        "Option A, à Ojai : Farmer and the Cook (cuisine bio et mexicaine simple, à Meiners Oaks) ou les cafés d'Ojai Avenue. Option B, à Malibu : une cabane de poisson de bord de route (poisson et crevettes bien cuits ; les restaurants de la jetée de Malibu sont chers et touristiques).",
+        "Variante Ojai : Farmer and the Cook (cuisine bio et mexicaine simple, à Meiners Oaks) ou les cafés d'Ojai Avenue. Variante Malibu : une cabane de poisson de bord de route (poisson et crevettes bien cuits ; les restaurants de la jetée de Malibu sont chers et touristiques).",
         "À Santa Barbara : La Super-Rica Taqueria (petite taqueria mexicaine, chère à Julia Child, pas chère et souvent la queue ; vérifier les jours d'ouverture), ou Lucky Penny et Loquita dans la Funk Zone. Les crevettes de Santa Barbara (spot prawns), cuites, sont un bon choix pour le mercure.",
         "Sur Stearns Wharf, les restaurants de poisson sont touristiques et chers pour ce qu'ils servent : y aller pour le coucher du soleil, dîner ailleurs.",
         "Grossesse : viande et poisson bien cuits, rien de cru (sushis, huîtres, oursin de Santa Barbara), pas de fromage au lait cru, crudités bien lavées, pas d'alcool."
