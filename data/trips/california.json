@@ -1234,10 +1234,10 @@
       "n": 11,
       "weekday": "Samedi",
       "title": "Yosemite : dernière balade & départ",
-      "summary": "Matinée légère : montée au pont de Vernal Fall par le Mist Trail, boisson chaude dans le grand salon de l'Ahwahnee, puis route vers l'aéroport (Sacramento ou San Francisco selon le vol choisi).",
+      "summary": "Matinée dans la vallée : montée au pont de Vernal Fall par le Mist Trail, boisson chaude dans le grand salon de l'Ahwahnee, puis départ vers 13 h pour le vol de 20 h 30 depuis San Francisco.",
       "route": "drive",
       "stay": null,
-      "end": "Vol de retour (1 escale) depuis Sacramento ou San Francisco",
+      "end": "Vol de retour (1 escale) depuis San Francisco, à 20 h 30",
       "parts": [
         {
           "label": "Matin",
@@ -1248,8 +1248,8 @@
           "text": "The Ahwahnee : se poser dans le grand salon de l'hôtel historique, près des immenses cheminées de pierre, avec une boisson chaude, avant de partir."
         },
         {
-          "label": "Fin de matinée / début d'après-midi",
-          "text": "Route vers l'aéroport : vers 11 h pour le vol de Sacramento (18 h), vers 12 h ou 13 h pour les vols de San Francisco (19 h 30 ou 20 h 30). Voir le tableau des horaires ci-dessous."
+          "label": "Début d'après-midi",
+          "text": "Départ de la vallée vers 13 h pour l'aéroport de San Francisco (environ 4 h 30 avec le plein et le rendu de la voiture), arrivée vers 17 h 30-18 h pour le vol de 20 h 30, le plus tard des trois. Variante : le vol de Sacramento à 18 h (voir plus bas)."
         }
       ],
       "stops": [
@@ -1281,20 +1281,20 @@
       "transport": [
         {
           "mode": "car",
-          "text": "Vallée de Yosemite → aéroport de Sacramento (SMF) : environ 4 h de route",
+          "text": "Vallée de Yosemite → aéroport de San Francisco (SFO) : environ 4 h 30 de route",
           "after": 1
         },
         {
           "mode": "car",
-          "text": "Vallée de Yosemite → aéroport de San Francisco (SFO) : environ 4 h 30 de route",
+          "text": "Variante : vallée de Yosemite → aéroport de Sacramento (SMF) : environ 4 h de route",
           "after": 1
         }
       ],
       "notes": [
-        "Trois vols de retour pour Paris, tous avec 1 escale. Sacramento (SMF) : départ 18 h, environ 200 € de moins. San Francisco (SFO) : départ 19 h 30 ou 20 h 30.",
-        "Pour être à l'aéroport 2 h 30 avant le vol, il faut quitter la vallée de Yosemite : à 11 h pour le vol SMF de 18 h (arrivée à l'aéroport vers 15 h 30) ; à 12 h pour le vol SFO de 19 h 30 (arrivée vers 17 h) ; à 13 h pour le vol SFO de 20 h 30 (arrivée vers 18 h).",
-        "Ces horaires comptent 4 h de route vers SMF et 4 h 30 vers SFO, plus environ 30 minutes pour faire le plein et rendre la voiture avant d'arriver au terminal. Prévoir une marge supplémentaire pour la neige ou une chaîne obligatoire sur la route de la vallée en hiver.",
-        "Si la voiture est rendue à Sacramento plutôt qu'à San Francisco ou Los Angeles, vérifier les frais d'abandon du loueur : ils peuvent réduire l'économie de 200 €."
+        "Retenu : le vol de San Francisco (SFO) de 20 h 30, avec 1 escale. Départ de la vallée vers 13 h, ce qui laisse toute la matinée à Yosemite. La voiture prise dans le centre de San Francisco jeudi est rendue à SFO : même agglomération, en général sans frais d'abandon (à vérifier en réservant).",
+        "Autre vol SFO : 19 h 30, en quittant la vallée vers 12 h.",
+        "Variante : le vol de Sacramento (SMF) de 18 h, environ 200 € de moins, mais il faut quitter la vallée vers 11 h (arrivée à l'aéroport vers 15 h 30), et rendre la voiture à Sacramento coûte probablement des frais d'abandon, qui peuvent effacer l'économie.",
+        "Ces horaires comptent 4 h 30 de route vers SFO et 4 h vers SMF, plus environ 30 minutes pour faire le plein et rendre la voiture, et 2 h 30 à l'aéroport. Le samedi après-midi, la circulation peut ralentir en entrant dans la baie, et la route peut être enneigée en sortant de la vallée : ne pas partir plus tard que 13 h."
       ],
       "ideas": [
         {
