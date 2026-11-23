@@ -120,7 +120,7 @@
         },
         {
           "label": "Fin d'après-midi",
-          "text": "Entrée dans le parc national de Joshua Tree et coucher du soleil à Keys View, avec vue sur la vallée de Coachella."
+          "text": "Entrée dans le parc national de Joshua Tree et coucher du soleil à Keys View (vers 17 h 05), avec vue sur la vallée de Coachella."
         }
       ],
       "stops": [
@@ -164,7 +164,8 @@
           "text": "Palm Springs → Joshua Tree : environ 45 min",
           "after": 1
         }
-      ]
+      ],
+      "notes": []
     },
     {
       "n": 4,
@@ -183,7 +184,7 @@
         },
         {
           "label": "Après-midi",
-          "text": "Cholla Cactus Garden, à la lumière rasante de l'après-midi. Ou, à la place, une sortie du côté de Palm Springs (téléphérique ou Indian Canyons, voir les idées)."
+          "text": "Cholla Cactus Garden, à la lumière rasante de l'après-midi (coucher du soleil vers 17 h 05). Ou, à la place, une sortie du côté de Palm Springs (téléphérique ou Indian Canyons, voir les idées)."
         },
         {
           "label": "Soir",
@@ -283,7 +284,8 @@
           "label": "Indian Canyons",
           "text": "Palmeraies et canyons des Agua Caliente, près de Palm Springs, en demi-journée. Environ 1 h de route depuis Joshua Tree ; à faire à la place de Cholla Cactus Garden."
         }
-      ]
+      ],
+      "notes": []
     },
     {
       "n": 5,
@@ -302,7 +304,7 @@
         },
         {
           "label": "Soir",
-          "text": "Stearns Wharf au coucher du soleil, puis dîner à Santa Barbara."
+          "text": "Stearns Wharf au coucher du soleil (vers 17 h 20), puis dîner à Santa Barbara."
         }
       ],
       "stops": [
@@ -377,7 +379,8 @@
           "label": "Vignoble de Santa Ynez et Solvang",
           "text": "Environ 40 min de Santa Barbara : collines de chênes et ranchs, plus rustiques et moins luxueux que Sonoma ; Los Olivos est le plus joli village, et Solvang un village « danois » plutôt kitsch. En janvier, les collines sont vertes. Dormir à Los Olivos plutôt qu'à Santa Barbara raccourcirait d'environ 45 min la route du lundi."
         }
-      ]
+      ],
+      "notes": []
     },
     {
       "n": 6,
@@ -690,7 +693,7 @@
         "Dîner à l'Ahwahnee (réserver) ou à la cafétéria de Yosemite Valley Lodge."
       ],
       "notes": [
-        "Les domaines de Livermore ouvrent vers midi : à confirmer sur leur site avant de partir, et partir de San Francisco à midi pile. La nuit tombe vers 17 h 20 fin janvier : arriver de jour dans la vallée demande de partir de Livermore avant 14 h 15.",
+        "Les domaines de Livermore ouvrent vers midi : à confirmer sur leur site avant de partir, et partir de San Francisco à midi pile. Le soleil se couche vers 17 h 15 fin janvier, et plus tôt encore au fond de la vallée, derrière les falaises : arriver de jour dans la vallée demande de partir de Livermore avant 14 h 15.",
         "En hiver, la CA-140 est la route d'accès la plus basse et la plus souvent dégagée ; la CA-120 passe à Crane Flat, à plus de 1 800 m, où chaînes et neige sont fréquentes. Vérifier l'état des routes avant de partir."
       ],
       "ideas": [
@@ -729,7 +732,7 @@
         },
         {
           "label": "Coucher du soleil",
-          "text": "Tunnel View : le panorama emblématique d'El Capitan, de Half Dome et de Bridalveil Fall, à la lumière de fin de journée."
+          "text": "Tunnel View : le panorama emblématique d'El Capitan, de Half Dome et de Bridalveil Fall, à la lumière de fin de journée (coucher du soleil vers 17 h 15 ; y être vers 16 h 45)."
         }
       ],
       "stops": [
