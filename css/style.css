@@ -84,6 +84,7 @@ button:disabled { cursor: default; }
 .toc ul { margin: 0 0 10px; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 6px; }
 .toc ul button { padding: 5px 12px; border-radius: 999px; border: 1px solid var(--line); background: #fff; font-size: 14px; }
 .toc ul button:hover { border-color: var(--ink); }
+.toc-done { margin-left: 6px; color: var(--muted); font-size: 12px; font-weight: 700; }
 .trip-card { scroll-margin: calc(var(--top) + 20px); }
 .trip-card.flash { animation: card-flash 1.6s ease-out; }
 @keyframes card-flash { 0%, 30% { box-shadow: 0 0 0 4px var(--accent), 0 12px 40px rgba(27, 33, 48, 0.14); } 100% { box-shadow: 0 12px 40px rgba(27, 33, 48, 0.14); } }

@@ -275,7 +275,7 @@ function mountHome() {
   const seasons = [...known, ...new Set(trips.map(t => t.season).filter(se => se && !known.includes(se)))]
     .filter(se => trips.some(t => t.season === se));
   const unseasoned = trips.filter(t => !t.season);
-  const tocLinks = list => list.map(t => `<li><button type="button" data-card="${esc(t.id)}">${esc(t.title)}</button></li>`).join('');
+  const tocLinks = list => list.map(t => `<li><button type="button" data-card="${esc(t.id)}"${t.done ? ' class="done" title="Réalisé"' : ''}>${esc(t.title)}${t.done ? '<span class="toc-done" aria-label="Réalisé">✓</span>' : ''}</button></li>`).join('');
   const tocSub = (title, list) => list.length ? `<p class="toc-sub">${title}</p><ul>${tocLinks(list)}</ul>` : '';
   const tocGroup = (title, list) => `<details class="toc-group"><summary>${esc(title)}<span class="toc-count">${list.length}</span></summary>
       ${tocSub('Voyages longs', list.filter(t => t.kind !== 'short'))}${tocSub('Voyages courts', list.filter(t => t.kind === 'short'))}</details>`;
