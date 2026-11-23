@@ -1060,5 +1060,23 @@
   "season": "Août / Septembre",
   "kind": "short",
   "start": "2025-08-31",
-  "done": true
+  "done": true,
+  "sections": [
+    {
+      "from": 1,
+      "title": "Athènes"
+    },
+    {
+      "from": 2,
+      "title": "Sifnos"
+    },
+    {
+      "from": 4,
+      "title": "Milos"
+    },
+    {
+      "from": 7,
+      "title": "Santorin"
+    }
+  ]
 }

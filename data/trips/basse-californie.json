@@ -1784,5 +1784,19 @@
   "done": false,
   "season": "Janvier",
   "kind": "short",
-  "coverPosition": "left center"
+  "coverPosition": "left center",
+  "sections": [
+    {
+      "from": 1,
+      "title": "Los Cabos et la côte est"
+    },
+    {
+      "from": 3,
+      "title": "La Paz et ses îles"
+    },
+    {
+      "from": 6,
+      "title": "Loreto"
+    }
+  ]
 }

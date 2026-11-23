@@ -1440,5 +1440,23 @@
     }
   ],
   "season": "Août / Septembre",
-  "kind": "long"
+  "kind": "long",
+  "sections": [
+    {
+      "from": 1,
+      "title": "Java"
+    },
+    {
+      "from": 5,
+      "title": "Bali"
+    },
+    {
+      "from": 10,
+      "title": "Nusa Penida et Gili Meno"
+    },
+    {
+      "from": 14,
+      "title": "Lombok, Komodo et Flores"
+    }
+  ]
 }

@@ -937,5 +937,19 @@
     }
   ],
   "season": "Mi-saison",
-  "kind": "short"
+  "kind": "short",
+  "sections": [
+    {
+      "from": 1,
+      "title": "Fuerteventura"
+    },
+    {
+      "from": 4,
+      "title": "Lanzarote et La Graciosa"
+    },
+    {
+      "from": 8,
+      "title": "Madrid"
+    }
+  ]
 }

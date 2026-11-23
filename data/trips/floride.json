@@ -824,5 +824,15 @@
   "start": "2027-01-19",
   "done": false,
   "season": "Janvier",
-  "kind": "short"
+  "kind": "short",
+  "sections": [
+    {
+      "from": 1,
+      "title": "Miami et les Everglades"
+    },
+    {
+      "from": 4,
+      "title": "Les Keys et Key West"
+    }
+  ]
 }

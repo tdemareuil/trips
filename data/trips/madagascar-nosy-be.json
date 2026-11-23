@@ -842,5 +842,19 @@
     }
   ],
   "season": "Août / Septembre",
-  "kind": "long"
+  "kind": "long",
+  "sections": [
+    {
+      "from": 1,
+      "title": "Les Hautes Terres et les forêts"
+    },
+    {
+      "from": 5,
+      "title": "Isalo et Tuléar"
+    },
+    {
+      "from": 8,
+      "title": "Nosy Be et ses îles"
+    }
+  ]
 }

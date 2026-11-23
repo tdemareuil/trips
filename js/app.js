@@ -525,14 +525,16 @@ function mountStory(trip, start) {
       [N, 'jours'],
       [days.filter(d => d.stay).length, 'nuits'],
     ].map(([n, label]) => `<div><dt>${n}</dt><dd>${label}</dd></div>`).join('');
-    // Trips with `staysInOverview` show, above each run of nights in the same place, how many nights it is.
-    const stayHead = (d, k) => {
-      if (!trip.staysInOverview || !d.stay || days[k - 1]?.stay?.name === d.stay.name) return '';
-      let n = 0;
-      while (days[k + n]?.stay?.name === d.stay.name) n++;
-      return `<li class="stay-head"><span class="glyph">☾</span>${esc(d.stay.name)} · ${n} nuit${n > 1 ? 's' : ''}</li>`;
+    // `sections` split the overview into parts of the trip, each with its number of nights.
+    const sections = trip.sections || [];
+    const sectionHead = d => {
+      const k = sections.findIndex(s => s.from === d.n);
+      if (k < 0) return '';
+      const end = sections[k + 1]?.from ?? Infinity;
+      const n = days.filter(x => x.n >= d.n && x.n < end && x.stay).length;
+      return `<li class="stay-head"><span class="glyph">☾</span>${esc(sections[k].title)}${n ? ` · ${n} nuit${n > 1 ? 's' : ''}` : ''}</li>`;
     };
-    const list = days.map((d, k) => `${stayHead(d, k)}
+    const list = days.map(d => `${sectionHead(d)}
       <li><a href="#/${trip.id}/${d.n}" style="--c:${d.color}"><span class="swatch"></span><b>${d.n}</b><span>${esc(d.title)}</span>${d.dateShort ? `<time>${esc(d.dateShort)}</time>` : ''}</a></li>`).join('');
     const guides = trip.guides?.length ? `
       <h2 class="section">Guides &amp; comparatifs</h2>

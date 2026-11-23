@@ -1513,5 +1513,27 @@
     }
   ],
   "season": "Janvier",
-  "kind": "long"
+  "kind": "long",
+  "sections": [
+    {
+      "from": 1,
+      "title": "Bangkok et Ayutthaya"
+    },
+    {
+      "from": 4,
+      "title": "Chiang Mai"
+    },
+    {
+      "from": 6,
+      "title": "Khao Sok"
+    },
+    {
+      "from": 8,
+      "title": "La mer d'Andaman : Krabi, Koh Lanta et Koh Yao Noi"
+    },
+    {
+      "from": 15,
+      "title": "Le golfe : Koh Samui et Koh Tao"
+    }
+  ]
 }

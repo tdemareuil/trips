@@ -2173,5 +2173,27 @@
     }
   ],
   "season": "Janvier",
-  "kind": "long"
+  "kind": "long",
+  "sections": [
+    {
+      "from": 1,
+      "title": "Oaxaca et la côte du Pacifique"
+    },
+    {
+      "from": 7,
+      "title": "Guatemala : Antigua, Atitlán et Acatenango"
+    },
+    {
+      "from": 12,
+      "title": "Petén : Flores, Tikal et Yaxhá"
+    },
+    {
+      "from": 14,
+      "title": "Belize"
+    },
+    {
+      "from": 16,
+      "title": "Yucatán : Bacalar et Tulum"
+    }
+  ]
 }

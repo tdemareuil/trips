@@ -1048,5 +1048,27 @@
     }
   ],
   "season": "Août / Septembre",
-  "kind": "long"
+  "kind": "long",
+  "sections": [
+    {
+      "from": 1,
+      "title": "Lima et la région de Cusco"
+    },
+    {
+      "from": 7,
+      "title": "Lac Titicaca et Arequipa"
+    },
+    {
+      "from": 11,
+      "title": "Bolivie : La Paz et Uyuni"
+    },
+    {
+      "from": 15,
+      "title": "Désert d'Atacama"
+    },
+    {
+      "from": 17,
+      "title": "Le nord-ouest argentin"
+    }
+  ]
 }

@@ -636,5 +636,23 @@
         }
       ]
     }
+  ],
+  "sections": [
+    {
+      "from": 1,
+      "title": "Colorado"
+    },
+    {
+      "from": 6,
+      "title": "Wyoming : vers Grand Teton"
+    },
+    {
+      "from": 9,
+      "title": "Yellowstone"
+    },
+    {
+      "from": 13,
+      "title": "Vers Salt Lake City"
+    }
   ]
 }

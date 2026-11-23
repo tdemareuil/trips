@@ -1434,5 +1434,31 @@
     }
   ],
   "season": "Août / Septembre",
-  "kind": "long"
+  "kind": "long",
+  "sections": [
+    {
+      "from": 1,
+      "title": "Kilimandjaro et Amboseli"
+    },
+    {
+      "from": 4,
+      "title": "Tarangire, lac Natron et Ngorongoro"
+    },
+    {
+      "from": 8,
+      "title": "Serengeti et Masai Mara"
+    },
+    {
+      "from": 13,
+      "title": "Mahé"
+    },
+    {
+      "from": 15,
+      "title": "Praslin"
+    },
+    {
+      "from": 18,
+      "title": "La Digue, puis retour à Mahé"
+    }
+  ]
 }

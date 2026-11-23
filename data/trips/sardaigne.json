@@ -849,5 +849,23 @@
   "start": "2023-08-06",
   "done": true,
   "season": "Août / Septembre",
-  "kind": "short"
+  "kind": "short",
+  "sections": [
+    {
+      "from": 1,
+      "title": "La Maddalena"
+    },
+    {
+      "from": 3,
+      "title": "Castelsardo et la côte nord"
+    },
+    {
+      "from": 5,
+      "title": "La côte ouest : Alghero et Bosa"
+    },
+    {
+      "from": 6,
+      "title": "Le golfe d'Orosei"
+    }
+  ]
 }

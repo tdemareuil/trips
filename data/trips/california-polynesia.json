@@ -1847,5 +1847,19 @@
     }
   ],
   "season": "Août / Septembre",
-  "kind": "long"
+  "kind": "long",
+  "sections": [
+    {
+      "from": 1,
+      "title": "Californie du Sud"
+    },
+    {
+      "from": 8,
+      "title": "Tahiti et les îles de la Société"
+    },
+    {
+      "from": 15,
+      "title": "Les atolls des Tuamotu"
+    }
+  ]
 }

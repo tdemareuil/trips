@@ -1801,5 +1801,27 @@
         }
       ]
     }
+  ],
+  "sections": [
+    {
+      "from": 1,
+      "title": "Los Angeles"
+    },
+    {
+      "from": 3,
+      "title": "Le désert : Palm Springs et Joshua Tree"
+    },
+    {
+      "from": 5,
+      "title": "La côte : Santa Barbara et Big Sur"
+    },
+    {
+      "from": 7,
+      "title": "San Francisco et la Silicon Valley"
+    },
+    {
+      "from": 9,
+      "title": "Yosemite"
+    }
   ]
 }

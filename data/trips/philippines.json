@@ -1292,5 +1292,27 @@
     }
   ],
   "season": "Janvier",
-  "kind": "long"
+  "kind": "long",
+  "sections": [
+    {
+      "from": 1,
+      "title": "Luzon : Pinatubo et Manille"
+    },
+    {
+      "from": 3,
+      "title": "Palawan : El Nido et la croisière"
+    },
+    {
+      "from": 7,
+      "title": "Coron"
+    },
+    {
+      "from": 10,
+      "title": "Bohol"
+    },
+    {
+      "from": 12,
+      "title": "Siquijor"
+    }
+  ]
 }

@@ -913,5 +913,18 @@
       ]
     }
   ],
-  "staysInOverview": true
+  "sections": [
+    {
+      "from": 1,
+      "title": "Praslin"
+    },
+    {
+      "from": 4,
+      "title": "La Digue"
+    },
+    {
+      "from": 7,
+      "title": "Le sud de Mahé"
+    }
+  ]
 }

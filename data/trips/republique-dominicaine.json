@@ -970,5 +970,19 @@
   "start": "2027-01-19",
   "done": false,
   "season": "Janvier",
-  "kind": "short"
+  "kind": "short",
+  "sections": [
+    {
+      "from": 1,
+      "title": "Santo Domingo"
+    },
+    {
+      "from": 2,
+      "title": "Le sud-ouest : Barahona"
+    },
+    {
+      "from": 4,
+      "title": "La péninsule de Samaná"
+    }
+  ]
 }

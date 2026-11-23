@@ -1198,5 +1198,23 @@
     }
   ],
   "season": "Janvier",
-  "kind": "long"
+  "kind": "long",
+  "sections": [
+    {
+      "from": 1,
+      "title": "Le Triangle culturel"
+    },
+    {
+      "from": 4,
+      "title": "Les montagnes et le thé"
+    },
+    {
+      "from": 9,
+      "title": "Udawalawe et la côte sud"
+    },
+    {
+      "from": 14,
+      "title": "Les Maldives"
+    }
+  ]
 }
