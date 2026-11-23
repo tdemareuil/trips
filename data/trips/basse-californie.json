@@ -164,6 +164,10 @@
         {
           "label": "Baleines à bosse depuis le bateau",
           "text": "De janvier à mars, les baleines à bosse passent l'hiver au large de Cabo San Lucas et on les voit souvent pendant la sortie vers l'arche. Avertissement : les sorties dédiées à l'observation des baleines sont encadrées (distance minimale, temps limité), mais les bateaux sont nombreux autour de Cabo et les règles pas toujours respectées. Choisir un petit opérateur qui coupe le moteur à distance, ou se contenter de les voir depuis la côte."
+        },
+        {
+          "label": "Étoiles avant l'aube",
+          "text": "Le mardi 19 au matin, la lune se couche vers 4 h 25 et le ciel reste noir jusqu'à environ 5 h 40, début de l'aube. Avec le décalage horaire, on est souvent réveillé à cette heure : sortir sur la terrasse de l'hôtel ou au bord de l'estuaire de San José, loin des réverbères, pour la Voie lactée d'hiver, Orion et la Croix du Sud basse sur l'horizon (visible depuis cette latitude au petit matin). Le soir à Cabo Pulmo, en revanche, la lune presque pleine éclaire toute la nuit : un beau ciel, mais peu d'étoiles."
         }
       ],
       "notes": [
@@ -273,6 +277,10 @@
         {
           "label": "Arrêt facultatif : Santuario de los Cactus",
           "text": "À El Rosario, entre El Triunfo et La Paz, sur la route 1. Petite réserve communautaire de 6 hectares au pied de la Sierra de la Laguna, dans une forêt de cardons, les plus grands cactus du monde (jusqu'à 15 ou 20 m, certains âgés de plusieurs siècles), avec aussi des pitayas et des chollas. Sentier facile de 45 min à 1 h entre les cactus et les blocs de granite, petit droit d'entrée à régler sur place. Le site est modeste, mais c'est la façon la plus simple de marcher au milieu des cardons. Ajoute environ 1 h à la journée."
+        },
+        {
+          "label": "Plancton luminescent à La Paz",
+          "text": "Les baies de La Paz (El Saltito, El Tecolote) et d'Espíritu Santo s'illuminent parfois la nuit : des micro-algues qui brillent en bleu quand on bouge l'eau, en kayak ou en nageant. Contraintes : la saison va surtout d'avril à décembre (en janvier, c'est irrégulier), et il faut une nuit sans lune. Or la pleine lune tombe le vendredi 22 janvier vers 5 h 30 : à La Paz, la lune se lève mercredi 20 vers 16 h 05 et jeudi 21 vers 17 h 20, avant la nuit, et reste dans le ciel jusqu'au matin. Les nuits à La Paz ne conviennent donc pas ; la meilleure chance est à Loreto (voir le jour 7)."
         }
       ],
       "notes": [
@@ -659,6 +667,16 @@
       ],
       "notes": [
         "Il n'y a presque rien sur les plages : prendre eau, parasol et pique-nique. Les plages ne sont pas surveillées, mais la mer y est très calme."
+      ],
+      "ideas": [
+        {
+          "label": "Plancton luminescent dans la baie de Loreto",
+          "text": "Chance faible mais réelle. La lune est pleine (vendredi 22 janvier vers 5 h 30), mais elle se lève de plus en plus tard : à Loreto, samedi 23 vers 19 h 45 et dimanche 24 vers 20 h 50. Entre la nuit tombée (vers 18 h 50) et le lever de la lune, il fait assez noir : environ 55 min le samedi et 2 h le dimanche. C'est le seul moment du voyage où le ciel est noir en début de soirée. Contraintes : saison surtout d'avril à décembre, apparition irrégulière en janvier, et il faut s'éloigner des lumières du Malecón (plage au sud de la ville, ou kayak de nuit avec un opérateur). Demander sur place si la baie « brille » en ce moment. Grossesse : pas de kayak de nuit en mer agitée ; marcher dans l'eau au bord de la plage suffit pour voir les étincelles."
+        },
+        {
+          "label": "Étoiles",
+          "text": "Le ciel le plus noir du voyage : le dimanche 24, entre la fin du crépuscule (vers 19 h 20) et le lever de la lune (vers 20 h 50), soit environ 1 h 30 ; le samedi 23, seulement 25 min environ, entre 19 h 20 et 19 h 45. S'éloigner des lumières de Loreto : plage au sud de la ville, ou quelques kilomètres sur la route de San Javier. La Basse-Californie du Sud n'a pas de site certifié « ciel étoilé », mais l'air sec du désert et le peu de villes donnent souvent un ciel remarquable."
+        }
       ]
     },
     {
@@ -777,6 +795,10 @@
         {
           "type": "text",
           "text": "Soleil (heure locale) : lever vers 7 h et coucher vers 17 h 55 à 18 h, de Los Cabos à Loreto. Les journées font environ 11 h, avec un peu de lumière dès 6 h 35 et jusqu'à 18 h 25 : avec le décalage horaire, on se réveille avant le jour les premiers matins."
+        },
+        {
+          "type": "text",
+          "text": "Lune : pleine le vendredi 22 janvier vers 5 h 30. Heures de lever de la lune à La Paz : mardi 19 vers 15 h, mercredi 20 vers 16 h 05, jeudi 21 vers 17 h 20, vendredi 22 vers 18 h 30 ; à Loreto, samedi 23 vers 19 h 45, dimanche 24 vers 20 h 50. Jusqu'au vendredi, elle est déjà levée à la tombée de la nuit et éclaire toute la nuit ; à Loreto, le début de soirée est noir. Fenêtres de ciel vraiment noir, pour les étoiles : le mardi 19 de 4 h 25 à 5 h 40 environ (avant l'aube, à San José), le samedi 23 de 19 h 20 à 19 h 45 et le dimanche 24 de 19 h 20 à 20 h 50 (à Loreto). Horaires calculés, à quelques minutes près."
         },
         {
           "type": "heading",
