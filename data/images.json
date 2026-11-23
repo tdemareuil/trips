@@ -7823,5 +7823,40 @@
   "page": "https://commons.wikimedia.org/wiki/File:Palm_Canyon_Creek_(39319392884).jpg",
   "artist": "blmcalifornia",
   "license": "Public domain"
- }
+ },
+ "Colorado Street Bridge (Pasadena, California)": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Pasadena_Colorado_Street_Bridge_2005.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pasadena_Colorado_Street_Bridge_2005.jpg",
+  "artist": "Mike Dillon",
+  "license": "CC BY-SA 3.0",
+  "lat": 34.14472,
+  "lon": -118.16361
+ },
+ "Conejo Grade": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Conejo_grade.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Conejo_grade.jpg",
+  "artist": "Michael Adams",
+  "license": "CC0",
+  "lat": 34.20028,
+  "lon": -118.95944
+ },
+ "Descanso Gardens": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/RosarieDescansogardens1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RosarieDescansogardens1.jpg",
+  "artist": "David Liu",
+  "license": "CC BY-SA 3.0",
+  "lat": 34.20148,
+  "lon": -118.2098
+ },
+ "Gamble House (Pasadena, California)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Gamble_House_2016-1.jpg/1920px-Gamble_House_2016-1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gamble_House_2016-1.jpg",
+  "artist": "Cullen328",
+  "license": "CC BY-SA 3.0",
+  "lat": 34.15156,
+  "lon": -118.1608,
+  "extract": "La Gamble House, également connue sous le nom de David B. Gamble House, est une maison remarquable située à Pasadena, en Californie. Elle est conçue par le cabinet d'architectes Greene and Greene et construite en 1908–1909 pour David B.",
+  "article": "https://fr.wikipedia.org/wiki/Gamble_House"
+ },
+ "Rincon Point": {}
 }

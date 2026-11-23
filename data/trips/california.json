@@ -423,6 +423,10 @@
           "text": "Départ de Joshua Tree vers 9 h 30, par l'I-10 puis l'I-210 au pied des montagnes de San Gabriel, plutôt que par le centre de Los Angeles : pause café à Pasadena, puis la US-101 jusqu'à Santa Barbara (environ 4 h 15 au total)."
         },
         {
+          "label": "En chemin, en option",
+          "text": "Descanso Gardens, à 2 min de l'I-210 (camélias en fleur en janvier, ouvert dès 9 h, environ 1 h). À Pasadena, café dans Old Pasadena (Jones Coffee Roasters ou Intelligentsia), le Colorado Street Bridge et la Gamble House, vue de l'extérieur. Sur la US-101 : la descente du Conejo Grade face à la mer, la côte de Rincon Point et ses surfeurs, puis les phoques de Carpinteria, à 15 min de Santa Barbara. Avec Descanso, partir vers 8 h 30."
+        },
+        {
           "label": "Après-midi",
           "text": "Arrivée à Santa Barbara vers 14 h 30 : la mission, la tour du palais de justice (vue gratuite sur la ville), la Funk Zone."
         },
@@ -441,6 +445,16 @@
       ],
       "stops": [
         {
+          "name": "Descanso Gardens",
+          "wiki": "Descanso Gardens",
+          "coords": [
+            34.2018,
+            -118.2107
+          ],
+          "culture": "Jardin de 60 hectares sous les chênes, au pied des montagnes de San Gabriel, avec l'une des plus grandes collections de camélias d'Amérique du Nord, en fleur en janvier.",
+          "optional": true
+        },
+        {
           "name": "Pasadena",
           "wiki": "Pasadena, California",
           "coords": [
@@ -448,6 +462,56 @@
             -118.1445
           ],
           "culture": "Ville au pied des montagnes de San Gabriel, sur l'I-210 : pause café avant de rejoindre la côte."
+        },
+        {
+          "name": "Colorado Street Bridge",
+          "wiki": "Colorado Street Bridge (Pasadena, California)",
+          "coords": [
+            34.1455,
+            -118.1655
+          ],
+          "culture": "Pont en arches de béton de 1913 au-dessus du ravin de l'Arroyo Seco, sur l'ancienne Route 66.",
+          "optional": true
+        },
+        {
+          "name": "Gamble House",
+          "wiki": "Gamble House (Pasadena, California)",
+          "coords": [
+            34.1519,
+            -118.1608
+          ],
+          "culture": "Maison de bois de 1908 dessinée par les frères Greene, chef-d'œuvre du style Arts & Crafts américain ; visites guidées certains jours, jardin et façades visibles depuis la rue.",
+          "optional": true
+        },
+        {
+          "name": "Conejo Grade",
+          "wiki": "Conejo Grade",
+          "coords": [
+            34.216,
+            -118.948
+          ],
+          "culture": "Longue descente de la US-101 vers la plaine d'Oxnard, d'où l'on découvre la mer et les îles Channel. La vue se prend depuis la voiture.",
+          "optional": true
+        },
+        {
+          "name": "Rincon Point",
+          "wiki": "Rincon Point",
+          "coords": [
+            34.3736,
+            -119.4776
+          ],
+          "culture": "L'un des spots de surf les plus connus de Californie, surnommé la « reine de la côte », à la limite des comtés de Ventura et de Santa Barbara. La US-101 longe ici directement la mer.",
+          "optional": true
+        },
+        {
+          "name": "Phoques de Carpinteria",
+          "coords": [
+            34.3883,
+            -119.5155
+          ],
+          "culture": "Une des rares plages de Californie du Sud où les phoques communs mettent bas, au pied des falaises de Carpinteria. La plage est fermée de décembre à mai, et on les regarde depuis le haut de la falaise.",
+          "photo": "File:Carpinteria Harbor Seal Preserve.jpg",
+          "optional": true
         },
         {
           "name": "Mission Santa Barbara",
@@ -492,16 +556,6 @@
             -119.2429
           ],
           "culture": "Petite ville d'une vallée orientée est-ouest : au coucher du soleil, les montagnes Topatopa se teintent de rose, ce que les habitants appellent le « pink moment ».",
-          "optional": true
-        },
-        {
-          "name": "Phoques de Carpinteria",
-          "coords": [
-            34.3883,
-            -119.5155
-          ],
-          "culture": "Une des rares plages de Californie du Sud où les phoques communs mettent bas, au pied des falaises de Carpinteria. La plage est fermée de décembre à mai, et on les regarde depuis le haut de la falaise.",
-          "photo": "File:Carpinteria Harbor Seal Preserve.jpg",
           "optional": true
         },
         {
@@ -553,12 +607,12 @@
         {
           "mode": "car",
           "text": "Variante Ojai : Joshua Tree → Ojai environ 4 h 15, puis Ojai → Carpinteria → Santa Barbara environ 1 h",
-          "after": 3
+          "after": 4
         },
         {
           "mode": "car",
           "text": "Variante Malibu : Joshua Tree → Point Dume environ 3 h 30, puis Malibu → Santa Barbara environ 1 h 20",
-          "after": 4
+          "after": 5
         }
       ],
       "ideas": [
