@@ -71,12 +71,14 @@
         },
         {
           "name": "Wayang Kekayon Museum",
-          "culture": "Musée consacré aux marionnettes wayang, en cuir ou en bois, au cœur du théâtre d'ombres javanais, reconnu par l'UNESCO."
+          "culture": "Musée consacré aux marionnettes wayang, en cuir ou en bois, au cœur du théâtre d'ombres javanais, reconnu par l'UNESCO.",
+          "photo": "File:Wayang Klithik Museum Wayang Kekayon.jpg"
         },
         {
           "name": "Grotte de Jomblang",
           "culture": "Gouffre vertical de Gunung Kidul, d'une soixantaine de mètres, où l'on descend en rappel pour découvrir une grotte aux rayons de lumière tombant à travers la jungle souterraine.",
-          "optional": true
+          "optional": true,
+          "photo": "File:Jomblang Cave - Indonesia 04.jpg"
         }
       ],
       "stay": {
@@ -350,7 +352,8 @@
             -8.4118,
             115.5876
           ],
-          "culture": "Palais d'eau de l'est de Bali, construit en 1946 par le dernier roi de Karangasem, avec ses bassins, ses fontaines et ses poissons koï."
+          "culture": "Palais d'eau de l'est de Bali, construit en 1946 par le dernier roi de Karangasem, avec ses bassins, ses fontaines et ses poissons koï.",
+          "photo": "File:Tirta Gangga Water Palace - 2015.02 - panoramio.jpg"
         },
         {
           "name": "Goa Gajah",
@@ -525,7 +528,8 @@
             -8.728,
             115.444
           ],
-          "culture": "Piscine naturelle d'eau de mer au pied de la falaise. Les vagues peuvent surgir brutalement : mieux vaut y aller à marée basse et rester prudent."
+          "culture": "Piscine naturelle d'eau de mer au pied de la falaise. Les vagues peuvent surgir brutalement : mieux vaut y aller à marée basse et rester prudent.",
+          "photo": "File:Angel's Billabong, Nusa Penida.jpg"
         },
         {
           "name": "Crystal Bay",
@@ -592,7 +596,8 @@
             -8.765,
             115.575
           ],
-          "culture": "Crique de sable blanc de la côte est, au pied d'une falaise verte, près de Diamond Beach et de son arche."
+          "culture": "Crique de sable blanc de la côte est, au pied d'une falaise verte, près de Diamond Beach et de son arche.",
+          "photo": "File:Atuh Beach, Nusa Penida Bali.jpg"
         }
       ],
       "stay": {

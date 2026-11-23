@@ -1,7 +1,7 @@
 {
   "id": "republique-dominicaine",
   "title": "République dominicaine",
-  "subtitle": "Six nuits entre Santo Domingo, Barahona et la péninsule de Samaná : Zona Colonial, Bahía de las Águilas, plages sauvages, baleines et Los Haitises",
+  "subtitle": "Six nuits de Santo Domingo à Samaná : Zona Colonial, Bahía de las Águilas, plages sauvages et Los Haitises",
   "travelers": [
     "En couple"
   ],
@@ -38,7 +38,8 @@
             18.4727,
             -69.8836
           ],
-          "culture": "Rue piétonne principale de la Zona Colonial, bordée de boutiques et de terrasses, qui mène à la Plaza de España."
+          "culture": "Rue piétonne principale de la Zona Colonial, bordée de boutiques et de terrasses, qui mène à la Plaza de España.",
+          "photo": "File:Santo Domingo - Calle El Conde.JPG"
         },
         {
           "name": "Plaza de España",
@@ -117,7 +118,8 @@
             18.4756,
             -69.883
           ],
-          "culture": "Plus ancienne forteresse coloniale des Amériques, au bord du fleuve Ozama."
+          "culture": "Plus ancienne forteresse coloniale des Amériques, au bord du fleuve Ozama.",
+          "photo": "File:Santo Domingo - Fortaleza Ozama 0961.JPG"
         },
         {
           "name": "Calle Las Damas",
@@ -125,7 +127,8 @@
             18.4768,
             -69.8826
           ],
-          "culture": "Première rue pavée du Nouveau Monde."
+          "culture": "Première rue pavée du Nouveau Monde.",
+          "photo": "File:Calle Las Damas.JPG"
         },
         {
           "name": "Panteón Nacional",
@@ -195,7 +198,8 @@
             17.82,
             -71.37
           ],
-          "culture": "Lagune salée du parc Jaragua, avec flamants roses et iguanes."
+          "culture": "Lagune salée du parc Jaragua, avec flamants roses et iguanes.",
+          "photo": "File:DO Laguna de Oviedo 1010 (42) (17052928847).jpg"
         },
         {
           "name": "Embarcadère de Cabo Rojo",
@@ -401,7 +405,8 @@
             -69.185
           ],
           "culture": "Petite crique cachée, accessible en bateau.",
-          "by": "boat"
+          "by": "boat",
+          "photo": "File:Playa Madama Samaná Peninsula.jpg"
         },
         {
           "name": "Playa Rincón",
@@ -490,7 +495,8 @@
             19.3167,
             -69.54
           ],
-          "culture": "Restaurants de poisson sur pilotis à Las Terrenas, avec des influences françaises et italiennes."
+          "culture": "Restaurants de poisson sur pilotis à Las Terrenas, avec des influences françaises et italiennes.",
+          "photo": "File:Las Terrenas Nuevo Pueblo de los Pescadores.JPG"
         }
       ],
       "stay": {

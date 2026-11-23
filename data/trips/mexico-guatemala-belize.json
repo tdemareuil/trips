@@ -145,7 +145,8 @@
         {
           "name": "Santiago Matatlán",
           "wiki": "Santiago Matatlán",
-          "culture": "Se présente comme la capitale mondiale du mezcal, au milieu des champs d'agaves (maguey)."
+          "culture": "Se présente comme la capitale mondiale du mezcal, au milieu des champs d'agaves (maguey).",
+          "photo": "File:Santiago Matatlán (01) (4241660518).jpg"
         },
         {
           "name": "Mal de Amor (palenque de mezcal)",
@@ -518,7 +519,8 @@
         {
           "name": "Mirador Kaqasiiwaan",
           "culture": "Mirador de San Juan pour le coucher de soleil.",
-          "optional": true
+          "optional": true,
+          "photo": "File:Lake views from Mirador Kaqasiiwaan.jpg"
         }
       ],
       "stay": {
@@ -940,7 +942,8 @@
         },
         {
           "name": "Plage de Tulum",
-          "culture": "Plage de sable blanc au pied des ruines, sur la mer des Caraïbes."
+          "culture": "Plage de sable blanc au pied des ruines, sur la mer des Caraïbes.",
+          "photo": "File:Tulum beach.JPG"
         }
       ],
       "stay": {

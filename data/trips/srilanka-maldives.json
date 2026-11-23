@@ -631,7 +631,8 @@
         },
         {
           "name": "Blue Beach Island",
-          "culture": "Banc de sable avec des bateaux de pêche, touristique."
+          "culture": "Banc de sable avec des bateaux de pêche, touristique.",
+          "photo": "File:Blue beach island nilwella.jpg"
         },
         {
           "name": "Tangalle",
@@ -799,7 +800,8 @@
         {
           "name": "Vaadhoo",
           "wiki": "Vaadhoo",
-          "culture": "Île de l'atoll de Raa dont la plage s'illumine d'un bleu éclatant la nuit, grâce au plancton bioluminescent. On l'appelle la « mer d'étoiles »."
+          "culture": "Île de l'atoll de Raa dont la plage s'illumine d'un bleu éclatant la nuit, grâce au plancton bioluminescent. On l'appelle la « mer d'étoiles ».",
+          "photo": "File:Vaadhoo.jpg"
         },
         {
           "name": "Gili Lankanfushi",

@@ -1,7 +1,7 @@
 {
   "id": "floride",
   "title": "Floride : Everglades et Keys",
-  "subtitle": "Six nuits entre Miami, Islamorada et Key West : villa Vizcaya, Everglades de Shark Valley à Flamingo, récif de corail, Seven Mile Bridge, Bahia Honda et Dry Tortugas",
+  "subtitle": "Six nuits de Miami à Key West : villa Vizcaya, Everglades, récif de corail, Seven Mile Bridge, Bahia Honda et Dry Tortugas",
   "travelers": [
     "En couple"
   ],
@@ -234,7 +234,8 @@
             25.441,
             -80.7836
           ],
-          "culture": "Courte passerelle surélevée avec vue sur l'immense prairie de joncs des Everglades."
+          "culture": "Courte passerelle surélevée avec vue sur l'immense prairie de joncs des Everglades.",
+          "photo": "File:Pa-hay-okee Overlook.JPG"
         },
         {
           "name": "Flamingo (Everglades)",
@@ -576,7 +577,8 @@
             -81.772
           ],
           "culture": "La plus longue plage de Key West, sable et palmiers.",
-          "optional": true
+          "optional": true,
+          "photo": "File:Sunset at Smathers Beach- Key West, Florida (8509212953).jpg"
         }
       ],
       "stay": {

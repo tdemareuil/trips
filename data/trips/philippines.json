@@ -142,7 +142,8 @@
             9.7,
             118.7
           ],
-          "culture": "Rivière de la côte de Puerto Princesa, où des bateaux emmènent le soir observer des lucioles dans la mangrove."
+          "culture": "Rivière de la côte de Puerto Princesa, où des bateaux emmènent le soir observer des lucioles dans la mangrove.",
+          "photo": "File:Iwahig River, Puerto Princesa.jpg"
         },
         {
           "name": "Plage de Nagtabon",
@@ -212,11 +213,13 @@
         },
         {
           "name": "Maremegmeg Beach",
-          "culture": "Plage au sud d'El Nido, connue pour son beach club et ses couchers de soleil."
+          "culture": "Plage au sud d'El Nido, connue pour son beach club et ses couchers de soleil.",
+          "photo": "File:Sundown in Maremegmeg.jpg"
         },
         {
           "name": "Vanilla Beach",
-          "culture": "Plage d'El Nido, avec un beach club."
+          "culture": "Plage d'El Nido, avec un beach club.",
+          "photo": "File:Vanilla Beach El Nido Palawan.jpg"
         }
       ],
       "stay": {
@@ -591,7 +594,8 @@
             123.68
           ],
           "culture": "Petite île de Panglao dotée d'une réserve marine, réputée pour ses tombants de corail, ses tortues et ses bancs de poissons.",
-          "by": "boat"
+          "by": "boat",
+          "photo": "File:Balicasag Island.jpg"
         },
         {
           "name": "Plage d'Alona",

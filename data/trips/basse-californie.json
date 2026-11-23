@@ -1,7 +1,7 @@
 {
   "id": "basse-californie",
   "title": "Basse-Californie du Sud",
-  "subtitle": "Sept nuits de Los Cabos à Loreto : arche de Cabo San Lucas, récif de Cabo Pulmo, Espíritu Santo et ses otaries, Balandra, Todos Santos, baie de Concepción et mission de San Javier",
+  "subtitle": "Sept nuits de Los Cabos à Loreto : arche de Cabo San Lucas, Cabo Pulmo, Espíritu Santo, Balandra, Todos Santos et baie de Concepción",
   "travelers": [
     "En couple"
   ],
@@ -373,7 +373,8 @@
             -110.395
           ],
           "culture": "Grande baie de sable blanc sur la côte ouest d'Espíritu Santo.",
-          "by": "boat"
+          "by": "boat",
+          "photo": "File:Ensenada Grande Bay.JPG"
         }
       ],
       "stay": {
@@ -586,7 +587,8 @@
             26.013,
             -111.341
           ],
-          "culture": "Promenade du bord de mer, face aux îles du parc national de la baie de Loreto."
+          "culture": "Promenade du bord de mer, face aux îles du parc national de la baie de Loreto.",
+          "photo": "File:Malecon Statue with Skyline - Loreto - Baja California Sur - Mexico (23853764801).jpg"
         }
       ],
       "stay": {
@@ -652,7 +654,8 @@
             26.6403,
             -111.8317
           ],
-          "culture": "Langue de sable qui relie la côte à un îlot à marée basse, dans la baie de Concepción."
+          "culture": "Langue de sable qui relie la côte à un îlot à marée basse, dans la baie de Concepción.",
+          "photo": "File:Playa el Requeson (^161 explore 05-24-2022) - Flickr - Kirt Edblom.jpg"
         },
         {
           "name": "Playa La Perla",
@@ -676,7 +679,8 @@
             26.7647,
             -111.8879
           ],
-          "culture": "Plage au fond d'une anse protégée, au nord de la baie, avec la vue sur l'ensemble de la baie depuis la route."
+          "culture": "Plage au fond d'une anse protégée, au nord de la baie, avec la vue sur l'ensemble de la baie depuis la route.",
+          "photo": "File:Playa Santispac - Bahía Concepción - 180 pano.jpg"
         },
         {
           "name": "Mulegé",

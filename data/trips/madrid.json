@@ -33,7 +33,8 @@
             40.409,
             -3.7
           ],
-          "culture": "Marché de quartier de Lavapiés, à voir dans la liste des marchés de la ville."
+          "culture": "Marché de quartier de Lavapiés, à voir dans la liste des marchés de la ville.",
+          "photo": "File:Mercado de San Fernando (Madrid) 02.jpg"
         },
         {
           "name": "Barrio de las Letras",
@@ -110,7 +111,8 @@
           "coords": [
             40.412,
             -3.71
-          ]
+          ],
+          "photo": "File:Barrio de la Latina, con la Real Basílica de San Francisco el Grande (Madrid).jpg"
         },
         {
           "name": "Chocolatería San Ginés",

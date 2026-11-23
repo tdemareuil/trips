@@ -195,7 +195,8 @@
         },
         {
           "name": "Molino de El Roque",
-          "culture": "Joli moulin à vent entre Lajares et El Cotillo."
+          "culture": "Joli moulin à vent entre Lajares et El Cotillo.",
+          "photo": "File:Molino de El Roque, Fuerteventura.jpg"
         },
         {
           "name": "El Cotillo",
@@ -209,7 +210,8 @@
         },
         {
           "name": "Castillo de El Tostón",
-          "culture": "Tour de défense du XVIIIe siècle, à côté d'un phare, d'où l'on admire un magnifique coucher de soleil."
+          "culture": "Tour de défense du XVIIIe siècle, à côté d'un phare, d'où l'on admire un magnifique coucher de soleil.",
+          "photo": "File:Castillo de El Tostón 2018 3.jpg"
         },
         {
           "name": "Playa de la Concha",
@@ -270,7 +272,8 @@
         {
           "name": "Grandes Playas",
           "culture": "Longue plage de sable blanc de Corralejo, au pied des dunes.",
-          "optional": true
+          "optional": true,
+          "photo": "File:Corralejo Grandes Playas - Beach view.jpg"
         },
         {
           "name": "Port de Corralejo",
@@ -295,7 +298,8 @@
             28.93,
             -13.808
           ],
-          "culture": "Village perché du sud de Lanzarote, dont le mirador donne sur le sud de l'île."
+          "culture": "Village perché du sud de Lanzarote, dont le mirador donne sur le sud de l'île.",
+          "photo": "File:Femés, the village and the Atalaya de Femés.JPG"
         },
         {
           "name": "Plage de Papagayo",
@@ -374,7 +378,8 @@
         },
         {
           "name": "Caldera Blanca",
-          "culture": "Grand cratère de plus d'un kilomètre de large, dans le parc de Timanfaya, que l'on rejoint par une randonnée."
+          "culture": "Grand cratère de plus d'un kilomètre de large, dans le parc de Timanfaya, que l'on rejoint par une randonnée.",
+          "photo": "File:Auf dem Rand der Caldera Blanca, Lanzarote II.jpg"
         },
         {
           "name": "Montaña Colorada",
@@ -384,7 +389,8 @@
         {
           "name": "Montaña Negra",
           "culture": "Volcan à la couleur noire de ses cendres, voisin de la Montaña Colorada.",
-          "optional": true
+          "optional": true,
+          "photo": "File:Montaña Negra - Caldera Colorada - Lanzarote.JPG"
         },
         {
           "name": "La Santa",
@@ -674,7 +680,8 @@
         {
           "name": "Malasaña",
           "culture": "Quartier branché de Madrid, aux bars et aux boutiques alternatives.",
-          "optional": true
+          "optional": true,
+          "photo": "File:Madrid - Barrio de Malasaña 32.jpg"
         }
       ],
       "stay": {
@@ -742,17 +749,21 @@
         {
           "name": "Chueca",
           "culture": "Quartier gay et branché de Madrid, autour de la Plaza de Chueca.",
-          "optional": true
+          "optional": true,
+          "photo": "File:Iglesia de Santa María Magdalena, Chueca 03.jpg"
         },
         {
-          "name": "Casa Pérez Villaamil"
+          "name": "Casa Pérez Villaamil",
+          "photo": "File:Madrid - Casa de Enrique Pérez Villaamil - 121212 143805.jpg"
         },
         {
           "name": "Plaza de Matute",
-          "culture": "Petite place du Barrio de las Letras, dans le centre de Madrid."
+          "culture": "Petite place du Barrio de las Letras, dans le centre de Madrid.",
+          "photo": "File:Plaza de Matute (Madrid).jpg"
         },
         {
-          "name": "Plaza de los Carros"
+          "name": "Plaza de los Carros",
+          "photo": "File:Plaza de los Carros (4692822227).jpg"
         },
         {
           "name": "Plaza de la Paja",
@@ -768,7 +779,8 @@
         },
         {
           "name": "Casa de Cisneros",
-          "culture": "Palais de la Renaissance du XVIe siècle, sur la Plaza de la Villa, relié à l'hôtel de ville."
+          "culture": "Palais de la Renaissance du XVIe siècle, sur la Plaza de la Villa, relié à l'hôtel de ville.",
+          "photo": "File:Casa de Cisneros - 02.jpg"
         },
         {
           "name": "Palais Royal",

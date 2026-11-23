@@ -9,7 +9,7 @@
   "days": [
     {
       "n": 1,
-      "title": "Samedi : de La Ciotat à Cassis, nuit à La Fontasse",
+      "title": "De La Ciotat à Cassis, nuit à La Fontasse",
       "summary": "Départ de La Ciotat, calanque du Mugel et sémaphore du Bec de l'Aigle, Route des Crêtes jusqu'à Cassis, glace au port, puis calanques de Port-Miou et de Port-Pin et nuit à La Fontasse.",
       "route": "none",
       "stops": [
@@ -28,7 +28,8 @@
             43.165,
             5.615
           ],
-          "culture": "Petite calanque aux portes de La Ciotat, dans le parc du Mugel, par laquelle commence la traversée."
+          "culture": "Petite calanque aux portes de La Ciotat, dans le parc du Mugel, par laquelle commence la traversée.",
+          "photo": "File:Calanque du Mugel, 13600 La Ciotat, France - panoramio.jpg"
         },
         {
           "name": "Sémaphore du Bec de l'Aigle",
@@ -80,7 +81,8 @@
             43.205,
             5.511
           ],
-          "culture": "Petite calanque du massif des Calanques, à l'est de Port-Miou, accessible à pied."
+          "culture": "Petite calanque du massif des Calanques, à l'est de Port-Miou, accessible à pied.",
+          "photo": "File:Calanque de Port Pin, Cassis, Provence-Alpes-Côte d'Azur, France - panoramio (1).jpg"
         }
       ],
       "stay": {
@@ -135,7 +137,7 @@
     },
     {
       "n": 2,
-      "title": "Dimanche : En-Vau, Sugiton, Morgiou et retour",
+      "title": "En-Vau, Sugiton, Morgiou et retour",
       "summary": "Départ tôt pour être les premiers à la calanque d'En-Vau au lever du soleil, GR 98 jusqu'au col du Devenson, pique-nique à Sugiton, chemin côtier jusqu'à Morgiou, bus depuis Luminy et retour à Paris.",
       "route": "none",
       "stops": [

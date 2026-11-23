@@ -9,7 +9,7 @@
   "days": [
     {
       "n": 1,
-      "title": "Dimanche : journée à Palma",
+      "title": "Journée à Palma",
       "summary": "Arrivée à Palma à 14 h 55, bus depuis l'aéroport, marche dans la ville, éventuellement visite d'un palais, messe à 19 h à la cathédrale et dîner dans un bon restaurant.",
       "route": "drive",
       "stops": [
@@ -80,7 +80,7 @@
     },
     {
       "n": 2,
-      "title": "Lundi : vin et détente",
+      "title": "Vin et détente",
       "summary": "Matinée à Palma, joli petit café, fin de la visite à pied et bon sandwich, puis visite d'un domaine viticole autour de Binissalem, Pollença ou une plage du nord si le temps le permet, et nuit à Selva.",
       "route": "drive",
       "stops": [
@@ -148,7 +148,7 @@
     },
     {
       "n": 3,
-      "title": "Mardi : journée montagne et route MA-10",
+      "title": "Journée montagne et route MA-10",
       "summary": "Piscine à Selva le matin, déjeuner à Sóller, baignade à Cala Deià, route MA-10 jusqu'à Banyalbufar et dîner avec vue sur la mer à Banyalbufar ou Valldemossa.",
       "route": "drive",
       "stops": [
@@ -225,7 +225,7 @@
     },
     {
       "n": 4,
-      "title": "Mercredi : Sant Elm ou direction sud",
+      "title": "Sant Elm ou direction sud",
       "summary": "Soit Sant Elm, soit direction du sud et Cala Pi.",
       "route": "drive",
       "stops": [
@@ -269,7 +269,7 @@
     },
     {
       "n": 5,
-      "title": "Jeudi : sud-est",
+      "title": "Sud-est",
       "summary": "Le sud-est de l'île : Cala Llombards, Cala des Moro, Cala Figuera.",
       "route": "drive",
       "stops": [
@@ -297,7 +297,8 @@
             39.325,
             3.162
           ],
-          "culture": "Petit port de plaisance avec des maisons."
+          "culture": "Petit port de plaisance avec des maisons.",
+          "photo": "File:Mallorca Cala Figuera.jpg"
         },
         {
           "name": "Cala Llombards",
@@ -329,7 +330,7 @@
     },
     {
       "n": 6,
-      "title": "Vendredi : nord-est (Mondragó et Agulla)",
+      "title": "Nord-est (Mondragó et Agulla)",
       "summary": "Le nord-est de l'île : parc naturel de Mondragó et Cala Agulla.",
       "route": "drive",
       "stops": [
@@ -375,7 +376,7 @@
     },
     {
       "n": 7,
-      "title": "Samedi : nord-est (Mesquida et Betlem)",
+      "title": "Nord-est (Mesquida et Betlem)",
       "summary": "Le nord-est de l'île : Cala Mesquida et la randonnée entre Betlem et Es Caló.",
       "route": "drive",
       "stops": [
@@ -438,7 +439,7 @@
     },
     {
       "n": 8,
-      "title": "Dimanche : Pollença, Formentor et ferry de nuit",
+      "title": "Pollença, Formentor et ferry de nuit",
       "summary": "Matinée tranquille (plage à Can Picafort, déjeuner à Pollença), voiture rendue au Port de Pollença, après-midi au Cap Formentor ou ailleurs, puis ferry de nuit Alcúdia - Toulon à 21 h 30.",
       "route": "drive",
       "stops": [
@@ -449,7 +450,8 @@
             39.772,
             3.15
           ],
-          "culture": "Station balnéaire de la baie d'Alcúdia, avec une longue plage de sable."
+          "culture": "Station balnéaire de la baie d'Alcúdia, avec une longue plage de sable.",
+          "photo": "File:Mallorca Can Picafort asv2023-04 img05.jpg"
         },
         {
           "name": "Pollença",

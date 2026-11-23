@@ -1,7 +1,7 @@
 {
   "id": "seychelles",
   "title": "Seychelles",
-  "subtitle": "Huit jours entre Praslin, La Digue et Mahé : vallée de Mai, Anse Lazio, tortues de Curieuse, Anse Source d'Argent, Anse Cocos et Copolia",
+  "subtitle": "Huit jours entre Praslin, La Digue et Mahé : vallée de Mai, Anse Lazio, Curieuse, Anse Source d'Argent et Anse Cocos",
   "travelers": [
     "En couple"
   ],
@@ -449,7 +449,8 @@
             -4.7395,
             55.4697
           ],
-          "culture": "Petite crique de sable blanc à l'ouest de Mahé, entourée de granit et de végétation."
+          "culture": "Petite crique de sable blanc à l'ouest de Mahé, entourée de granit et de végétation.",
+          "photo": "File:Anse Soleil - panoramio.jpg"
         }
       ],
       "stay": {
@@ -521,7 +522,8 @@
             -4.738,
             55.523
           ],
-          "culture": "Grande plage de la côte est de Mahé, protégée par le récif, avec l'îlot Souris au large."
+          "culture": "Grande plage de la côte est de Mahé, protégée par le récif, avec l'îlot Souris au large.",
+          "photo": "File:Anse Royale - April 2022.jpg"
         }
       ],
       "stay": {

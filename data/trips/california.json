@@ -1,7 +1,7 @@
 {
   "id": "california",
   "title": "Californie",
-  "subtitle": "De Los Angeles à San Francisco : désert de Palm Springs et de Joshua Tree, Highway 1 et Big Sur, Livermore Valley, séquoias et Yosemite en hiver",
+  "subtitle": "De Los Angeles à San Francisco : désert de Joshua Tree, Big Sur, Highway 1, séquoias et Yosemite en hiver",
   "travelers": [
     "Thomas",
     "Louison"
@@ -743,7 +743,8 @@
             37.7414,
             -119.59
           ],
-          "culture": "Prairie plate au cœur de la vallée, d'où l'on voit Half Dome se refléter dans la rivière."
+          "culture": "Prairie plate au cœur de la vallée, d'où l'on voit Half Dome se refléter dans la rivière.",
+          "photo": "File:Cook's Meadow.jpg"
         },
         {
           "name": "Lower Yosemite Fall",

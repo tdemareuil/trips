@@ -56,7 +56,9 @@ function hydrate(trip) {
   trip.coverImg = img(trip.cover);
   if (trip.coverImg && trip.coverPosition) trip.coverImg = { ...trip.coverImg, pos: trip.coverPosition };
   const start = trip.start ? new Date(`${trip.start}T00:00:00Z`) : null;
-  if (start) trip.range = RANGE_DATE.formatRange(start, addDays(start, trip.days.length - 1));
+  // Guide-only trips have no days: an explicit `end` gives their date range.
+  const end = trip.end ? new Date(`${trip.end}T00:00:00Z`) : start && addDays(start, Math.max(trip.days.length - 1, 0));
+  if (start) trip.range = RANGE_DATE.formatRange(start, end);
   if (trip.altStart) trip.altLabel = LONG_DATE.format(new Date(`${trip.altStart}T00:00:00Z`));
   trip.days.forEach((day, i) => {
     const qualifier = (day.weekday || '').split(' ').slice(1);

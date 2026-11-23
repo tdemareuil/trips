@@ -9,7 +9,7 @@
   "days": [
     {
       "n": 1,
-      "title": "Vendredi : vol vers Madère et Ponta de São Lourenço",
+      "title": "Vol vers Madère et Ponta de São Lourenço",
       "summary": "Vol Nantes - Madère avec escale à Lisbonne, voiture de location, hôtel, randonnée à la Ponta de São Lourenço, coucher de soleil au Cristo Rei et dîner à Funchal.",
       "route": "none",
       "stops": [
@@ -75,7 +75,7 @@
     },
     {
       "n": 2,
-      "title": "Samedi : canyoning et route de la côte nord",
+      "title": "Canyoning et route de la côte nord",
       "summary": "Petit déjeuner vue mer et canyoning à Ribeiro Frio, puis déjeuner à Porto da Cruz et route de la côte nord jusqu'à São Vicente, où l'on arrive après 17 h 30 à cause des routes fermées pour un rallye.",
       "route": "drive",
       "stops": [
@@ -157,7 +157,7 @@
     },
     {
       "n": 3,
-      "title": "Dimanche : côte nord et ouest, fête des fleurs",
+      "title": "Côte nord et ouest, fête des fleurs",
       "summary": "Messe, exploration rapide du centre de l'île (route ER105 fermée), puis roadtrip côte nord et ouest vers Atrio, avec Seixal et la forêt de Fanal ; l'après-midi, fête des fleurs à Funchal.",
       "route": "drive",
       "stops": [
@@ -243,7 +243,7 @@
     },
     {
       "n": 4,
-      "title": "Lundi : nord-ouest et retour à Funchal",
+      "title": "Nord-ouest et retour à Funchal",
       "summary": "Roadtrip dans le nord-ouest de l'île (Fanal si pas déjà fait) ou canyoning ; déjeuner près de Seixal ou coupe vers Funchal par la randonnée PR25 ; retour à Funchal pour le jardin botanique, le vin et la broderie ; coucher de soleil à la vallée des Nonnes et dîner en taverne.",
       "route": "drive",
       "stops": [
@@ -335,7 +335,7 @@
     },
     {
       "n": 5,
-      "title": "Mardi : dernières visites et nuit à Lisbonne",
+      "title": "Dernières visites et nuit à Lisbonne",
       "summary": "Profiter de l'hôtel, rattraper ce qu'on n'a pas fait (Funchal, canyoning reporté, vallée des Nonnes, 25 Fontes), retour à l'aéroport à 18 h, dîner à l'aéroport et nuit à Lisbonne.",
       "route": "none",
       "stops": [
@@ -402,7 +402,7 @@
     },
     {
       "n": 6,
-      "title": "Mercredi : Lisbonne et retour",
+      "title": "Lisbonne et retour",
       "summary": "Matinée de travail dans la chambre, check-out à 11 h, cowork de 11 h à 16 h, puis vol à 18 h 15 et arrivée à Paris à 21 h 30.",
       "route": "none",
       "stops": [
@@ -962,5 +962,6 @@
   ],
   "season": "Mi-saison",
   "kind": "short",
-  "done": true
+  "done": true,
+  "start": "2026-05-15"
 }

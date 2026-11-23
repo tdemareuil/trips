@@ -52,7 +52,8 @@
             43.021,
             9.355
           ],
-          "culture": "Hameau tout au nord du Cap Corse, avec une plage de sable fin face à l'îlot de la Giraglia et une tour génoise."
+          "culture": "Hameau tout au nord du Cap Corse, avec une plage de sable fin face à l'îlot de la Giraglia et une tour génoise.",
+          "photo": "File:Ersa Barcaggio Plage de Cala.jpg"
         },
         {
           "name": "Sentier des Douaniers",
@@ -221,7 +222,8 @@
         },
         {
           "name": "Plage de Calvi",
-          "culture": "Longue plage de sable fin bordée de pins, face à la citadelle."
+          "culture": "Longue plage de sable fin bordée de pins, face à la citadelle.",
+          "photo": "File:Calvi Revellata plage de l'Alga.jpg"
         }
       ],
       "stay": {
@@ -367,7 +369,8 @@
             41.9,
             8.597
           ],
-          "culture": "Petit archipel d'îlots de granit rouge à l'entrée du golfe d'Ajaccio, célèbre pour ses couchers de soleil. Alphonse Daudet en a fait le décor de l'une de ses Lettres de mon moulin."
+          "culture": "Petit archipel d'îlots de granit rouge à l'entrée du golfe d'Ajaccio, célèbre pour ses couchers de soleil. Alphonse Daudet en a fait le décor de l'une de ses Lettres de mon moulin.",
+          "photo": "File:Corsica Ajaccio Îles Sanguinaires Phare.jpg"
         },
         {
           "name": "Gare maritime d'Ajaccio",
