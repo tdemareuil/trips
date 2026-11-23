@@ -875,7 +875,7 @@
       "n": 8,
       "weekday": "Mercredi",
       "title": "Travail & Silicon Valley",
-      "summary": "Journée de travail pour Thomas, puis soirée d'entreprise à Oracle Park. Louison fait la Silicon Valley en Caltrain : Stanford, Mountain View, Google et Apple Park.",
+      "summary": "Journée de travail pour Thomas, puis soirée d'entreprise à Oracle Park. Louison fait la Silicon Valley en Caltrain : la plus grande partie de la journée à Stanford, puis Mountain View et Google ; Apple Park en option.",
       "route": "none",
       "parts": [
         {
@@ -884,19 +884,19 @@
         },
         {
           "label": "Louison · matin",
-          "text": "Caltrain vers 8 h 30 depuis la gare de 4th & King, à côté d'Oracle Park, jusqu'à Palo Alto (environ 40 min en train express, 1 h en omnibus). Navette gratuite Marguerite jusqu'au campus de Stanford : le Main Quad, la Memorial Church et ses mosaïques, la vue depuis la Hoover Tower (à vérifier). En option, le HP Garage, à 15 min à pied de la gare de Palo Alto."
+          "text": "Caltrain vers 8 h 30 depuis la gare de 4th & King, à côté d'Oracle Park, jusqu'à Palo Alto (environ 40 min en train express, 1 h en omnibus), puis la navette gratuite Marguerite jusqu'au campus de Stanford. Le Main Quad et ses arcades de grès, la Memorial Church et ses mosaïques dorées, la vue sur la baie depuis le haut de la Hoover Tower (horaires à vérifier), et le jardin de sculptures de Rodin du Cantor Arts Center (gratuit)."
         },
         {
           "label": "Louison · midi",
-          "text": "Caltrain jusqu'à Mountain View (environ 10 min) et déjeuner dans Castro Street, la rue des restaurants, à la sortie de la gare."
+          "text": "Déjeuner sur le campus ou dans University Avenue, la rue principale de Palo Alto, à 15 min à pied. En option, le HP Garage, à 10 min à pied de là."
         },
         {
           "label": "Louison · après-midi",
-          "text": "Uber ou Lyft jusqu'au Google Visitor Experience (environ 10 min ; vérifier les jours d'ouverture), puis jusqu'à l'Apple Park Visitor Center, à Cupertino (environ 15 min) : boutique, café et terrasse avec vue sur l'anneau. Il n'y a pas de train entre ces deux sites ; en bus VTA, compter 45 min à 1 h par trajet. Puis Uber jusqu'à la gare de Sunnyvale (environ 10 min)."
+          "text": "Caltrain jusqu'à Mountain View (environ 10 min), balade dans Castro Street, puis Uber ou Lyft jusqu'au Google Visitor Experience (environ 10 min ; vérifier les jours d'ouverture). Retour en Caltrain depuis Mountain View vers 16 h 30, arrivée à San Francisco vers 17 h 30."
         },
         {
-          "label": "Louison · retour",
-          "text": "Caltrain de Sunnyvale vers 16 h 30, arrivée à San Francisco vers 17 h 30 (environ 1 h)."
+          "label": "Option · Apple Park",
+          "text": "L'Apple Park Visitor Center, à Cupertino (boutique, café et terrasse avec vue sur l'anneau), est le plus compliqué à rejoindre : aucun train, environ 15 min d'Uber depuis Google, puis 10 min jusqu'à la gare de Sunnyvale ; en bus VTA, compter 45 min à 1 h par trajet. À faire seulement s'il reste du temps, en rentrant par Sunnyvale."
         },
         {
           "label": "Soir · Louison",
@@ -932,7 +932,8 @@
         {
           "name": "Apple Park Visitor Center",
           "wiki": "Apple Park",
-          "culture": "Le siège d'Apple, ouvert en 2017, est un immense anneau de verre d'environ 1,6 km de circonférence, conçu avec l'architecte Norman Foster. Le Visitor Center propose une maquette en réalité augmentée du campus."
+          "culture": "Le siège d'Apple, ouvert en 2017, est un immense anneau de verre d'environ 1,6 km de circonférence, conçu avec l'architecte Norman Foster. Le Visitor Center propose une maquette en réalité augmentée du campus.",
+          "optional": true
         }
       ],
       "stay": {
@@ -952,16 +953,11 @@
         {
           "mode": "train",
           "text": "Palo Alto → Mountain View : environ 10 min en Caltrain",
-          "after": 1
-        },
-        {
-          "mode": "car",
-          "text": "Mountain View → Google → Apple Park → gare de Sunnyvale : environ 35 min d'Uber ou de Lyft en tout",
           "after": 2
         },
         {
           "mode": "train",
-          "text": "Sunnyvale → San Francisco : environ 1 h en Caltrain",
+          "text": "Mountain View → San Francisco : environ 1 h en Caltrain",
           "after": 3
         }
       ],
