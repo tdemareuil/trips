@@ -19,7 +19,8 @@
           "coords": [
             40.886,
             14.2908
-          ]
+          ],
+          "hidden": true
         },
         {
           "name": "Gare de Naples Garibaldi",
@@ -411,7 +412,8 @@
           "coords": [
             40.886,
             14.2908
-          ]
+          ],
+          "hidden": true
         }
       ],
       "stay": null,

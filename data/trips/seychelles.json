@@ -14,7 +14,7 @@
       "n": 1,
       "weekday": "Samedi",
       "title": "Arrivée à Mahé, ferry vers Praslin",
-      "route": "none",
+      "route": "drive",
       "summary": "Vol de nuit le vendredi soir, arrivée le samedi matin à Mahé, ferry rapide vers Praslin et premier après-midi au calme sur l'anse Volbert.",
       "parts": [
         {
@@ -45,7 +45,25 @@
             -4.6743,
             55.5218
           ],
-          "culture": "Seul aéroport international de l'archipel, sur la côte est de Mahé."
+          "culture": "Seul aéroport international de l'archipel, sur la côte est de Mahé.",
+          "hidden": true
+        },
+        {
+          "name": "Quai inter-îles de Victoria",
+          "coords": [
+            -4.6175,
+            55.458
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Jetée de Baie Sainte-Anne",
+          "coords": [
+            -4.3445,
+            55.769
+          ],
+          "hidden": true,
+          "by": "boat"
         },
         {
           "name": "Anse Volbert",
@@ -150,7 +168,7 @@
       "n": 3,
       "weekday": "Lundi",
       "title": "Île Curieuse et îlot Saint-Pierre",
-      "route": "none",
+      "route": "drive",
       "summary": "Bateau vers l'île Curieuse et ses tortues géantes en liberté, mangrove, puis snorkeling autour de l'îlot Saint-Pierre.",
       "parts": [
         {
@@ -168,8 +186,17 @@
       ],
       "stops": [
         {
+          "name": "Plage de Côte d'Or",
+          "coords": [
+            -4.314,
+            55.733
+          ],
+          "hidden": true
+        },
+        {
           "name": "Île Curieuse",
-          "wiki": "Curieuse"
+          "wiki": "Curieuse",
+          "by": "boat"
         },
         {
           "name": "Îlot Saint-Pierre",
@@ -178,7 +205,8 @@
             -4.313,
             55.757
           ],
-          "culture": "Îlot de granit près de Praslin, apprécié pour le snorkeling."
+          "culture": "Îlot de granit près de Praslin, apprécié pour le snorkeling.",
+          "by": "boat"
         }
       ],
       "stay": {
@@ -187,7 +215,8 @@
           -4.314,
           55.733
         ],
-        "note": "Même hôtel que la veille"
+        "note": "Même hôtel que la veille",
+        "by": "boat"
       },
       "transport": [
         {
@@ -207,7 +236,7 @@
       "n": 4,
       "weekday": "Mardi",
       "title": "Ferry vers La Digue, Anse Source d'Argent",
-      "route": "none",
+      "route": "drive",
       "summary": "Quinze minutes de ferry vers La Digue, l'île sans voitures, puis l'Anse Source d'Argent à vélo.",
       "parts": [
         {
@@ -224,6 +253,23 @@
         }
       ],
       "stops": [
+        {
+          "name": "Jetée de Baie Sainte-Anne",
+          "coords": [
+            -4.3445,
+            55.769
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Jetée de La Passe",
+          "coords": [
+            -4.3545,
+            55.828
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
         {
           "name": "La Digue",
           "wiki": "La Digue"
@@ -344,7 +390,7 @@
       "n": 6,
       "weekday": "Jeudi",
       "title": "Îlot Coco, puis retour à Mahé",
-      "route": "none",
+      "route": "drive",
       "summary": "Le matin, snorkeling autour de l'îlot Coco ; l'après-midi, ferry vers Mahé et installation dans le sud de l'île.",
       "parts": [
         {
@@ -362,13 +408,40 @@
       ],
       "stops": [
         {
+          "name": "Jetée de La Passe",
+          "coords": [
+            -4.3545,
+            55.828
+          ],
+          "hidden": true
+        },
+        {
           "name": "Îlot Coco",
           "photo": "File:COCO ISLAND, LA DIGUE, SEYCHELLES, APRIL 2013 - panoramio.jpg",
           "coords": [
             -4.325,
             55.85
           ],
-          "culture": "Îlot de granit au large de La Digue, réputé pour le snorkeling."
+          "culture": "Îlot de granit au large de La Digue, réputé pour le snorkeling.",
+          "by": "boat"
+        },
+        {
+          "name": "Jetée de La Passe (retour)",
+          "coords": [
+            -4.3545,
+            55.828
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
+        {
+          "name": "Quai inter-îles de Victoria",
+          "coords": [
+            -4.6175,
+            55.458
+          ],
+          "hidden": true,
+          "by": "boat"
         },
         {
           "name": "Anse Soleil",
@@ -529,7 +602,8 @@
           "coords": [
             -4.6743,
             55.5218
-          ]
+          ],
+          "hidden": true
         }
       ],
       "stay": null,

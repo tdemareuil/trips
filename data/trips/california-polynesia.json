@@ -11,7 +11,7 @@
       "n": 1,
       "title": "Arrivée à Los Angeles",
       "summary": "Arrivée à LAX et découverte de la ville : coucher de soleil au Griffith Observatory, Santa Monica, Hollywood Walk of Fame et repas à Venice Beach.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Los Angeles",
@@ -340,7 +340,7 @@
       "n": 6,
       "title": "San Diego : Torrey Pines",
       "summary": "Randonnée à Torrey Pines State Reserve, dîner à Coronado Island, Sunset Cliffs et Seaport Village.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Torrey Pines State Natural Reserve",
@@ -389,11 +389,12 @@
       "n": 7,
       "title": "Los Angeles → Tahiti",
       "summary": "Retour à LAX (2 h 30 de route), shopping souvenirs à San Diego, détente avant le vol vers Papeete (8 h de vol).",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Aéroport de Los Angeles",
-          "wiki": "Los Angeles International Airport"
+          "wiki": "Los Angeles International Airport",
+          "hidden": true
         }
       ],
       "stay": null,
@@ -420,8 +421,16 @@
       "n": 8,
       "title": "Arrivée à Papeete",
       "summary": "Marché de Papeete, plage de la pointe Vénus, musée de Tahiti et dîner local.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Tahiti-Faa'a",
+          "coords": [
+            -17.5537,
+            -149.6072
+          ],
+          "hidden": true
+        },
         {
           "name": "Papeete",
           "wiki": "Papeete"
@@ -473,8 +482,25 @@
       "n": 9,
       "title": "Moorea",
       "summary": "Ferry vers Moorea (45 min) : snorkeling, plage, baie d'Opunohu, belvédère de Moorea et lagons turquoise.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Gare maritime de Papeete",
+          "coords": [
+            -17.5348,
+            -149.569
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Gare maritime de Vaiare",
+          "coords": [
+            -17.524,
+            -149.777
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
         {
           "name": "Moorea",
           "wiki": "Moorea"
@@ -538,7 +564,7 @@
       "n": 10,
       "title": "Moorea : lagon",
       "summary": "Excursion en kayak, nage avec les raies, lagune de Moorea, jardin tropical et plongée avec les requins.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Lagune de Moorea",
@@ -582,8 +608,25 @@
       "n": 11,
       "title": "Huahine",
       "summary": "Vol vers Huahine (40 min) : sites archéologiques, marae ancestraux, ferme perlière et plage sauvage.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Moorea",
+          "coords": [
+            -17.49,
+            -149.7617
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de Huahine",
+          "coords": [
+            -16.6872,
+            -151.0217
+          ],
+          "hidden": true,
+          "by": "flight"
+        },
         {
           "name": "Huahine",
           "wiki": "Huahine"
@@ -646,7 +689,7 @@
       "n": 12,
       "title": "Huahine : détente",
       "summary": "Journée détente et exploration de l'île : jardin de corail, lac Fauna Nui et vanille de Huahine.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Jardin de corail de Huahine",
@@ -693,11 +736,29 @@
       "n": 13,
       "title": "Bora Bora",
       "summary": "Vol vers Bora Bora (45 min) : journée plage et lagon, Matira Beach, snorkeling et plongée sous-marine.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
+          "name": "Aéroport de Huahine",
+          "coords": [
+            -16.6872,
+            -151.0217
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de Bora Bora",
+          "coords": [
+            -16.4444,
+            -151.7514
+          ],
+          "hidden": true,
+          "by": "flight"
+        },
+        {
           "name": "Bora Bora",
-          "wiki": "Bora Bora"
+          "wiki": "Bora Bora",
+          "by": "boat"
         },
         {
           "name": "Plage de Matira",
@@ -744,11 +805,12 @@
       "n": 14,
       "title": "Bora Bora : catamaran",
       "summary": "Excursion en catamaran et dîner romantique ; mont Otemanu, jardin de corail et île aux oiseaux.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Mont Otemanu",
-          "wiki": "Mount Otemanu"
+          "wiki": "Mount Otemanu",
+          "optional": true
         },
         {
           "name": "Jardin de corail de Bora Bora",
@@ -756,7 +818,8 @@
             -16.54,
             -151.72
           ],
-          "culture": "Site de snorkeling du lagon, où le corail abrite poissons et raies."
+          "culture": "Site de snorkeling du lagon, où le corail abrite poissons et raies.",
+          "by": "boat"
         },
         {
           "name": "Île aux oiseaux de Bora Bora",
@@ -764,7 +827,8 @@
             -16.48,
             -151.76
           ],
-          "culture": "Les motus de Bora Bora sont de petits îlots de corail qui bordent le lagon."
+          "culture": "Les motus de Bora Bora sont de petits îlots de corail qui bordent le lagon.",
+          "by": "boat"
         }
       ],
       "stay": {
@@ -774,7 +838,8 @@
           -151.75
         ],
         "note": "Bungalow sur pilotis",
-        "price": "400 EUR (pour 2)"
+        "price": "400 EUR (pour 2)",
+        "by": "boat"
       },
       "parts": [
         {
@@ -791,8 +856,26 @@
       "n": 15,
       "title": "Rangiroa",
       "summary": "Vol vers Rangiroa (1 h 20) : plongée dans le lagon, exploration en bateau, passe de Tiputa, île aux Récifs et vin de Rangiroa.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Bora Bora",
+          "coords": [
+            -16.4444,
+            -151.7514
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
+        {
+          "name": "Aéroport de Rangiroa",
+          "coords": [
+            -14.9543,
+            -147.6608
+          ],
+          "hidden": true,
+          "by": "flight"
+        },
         {
           "name": "Rangiroa",
           "wiki": "Rangiroa"
@@ -812,7 +895,8 @@
             -15.14,
             -147.67
           ],
-          "culture": "Îlot du lagon de Rangiroa, aux piscines naturelles peu profondes."
+          "culture": "Îlot du lagon de Rangiroa, aux piscines naturelles peu profondes.",
+          "by": "boat"
         },
         {
           "name": "Vignoble de Rangiroa",
@@ -820,7 +904,8 @@
             -14.97,
             -147.62
           ],
-          "culture": "Vignoble tropical sur sable corallien, l'un des rares au monde plantés sur un atoll."
+          "culture": "Vignoble tropical sur sable corallien, l'un des rares au monde plantés sur un atoll.",
+          "by": "boat"
         }
       ],
       "stay": {
@@ -854,7 +939,7 @@
       "n": 16,
       "title": "Rangiroa : lagons",
       "summary": "Snorkeling, pêche, dégustation de fruits, lagons bleus, dauphins à Tiputa et baignade avec les requins.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Lagons bleus de Rangiroa",
@@ -863,7 +948,8 @@
             -147.65
           ],
           "photo": "File:1 Rangiroa Blue Lagoon 1.jpg",
-          "culture": "Lagon intérieur aux eaux turquoise, où nagent de jeunes requins à pointes noires."
+          "culture": "Lagon intérieur aux eaux turquoise, où nagent de jeunes requins à pointes noires.",
+          "by": "boat"
         },
         {
           "name": "Dauphins de Tiputa",
@@ -871,7 +957,8 @@
             -14.96,
             -147.62
           ],
-          "culture": "Des dauphins viennent jouer dans les vagues de la passe de Tiputa."
+          "culture": "Des dauphins viennent jouer dans les vagues de la passe de Tiputa.",
+          "by": "boat"
         }
       ],
       "stay": {
@@ -898,8 +985,25 @@
       "n": 17,
       "title": "Tikehau",
       "summary": "Vol vers Tikehau (20 min) : exploration des plages roses, lagunes et villages traditionnels.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Rangiroa",
+          "coords": [
+            -14.9543,
+            -147.6608
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de Tikehau",
+          "coords": [
+            -15.1196,
+            -148.2311
+          ],
+          "hidden": true,
+          "by": "flight"
+        },
         {
           "name": "Tikehau",
           "wiki": "Tikehau"
@@ -953,7 +1057,7 @@
       "n": 18,
       "title": "Tikehau : journée libre",
       "summary": "Journée libre et balade en vélo : bancs de sable, ferme perlière et observation des oiseaux marins.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Bancs de sable de Tikehau",
@@ -996,8 +1100,25 @@
       "n": 19,
       "title": "Retour à Papeete",
       "summary": "Retour à Papeete (1 h) : dernier jour de détente, marché artisanal, promenade au bord de mer et souvenirs locaux.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Tikehau",
+          "coords": [
+            -15.1196,
+            -148.2311
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de Tahiti-Faa'a",
+          "coords": [
+            -17.5537,
+            -149.6072
+          ],
+          "hidden": true,
+          "by": "flight"
+        },
         {
           "name": "Marché artisanal de Papeete",
           "coords": [
@@ -1043,11 +1164,12 @@
       "n": 20,
       "title": "Tahiti → Paris",
       "summary": "Vol retour vers Paris (22 h) et shopping à Papeete.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Aéroport de Tahiti-Faa'a",
-          "wiki": "Faa'a International Airport"
+          "wiki": "Faa'a International Airport",
+          "hidden": true
         }
       ],
       "stay": null,

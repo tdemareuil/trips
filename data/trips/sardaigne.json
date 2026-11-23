@@ -11,7 +11,7 @@
       "n": 1,
       "title": "Olbia, plages de Tavolara et arrivée à La Maddalena",
       "summary": "Vol aller, voiture de location à l'aéroport d'Olbia, journée dans la zone de l'île de Tavolara à pied, puis ferry Palau - La Maddalena et nuit à La Maddalena.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Aéroport d'Olbia",
@@ -19,7 +19,8 @@
           "coords": [
             40.8987,
             9.5176
-          ]
+          ],
+          "hidden": true
         },
         {
           "name": "Tre Sorelle",
@@ -40,7 +41,8 @@
         {
           "name": "Île de Tavolara",
           "wiki": "Tavolara",
-          "culture": "Île calcaire dressée au large d'Olbia, partie d'une aire marine protégée ; tout est beau dans ce coin-là."
+          "culture": "Île calcaire dressée au large d'Olbia, partie d'une aire marine protégée ; tout est beau dans ce coin-là.",
+          "optional": true
         },
         {
           "name": "Palau",
@@ -51,8 +53,17 @@
           ]
         },
         {
+          "name": "Port de Palau",
+          "coords": [
+            41.182,
+            9.384
+          ],
+          "hidden": true
+        },
+        {
           "name": "La Maddalena",
-          "wiki": "La Maddalena"
+          "wiki": "La Maddalena",
+          "by": "boat"
         }
       ],
       "stay": {
@@ -220,7 +231,7 @@
       "n": 3,
       "title": "Bassa Trinità, Porto Rafael et Castelsardo",
       "summary": "Matinée à la plage de Bassa Trinità, ferry Maddalena - Palau à 12 h 30, déjeuner à Porto Rafael, plage de Rena Majore et nuit à Castelsardo.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Bassa Trinità",
@@ -230,6 +241,23 @@
           ],
           "culture": "Connue comme la plus belle plage de l'île, au milieu des dunes ; très beau mais beaucoup de monde et exposée au vent d'ouest.",
           "photo": "File:La Maddalena 4 - Bassa Trinita.JPG"
+        },
+        {
+          "name": "Port de La Maddalena",
+          "coords": [
+            41.2105,
+            9.409
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Port de Palau",
+          "coords": [
+            41.182,
+            9.384
+          ],
+          "hidden": true,
+          "by": "boat"
         },
         {
           "name": "Porto Rafael",
@@ -549,7 +577,7 @@
       "n": 8,
       "title": "Retour : Olbia, Nice et Toulon",
       "summary": "Retour de la voiture, vol Olbia - Nice à 13 h 20, puis Flixbus jusqu'à Toulon.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Aéroport d'Olbia",
@@ -557,7 +585,8 @@
           "coords": [
             40.8987,
             9.5176
-          ]
+          ],
+          "hidden": true
         }
       ],
       "stay": null,

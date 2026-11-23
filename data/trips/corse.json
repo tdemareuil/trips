@@ -11,7 +11,7 @@
       "n": 1,
       "title": "Bastia et le Cap Corse",
       "summary": "Arrivée à Bastia à 6h, petit-déjeuner sur le Vieux-Port, puis route vers le Cap Corse : Erbalunga, Nonza, plage de Barcaggio et sentier des Douaniers. Nuit à Saint-Florent.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -326,7 +326,7 @@
       "n": 5,
       "title": "Ajaccio et départ",
       "summary": "Route vers Ajaccio, vieille ville (maison Bonaparte, marché local, cathédrale), excursion aux îles Sanguinaires, dîner en bord de mer et ferry à 23h.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -368,6 +368,14 @@
             8.597
           ],
           "culture": "Petit archipel d'îlots de granit rouge à l'entrée du golfe d'Ajaccio, célèbre pour ses couchers de soleil. Alphonse Daudet en a fait le décor de l'une de ses Lettres de mon moulin."
+        },
+        {
+          "name": "Gare maritime d'Ajaccio",
+          "coords": [
+            41.9235,
+            8.7395
+          ],
+          "hidden": true
         }
       ],
       "stay": null,

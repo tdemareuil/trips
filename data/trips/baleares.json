@@ -11,7 +11,7 @@
       "n": 1,
       "title": "Dimanche : journée à Palma",
       "summary": "Arrivée à Palma à 14 h 55, bus depuis l'aéroport, marche dans la ville, éventuellement visite d'un palais, messe à 19 h à la cathédrale et dîner dans un bon restaurant.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Aéroport de Palma",
@@ -19,7 +19,8 @@
           "coords": [
             39.5517,
             2.7388
-          ]
+          ],
+          "hidden": true
         },
         {
           "name": "Palma",
@@ -32,12 +33,14 @@
         },
         {
           "name": "Palais de l'Almudaina",
-          "wiki": "Royal Palace of La Almudaina"
+          "wiki": "Royal Palace of La Almudaina",
+          "optional": true
         },
         {
           "name": "Château de Bellver",
           "wiki": "Bellver Castle",
-          "culture": "Château circulaire, très belle vue sur la baie de Palma (4 €)."
+          "culture": "Château circulaire, très belle vue sur la baie de Palma (4 €).",
+          "optional": true
         }
       ],
       "stay": {
@@ -96,7 +99,8 @@
           "coords": [
             39.877,
             3.016
-          ]
+          ],
+          "optional": true
         },
         {
           "name": "Cala de Muro",
@@ -104,7 +108,8 @@
             39.79,
             3.1
           ],
-          "culture": "Plage de sable fin de la baie d'Alcúdia, en bordure du parc naturel de s'Albufera."
+          "culture": "Plage de sable fin de la baie d'Alcúdia, en bordure du parc naturel de s'Albufera.",
+          "optional": true
         }
       ],
       "stay": {
@@ -173,7 +178,8 @@
         {
           "name": "Valldemossa",
           "wiki": "Valldemossa",
-          "culture": "Plus touristique que ses voisins ; se garer dans les lotissements environnants."
+          "culture": "Plus touristique que ses voisins ; se garer dans les lotissements environnants.",
+          "optional": true
         }
       ],
       "stay": {
@@ -226,7 +232,8 @@
         {
           "name": "Sant Elm",
           "wiki": "Sant Elm",
-          "culture": "Petit village de la pointe sud-ouest de l'île, d'où partent les bateaux pour l'île de Sa Dragonera."
+          "culture": "Petit village de la pointe sud-ouest de l'île, d'où partent les bateaux pour l'île de Sa Dragonera.",
+          "optional": true
         },
         {
           "name": "Cala Pi",
@@ -433,7 +440,7 @@
       "n": 8,
       "title": "Dimanche : Pollença, Formentor et ferry de nuit",
       "summary": "Matinée tranquille (plage à Can Picafort, déjeuner à Pollença), voiture rendue au Port de Pollença, après-midi au Cap Formentor ou ailleurs, puis ferry de nuit Alcúdia - Toulon à 21 h 30.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Can Picafort",

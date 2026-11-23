@@ -11,7 +11,7 @@
       "n": 1,
       "title": "Arrivée à Antananarivo",
       "summary": "Visite du Palais de la Reine et exploration du marché artisanal de la Digue pour des souvenirs locaux.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Antananarivo",
@@ -136,7 +136,7 @@
       "n": 4,
       "title": "Ranomafana",
       "summary": "Journée complète de randonnée dans le parc : cascades, observation de la faune et de la flore.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Parc national de Ranomafana",
@@ -304,8 +304,25 @@
       "n": 8,
       "title": "Tuléar → Nosy Be",
       "summary": "Vol (2 h) vers Nosy Be, détente sur la plage d'Ambatoloaka et coucher de soleil depuis le mont Passot.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Tuléar",
+          "coords": [
+            -23.3834,
+            43.7285
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de Nosy Be",
+          "coords": [
+            -13.312,
+            48.314
+          ],
+          "hidden": true,
+          "by": "flight"
+        },
         {
           "name": "Nosy Be",
           "wiki": "Nosy Be",
@@ -356,12 +373,13 @@
       "n": 9,
       "title": "Nosy Komba et Nosy Tanikely",
       "summary": "Excursion à Nosy Komba pour ses lémuriens et snorkeling à Nosy Tanikely, réserve marine protégée.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Nosy Komba",
           "wiki": "Nosy Komba",
-          "culture": "Île connue pour ses makis, ses broderies et ses villages."
+          "culture": "Île connue pour ses makis, ses broderies et ses villages.",
+          "by": "boat"
         },
         {
           "name": "Nosy Tanikely",
@@ -370,7 +388,8 @@
           "coords": [
             -13.472,
             48.23
-          ]
+          ],
+          "by": "boat"
         }
       ],
       "stay": {
@@ -379,7 +398,8 @@
           -13.4,
           48.24
         ],
-        "note": "Même hôtel"
+        "note": "Même hôtel",
+        "by": "boat"
       },
       "parts": [
         {
@@ -436,7 +456,7 @@
       "n": 11,
       "title": "Nosy Be → Nosy Iranja",
       "summary": "Bateau (1 h) vers Nosy Iranja : plage immaculée, site de nidification des tortues, pique-nique sur la plage.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Nosy Iranja",
@@ -445,7 +465,8 @@
           "coords": [
             -13.51,
             47.87
-          ]
+          ],
+          "by": "boat"
         }
       ],
       "stay": {
@@ -474,11 +495,12 @@
       "n": 12,
       "title": "Nosy Iranja → Nosy Be",
       "summary": "Retour en bateau (1 h), sortie en mer pour observer les dauphins et coucher de soleil en croisière.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Nosy Be",
-          "wiki": "Nosy Be"
+          "wiki": "Nosy Be",
+          "by": "boat"
         }
       ],
       "stay": {
@@ -506,7 +528,7 @@
       "n": 13,
       "title": "Nosy Be : ylang-ylang",
       "summary": "Visite des plantations d'ylang-ylang et massage traditionnel malgache pour une détente absolue.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Plantations d'ylang-ylang",
@@ -537,7 +559,7 @@
       "n": 14,
       "title": "Nosy Be → Antananarivo → retour",
       "summary": "Vol vers votre destination, fin du voyage.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Aéroport de Nosy Be",
@@ -545,7 +567,8 @@
           "coords": [
             -13.312,
             48.314
-          ]
+          ],
+          "hidden": true
         },
         {
           "name": "Aéroport d'Antananarivo-Ivato",
@@ -553,7 +576,9 @@
             -18.7969,
             47.4788
           ],
-          "culture": "Principal aéroport international de Madagascar, au nord de la capitale."
+          "culture": "Principal aéroport international de Madagascar, au nord de la capitale.",
+          "hidden": true,
+          "by": "flight"
         }
       ],
       "stay": null,

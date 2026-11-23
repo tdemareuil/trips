@@ -19,7 +19,8 @@
           "coords": [
             40.4983,
             -3.5676
-          ]
+          ],
+          "hidden": true
         },
         {
           "name": "Lavapiés",

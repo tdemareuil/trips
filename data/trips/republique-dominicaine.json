@@ -29,7 +29,8 @@
       "stops": [
         {
           "name": "Aéroport de Santo Domingo (SDQ)",
-          "wiki": "Las Américas International Airport"
+          "wiki": "Las Américas International Airport",
+          "hidden": true
         },
         {
           "name": "Calle El Conde",
@@ -197,13 +198,31 @@
           "culture": "Lagune salée du parc Jaragua, avec flamants roses et iguanes."
         },
         {
+          "name": "Embarcadère de Cabo Rojo",
+          "coords": [
+            17.903,
+            -71.656
+          ],
+          "hidden": true
+        },
+        {
           "name": "Bahía de las Águilas",
           "wiki": "Bahía de las Águilas",
           "coords": [
             17.795,
             -71.65
           ],
-          "culture": "Environ 8 km de plage vierge, sans construction, dans le parc national Jaragua."
+          "culture": "Environ 8 km de plage vierge, sans construction, dans le parc national Jaragua.",
+          "by": "boat"
+        },
+        {
+          "name": "Embarcadère de Cabo Rojo (retour)",
+          "coords": [
+            17.903,
+            -71.656
+          ],
+          "hidden": true,
+          "by": "boat"
         }
       ],
       "stay": {
@@ -341,7 +360,7 @@
       "n": 5,
       "title": "Playa Frontón, Playa Madama et Playa Rincón",
       "summary": "Journée en bateau privé depuis Las Galeras : le meilleur snorkeling de Samaná à Playa Frontón, la crique cachée de Playa Madama, puis trois kilomètres de sable blanc à Playa Rincón.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -358,13 +377,22 @@
       ],
       "stops": [
         {
+          "name": "Plage de Las Galeras",
+          "coords": [
+            19.292,
+            -69.196
+          ],
+          "hidden": true
+        },
+        {
           "name": "Playa Frontón",
           "coords": [
             19.3093,
             -69.1823
           ],
           "culture": "Falaises et eau cristalline, avec le meilleur snorkeling de Samaná ; accessible seulement en bateau ou après 1 h de marche.",
-          "photo": "File:Playa Frontón December 2020.jpg"
+          "photo": "File:Playa Frontón December 2020.jpg",
+          "by": "boat"
         },
         {
           "name": "Playa Madama",
@@ -372,7 +400,8 @@
             19.3015,
             -69.185
           ],
-          "culture": "Petite crique cachée, accessible en bateau."
+          "culture": "Petite crique cachée, accessible en bateau.",
+          "by": "boat"
         },
         {
           "name": "Playa Rincón",
@@ -381,7 +410,8 @@
             -69.146
           ],
           "culture": "Trois kilomètres de sable blanc et de cocotiers, avec la rivière Caño Frío à l'extrémité ouest.",
-          "photo": "File:Playa Rincón December 2020 2.jpg"
+          "photo": "File:Playa Rincón December 2020 2.jpg",
+          "by": "boat"
         }
       ],
       "stay": {
@@ -390,7 +420,8 @@
           19.29,
           -69.207
         ],
-        "note": "Las Galeras (2e nuit)"
+        "note": "Las Galeras (2e nuit)",
+        "by": "boat"
       },
       "transport": [
         {
@@ -427,13 +458,31 @@
       ],
       "stops": [
         {
+          "name": "Port de Samaná",
+          "coords": [
+            19.2045,
+            -69.333
+          ],
+          "hidden": true
+        },
+        {
           "name": "Parc national de Los Haitises",
           "wiki": "Los Haitises National Park",
           "coords": [
             19.017,
             -69.47
           ],
-          "culture": "Environ 600 km² de pitons karstiques, de mangroves et de grottes ornées d'art rupestre taïno."
+          "culture": "Environ 600 km² de pitons karstiques, de mangroves et de grottes ornées d'art rupestre taïno.",
+          "by": "boat"
+        },
+        {
+          "name": "Port de Samaná (retour)",
+          "coords": [
+            19.2045,
+            -69.333
+          ],
+          "hidden": true,
+          "by": "boat"
         },
         {
           "name": "Pueblo de los Pescadores, Las Terrenas",
@@ -524,7 +573,8 @@
         },
         {
           "name": "Aéroport de Santo Domingo (SDQ)",
-          "wiki": "Las Américas International Airport"
+          "wiki": "Las Américas International Airport",
+          "hidden": true
         }
       ],
       "end": "Vol retour depuis Santo Domingo (SDQ)",

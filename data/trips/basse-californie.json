@@ -25,7 +25,8 @@
       "stops": [
         {
           "name": "Aéroport de Los Cabos (SJD)",
-          "wiki": "Los Cabos International Airport"
+          "wiki": "Los Cabos International Airport",
+          "hidden": true
         },
         {
           "name": "San José del Cabo",
@@ -98,13 +99,31 @@
       ],
       "stops": [
         {
+          "name": "Marina de Cabo San Lucas",
+          "coords": [
+            22.8805,
+            -109.911
+          ],
+          "hidden": true
+        },
+        {
           "name": "El Arco de Cabo San Lucas",
           "wiki": "El Arco de Cabo San Lucas",
           "coords": [
             22.8757,
             -109.8915
           ],
-          "culture": "Arche de granite à la pointe de la péninsule de Basse-Californie, là où le Pacifique rencontre la mer de Cortez."
+          "culture": "Arche de granite à la pointe de la péninsule de Basse-Californie, là où le Pacifique rencontre la mer de Cortez.",
+          "by": "boat"
+        },
+        {
+          "name": "Marina de Cabo San Lucas (retour)",
+          "coords": [
+            22.8805,
+            -109.911
+          ],
+          "hidden": true,
+          "by": "boat"
         },
         {
           "name": "Playa Santa María",
@@ -298,7 +317,7 @@
     },
     {
       "n": 4,
-      "route": "none",
+      "route": "drive",
       "title": "Île Espíritu Santo et les otaries de Los Islotes",
       "summary": "Sortie en bateau vers l'île Espíritu Santo, classée par l'UNESCO : falaises rouges, criques turquoise et colonie de lions de mer à Los Islotes.",
       "parts": [
@@ -321,13 +340,22 @@
       ],
       "stops": [
         {
+          "name": "Marina de La Paz",
+          "coords": [
+            24.1551,
+            -110.3261
+          ],
+          "hidden": true
+        },
+        {
           "name": "Île Espíritu Santo",
           "wiki": "Espíritu Santo Island",
           "coords": [
             24.495,
             -110.36
           ],
-          "culture": "Île désertique protégée, aux falaises rouges et aux criques turquoise, classée par l'UNESCO avec les îles du golfe de Californie."
+          "culture": "Île désertique protégée, aux falaises rouges et aux criques turquoise, classée par l'UNESCO avec les îles du golfe de Californie.",
+          "by": "boat"
         },
         {
           "name": "Los Islotes",
@@ -335,7 +363,8 @@
             24.5967,
             -110.3993
           ],
-          "culture": "Îlots rocheux à la pointe nord d'Espíritu Santo, où vit une colonie de lions de mer de Californie. La baignade y est fermée de juin à août, pendant les naissances, et ouverte en janvier."
+          "culture": "Îlots rocheux à la pointe nord d'Espíritu Santo, où vit une colonie de lions de mer de Californie. La baignade y est fermée de juin à août, pendant les naissances, et ouverte en janvier.",
+          "by": "boat"
         },
         {
           "name": "Ensenada Grande",
@@ -343,7 +372,8 @@
             24.5605,
             -110.395
           ],
-          "culture": "Grande baie de sable blanc sur la côte ouest d'Espíritu Santo."
+          "culture": "Grande baie de sable blanc sur la côte ouest d'Espíritu Santo.",
+          "by": "boat"
         }
       ],
       "stay": {
@@ -352,7 +382,8 @@
           24.158,
           -110.313
         ],
-        "note": "Même hôtel que la veille"
+        "note": "Même hôtel que la veille",
+        "by": "boat"
       },
       "transport": [
         {
@@ -729,13 +760,31 @@
       ],
       "stops": [
         {
+          "name": "Port de Loreto",
+          "coords": [
+            26.0118,
+            -111.342
+          ],
+          "hidden": true
+        },
+        {
           "name": "Baie de Loreto (baleines)",
           "wiki": "Loreto Bay National Marine Park",
           "coords": [
             25.95,
             -111.25
           ],
-          "culture": "Parc national marin de la baie de Loreto, classé par l'UNESCO avec les îles du golfe de Californie : l'un des rares endroits où les baleines bleues viennent se nourrir près de la côte."
+          "culture": "Parc national marin de la baie de Loreto, classé par l'UNESCO avec les îles du golfe de Californie : l'un des rares endroits où les baleines bleues viennent se nourrir près de la côte.",
+          "by": "boat"
+        },
+        {
+          "name": "Port de Loreto (retour)",
+          "coords": [
+            26.0118,
+            -111.342
+          ],
+          "hidden": true,
+          "by": "boat"
         },
         {
           "name": "Mission de San Javier",
@@ -752,7 +801,8 @@
             25.9892,
             -111.348
           ],
-          "culture": "Petit aéroport international, à 10 min du centre."
+          "culture": "Petit aéroport international, à 10 min du centre.",
+          "hidden": true
         }
       ],
       "transport": [

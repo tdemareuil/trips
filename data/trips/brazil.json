@@ -11,8 +11,16 @@
       "n": 1,
       "title": "Arrivée à Rio de Janeiro",
       "summary": "Arrivée à Rio vers 6 h du matin après le vol depuis Paris. Détente sur les plages, montée en téléphérique au Pain de Sucre et feijoada, le plat emblématique du Brésil.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Rio de Janeiro-Galeão",
+          "coords": [
+            -22.809,
+            -43.2506
+          ],
+          "hidden": true
+        },
         {
           "name": "Copacabana",
           "wiki": "Copacabana, Rio de Janeiro",
@@ -47,7 +55,7 @@
       "n": 2,
       "title": "Rio : Christ Rédempteur et Ipanema",
       "summary": "Visite du Corcovado et du Christ Rédempteur, puis coucher de soleil sur la plage d'Ipanema et caipirinhas dans les bars locaux.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Christ Rédempteur",
@@ -78,7 +86,7 @@
       "n": 3,
       "title": "Rio : Santa Teresa, Lapa et jardin botanique",
       "summary": "Exploration culturelle : le quartier bohème de Santa Teresa, les arches et les bars à samba de Lapa, puis le jardin botanique et sa collection d'orchidées.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Santa Teresa",
@@ -112,6 +120,15 @@
       "summary": "Transfert vers Ilha Grande, île sans voitures au large de la côte sud de l'État de Rio. Randonnée et plages : Lopes Mendes, Pico do Papagaio, cascade de la Feiticeira.",
       "route": "drive",
       "stops": [
+        {
+          "name": "Vila do Abraão",
+          "coords": [
+            -23.1393,
+            -44.1679
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
         {
           "name": "Lopes Mendes",
           "photo": "File:Praia de Lopes Mendes, Ilha Grande.jpg",
@@ -171,8 +188,16 @@
       "n": 5,
       "title": "Ilha Grande : excursion en bateau",
       "summary": "Excursion en bateau autour de l'île : snorkeling dans la Lagoa Azul et grottes marines.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Vila do Abraão",
+          "coords": [
+            -23.1393,
+            -44.1679
+          ],
+          "hidden": true
+        },
         {
           "name": "Lagoa Azul",
           "photo": "File:Lagoa Azul, Ilha Grande.jpg",
@@ -180,7 +205,8 @@
             -23.133,
             -44.272
           ],
-          "culture": "Lagune aux eaux turquoise, abritée par un récif, où l'on nage au milieu de nombreux poissons et, souvent, de tortues."
+          "culture": "Lagune aux eaux turquoise, abritée par un récif, où l'on nage au milieu de nombreux poissons et, souvent, de tortues.",
+          "by": "boat"
         },
         {
           "name": "Gruta do Acaiá",
@@ -189,7 +215,17 @@
             -23.19,
             -44.19
           ],
-          "culture": "Grotte marine de la côte sud de l'île, que l'on visite en bateau lors de l'excursion."
+          "culture": "Grotte marine de la côte sud de l'île, que l'on visite en bateau lors de l'excursion.",
+          "by": "boat"
+        },
+        {
+          "name": "Vila do Abraão (retour)",
+          "coords": [
+            -23.1393,
+            -44.1679
+          ],
+          "hidden": true,
+          "by": "boat"
         }
       ],
       "stay": {
@@ -207,8 +243,16 @@
       "n": 6,
       "title": "Ilha Grande : Aventureiro et Lagoa Verde",
       "summary": "Exploration et détente : la plage isolée d'Aventureiro et le snorkeling dans la Lagoa Verde.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Vila do Abraão",
+          "coords": [
+            -23.1393,
+            -44.1679
+          ],
+          "hidden": true
+        },
         {
           "name": "Praia do Aventureiro",
           "photo": "File:Praia do Aventureiro em Ilha Grande.jpg",
@@ -216,7 +260,8 @@
             -23.184,
             -44.34
           ],
-          "culture": "Plage isolée de l'ouest de l'île, réputée pour son palmier incliné et son village de pêcheurs, sur une île où il n'y a aucune voiture."
+          "culture": "Plage isolée de l'ouest de l'île, réputée pour son palmier incliné et son village de pêcheurs, sur une île où il n'y a aucune voiture.",
+          "by": "boat"
         },
         {
           "name": "Lagoa Verde",
@@ -225,7 +270,17 @@
             -23.125,
             -44.265
           ],
-          "culture": "Lagune aux eaux vert émeraude, voisine de la Lagoa Azul et très prisée des amateurs de snorkeling."
+          "culture": "Lagune aux eaux vert émeraude, voisine de la Lagoa Azul et très prisée des amateurs de snorkeling.",
+          "by": "boat"
+        },
+        {
+          "name": "Vila do Abraão (retour)",
+          "coords": [
+            -23.1393,
+            -44.1679
+          ],
+          "hidden": true,
+          "by": "boat"
         }
       ],
       "stay": {
@@ -239,7 +294,7 @@
       "n": 7,
       "title": "Ilha Grande ➔ Paraty ➔ Foz do Iguaçu",
       "summary": "Journée de transition, avec une escale à Paraty à midi avant le vol vers Foz do Iguaçu.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -256,6 +311,23 @@
       ],
       "stops": [
         {
+          "name": "Vila do Abraão",
+          "coords": [
+            -23.1393,
+            -44.1679
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Cais de Paraty",
+          "coords": [
+            -23.2203,
+            -44.7128
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
+        {
           "name": "Paraty",
           "wiki": "Paraty",
           "culture": "Port colonial du XVIIe siècle, au centre historique aux rues pavées conçues pour être inondées par les grandes marées. Paraty est inscrite à l'UNESCO depuis 2019, avec Ilha Grande. Elle est réputée pour sa cachaça."
@@ -267,7 +339,34 @@
             -23.297,
             -44.677
           ],
-          "culture": "Baie profonde d'environ 8 km, souvent présentée comme un fjord tropical, enserrée par la forêt atlantique et bordée de mangroves."
+          "culture": "Baie profonde d'environ 8 km, souvent présentée comme un fjord tropical, enserrée par la forêt atlantique et bordée de mangroves.",
+          "by": "boat"
+        },
+        {
+          "name": "Cais de Paraty (retour)",
+          "coords": [
+            -23.2203,
+            -44.7128
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
+        {
+          "name": "Aéroport de Rio de Janeiro-Galeão",
+          "coords": [
+            -22.809,
+            -43.2506
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de Foz do Iguaçu",
+          "coords": [
+            -25.6003,
+            -54.4872
+          ],
+          "hidden": true,
+          "by": "flight"
         }
       ],
       "stay": {
@@ -307,7 +406,7 @@
       "n": 8,
       "title": "Chutes d'Iguaçu, côté argentin",
       "summary": "Les chutes côté argentin : randonnée dans la jungle, circuits supérieur et inférieur, Garganta del Diablo et excursion en bateau sous les chutes. Si le temps le permet, parc des oiseaux côté brésilien.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Chutes d'Iguazú",
@@ -326,7 +425,8 @@
         {
           "name": "Parque das Aves",
           "wiki": "Parque das Aves",
-          "culture": "Parc ornithologique d'environ 16 hectares, voisin des chutes, avec de grandes volières où l'on marche parmi les toucans et les aras."
+          "culture": "Parc ornithologique d'environ 16 hectares, voisin des chutes, avec de grandes volières où l'on marche parmi les toucans et les aras.",
+          "optional": true
         }
       ],
       "stay": {
@@ -345,12 +445,29 @@
       "n": 9,
       "title": "Chutes côté brésilien ➔ Salvador",
       "summary": "Les chutes côté brésilien, pour la vue panoramique, puis vol vers Salvador de Bahia. Nuit à l'hôtel, sans visite de la ville.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Parc national d'Iguaçu (côté brésilien)",
           "wiki": "Iguaçu National Park",
           "culture": "Inscrit à l'UNESCO depuis 1986, il protège une grande forêt atlantique. Côté brésilien, on embrasse du regard l'ensemble des chutes, de loin, depuis une longue passerelle."
+        },
+        {
+          "name": "Aéroport de Foz do Iguaçu",
+          "coords": [
+            -25.6003,
+            -54.4872
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de Salvador",
+          "coords": [
+            -12.9086,
+            -38.3225
+          ],
+          "hidden": true,
+          "by": "flight"
         }
       ],
       "stay": {
@@ -370,8 +487,25 @@
       "n": 10,
       "title": "Salvador ➔ Boipeba",
       "summary": "Ferry vers Tinharé, puis 4x4 jusqu'à Boipeba : plages isolées, sentiers dans la forêt tropicale et moqueca de poisson, la spécialité locale.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Terminal Náutico de Salvador",
+          "coords": [
+            -12.9735,
+            -38.5134
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Embarcadère de Morro de São Paulo",
+          "coords": [
+            -13.3778,
+            -38.9128
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
         {
           "name": "Ilha de Boipeba",
           "wiki": "Boipeba",
@@ -406,7 +540,7 @@
       "n": 11,
       "title": "Boipeba",
       "summary": "Plages et nature : la plage de Moreré, snorkeling dans les piscines naturelles aux eaux cristallines et observation des oiseaux.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Praia de Moreré",
@@ -481,7 +615,7 @@
       "n": 13,
       "title": "Chapada Diamantina : cascades",
       "summary": "Randonnée et exploration du parc national de la Chapada Diamantina, avec ses cascades impressionnantes.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Cachoeira da Fumaça",
@@ -590,8 +724,25 @@
       "n": 16,
       "title": "Salvador ➔ São Luís",
       "summary": "Visite de Salvador le matin, vol vers São Luís l'après-midi et dîner sur place, pour une journée coloniale.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Salvador",
+          "coords": [
+            -12.9086,
+            -38.3225
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de São Luís",
+          "coords": [
+            -2.5854,
+            -44.2341
+          ],
+          "hidden": true,
+          "by": "flight"
+        },
         {
           "name": "São Luís",
           "wiki": "São Luís, Maranhão",
@@ -615,8 +766,25 @@
       "n": 17,
       "title": "São Luís ➔ Atins (Lençóis Maranhenses)",
       "summary": "Transfert vers Barreirinhas, puis bateau jusqu'à Atins : exploration des dunes et baignade à la Lagoa Bonita.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Embarcadère de Barreirinhas",
+          "coords": [
+            -2.7536,
+            -42.8256
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Embarcadère d'Atins",
+          "coords": [
+            -2.566,
+            -42.733
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
         {
           "name": "Parc national des Lençóis Maranhenses",
           "wiki": "Lençóis Maranhenses National Park",
@@ -660,7 +828,7 @@
       "n": 18,
       "title": "Atins ➔ São Luís",
       "summary": "Exploration des dunes le matin, puis retour en bateau à Barreirinhas et en voiture à São Luís.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Atins",
@@ -670,6 +838,23 @@
             -42.73
           ],
           "culture": "Petit village de pêcheurs entre le rio Preguiças, les dunes et l'océan, que l'on rejoint en bateau depuis Barreirinhas."
+        },
+        {
+          "name": "Embarcadère d'Atins",
+          "coords": [
+            -2.566,
+            -42.733
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Embarcadère de Barreirinhas",
+          "coords": [
+            -2.7536,
+            -42.8256
+          ],
+          "hidden": true,
+          "by": "boat"
         }
       ],
       "stay": {

@@ -25,7 +25,8 @@
       "stops": [
         {
           "name": "Aéroport de Miami (MIA)",
-          "wiki": "Miami International Airport"
+          "wiki": "Miami International Airport",
+          "hidden": true
         },
         {
           "name": "Coconut Grove",
@@ -515,7 +516,7 @@
       "n": 6,
       "title": "Dry Tortugas, ou le récif de Looe Key",
       "summary": "Journée au large : en hydravion jusqu'à Fort Jefferson aux Dry Tortugas, ou en bateau jusqu'au récif de Looe Key, le plus beau des Keys pour le snorkeling.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Option A",
@@ -532,13 +533,31 @@
       ],
       "stops": [
         {
+          "name": "Aéroport de Key West (EYW)",
+          "coords": [
+            24.5561,
+            -81.7596
+          ],
+          "hidden": true
+        },
+        {
           "name": "Dry Tortugas et Fort Jefferson",
           "wiki": "Dry Tortugas National Park",
           "coords": [
             24.6285,
             -82.8732
           ],
-          "culture": "Archipel à 110 km à l'ouest de Key West, accessible seulement en bateau ou en hydravion, autour d'un fort de 16 millions de briques jamais achevé."
+          "culture": "Archipel à 110 km à l'ouest de Key West, accessible seulement en bateau ou en hydravion, autour d'un fort de 16 millions de briques jamais achevé.",
+          "by": "flight"
+        },
+        {
+          "name": "Aéroport de Key West (EYW) (retour)",
+          "coords": [
+            24.5561,
+            -81.7596
+          ],
+          "hidden": true,
+          "by": "flight"
         },
         {
           "name": "Récif de Looe Key",
@@ -547,7 +566,8 @@
             24.5466,
             -81.4064
           ],
-          "culture": "Sanctuaire marin des Keys : un récif en éperons et sillons, considéré comme le plus beau site de snorkeling de l'archipel."
+          "culture": "Sanctuaire marin des Keys : un récif en éperons et sillons, considéré comme le plus beau site de snorkeling de l'archipel.",
+          "optional": true
         },
         {
           "name": "Smathers Beach",
@@ -555,7 +575,8 @@
             24.552,
             -81.772
           ],
-          "culture": "La plus longue plage de Key West, sable et palmiers."
+          "culture": "La plus longue plage de Key West, sable et palmiers.",
+          "optional": true
         }
       ],
       "stay": {
@@ -586,7 +607,7 @@
       "n": 7,
       "title": "Dernière matinée et vol vers San Francisco",
       "summary": "Matinée tranquille à Key West, puis vol avec une escale vers San Francisco, arrivée en fin de soirée.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -600,7 +621,8 @@
       "stops": [
         {
           "name": "Aéroport de Key West (EYW)",
-          "wiki": "Key West International Airport"
+          "wiki": "Key West International Airport",
+          "hidden": true
         }
       ],
       "end": "Vol Key West → San Francisco, une escale",

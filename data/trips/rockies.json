@@ -23,7 +23,8 @@
             39.8561,
             -104.6737
           ],
-          "culture": "Ouvert en 1995, c'est l'un des plus vastes aéroports des États-Unis. Le toit blanc en toile de son terminal évoque les sommets enneigés des Rocheuses."
+          "culture": "Ouvert en 1995, c'est l'un des plus vastes aéroports des États-Unis. Le toit blanc en toile de son terminal évoque les sommets enneigés des Rocheuses.",
+          "hidden": true
         }
       ],
       "stay": {
@@ -530,7 +531,8 @@
         {
           "name": "Aéroport de Salt Lake City (SLC)",
           "wiki": "Salt Lake City International Airport",
-          "culture": "Un des grands hubs de la compagnie Delta. L'aéroport, entièrement reconstruit et rouvert en 2020, offre de belles vues sur les montagnes Wasatch."
+          "culture": "Un des grands hubs de la compagnie Delta. L'aéroport, entièrement reconstruit et rouvert en 2020, offre de belles vues sur les montagnes Wasatch.",
+          "hidden": true
         }
       ],
       "stay": null,

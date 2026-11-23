@@ -11,7 +11,7 @@
       "n": 1,
       "title": "Paris ➔ Athènes",
       "summary": "Vol vers Athènes, métro jusqu'à Monastiraki, dîner sur un rooftop et balade dans le quartier de Plaka.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Après-midi",
@@ -23,6 +23,14 @@
         }
       ],
       "stops": [
+        {
+          "name": "Aéroport d'Athènes",
+          "coords": [
+            37.9364,
+            23.9445
+          ],
+          "hidden": true
+        },
         {
           "name": "Monastiraki",
           "wiki": "Monastiraki",
@@ -68,7 +76,7 @@
       "n": 2,
       "title": "Athènes ➔ Sifnos",
       "summary": "Matinée à Monastiraki, Plaka et à l'Acropole, puis métro jusqu'au Pirée et ferry vers Sifnos.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -108,6 +116,15 @@
           "name": "Le Pirée",
           "wiki": "Piraeus",
           "culture": "Grand port d'Athènes, d'où partent les ferries pour les îles. Il relie la ville à la mer depuis l'Antiquité."
+        },
+        {
+          "name": "Port de Kamares",
+          "coords": [
+            36.99,
+            24.6745
+          ],
+          "hidden": true,
+          "by": "boat"
         }
       ],
       "stay": {
@@ -149,7 +166,7 @@
       "n": 3,
       "title": "Sifnos : plages, monastères et randonnées",
       "summary": "Plages du petit port de pêche de Faros, marche jusqu'à Platis Gialos par le monastère de Chrysopigi, céramique, randonnée et village médiéval de Kastro.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -182,11 +199,13 @@
         },
         {
           "name": "Monastère de Profitis Ilias",
-          "culture": "Monastère au sommet de l'île, atteint par une randonnée de 2 h depuis Apollonia, en passant par l'église Angheloktisti et ses très belles fresques."
+          "culture": "Monastère au sommet de l'île, atteint par une randonnée de 2 h depuis Apollonia, en passant par l'église Angheloktisti et ses très belles fresques.",
+          "optional": true
         },
         {
           "name": "Agios Sostis et les mines d'or",
-          "culture": "Descente sur les anciennes mines d'or, surplombées d'une chapelle à dôme bleu. Sifnos a été riche de mines d'or et d'argent antiques."
+          "culture": "Descente sur les anciennes mines d'or, surplombées d'une chapelle à dôme bleu. Sifnos a été riche de mines d'or et d'argent antiques.",
+          "optional": true
         },
         {
           "name": "Kastro",
@@ -235,7 +254,7 @@
       "n": 4,
       "title": "Sifnos ➔ Milos",
       "summary": "Petit déjeuner à Vathy, ferry vers Milos le matin ou le soir, location de voiture, puis Plaka, son coucher de soleil et ses tavernes.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -255,6 +274,23 @@
           "name": "Vathy",
           "culture": "Petit port au fond d'une baie fermée, sur la côte sud-ouest de Sifnos, réputé pour sa plage et sa taverne les pieds dans le sable.",
           "photo": "File:Vathi, Sifnos.jpg"
+        },
+        {
+          "name": "Port de Kamares",
+          "coords": [
+            36.99,
+            24.6745
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Port d'Adamas",
+          "coords": [
+            36.7255,
+            24.447
+          ],
+          "hidden": true,
+          "by": "boat"
         },
         {
           "name": "Plaka (Milos)",
@@ -303,7 +339,7 @@
       "n": 5,
       "title": "Milos : excursion en bateau",
       "summary": "Excursion en bateau pour les criques de Kleftiko, les grottes de pirates de Sikia, Gerontas et l'île de Poliegos.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -320,26 +356,47 @@
       ],
       "stops": [
         {
+          "name": "Port d'Adamas",
+          "coords": [
+            36.7255,
+            24.447
+          ],
+          "hidden": true
+        },
+        {
           "name": "Kleftiko",
           "wiki": "Kleftiko",
           "coords": [
             36.67,
             24.295
           ],
-          "culture": "Baie du sud-ouest de Milos aux falaises blanches, arches et grottes marines, longtemps cachette de pirates. On ne la découvre guère qu'en bateau."
+          "culture": "Baie du sud-ouest de Milos aux falaises blanches, arches et grottes marines, longtemps cachette de pirates. On ne la découvre guère qu'en bateau.",
+          "by": "boat"
         },
         {
           "name": "Grottes de pirates de Sikia",
-          "culture": "Grotte marine dont le toit est ouvert, qui forme un bassin de lumière où l'on se baigne, sur la côte nord de Milos."
+          "culture": "Grotte marine dont le toit est ouvert, qui forme un bassin de lumière où l'on se baigne, sur la côte nord de Milos.",
+          "by": "boat"
         },
         {
           "name": "Plage de Gerontas",
-          "culture": "Plage secrète de la côte sud-ouest, accessible en bateau, ou en 4x4 puis 10 min de marche."
+          "culture": "Plage secrète de la côte sud-ouest, accessible en bateau, ou en 4x4 puis 10 min de marche.",
+          "by": "boat"
         },
         {
           "name": "Île de Poliegos",
           "wiki": "Polyaigos",
-          "culture": "Île inhabitée de l'autre côté de Milos, aux eaux transparentes, que l'on découvre en excursion en bateau."
+          "culture": "Île inhabitée de l'autre côté de Milos, aux eaux transparentes, que l'on découvre en excursion en bateau.",
+          "by": "boat"
+        },
+        {
+          "name": "Port d'Adamas (retour)",
+          "coords": [
+            36.7255,
+            24.447
+          ],
+          "hidden": true,
+          "by": "boat"
         },
         {
           "name": "Monastère d'Agios Ioannis Siderianos",
@@ -373,7 +430,7 @@
       "n": 6,
       "title": "Milos : plages et villages de pêcheurs",
       "summary": "Église Korfiatissa, port de Klima et ses syrmata, plages du nord et du sud, village de Mandrakia, Sarakiniko et dégustation à Pollonia.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -453,7 +510,8 @@
             24.518
           ],
           "culture": "Plage au paysage lunaire, aux roches volcaniques blanches sculptées par le vent et la mer.",
-          "photo": "File:Sarakiniko Beach on Milos Island, Greece with a view of the Aegean Sea.jpg"
+          "photo": "File:Sarakiniko Beach on Milos Island, Greece with a view of the Aegean Sea.jpg",
+          "optional": true
         },
         {
           "name": "Kostantakis Winery (Pollonia)",
@@ -484,7 +542,7 @@
       "n": 7,
       "title": "Milos ➔ Santorin",
       "summary": "Pâtisserie à Pollonia, ferry vers Santorin, domaine viticole, installation à l'hôtel et dîner à Oia.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -501,6 +559,23 @@
       ],
       "stops": [
         {
+          "name": "Port d'Adamas",
+          "coords": [
+            36.7255,
+            24.447
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Port d'Athinios",
+          "coords": [
+            36.386,
+            25.4295
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
+        {
           "name": "Pyrgos",
           "wiki": "Pyrgos Kallistis",
           "culture": "Village médiéval perché au point le plus haut de l'île, avec son kastro, ses chats et sa vue sur toute Santorin."
@@ -512,7 +587,8 @@
             25.4425
           ],
           "culture": "Village viticole de Santorin, aux ruelles tranquilles et aux anciennes demeures de capitaines.",
-          "photo": "File:Chapel St Marina near Megalochori - Santorini - Greece - 02.jpg"
+          "photo": "File:Chapel St Marina near Megalochori - Santorini - Greece - 02.jpg",
+          "optional": true
         },
         {
           "name": "Domaine Venetsanos",
@@ -581,7 +657,7 @@
       "n": 8,
       "title": "Santorin ➔ Paris",
       "summary": "Messe à Fira, déjeuner, randonnée ou visite d'Akrotiri, puis vol retour depuis Santorin.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -600,7 +676,8 @@
         {
           "name": "Imerovigli",
           "wiki": "Imerovigli",
-          "culture": "Village sur le point culminant du bord de la caldeira, relié à Fira par un sentier de randonnée très prisé."
+          "culture": "Village sur le point culminant du bord de la caldeira, relié à Fira par un sentier de randonnée très prisé.",
+          "optional": true
         },
         {
           "name": "Fira",
@@ -615,7 +692,16 @@
         {
           "name": "Akrotiri",
           "wiki": "Akrotiri (prehistoric city)",
-          "culture": "Cité de l'âge du bronze ensevelie sous les cendres de l'éruption du XVIe siècle av. J.-C., comparée à un Pompéi minoen."
+          "culture": "Cité de l'âge du bronze ensevelie sous les cendres de l'éruption du XVIe siècle av. J.-C., comparée à un Pompéi minoen.",
+          "optional": true
+        },
+        {
+          "name": "Aéroport de Santorin",
+          "coords": [
+            36.3992,
+            25.4793
+          ],
+          "hidden": true
         }
       ],
       "stay": null,

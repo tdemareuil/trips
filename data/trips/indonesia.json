@@ -12,8 +12,17 @@
       "title": "Paris ➔ Yogyakarta",
       "summary": "Vol international avec escale, puis repos à Yogyakarta. Visite de la ville d'escale s'il y a le temps, sinon direction l'hôtel.",
       "hero": "Yogyakarta",
-      "route": "none",
-      "stops": [],
+      "route": "drive",
+      "stops": [
+        {
+          "name": "Aéroport international de Yogyakarta",
+          "coords": [
+            -7.9005,
+            110.052
+          ],
+          "hidden": true
+        }
+      ],
       "stay": {
         "name": "Yogyakarta",
         "wiki": "Yogyakarta",
@@ -38,7 +47,7 @@
       "n": 2,
       "title": "Yogyakarta : palais, Prambanan et Taman Sari",
       "summary": "Centre-ville et temples : palais du sultan, marché de Malioboro, tour en calèche traditionnelle, temples de Prambanan et balade au Taman Sari, le château d'eau.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Palais du sultan (Kraton)",
@@ -66,7 +75,8 @@
         },
         {
           "name": "Grotte de Jomblang",
-          "culture": "Gouffre vertical de Gunung Kidul, d'une soixantaine de mètres, où l'on descend en rappel pour découvrir une grotte aux rayons de lumière tombant à travers la jungle souterraine."
+          "culture": "Gouffre vertical de Gunung Kidul, d'une soixantaine de mètres, où l'on descend en rappel pour découvrir une grotte aux rayons de lumière tombant à travers la jungle souterraine.",
+          "optional": true
         }
       ],
       "stay": {
@@ -128,7 +138,7 @@
       "n": 4,
       "title": "Mont Bromo ➔ Banyuwangi",
       "summary": "Lever de soleil sur le mont Bromo (départ vers 3 h du matin) et randonnée au cratère, avec la vue sur le Semeru. Déjeuner à Probolinggo, puis arrivée à Banyuwangi.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Mont Bromo",
@@ -138,7 +148,8 @@
         {
           "name": "Mont Semeru",
           "wiki": "Mount Semeru",
-          "culture": "Plus haut sommet de Java, à 3 676 m, et l'un des volcans les plus actifs du pays. Son panache de fumée rythme la vue depuis le Bromo."
+          "culture": "Plus haut sommet de Java, à 3 676 m, et l'un des volcans les plus actifs du pays. Son panache de fumée rythme la vue depuis le Bromo.",
+          "optional": true
         }
       ],
       "stay": {
@@ -171,12 +182,29 @@
       "n": 5,
       "title": "Kawah Ijen ➔ Pemuteran (Bali)",
       "summary": "Ascension du Kawah Ijen jusqu'aux flammes bleues (de nuit) et au lac acide, puis traversée en ferry vers Bali et dîner au bord de l'eau à Pemuteran, avec peut-être du plancton bioluminescent.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Kawah Ijen",
           "wiki": "Ijen",
           "culture": "Volcan de l'est de Java dont le cratère abrite un lac acide turquoise. La nuit, des flammes bleues de gaz sulfureux s'y enflamment, et des mineurs remontent à pied des blocs de soufre."
+        },
+        {
+          "name": "Port de Ketapang",
+          "coords": [
+            -8.1442,
+            114.4016
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Port de Gilimanuk",
+          "coords": [
+            -8.1623,
+            114.4352
+          ],
+          "hidden": true,
+          "by": "boat"
         }
       ],
       "stay": {
@@ -219,7 +247,17 @@
         {
           "name": "Île de Menjangan",
           "wiki": "Menjangan Island",
-          "culture": "Île du parc national de Bali Barat, réputée pour ses tombants de corail, parmi les meilleurs sites de plongée de Bali. « Menjangan » signifie cerf."
+          "culture": "Île du parc national de Bali Barat, réputée pour ses tombants de corail, parmi les meilleurs sites de plongée de Bali. « Menjangan » signifie cerf.",
+          "by": "boat"
+        },
+        {
+          "name": "Plage de Pemuteran (retour)",
+          "coords": [
+            -8.1464,
+            114.6564
+          ],
+          "hidden": true,
+          "by": "boat"
         },
         {
           "name": "Lacs Tamblingan et Buyan",
@@ -582,7 +620,8 @@
             -8.351,
             116.056
           ],
-          "culture": "La plus calme des trois îles Gili : ni voitures ni scooters, on s'y déplace à pied, à vélo ou en charrette à cheval. Des tortues vivent près de ses côtes."
+          "culture": "La plus calme des trois îles Gili : ni voitures ni scooters, on s'y déplace à pied, à vélo ou en charrette à cheval. Des tortues vivent près de ses côtes.",
+          "by": "boat"
         }
       ],
       "stay": {
@@ -619,7 +658,8 @@
             -8.351,
             116.056
           ],
-          "culture": "Depuis la plage, on voit le Rinjani, volcan de 3 726 m qui domine Lombok et que l'on peut gravir en plusieurs jours."
+          "culture": "Depuis la plage, on voit le Rinjani, volcan de 3 726 m qui domine Lombok et que l'on peut gravir en plusieurs jours.",
+          "optional": true
         }
       ],
       "stay": {
@@ -641,8 +681,34 @@
       "n": 14,
       "title": "Gili Meno ➔ Lombok",
       "summary": "Bateau rapide vers Lombok puis route jusqu'à Kuta Lombok : surf à Selong Belanak, plages de Mawun, coucher de soleil à Bukit Merese et village de Sade.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Port de Gili Meno",
+          "coords": [
+            -8.3525,
+            116.0617
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Port de Bangsal",
+          "coords": [
+            -8.3936,
+            116.0994
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
+        {
+          "name": "Village de Sade",
+          "photo": "File:Traditional Sasak Village Sade Bale Desa Wisata Sade.JPG",
+          "coords": [
+            -8.842,
+            116.297
+          ],
+          "culture": "Village sasak aux maisons à toit de chaume, dont les sols sont enduits de bouse de buffle. Les femmes y tissent des étoffes traditionnelles."
+        },
         {
           "name": "Selong Belanak",
           "photo": "File:Selong belanak beach, Lombok Island.jpg",
@@ -669,15 +735,6 @@
             116.33
           ],
           "culture": "Colline herbeuse au-dessus de la baie de Tanjung Aan, un belvédère très prisé pour le coucher de soleil."
-        },
-        {
-          "name": "Village de Sade",
-          "photo": "File:Traditional Sasak Village Sade Bale Desa Wisata Sade.JPG",
-          "coords": [
-            -8.842,
-            116.297
-          ],
-          "culture": "Village sasak aux maisons à toit de chaume, dont les sols sont enduits de bouse de buffle. Les femmes y tissent des étoffes traditionnelles."
         },
         {
           "name": "Plage de Tampah",
@@ -780,7 +837,8 @@
         },
         {
           "name": "Détroit de Lintah",
-          "culture": "Détroit entre Komodo et Rinca, couloir de migration des cétacés où l'on peut parfois apercevoir des baleines."
+          "culture": "Détroit entre Komodo et Rinca, couloir de migration des cétacés où l'on peut parfois apercevoir des baleines.",
+          "optional": true
         }
       ],
       "stay": {
@@ -821,6 +879,15 @@
       "summary": "Route vers Ruteng et découverte culturelle et naturelle : village traditionnel de Wae Rebo, rizières en toile d'araignée de Cancar, rizières en terrasses.",
       "route": "drive",
       "stops": [
+        {
+          "name": "Port de Labuan Bajo",
+          "coords": [
+            -8.4917,
+            119.8758
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
         {
           "name": "Village de Wae Rebo",
           "wiki": "Waerebo",
@@ -922,8 +989,26 @@
       "title": "Retour à Paris",
       "summary": "Vol retour depuis Labuan Bajo, via Jakarta.",
       "hero": "Labuan Bajo",
-      "route": "none",
-      "stops": [],
+      "route": "drive",
+      "stops": [
+        {
+          "name": "Aéroport de Labuan Bajo (Komodo)",
+          "coords": [
+            -8.4804,
+            119.8884
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de Jakarta-Soekarno-Hatta",
+          "coords": [
+            -6.1239,
+            106.6429
+          ],
+          "hidden": true,
+          "by": "flight"
+        }
+      ],
       "stay": null,
       "end": "Vol retour vers Paris, via Jakarta",
       "transport": [

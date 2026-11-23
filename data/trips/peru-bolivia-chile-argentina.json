@@ -986,7 +986,8 @@
             -12.0219,
             -77.1143
           ],
-          "culture": "Aéroport international de Lima, où l'on rentre en vol depuis Salta."
+          "culture": "Aéroport international de Lima, où l'on rentre en vol depuis Salta.",
+          "hidden": true
         }
       ],
       "stay": null,

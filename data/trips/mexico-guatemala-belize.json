@@ -14,8 +14,16 @@
       "n": 1,
       "title": "Escale à Philadelphie",
       "summary": "Vol Genève – Amsterdam – Philadelphie, puis visite de Philadelphie : marché de Noël de Dilworth Park, Rittenhouse Square et Insomnia Cookies.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Philadelphie",
+          "coords": [
+            39.8719,
+            -75.2411
+          ],
+          "hidden": true
+        },
         {
           "name": "Dilworth Park",
           "wiki": "Dilworth Park",
@@ -47,8 +55,25 @@
       "n": 2,
       "title": "Philadelphie ➔ Oaxaca",
       "summary": "Vol vers Oaxaca (finalement avec une escale à Mexico), location de voiture, puis visite d'Oaxaca l'après-midi.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Philadelphie",
+          "coords": [
+            39.8719,
+            -75.2411
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport d'Oaxaca",
+          "coords": [
+            16.9999,
+            -96.7266
+          ],
+          "hidden": true,
+          "by": "flight"
+        },
         {
           "name": "Oaxaca",
           "wiki": "Oaxaca City",
@@ -302,8 +327,25 @@
       "n": 7,
       "title": "Oaxaca ➔ Mexico ➔ Antigua Guatemala",
       "summary": "Retour de la voiture, vol Oaxaca – Mexico – Guatemala, transfert en Uber de Guatemala City à Antigua et premier tour du centre-ville.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport d'Oaxaca",
+          "coords": [
+            16.9999,
+            -96.7266
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de Guatemala City (La Aurora)",
+          "coords": [
+            14.5833,
+            -90.5275
+          ],
+          "hidden": true,
+          "by": "flight"
+        },
         {
           "name": "Guatemala City",
           "wiki": "Guatemala City"
@@ -381,7 +423,7 @@
       "n": 8,
       "title": "Antigua ➔ lac Atitlán",
       "summary": "Visite d'Antigua le matin, puis transfert vers le lac Atitlán, à Santa Catarina Palopó ou Santa Cruz.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Couvent des Capucines",
@@ -396,17 +438,20 @@
         {
           "name": "Volcan de Agua",
           "wiki": "Volcán de Agua",
-          "culture": "Volcan d'environ 3 760 m qui domine Antigua et que l'on voit depuis l'Arco de Santa Catalina."
+          "culture": "Volcan d'environ 3 760 m qui domine Antigua et que l'on voit depuis l'Arco de Santa Catalina.",
+          "optional": true
         },
         {
           "name": "Santa Catarina Palopó",
           "wiki": "Santa Catarina Palopó",
-          "culture": "Village kaqchikel dont les maisons sont peintes en bleu et à motifs mayas, depuis 2016."
+          "culture": "Village kaqchikel dont les maisons sont peintes en bleu et à motifs mayas, depuis 2016.",
+          "optional": true
         },
         {
           "name": "Lac Atitlán",
           "wiki": "Lake Atitlán",
-          "culture": "Lac d'origine volcanique à environ 1 560 m d'altitude, entouré de trois volcans et de villages mayas. Aldous Huxley le jugeait le plus beau du monde."
+          "culture": "Lac d'origine volcanique à environ 1 560 m d'altitude, entouré de trois volcans et de villages mayas. Aldous Huxley le jugeait le plus beau du monde.",
+          "optional": true
         },
         {
           "name": "Santa Cruz La Laguna",
@@ -472,7 +517,8 @@
         },
         {
           "name": "Mirador Kaqasiiwaan",
-          "culture": "Mirador de San Juan pour le coucher de soleil."
+          "culture": "Mirador de San Juan pour le coucher de soleil.",
+          "optional": true
         }
       ],
       "stay": {
@@ -514,7 +560,8 @@
         {
           "name": "Chichicastenango",
           "wiki": "Chichicastenango",
-          "culture": "Village k'iche' célèbre pour son marché du jeudi et du dimanche et l'église Santo Tomás, où se mêlent rites catholiques et mayas."
+          "culture": "Village k'iche' célèbre pour son marché du jeudi et du dimanche et l'église Santo Tomás, où se mêlent rites catholiques et mayas.",
+          "optional": true
         },
         {
           "name": "Parc du Cerro Tzankujil",
@@ -577,8 +624,25 @@
       "n": 12,
       "title": "Acatenango ➔ Antigua ➔ Flores",
       "summary": "Retour de randonnée, transfert d'Antigua à Guatemala City, vol de 16h15 vers Flores, puis dîner au Raíces del Lago.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Guatemala City (La Aurora)",
+          "coords": [
+            14.5833,
+            -90.5275
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de Flores (Mundo Maya)",
+          "coords": [
+            16.9138,
+            -89.8664
+          ],
+          "hidden": true,
+          "by": "flight"
+        },
         {
           "name": "Flores",
           "wiki": "Flores, Petén",
@@ -586,10 +650,12 @@
         },
         {
           "name": "Lac Petén Itzá",
-          "wiki": "Lake Petén Itzá"
+          "wiki": "Lake Petén Itzá",
+          "optional": true
         },
         {
-          "name": "Raíces del Lago"
+          "name": "Raíces del Lago",
+          "by": "boat"
         }
       ],
       "stay": {
@@ -602,7 +668,8 @@
           "Hotel Casa Amelia (annulé, 75 €)",
           "Hôtel Isla de Flores (annulé, 125 €, piscine mais pas de petit-déjeuner)",
           "El Gringo Perdido (annulé)"
-        ]
+        ],
+        "by": "boat"
       },
       "transport": [
         {
@@ -707,13 +774,14 @@
       "n": 15,
       "title": "Hopkins ➔ Tobacco Caye",
       "summary": "Bateau jusqu'à Tobacco Caye, journée de snorkeling sur la barrière de corail et nuit sur l'île.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Tobacco Caye",
           "wiki": "Tobacco Caye",
           "photo": "File:Tobacco Caye 2019.jpg",
-          "culture": "Minuscule île de sable de la barrière de corail du Belize, avec quelques cabanes et un récif à quelques mètres du rivage."
+          "culture": "Minuscule île de sable de la barrière de corail du Belize, avec quelques cabanes et un récif à quelques mètres du rivage.",
+          "by": "boat"
         }
       ],
       "stay": {
@@ -752,12 +820,13 @@
       "n": 16,
       "title": "Tobacco Caye ➔ Bacalar",
       "summary": "Snorkeling, puis gros transfert depuis le Belize vers le Mexique en bateau et transport privé, et kayak à Bacalar le soir.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Dangriga",
           "wiki": "Dangriga",
-          "culture": "Capitale culturelle des Garifunas du Belize, où l'on fête chaque 19 novembre l'arrivée de ce peuple, le Settlement Day."
+          "culture": "Capitale culturelle des Garifunas du Belize, où l'on fête chaque 19 novembre l'arrivée de ce peuple, le Settlement Day.",
+          "by": "boat"
         },
         {
           "name": "Bacalar",
@@ -898,7 +967,7 @@
       "n": 19,
       "title": "Tulum ➔ Cancún ➔ Paris",
       "summary": "Ruines de Tulum, cénote Dos Ojos, plage, puis colectivos et bus ADO vers Cancún et vol retour.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Ruines de Tulum",
@@ -914,6 +983,14 @@
         {
           "name": "Cancún",
           "wiki": "Cancún"
+        },
+        {
+          "name": "Aéroport de Cancún",
+          "coords": [
+            21.0365,
+            -86.8771
+          ],
+          "hidden": true
         }
       ],
       "stay": null,

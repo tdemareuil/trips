@@ -11,7 +11,7 @@
       "n": 1,
       "title": "Paris ➔ Fuerteventura (Betancuria)",
       "summary": "Arrivée à l'aéroport de Fuerteventura et route vers le centre de l'île, par le mirador de Guise y Ayose, jusqu'à Betancuria.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Après-midi",
@@ -23,6 +23,14 @@
         }
       ],
       "stops": [
+        {
+          "name": "Aéroport de Fuerteventura",
+          "coords": [
+            28.4527,
+            -13.8638
+          ],
+          "hidden": true
+        },
         {
           "name": "Mirador de Guise y Ayose",
           "photo": "File:Estatuas de Guise y Ayose – Betancuria – 01.jpg",
@@ -54,7 +62,7 @@
       "n": 2,
       "title": "Fuerteventura : de Betancuria à Cofete et Sotavento",
       "summary": "Boutiques, belle route FV30 et miradors, marché de Morro Jable, plage de Cofete et plage de Sotavento, puis nuit dans le sud.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -76,7 +84,8 @@
         },
         {
           "name": "Finca Pepe",
-          "culture": "Ferme traditionnelle de Betancuria qui élève des chèvres majoreras et propose des dégustations de fromage, à l'ouverture à 9h30."
+          "culture": "Ferme traditionnelle de Betancuria qui élève des chèvres majoreras et propose des dégustations de fromage, à l'ouverture à 9h30.",
+          "optional": true
         },
         {
           "name": "Plage d'Ajuy",
@@ -85,7 +94,8 @@
             28.4005,
             -14.152
           ],
-          "culture": "Village de pêcheurs de la côte ouest, avec une plage de sable noir et des grottes marines creusées dans les plus anciennes falaises des Canaries."
+          "culture": "Village de pêcheurs de la côte ouest, avec une plage de sable noir et des grottes marines creusées dans les plus anciennes falaises des Canaries.",
+          "optional": true
         },
         {
           "name": "Plage de Cofete",
@@ -102,11 +112,13 @@
         },
         {
           "name": "Grotte de Los Ojos",
-          "culture": "Grotte secrète, tout au bout de la péninsule de Jandía."
+          "culture": "Grotte secrète, tout au bout de la péninsule de Jandía.",
+          "optional": true
         },
         {
           "name": "Sentier de Gran Valle",
-          "culture": "Sentier de 2 h 30 entre le mirador de Gran Valle et la plage de Cofete."
+          "culture": "Sentier de 2 h 30 entre le mirador de Gran Valle et la plage de Cofete.",
+          "optional": true
         },
         {
           "name": "Morro Jable",
@@ -140,7 +152,7 @@
       "n": 3,
       "title": "Fuerteventura : du sud au nord",
       "summary": "Route de Morro Jable à La Oliva par Antigua, musée du fromage, Tindaya, El Cotillo et ses plages, puis nuit à Corralejo.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -168,7 +180,8 @@
         {
           "name": "Caleta de Fuste",
           "wiki": "Caleta de Fuste",
-          "culture": "Station de la côte est, à 10 minutes de l'aéroport, dont les piscines naturelles se visitent à marée basse."
+          "culture": "Station de la côte est, à 10 minutes de l'aéroport, dont les piscines naturelles se visitent à marée basse.",
+          "optional": true
         },
         {
           "name": "La Oliva",
@@ -191,7 +204,8 @@
         },
         {
           "name": "Aguas Verdes",
-          "culture": "Piscines naturelles au sud d'El Cotillo, calmes à marée basse."
+          "culture": "Piscines naturelles au sud d'El Cotillo, calmes à marée basse.",
+          "optional": true
         },
         {
           "name": "Castillo de El Tostón",
@@ -199,7 +213,8 @@
         },
         {
           "name": "Playa de la Concha",
-          "culture": "Plage de sable blanc abritée d'El Cotillo, aux eaux calmes."
+          "culture": "Plage de sable blanc abritée d'El Cotillo, aux eaux calmes.",
+          "optional": true
         }
       ],
       "stay": {
@@ -222,7 +237,7 @@
       "n": 4,
       "title": "Corralejo ➔ Lanzarote",
       "summary": "Volcan Calderón Hondo, pique-nique dans les dunes de Corralejo, puis ferry vers Playa Blanca et plage de Papagayo.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -249,11 +264,30 @@
         },
         {
           "name": "Playa El Morro",
-          "culture": "Plage des dunes de Corralejo, avec moins de vagues que d'autres."
+          "culture": "Plage des dunes de Corralejo, avec moins de vagues que d'autres.",
+          "optional": true
         },
         {
           "name": "Grandes Playas",
-          "culture": "Longue plage de sable blanc de Corralejo, au pied des dunes."
+          "culture": "Longue plage de sable blanc de Corralejo, au pied des dunes.",
+          "optional": true
+        },
+        {
+          "name": "Port de Corralejo",
+          "coords": [
+            28.7385,
+            -13.8645
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Port de Playa Blanca",
+          "coords": [
+            28.8615,
+            -13.8285
+          ],
+          "hidden": true,
+          "by": "boat"
         },
         {
           "name": "Village de Femés",
@@ -308,7 +342,7 @@
       "n": 5,
       "title": "Lanzarote : volcans et côte ouest",
       "summary": "El Golfo, randonnée à la Caldera Blanca dans le parc de Timanfaya, Montaña Colorada et Montaña Negra, La Santa, Famara et Los Cuervos.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -344,11 +378,13 @@
         },
         {
           "name": "Montaña Colorada",
-          "culture": "Volcan aux flancs rouge orangé, dans la région de Timanfaya."
+          "culture": "Volcan aux flancs rouge orangé, dans la région de Timanfaya.",
+          "optional": true
         },
         {
           "name": "Montaña Negra",
-          "culture": "Volcan à la couleur noire de ses cendres, voisin de la Montaña Colorada."
+          "culture": "Volcan à la couleur noire de ses cendres, voisin de la Montaña Colorada.",
+          "optional": true
         },
         {
           "name": "La Santa",
@@ -430,14 +466,14 @@
           "culture": "Volcan d'environ 600 m dont les coulées ont formé les tunnels de lave de la Cueva de los Verdes."
         },
         {
-          "name": "Jameos del Agua",
-          "wiki": "Jameos del Agua",
-          "culture": "Tunnel de lave effondré, aménagé par César Manrique, avec un lac souterrain où vivent de minuscules crabes albinos."
-        },
-        {
           "name": "Cueva de los Verdes",
           "wiki": "Cueva de los Verdes",
           "culture": "Tunnel de lave d'environ 6 km formé par l'éruption du volcan La Corona. Une partie se visite, et des concerts y ont parfois lieu."
+        },
+        {
+          "name": "Jameos del Agua",
+          "wiki": "Jameos del Agua",
+          "culture": "Tunnel de lave effondré, aménagé par César Manrique, avec un lac souterrain où vivent de minuscules crabes albinos."
         }
       ],
       "stay": {
@@ -467,7 +503,7 @@
       "n": 7,
       "title": "La Graciosa",
       "summary": "Ferry tôt le matin depuis Orzola, vélo ou 4x4 jusqu'à Playa de las Conchas, détente à Playa Francesa, randonnée à Montaña Amarilla, puis Mirador del Río au coucher du soleil.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -489,6 +525,23 @@
           "culture": "Village de pêcheurs du nord de Lanzarote, d'où partent les ferries pour La Graciosa."
         },
         {
+          "name": "Port d'Órzola",
+          "coords": [
+            29.2226,
+            -13.4511
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Port de Caleta de Sebo",
+          "coords": [
+            29.2307,
+            -13.5042
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
+        {
           "name": "La Graciosa",
           "wiki": "La Graciosa",
           "culture": "Plus petite île habitée de l'archipel des Canaries, sans routes goudronnées : on s'y déplace à vélo ou en 4x4."
@@ -506,6 +559,23 @@
           "name": "Montaña Amarilla",
           "photo": "File:Montaña Amarilla La Graciosa 6.jpg",
           "culture": "Petit volcan à la couleur dorée, que l'on gravit par un court sentier."
+        },
+        {
+          "name": "Port de Caleta de Sebo (retour)",
+          "coords": [
+            29.2307,
+            -13.5042
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Port d'Órzola (retour)",
+          "coords": [
+            29.2226,
+            -13.4511
+          ],
+          "hidden": true,
+          "by": "boat"
         },
         {
           "name": "Mirador del Río",
@@ -533,7 +603,7 @@
       "n": 8,
       "title": "Lanzarote ➔ Madrid",
       "summary": "Marché de Teguise, Fondation César Manrique et fromagerie, puis vol pour Madrid et dîner tapas ou flamenco.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -572,10 +642,29 @@
         },
         {
           "name": "Quesería Finca de Uga (Yaiza)",
-          "culture": "Fromagerie de Yaiza, élue Meilleur Fromage d'Espagne en 2024."
+          "culture": "Fromagerie de Yaiza, élue Meilleur Fromage d'Espagne en 2024.",
+          "optional": true
         },
         {
-          "name": "Quesería Flor de Luz (San Bartolomé)"
+          "name": "Quesería Flor de Luz (San Bartolomé)",
+          "optional": true
+        },
+        {
+          "name": "Aéroport de Lanzarote",
+          "coords": [
+            28.9455,
+            -13.6052
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de Madrid-Barajas",
+          "coords": [
+            40.4983,
+            -3.5676
+          ],
+          "hidden": true,
+          "by": "flight"
         },
         {
           "name": "La Latina",
@@ -584,7 +673,8 @@
         },
         {
           "name": "Malasaña",
-          "culture": "Quartier branché de Madrid, aux bars et aux boutiques alternatives."
+          "culture": "Quartier branché de Madrid, aux bars et aux boutiques alternatives.",
+          "optional": true
         }
       ],
       "stay": {
@@ -608,7 +698,7 @@
       "n": 9,
       "title": "Madrid ➔ Paris",
       "summary": "Churros, promenade dans le vieux Madrid, déjeuner au marché, musée, parc du Retiro et shopping, avant le retour à Paris.",
-      "route": "none",
+      "route": "drive",
       "parts": [
         {
           "label": "Matin",
@@ -651,7 +741,8 @@
         },
         {
           "name": "Chueca",
-          "culture": "Quartier gay et branché de Madrid, autour de la Plaza de Chueca."
+          "culture": "Quartier gay et branché de Madrid, autour de la Plaza de Chueca.",
+          "optional": true
         },
         {
           "name": "Casa Pérez Villaamil"
@@ -696,7 +787,8 @@
         {
           "name": "Musée Thyssen-Bornemisza",
           "wiki": "Museo Thyssen-Bornemisza",
-          "culture": "Collection du baron Thyssen-Bornemisza, qui complète le Prado et le Reina Sofía avec sept siècles d'art."
+          "culture": "Collection du baron Thyssen-Bornemisza, qui complète le Prado et le Reina Sofía avec sept siècles d'art.",
+          "optional": true
         },
         {
           "name": "Musée du Prado",
@@ -706,7 +798,8 @@
         {
           "name": "Musée Reina Sofía",
           "wiki": "Museo Reina Sofía",
-          "culture": "Musée d'art moderne qui abrite Guernica, de Picasso, ainsi que des œuvres de Dalí."
+          "culture": "Musée d'art moderne qui abrite Guernica, de Picasso, ainsi que des œuvres de Dalí.",
+          "optional": true
         },
         {
           "name": "Palacio de Cristal",
@@ -725,7 +818,16 @@
         {
           "name": "Quartier de Salamanca",
           "wiki": "Salamanca (Madrid)",
-          "culture": "Quartier chic aux boutiques de luxe, construit à partir de 1860 par le marquis de Salamanca."
+          "culture": "Quartier chic aux boutiques de luxe, construit à partir de 1860 par le marquis de Salamanca.",
+          "optional": true
+        },
+        {
+          "name": "Aéroport de Madrid-Barajas",
+          "coords": [
+            40.4983,
+            -3.5676
+          ],
+          "hidden": true
         }
       ],
       "stay": null,

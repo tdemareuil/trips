@@ -64,14 +64,23 @@ function hydrate(trip) {
     day.dateShort = start ? capitalize(SHORT_DATE.format(addDays(start, i))) : (day.weekday || '');
     day.when = start ? qualifier.join(' ') : ''; // "soir" in "Mercredi soir"
     day.color = dayColor(i, trip.days.length);
+    // Hidden stops (ports, airports) shape the route but get no tile, marker or popup.
+    // Optional stops (ideas, alternatives) get a tile and a marker but stay off the route.
     day.stops.forEach(s => { s.img = img(s.photo || s.wiki); s.pos = lngLat(s.coords, s.wiki); });
+    day.allStops = day.stops;
+    day.stops = day.allStops.filter(s => !s.hidden);
     if (day.stay) day.stay.pos = lngLat(day.stay.coords, day.stay.wiki);
     day.bg = img(day.hero) || day.stops.map(s => s.img).find(Boolean) || trip.coverImg;
 
-    const line = data.routes[trip.id]?.[day.n]?.line;
+    const route = data.routes[trip.id]?.[day.n];
     const prev = trip.days[i - 1]?.stay?.pos;
-    day.dashed = !line;
-    day.path = line || [prev, ...day.stops.map(s => s.pos), day.stay?.pos].filter(Boolean);
+    // A day is drawn as segments: road legs follow the computed route, sea or air legs
+    // (ferries, flights) are straight dashed lines between terminals.
+    day.segments = route?.segments?.map(s => ({ path: s.line, dashed: s.dashed }))
+      || (route?.line ? [{ path: route.line, dashed: false }]
+        : [{ path: [prev, ...day.allStops.filter(s => !s.optional).map(s => s.pos), day.stay?.pos].filter(Boolean), dashed: true }]);
+    day.path = day.segments.flatMap(s => s.path);
+    day.dashed = day.segments.every(s => s.dashed);
   });
 }
 
@@ -84,9 +93,9 @@ function tripFeatures(trip) {
   const points = [];
   const seenStays = new Set();
   trip.days.forEach(day => {
-    if (day.path.length > 1) {
-      routes.push({ type: 'Feature', properties: { day: day.n, color: day.color, dashed: day.dashed }, geometry: { type: 'LineString', coordinates: day.path } });
-    }
+    day.segments.forEach(seg => {
+      if (seg.path.length > 1) routes.push({ type: 'Feature', properties: { day: day.n, color: day.color, dashed: seg.dashed }, geometry: { type: 'LineString', coordinates: seg.path } });
+    });
     day.stops.forEach(s => {
       if (s.pos) points.push(pointFeature(s.pos, { day: day.n, color: day.color, kind: 'stop', name: s.name, img: thumb(s.img?.url, 500) || '' }));
     });
@@ -112,7 +121,8 @@ function addTripLayers(map, trip) {
   map.addLayer({ id: 'routes', type: 'line', source: 'routes', filter: ['==', ['get', 'dashed'], false], layout, paint: { 'line-color': ['get', 'color'], 'line-width': 3, 'line-opacity': 0.4 } });
   map.addLayer({ id: 'routes-dashed', type: 'line', source: 'routes', filter: ['==', ['get', 'dashed'], true], layout, paint: { 'line-color': ['get', 'color'], 'line-width': 2.5, 'line-opacity': 0.4, 'line-dasharray': [1, 2] } });
   map.addLayer({ id: 'active-glow', type: 'line', source: 'active', layout, paint: { 'line-color': ['get', 'color'], 'line-width': 14, 'line-blur': 10, 'line-opacity': 0.5 } });
-  map.addLayer({ id: 'active', type: 'line', source: 'active', layout, paint: { 'line-color': ['get', 'color'], 'line-width': 4.5 } });
+  map.addLayer({ id: 'active', type: 'line', source: 'active', filter: ['!=', ['get', 'dashed'], true], layout, paint: { 'line-color': ['get', 'color'], 'line-width': 4.5 } });
+  map.addLayer({ id: 'active-dashed', type: 'line', source: 'active', filter: ['==', ['get', 'dashed'], true], layout, paint: { 'line-color': ['get', 'color'], 'line-width': 4, 'line-dasharray': [1, 2] } });
   map.addLayer({
     id: 'points', type: 'circle', source: 'points',
     paint: {
@@ -174,17 +184,30 @@ function pathUpTo(path, f) {
   return out;
 }
 
+// Animate the day's route segment by segment, keeping ferry and flight legs dashed.
 function drawRoute(map, day, anim) {
   cancelAnimationFrame(anim.raf);
   const src = map.getSource('active');
-  map.setPaintProperty('active', 'line-dasharray', day.dashed ? [1, 2] : [1, 0]);
-  if (day.path.length < 2) { src.setData(EMPTY); return; }
-  const feature = coords => fc([{ type: 'Feature', properties: { color: day.color }, geometry: { type: 'LineString', coordinates: coords } }]);
+  const segs = day.segments.filter(s => s.path.length > 1);
+  if (!segs.length) { src.setData(EMPTY); return; }
+  const total = segs.reduce((n, s) => n + s.path.length - 1, 0);
+  const frame = f => {
+    let budget = f * total;
+    const feats = [];
+    for (const s of segs) {
+      if (budget <= 0) break;
+      const len = s.path.length - 1;
+      const coords = budget >= len ? s.path : pathUpTo(s.path, budget / len);
+      feats.push({ type: 'Feature', properties: { color: day.color, dashed: s.dashed }, geometry: { type: 'LineString', coordinates: coords } });
+      budget -= len;
+    }
+    return fc(feats);
+  };
   const t0 = performance.now();
   const duration = day.dashed ? 900 : 1800;
   const step = now => {
     const t = clamp((now - t0) / duration, 0, 1); // rAF timestamps can precede t0
-    src.setData(feature(pathUpTo(day.path, 1 - Math.pow(1 - t, 3))));
+    src.setData(frame(1 - Math.pow(1 - t, 3)));
     if (t < 1) anim.raf = requestAnimationFrame(step);
   };
   anim.raf = requestAnimationFrame(step);

@@ -11,7 +11,7 @@
       "n": 1,
       "title": "Colombo ➔ Sigiriya",
       "summary": "Arrivée à Colombo le matin, après un vol de nuit au départ de Paris la veille au soir. Visite courte de Colombo, puis route vers Sigiriya.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Fort de Colombo",
@@ -58,8 +58,8 @@
           "name": "Marché flottant",
           "culture": "Marché flottant du lac Beira, à Pettah, dont les vendeurs proposent leurs produits depuis des bateaux.",
           "coords": [
-            6.8768,
-            81.0608
+            6.9353,
+            79.853
           ]
         }
       ],
@@ -114,8 +114,8 @@
           "name": "Marché local de Dambulla",
           "culture": "Dambulla abrite l'un des plus grands marchés de gros de fruits et légumes du pays.",
           "coords": [
-            6.8768,
-            81.0608
+            7.86,
+            80.6517
           ]
         },
         {
@@ -163,7 +163,8 @@
         {
           "name": "Anuradhapura",
           "wiki": "Anuradhapura",
-          "culture": "Première capitale du royaume du Sri Lanka, fondée au IVe siècle av. J.-C. et grand centre du bouddhisme pendant plus d'un millénaire. Elle est inscrite à l'UNESCO depuis 1982."
+          "culture": "Première capitale du royaume du Sri Lanka, fondée au IVe siècle av. J.-C. et grand centre du bouddhisme pendant plus d'un millénaire. Elle est inscrite à l'UNESCO depuis 1982.",
+          "optional": true
         },
         {
           "name": "Stupa de Jethawanaramaya",
@@ -172,7 +173,8 @@
             8.351,
             80.408
           ],
-          "culture": "Immense stupa de brique bâti au IIIe siècle de notre ère, qui comptait parmi les plus hautes structures du monde antique."
+          "culture": "Immense stupa de brique bâti au IIIe siècle de notre ère, qui comptait parmi les plus hautes structures du monde antique.",
+          "optional": true
         },
         {
           "name": "Arbre sacré Sri Maha Bodhi",
@@ -180,7 +182,8 @@
             8.345,
             80.396
           ],
-          "culture": "Figuier sacré planté en 288 av. J.-C. à partir d'une bouture de l'arbre sous lequel Bouddha aurait atteint l'éveil. C'est l'arbre planté par l'homme dont l'âge est le mieux documenté au monde."
+          "culture": "Figuier sacré planté en 288 av. J.-C. à partir d'une bouture de l'arbre sous lequel Bouddha aurait atteint l'éveil. C'est l'arbre planté par l'homme dont l'âge est le mieux documenté au monde.",
+          "optional": true
         },
         {
           "name": "Polonnaruwa",
@@ -247,12 +250,29 @@
       "n": 5,
       "title": "Kandy ➔ Ella (en train)",
       "summary": "Le trajet en train de Kandy à Ella, superbe, de la première classe avec réservation en gare à la troisième classe sans réservation.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Kandy",
           "wiki": "Kandy",
           "culture": "Dernière capitale royale du Sri Lanka, au cœur des collines. Son temple de la Dent abrite une relique de Bouddha, et la ville est inscrite à l'UNESCO depuis 1988."
+        },
+        {
+          "name": "Gare de Kandy",
+          "coords": [
+            7.2906,
+            80.6337
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Gare d'Ella",
+          "coords": [
+            6.8767,
+            81.0466
+          ],
+          "hidden": true,
+          "by": "train"
         }
       ],
       "stay": {
@@ -338,7 +358,7 @@
       "n": 7,
       "title": "Ella : Little Adam's Peak",
       "summary": "Randonnée facile à Little Adam's Peak, pont aux Neuf Arches et chutes de Ravana.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Little Adam's Peak",
@@ -456,7 +476,7 @@
       "n": 10,
       "title": "Udawalawe ➔ Galle",
       "summary": "Train panoramique ou voiture vers Galle, puis promenade dans le fort : remparts, ruelles d'influence hollandaise, Queen's House et église anglicane.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Fort de Galle",
@@ -574,8 +594,25 @@
       "n": 12,
       "title": "Galle ➔ Tangalle",
       "summary": "Train très beau de Galle à Matara, puis bus vers Tangalle : plages d'Unakuruwa, Silent Beach, Madilla, Blue Beach Island, avec des langurs gris.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Gare de Galle",
+          "coords": [
+            6.0332,
+            80.2145
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Gare de Matara",
+          "coords": [
+            5.9497,
+            80.545
+          ],
+          "hidden": true,
+          "by": "train"
+        },
         {
           "name": "Plage d'Unakuruwa",
           "coords": [
@@ -630,7 +667,7 @@
       "n": 13,
       "title": "Tangalle",
       "summary": "Journée de plages, surf et kayak : Hiriketiya, Goyambokka, lagune de Rekawa, temple de Mulkirigala.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Hiriketiya Beach",
@@ -695,8 +732,25 @@
       "n": 14,
       "title": "Colombo ➔ Malé (Maldives)",
       "summary": "Vol vers Malé et installation dans un resort sur une île privée : détente sur la plage, snorkeling autour du récif, croisière au coucher du soleil et observation des dauphins.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Colombo (CMB)",
+          "coords": [
+            7.1808,
+            79.8841
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de Malé (MLE)",
+          "coords": [
+            4.1918,
+            73.5291
+          ],
+          "hidden": true,
+          "by": "flight"
+        },
         {
           "name": "Malé",
           "wiki": "Malé",
@@ -749,7 +803,8 @@
         },
         {
           "name": "Gili Lankanfushi",
-          "culture": "Resort de l'atoll de Malé Nord, aux villas sur pilotis, où l'on observe aussi du plancton bioluminescent."
+          "culture": "Resort de l'atoll de Malé Nord, aux villas sur pilotis, où l'on observe aussi du plancton bioluminescent.",
+          "optional": true
         }
       ],
       "stay": {

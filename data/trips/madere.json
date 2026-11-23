@@ -355,7 +355,8 @@
         },
         {
           "name": "Aéroport de Madère",
-          "wiki": "Madeira Airport"
+          "wiki": "Madeira Airport",
+          "hidden": true
         },
         {
           "name": "Lisbonne",

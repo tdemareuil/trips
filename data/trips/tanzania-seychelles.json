@@ -11,7 +11,7 @@
       "n": 1,
       "title": "Arrivée à Arusha",
       "summary": "Vol international jusqu'à Arusha (8 à 12 h), repos après le vol, puis découverte de la ville : marché maasaï, artisanat local et cascade de Napuru.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Arusha",
@@ -154,7 +154,8 @@
             -2.543,
             36.79
           ],
-          "culture": "Principal poste frontière sur la route d'Arusha à Nairobi."
+          "culture": "Principal poste frontière sur la route d'Arusha à Nairobi.",
+          "optional": true
         },
         {
           "name": "Parc national d'Amboseli",
@@ -509,11 +510,6 @@
       "route": "drive",
       "stops": [
         {
-          "name": "Réserve nationale du Masai Mara",
-          "wiki": "Maasai Mara",
-          "culture": "Prolongement kenyan du Serengeti, célèbre pour la traversée de la rivière Mara par les gnous."
-        },
-        {
           "name": "Frontière d'Isebania",
           "photo": "File:Isebania-Sirari-border.jpg",
           "coords": [
@@ -521,6 +517,11 @@
             34.4833
           ],
           "culture": "Poste frontière entre le Kenya et la Tanzanie, sur la route du Serengeti au Masai Mara (Sirari côté tanzanien)."
+        },
+        {
+          "name": "Réserve nationale du Masai Mara",
+          "wiki": "Maasai Mara",
+          "culture": "Prolongement kenyan du Serengeti, célèbre pour la traversée de la rivière Mara par les gnous."
         }
       ],
       "stay": {
@@ -553,7 +554,7 @@
       "n": 11,
       "title": "Masai Mara",
       "summary": "Safari matinal et d'après-midi, rencontres avec les Maasaï, grands prédateurs et traversée de la rivière Mara.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Réserve nationale du Masai Mara",
@@ -597,7 +598,8 @@
             -2.458,
             34.813
           ],
-          "culture": "Piste de Seronera, au centre du parc, utilisée pour les vols de safari."
+          "culture": "Piste de Seronera, au centre du parc, utilisée pour les vols de safari.",
+          "hidden": true
         },
         {
           "name": "Nairobi",
@@ -622,8 +624,16 @@
       "n": 13,
       "title": "Arrivée à Mahé",
       "summary": "Installation à l'hôtel, détente sur la plage de Beau Vallon, dîner en bord de mer et points panoramiques comme le Missions Lodge Viewpoint.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Mahé (SEZ)",
+          "coords": [
+            -4.6743,
+            55.5218
+          ],
+          "hidden": true
+        },
         {
           "name": "Mahé",
           "wiki": "Mahé, Seychelles",
@@ -748,8 +758,25 @@
       "n": 15,
       "title": "Mahé → Praslin",
       "summary": "Ferry vers Praslin : vallée de Mai et ses cocos de mer, puis détente à Anse Lazio ou snorkeling à Anse Georgette.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Quai inter-îles de Victoria",
+          "coords": [
+            -4.6175,
+            55.458
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Jetée de Baie Sainte-Anne",
+          "coords": [
+            -4.3445,
+            55.769
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
         {
           "name": "Praslin",
           "wiki": "Praslin"
@@ -767,7 +794,8 @@
         {
           "name": "Anse Georgette",
           "wiki": "Anse Georgette",
-          "culture": "Plage isolée dont l'accès est réglementé."
+          "culture": "Plage isolée dont l'accès est réglementé.",
+          "optional": true
         }
       ],
       "stay": {
@@ -800,11 +828,12 @@
       "n": 16,
       "title": "Praslin : Curieuse et îlot Saint-Pierre",
       "summary": "Excursion à l'île Curieuse et ses tortues géantes, snorkeling autour de l'îlot Saint-Pierre et barbecue sur la plage.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Île Curieuse",
-          "wiki": "Curieuse"
+          "wiki": "Curieuse",
+          "by": "boat"
         },
         {
           "name": "Îlot Saint-Pierre",
@@ -813,7 +842,8 @@
             -4.313,
             55.757
           ],
-          "culture": "Îlot de granit près de Praslin, apprécié pour le snorkeling."
+          "culture": "Îlot de granit près de Praslin, apprécié pour le snorkeling.",
+          "by": "boat"
         }
       ],
       "stay": {
@@ -822,7 +852,8 @@
           -4.314,
           55.733
         ],
-        "note": "Même hôtel"
+        "note": "Même hôtel",
+        "by": "boat"
       },
       "parts": [
         {
@@ -841,7 +872,7 @@
       "n": 17,
       "title": "Praslin",
       "summary": "Journée farniente ou snorkeling, criques cachées en paddle ou en kayak, Côte d'Or, Anse Volbert et parc marin de Curieuse.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Anse Lazio",
@@ -890,8 +921,25 @@
       "n": 18,
       "title": "Praslin → La Digue",
       "summary": "Ferry vers La Digue, balade à vélo vers Anse Source d'Argent et Grand Anse, puis L'Union Estate et ses plantations.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Jetée de Baie Sainte-Anne",
+          "coords": [
+            -4.3445,
+            55.769
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Jetée de La Passe",
+          "coords": [
+            -4.3545,
+            55.828
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
         {
           "name": "La Digue",
           "wiki": "La Digue"
@@ -954,8 +1002,16 @@
       "n": 19,
       "title": "La Digue : îlot Coco",
       "summary": "Excursion vers l'îlot Coco et snorkeling dans les eaux turquoise, puis détente à Anse Cocos.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Jetée de La Passe",
+          "coords": [
+            -4.3545,
+            55.828
+          ],
+          "hidden": true
+        },
         {
           "name": "Îlot Coco",
           "coords": [
@@ -963,7 +1019,17 @@
             55.85
           ],
           "photo": "File:COCO ISLAND, LA DIGUE, SEYCHELLES, APRIL 2013 - panoramio.jpg",
-          "culture": "Îlot de granit au large de La Digue, réputé pour le snorkeling."
+          "culture": "Îlot de granit au large de La Digue, réputé pour le snorkeling.",
+          "by": "boat"
+        },
+        {
+          "name": "Jetée de La Passe (retour)",
+          "coords": [
+            -4.3545,
+            55.828
+          ],
+          "hidden": true,
+          "by": "boat"
         },
         {
           "name": "Anse Cocos",
@@ -1054,15 +1120,34 @@
       "n": 21,
       "title": "La Digue → Praslin → Mahé",
       "summary": "Retour par ferry, puis excursion au parc marin de Sainte-Anne ou sur l'île Silhouette, et dernière soirée dans un restaurant créole.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
+          "name": "Jetée de La Passe",
+          "coords": [
+            -4.3545,
+            55.828
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Quai inter-îles de Victoria",
+          "coords": [
+            -4.6175,
+            55.458
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
+        {
           "name": "Parc marin de Sainte-Anne",
-          "wiki": "Sainte Anne Marine National Park"
+          "wiki": "Sainte Anne Marine National Park",
+          "by": "boat"
         },
         {
           "name": "Île Silhouette",
-          "wiki": "Silhouette Island"
+          "wiki": "Silhouette Island",
+          "optional": true
         }
       ],
       "stay": {
@@ -1071,7 +1156,8 @@
           -4.62,
           55.454
         ],
-        "note": "Hôtel à Victoria"
+        "note": "Hôtel à Victoria",
+        "by": "boat"
       },
       "parts": [
         {
@@ -1093,11 +1179,19 @@
       "n": 22,
       "title": "Départ",
       "summary": "Derniers moments à la plage ou shopping souvenirs au marché de Victoria, puis transfert à l'aéroport.",
-      "route": "none",
+      "route": "drive",
       "stops": [
         {
           "name": "Marché de Victoria",
           "wiki": "Victoria, Seychelles"
+        },
+        {
+          "name": "Aéroport de Mahé (SEZ)",
+          "coords": [
+            -4.6743,
+            55.5218
+          ],
+          "hidden": true
         }
       ],
       "stay": null,

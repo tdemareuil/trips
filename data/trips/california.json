@@ -21,7 +21,8 @@
           "name": "Aéroport de Los Angeles (LAX)",
           "wiki": "Los Angeles International Airport",
           "photo": "File:Los Angeles International Airport by Don Ramey Logan.jpg",
-          "culture": "Né en 1928 comme simple terrain d'aviation, LAX est aujourd'hui l'un des aéroports les plus fréquentés du monde. Son Theme Building, en forme de soucoupe volante, date de 1961."
+          "culture": "Né en 1928 comme simple terrain d'aviation, LAX est aujourd'hui l'un des aéroports les plus fréquentés du monde. Son Theme Building, en forme de soucoupe volante, date de 1961.",
+          "hidden": true
         }
       ],
       "stay": {
@@ -866,7 +867,8 @@
         {
           "name": "Aéroport de San Francisco (SFO)",
           "wiki": "San Francisco International Airport",
-          "culture": "Ouvert en 1927 sous le nom de Mills Field, SFO abrite le SFO Museum, un véritable musée installé dans les terminaux."
+          "culture": "Ouvert en 1927 sous le nom de Mills Field, SFO abrite le SFO Museum, un véritable musée installé dans les terminaux.",
+          "hidden": true
         }
       ],
       "transport": [

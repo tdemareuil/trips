@@ -11,17 +11,27 @@
       "n": 1,
       "title": "Manille ➔ Mont Pinatubo",
       "summary": "Arrivée à Manille le matin, après un vol de nuit au départ de Paris la veille au soir. Repos ou visite de Manille (Intramuros, Rizal Park, Greenhills, quartier BGC), puis transfert privé vers un hôtel avec piscine près du Pinatubo.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Manille (NAIA)",
+          "coords": [
+            14.5122,
+            121.0219
+          ],
+          "hidden": true
+        },
         {
           "name": "Intramuros",
           "wiki": "Intramuros",
-          "culture": "Ville fortifiée fondée par les Espagnols en 1571, cœur historique de Manille, ceinte de remparts d'environ 4 km. Elle a été presque détruite pendant la bataille de Manille, en 1945."
+          "culture": "Ville fortifiée fondée par les Espagnols en 1571, cœur historique de Manille, ceinte de remparts d'environ 4 km. Elle a été presque détruite pendant la bataille de Manille, en 1945.",
+          "optional": true
         },
         {
           "name": "Rizal Park",
           "wiki": "Rizal Park",
-          "culture": "Grand parc de Manille consacré au héros national José Rizal, fusillé à cet endroit en 1896. Son monument abrite ses restes."
+          "culture": "Grand parc de Manille consacré au héros national José Rizal, fusillé à cet endroit en 1896. Son monument abrite ses restes.",
+          "optional": true
         },
         {
           "name": "Greenhills",
@@ -29,7 +39,8 @@
             14.601,
             121.0466
           ],
-          "culture": "Quartier de San Juan, dans l'agglomération de Manille, connu pour son centre commercial où l'on marchande perles, gadgets et vêtements."
+          "culture": "Quartier de San Juan, dans l'agglomération de Manille, connu pour son centre commercial où l'on marchande perles, gadgets et vêtements.",
+          "optional": true
         },
         {
           "name": "Quartier BGC",
@@ -37,7 +48,8 @@
             14.5504,
             121.0485
           ],
-          "culture": "Quartier d'affaires moderne bâti sur l'ancienne base militaire de Fort Bonifacio, avec ses tours, ses parcs et ses fresques de rue."
+          "culture": "Quartier d'affaires moderne bâti sur l'ancienne base militaire de Fort Bonifacio, avec ses tours, ses parcs et ses fresques de rue.",
+          "optional": true
         }
       ],
       "stay": {
@@ -100,8 +112,25 @@
       "n": 3,
       "title": "Manille ➔ Puerto Princesa",
       "summary": "Vol vers Palawan et exploration de Puerto Princesa : rivière souterraine, tour des lucioles et du plancton bioluminescent sur l'Iwahig River, plage de Nagtabon.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Manille (NAIA)",
+          "coords": [
+            14.5122,
+            121.0219
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de Puerto Princesa",
+          "coords": [
+            9.7424,
+            118.7584
+          ],
+          "hidden": true,
+          "by": "flight"
+        },
         {
           "name": "Rivière souterraine de Puerto Princesa",
           "wiki": "Puerto Princesa Underground River",
@@ -225,8 +254,16 @@
       "n": 5,
       "title": "El Nido : island hopping, puis croisière",
       "summary": "Island hopping dans la baie de Bacuit : Big Lagoon, Small Lagoon et Snake Island, puis départ de la croisière de deux nuits vers Coron.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Port d'El Nido",
+          "coords": [
+            11.1809,
+            119.3868
+          ],
+          "hidden": true
+        },
         {
           "name": "Big Lagoon",
           "photo": "File:Big lagoon entrance, Miniloc island - panoramio.jpg",
@@ -234,7 +271,8 @@
             11.186,
             119.343
           ],
-          "culture": "Lagon entouré de falaises calcaires sur l'île de Miniloc, l'un des sites les plus célèbres de l'archipel de Bacuit. On le parcourt en kayak."
+          "culture": "Lagon entouré de falaises calcaires sur l'île de Miniloc, l'un des sites les plus célèbres de l'archipel de Bacuit. On le parcourt en kayak.",
+          "by": "boat"
         },
         {
           "name": "Small Lagoon",
@@ -243,7 +281,8 @@
             11.187,
             119.345
           ],
-          "culture": "Lagon plus étroit, voisin du Big Lagoon, accessible à travers une ouverture dans la falaise, que l'on franchit en kayak ou à la nage."
+          "culture": "Lagon plus étroit, voisin du Big Lagoon, accessible à travers une ouverture dans la falaise, que l'on franchit en kayak ou à la nage.",
+          "by": "boat"
         },
         {
           "name": "Snake Island",
@@ -252,14 +291,26 @@
             11.19,
             119.39
           ],
-          "culture": "Banc de sable en forme de S, qui relie deux îlots à marée basse et disparaît sous l'eau à marée haute."
+          "culture": "Banc de sable en forme de S, qui relie deux îlots à marée basse et disparaît sous l'eau à marée haute.",
+          "by": "boat"
         },
         {
-          "name": "Papaya Beach"
+          "name": "Papaya Beach",
+          "by": "boat"
         },
         {
           "name": "Talisay Beach",
-          "culture": "Plage au nord de la ville d'El Nido."
+          "culture": "Plage au nord de la ville d'El Nido.",
+          "by": "boat"
+        },
+        {
+          "name": "Port d'El Nido (retour)",
+          "coords": [
+            11.1809,
+            119.3868
+          ],
+          "hidden": true,
+          "by": "boat"
         }
       ],
       "stay": {
@@ -268,7 +319,8 @@
           11.6,
           119.85
         ],
-        "note": "Nuit sur le bateau"
+        "note": "Nuit sur le bateau",
+        "by": "boat"
       },
       "transport": [
         {
@@ -318,7 +370,8 @@
         "options": [
           "Paolyn Houseboat",
           "Un hôtel sur pilotis, à étudier"
-        ]
+        ],
+        "by": "boat"
       },
       "transport": [
         {
@@ -331,26 +384,51 @@
       "n": 8,
       "title": "Coron : lacs et lagons",
       "summary": "Island hopping en tour privé : Kayangan Lake, Twin Lagoon, snorkeling à Siete Pecados et plage de Pasandigan, puis tour des lucioles et du plancton bioluminescent à Kingfisher Park.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Embarcadère de Coron (Bayside Pier)",
+          "coords": [
+            11.9958,
+            120.2015
+          ],
+          "hidden": true
+        },
         {
           "name": "Kayangan Lake",
           "wiki": "Kayangan Lake",
-          "culture": "Lac d'eau douce et salée, entouré de falaises calcaires, souvent cité comme l'un des lacs les plus propres d'Asie."
+          "culture": "Lac d'eau douce et salée, entouré de falaises calcaires, souvent cité comme l'un des lacs les plus propres d'Asie.",
+          "by": "boat"
         },
         {
           "name": "Twin Lagoon",
           "photo": "File:Twin Lagoon Coron Palawan.jpg",
-          "culture": "Deux lagons séparés par une paroi calcaire que l'on franchit à la nage, avec de l'eau plus chaude sous la couche de surface."
+          "culture": "Deux lagons séparés par une paroi calcaire que l'on franchit à la nage, avec de l'eau plus chaude sous la couche de surface.",
+          "by": "boat"
         },
         {
           "name": "Siete Pecados",
           "wiki": "Siete Pecados",
-          "culture": "Réserve marine proche de la ville de Coron, aux récifs de corail que l'on explore directement en snorkeling."
+          "culture": "Réserve marine proche de la ville de Coron, aux récifs de corail que l'on explore directement en snorkeling.",
+          "by": "boat",
+          "coords": [
+            12.014,
+            120.231
+          ]
         },
         {
           "name": "Plage de Pasandigan",
-          "culture": "Plage de sable blanc de l'archipel de Coron, visitée en island hopping."
+          "culture": "Plage de sable blanc de l'archipel de Coron, visitée en island hopping.",
+          "by": "boat"
+        },
+        {
+          "name": "Embarcadère de Coron (retour)",
+          "coords": [
+            11.9958,
+            120.2015
+          ],
+          "hidden": true,
+          "by": "boat"
         },
         {
           "name": "Kingfisher Park",
@@ -414,8 +492,34 @@
       "n": 10,
       "title": "Coron ➔ Bohol",
       "summary": "Vol intérieur via Cebu vers Bohol, puis exploration terrestre : Chocolate Hills, sanctuaire des tarsiers, rivière Loboc, rizières de Cambuyo, plage, et dîner avec lucioles sur l'Abatan River ou la Loay River.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Aéroport de Coron (Busuanga)",
+          "coords": [
+            12.121,
+            120.0959
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Aéroport de Mactan-Cebu",
+          "coords": [
+            10.3103,
+            123.9793
+          ],
+          "hidden": true,
+          "by": "flight"
+        },
+        {
+          "name": "Aéroport de Bohol-Panglao",
+          "coords": [
+            9.5777,
+            123.7733
+          ],
+          "hidden": true,
+          "by": "flight"
+        },
         {
           "name": "Chocolate Hills",
           "wiki": "Chocolate Hills",
@@ -470,20 +574,30 @@
       "n": 11,
       "title": "Bohol : Panglao",
       "summary": "Exploration marine : plongée à Balicasag Island et plage d'Alona.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Plage d'Alona (départ)",
+          "coords": [
+            9.5486,
+            123.7708
+          ],
+          "hidden": true
+        },
         {
           "name": "Balicasag Island",
           "coords": [
             9.517,
             123.68
           ],
-          "culture": "Petite île de Panglao dotée d'une réserve marine, réputée pour ses tombants de corail, ses tortues et ses bancs de poissons."
+          "culture": "Petite île de Panglao dotée d'une réserve marine, réputée pour ses tombants de corail, ses tortues et ses bancs de poissons.",
+          "by": "boat"
         },
         {
           "name": "Plage d'Alona",
           "wiki": "Alona Beach",
-          "culture": "Plage de sable blanc de Panglao, animée, bordée de restaurants et de centres de plongée."
+          "culture": "Plage de sable blanc de Panglao, animée, bordée de restaurants et de centres de plongée.",
+          "by": "boat"
         }
       ],
       "stay": {
@@ -499,8 +613,25 @@
       "n": 12,
       "title": "Panglao ➔ Siquijor",
       "summary": "Ferry depuis le port de Tagbilaran vers Siquijor, puis cascades et plages.",
-      "route": "none",
+      "route": "drive",
       "stops": [
+        {
+          "name": "Port de Tagbilaran",
+          "coords": [
+            9.6499,
+            123.8465
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Port de Siquijor",
+          "coords": [
+            9.2176,
+            123.512
+          ],
+          "hidden": true,
+          "by": "boat"
+        },
         {
           "name": "Siquijor",
           "wiki": "Siquijor",

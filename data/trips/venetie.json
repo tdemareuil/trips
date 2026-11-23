@@ -451,7 +451,8 @@
             45.5053,
             12.3519
           ],
-          "culture": "Aéroport de Venise, sur la terre ferme, à environ 30 minutes de Trévise."
+          "culture": "Aéroport de Venise, sur la terre ferme, à environ 30 minutes de Trévise.",
+          "hidden": true
         }
       ],
       "stay": null,

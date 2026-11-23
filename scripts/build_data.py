@@ -209,15 +209,51 @@ def position(item, images):
     return None
 
 
-def day_waypoints(days, i, images):
-    points = []
+STRAIGHT = {"boat", "flight", "train"}
+
+
+def day_waypoints(days, i, images, with_modes=False):
+    """Points of a day in order. An item's "by" ("boat", "flight", "train") says how
+    the leg arriving at it is travelled; other legs are driven."""
+    items = []
     if i > 0 and days[i - 1].get("stay"):
-        points.append(position(days[i - 1]["stay"], images))
-    points += [position(s, images) for s in days[i]["stops"]]
+        items.append(days[i - 1]["stay"] | {"by": None})
+    items += [s for s in days[i]["stops"] if not s.get("optional")]  # options stay off the route
     if days[i].get("stay"):
-        points.append(position(days[i]["stay"], images))
-    points = [p for p in points if p]
-    return [p for j, p in enumerate(points) if j == 0 or p != points[j - 1]]
+        items.append(days[i]["stay"])
+    points = [(position(it, images), it.get("by")) for it in items]
+    points = [(p, by) for p, by in points if p]
+    points = [pb for j, pb in enumerate(points) if j == 0 or pb[0] != points[j - 1][0]]
+    return points if with_modes else [p for p, _ in points]
+
+
+def osrm_line(via):
+    url = OSRM_URL.format(coords=";".join(f"{lon},{lat}" for lon, lat in via))
+    try:
+        result = get_json(url)
+    except Exception as e:  # e.g. 400 when a point is unreachable by road
+        print(f"routes: request failed ({e})")
+        result = {}
+    time.sleep(1)
+    if result.get("code") != "Ok":
+        return None
+    return thin(result["routes"][0]["geometry"]["coordinates"])
+
+
+def day_segments(points):
+    """Split a day into driven runs and straight legs (ferry, flight, train)."""
+    segments, run = [], [points[0][0]]
+    for (p, by) in points[1:]:
+        if by in STRAIGHT:
+            if len(run) > 1:
+                segments.append(("road", run))
+            segments.append(("straight", [run[-1], p]))
+            run = [p]
+        else:
+            run.append(p)
+    if len(run) > 1:
+        segments.append(("road", run))
+    return segments
 
 
 def thin(coords, tol=0.0008):
@@ -238,20 +274,26 @@ def build_routes(trips, images, refresh):
         for i, day in enumerate(trip["days"]):
             if day.get("route") != "drive":
                 continue
-            via = [[round(lon, 5), round(lat, 5)] for lon, lat in day_waypoints(trip["days"], i, images)]
+            points = [([round(lon, 5), round(lat, 5)], by) for (lon, lat), by in day_waypoints(trip["days"], i, images, True)]
+            via = [p for p, _ in points]
             if len(via) < 2:
                 continue
-            if store.get(str(day["n"]), {}).get("via") == via:
+            key = via if not any(by in STRAIGHT for _, by in points) else [[p, by] for p, by in points]
+            if store.get(str(day["n"]), {}).get("via") == key:
                 continue
-            url = OSRM_URL.format(coords=";".join(f"{lon},{lat}" for lon, lat in via))
-            result = get_json(url)
-            if result.get("code") != "Ok":
-                print(f"routes: day {day['n']} failed ({result.get('code')})")
-                continue
-            line = thin(result["routes"][0]["geometry"]["coordinates"])
-            store[str(day["n"])] = {"via": via, "line": line}
+            if key is via:
+                line = osrm_line(via)
+                if not line:
+                    print(f"routes: {trip['id']} day {day['n']} failed")
+                    continue
+                store[str(day["n"])] = {"via": via, "line": line}
+            else:
+                segs = []
+                for kind, pts in day_segments(points):
+                    line = osrm_line(pts) if kind == "road" else None
+                    segs.append({"line": line or pts, "dashed": kind != "road" or not line})
+                store[str(day["n"])] = {"via": key, "segments": segs}
             fetched += 1
-            time.sleep(1)
         # Maps inside guides (variants): one driving line per day, stored as "<guide id>:<k>".
         for guide in trip.get("guides", []):
             for block in guide["blocks"]:

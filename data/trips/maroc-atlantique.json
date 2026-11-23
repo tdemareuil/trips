@@ -250,7 +250,8 @@
             31.6069,
             -8.0363
           ],
-          "culture": "Aéroport d'arrivée et de départ du circuit, à quelques kilomètres du centre de Marrakech."
+          "culture": "Aéroport d'arrivée et de départ du circuit, à quelques kilomètres du centre de Marrakech.",
+          "hidden": true
         }
       ],
       "stay": null,
