@@ -762,8 +762,12 @@
           "text": "Centre-ville de San Francisco : Cable Car, Chinatown, Union Square, Financial District. L'après-midi, Alamo Square et ses maisons victoriennes (les « Painted Ladies »), puis Mission : Valencia Street, les fresques de Clarion Alley et la mission Dolores."
         },
         {
+          "label": "Soir · Louison",
+          "text": "Soirée au choix : un concert au SFJAZZ Center, à Hayes Valley, avec un dîner avant dans le quartier (programmation presque tous les soirs ; leur calendrier n'a pas pu être consulté, à vérifier et réserver) ; ou North Beach, le quartier italien : la librairie City Lights, ouverte tard, haut lieu de la Beat Generation, puis dîner dans une trattoria. Pas de concert au Davies Symphony Hall ni de ballet à l'opéra ces deux soirs : l'orchestre joue le vendredi 29 (Seong-Jin Cho, Mendelssohn et Brahms) et La Belle au bois dormant commence le 29, quand on sera à Yosemite. Retour en Uber."
+        },
+        {
           "label": "Soir, à deux",
-          "text": "Ocean Beach, la grande plage sur le Pacifique au bout de la ville, au coucher du soleil (vers 17 h 25), si le travail finit tôt ; sinon, dîner dans Mission."
+          "text": "Si le travail finit tôt : Ocean Beach, la grande plage sur le Pacifique au bout de la ville, au coucher du soleil (vers 17 h 25)."
         }
       ],
       "stops": [
@@ -839,37 +843,35 @@
       "n": 8,
       "weekday": "Mercredi",
       "title": "Travail & Silicon Valley",
-      "summary": "Journée de travail pour Thomas. Louison file en Caltrain (~16 USD) vers Palo Alto et Mountain View.",
+      "summary": "Journée de travail pour Thomas, puis soirée d'entreprise à Oracle Park. Louison fait la Silicon Valley en Caltrain : Stanford, Mountain View, Google et Apple Park.",
       "route": "none",
       "parts": [
         {
           "label": "Thomas",
-          "text": "Journée de travail."
+          "text": "Journée de travail, puis soirée d'entreprise à Oracle Park, le stade des Giants, au bord de la baie."
         },
         {
-          "label": "Louison",
-          "text": "Caltrain vers Palo Alto / Mountain View : Apple Park Visitor Center, Googleplex, campus de Stanford, photo souvenir devant le HP Garage historique (367 Addison Ave)."
+          "label": "Louison · matin",
+          "text": "Caltrain vers 8 h 30 depuis la gare de 4th & King, à côté d'Oracle Park, jusqu'à Palo Alto (environ 40 min en train express, 1 h en omnibus). Navette gratuite Marguerite jusqu'au campus de Stanford : le Main Quad, la Memorial Church et ses mosaïques, la vue depuis la Hoover Tower (à vérifier). En option, le HP Garage, à 15 min à pied de la gare de Palo Alto."
         },
         {
-          "label": "Soir · Thomas",
-          "text": "Soirée d'entreprise à Oracle Park, le stade des Giants, au bord de la baie."
+          "label": "Louison · midi",
+          "text": "Caltrain jusqu'à Mountain View (environ 10 min) et déjeuner dans Castro Street, la rue des restaurants, à la sortie de la gare."
+        },
+        {
+          "label": "Louison · après-midi",
+          "text": "Uber ou Lyft jusqu'au Google Visitor Experience (environ 10 min ; vérifier les jours d'ouverture), puis jusqu'à l'Apple Park Visitor Center, à Cupertino (environ 15 min) : boutique, café et terrasse avec vue sur l'anneau. Il n'y a pas de train entre ces deux sites ; en bus VTA, compter 45 min à 1 h par trajet. Puis Uber jusqu'à la gare de Sunnyvale (environ 10 min)."
+        },
+        {
+          "label": "Louison · retour",
+          "text": "Caltrain de Sunnyvale vers 16 h 30, arrivée à San Francisco vers 17 h 30 (environ 1 h)."
         },
         {
           "label": "Soir · Louison",
-          "text": "Au retour du Caltrain : un concert au SFJAZZ Center, à Hayes Valley (programmation presque tous les soirs, à réserver), avec un dîner avant dans les rues de Hayes Valley. Sinon, un ballet ou un concert à l'opéra ou au Davies Symphony Hall, à deux pas (la saison du San Francisco Ballet commence fin janvier, vérifier le programme). Retour en Uber."
+          "text": "Soirée au choix : un concert au SFJAZZ Center, à Hayes Valley, avec un dîner avant dans le quartier (programmation presque tous les soirs ; leur calendrier n'a pas pu être consulté, à vérifier et réserver) ; ou North Beach, le quartier italien : la librairie City Lights, ouverte tard, haut lieu de la Beat Generation, puis dîner dans une trattoria. Pas de concert au Davies Symphony Hall ni de ballet à l'opéra ces deux soirs : l'orchestre joue le vendredi 29 (Seong-Jin Cho, Mendelssohn et Brahms) et La Belle au bois dormant commence le 29, quand on sera à Yosemite. Retour en Uber."
         }
       ],
       "stops": [
-        {
-          "name": "Apple Park Visitor Center",
-          "wiki": "Apple Park",
-          "culture": "Le siège d'Apple, ouvert en 2017, est un immense anneau de verre d'environ 1,6 km de circonférence, conçu avec l'architecte Norman Foster. Le Visitor Center propose une maquette en réalité augmentée du campus."
-        },
-        {
-          "name": "Googleplex",
-          "wiki": "Googleplex",
-          "culture": "Le siège de Google à Mountain View. Son nom joue sur « googolplex », un nombre gigantesque (10 puissance googol)."
-        },
         {
           "name": "Campus de Stanford",
           "wiki": "Stanford University",
@@ -879,7 +881,26 @@
         {
           "name": "HP Garage",
           "wiki": "HP Garage",
-          "culture": "C'est dans ce garage que Bill Hewlett et David Packard ont fondé Hewlett-Packard en 1939, avec 538 dollars. Une plaque le désigne comme le berceau de la Silicon Valley."
+          "culture": "C'est dans ce garage que Bill Hewlett et David Packard ont fondé Hewlett-Packard en 1939, avec 538 dollars. Une plaque le désigne comme le berceau de la Silicon Valley.",
+          "optional": true
+        },
+        {
+          "name": "Castro Street, Mountain View",
+          "coords": [
+            37.394,
+            -122.0789
+          ],
+          "culture": "La rue principale de Mountain View, juste à la sortie de la gare : restaurants de toutes les cuisines, fréquentés à midi par les employés de la Silicon Valley."
+        },
+        {
+          "name": "Googleplex",
+          "wiki": "Googleplex",
+          "culture": "Le siège de Google à Mountain View. Son nom joue sur « googolplex », un nombre gigantesque (10 puissance googol)."
+        },
+        {
+          "name": "Apple Park Visitor Center",
+          "wiki": "Apple Park",
+          "culture": "Le siège d'Apple, ouvert en 2017, est un immense anneau de verre d'environ 1,6 km de circonférence, conçu avec l'architecte Norman Foster. Le Visitor Center propose une maquette en réalité augmentée du campus."
         }
       ],
       "stay": {
@@ -892,9 +913,28 @@
       },
       "transport": [
         {
-          "mode": "transit",
-          "text": "SF ⇄ Palo Alto : ~1h30 à 2h A/R (Caltrain)"
+          "mode": "train",
+          "text": "San Francisco (4th & King) → Palo Alto : environ 40 min en Caltrain express",
+          "after": 0
+        },
+        {
+          "mode": "train",
+          "text": "Palo Alto → Mountain View : environ 10 min en Caltrain",
+          "after": 1
+        },
+        {
+          "mode": "car",
+          "text": "Mountain View → Google → Apple Park → gare de Sunnyvale : environ 35 min d'Uber ou de Lyft en tout",
+          "after": 2
+        },
+        {
+          "mode": "train",
+          "text": "Sunnyvale → San Francisco : environ 1 h en Caltrain",
+          "after": 3
         }
+      ],
+      "notes": [
+        "Billets de Caltrain : carte Clipper, ou Clipper dans le portefeuille du téléphone ; prendre un pass journée si l'on fait plusieurs trajets. Vérifier les horaires des trains express sur le site de Caltrain."
       ]
     },
     {
