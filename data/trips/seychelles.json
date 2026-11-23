@@ -81,7 +81,7 @@
           -4.314,
           55.733
         ],
-        "note": "Praslin, 3 nuits : petit hôtel au bord de l'eau",
+        "note": "Nuit 1 sur 3 à Praslin : petit hôtel au bord de l'eau",
         "options": [
           "Le Domaine de La Réserve (anse Petite Cour, à vérifier)",
           "Coco de Mer Hotel & Black Parrot Suites (anse Bois de Rose, à vérifier)",
@@ -148,7 +148,7 @@
           -4.314,
           55.733
         ],
-        "note": "Même hôtel que la veille"
+        "note": "Nuit 2 sur 3 à Praslin, même hôtel que la veille"
       },
       "transport": [
         {
@@ -215,7 +215,7 @@
           -4.314,
           55.733
         ],
-        "note": "Même hôtel que la veille",
+        "note": "Nuit 3 sur 3 à Praslin, même hôtel que la veille",
         "by": "boat"
       },
       "transport": [
@@ -295,7 +295,7 @@
           -4.35,
           55.832
         ],
-        "note": "La Digue, 2 nuits : petit hôtel ou maison d'hôtes",
+        "note": "Nuit 1 sur 2 à La Digue : petit hôtel ou maison d'hôtes",
         "options": [
           "Le Repaire Boutique Hotel (anse La Réunion, à vérifier)",
           "Le Domaine de L'Orangeraie (villas dans la végétation, à vérifier)",
@@ -373,7 +373,7 @@
           -4.35,
           55.832
         ],
-        "note": "Même hôtel que la veille"
+        "note": "Nuit 2 sur 2 à La Digue, même hôtel que la veille"
       },
       "transport": [
         {
@@ -459,7 +459,7 @@
           -4.745,
           55.475
         ],
-        "note": "Sud de Mahé, 2 nuits : petit hôtel ou maison d'hôtes au-dessus d'une crique (Anse Soleil, Anse Takamaka)"
+        "note": "Nuit 1 sur 2 dans le sud de Mahé : petit hôtel ou maison d'hôtes au-dessus d'une crique (Anse Soleil, Anse Takamaka)"
       },
       "transport": [
         {
@@ -532,7 +532,7 @@
           -4.745,
           55.475
         ],
-        "note": "Même hôtel que la veille"
+        "note": "Nuit 2 sur 2 dans le sud de Mahé, même hôtel que la veille"
       },
       "transport": [
         {
@@ -738,5 +738,6 @@
         }
       ]
     }
-  ]
+  ],
+  "staysInOverview": true
 }

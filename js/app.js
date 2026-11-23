@@ -525,7 +525,14 @@ function mountStory(trip, start) {
       [N, 'jours'],
       [days.filter(d => d.stay).length, 'nuits'],
     ].map(([n, label]) => `<div><dt>${n}</dt><dd>${label}</dd></div>`).join('');
-    const list = days.map(d => `
+    // Trips with `staysInOverview` show, above each run of nights in the same place, how many nights it is.
+    const stayHead = (d, k) => {
+      if (!trip.staysInOverview || !d.stay || days[k - 1]?.stay?.name === d.stay.name) return '';
+      let n = 0;
+      while (days[k + n]?.stay?.name === d.stay.name) n++;
+      return `<li class="stay-head"><span class="glyph">☾</span>${esc(d.stay.name)} · ${n} nuit${n > 1 ? 's' : ''}</li>`;
+    };
+    const list = days.map((d, k) => `${stayHead(d, k)}
       <li><a href="#/${trip.id}/${d.n}" style="--c:${d.color}"><span class="swatch"></span><b>${d.n}</b><span>${esc(d.title)}</span>${d.dateShort ? `<time>${esc(d.dateShort)}</time>` : ''}</a></li>`).join('');
     const guides = trip.guides?.length ? `
       <h2 class="section">Guides &amp; comparatifs</h2>

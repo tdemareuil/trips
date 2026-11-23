@@ -215,6 +215,8 @@ button:disabled { cursor: default; }
 .overview b { flex: none; width: 20px; color: var(--muted); font-weight: 700; }
 .overview .swatch { flex: none; }
 .overview a > span:not(.swatch) { flex: 1; min-width: 0; line-height: 1.35; }
+.overview .stay-head { display: flex; align-items: center; gap: 8px; padding: 16px 0 4px; color: var(--muted); font-size: 11.5px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; }
+.overview .stay-head:first-child { padding-top: 4px; }
 .overview time { margin-left: auto; padding-left: 12px; color: var(--muted); font-size: 12.5px; font-weight: 600; white-space: nowrap; }
 
 /* Day */
