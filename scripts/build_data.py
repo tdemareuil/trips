@@ -36,12 +36,19 @@ def get_json(url, params=None):
 
 
 def expand_variants(trip):
-    """A trip and its variants, each variant as a trip "<id>~<variant id>" whose first
-    days are replaced. Keep in sync with withVariants() in js/app.js."""
+    """A trip and its variants, each variant as a trip "<id>~<variant id>" in which days
+    `from` to `to` are replaced and all days are numbered again. A variant day
+    {"use": k, ...} copies day k of the main trip with the given fields replaced.
+    Keep in sync with withVariants() in js/app.js."""
     out = [trip]
     for v in trip.get("variants", []):
+        start = v.get("from", 1)
+        end = v.get("to", start + len(v["days"]) - 1)
+        by_n = {d["n"]: d for d in trip["days"]}
+        own = [by_n[d["use"]] | {k: x for k, x in d.items() if k != "use"} if "use" in d else d for d in v["days"]]
+        days = [d for d in trip["days"] if d["n"] < start] + own + [d for d in trip["days"] if d["n"] > end]
         out.append(trip | {"id": f"{trip['id']}~{v['id']}", "cover": v.get("cover", trip.get("cover")),
-                           "days": v["days"] + trip["days"][v["replaces"]:], "variants": [], "guides": []})
+                           "days": [d | {"n": i + 1} for i, d in enumerate(days)], "variants": [], "guides": []})
     return out
 
 

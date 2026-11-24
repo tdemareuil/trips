@@ -79,24 +79,30 @@ async function loadData() {
   data.order = index;
 }
 
-// A trip's `variants` are other versions of its first `replaces` days (e.g. California
-// by way of Florida). Each becomes a trip of its own, "<trip id>~<variant id>", with the
-// variant's days followed by the rest of the trip; it is not listed on the home page.
-// Keep in sync with expand_variants() in scripts/build_data.py.
+// A trip's `variants` are other versions of a run of its days, from day `from` (1 by
+// default) to day `to`. Each becomes a trip of its own, "<trip id>~<variant id>": the
+// days before, the variant's days, then the days after, numbered again from 1. A variant
+// day {use: k, ...} copies day k of the main trip with the given fields replaced. Variants
+// are not listed on the home page. Keep in sync with expand_variants() in build_data.py.
 function withVariants(trip) {
   if (!trip.variants?.length) return [trip];
   const versions = [{ id: trip.id, label: trip.variantLabel || 'Itinéraire principal' },
     ...trip.variants.map(v => ({ id: `${trip.id}~${v.id}`, label: v.label }))];
-  const variants = trip.variants.map(v => ({
-    ...trip,
-    id: `${trip.id}~${v.id}`,
-    subtitle: v.subtitle || trip.subtitle,
-    cover: v.cover || trip.cover,
-    sections: v.sections || trip.sections,
-    days: [...v.days, ...trip.days.slice(v.replaces)],
-    variants: undefined,
-    versions,
-  }));
+  const variants = trip.variants.map(v => {
+    const from = v.from ?? 1, to = v.to ?? from + v.days.length - 1;
+    const own = v.days.map(({ use, ...d }) => (use ? { ...trip.days.find(x => x.n === use), ...d } : d));
+    const days = [...trip.days.filter(d => d.n < from), ...own, ...trip.days.filter(d => d.n > to)];
+    return structuredClone({
+      ...trip,
+      id: `${trip.id}~${v.id}`,
+      subtitle: v.subtitle || trip.subtitle,
+      cover: v.cover || trip.cover,
+      sections: v.sections || trip.sections,
+      days: days.map((d, i) => ({ ...d, n: i + 1 })),
+      variants: undefined,
+      versions,
+    });
+  });
   return [{ ...trip, versions }, ...variants];
 }
 

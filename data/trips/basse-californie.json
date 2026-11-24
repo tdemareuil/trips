@@ -1,7 +1,7 @@
 {
   "id": "basse-californie",
   "title": "Basse-Californie du Sud",
-  "subtitle": "Huit jours de Los Cabos à Loreto : arche de Cabo San Lucas, Cabo Pulmo, Espíritu Santo, Balandra, Todos Santos et baie de Concepción",
+  "subtitle": "Huit jours de Los Cabos à Loreto : arche de Cabo San Lucas, Cabo Pulmo, Espíritu Santo, Balandra et baie de Concepción",
   "travelers": [
     "En couple"
   ],
@@ -1113,6 +1113,10 @@
       "summary": "Le nord (Loreto, Concepción, San Javier) sans Cabo Pulmo : environ 13 h de route au lieu de 20, et une journée de secours à La Paz.",
       "blocks": [
         {
+          "type": "text",
+          "text": "L'itinéraire jour par jour s'affiche avec le bouton « Sans la côte est » de la [vue d'ensemble](#/basse-californie~sans-cote-est/0)."
+        },
+        {
           "type": "heading",
           "text": "Le principe"
         },
@@ -1124,194 +1128,6 @@
             "Environ 13 h de route au lieu de 20, sans piste, et une journée de secours à La Paz, utile parce que le vent du nord fait souvent annuler la sortie à Espíritu Santo en janvier.",
             "Un début de voyage plus calme pour le décalage horaire ; les deux soirées au ciel noir de Loreto sont gardées.",
             "Ce qui ne change pas : la grosse journée La Paz → Loreto (environ 5 h), et un vol de retour avec une escale."
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Jour par jour"
-        },
-        {
-          "type": "map",
-          "days": [
-            {
-              "label": "Jour 1",
-              "night": "San José del Cabo",
-              "points": [
-                [
-                  23.1518,
-                  -109.7211
-                ],
-                [
-                  23.0625,
-                  -109.6975
-                ]
-              ]
-            },
-            {
-              "label": "Jour 2",
-              "night": "Todos Santos",
-              "points": [
-                [
-                  22.8805,
-                  -109.911
-                ],
-                [
-                  22.923,
-                  -109.809
-                ],
-                [
-                  23.3285,
-                  -110.1735
-                ],
-                [
-                  23.4482,
-                  -110.2263
-                ]
-              ]
-            },
-            {
-              "label": "Jour 3",
-              "night": "La Paz",
-              "points": [
-                [
-                  23.3647,
-                  -110.1693
-                ],
-                [
-                  24.322,
-                  -110.327
-                ],
-                [
-                  24.158,
-                  -110.313
-                ]
-              ]
-            },
-            {
-              "label": "Jour 4",
-              "night": "La Paz",
-              "mode": "boat",
-              "points": [
-                [
-                  24.5967,
-                  -110.3993
-                ],
-                [
-                  24.5605,
-                  -110.395
-                ],
-                [
-                  24.158,
-                  -110.313
-                ]
-              ]
-            },
-            {
-              "label": "Jour 5",
-              "night": "La Paz",
-              "points": [
-                [
-                  24.0456,
-                  -109.8258
-                ],
-                [
-                  24.158,
-                  -110.313
-                ]
-              ]
-            },
-            {
-              "label": "Jour 6",
-              "night": "Loreto",
-              "points": [
-                [
-                  26.011,
-                  -111.344
-                ]
-              ]
-            },
-            {
-              "label": "Jour 7",
-              "night": "Loreto",
-              "points": [
-                [
-                  26.6403,
-                  -111.8317
-                ],
-                [
-                  26.7647,
-                  -111.8879
-                ],
-                [
-                  26.011,
-                  -111.344
-                ]
-              ]
-            },
-            {
-              "label": "Jour 8",
-              "night": "Vol vers San Francisco",
-              "points": [
-                [
-                  25.8606,
-                  -111.544
-                ],
-                [
-                  25.9892,
-                  -111.348
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "type": "table",
-          "columns": [
-            "Jour",
-            "Programme",
-            "Nuit"
-          ],
-          "rows": [
-            [
-              "Jour 1",
-              "Arrivée à Los Cabos",
-              "San José del Cabo"
-            ],
-            [
-              "Jour 2",
-              "L'arche de Cabo San Lucas tôt le matin, Santa María, Cerritos, puis Todos Santos",
-              "Todos Santos"
-            ],
-            [
-              "Jour 3",
-              "Todos Santos et Pescadero le matin, route vers La Paz (environ 1 h), Balandra l'après-midi (13 h-17 h)",
-              "La Paz"
-            ],
-            [
-              "Jour 4",
-              "Espíritu Santo et les otaries de Los Islotes",
-              "La Paz"
-            ],
-            [
-              "Jour 5",
-              "Journée souple : Bahía de los Sueños et Punta Arena (environ 1 h à l'est), ou sortie guidée en kayak et snorkeling autour de La Paz, ou Espíritu Santo si le vent a empêché la sortie la veille",
-              "La Paz"
-            ],
-            [
-              "Jour 6",
-              "Route vers Loreto (environ 5 h)",
-              "Loreto"
-            ],
-            [
-              "Jour 7",
-              "Baie de Concepción",
-              "Loreto"
-            ],
-            [
-              "Jour 8",
-              "Barque dans la baie de Loreto, mission de San Javier, vol Alaska de 17 h 01 vers San Francisco",
-              "–"
-            ]
           ]
         },
         {
@@ -1367,6 +1183,10 @@
       "summary": "Moins de route et un vol direct vers San Francisco, sans Loreto.",
       "blocks": [
         {
+          "type": "text",
+          "text": "L'itinéraire jour par jour s'affiche avec le bouton « Le sud seulement » de la [vue d'ensemble](#/basse-californie~sud/0)."
+        },
+        {
           "type": "heading",
           "text": "Itinéraire principal ou variante calme ?"
         },
@@ -1378,198 +1198,6 @@
             "Le prix de l'itinéraire principal : environ 20 h de route en tout, dont une journée de 5 h entre La Paz et Loreto, et un retour avec une escale au lieu d'un vol direct.",
             "La variante calme reste dans le sud : environ 9 h de route en tout, un vol direct vers San Francisco, et plus de temps sur chaque plage. On perd la baie de Concepción, San Javier, Los Barriles et les baleines de Loreto."
           ]
-        },
-        {
-          "type": "heading",
-          "text": "La variante jour par jour"
-        },
-        {
-          "type": "map",
-          "days": [
-            {
-              "label": "Jour 1",
-              "night": "San José del Cabo",
-              "points": [
-                [
-                  23.1518,
-                  -109.7211
-                ],
-                [
-                  23.0625,
-                  -109.6975
-                ]
-              ]
-            },
-            {
-              "label": "Jour 2",
-              "night": "San José del Cabo",
-              "points": [
-                [
-                  23.4405,
-                  -109.4285
-                ],
-                [
-                  23.4128,
-                  -109.4245
-                ],
-                [
-                  23.0625,
-                  -109.6975
-                ]
-              ]
-            },
-            {
-              "label": "Jour 3",
-              "night": "Todos Santos",
-              "points": [
-                [
-                  22.923,
-                  -109.809
-                ],
-                [
-                  22.8805,
-                  -109.911
-                ],
-                [
-                  23.3285,
-                  -110.1735
-                ],
-                [
-                  23.4482,
-                  -110.2263
-                ]
-              ]
-            },
-            {
-              "label": "Jour 4",
-              "night": "Todos Santos",
-              "points": [
-                [
-                  23.3647,
-                  -110.1693
-                ],
-                [
-                  23.3895,
-                  -110.2263
-                ],
-                [
-                  23.4482,
-                  -110.2263
-                ]
-              ]
-            },
-            {
-              "label": "Jour 5",
-              "night": "La Paz",
-              "points": [
-                [
-                  24.158,
-                  -110.313
-                ]
-              ]
-            },
-            {
-              "label": "Jour 6",
-              "night": "La Paz",
-              "points": [
-                [
-                  24.322,
-                  -110.327
-                ],
-                [
-                  24.283,
-                  -110.329
-                ],
-                [
-                  24.158,
-                  -110.313
-                ]
-              ]
-            },
-            {
-              "label": "Jour 7",
-              "night": "La Paz",
-              "mode": "boat",
-              "points": [
-                [
-                  24.5967,
-                  -110.3993
-                ],
-                [
-                  24.5605,
-                  -110.395
-                ],
-                [
-                  24.158,
-                  -110.313
-                ]
-              ]
-            },
-            {
-              "label": "Jour 8",
-              "night": "Vol vers San Francisco",
-              "points": [
-                [
-                  23.8037,
-                  -110.1093
-                ],
-                [
-                  23.1518,
-                  -109.7211
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "type": "table",
-          "rows": [
-            [
-              "Jour 1",
-              "Arrivée à Los Cabos",
-              "San José del Cabo"
-            ],
-            [
-              "Jour 2",
-              "Cabo Pulmo à la journée : récif et Los Arbolitos",
-              "San José del Cabo"
-            ],
-            [
-              "Jour 3",
-              "Santa María, l'arche de Cabo San Lucas, Cerritos",
-              "Todos Santos"
-            ],
-            [
-              "Jour 4",
-              "Todos Santos, Pescadero, Punta Lobos et La Pastora",
-              "Todos Santos"
-            ],
-            [
-              "Jour 5",
-              "Route vers La Paz, Malecón ; en option, Bahía de los Sueños et Punta Arena (environ 1 h à l'est)",
-              "La Paz"
-            ],
-            [
-              "Jour 6",
-              "Balandra et El Tesoro",
-              "La Paz"
-            ],
-            [
-              "Jour 7",
-              "Espíritu Santo et Los Islotes",
-              "La Paz"
-            ],
-            [
-              "Jour 8",
-              "El Triunfo (et le Santuario de los Cactus), puis vol direct United Los Cabos → San Francisco, 16 h 23 → 18 h 45",
-              "–"
-            ]
-          ],
-          "columns": [
-            "Jour",
-            "Programme",
-            "Nuit"
-          ]
         }
       ]
     },
@@ -1578,6 +1206,10 @@
       "title": "Variante baleines grises : la lagune de San Ignacio",
       "summary": "Trois nuits dans un camp au bord de la lagune de San Ignacio, au milieu des baleines grises, accessible en petit avion depuis Los Cabos, puis La Paz et Todos Santos.",
       "blocks": [
+        {
+          "type": "text",
+          "text": "L'itinéraire jour par jour s'affiche avec le bouton « San Ignacio » de la [vue d'ensemble](#/basse-californie~san-ignacio/0)."
+        },
         {
           "type": "heading",
           "text": "Le principe"
@@ -1604,178 +1236,6 @@
             "On perd la côte est (Cabo Pulmo, Los Barriles), Loreto, la baie de Concepción et San Javier.",
             "Le camp n'est pas nommé par Voyageurs du Monde ; plusieurs camps existent au bord de la lagune (par exemple Campo Cortez), à comparer."
           ]
-        },
-        {
-          "type": "heading",
-          "text": "Jour par jour"
-        },
-        {
-          "type": "map",
-          "days": [
-            {
-              "label": "Jour 1",
-              "night": "San José del Cabo",
-              "points": [
-                [
-                  23.1518,
-                  -109.7211
-                ],
-                [
-                  23.0625,
-                  -109.6975
-                ]
-              ]
-            },
-            {
-              "label": "Jour 2",
-              "night": "Lagune de San Ignacio",
-              "mode": "flight",
-              "points": [
-                [
-                  23.1518,
-                  -109.7211
-                ],
-                [
-                  26.8,
-                  -113.22
-                ]
-              ]
-            },
-            {
-              "label": "Jour 3",
-              "night": "Lagune de San Ignacio",
-              "mode": "boat",
-              "points": [
-                [
-                  26.8,
-                  -113.22
-                ]
-              ]
-            },
-            {
-              "label": "Jour 4",
-              "night": "Lagune de San Ignacio",
-              "mode": "boat",
-              "points": [
-                [
-                  26.8,
-                  -113.22
-                ]
-              ]
-            },
-            {
-              "label": "Jour 5",
-              "night": "La Paz",
-              "mode": "flight",
-              "points": [
-                [
-                  23.1518,
-                  -109.7211
-                ],
-                [
-                  24.158,
-                  -110.313
-                ]
-              ]
-            },
-            {
-              "label": "Jour 6",
-              "night": "La Paz",
-              "mode": "boat",
-              "points": [
-                [
-                  24.5967,
-                  -110.3993
-                ],
-                [
-                  24.5605,
-                  -110.395
-                ],
-                [
-                  24.158,
-                  -110.313
-                ]
-              ]
-            },
-            {
-              "label": "Jour 7",
-              "night": "Todos Santos",
-              "points": [
-                [
-                  24.322,
-                  -110.327
-                ],
-                [
-                  23.4482,
-                  -110.2263
-                ]
-              ]
-            },
-            {
-              "label": "Jour 8",
-              "night": "Vol vers San Francisco",
-              "points": [
-                [
-                  23.3285,
-                  -110.1735
-                ],
-                [
-                  23.1518,
-                  -109.7211
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "type": "table",
-          "columns": [
-            "Jour",
-            "Programme",
-            "Nuit"
-          ],
-          "rows": [
-            [
-              "Jour 1",
-              "Arrivée à Los Cabos",
-              "San José del Cabo"
-            ],
-            [
-              "Jour 2",
-              "Vol en Cessna vers la lagune de San Ignacio, premières sorties d'observation l'après-midi",
-              "Camp de San Ignacio"
-            ],
-            [
-              "Jour 3",
-              "Sorties en barque au choix (tôt le matin, fin de matinée, après-midi), kayak dans la mangrove",
-              "Camp de San Ignacio"
-            ],
-            [
-              "Jour 4",
-              "Dernières sorties, marche ou vélo autour du camp",
-              "Camp de San Ignacio"
-            ],
-            [
-              "Jour 5",
-              "Vol retour vers Los Cabos, voiture, route vers La Paz (environ 2 h) avec halte à la Bahía de los Sueños, Malecón le soir",
-              "La Paz"
-            ],
-            [
-              "Jour 6",
-              "Espíritu Santo et les otaries de Los Islotes",
-              "La Paz"
-            ],
-            [
-              "Jour 7",
-              "Balandra le matin (8 h-12 h), puis Todos Santos et Pescadero",
-              "Todos Santos"
-            ],
-            [
-              "Jour 8",
-              "Baignade à Cerritos, route vers l'aéroport (environ 1 h 15), vol direct United 16 h 23 → 18 h 45",
-              "–"
-            ]
-          ]
         }
       ]
     }
@@ -1797,6 +1257,1177 @@
     {
       "from": 6,
       "title": "Loreto"
+    }
+  ],
+  "variantLabel": "Principal",
+  "variants": [
+    {
+      "id": "sans-cote-est",
+      "label": "Sans la côte est",
+      "subtitle": "Huit jours de Los Cabos à Loreto, sans la côte est : arche de Cabo San Lucas, Todos Santos, Balandra, Espíritu Santo et baie de Concepción, avec environ 13 h de route au lieu de 20",
+      "sections": [
+        {
+          "from": 1,
+          "title": "Los Cabos et Todos Santos"
+        },
+        {
+          "from": 3,
+          "title": "La Paz et ses îles"
+        },
+        {
+          "from": 6,
+          "title": "Loreto"
+        }
+      ],
+      "days": [
+        {
+          "use": 1
+        },
+        {
+          "title": "L'arche de Cabo San Lucas, Santa María, Cerritos, puis Todos Santos",
+          "route": "drive",
+          "summary": "Tôt le matin, le bateau jusqu'à l'arche du bout de la péninsule, une baignade dans la crique de Santa María, puis la côte pacifique : la plage de Cerritos et Todos Santos pour la nuit.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Depuis la marina de Cabo San Lucas, premier départ vers 8 h 30 : bateau à fond de verre ou taxi nautique (environ 45 min à 1 h) jusqu'à El Arco, l'arche de granite où se rejoignent le Pacifique et la mer de Cortez, avec la colonie d'otaries et la plage de Lover's Beach. Tôt, il y a peu de bateaux et la mer est plus calme."
+            },
+            {
+              "label": "Fin de matinée",
+              "text": "Playa Santa María : petite baie protégée, eau calme et snorkeling, à l'écart des resorts. Déjeuner rapide à Cabo San Lucas."
+            },
+            {
+              "label": "Après-midi",
+              "text": "Route vers la côte pacifique par la route 19. Playa Los Cerritos : longue plage de sable où l'on peut se baigner (l'une des rares de cette côte), écoles de surf et vagues douces."
+            },
+            {
+              "label": "Soir",
+              "text": "Arrivée à Todos Santos avant la nuit, installation et dîner dans le centre."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Marina de Cabo San Lucas",
+              "coords": [
+                22.8805,
+                -109.911
+              ],
+              "hidden": true
+            },
+            {
+              "name": "El Arco de Cabo San Lucas",
+              "wiki": "El Arco de Cabo San Lucas",
+              "coords": [
+                22.8757,
+                -109.8915
+              ],
+              "culture": "Arche de granite à la pointe de la péninsule de Basse-Californie, là où le Pacifique rencontre la mer de Cortez.",
+              "by": "boat"
+            },
+            {
+              "name": "Marina de Cabo San Lucas (retour)",
+              "coords": [
+                22.8805,
+                -109.911
+              ],
+              "hidden": true,
+              "by": "boat"
+            },
+            {
+              "name": "Playa Santa María",
+              "coords": [
+                22.923,
+                -109.809
+              ],
+              "culture": "Baie en fer à cheval protégée, réserve marine, l'une des meilleures criques de snorkeling de Los Cabos.",
+              "photo": "File:Playa Santa Maria, Baja California (432544031).jpg"
+            },
+            {
+              "name": "Playa Los Cerritos",
+              "coords": [
+                23.3285,
+                -110.1735
+              ],
+              "culture": "Longue plage de sable sur le Pacifique, protégée par une pointe rocheuse : l'une des rares où l'on peut se baigner sur cette côte.",
+              "photo": "File:Cerritos Beach - Near Todos Santos - Baja California Sur - Mexico - 04 (23775057435).jpg"
+            }
+          ],
+          "stay": {
+            "name": "Todos Santos",
+            "coords": [
+              23.4482,
+              -110.2263
+            ],
+            "note": "Todos Santos, 2 nuits : hôtel boutique dans le centre historique (à choisir)"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "San José del Cabo → marina de Cabo San Lucas : environ 30 min",
+              "after": -1
+            },
+            {
+              "mode": "boat",
+              "text": "Bateau jusqu'à l'arche : 45 min à 1 h aller-retour",
+              "after": -1
+            },
+            {
+              "mode": "car",
+              "text": "Cabo San Lucas → Santa María : environ 20 min",
+              "after": 0
+            },
+            {
+              "mode": "car",
+              "text": "Cabo San Lucas → Cerritos : environ 1 h par la route 19",
+              "after": 1
+            },
+            {
+              "mode": "car",
+              "text": "Cerritos → Todos Santos : environ 15 min",
+              "after": 2
+            }
+          ],
+          "ideas": [
+            {
+              "label": "Baleines à bosse depuis le bateau",
+              "text": "De janvier à mars, les baleines à bosse passent l'hiver au large de Cabo San Lucas et on les voit souvent pendant la sortie vers l'arche. Avertissement : les sorties dédiées à l'observation des baleines sont encadrées (distance minimale, temps limité), mais les bateaux sont nombreux autour de Cabo et les règles pas toujours respectées. Choisir un petit opérateur qui coupe le moteur à distance, ou se contenter de les voir depuis la côte."
+            }
+          ],
+          "notes": [
+            "Écartés à Cabo San Lucas : la plage d'El Médano (jet-skis, musique, vendeurs) et la randonnée du mont Solmar (montée raide avec des passages à mains ; en 2026, accès seulement en groupe guidé le matin ; déconseillée enceinte).",
+            "Avertissement à la marina de Cabo San Lucas : rabatteurs nombreux, et offres d'excursion « gratuite » ou très bon marché qui servent à vendre de la multipropriété (timeshare). Réserver directement auprès d'un opérateur, et refuser poliment les sollicitations. Choisir un petit bateau qui coupe le moteur près des otaries, sans les approcher."
+          ]
+        },
+        {
+          "title": "Todos Santos et Pescadero, puis Balandra et La Paz",
+          "route": "drive",
+          "summary": "Le matin, les rues de Todos Santos et une ferme de Pescadero ; l'après-midi, la lagune turquoise de Balandra, avant la première soirée à La Paz.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Todos Santos, petite ville classée Pueblo Mágico : mission, théâtre Márquez de León, maisons de brique du XIXe siècle et boutiques d'artisanat. Puis Pescadero, à 15 min : ferme bio et vergers (mangues, avocats, agrumes) où l'on achète ses fruits."
+            },
+            {
+              "label": "Midi",
+              "text": "Route vers La Paz par la route 19 (environ 1 h, autoroute à quatre voies) et déjeuner."
+            },
+            {
+              "label": "Après-midi",
+              "text": "Playa Balandra, créneau de 13 h à 17 h : lagune peu profonde où l'on marche dans l'eau turquoise, et sentier jusqu'au point de vue au-dessus de la baie. Hérons, aigrettes et balbuzards dans la mangrove, raies et petits poissons dans l'eau claire."
+            },
+            {
+              "label": "Soir",
+              "text": "Promenade sur le Malecón et dîner."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Mission de Todos Santos",
+              "coords": [
+                23.4475,
+                -110.2245
+              ],
+              "culture": "Mission fondée en 1723, au cœur de la petite ville.",
+              "photo": "File:Mission at Todos Santos (199627044).jpg"
+            },
+            {
+              "name": "Pescadero",
+              "coords": [
+                23.3647,
+                -110.1693
+              ],
+              "culture": "Village agricole de la côte pacifique, connu pour ses fermes bio, ses vergers et ses restaurants de poisson."
+            },
+            {
+              "name": "Playa Balandra",
+              "coords": [
+                24.322,
+                -110.327
+              ],
+              "culture": "Lagune protégée de sable blanc et d'eau turquoise peu profonde, dans une aire naturelle : l'accès est limité à 450 personnes par créneau.",
+              "photo": "File:Playa Balandra, Baja California Sur 5.jpg"
+            },
+            {
+              "name": "Malecón de La Paz",
+              "wiki": "La Paz, Baja California Sur",
+              "coords": [
+                24.16,
+                -110.315
+              ],
+              "culture": "Promenade de plusieurs kilomètres en bord de mer, le cœur de la ville au coucher du soleil."
+            }
+          ],
+          "stay": {
+            "name": "La Paz",
+            "coords": [
+              24.158,
+              -110.313
+            ],
+            "note": "La Paz, 3 nuits : hôtel boutique sur le Malecón",
+            "options": [
+              "Baja Club Hotel (villa restaurée de 32 chambres, clef Michelin)"
+            ]
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Todos Santos → Pescadero : environ 15 min",
+              "after": -1
+            },
+            {
+              "mode": "car",
+              "text": "Pescadero → La Paz : environ 1 h",
+              "after": 0
+            },
+            {
+              "mode": "car",
+              "text": "La Paz → Balandra : environ 30 min, et retour",
+              "after": 1
+            }
+          ],
+          "ideas": [
+            {
+              "label": "Surf",
+              "text": "L'hiver est la saison des houles du nord-ouest sur la côte de Todos Santos. Cerritos : vagues douces sur fond de sable, écoles et location de planches sur la plage, idéal pour débuter (une blogueuse recommande Edgar, à droite en arrivant, aux tarifs plus abordables). San Pedrito et La Pastora : pointes pour surfeurs confirmés. Grossesse : surf déconseillé pour la future maman ; le partenaire peut surfer pendant qu'elle profite de la plage de Cerritos."
+            },
+            {
+              "label": "Baleines depuis la plage",
+              "text": "Depuis Punta Lobos et la plage de La Pastora, on voit souvent en janvier les souffles et les sauts des baleines à bosse au large, sans déranger personne."
+            },
+            {
+              "label": "Lâcher de bébés tortues",
+              "text": "Le groupe Tortugueros Las Playitas relâche des bébés tortues au coucher du soleil, en principe jusqu'à mi-janvier et seulement s'il reste des éclosions. Avertissement : l'écloserie protège réellement les nids, mais pour le lâcher en public les tortues sont gardées plusieurs heures après l'éclosion, une pratique critiquée par des associations de conservation mexicaines. Si on y va : ne pas toucher les tortues, pas de flash, et rester derrière la ligne. On peut aussi soutenir l'écloserie par un don sans assister au lâcher."
+            },
+            {
+              "label": "La Paz : marché et cathédrale",
+              "text": "Le marché municipal Francisco I. Madero (fruits, tacos, jus frais) et la cathédrale Notre-Dame-de-La-Paz, sur la place Constitución, se voient en une heure : un matin avant la plage, ou un soir sur le chemin du Malecón."
+            },
+            {
+              "label": "En option, avec réserve : l'Hotel California",
+              "text": "Avertissement : rien à voir avec la chanson des Eagles, malgré ce qu'en dit la boutique ; c'est surtout un magasin de souvenirs à ce nom. Un coup d'œil à la façade suffit."
+            }
+          ],
+          "notes": [
+            "Balandra : acheter le billet en ligne à l'avance (125 pesos par personne en 2026) : il n'est pas vendu sur place, et il n'y a pas de réseau pour l'acheter au dernier moment. 450 personnes par créneau, deux créneaux : 8 h-12 h et 13 h-17 h. Sur la côte pacifique, ne se baigner qu'à Cerritos."
+          ]
+        },
+        {
+          "use": 4
+        },
+        {
+          "title": "Journée souple autour de La Paz",
+          "route": "drive",
+          "summary": "Une journée de secours, utile parce que le vent du nord fait souvent annuler la sortie à Espíritu Santo en janvier : la Bahía de los Sueños, une sortie en kayak, ou Espíritu Santo si le bateau n'est pas parti la veille.",
+          "parts": [
+            {
+              "label": "Option 1",
+              "text": "Bahía de los Sueños et Punta Arena, environ 1 h à l'est : longues plages vides sur la mer de Cortez, et La Ventana, spot de kitesurf réputé en hiver."
+            },
+            {
+              "label": "Option 2",
+              "text": "Sortie guidée en kayak et snorkeling autour de La Paz, dans les baies abritées."
+            },
+            {
+              "label": "Option 3",
+              "text": "Espíritu Santo et Los Islotes, si le vent a empêché la sortie la veille."
+            },
+            {
+              "label": "Soir",
+              "text": "Dernier dîner à La Paz, sur le Malecón."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Bahía de los Sueños et Punta Arena",
+              "coords": [
+                24.0456,
+                -109.8258
+              ],
+              "culture": "Grande baie de la mer de Cortez à l'est de La Paz, avec La Ventana, l'un des meilleurs spots de kitesurf de la péninsule en hiver, quand souffle le vent du nord."
+            }
+          ],
+          "stay": {
+            "name": "La Paz",
+            "coords": [
+              24.158,
+              -110.313
+            ],
+            "note": "Même hôtel que la veille"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Option 1 : La Paz → Bahía de los Sueños, environ 1 h, et retour",
+              "after": -1
+            }
+          ],
+          "food": [
+            "Petit-déjeuner au marché municipal Madero de La Paz : jus frais (pressés devant vous, sans glaçons pour la future maman) et machaca, bœuf séché et effiloché des ranchs de la péninsule, servi chaud avec des œufs ou en burrito (bien recuit, il convient à la future maman ; jamais tel quel). Déjeuner dans une fonda ou une taquería du centre de Todos Santos pleine de clients mexicains. Achat de mangues, avocats et agrumes dans une ferme de Pescadero : les laver à l'eau potable, et pour la future maman ne pas toucher la terre sans gants (toxoplasmose). Dîner de poisson dans un restaurant simple de Pescadero. Pour le partenaire, un verre de damiana, liqueur d'herbe locale vendue dans une bouteille en forme de femme, à rapporter aussi en souvenir. Alternatives : Jazamango, à Todos Santos, cuisine de la ferme et de la mer du chef Javier Plascencia, ou Hierbabuena, sous les arbres d'un potager à Pescadero. Avertissement : adresses chères et à la mode, très fréquentées par une clientèle américaine ; dans les restaurants de ferme, les salades crues sont à éviter pour la future maman. Grossesse : tout bien cuit, pas de crudités douteuses, pas de fromage au lait cru, pas d'alcool."
+          ],
+          "ideas": [
+            {
+              "label": "Requins-baleines dans la baie de La Paz",
+              "text": "Le matin, petit bateau (environ 20 min) puis snorkeling en surface à côté de jeunes requins-baleines de 5 à 10 m, inoffensifs, près d'El Mogote. Sortie de 2 à 3 h, saison d'octobre à avril, seulement si assez d'animaux sont présents (suspendue en février 2024 et en février 2025). Avertissement : la baie est un refuge protégé depuis 2018 et les sorties sont encadrées (un bateau par requin, cinq nageurs au plus, interdiction de toucher), mais une étude de Whale Shark Mexico publiée en 2025 montre que 50 à 60 % des requins-baleines de la baie portent des blessures causées par les bateaux. Si on y va : opérateur agréé, petit groupe, crème solaire biodégradable, rester à au moins 2 m de l'animal. À faire un matin à la place de Balandra, en décalant Balandra sur le créneau de 13 h à 17 h."
+            },
+            {
+              "label": "Bahía de los Sueños et Punta Arena",
+              "text": "Bahía de los Sueños et Punta Arena, à environ 1 h à l'est de La Paz par Los Planes : baie turquoise encaissée avec un petit restaurant au bord de l'eau, pêcheurs et pélicans, puis 15 min de piste jusqu'à Punta Arena, que la blogueuse Kikis (avril 2026) a trouvée la plus belle plage de son voyage. Il n'y a presque rien sur place : prendre eau et pique-nique. Le phare ne vaut pas le détour, et La Ventana, sur la route, non plus. Une bonne journée de remplacement si le vent empêche la sortie à Espíritu Santo."
+            },
+            {
+              "label": "Kayak et snorkeling autour de La Paz",
+              "text": "Sortie guidée en kayak et snorkeling autour de La Paz (proposée notamment par Voyageurs du Monde) : point de vue au-dessus de la baie de Balandra, kayak jusqu'à une plage qu'on n'atteint que par la mer, snorkeling sur un petit récif, et pique-nique sur la plage. Seulement par mer calme ; grossesse : kayak tranquille, gilet, et pas de ceviche au pique-nique (demander une alternative cuite). Une bonne alternative si le vent empêche la longue traversée vers Espíritu Santo, la baie étant plus abritée."
+            }
+          ]
+        },
+        {
+          "use": 6
+        },
+        {
+          "use": 7
+        },
+        {
+          "use": 8
+        }
+      ]
+    },
+    {
+      "id": "sud",
+      "label": "Le sud seulement",
+      "subtitle": "Huit jours dans le sud de la péninsule, avec un vol direct au retour : Cabo Pulmo, l'arche de Cabo San Lucas, Todos Santos, Balandra et Espíritu Santo",
+      "sections": [
+        {
+          "from": 1,
+          "title": "Los Cabos et Cabo Pulmo"
+        },
+        {
+          "from": 3,
+          "title": "Todos Santos"
+        },
+        {
+          "from": 5,
+          "title": "La Paz et ses îles"
+        }
+      ],
+      "days": [
+        {
+          "use": 1,
+          "stay": {
+            "name": "San José del Cabo (centre historique)",
+            "coords": [
+              23.0625,
+              -109.6975
+            ],
+            "note": "San José del Cabo, 2 nuits : petit hôtel dans le centre historique",
+            "options": [
+              "Casa Natalia (hôtel boutique sur la place)"
+            ]
+          }
+        },
+        {
+          "title": "Cabo Pulmo à la journée : le récif et Los Arbolitos",
+          "route": "drive",
+          "summary": "Aller-retour depuis San José del Cabo jusqu'au village de Cabo Pulmo, pour le récif à l'heure où la mer est la plus calme, puis une baignade à Los Arbolitos.",
+          "parts": [
+            {
+              "label": "Tôt le matin",
+              "text": "Départ vers 6 h 30 : environ 1 h 30 de route jusqu'à Cabo Pulmo, dont les derniers kilomètres de piste."
+            },
+            {
+              "label": "Matin",
+              "text": "Sortie snorkeling sur le récif de Cabo Pulmo avec un opérateur du village (obligatoire pour les sites du récif), vers 8 h, avant le vent et les excursions venues de Cabo : coraux, raies, tortues, et parfois les grands bancs de carangues qui tournent en tourbillon. Bateau de 10 à 15 min dans la baie. Par exemple Cabo Pulmo Expediciones (bateau « Don Kiki ») : environ 2 h 30 avec plusieurs arrêts, 6 personnes au plus avec une guide et un capitaine, 1 200 pesos par personne en 2026. Le banc de poissons n'est pas toujours au rendez-vous."
+            },
+            {
+              "label": "Midi",
+              "text": "Déjeuner au village, puis baignade et snorkeling depuis la plage de Los Arbolitos."
+            },
+            {
+              "label": "Après-midi",
+              "text": "Retour à San José del Cabo avant la nuit, à cause de la piste."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Cabo Pulmo",
+              "wiki": "Cabo Pulmo National Park",
+              "coords": [
+                23.4405,
+                -109.4285
+              ],
+              "culture": "Parc national marin créé en 1995 à la demande des pêcheurs du village. La biomasse de poissons y a été multipliée par quatre en dix ans, l'un des plus grands succès de protection marine au monde. Classé par l'UNESCO."
+            },
+            {
+              "name": "Playa Los Arbolitos",
+              "coords": [
+                23.4128,
+                -109.4245
+              ],
+              "culture": "Petite plage abritée au sud du village, avec du snorkeling depuis le bord."
+            }
+          ],
+          "stay": {
+            "name": "San José del Cabo (centre historique)",
+            "coords": [
+              23.0625,
+              -109.6975
+            ],
+            "note": "Même hôtel que la veille"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "San José del Cabo → Cabo Pulmo : environ 1 h 30, dont environ 10 km de piste",
+              "after": -1
+            },
+            {
+              "mode": "boat",
+              "text": "Bateau vers le récif : 10 à 15 min",
+              "after": 0
+            },
+            {
+              "mode": "car",
+              "text": "Cabo Pulmo → San José del Cabo : environ 1 h 30",
+              "after": 2
+            }
+          ],
+          "food": [
+            "Poisson du jour grillé dans les petits restaurants du village de Cabo Pulmo, par exemple La Palapa, avec sa terrasse au-dessus de l'eau (langouste pour le partenaire, bien cuite pour la future maman). Grossesse : tout bien cuit, pas de crudités douteuses, pas de fromage au lait cru, pas d'alcool."
+          ],
+          "notes": [
+            "Ne pas arriver à Cabo Pulmo de nuit : la piste se fait en voiture ordinaire par temps sec, mais lentement (tôle ondulée). Grossesse : à Lover's Beach, le débarquement se fait dans les vagues : rester à bord si la houle est forte.",
+            "Environ 3 h de route en tout, à faire tranquillement, encore un peu décalés. Grossesse : snorkeling en surface avec un gilet, pas de plongée bouteille ; payer le bracelet du parc (CONANP), crème solaire biodégradable, ne pas toucher le corail. Pas de kitesurf pour la future maman."
+          ]
+        },
+        {
+          "title": "Santa María, l'arche de Cabo San Lucas, Cerritos, puis Todos Santos",
+          "route": "drive",
+          "summary": "Une baignade dans la crique de Santa María, le bateau jusqu'à l'arche du bout de la péninsule, puis la côte pacifique : la plage de Cerritos et Todos Santos pour deux nuits.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Playa Santa María : petite baie protégée, eau calme et snorkeling, à l'écart des resorts."
+            },
+            {
+              "label": "Fin de matinée",
+              "text": "Depuis la marina de Cabo San Lucas, premier départ vers 8 h 30 : bateau à fond de verre ou taxi nautique (environ 45 min à 1 h) jusqu'à El Arco, l'arche de granite où se rejoignent le Pacifique et la mer de Cortez, avec la colonie d'otaries et la plage de Lover's Beach. Tôt, il y a peu de bateaux et la mer est plus calme."
+            },
+            {
+              "label": "Après-midi",
+              "text": "Route vers la côte pacifique par la route 19. Playa Los Cerritos : longue plage de sable où l'on peut se baigner (l'une des rares de cette côte), écoles de surf et vagues douces."
+            },
+            {
+              "label": "Soir",
+              "text": "Arrivée à Todos Santos avant la nuit, installation et dîner dans le centre."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Playa Santa María",
+              "coords": [
+                22.923,
+                -109.809
+              ],
+              "culture": "Baie en fer à cheval protégée, réserve marine, l'une des meilleures criques de snorkeling de Los Cabos.",
+              "photo": "File:Playa Santa Maria, Baja California (432544031).jpg"
+            },
+            {
+              "name": "Marina de Cabo San Lucas",
+              "coords": [
+                22.8805,
+                -109.911
+              ],
+              "hidden": true
+            },
+            {
+              "name": "El Arco de Cabo San Lucas",
+              "wiki": "El Arco de Cabo San Lucas",
+              "coords": [
+                22.8757,
+                -109.8915
+              ],
+              "culture": "Arche de granite à la pointe de la péninsule de Basse-Californie, là où le Pacifique rencontre la mer de Cortez.",
+              "by": "boat"
+            },
+            {
+              "name": "Marina de Cabo San Lucas (retour)",
+              "coords": [
+                22.8805,
+                -109.911
+              ],
+              "hidden": true,
+              "by": "boat"
+            },
+            {
+              "name": "Playa Los Cerritos",
+              "coords": [
+                23.3285,
+                -110.1735
+              ],
+              "culture": "Longue plage de sable sur le Pacifique, protégée par une pointe rocheuse : l'une des rares où l'on peut se baigner sur cette côte.",
+              "photo": "File:Cerritos Beach - Near Todos Santos - Baja California Sur - Mexico - 04 (23775057435).jpg"
+            }
+          ],
+          "stay": {
+            "name": "Todos Santos",
+            "coords": [
+              23.4482,
+              -110.2263
+            ],
+            "note": "Todos Santos, 2 nuits : hôtel boutique dans le centre historique (à choisir)"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "San José del Cabo → Santa María : environ 20 min",
+              "after": -1
+            },
+            {
+              "mode": "car",
+              "text": "Santa María → marina de Cabo San Lucas : environ 20 min",
+              "after": 0
+            },
+            {
+              "mode": "boat",
+              "text": "Bateau jusqu'à l'arche : 45 min à 1 h aller-retour",
+              "after": 0
+            },
+            {
+              "mode": "car",
+              "text": "Cabo San Lucas → Cerritos : environ 1 h par la route 19",
+              "after": 1
+            },
+            {
+              "mode": "car",
+              "text": "Cerritos → Todos Santos : environ 15 min",
+              "after": 2
+            }
+          ],
+          "ideas": [
+            {
+              "label": "Baleines à bosse depuis le bateau",
+              "text": "De janvier à mars, les baleines à bosse passent l'hiver au large de Cabo San Lucas et on les voit souvent pendant la sortie vers l'arche. Avertissement : les sorties dédiées à l'observation des baleines sont encadrées (distance minimale, temps limité), mais les bateaux sont nombreux autour de Cabo et les règles pas toujours respectées. Choisir un petit opérateur qui coupe le moteur à distance, ou se contenter de les voir depuis la côte."
+            }
+          ],
+          "notes": [
+            "Écartés à Cabo San Lucas : la plage d'El Médano (jet-skis, musique, vendeurs) et la randonnée du mont Solmar (montée raide avec des passages à mains ; en 2026, accès seulement en groupe guidé le matin ; déconseillée enceinte).",
+            "Avertissement à la marina de Cabo San Lucas : rabatteurs nombreux, et offres d'excursion « gratuite » ou très bon marché qui servent à vendre de la multipropriété (timeshare). Réserver directement auprès d'un opérateur, et refuser poliment les sollicitations. Choisir un petit bateau qui coupe le moteur près des otaries, sans les approcher."
+          ]
+        },
+        {
+          "title": "Todos Santos, Pescadero, Punta Lobos et La Pastora",
+          "route": "drive",
+          "summary": "Une journée entière sur la côte pacifique : les rues de Todos Santos, une ferme de Pescadero, le retour des pêcheurs à Punta Lobos, et le coucher du soleil sur la plage de La Pastora.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Todos Santos, petite ville classée Pueblo Mágico : mission, théâtre Márquez de León, maisons de brique du XIXe siècle et boutiques d'artisanat. Puis Pescadero, à 15 min : ferme bio et vergers (mangues, avocats, agrumes) où l'on achète ses fruits."
+            },
+            {
+              "label": "Midi",
+              "text": "Punta Lobos, au sud de Todos Santos : la plage des pêcheurs, où les barques reviennent en début d'après-midi en passant les vagues ; poisson frais et sentier sur la pointe."
+            },
+            {
+              "label": "Coucher du soleil",
+              "text": "La Pastora, au nord de Todos Santos : longue plage sauvage et spot de surf, avec les baleines à bosse parfois visibles au large en hiver. La baignade y est dangereuse : regarder depuis la plage."
+            },
+            {
+              "label": "Soir",
+              "text": "Dîner à Todos Santos."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Mission de Todos Santos",
+              "coords": [
+                23.4475,
+                -110.2245
+              ],
+              "culture": "Mission fondée en 1723, au cœur de la petite ville.",
+              "photo": "File:Mission at Todos Santos (199627044).jpg"
+            },
+            {
+              "name": "Pescadero",
+              "coords": [
+                23.3647,
+                -110.1693
+              ],
+              "culture": "Village agricole de la côte pacifique, connu pour ses fermes bio, ses vergers et ses restaurants de poisson."
+            },
+            {
+              "name": "Punta Lobos",
+              "coords": [
+                23.416,
+                -110.2405
+              ],
+              "culture": "Plage des pêcheurs de Todos Santos, au pied d'une pointe rocheuse : les barques y débarquent le poisson du jour en passant les vagues."
+            },
+            {
+              "name": "La Pastora",
+              "coords": [
+                23.519,
+                -110.29
+              ],
+              "culture": "Longue plage sauvage au nord de Todos Santos, connue des surfeurs ; courants forts, baignade déconseillée."
+            }
+          ],
+          "stay": {
+            "name": "Todos Santos",
+            "coords": [
+              23.4482,
+              -110.2263
+            ],
+            "note": "Même hôtel que la veille"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Todos Santos → Pescadero : environ 15 min",
+              "after": -1
+            },
+            {
+              "mode": "car",
+              "text": "Pescadero → Punta Lobos : environ 15 min",
+              "after": 0
+            },
+            {
+              "mode": "car",
+              "text": "Punta Lobos → La Pastora : environ 25 min",
+              "after": 1
+            }
+          ],
+          "ideas": [
+            {
+              "label": "Surf",
+              "text": "L'hiver est la saison des houles du nord-ouest sur la côte de Todos Santos. Cerritos : vagues douces sur fond de sable, écoles et location de planches sur la plage, idéal pour débuter (une blogueuse recommande Edgar, à droite en arrivant, aux tarifs plus abordables). San Pedrito et La Pastora : pointes pour surfeurs confirmés. Grossesse : surf déconseillé pour la future maman ; le partenaire peut surfer pendant qu'elle profite de la plage de Cerritos."
+            },
+            {
+              "label": "Baleines depuis la plage",
+              "text": "Depuis Punta Lobos et la plage de La Pastora, on voit souvent en janvier les souffles et les sauts des baleines à bosse au large, sans déranger personne."
+            },
+            {
+              "label": "Lâcher de bébés tortues",
+              "text": "Le groupe Tortugueros Las Playitas relâche des bébés tortues au coucher du soleil, en principe jusqu'à mi-janvier et seulement s'il reste des éclosions. Avertissement : l'écloserie protège réellement les nids, mais pour le lâcher en public les tortues sont gardées plusieurs heures après l'éclosion, une pratique critiquée par des associations de conservation mexicaines. Si on y va : ne pas toucher les tortues, pas de flash, et rester derrière la ligne. On peut aussi soutenir l'écloserie par un don sans assister au lâcher."
+            },
+            {
+              "label": "La Paz : marché et cathédrale",
+              "text": "Le marché municipal Francisco I. Madero (fruits, tacos, jus frais) et la cathédrale Notre-Dame-de-La-Paz, sur la place Constitución, se voient en une heure : un matin avant la plage, ou un soir sur le chemin du Malecón."
+            },
+            {
+              "label": "En option, avec réserve : l'Hotel California",
+              "text": "Avertissement : rien à voir avec la chanson des Eagles, malgré ce qu'en dit la boutique ; c'est surtout un magasin de souvenirs à ce nom. Un coup d'œil à la façade suffit."
+            }
+          ]
+        },
+        {
+          "title": "Route vers La Paz et le Malecón",
+          "route": "drive",
+          "summary": "Une matinée tranquille sur la côte pacifique, puis la route vers La Paz, avec en option les plages de la Bahía de los Sueños, et le Malecón le soir.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Dernière matinée à Todos Santos, puis route vers La Paz (environ 1 h, autoroute à quatre voies)."
+            },
+            {
+              "label": "Après-midi",
+              "text": "En option, la Bahía de los Sueños et Punta Arena, environ 1 h à l'est de La Paz : longues plages vides sur la mer de Cortez, et La Ventana, spot de kitesurf réputé en hiver."
+            },
+            {
+              "label": "Soir",
+              "text": "Promenade sur le Malecón et dîner."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Bahía de los Sueños et Punta Arena",
+              "coords": [
+                24.0456,
+                -109.8258
+              ],
+              "optional": true,
+              "culture": "Grande baie de la mer de Cortez à l'est de La Paz, avec La Ventana, l'un des meilleurs spots de kitesurf de la péninsule en hiver."
+            },
+            {
+              "name": "Malecón de La Paz",
+              "wiki": "La Paz, Baja California Sur",
+              "coords": [
+                24.16,
+                -110.315
+              ],
+              "culture": "Promenade de plusieurs kilomètres en bord de mer, le cœur de la ville au coucher du soleil."
+            }
+          ],
+          "stay": {
+            "name": "La Paz",
+            "coords": [
+              24.158,
+              -110.313
+            ],
+            "note": "La Paz, 3 nuits : hôtel boutique sur le Malecón",
+            "options": [
+              "Baja Club Hotel (villa restaurée de 32 chambres, clef Michelin)"
+            ]
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Todos Santos → La Paz : environ 1 h",
+              "after": -1
+            }
+          ]
+        },
+        {
+          "title": "Balandra et El Tesoro",
+          "route": "drive",
+          "summary": "La lagune turquoise de Balandra le matin, puis la petite plage d'El Tesoro, sur la route du retour vers La Paz.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Playa Balandra, créneau de 8 h à 12 h : lagune peu profonde où l'on marche dans l'eau turquoise, et sentier jusqu'au point de vue au-dessus de la baie. Hérons, aigrettes et balbuzards dans la mangrove, raies et petits poissons dans l'eau claire."
+            },
+            {
+              "label": "Midi",
+              "text": "Playa El Tesoro, sur la route du retour : petite plage abritée avec un restaurant de palapa, pour déjeuner et se baigner."
+            },
+            {
+              "label": "Soir",
+              "text": "Dîner à La Paz."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Playa Balandra",
+              "coords": [
+                24.322,
+                -110.327
+              ],
+              "culture": "Lagune protégée de sable blanc et d'eau turquoise peu profonde, dans une aire naturelle : l'accès est limité à 450 personnes par créneau.",
+              "photo": "File:Playa Balandra, Baja California Sur 5.jpg"
+            },
+            {
+              "name": "Playa El Tesoro",
+              "coords": [
+                24.283,
+                -110.329
+              ],
+              "culture": "Petite plage abritée entre La Paz et Pichilingue, avec un restaurant de plage : eau calme et peu profonde."
+            }
+          ],
+          "stay": {
+            "name": "La Paz",
+            "coords": [
+              24.158,
+              -110.313
+            ],
+            "note": "Même hôtel que la veille"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "La Paz → Balandra : environ 30 min",
+              "after": -1
+            },
+            {
+              "mode": "car",
+              "text": "Balandra → El Tesoro : environ 10 min",
+              "after": 0
+            },
+            {
+              "mode": "car",
+              "text": "El Tesoro → La Paz : environ 20 min",
+              "after": 1
+            }
+          ],
+          "food": [
+            "Petit-déjeuner au marché municipal Madero de La Paz : jus frais (pressés devant vous, sans glaçons pour la future maman) et machaca, bœuf séché et effiloché des ranchs de la péninsule, servi chaud avec des œufs ou en burrito (bien recuit, il convient à la future maman ; jamais tel quel). Déjeuner dans une fonda ou une taquería du centre de Todos Santos pleine de clients mexicains. Achat de mangues, avocats et agrumes dans une ferme de Pescadero : les laver à l'eau potable, et pour la future maman ne pas toucher la terre sans gants (toxoplasmose). Dîner de poisson dans un restaurant simple de Pescadero. Pour le partenaire, un verre de damiana, liqueur d'herbe locale vendue dans une bouteille en forme de femme, à rapporter aussi en souvenir. Alternatives : Jazamango, à Todos Santos, cuisine de la ferme et de la mer du chef Javier Plascencia, ou Hierbabuena, sous les arbres d'un potager à Pescadero. Avertissement : adresses chères et à la mode, très fréquentées par une clientèle américaine ; dans les restaurants de ferme, les salades crues sont à éviter pour la future maman. Grossesse : tout bien cuit, pas de crudités douteuses, pas de fromage au lait cru, pas d'alcool."
+          ],
+          "notes": [
+            "Balandra : acheter le billet en ligne à l'avance (125 pesos par personne en 2026) : il n'est pas vendu sur place, et il n'y a pas de réseau pour l'acheter au dernier moment. 450 personnes par créneau, deux créneaux : 8 h-12 h et 13 h-17 h. Sur la côte pacifique, ne se baigner qu'à Cerritos."
+          ]
+        },
+        {
+          "use": 4
+        },
+        {
+          "title": "El Triunfo et le Santuario de los Cactus, puis vol direct vers San Francisco",
+          "route": "drive",
+          "summary": "Le village minier d'El Triunfo sur la route du sud, le jardin de cactus de San José del Cabo, puis le vol direct du milieu d'après-midi vers San Francisco.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "El Triunfo : ancien village minier du XIXe siècle, maisons d'adobe, grande cheminée de brique et petit musée de la musique. Café sur la place."
+            },
+            {
+              "label": "Midi",
+              "text": "Santuario de los Cactus, à San José del Cabo : jardin de cactus géants et de plantes du désert de la péninsule, près de l'aéroport."
+            },
+            {
+              "label": "Départ",
+              "text": "Retour de la voiture à l'aéroport de Los Cabos, vol direct United 16 h 23 → 18 h 45 vers San Francisco."
+            }
+          ],
+          "stops": [
+            {
+              "name": "El Triunfo",
+              "wiki": "El Triunfo, Baja California Sur",
+              "coords": [
+                23.8037,
+                -110.1093
+              ],
+              "culture": "Village minier d'or et d'argent fondé au XIXe siècle, presque abandonné puis restauré."
+            },
+            {
+              "name": "Santuario de los Cactus",
+              "coords": [
+                23.0805,
+                -109.7255
+              ],
+              "culture": "Jardin botanique de San José del Cabo consacré aux cactus et aux plantes du désert de Basse-Californie, dont de grands cardons."
+            },
+            {
+              "name": "Aéroport de Los Cabos (SJD)",
+              "coords": [
+                23.1518,
+                -109.7211
+              ],
+              "hidden": true
+            }
+          ],
+          "transport": [
+            {
+              "mode": "car",
+              "text": "La Paz → El Triunfo : environ 50 min",
+              "after": -1
+            },
+            {
+              "mode": "car",
+              "text": "El Triunfo → San José del Cabo : environ 1 h 15",
+              "after": 0
+            },
+            {
+              "mode": "flight",
+              "text": "Los Cabos → San Francisco : vol direct United, 16 h 23 → 18 h 45",
+              "after": 2
+            }
+          ],
+          "notes": [
+            "La voiture est prise et rendue à Los Cabos : pas de frais d'abandon."
+          ],
+          "end": "Vol direct Los Cabos → San Francisco, à 16 h 23"
+        }
+      ]
+    },
+    {
+      "id": "san-ignacio",
+      "label": "San Ignacio",
+      "subtitle": "Huit jours entre la lagune de San Ignacio et ses baleines grises, Espíritu Santo, Balandra et Todos Santos, avec un vol direct au retour",
+      "sections": [
+        {
+          "from": 1,
+          "title": "Los Cabos"
+        },
+        {
+          "from": 2,
+          "title": "La lagune de San Ignacio"
+        },
+        {
+          "from": 5,
+          "title": "La Paz et Todos Santos"
+        }
+      ],
+      "days": [
+        {
+          "use": 1
+        },
+        {
+          "title": "Vol en petit avion vers la lagune de San Ignacio",
+          "route": "drive",
+          "summary": "Un Cessna depuis Los Cabos jusqu'à la lagune de San Ignacio, sur la côte pacifique, et les premières sorties en barque au milieu des baleines grises l'après-midi.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Retour à l'aéroport de Los Cabos et vol en petit avion (Cessna Caravan) jusqu'à la lagune."
+            },
+            {
+              "label": "Après-midi",
+              "text": "Installation au camp, puis premières sorties d'observation en barque avec un guide naturaliste."
+            },
+            {
+              "label": "Soir",
+              "text": "Dîner au camp, en pension complète."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Aéroport de Los Cabos (SJD)",
+              "coords": [
+                23.1518,
+                -109.7211
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Lagune de San Ignacio",
+              "coords": [
+                26.8,
+                -113.22
+              ],
+              "by": "flight",
+              "culture": "Lagune de la côte pacifique classée par l'UNESCO, l'un des rares endroits au monde où les baleines grises viennent s'accoupler et mettre bas, et s'approchent d'elles-mêmes des barques."
+            }
+          ],
+          "stay": {
+            "name": "Camp de la lagune de San Ignacio",
+            "coords": [
+              26.8,
+              -113.22
+            ],
+            "note": "Lagune de San Ignacio, 3 nuits : camp de tentes confortables au bord de l'eau, en pension complète",
+            "options": [
+              "Campo Cortez (plusieurs camps existent au bord de la lagune, à comparer)"
+            ]
+          },
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Los Cabos → lagune de San Ignacio : petit avion (Cessna Caravan)",
+              "after": 0
+            }
+          ],
+          "notes": [
+            "La date : la saison va en gros de janvier à avril, avec le pic en février et mars. Fin janvier, c'est le début : des baleines sont déjà là, mais moins nombreuses qu'en pleine saison, et les mères avec leurs petits arrivent surtout plus tard.",
+            "Le prix : c'est l'option la plus chère. Le voyage de Voyageurs du Monde qui l'inclut coûte en moyenne 9 200 € par personne pour 13 jours ; un séjour de 3 nuits au camp avec le vol coûte à lui seul plusieurs milliers d'euros pour deux (à vérifier auprès des camps).",
+            "La grossesse : petit avion (sans problème en général), barques ouvertes sur la lagune (plus calme que la mer, mais renoncer par vent fort), et un camp isolé, à plusieurs heures d'un hôpital. Repas en pension complète : prévenir le camp pour la cuisine sans cru (ceviche fréquent).",
+            "Le camp n'est pas nommé par Voyageurs du Monde ; plusieurs camps existent au bord de la lagune (par exemple Campo Cortez), à comparer."
+          ]
+        },
+        {
+          "title": "Lagune de San Ignacio : sorties en barque",
+          "route": "none",
+          "summary": "Une journée entière au milieu des baleines grises : jusqu'à trois sorties en barque, et du kayak dans la mangrove.",
+          "parts": [
+            {
+              "label": "Tôt le matin",
+              "text": "Première sortie en barque, quand la lagune est la plus calme."
+            },
+            {
+              "label": "Fin de matinée",
+              "text": "Deuxième sortie, ou kayak et paddle dans la mangrove."
+            },
+            {
+              "label": "Après-midi",
+              "text": "Troisième sortie au choix. Le nombre de barques est limité par les autorités, et il est interdit de poursuivre ou de nourrir les baleines."
+            }
+          ],
+          "stops": [],
+          "stay": {
+            "name": "Camp de la lagune de San Ignacio",
+            "coords": [
+              26.8,
+              -113.22
+            ],
+            "note": "Même camp que la veille"
+          }
+        },
+        {
+          "title": "Dernières sorties, marche ou vélo autour du camp",
+          "route": "none",
+          "summary": "Les dernières sorties en barque, et une journée plus calme à terre : marche ou vélo autour du camp.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Dernière sortie en barque."
+            },
+            {
+              "label": "Après-midi",
+              "text": "Marche ou vélo autour du camp, entre lagune et désert."
+            }
+          ],
+          "stops": [],
+          "stay": {
+            "name": "Camp de la lagune de San Ignacio",
+            "coords": [
+              26.8,
+              -113.22
+            ],
+            "note": "Même camp que la veille"
+          }
+        },
+        {
+          "title": "Retour à Los Cabos, puis route vers La Paz",
+          "route": "drive",
+          "summary": "Le vol retour vers Los Cabos, puis la route vers La Paz avec une halte à la Bahía de los Sueños, et le Malecón le soir.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Vol retour en petit avion vers Los Cabos, et récupération de la voiture."
+            },
+            {
+              "label": "Après-midi",
+              "text": "Route vers La Paz (environ 2 h), avec une halte à la Bahía de los Sueños, longue baie vide sur la mer de Cortez."
+            },
+            {
+              "label": "Soir",
+              "text": "Promenade sur le Malecón et dîner."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Aéroport de Los Cabos (SJD)",
+              "coords": [
+                23.1518,
+                -109.7211
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Bahía de los Sueños et Punta Arena",
+              "coords": [
+                24.0456,
+                -109.8258
+              ],
+              "culture": "Grande baie de la mer de Cortez à l'est de La Paz, avec La Ventana, l'un des meilleurs spots de kitesurf de la péninsule en hiver."
+            },
+            {
+              "name": "Malecón de La Paz",
+              "wiki": "La Paz, Baja California Sur",
+              "coords": [
+                24.16,
+                -110.315
+              ],
+              "culture": "Promenade de plusieurs kilomètres en bord de mer, le cœur de la ville au coucher du soleil."
+            }
+          ],
+          "stay": {
+            "name": "La Paz",
+            "coords": [
+              24.158,
+              -110.313
+            ],
+            "note": "La Paz, 2 nuits : hôtel boutique sur le Malecón",
+            "options": [
+              "Baja Club Hotel (villa restaurée de 32 chambres, clef Michelin)"
+            ]
+          },
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Lagune de San Ignacio → Los Cabos : petit avion",
+              "after": -1
+            },
+            {
+              "mode": "car",
+              "text": "Los Cabos → La Paz par la Bahía de los Sueños : environ 2 h 30",
+              "after": 0
+            }
+          ]
+        },
+        {
+          "use": 4
+        },
+        {
+          "use": 5,
+          "title": "Balandra, puis Todos Santos et Pescadero",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Playa Balandra, créneau de 8 h à 12 h : lagune peu profonde où l'on marche dans l'eau turquoise, et sentier jusqu'au point de vue au-dessus de la baie. Hérons, aigrettes et balbuzards dans la mangrove, raies et petits poissons dans l'eau claire."
+            },
+            {
+              "label": "Midi",
+              "text": "Route vers Todos Santos et déjeuner simple dans une fonda ou une taquería du centre."
+            },
+            {
+              "label": "Après-midi",
+              "text": "Todos Santos, petite ville classée Pueblo Mágico : mission, théâtre Márquez de León, maisons de brique du XIXe siècle et boutiques d'artisanat. Puis Pescadero, à 15 min : ferme bio et vergers (mangues, avocats, agrumes) où l'on achète ses fruits."
+            },
+            {
+              "label": "Coucher du soleil",
+              "text": "Playa San Pedrito : la vague droite la plus réputée de la côte, à regarder depuis la plage, ou Playa Los Cerritos pour une dernière baignade, plus sûre."
+            },
+            {
+              "label": "Soir",
+              "text": "Dîner et nuit à Todos Santos."
+            }
+          ],
+          "transport": [
+            {
+              "mode": "car",
+              "text": "La Paz → Balandra : environ 30 min",
+              "after": -1
+            },
+            {
+              "mode": "car",
+              "text": "Balandra → Todos Santos : environ 1 h 30",
+              "after": 0
+            },
+            {
+              "mode": "car",
+              "text": "Todos Santos → Pescadero : environ 15 min",
+              "after": 2
+            }
+          ],
+          "stay": {
+            "name": "Todos Santos",
+            "coords": [
+              23.4482,
+              -110.2263
+            ],
+            "note": "Todos Santos, 1 nuit : hôtel boutique dans le centre historique (à choisir)"
+          }
+        },
+        {
+          "title": "Cerritos, puis vol direct vers San Francisco",
+          "route": "drive",
+          "summary": "Une dernière baignade à la plage de Cerritos, puis la route vers l'aéroport de Los Cabos et le vol direct de l'après-midi.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Playa Los Cerritos : longue plage de sable où l'on peut se baigner, écoles de surf et vagues douces."
+            },
+            {
+              "label": "Départ",
+              "text": "Route vers l'aéroport (environ 1 h 15), retour de la voiture, vol direct United 16 h 23 → 18 h 45 vers San Francisco."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Playa Los Cerritos",
+              "coords": [
+                23.3285,
+                -110.1735
+              ],
+              "culture": "Longue plage de sable sur le Pacifique, protégée par une pointe rocheuse : l'une des rares où l'on peut se baigner sur cette côte.",
+              "photo": "File:Cerritos Beach - Near Todos Santos - Baja California Sur - Mexico - 04 (23775057435).jpg"
+            },
+            {
+              "name": "Aéroport de Los Cabos (SJD)",
+              "coords": [
+                23.1518,
+                -109.7211
+              ],
+              "hidden": true
+            }
+          ],
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Todos Santos → Cerritos : environ 15 min",
+              "after": -1
+            },
+            {
+              "mode": "car",
+              "text": "Cerritos → aéroport de Los Cabos : environ 1 h 15",
+              "after": 0
+            },
+            {
+              "mode": "flight",
+              "text": "Los Cabos → San Francisco : vol direct United, 16 h 23 → 18 h 45",
+              "after": 1
+            }
+          ],
+          "end": "Vol direct Los Cabos → San Francisco, à 16 h 23"
+        }
+      ]
     }
   ]
 }

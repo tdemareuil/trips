@@ -1665,7 +1665,7 @@
     {
       "id": "floride",
       "label": "Par la Floride",
-      "replaces": 6,
+      "to": 6,
       "subtitle": "De Miami à San Francisco : villa Vizcaya, Everglades, route des Keys et Key West, puis San Francisco, la Silicon Valley et Yosemite en hiver",
       "cover": "File:Seven Mile Bridge, Florida Keys aerial (2003).jpg",
       "sections": [
