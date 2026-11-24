@@ -35,8 +35,19 @@ def get_json(url, params=None):
         return json.load(resp)
 
 
+def expand_variants(trip):
+    """A trip and its variants, each variant as a trip "<id>~<variant id>" whose first
+    days are replaced. Keep in sync with withVariants() in js/app.js."""
+    out = [trip]
+    for v in trip.get("variants", []):
+        out.append(trip | {"id": f"{trip['id']}~{v['id']}", "cover": v.get("cover", trip.get("cover")),
+                           "days": v["days"] + trip["days"][v["replaces"]:], "variants": [], "guides": []})
+    return out
+
+
 def load_trips():
-    return [json.loads(p.read_text()) for p in sorted((DATA / "trips").glob("*.json"))]
+    trips = [json.loads(p.read_text()) for p in sorted((DATA / "trips").glob("*.json"))]
+    return [t for trip in trips for t in expand_variants(trip)]
 
 
 def load_json(path):

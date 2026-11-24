@@ -1492,7 +1492,7 @@
     {
       "id": "alternative-floride",
       "title": "Alternative : passage par la Floride au lieu de Los Angeles",
-      "summary": "Du mercredi soir au lundi midi en Floride, à la place de Los Angeles, Joshua Tree et Santa Barbara : le meilleur du voyage Floride, puis un vol vers San Francisco.",
+      "summary": "Ce qu'on perd et ce qu'on gagne en passant par la Floride, les vols et les points pratiques. L'itinéraire jour par jour s'affiche avec le bouton « Par la Floride » de la vue d'ensemble.",
       "blocks": [
         {
           "type": "heading",
@@ -1501,180 +1501,11 @@
         {
           "type": "list",
           "items": [
-            "Arriver à Miami le mercredi soir au lieu de Los Angeles, et rejoindre San Francisco en avion le lundi, à la place de la route de la côte. La suite du voyage, à partir du mardi à San Francisco, ne change pas.",
+            "Arriver à Miami le mercredi soir au lieu de Los Angeles, et rejoindre San Francisco en avion le lundi, à la place de la route de la côte. La suite du voyage, à partir du mardi à San Francisco, ne change pas. L'itinéraire complet s'affiche avec le bouton « Par la Floride », dans la [vue d'ensemble](#/california~floride/0).",
             "Garder le meilleur du voyage Floride : la villa Vizcaya, les Everglades de Shark Valley à Flamingo, la route des Keys avec le Seven Mile Bridge et Bahia Honda, le snorkeling à Looe Key et Key West ; les Dry Tortugas en ferry en option.",
             "Retirer une journée par rapport à ce voyage : il ne reste qu'une journée entière à Key West.",
             "Ce qu'on perd côté Californie : Los Angeles, Palm Springs, Joshua Tree, Ojai, Santa Barbara, Bixby Bridge et les loutres de Moss Landing.",
             "Ce qu'on gagne : la mer chaude (environ 22 à 24 °C dans les Keys), des plages où l'on se baigne, les alligators et les lamantins des Everglades, et moins de route : environ 9 h en tout avec le vol depuis Key West, ou environ 13 h si l'on rend la voiture à Miami pour le vol direct United (3 h 45 de plus le lundi matin), contre environ 17 h de Los Angeles à San Francisco."
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Jour par jour"
-        },
-        {
-          "type": "map",
-          "days": [
-            {
-              "label": "Mercredi",
-              "night": "Coconut Grove",
-              "points": [
-                [
-                  25.7959,
-                  -80.287
-                ],
-                [
-                  25.728,
-                  -80.241
-                ]
-              ]
-            },
-            {
-              "label": "Jeudi",
-              "night": "Islamorada",
-              "points": [
-                [
-                  25.781,
-                  -80.13
-                ],
-                [
-                  25.7443,
-                  -80.2105
-                ],
-                [
-                  25.7573,
-                  -80.7665
-                ],
-                [
-                  24.936,
-                  -80.615
-                ]
-              ]
-            },
-            {
-              "label": "Vendredi",
-              "night": "Islamorada",
-              "points": [
-                [
-                  25.3826,
-                  -80.6095
-                ],
-                [
-                  25.441,
-                  -80.7836
-                ],
-                [
-                  25.1416,
-                  -80.9237
-                ],
-                [
-                  25.4456,
-                  -80.5005
-                ],
-                [
-                  24.936,
-                  -80.615
-                ]
-              ]
-            },
-            {
-              "label": "Samedi",
-              "night": "Key West",
-              "points": [
-                [
-                  25.125,
-                  -80.406
-                ],
-                [
-                  24.8526,
-                  -80.736
-                ],
-                [
-                  24.706,
-                  -81.16
-                ],
-                [
-                  24.656,
-                  -81.277
-                ],
-                [
-                  24.5458,
-                  -81.8104
-                ],
-                [
-                  24.555,
-                  -81.8
-                ]
-              ]
-            },
-            {
-              "label": "Dimanche",
-              "night": "Key West",
-              "points": [
-                [
-                  24.6687,
-                  -81.3534
-                ],
-                [
-                  24.555,
-                  -81.8
-                ]
-              ]
-            },
-            {
-              "label": "Lundi",
-              "night": "Vol vers San Francisco",
-              "points": [
-                [
-                  24.5458,
-                  -81.8104
-                ],
-                [
-                  24.5561,
-                  -81.7596
-                ]
-              ]
-            }
-          ]
-        },
-        {
-          "type": "table",
-          "columns": [
-            "Jour",
-            "Programme",
-            "Nuit"
-          ],
-          "rows": [
-            [
-              "Mercredi soir",
-              "Vol Air France direct Paris → Miami (AF90, arrivée vers 17 h 40), voiture de location, dîner à pied à Coconut Grove (voir le [jour 1](#/floride/1))",
-              "Coconut Grove"
-            ],
-            [
-              "Jeudi",
-              "Lever du soleil sur South Beach (simple coup d'œil sur Ocean Drive), villa Vizcaya à 9 h 30, tram de Shark Valley dans les Everglades, puis route des Keys (voir le [jour 2](#/floride/2))",
-              "Islamorada"
-            ],
-            [
-              "Vendredi",
-              "Anhinga Trail tôt le matin, route jusqu'à Flamingo (lamantins et crocodiles depuis la marina), milkshake chez Robert Is Here au retour (voir le [jour 3](#/floride/3))",
-              "Islamorada"
-            ],
-            [
-              "Samedi",
-              "Récif de John Pennekamp, Anne's Beach, Seven Mile Bridge, Bahia Honda, coucher du soleil à Fort Zachary Taylor (voir le [jour 4](#/floride/4))",
-              "Key West"
-            ],
-            [
-              "Dimanche",
-              "Snorkeling au récif de Looe Key le matin, le plus beau des Keys : sortie de 4 h depuis Big Pine Key (45 min de Key West), dès 54 $ par personne, en surface avec un gilet, annulée si la mer est forte. Retour en milieu d'après-midi, puis Key West à vélo, coucher du soleil et dîner face à la mer. En option, les Dry Tortugas en ferry (Fort Jefferson, plage, snorkeling le long des douves) : environ 235 à 260 $ par adulte, cher mais pas une arnaque ; il prend la journée entière (2 h 15 de pleine mer dans chaque sens, souvent agitée en janvier, à éviter en cas de mal de mer) et ne laisse rien pour Key West (voir le [jour 6](#/floride/6), et le [jour 5](#/floride/5) pour Key West)",
-              "Key West"
-            ],
-            [
-              "Lundi",
-              "Baignade à Fort Zachary Taylor, retour de la voiture et vol vers San Francisco vers 14 h (voir le [jour 7](#/floride/7))",
-              "San Francisco"
-            ]
           ]
         },
         {
@@ -1719,8 +1550,8 @@
           "items": [
             "Décalage : la Floride est à 6 h de Paris, contre 9 h pour la Californie ; arriver moins fatigué, et rattraper 3 h en arrivant à San Francisco.",
             "Valise : il faut en plus des affaires de plage et de baignade, pour 25 °C en Floride, avant les 10 à 14 °C de San Francisco et le froid de Yosemite.",
+            "Les hôtels et les options avec leurs avertissements (Robbie's, Christ des Abysses, Mallory Square, Kennedy) sont détaillés dans le [voyage Floride](#/floride/0).",
             "Grossesse : mêmes règles que dans le voyage Floride (rien de cru, mercure, crème solaire minérale), et répulsif adapté le soir.",
-            "Ces journées reprennent celles du voyage Floride (liens dans le tableau), à une différence près : la journée entière à Key West (jour 5) est retirée, et l'essentiel de la ville se fait le samedi soir et le dimanche après-midi. Les hôtels et les options avec leurs avertissements (Robbie's, Christ des Abysses, Mallory Square, Kennedy) y sont détaillés.",
             "Parcs nationaux : l'Everglades et Yosemite font partie des 11 parcs où les non-résidents paient 100 $ par personne en plus de l'entrée ; avec la carte annuelle pour non-résidents (250 $), on paie environ 250 $ au lieu de 470 $ (voir le guide « Parcs nationaux »)."
           ]
         }
@@ -1828,5 +1659,657 @@
       "title": "Yosemite"
     }
   ],
-  "sectionUnit": "jours"
+  "sectionUnit": "jours",
+  "variantLabel": "Par Los Angeles",
+  "variants": [
+    {
+      "id": "floride",
+      "label": "Par la Floride",
+      "replaces": 6,
+      "subtitle": "De Miami à San Francisco : villa Vizcaya, Everglades, route des Keys et Key West, puis San Francisco, la Silicon Valley et Yosemite en hiver",
+      "cover": "File:Seven Mile Bridge, Florida Keys aerial (2003).jpg",
+      "sections": [
+        {
+          "from": 1,
+          "title": "Miami et les Everglades"
+        },
+        {
+          "from": 4,
+          "title": "Les Keys et Key West"
+        },
+        {
+          "from": 7,
+          "title": "San Francisco et la Silicon Valley"
+        },
+        {
+          "from": 10,
+          "title": "Yosemite"
+        }
+      ],
+      "days": [
+        {
+          "n": 1,
+          "weekday": "Mercredi soir",
+          "title": "Arrivée à Miami, Coconut Grove",
+          "summary": "Vol direct Paris → Miami, voiture de location et première soirée dans le quartier verdoyant de Coconut Grove, au bord de la baie de Biscayne.",
+          "route": "drive",
+          "parts": [
+            {
+              "label": "Après-midi",
+              "text": "Vol Air France direct depuis Roissy, arrivée à Miami vers 17 h 40. Récupération de la voiture de location."
+            },
+            {
+              "label": "Soir",
+              "text": "Installation à Coconut Grove, quartier arboré et tranquille au bord de la baie, et dîner à pied."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Aéroport de Miami (MIA)",
+              "wiki": "Miami International Airport",
+              "hidden": true
+            },
+            {
+              "name": "Coconut Grove",
+              "wiki": "Coconut Grove",
+              "coords": [
+                25.728,
+                -80.241
+              ],
+              "culture": "Le plus ancien quartier de Miami, arboré et résidentiel, au bord de la baie de Biscayne : loin des tours de Miami Beach."
+            }
+          ],
+          "stay": {
+            "name": "Coconut Grove, Miami",
+            "coords": [
+              25.728,
+              -80.241
+            ],
+            "note": "Hôtel de charme à Coconut Grove (à choisir)",
+            "options": [
+              "Mr. C Coconut Grove",
+              "Silver Sands Beach Resort, Key Biscayne (petit hôtel des années 1950 sur la plage)",
+              "Esmé Miami Beach (petit hôtel hispano-méditerranéen bohème sur Española Way, à South Beach : plus pratique pour le lever du soleil du jour 2, mais quartier plus animé ; identifié d'après la description de Voyageurs du Monde, à vérifier)"
+            ]
+          },
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Paris CDG → Miami : vol direct Air France AF90, 13 h 10 → 17 h 40 (environ 622 $ par personne dans Navan, tarif de base) ; horaire relevé pour un mardi, à vérifier pour le mercredi",
+              "after": -1
+            },
+            {
+              "mode": "car",
+              "text": "Aéroport → Coconut Grove : environ 20 min",
+              "after": 0
+            }
+          ],
+          "notes": [
+            "Grossesse : la Floride est classée en risque Zika négligeable par la liste britannique TravelHealthPro, et aucun cas de dengue locale n'a été signalé dans les Keys en 2026 (les cas de l'État sont surtout à Tampa). Janvier est la saison la plus sèche, avec peu de moustiques : répulsif adapté à la grossesse le soir quand même. Les soins sont excellents mais très chers : assurance voyage couvrant la grossesse indispensable."
+          ],
+          "food": [
+            "Règles pour toute la semaine. Grossesse (non immunisée contre la toxoplasmose) : viande et poisson bien cuits, rien de cru (ceviche, huîtres, sushis), pas de fromage au lait cru, crudités lavées, pas d'alcool.",
+            "Mercure : préférer les crevettes (les crevettes roses de Key West), le crabe, les coquilles Saint-Jacques et les petits poissons ; mahi-mahi, vivaneau (snapper) et mérou (grouper, le poisson star des Keys) une à deux fois par semaine au plus. Éviter l'espadon, le requin, le king mackerel, le marlin et les gros thons.",
+            "Plastiques et perturbateurs endocriniens : ne pas laisser les bouteilles d'eau chauffer dans la voiture, gourde en inox remplie à l'eau du robinet filtrée (l'eau du robinet est potable en Floride), assiette plutôt que barquette en polystyrène pour les plats chauds, et crème solaire minérale à l'oxyde de zinc, sans oxybenzone ni octinoxate (Key West les avait interdites en 2019 pour protéger le récif, avant que l’État de Floride annule ce type d’interdiction locale)."
+          ]
+        },
+        {
+          "n": 2,
+          "weekday": "Jeudi",
+          "title": "South Beach, Vizcaya, Shark Valley, puis Islamorada",
+          "summary": "Le lever du soleil sur South Beach, la villa Vizcaya et ses jardins sur la baie, puis Shark Valley, au cœur des Everglades, avant la route des Keys jusqu'à Islamorada.",
+          "route": "drive",
+          "parts": [
+            {
+              "label": "Lever du soleil",
+              "text": "Avec le décalage horaire, on est réveillé tôt : coup d'œil à South Beach, à Miami Beach, pour le lever du soleil sur l'Atlantique vers 7 h 10. Balade d'une demi-heure sur Ocean Drive, le long des hôtels Art déco des années 1930 aux couleurs pastel, puis café face à la plage. Sans y dormir : la plage est très urbaine, bordée de tours."
+            },
+            {
+              "label": "Matin",
+              "text": "Vizcaya Museum and Gardens, à Coconut Grove : villa de style vénitien de 1916 au bord de la baie de Biscayne, salons d'époque et jardins à l'italienne descendant vers l'eau. Ouverture à 9 h 30, compter 1 h 30."
+            },
+            {
+              "label": "Midi",
+              "text": "Shark Valley, sur la Tamiami Trail : tram de 2 h sur une boucle de 24 km dans la « rivière d'herbe » des Everglades, avec arrêt en haut de la tour d'observation, à mi-parcours, d'où l'on voit le marais jusqu'à l'horizon. Alligators au bord de la route en saison sèche. Réserver le tram à l'avance (parking plein dès 10 h en hiver) ; pique-nique avant le départ."
+            },
+            {
+              "label": "Après-midi",
+              "text": "Route vers les Keys par Florida City et l'US-1, arrivée à Islamorada vers 17 h 30."
+            },
+            {
+              "label": "Coucher du soleil",
+              "text": "Morada Bay Beach Café : tables et chaises longues dans le sable, face au coucher du soleil sur la baie de Floride."
+            }
+          ],
+          "stops": [
+            {
+              "name": "South Beach, Ocean Drive",
+              "wiki": "Miami Beach Architectural District",
+              "coords": [
+                25.781,
+                -80.13
+              ],
+              "culture": "Le quartier Art déco de Miami Beach : plus de 800 bâtiments des années 1920 à 1940, classés."
+            },
+            {
+              "name": "Vizcaya Museum and Gardens",
+              "wiki": "Vizcaya Museum and Gardens",
+              "coords": [
+                25.7443,
+                -80.2105
+              ],
+              "culture": "Villa d'hiver de l'industriel James Deering, achevée en 1916, avec ses jardins à la française et à l'italienne sur la baie de Biscayne."
+            },
+            {
+              "name": "Shark Valley (Everglades)",
+              "wiki": "Everglades National Park",
+              "coords": [
+                25.7573,
+                -80.7665
+              ],
+              "culture": "Entrée nord du parc national des Everglades : une boucle dans la prairie inondée, et une tour d'observation de béton construite en 1964."
+            },
+            {
+              "name": "Morada Bay Beach Café",
+              "coords": [
+                24.9312,
+                -80.6212
+              ],
+              "culture": "Restaurant les pieds dans le sable, sur la baie de Floride : le rendez-vous du coucher du soleil à Islamorada."
+            }
+          ],
+          "stay": {
+            "name": "Islamorada",
+            "coords": [
+              24.936,
+              -80.615
+            ],
+            "note": "Islamorada, 2 nuits : hôtel boutique au bord de l'eau",
+            "options": [
+              "Casa Morada (petit hôtel boutique, réservé aux adultes)",
+              "The Moorings Village (cottages dans une cocoteraie, plage privée)"
+            ]
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Coconut Grove → South Beach : environ 25 min, vers 6 h 30",
+              "after": -1
+            },
+            {
+              "mode": "car",
+              "text": "South Beach → Vizcaya : environ 20 min",
+              "after": 0
+            },
+            {
+              "mode": "car",
+              "text": "Vizcaya → Shark Valley : environ 50 min",
+              "after": 1
+            },
+            {
+              "mode": "car",
+              "text": "Shark Valley → Islamorada : environ 2 h",
+              "after": 2
+            }
+          ],
+          "food": [
+            "Dîner à Islamorada, au Morada Bay Beach Café ou dans un restaurant de poisson grillé. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+          ],
+          "ideas": [
+            {
+              "label": "Key Biscayne",
+              "text": "Les plages de Bill Baggs Cape Florida, avec son phare de 1825, et de Crandon Park, à 20 min de Coconut Grove : à faire à la place de Vizcaya si l'on préfère une matinée de plage."
+            },
+            {
+              "label": "Loutres de rivière",
+              "text": "Des loutres de rivière vivent dans les canaux de Shark Valley et de l'Anhinga Trail. Elles sont plus visibles en saison sèche, quand l'eau se concentre, mais restent une chance plutôt qu'une certitude : regarder les canaux le long des passerelles, tôt le matin."
+            },
+            {
+              "label": "Option espace : centre spatial Kennedy",
+              "text": "Le centre spatial Kennedy, à Cap Canaveral, est à environ 3 h 15 au nord de Miami : fusée Saturn V et centre Apollo, navette Atlantis exposée, et visite en bus des pas de tir. Option lourde : environ 7 h de route en plus sur deux jours, une nuit à Cocoa Beach, et on perd Vizcaya, Shark Valley et une journée à Islamorada. À ne faire que si l'espace compte vraiment, ou si un lancement est annoncé pendant le séjour. Lancements : en novembre 2026, environ cinq lancements depuis Cap Canaveral étaient prévus en janvier 2027 (Falcon Heavy, Starliner, Axiom, New Glenn), aucun avec une date ferme pendant notre séjour (19 au 25 janvier), et les dates glissent souvent. Les lancements de satellites Starlink, les plus fréquents, ne sont annoncés que quelques jours à l'avance : vérifier sur un site de calendrier (Next Spaceflight, Space Launch Schedule) une à deux semaines avant le départ. Détail dans le guide « Notre avis ». Sur place, en option : sortie de nuit en kayak transparent sur la lagune d'Indian River, à Cocoa Beach, pour voir l'eau s'illuminer. En hiver, ce sont surtout de petits cténophores (animaux gélatineux lumineux) qui brillent, de façon irrégulière ; il faut une nuit sans lune, or la pleine lune tombe le 22 janvier. Grossesse : kayak de nuit seulement par eau très calme, avec gilet."
+            }
+          ],
+          "notes": [
+            "Shark Valley a rouvert fin août 2026 après un incendie : vérifier l'état du site sur le site du parc avant de réserver. Grossesse : en janvier, il y a très peu de moustiques dans les Everglades, mais emporter du répulsif adapté.",
+            "Entrée de l'Everglades : 35 $ par voiture, valable 7 jours pour Shark Valley et l'entrée principale, plus 100 $ par personne pour les non-résidents, même pour une seule journée, soit environ 235 $ pour deux. Voir le guide « Parcs nationaux »."
+          ]
+        },
+        {
+          "n": 3,
+          "weekday": "Vendredi",
+          "title": "Les Everglades jusqu'à Flamingo",
+          "summary": "Journée entière dans le sud des Everglades : l'Anhinga Trail tôt le matin, quand les animaux sont le plus actifs, puis la route jusqu'à Flamingo, au bord de la baie de Floride, avec lamantins et crocodiles.",
+          "route": "drive",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Départ vers 7 h 30. Anhinga Trail : passerelle de 1,2 km au-dessus du marais. En janvier, l'eau se concentre dans les mares et l'on voit alligators, tortues, hérons, aigrettes et anhingas à quelques mètres. Puis le Gumbo Limbo Trail, sous les arbres tropicaux."
+            },
+            {
+              "label": "Fin de matinée",
+              "text": "Route de 60 km jusqu'à Flamingo à travers les pins, les cyprès nains et la mangrove, avec arrêts aux passerelles de Pa-hay-okee (vue sur la « rivière d'herbe ») et de Mahogany Hammock."
+            },
+            {
+              "label": "Midi",
+              "text": "Flamingo : centre des visiteurs rénové, pique-nique face à la baie de Floride. Depuis le ponton de la marina, on voit souvent en hiver des lamantins et des crocodiles américains. Croisière d'environ 1 h 30 dans la baie ou dans les canaux de mangrove, si l'on veut."
+            },
+            {
+              "label": "Fin d'après-midi",
+              "text": "Retour vers les Keys, arrêt milkshake à la mangue chez Robert Is Here, stand de fruits tropicaux de Homestead ouvert depuis 1959."
+            },
+            {
+              "label": "Soir",
+              "text": "Dîner à Islamorada."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Anhinga Trail (Everglades)",
+              "wiki": "Everglades National Park",
+              "coords": [
+                25.3826,
+                -80.6095
+              ],
+              "culture": "Le sentier le plus connu du parc national des Everglades, classé par l'UNESCO : une passerelle au-dessus du marais, au milieu des alligators et des oiseaux."
+            },
+            {
+              "name": "Pa-hay-okee Overlook",
+              "coords": [
+                25.441,
+                -80.7836
+              ],
+              "culture": "Courte passerelle surélevée avec vue sur l'immense prairie de joncs des Everglades.",
+              "photo": "File:Pa-hay-okee Overlook.JPG"
+            },
+            {
+              "name": "Flamingo (Everglades)",
+              "wiki": "Flamingo, Florida",
+              "coords": [
+                25.1416,
+                -80.9237
+              ],
+              "culture": "Ancien village de pêcheurs au bout de la route du parc, au bord de la baie de Floride : marina, centre des visiteurs et départ des croisières."
+            },
+            {
+              "name": "Robert Is Here",
+              "coords": [
+                25.4456,
+                -80.5005
+              ],
+              "culture": "Stand de fruits tropicaux à l'entrée des Everglades, tenu par la même famille depuis 1959."
+            }
+          ],
+          "stay": {
+            "name": "Islamorada",
+            "coords": [
+              24.936,
+              -80.615
+            ],
+            "note": "Même hôtel que la veille"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Islamorada → Anhinga Trail : environ 1 h 15",
+              "after": -1
+            },
+            {
+              "mode": "car",
+              "text": "Anhinga Trail → Flamingo : environ 1 h avec les arrêts",
+              "after": 0
+            },
+            {
+              "mode": "car",
+              "text": "Flamingo → Homestead → Islamorada : environ 2 h",
+              "after": 2
+            }
+          ],
+          "food": [
+            "Poisson grillé (mahi-mahi, mérou) dans les restaurants de bord de mer. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+          ],
+          "notes": [
+            "La plus longue journée de route du voyage (environ 4 h 15 en tout), sur des routes plates et vides. Prévoir eau et pique-nique : il n'y a presque rien à manger dans le parc."
+          ],
+          "ideas": [
+            {
+              "label": "Loutres de rivière",
+              "text": "Des loutres de rivière vivent dans les canaux de Shark Valley et de l'Anhinga Trail. Elles sont plus visibles en saison sèche, quand l'eau se concentre, mais restent une chance plutôt qu'une certitude : regarder les canaux le long des passerelles, tôt le matin."
+            },
+            {
+              "label": "En option, avec réserve : les tarpons de Robbie's",
+              "text": "À Islamorada, la marina de Robbie's vend des seaux de poissons pour nourrir les tarpons géants depuis le ponton. Avertissement : c'est un nourrissage d'animaux sauvages organisé pour les touristes, qui habitue les tarpons et les pélicans à être nourris par l'homme ; l'endroit est aussi très fréquenté. Si l'on y va, regarder sans acheter de seau. On voit souvent des tarpons dans l'eau claire des Keys sans les nourrir, depuis les ponts et les marinas."
+            },
+            {
+              "label": "Alternative : croisière naturaliste dans la mangrove depuis Islamorada",
+              "text": "Au lieu d'aller jusqu'à Flamingo, une sortie en petit bateau avec un guide naturaliste dans la mangrove et la baie de Floride : dauphins, oiseaux, alligators, et lamantins selon la saison (ils se regroupent dans les eaux chaudes en hiver). Contraintes : chère en privé, et l'observation dépend du vent et de la marée ; choisir un opérateur qui coupe le moteur à distance des animaux. Grossesse : bateau stable, mer de la baie en général calme."
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "weekday": "Samedi",
+          "route": "drive",
+          "title": "Le récif de Key Largo, Seven Mile Bridge, Bahia Honda et Key West",
+          "summary": "Le matin, le récif de corail de John Pennekamp ; puis toute la route des Keys vers le sud : la lagune d'Anne's Beach, le Seven Mile Bridge, la plage de Bahia Honda, et le coucher du soleil à Key West.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Parc John Pennekamp Coral Reef, à Key Largo : sortie en bateau à fond de verre au-dessus du récif (environ 2 h 30). Plus stable qu'une sortie snorkeling, et sans se mettre à l'eau en pleine mer."
+            },
+            {
+              "label": "Midi",
+              "text": "Anne's Beach : longue plage peu profonde, presque une lagune, avec une promenade en bois dans la mangrove. Baignade sans vagues et pique-nique."
+            },
+            {
+              "label": "Début d'après-midi",
+              "text": "Traversée du Seven Mile Bridge, 11 km au-dessus de l'eau turquoise, le long de l'ancien pont ferroviaire."
+            },
+            {
+              "label": "Après-midi",
+              "text": "Bahia Honda State Park : sable blanc, eau turquoise et vue sur l'ancien pont de Flagler. Baignade jusqu'à 16 h 30."
+            },
+            {
+              "label": "Coucher du soleil",
+              "text": "Arrivée à Key West vers 17 h 15, puis coucher du soleil (vers 18 h) sur la plage de Fort Zachary Taylor, plus calme : le parc reste ouvert jusqu'au coucher du soleil."
+            }
+          ],
+          "stops": [
+            {
+              "name": "John Pennekamp Coral Reef State Park",
+              "wiki": "John Pennekamp Coral Reef State Park",
+              "coords": [
+                25.125,
+                -80.406
+              ],
+              "culture": "Premier parc sous-marin des États-Unis, créé en 1963, qui protège une partie du seul récif corallien vivant d'Amérique du Nord."
+            },
+            {
+              "name": "Anne's Beach",
+              "coords": [
+                24.8526,
+                -80.736
+              ],
+              "culture": "Plage peu profonde et protégée, avec une promenade en bois dans la mangrove : une des rares vraies plages des Keys.",
+              "photo": "File:Anne's Beach - panoramio.jpg"
+            },
+            {
+              "name": "Seven Mile Bridge",
+              "wiki": "Seven Mile Bridge",
+              "coords": [
+                24.706,
+                -81.16
+              ],
+              "culture": "Pont de 11 km au-dessus de l'eau turquoise, ouvert en 1982, qui longe l'ancien pont ferroviaire de Henry Flagler."
+            },
+            {
+              "name": "Bahia Honda State Park",
+              "wiki": "Bahia Honda State Park",
+              "coords": [
+                24.656,
+                -81.277
+              ],
+              "culture": "Souvent classée parmi les plus belles plages des États-Unis : sable blanc, eau turquoise et vestiges du pont de Flagler.",
+              "photo": "File:Bahia Honda State Park - Beach with palm trees.jpg"
+            },
+            {
+              "name": "Fort Zachary Taylor",
+              "wiki": "Fort Zachary Taylor Historic State Park",
+              "coords": [
+                24.5458,
+                -81.8104
+              ],
+              "culture": "Fort de la guerre de Sécession et la plus belle plage de Key West, à l'ombre des pins, bonne pour le snorkeling.",
+              "photo": "File:Zachary Taylor Beach FL1.jpg"
+            }
+          ],
+          "stay": {
+            "name": "Key West (vieille ville)",
+            "coords": [
+              24.555,
+              -81.8
+            ],
+            "note": "Key West, 2 nuits : petit hôtel ou maison d'hôtes dans la vieille ville",
+            "options": [
+              "The Marquesa Hotel (maisons de bois du XIXe siècle)",
+              "Kona Kai Resort (petit hôtel réservé aux adultes, jardins tropicaux)",
+              "Kimpton Winslow's Bungalows (trois piscines, vélos, près de Duval Street ; identifié d'après la description de Voyageurs du Monde, à vérifier)"
+            ]
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Islamorada → Key Largo : environ 30 min, départ vers 8 h 15",
+              "after": -1
+            },
+            {
+              "mode": "boat",
+              "text": "Bateau à fond de verre vers le récif : environ 2 h 30 aller-retour",
+              "after": -1
+            },
+            {
+              "mode": "car",
+              "text": "Key Largo → Anne's Beach : environ 50 min",
+              "after": 0
+            },
+            {
+              "mode": "car",
+              "text": "Anne's Beach → Seven Mile Bridge : environ 1 h",
+              "after": 1
+            },
+            {
+              "mode": "car",
+              "text": "Seven Mile Bridge → Bahia Honda : environ 15 min",
+              "after": 2
+            },
+            {
+              "mode": "car",
+              "text": "Bahia Honda → Key West : environ 45 min",
+              "after": 3
+            }
+          ],
+          "notes": [
+            "Grossesse : par vent fort, la mer peut être agitée sur le récif. Choisir le bateau à fond de verre (plus stable) ou rester à Cannon Beach si la mer est formée.",
+            "Journée bien remplie (environ 3 h 20 de route en plus du bateau), mais tout le trajet est au bord de l'eau. Bahia Honda est ouvert de 8 h au coucher du soleil (environ 8 $ par voiture)."
+          ],
+          "ideas": [
+            {
+              "label": "En option, avec réserve : le Christ des Abysses",
+              "text": "Statue de bronze d'environ 2,60 m posée en 1965 sur le récif de Key Largo Dry Rocks, à 7 ou 8 m de profondeur, à environ 8 km au large. Avertissement : on ne voit souvent qu'une silhouette verdâtre couverte d'algues, nette seulement par mer très calme et eau très claire ; les opérateurs changent fréquemment de site selon les conditions, et le récif alentour a beaucoup souffert. Snorkeling en pleine mer, avec de la houle possible pour la future maman. Le récif de Looe Key (jour 6) est bien meilleur."
+            },
+            {
+              "label": "En option, avec réserve : Mallory Square",
+              "text": "Le coucher du soleil « officiel » de Key West, sur la place du port, avec musiciens et artistes de rue. Avertissement : très touristique, beaucoup de monde, et des bateaux de croisière parfois à quai ; ambiance de fête foraine plutôt que de nature."
+            },
+            {
+              "label": "Sombrero Beach",
+              "text": "À Marathon, juste avant le Seven Mile Bridge : plage de sable bordée de palmiers, pour une pause de 30 min si l'on a le temps."
+            },
+            {
+              "label": "Big Pine Key",
+              "text": "Détour de 10 min après Bahia Honda : le Blue Hole, ancienne carrière où vivent alligators et tortues, et les cerfs des Keys, minuscules cerfs que l'on ne trouve que sur ces îles. Ne pas les nourrir ni s'approcher : c'est une espèce protégée, souvent victime des voitures, rouler lentement sur l'île."
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "weekday": "Dimanche",
+          "title": "Snorkeling au récif de Looe Key, puis Key West à vélo",
+          "route": "drive",
+          "summary": "Le matin en mer au récif de Looe Key, le plus beau des Keys, puis l'après-midi à vélo dans la vieille ville de Key West, et le coucher du soleil face à la mer.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Récif de Looe Key, au large de Big Pine Key : sortie snorkeling de 4 h avec Captain Hook's (à partir d'environ 54 $, gilet fourni), deux sites de récif avec coraux, raies et poissons-perroquets. Puis une heure à Bahia Honda sur le chemin du retour."
+            },
+            {
+              "label": "Après-midi",
+              "text": "Retour à Key West en milieu d'après-midi. Balade à vélo dans la vieille ville : maisons de bois peint et jardins tropicaux, rues résidentielles calmes à l'écart de Duval Street."
+            },
+            {
+              "label": "Soir",
+              "text": "Dîner face à la mer, au Louie's Backyard par exemple, et part de key lime pie."
+            },
+            {
+              "label": "Option · Dry Tortugas",
+              "text": "Ferry Yankee Freedom jusqu'aux Dry Tortugas, journée entière (départ vers 8 h, environ 2 h 15 de traversée en pleine mer dans chaque sens) : Fort Jefferson, immense fort de brique hexagonal au milieu de la mer, plage de sable blanc et snorkeling le long des douves (matériel prêté). Environ 235 à 260 $ par adulte, entrée au parc comprise : cher, mais pas une arnaque, le site est exceptionnel. En janvier, les coups de vent du nord rendent souvent la traversée agitée : peu conseillé pendant la grossesse si l'on est sujet au mal de mer. Places limitées, à réserver longtemps à l'avance. Avec une seule journée à Key West, il ne reste alors rien pour la ville."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Marina de Big Pine Key",
+              "coords": [
+                24.6687,
+                -81.3534
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Récif de Looe Key",
+              "wiki": "Looe Key",
+              "coords": [
+                24.5466,
+                -81.4064
+              ],
+              "culture": "Sanctuaire marin des Keys : un récif en éperons et sillons, considéré comme le plus beau site de snorkeling de l'archipel.",
+              "by": "boat"
+            },
+            {
+              "name": "Marina de Big Pine Key (retour)",
+              "coords": [
+                24.6687,
+                -81.3534
+              ],
+              "hidden": true,
+              "by": "boat"
+            },
+            {
+              "name": "Dry Tortugas et Fort Jefferson",
+              "wiki": "Dry Tortugas National Park",
+              "coords": [
+                24.6285,
+                -82.8732
+              ],
+              "culture": "Archipel à 110 km à l'ouest de Key West, accessible seulement en bateau ou en hydravion, autour d'un fort de 16 millions de briques jamais achevé.",
+              "optional": true
+            },
+            {
+              "name": "Smathers Beach",
+              "coords": [
+                24.552,
+                -81.772
+              ],
+              "culture": "La plus longue plage de Key West, sable et palmiers.",
+              "optional": true,
+              "photo": "File:Sunset at Smathers Beach- Key West, Florida (8509212953).jpg"
+            }
+          ],
+          "stay": {
+            "name": "Key West (vieille ville)",
+            "coords": [
+              24.555,
+              -81.8
+            ],
+            "note": "Même hôtel que la veille"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Key West → Big Pine Key, environ 45 min, puis 30 min de bateau jusqu'au récif",
+              "after": -1
+            },
+            {
+              "mode": "bus",
+              "text": "Vélo dans la vieille ville",
+              "after": 0
+            },
+            {
+              "mode": "boat",
+              "text": "Option B : ferry Key West → Dry Tortugas, environ 2 h 15 dans chaque sens",
+              "after": 2
+            }
+          ],
+          "food": [
+            "Blue Heaven (cour ombragée), Louie's Backyard (terrasse sur la mer), key lime pie chez Kermit's. Grossesse : pas de poisson ni de fruits de mer crus (ceviche, huîtres), pas de fromage au lait cru, viande bien cuite, eau en bouteille."
+          ],
+          "ideas": [
+            {
+              "label": "En option, avec réserve : la maison d'Ernest Hemingway",
+              "text": "La maison où l'écrivain a vécu dans les années 1930, avec la soixantaine de chats à six doigts descendants de son chat. Avertissement : visite très fréquentée, souvent avec la queue, entrée payante, et l'intérieur se voit vite ; à faire seulement si Hemingway vous intéresse."
+            },
+            {
+              "label": "Duval Street",
+              "text": "La rue principale de Key West : bars, boutiques de souvenirs et ambiance de fête le soir. À traverser plutôt qu'à fréquenter."
+            },
+            {
+              "label": "Option : coucher du soleil en voilier",
+              "text": "À la place de la foule de Mallory Square, une sortie en voilier de 2 h au coucher du soleil, souvent avec apéritif. Contraintes : beaucoup de bateaux de sortie « fête » avec musique et alcool à volonté ; choisir un petit voilier avec peu de passagers. Grossesse : renoncer si la mer est agitée, et pas d'alcool."
+            }
+          ],
+          "notes": [
+            "Grossesse : snorkeling en surface avec un gilet, pas de plongée bouteille. Les sorties sont annulées si la mer est forte : choisir le jour le plus calme de la semaine, et garder la journée de plage comme repli."
+          ]
+        },
+        {
+          "n": 6,
+          "weekday": "Lundi",
+          "title": "Dernière matinée à Key West et vol vers San Francisco",
+          "route": "drive",
+          "summary": "Matinée tranquille à Key West, puis vol avec une escale vers San Francisco, arrivée en fin de soirée.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Petit-déjeuner, dernière baignade à Fort Zachary Taylor ou à Smathers Beach."
+            },
+            {
+              "label": "Départ",
+              "text": "Retour de la voiture et vol depuis Key West en début d'après-midi."
+            },
+            {
+              "label": "Soir",
+              "text": "Arrivée à SFO vers 22 h 50, puis BART ou Uber jusqu'à l'hôtel. Le mardi est une journée de travail en ville."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Aéroport de Key West (EYW)",
+              "wiki": "Key West International Airport",
+              "hidden": true
+            },
+            {
+              "name": "Aéroport de San Francisco (SFO)",
+              "coords": [
+                37.6213,
+                -122.379
+              ],
+              "hidden": true,
+              "by": "flight"
+            }
+          ],
+          "stay": {
+            "name": "San Francisco",
+            "coords": [
+              37.7749,
+              -122.4194
+            ],
+            "wiki": "San Francisco"
+          },
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Key West → San Francisco : American via Charlotte, 13 h 52 → 22 h 52, ou Delta via Atlanta, 17 h 01 → 22 h 43 (environ 405 $ par personne dans Navan, tarif de base)",
+              "after": 0
+            },
+            {
+              "mode": "transit",
+              "text": "SFO → centre de San Francisco : BART ou Uber, environ 30 min",
+              "after": 1
+            }
+          ],
+          "notes": [
+            "Variante moins chère : rendre la voiture à Miami au lieu de Key West, en partant de Key West vers 10 h le lundi (environ 3 h 45 de route), pour le vol direct Miami → San Francisco (United 16 h 37 → 20 h 09, environ 242 $) : environ 160 $ de moins par personne, mais une longue route le dernier jour."
+          ]
+        }
+      ]
+    }
+  ]
 }

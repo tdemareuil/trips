@@ -16,7 +16,7 @@ const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': 
 // [text](https://…) opens in a new tab; [text](#/trip/day) links inside the site.
 const rich = s => esc(s)
   .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
-  .replace(/\[([^\]]+)\]\((#\/[\w\/-]+)\)/g, '<a href="$2">$1</a>');
+  .replace(/\[([^\]]+)\]\((#\/[\w\/~-]+)\)/g, '<a href="$2">$1</a>');
 const clamp = (v, lo, hi) => Math.min(Math.max(v, lo), hi);
 const fc = features => ({ type: 'FeatureCollection', features });
 const EMPTY = fc([]);
@@ -75,8 +75,29 @@ async function loadData() {
   ]);
   const list = await Promise.all(index.map(id => getJson(`data/trips/${id}.json`)));
   data = { trips: {}, images, routes };
-  list.forEach(trip => { hydrate(trip); data.trips[trip.id] = trip; });
+  list.flatMap(withVariants).forEach(trip => { hydrate(trip); data.trips[trip.id] = trip; });
   data.order = index;
+}
+
+// A trip's `variants` are other versions of its first `replaces` days (e.g. California
+// by way of Florida). Each becomes a trip of its own, "<trip id>~<variant id>", with the
+// variant's days followed by the rest of the trip; it is not listed on the home page.
+// Keep in sync with expand_variants() in scripts/build_data.py.
+function withVariants(trip) {
+  if (!trip.variants?.length) return [trip];
+  const versions = [{ id: trip.id, label: trip.variantLabel || 'Itinéraire principal' },
+    ...trip.variants.map(v => ({ id: `${trip.id}~${v.id}`, label: v.label }))];
+  const variants = trip.variants.map(v => ({
+    ...trip,
+    id: `${trip.id}~${v.id}`,
+    subtitle: v.subtitle || trip.subtitle,
+    cover: v.cover || trip.cover,
+    sections: v.sections || trip.sections,
+    days: [...v.days, ...trip.days.slice(v.replaces)],
+    variants: undefined,
+    versions,
+  }));
+  return [{ ...trip, versions }, ...variants];
 }
 
 // Attach photos, positions and route geometry to a trip, in place.
@@ -313,6 +334,12 @@ function show(kind, trip, slide) { // `slide` is the day for a story, the guide 
   else current = mountStory(trip, slide);
 }
 
+let switchedFrom = null; // screen position of the version switch when it was clicked
+document.addEventListener('click', e => {
+  const nav = e.target.closest('.versions');
+  if (nav && e.target.closest('a')) switchedFrom = nav.getBoundingClientRect().top;
+});
+
 // --- Home ------------------------------------------------------------------
 
 const LOCK_ICON = '<svg class="lock-icon" viewBox="0 0 16 16" width="12" height="12" aria-hidden="true"><path fill="currentColor" d="M8 1a3.5 3.5 0 0 0-3.5 3.5V6H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V7a1 1 0 0 0-1-1h-.5V4.5A3.5 3.5 0 0 0 8 1Zm-2 3.5a2 2 0 1 1 4 0V6H6V4.5Z"/></svg>';
@@ -450,7 +477,7 @@ function mountGuide(trip, gid) {
 // A smaller map for a variant itinerary: one coloured line per day, a numbered pin at each night.
 function guideMap(container, trip, guide, block) {
   const n = block.days.length;
-  const routes = data.routes[trip.id] || {};
+  const routes = data.routes[trip.id.split('~')[0]] || {}; // guide maps belong to the main trip
   const lnglat = ([lat, lon]) => [lon, lat];
   let prev = null;
   const legs = block.days.map((leg, k) => {
@@ -575,6 +602,10 @@ function mountStory(trip, start) {
     };
     const list = days.map(d => `${sectionHead(d)}
       <li><a href="#/${trip.id}/${d.n}" style="--c:${d.color}"><span class="swatch"></span><b>${d.n}</b><span>${esc(d.title)}</span>${d.dateShort ? `<time>${esc(d.dateShort)}</time>` : ''}</a></li>`).join('');
+    // Switch between the versions of the trip (see withVariants).
+    const versions = trip.versions ? `<nav class="versions" aria-label="Itinéraire">${trip.versions.map(v => v.id === trip.id
+      ? `<span class="on" aria-current="true">${esc(v.label)}</span>`
+      : `<a href="#/${v.id}/0">${esc(v.label)}</a>`).join('')}</nav>` : '';
     const guides = trip.guides?.length ? `
       <h2 class="section">Guides &amp; comparatifs</h2>
       <ul class="guides">${trip.guides.map(g => `
@@ -589,6 +620,7 @@ function mountStory(trip, start) {
       <dl class="stats">${stats}</dl>
       <a class="cta" href="#/${trip.id}/1">Commencer le voyage <span>→</span></a>
       <h2 class="section">Vue d'ensemble</h2>
+      ${versions}
       <ol class="overview">${list}</ol>
       ${guides}
       ${credit}`;
@@ -647,6 +679,12 @@ function mountStory(trip, start) {
     card.classList.remove('enter');
     void card.offsetWidth; // restart the CSS entrance animation
     card.classList.add('enter');
+    // After a switch between versions of the trip, keep the switch where it was on screen.
+    const nav = i === 0 && switchedFrom != null && card.querySelector('.versions');
+    if (nav) {
+      for (const box of [card, stage]) box.scrollTop += nav.getBoundingClientRect().top - switchedFrom;
+    }
+    switchedFrom = null;
   }
 
   // --- Rail
