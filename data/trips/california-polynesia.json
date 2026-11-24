@@ -1787,11 +1787,11 @@
       "title": "Les atolls des Tuamotu"
     }
   ],
-  "variantLabel": "Californie du Sud",
+  "variantLabel": "Par la Californie du Sud",
   "variants": [
     {
       "id": "san-francisco",
-      "label": "Autour de San Francisco",
+      "label": "Par San Francisco",
       "from": 1,
       "to": 7,
       "subtitle": "San Francisco, les séquoias, Point Reyes et les vignobles, puis Tahiti, Moorea, Bora Bora et les atolls des Tuamotu",

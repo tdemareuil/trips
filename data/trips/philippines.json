@@ -1185,11 +1185,11 @@
       "title": "Siquijor"
     }
   ],
-  "variantLabel": "Principal",
+  "variantLabel": "Par Pinatubo et Siquijor",
   "variants": [
     {
       "id": "banaue",
-      "label": "Banaue",
+      "label": "Par Banaue",
       "from": 1,
       "to": 2,
       "subtitle": "De Luzon à Siquijor : rizières de Banaue, lagons de Palawan, croisière vers Coron, Bohol et île mystique",
@@ -1350,7 +1350,7 @@
     },
     {
       "id": "mayon",
-      "label": "Mayon et Donsol",
+      "label": "Par Mayon et Donsol",
       "from": 1,
       "to": 3,
       "subtitle": "Du volcan Mayon à Siquijor : requins-baleines de Donsol, lagons de Palawan, croisière vers Coron, Bohol et île mystique",
@@ -1587,7 +1587,7 @@
     },
     {
       "id": "camiguin",
-      "label": "Camiguin",
+      "label": "Par Camiguin",
       "from": 12,
       "to": 15,
       "subtitle": "De Luzon à Camiguin : volcan Pinatubo, lagons de Palawan, croisière vers Coron, Bohol et île volcanique",

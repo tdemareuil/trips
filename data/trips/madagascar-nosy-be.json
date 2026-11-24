@@ -692,11 +692,11 @@
       "title": "Nosy Be et ses îles"
     }
   ],
-  "variantLabel": "Principal",
+  "variantLabel": "Par le Sud et Nosy Be",
   "variants": [
     {
       "id": "cote-est",
-      "label": "Côte est et Sainte-Marie",
+      "label": "Par la côte est",
       "from": 1,
       "to": 8,
       "subtitle": "Les Hautes Terres, le canal des Pangalanes et l'île Sainte-Marie, puis Nosy Be",
@@ -976,7 +976,7 @@
     },
     {
       "id": "maurice",
-      "label": "Île Maurice",
+      "label": "Par l'île Maurice",
       "from": 8,
       "to": 14,
       "subtitle": "Parcs nationaux de Madagascar, de Ranomafana à l'Isalo, puis une semaine à l'île Maurice",

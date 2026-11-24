@@ -1208,7 +1208,7 @@
       "blocks": [
         {
           "type": "text",
-          "text": "L'itinéraire jour par jour s'affiche avec le bouton « San Ignacio » de la [vue d'ensemble](#/basse-californie~san-ignacio/0)."
+          "text": "L'itinéraire jour par jour s'affiche avec le bouton « San Ignacio / Baleines » de la [vue d'ensemble](#/basse-californie~san-ignacio/0)."
         },
         {
           "type": "heading",
@@ -2117,7 +2117,7 @@
     },
     {
       "id": "san-ignacio",
-      "label": "San Ignacio",
+      "label": "San Ignacio / Baleines",
       "subtitle": "Huit jours entre la lagune de San Ignacio et ses baleines grises, Espíritu Santo, Balandra et Todos Santos, avec un vol direct au retour",
       "sections": [
         {

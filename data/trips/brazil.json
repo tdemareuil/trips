@@ -1383,11 +1383,11 @@
       "title": "Le Nordeste : Lençóis Maranhenses et Jericoacoara"
     }
   ],
-  "variantLabel": "Chapada et Lençóis",
+  "variantLabel": "Par Chapada et Lençóis",
   "variants": [
     {
       "id": "noronha",
-      "label": "Recife et Noronha",
+      "label": "Par Recife et Noronha",
       "from": 12,
       "to": 21,
       "subtitle": "De Rio à Fernando de Noronha : Ilha Grande, chutes d'Iguaçu, Bahia, piscines naturelles de Maragogi et Noronha",
