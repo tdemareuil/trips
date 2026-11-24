@@ -368,8 +368,12 @@
         },
         {
           "name": "Palais des Capitaines généraux",
-          "wiki": "Palacio de los Capitanes Generales",
-          "culture": "Ancien palais du gouverneur colonial, aux arcades jaunes, sur la place principale d'Antigua."
+          "wiki": "Palacio de los Capitanes Generales, Antigua Guatemala",
+          "culture": "Ancien palais du gouverneur colonial, aux arcades jaunes, sur la place principale d'Antigua.",
+          "coords": [
+            14.5567,
+            -90.7337
+          ]
         },
         {
           "name": "Parque Central",
@@ -2177,6 +2181,10 @@
   "sections": [
     {
       "from": 1,
+      "title": "Escale à Philadelphie"
+    },
+    {
+      "from": 2,
       "title": "Oaxaca et la côte du Pacifique"
     },
     {

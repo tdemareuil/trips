@@ -23,6 +23,37 @@ const thumb = (url, w) => (url ? url.replace(/\/\d+px-/, `/${w}px-`) : null);
 
 // Teal at the start of the trip, coral at the end.
 const dayColor = (i, n) => `hsl(${Math.round(190 - 175 * (n > 1 ? i / (n - 1) : 0))}, 85%, 41%)`;
+// Day colours go from blue to red. Hues are spaced so that each step is visible
+// (plain hue steps all look the same in the greens).
+const HUES = [200, 178, 150, 118, 85, 52, 32, 12];
+const hueAt = t => {
+  const x = Math.min(Math.max(t, 0), 1) * (HUES.length - 1), k = Math.min(Math.floor(x), HUES.length - 2);
+  return HUES[k] + (HUES[k + 1] - HUES[k]) * (x - k);
+};
+// With `sections`, each part of the trip gets its own band of the scale and the days
+// move inside it, from darker to lighter; at a new part the colour jumps in hue and
+// goes back to dark, so the break is visible even between two greens.
+const ZONE_FILL = 0.6;
+function dayColors(trip) {
+  const n = trip.days.length;
+  const starts = (trip.sections || []).map(s => s.from);
+  let ts, ls = trip.days.map(() => 42);
+  if (starts.length < 2) ts = trip.days.map((d, i) => (n > 1 ? i / (n - 1) : 0));
+  else {
+    const Z = starts.length, span = Z - 1 + ZONE_FILL;
+    ls = [];
+    ts = trip.days.map(d => {
+      const k = Math.max(starts.filter(f => f <= d.n).length - 1, 0);
+      const first = starts[k], last = (starts[k + 1] ?? Infinity) - 1;
+      const inZone = trip.days.filter(x => x.n >= first && x.n <= last);
+      const j = inZone.indexOf(d), m = inZone.length;
+      const u = m > 1 ? j / (m - 1) : 0.5;
+      ls.push(Math.round(35 + 13 * u));
+      return (k + u * ZONE_FILL) / span;
+    });
+  }
+  return ts.map((t, i) => `hsl(${Math.round(hueAt(t))}, 80%, ${ls[i]}%)`);
+}
 
 // Dates are computed in UTC so the displayed day never shifts with the viewer's timezone.
 const dateFmt = opts => new Intl.DateTimeFormat('fr-FR', { timeZone: 'UTC', ...opts });
@@ -60,12 +91,13 @@ function hydrate(trip) {
   const end = trip.end ? new Date(`${trip.end}T00:00:00Z`) : start && addDays(start, Math.max(trip.days.length - 1, 0));
   if (start) trip.range = RANGE_DATE.formatRange(start, end);
   if (trip.altStart) trip.altLabel = LONG_DATE.format(new Date(`${trip.altStart}T00:00:00Z`));
+  const colors = dayColors(trip);
   trip.days.forEach((day, i) => {
     const qualifier = (day.weekday || '').split(' ').slice(1);
     day.dateLong = start ? capitalize(LONG_DATE.format(addDays(start, i))) : (day.weekday || '');
     day.dateShort = start ? capitalize(SHORT_DATE.format(addDays(start, i))) : (day.weekday || '');
     day.when = start ? qualifier.join(' ') : ''; // "soir" in "Mercredi soir"
-    day.color = dayColor(i, trip.days.length);
+    day.color = colors[i];
     // Hidden stops (ports, airports) shape the route but get no tile, marker or popup.
     // Optional stops (ideas, alternatives) get a tile and a marker but stay off the route.
     day.stops.forEach(s => { s.img = img(s.photo || s.wiki); s.pos = lngLat(s.coords, s.wiki); });
@@ -536,7 +568,7 @@ function mountStory(trip, start) {
       const range = days.filter(x => x.n >= d.n && x.n < end);
       const n = byDays ? range.length : range.filter(x => x.stay).length;
       const count = n ? ` · ${n} ${byDays ? 'jour' : 'nuit'}${n > 1 ? 's' : ''}` : '';
-      return `<li class="stay-head">${esc(sections[k].title)}${count}</li>`;
+      return `<li class="stay-head" style="--c:${d.color}"><span class="glyph">⊙</span>${esc(sections[k].title)}${count}</li>`;
     };
     const list = days.map(d => `${sectionHead(d)}
       <li><a href="#/${trip.id}/${d.n}" style="--c:${d.color}"><span class="swatch"></span><b>${d.n}</b><span>${esc(d.title)}</span>${d.dateShort ? `<time>${esc(d.dateShort)}</time>` : ''}</a></li>`).join('');
