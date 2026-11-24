@@ -1184,7 +1184,7 @@
       "blocks": [
         {
           "type": "text",
-          "text": "L'itinéraire jour par jour s'affiche avec le bouton « Le sud seulement » de la [vue d'ensemble](#/basse-californie~sud/0)."
+          "text": "L'itinéraire jour par jour s'affiche avec le bouton « Sud seulement » de la [vue d'ensemble](#/basse-californie~sud/0)."
         },
         {
           "type": "heading",
@@ -1592,7 +1592,7 @@
     },
     {
       "id": "sud",
-      "label": "Le sud seulement",
+      "label": "Sud seulement",
       "subtitle": "Huit jours dans le sud de la péninsule, avec un vol direct au retour : Cabo Pulmo, l'arche de Cabo San Lucas, Todos Santos, Balandra et Espíritu Santo",
       "sections": [
         {
