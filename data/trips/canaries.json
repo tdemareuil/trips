@@ -644,7 +644,8 @@
           "culture": "Ancienne maison de l'artiste à Taro de Tahíche, bâtie dans cinq bulles volcaniques sous la lave."
         },
         {
-          "name": "Quesería El Faro (Teguise)"
+          "name": "Quesería El Faro (Teguise)",
+          "culture": "Fromagerie artisanale de lait de chèvre, dans la commune de Teguise ; dégustation et vente sur place. Les fromages de chèvre des Canaries sont souvent au lait cru."
         },
         {
           "name": "Quesería Finca de Uga (Yaiza)",
@@ -653,7 +654,8 @@
         },
         {
           "name": "Quesería Flor de Luz (San Bartolomé)",
-          "optional": true
+          "optional": true,
+          "culture": "Fromagerie familiale de San Bartolomé, au centre de l'île : fromages de chèvre frais ou affinés, parfois enrobés de paprika ou de gofio, comme souvent aux Canaries."
         },
         {
           "name": "Aéroport de Lanzarote",
@@ -754,7 +756,8 @@
         },
         {
           "name": "Casa Pérez Villaamil",
-          "photo": "File:Madrid - Casa de Enrique Pérez Villaamil - 121212 143805.jpg"
+          "photo": "File:Madrid - Casa de Enrique Pérez Villaamil - 121212 143805.jpg",
+          "culture": "Immeuble moderniste de la plaza de Matute (1906-1908), de l'architecte Eduardo Reynals, l'un des rares exemples d'Art nouveau à Madrid ; il est classé monument."
         },
         {
           "name": "Plaza de Matute",
@@ -763,7 +766,8 @@
         },
         {
           "name": "Plaza de los Carros",
-          "photo": "File:Plaza de los Carros (4692822227).jpg"
+          "photo": "File:Plaza de los Carros (4692822227).jpg",
+          "culture": "Petite place de La Latina, entre l'église San Andrés, la plaza de la Paja et le jardin du prince d'Anglona, au cœur du Madrid médiéval."
         },
         {
           "name": "Plaza de la Paja",

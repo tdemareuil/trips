@@ -47,7 +47,8 @@
           "culture": "Quartier-bazar de Colombo aux ruelles étroites, où se pressent marchés, boutiques et tuk-tuks. Son nom vient du tamoul « pettai », qui désigne un faubourg."
         },
         {
-          "name": "Manning Market"
+          "name": "Manning Market",
+          "culture": "Le grand marché de gros aux fruits et légumes de Colombo, déplacé en 2020 de Pettah à Peliyagoda, au nord de la ville ; très animé dès l'aube."
         },
         {
           "name": "Mosquée Jami-ul-Alfar",
@@ -108,7 +109,8 @@
           "culture": "Rocher voisin de Sigiriya d'où l'on voit le Rocher du Lion se détacher de la jungle. Un Bouddha couché se trouve sur le chemin."
         },
         {
-          "name": "Lac de Kayanwala Weva"
+          "name": "Lac de Kayanwala Weva",
+          "culture": "Réservoir d'irrigation (weva) au pied de Sigiriya, comme il en existe des milliers au Sri Lanka depuis l'Antiquité ; calme et beau au lever ou au coucher du soleil."
         },
         {
           "name": "Marché local de Dambulla",
@@ -306,7 +308,8 @@
           "culture": "Usine de thé construite en 1890 par Thomas Lipton, près de Haputale."
         },
         {
-          "name": "Église de Warleigh"
+          "name": "Église de Warleigh",
+          "culture": "Église anglicane de 1878, construite pour les planteurs de thé britanniques de Dickoya, près de Hatton, entre les plantations et le réservoir de Castlereagh ; vitraux et petit cimetière."
         },
         {
           "name": "Pedro Tea Estate",

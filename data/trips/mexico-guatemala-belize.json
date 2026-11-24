@@ -272,7 +272,8 @@
           "culture": "Tour d'observation des baleines avec Océano Mágico, réservé par WhatsApp le mardi 30 décembre à 8h (la même compagnie que Lagunita Tours)."
         },
         {
-          "name": "Piedra Blanca"
+          "name": "Piedra Blanca",
+          "culture": "Petite plage peu construite de la côte d'Oaxaca, près de Puerto Escondido : nuit au calme avant le retour vers Oaxaca."
         }
       ],
       "stay": {
@@ -661,7 +662,8 @@
         },
         {
           "name": "Raíces del Lago",
-          "by": "boat"
+          "by": "boat",
+          "culture": "Annexe du restaurant Raíces de Flores, au bord du lac Petén Itzá, accessible seulement en bateau ; on y vient surtout pour le cadre et le coucher du soleil sur le lac."
         }
       ],
       "stay": {

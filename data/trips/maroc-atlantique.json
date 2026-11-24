@@ -90,7 +90,8 @@
           "coords": [
             30.85,
             -9.78
-          ]
+          ],
+          "culture": "Hameau de pêcheurs voisin d'Imsouane, sur la côte entre Essaouira et Agadir ; point de départ possible de la randonnée à dos de dromadaire."
         },
         {
           "name": "Imirdissen",
@@ -177,7 +178,8 @@
           "coords": [
             31.02,
             -9.84
-          ]
+          ],
+          "culture": "Petite baie au nord de Tafedna, qui doit son nom au tombeau d'un saint local ; quelques maisons, une plage et des vagues pour le surf."
         },
         {
           "name": "Iftane",
@@ -185,7 +187,8 @@
           "coords": [
             31.01,
             -9.85
-          ]
+          ],
+          "culture": "Plage voisine de Sidi Ahmed Saïd, autre spot de surf peu fréquenté de cette côte sauvage."
         }
       ],
       "stay": {

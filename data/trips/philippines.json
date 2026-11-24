@@ -299,7 +299,8 @@
         },
         {
           "name": "Papaya Beach",
-          "by": "boat"
+          "by": "boat",
+          "culture": "Petite plage de sable blanc de la baie de Bacuit, souvent au programme de l'island hopping d'El Nido."
         },
         {
           "name": "Talisay Beach",
@@ -545,14 +546,16 @@
           "culture": "Rivière de Bohol bordée de jungle, que l'on descend en bateau-restaurant avec musique en direct."
         },
         {
-          "name": "Rizières de Cambuyo"
+          "name": "Rizières de Cambuyo",
+          "culture": "Rizières en terrasses de l'intérieur de Bohol, d'un vert vif ; à ne pas confondre avec celles de Cadapdapan, plus à l'est, à Candijay."
         },
         {
           "name": "Abatan River ou Loay River",
           "culture": "Rivières de Bohol où l'on dîne en bateau, avant d'observer des lucioles dans la mangrove."
         },
         {
-          "name": "Plage de Bohol"
+          "name": "Plage de Bohol",
+          "culture": "Plages de sable blanc de l'île de Panglao, reliée à Bohol par un pont : Alona Beach pour l'animation, Dumaluan ou Doljo pour le calme."
         }
       ],
       "stay": {

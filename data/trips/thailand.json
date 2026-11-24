@@ -271,7 +271,8 @@
             18.787,
             98.993
           ],
-          "optional": true
+          "optional": true,
+          "culture": "Restaurant et café dans une ancienne maison coloniale du centre de Chiang Mai : cuisine thaïe soignée, dans un cadre calme."
         }
       ],
       "stay": {
@@ -1197,7 +1198,8 @@
           "coords": [
             10.078,
             99.84
-          ]
+          ],
+          "culture": "Point de vue au nord-est de Koh Tao, au-dessus de Mango Bay ; la piste est très raide (taxi 4x4 ou bonne marche), petite entrée payante."
         },
         {
           "name": "Plage de Sairee",
@@ -1213,7 +1215,8 @@
           "coords": [
             10.084,
             99.819
-          ]
+          ],
+          "culture": "Point de vue sur les hauteurs de Sairee, au nord-ouest de l'île, connu pour le coucher du soleil sur le golfe ; montée courte mais raide, petite entrée payante."
         }
       ],
       "stay": {
