@@ -971,7 +971,8 @@
             }
           ]
         }
-      ]
+      ],
+      "cover": "Nosy Be"
     },
     {
       "id": "maurice",
@@ -1056,6 +1057,50 @@
           ]
         },
         {
+          "title": "Les gorges de Rivière Noire",
+          "summary": "Randonnée dans le parc national des gorges de Rivière Noire (forêt, cascades et faune endémique), puis les Terres des 7 couleurs et les chutes de Chamarel.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Gorges de Rivière Noire",
+              "coords": [
+                -20.42,
+                57.43
+              ],
+              "wiki": "Black River Gorges National Park"
+            },
+            {
+              "name": "Chutes de Chamarel",
+              "coords": [
+                -20.4424,
+                57.3855
+              ]
+            },
+            {
+              "name": "Terres des 7 couleurs de Chamarel",
+              "coords": [
+                -20.44,
+                57.373
+              ],
+              "wiki": "Chamarel"
+            }
+          ],
+          "stay": {
+            "name": "Lodge à Chamarel",
+            "coords": [
+              -20.43,
+              57.39
+            ],
+            "note": "Lodge à Chamarel"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Flic-en-Flac → Rivière Noire : environ 30 min"
+            }
+          ]
+        },
+        {
           "title": "Le sud-ouest : le Morne Brabant",
           "summary": "Randonnée au Morne Brabant, classé par l'UNESCO, pour la vue sur le lagon, puis la plage du Morne.",
           "route": "drive",
@@ -1087,13 +1132,45 @@
           "transport": [
             {
               "mode": "car",
-              "text": "Voiture de location"
+              "text": "Chamarel → Le Morne : environ 30 min, puis Bel Ombre : environ 25 min"
             }
           ],
-          "ideas": [
+          "ideas": []
+        },
+        {
+          "title": "Le sud-est : Blue Bay",
+          "summary": "Le parc marin de Blue Bay, et une sortie en bateau vers les îlots.",
+          "route": "drive",
+          "stops": [
             {
-              "label": "Variante (première version) :",
-              "text": "les gorges de Rivière Noire, les Terres des 7 couleurs et les chutes de Chamarel."
+              "name": "Parc marin de Blue Bay",
+              "coords": [
+                -20.444,
+                57.716
+              ],
+              "wiki": "Blue Bay Marine Park"
+            },
+            {
+              "name": "Île des Deux Cocos",
+              "coords": [
+                -20.45,
+                57.72
+              ],
+              "by": "boat"
+            }
+          ],
+          "stay": {
+            "name": "Resort à Blue Bay",
+            "coords": [
+              -20.444,
+              57.71
+            ],
+            "note": "Resort à Blue Bay"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Bel Ombre → Blue Bay : environ 1 h"
             }
           ]
         },
@@ -1130,48 +1207,16 @@
           },
           "transport": [
             {
+              "mode": "car",
+              "text": "Blue Bay → Trou d'Eau Douce : environ 1 h"
+            },
+            {
               "mode": "boat",
-              "text": "Bateau : environ 30 min"
+              "text": "Bateau vers l'île aux Cerfs : environ 30 min"
             }
           ],
           "notes": [
             "L'île aux Cerfs est la sortie la plus fréquentée de l'île, avec jet-skis et parachute ascensionnel : y aller tôt, ou préférer un tour en bateau des îlots de la côte est."
-          ]
-        },
-        {
-          "title": "Les gorges de Rivière Noire",
-          "summary": "Randonnée dans le parc national des gorges de Rivière Noire : forêt, cascades et faune endémique.",
-          "route": "drive",
-          "stops": [
-            {
-              "name": "Gorges de Rivière Noire",
-              "coords": [
-                -20.42,
-                57.43
-              ],
-              "wiki": "Black River Gorges National Park"
-            },
-            {
-              "name": "Chutes de Chamarel",
-              "coords": [
-                -20.4424,
-                57.3855
-              ]
-            }
-          ],
-          "stay": {
-            "name": "Lodge à Chamarel",
-            "coords": [
-              -20.43,
-              57.39
-            ],
-            "note": "Lodge à Chamarel"
-          },
-          "transport": [
-            {
-              "mode": "car",
-              "text": "Voiture de location"
-            }
           ]
         },
         {
@@ -1186,7 +1231,8 @@
                 57.62
               ],
               "wiki": "Coin de Mire",
-              "by": "boat"
+              "by": "boat",
+              "photo": "File:COIN DE MIRE NEAR MAURITIUS ISLAND 1 - panoramio.jpg"
             },
             {
               "name": "Jardin botanique de Pamplemousses",
@@ -1215,7 +1261,7 @@
           "transport": [
             {
               "mode": "car",
-              "text": "Voiture de location"
+              "text": "Trou d'Eau Douce → Grand Baie : environ 1 h"
             }
           ],
           "ideas": [
@@ -1226,43 +1272,6 @@
             {
               "label": "Variante :",
               "text": "une journée à Port Louis : marché central, Citadelle, et jardin de Pamplemousses."
-            }
-          ]
-        },
-        {
-          "title": "Le sud-est : Blue Bay",
-          "summary": "Le parc marin de Blue Bay, et une sortie en bateau vers les îlots.",
-          "route": "drive",
-          "stops": [
-            {
-              "name": "Parc marin de Blue Bay",
-              "coords": [
-                -20.444,
-                57.716
-              ],
-              "wiki": "Blue Bay Marine Park"
-            },
-            {
-              "name": "Île des Deux Cocos",
-              "coords": [
-                -20.45,
-                57.72
-              ],
-              "by": "boat"
-            }
-          ],
-          "stay": {
-            "name": "Resort à Blue Bay",
-            "coords": [
-              -20.444,
-              57.71
-            ],
-            "note": "Resort à Blue Bay"
-          },
-          "transport": [
-            {
-              "mode": "car",
-              "text": "Voiture de location"
             }
           ]
         },
@@ -1282,6 +1291,10 @@
           ],
           "stay": null,
           "transport": [
+            {
+              "mode": "car",
+              "text": "Grand Baie → aéroport : environ 1 h 15"
+            },
             {
               "mode": "flight",
               "text": "Vol retour"

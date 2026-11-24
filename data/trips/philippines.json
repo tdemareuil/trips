@@ -1298,7 +1298,8 @@
                 16.96,
                 121.11
               ],
-              "wiki": "Batad"
+              "wiki": "Batad",
+              "photo": "File:Banaue Philippines Batad-Rice-Terraces-02.jpg"
             },
             {
               "name": "Cascade de Tappiya",
@@ -1657,8 +1658,12 @@
           },
           "transport": [
             {
+              "mode": "car",
+              "text": "Panglao → port de Jagna : environ 1 h 30"
+            },
+            {
               "mode": "boat",
-              "text": "Ferry Jagna → Camiguin, puis van local"
+              "text": "Ferry Jagna → Benoni (Camiguin) : environ 2 h, puis van local"
             }
           ]
         },
@@ -1723,12 +1728,12 @@
         },
         {
           "use": 15,
-          "title": "Camiguin ➔ Manille ➔ Paris",
-          "summary": "Vol retour vers Paris, via Manille.",
+          "title": "Camiguin ➔ Cebu ➔ Manille ➔ Paris",
+          "summary": "Vol retour vers Paris, via Cebu et Manille (Camiguin n'a de vols que vers Cebu ; sinon ferry vers Cagayan de Oro, puis vol).",
           "transport": [
             {
               "mode": "flight",
-              "text": "Camiguin → Manille → Paris"
+              "text": "Camiguin → Cebu → Manille → Paris"
             }
           ]
         }
