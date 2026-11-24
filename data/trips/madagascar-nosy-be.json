@@ -846,13 +846,11 @@
   "sections": [
     {
       "from": 1,
-      "title": "Les Hautes Terres et les forêts",
-      "unit": "jours"
+      "title": "Les Hautes Terres et les forêts"
     },
     {
       "from": 5,
-      "title": "Isalo et Tuléar",
-      "unit": "jours"
+      "title": "Isalo et Tuléar"
     },
     {
       "from": 8,

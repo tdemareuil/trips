@@ -640,13 +640,11 @@
   "sections": [
     {
       "from": 1,
-      "title": "Colorado",
-      "unit": "jours"
+      "title": "Colorado"
     },
     {
       "from": 6,
-      "title": "Wyoming : vers Grand Teton",
-      "unit": "jours"
+      "title": "Wyoming : vers Grand Teton"
     },
     {
       "from": 9,
