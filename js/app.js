@@ -13,7 +13,10 @@ let current = null;   // mounted view: { kind, tripId, goTo?, destroy }
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 // Escaped text where [label](https://...) becomes a link.
-const rich = s => esc(s).replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+// [text](https://…) opens in a new tab; [text](#/trip/day) links inside the site.
+const rich = s => esc(s)
+  .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
+  .replace(/\[([^\]]+)\]\((#\/[\w\/-]+)\)/g, '<a href="$2">$1</a>');
 const clamp = (v, lo, hi) => Math.min(Math.max(v, lo), hi);
 const fc = features => ({ type: 'FeatureCollection', features });
 const EMPTY = fc([]);

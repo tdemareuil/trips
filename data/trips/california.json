@@ -1647,47 +1647,34 @@
           "rows": [
             [
               "Mercredi soir",
-              "Vol Air France direct Paris → Miami (AF90, arrivée vers 17 h 40), voiture de location, dîner à pied à Coconut Grove",
+              "Vol Air France direct Paris → Miami (AF90, arrivée vers 17 h 40), voiture de location, dîner à pied à Coconut Grove (voir le [jour 1](#/floride/1))",
               "Coconut Grove"
             ],
             [
               "Jeudi",
-              "Lever du soleil sur South Beach (simple coup d'œil sur Ocean Drive), villa Vizcaya à 9 h 30, tram de Shark Valley dans les Everglades, puis route des Keys",
+              "Lever du soleil sur South Beach (simple coup d'œil sur Ocean Drive), villa Vizcaya à 9 h 30, tram de Shark Valley dans les Everglades, puis route des Keys (voir le [jour 2](#/floride/2))",
               "Islamorada"
             ],
             [
               "Vendredi",
-              "Anhinga Trail tôt le matin, route jusqu'à Flamingo (lamantins et crocodiles depuis la marina), milkshake chez Robert Is Here au retour",
+              "Anhinga Trail tôt le matin, route jusqu'à Flamingo (lamantins et crocodiles depuis la marina), milkshake chez Robert Is Here au retour (voir le [jour 3](#/floride/3))",
               "Islamorada"
             ],
             [
               "Samedi",
-              "Récif de John Pennekamp, Anne's Beach, Seven Mile Bridge, Bahia Honda, coucher du soleil à Fort Zachary Taylor",
+              "Récif de John Pennekamp, Anne's Beach, Seven Mile Bridge, Bahia Honda, coucher du soleil à Fort Zachary Taylor (voir le [jour 4](#/floride/4))",
               "Key West"
             ],
             [
               "Dimanche",
-              "Snorkeling au récif de Looe Key le matin (ou, en option, les Dry Tortugas en ferry toute la journée), puis Key West à vélo, coucher du soleil et dîner face à la mer",
+              "Snorkeling au récif de Looe Key le matin, le plus beau des Keys : sortie de 4 h depuis Big Pine Key (45 min de Key West), dès 54 $ par personne, en surface avec un gilet, annulée si la mer est forte. Retour en milieu d'après-midi, puis Key West à vélo, coucher du soleil et dîner face à la mer. En option, les Dry Tortugas en ferry (Fort Jefferson, plage, snorkeling le long des douves) : environ 235 à 260 $ par adulte, cher mais pas une arnaque ; il prend la journée entière (2 h 15 de pleine mer dans chaque sens, souvent agitée en janvier, à éviter en cas de mal de mer) et ne laisse rien pour Key West (voir le [jour 6](#/floride/6), et le [jour 5](#/floride/5) pour Key West)",
               "Key West"
             ],
             [
               "Lundi",
-              "Baignade à Fort Zachary Taylor, retour de la voiture et vol vers San Francisco vers 14 h",
+              "Baignade à Fort Zachary Taylor, retour de la voiture et vol vers San Francisco vers 14 h (voir le [jour 7](#/floride/7))",
               "San Francisco"
             ]
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Dimanche : snorkeling à Looe Key, ou les Dry Tortugas en ferry"
-        },
-        {
-          "type": "list",
-          "items": [
-            "Snorkeling au récif de Looe Key, le plus beau des Keys : sortie de 4 h depuis Big Pine Key (environ 45 min de Key West), à partir d'environ 54 $ par personne, gilet fourni. Rentrer en milieu d'après-midi, avec le temps d'une fin de journée à vélo dans Key West.",
-            "En option, les Dry Tortugas en ferry (Yankee Freedom) : un parc national à 110 km de Key West, avec Fort Jefferson, un immense fort de brique du XIXe siècle au milieu de la mer, une plage de sable blanc et du snorkeling le long des douves. Cher, mais pas une arnaque : environ 235 à 260 $ par adulte, entrée comprise.",
-            "Le ferry prend la journée entière (départ vers 8 h, environ 2 h 15 de traversée en pleine mer dans chaque sens) : avec une seule journée à Key West, il ne reste rien pour la ville. En janvier, les coups de vent du nord rendent souvent la traversée agitée, ce qui est peu conseillé pendant la grossesse si l'on est sujet au mal de mer.",
-            "Grossesse : snorkeling en surface avec un gilet, pas de plongée bouteille. Les sorties sont annulées si la mer est forte."
           ]
         },
         {
@@ -1733,7 +1720,7 @@
             "Décalage : la Floride est à 6 h de Paris, contre 9 h pour la Californie ; arriver moins fatigué, et rattraper 3 h en arrivant à San Francisco.",
             "Valise : il faut en plus des affaires de plage et de baignade, pour 25 °C en Floride, avant les 10 à 14 °C de San Francisco et le froid de Yosemite.",
             "Grossesse : mêmes règles que dans le voyage Floride (rien de cru, mercure, crème solaire minérale), et répulsif adapté le soir.",
-            "Le détail de chaque journée, les hôtels et les options avec leurs avertissements (Robbie's, Christ des Abysses, Mallory Square, Kennedy) sont dans le voyage Floride.",
+            "Ces journées reprennent celles du voyage Floride (liens dans le tableau), à une différence près : la journée entière à Key West (jour 5) est retirée, et l'essentiel de la ville se fait le samedi soir et le dimanche après-midi. Les hôtels et les options avec leurs avertissements (Robbie's, Christ des Abysses, Mallory Square, Kennedy) y sont détaillés.",
             "Parcs nationaux : l'Everglades et Yosemite font partie des 11 parcs où les non-résidents paient 100 $ par personne en plus de l'entrée ; avec la carte annuelle pour non-résidents (250 $), on paie environ 250 $ au lieu de 470 $ (voir le guide « Parcs nationaux »)."
           ]
         }
