@@ -1311,11 +1311,11 @@
       "title": "La Digue, puis retour à Mahé"
     }
   ],
-  "variantLabel": "Par les Seychelles",
+  "variantLabel": "Seychelles",
   "variants": [
     {
       "id": "maurice",
-      "label": "Par l'île Maurice",
+      "label": "Île Maurice",
       "from": 12,
       "to": 22,
       "subtitle": "Safaris du Kilimandjaro au Masai Mara, puis dix jours à l'île Maurice",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "zanzibar",
-      "label": "Par Zanzibar",
+      "label": "Zanzibar",
       "from": 12,
       "to": 22,
       "subtitle": "Safaris du Kilimandjaro au Masai Mara, puis Zanzibar : Stone Town, l'atoll de Mnemba et les plages du sud",
