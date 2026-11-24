@@ -941,11 +941,13 @@
   "sections": [
     {
       "from": 1,
-      "title": "Fuerteventura"
+      "title": "Fuerteventura",
+      "unit": "jours"
     },
     {
       "from": 4,
-      "title": "Lanzarote et La Graciosa"
+      "title": "Lanzarote et La Graciosa",
+      "unit": "jours"
     },
     {
       "from": 8,

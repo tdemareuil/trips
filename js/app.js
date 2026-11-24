@@ -525,14 +525,22 @@ function mountStory(trip, start) {
       [N, 'jours'],
       [days.filter(d => d.stay).length, 'nuits'],
     ].map(([n, label]) => `<div><dt>${n}</dt><dd>${label}</dd></div>`).join('');
-    // `sections` split the overview into parts of the trip, each with its number of nights.
+    // `sections` split the overview into parts of the trip. Each part is counted in
+    // nights (default) or in days (`unit: "jours"`); `count` overrides the computed text.
     const sections = trip.sections || [];
     const sectionHead = d => {
       const k = sections.findIndex(s => s.from === d.n);
       if (k < 0) return '';
+      const s = sections[k];
       const end = sections[k + 1]?.from ?? Infinity;
-      const n = days.filter(x => x.n >= d.n && x.n < end && x.stay).length;
-      return `<li class="stay-head"><span class="glyph">☾</span>${esc(sections[k].title)}${n ? ` · ${n} nuit${n > 1 ? 's' : ''}` : ''}</li>`;
+      const range = days.filter(x => x.n >= d.n && x.n < end);
+      let count = s.count;
+      if (!count) {
+        const n = s.unit === 'jours' ? range.length : range.filter(x => x.stay).length;
+        const unit = s.unit === 'jours' ? 'jour' : 'nuit';
+        count = n ? `${n} ${unit}${n > 1 ? 's' : ''}` : '';
+      }
+      return `<li class="stay-head">${esc(s.title)}${count ? ` · ${esc(count)}` : ''}</li>`;
     };
     const list = days.map(d => `${sectionHead(d)}
       <li><a href="#/${trip.id}/${d.n}" style="--c:${d.color}"><span class="swatch"></span><b>${d.n}</b><span>${esc(d.title)}</span>${d.dateShort ? `<time>${esc(d.dateShort)}</time>` : ''}</a></li>`).join('');

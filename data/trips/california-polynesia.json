@@ -1855,7 +1855,8 @@
     },
     {
       "from": 8,
-      "title": "Tahiti et les îles de la Société"
+      "title": "Tahiti et les îles de la Société",
+      "unit": "jours"
     },
     {
       "from": 15,

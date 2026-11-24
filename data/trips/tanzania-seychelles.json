@@ -1438,11 +1438,13 @@
   "sections": [
     {
       "from": 1,
-      "title": "Kilimandjaro et Amboseli"
+      "title": "Kilimandjaro et Amboseli",
+      "unit": "jours"
     },
     {
       "from": 4,
-      "title": "Tarangire, lac Natron et Ngorongoro"
+      "title": "Tarangire, lac Natron et Ngorongoro",
+      "unit": "jours"
     },
     {
       "from": 8,

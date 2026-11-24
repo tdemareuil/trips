@@ -982,7 +982,8 @@
     },
     {
       "from": 4,
-      "title": "La péninsule de Samaná"
+      "title": "La péninsule de Samaná",
+      "unit": "jours"
     }
   ]
 }

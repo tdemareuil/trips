@@ -1296,11 +1296,13 @@
   "sections": [
     {
       "from": 1,
-      "title": "Luzon : Pinatubo et Manille"
+      "title": "Luzon : Pinatubo et Manille",
+      "unit": "jours"
     },
     {
       "from": 3,
-      "title": "Palawan : El Nido et la croisière"
+      "title": "Palawan : El Nido et la croisière",
+      "unit": "jours"
     },
     {
       "from": 7,

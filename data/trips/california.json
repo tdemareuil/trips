@@ -1826,19 +1826,23 @@
     },
     {
       "from": 3,
-      "title": "Le désert : Palm Springs et Joshua Tree"
+      "title": "Le désert : Palm Springs et Joshua Tree",
+      "unit": "jours"
     },
     {
       "from": 5,
-      "title": "La côte : Santa Barbara et Big Sur"
+      "title": "La côte : Santa Barbara et Big Sur",
+      "unit": "jours"
     },
     {
       "from": 7,
-      "title": "San Francisco et la Silicon Valley"
+      "title": "San Francisco et la Silicon Valley",
+      "unit": "jours"
     },
     {
-      "from": 9,
-      "title": "Yosemite"
+      "from": 10,
+      "title": "Yosemite",
+      "count": "2 nuits"
     }
   ]
 }

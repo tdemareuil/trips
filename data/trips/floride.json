@@ -828,7 +828,8 @@
   "sections": [
     {
       "from": 1,
-      "title": "Miami et les Everglades"
+      "title": "Miami et les Everglades",
+      "unit": "jours"
     },
     {
       "from": 4,

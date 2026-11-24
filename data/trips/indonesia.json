@@ -1444,11 +1444,13 @@
   "sections": [
     {
       "from": 1,
-      "title": "Java"
+      "title": "Java",
+      "unit": "jours"
     },
     {
       "from": 5,
-      "title": "Bali"
+      "title": "Bali",
+      "unit": "jours"
     },
     {
       "from": 10,

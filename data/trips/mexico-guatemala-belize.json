@@ -2177,19 +2177,23 @@
   "sections": [
     {
       "from": 1,
-      "title": "Oaxaca et la côte du Pacifique"
+      "title": "Oaxaca et la côte du Pacifique",
+      "unit": "jours"
     },
     {
       "from": 7,
-      "title": "Guatemala : Antigua, Atitlán et Acatenango"
+      "title": "Guatemala : Antigua, Atitlán et Acatenango",
+      "unit": "jours"
     },
     {
       "from": 12,
-      "title": "Petén : Flores, Tikal et Yaxhá"
+      "title": "Petén : Flores, Tikal et Yaxhá",
+      "unit": "jours"
     },
     {
       "from": 14,
-      "title": "Belize"
+      "title": "Belize",
+      "unit": "jours"
     },
     {
       "from": 16,

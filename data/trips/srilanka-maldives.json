@@ -1206,11 +1206,13 @@
     },
     {
       "from": 4,
-      "title": "Les montagnes et le thé"
+      "title": "Les montagnes et le thé",
+      "unit": "jours"
     },
     {
       "from": 9,
-      "title": "Udawalawe et la côte sud"
+      "title": "Udawalawe et la côte sud",
+      "unit": "jours"
     },
     {
       "from": 14,

@@ -1052,15 +1052,18 @@
   "sections": [
     {
       "from": 1,
-      "title": "Lima et la région de Cusco"
+      "title": "Lima et la région de Cusco",
+      "unit": "jours"
     },
     {
       "from": 7,
-      "title": "Lac Titicaca et Arequipa"
+      "title": "Lac Titicaca et Arequipa",
+      "unit": "jours"
     },
     {
       "from": 11,
-      "title": "Bolivie : La Paz et Uyuni"
+      "title": "Bolivie : La Paz et Uyuni",
+      "unit": "jours"
     },
     {
       "from": 15,
