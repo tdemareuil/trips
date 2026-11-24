@@ -1297,74 +1297,6 @@
       ]
     },
     {
-      "id": "option-raja-ampat",
-      "title": "Option : Raja Ampat (7 jours)",
-      "summary": "Une autre troisième semaine : sept jours à Raja Ampat, à la place de Komodo et de Flores.",
-      "blocks": [
-        {
-          "type": "table",
-          "columns": [
-            "Jour",
-            "Lieu",
-            "Transport",
-            "Hébergement",
-            "Activités et points d'intérêt"
-          ],
-          "rows": [
-            [
-              "17",
-              "Lombok → Sorong",
-              "Vol interne via Makassar (5 h)",
-              "Éco-resort à Raja Ampat",
-              "Arrivée à Raja Ampat, détente sur la plage, snorkeling autour du récif."
-            ],
-            [
-              "18",
-              "Raja Ampat",
-              "Bateau privé",
-              "Resort",
-              "Plongée sous-marine avec raies manta et récifs coralliens, découverte des poissons tropicaux."
-            ],
-            [
-              "19",
-              "Raja Ampat",
-              "-",
-              "Resort",
-              "Excursion à Pianemo (paysages karstiques), randonnée pour la vue panoramique."
-            ],
-            [
-              "20",
-              "Raja Ampat",
-              "-",
-              "Resort",
-              "Kayak autour des îlots, journée sur un banc de sable isolé, observation des oiseaux tropicaux."
-            ],
-            [
-              "21",
-              "Raja Ampat",
-              "-",
-              "Resort",
-              "Journée plongée, visite d'un village de pêcheurs, pêche traditionnelle, détente au spa."
-            ],
-            [
-              "22",
-              "Raja Ampat",
-              "-",
-              "Resort",
-              "Snorkeling autour du resort, dîner romantique sur la plage."
-            ],
-            [
-              "23",
-              "Raja Ampat → Bali → Jakarta",
-              "Vol retour via Jakarta",
-              "-",
-              "Vol de retour pour Paris via Jakarta, shopping de dernière minute."
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "budget",
       "title": "Budget estimatif",
       "summary": "Estimation du budget pour deux personnes.",
@@ -1457,6 +1389,281 @@
     {
       "from": 14,
       "title": "Lombok, Komodo et Flores"
+    }
+  ],
+  "variantLabel": "Komodo et Flores",
+  "variants": [
+    {
+      "id": "raja-ampat",
+      "label": "Raja Ampat",
+      "from": 15,
+      "to": 20,
+      "subtitle": "De Java à Raja Ampat : temples, volcans, rizières de Bali, plages des îles Gili et récifs de Raja Ampat",
+      "sections": [
+        {
+          "from": 1,
+          "title": "Java"
+        },
+        {
+          "from": 5,
+          "title": "Bali"
+        },
+        {
+          "from": 10,
+          "title": "Nusa Penida et Gili Meno"
+        },
+        {
+          "from": 14,
+          "title": "Lombok"
+        },
+        {
+          "from": 15,
+          "title": "Raja Ampat"
+        }
+      ],
+      "days": [
+        {
+          "title": "Lombok ➔ Sorong ➔ Raja Ampat",
+          "route": "drive",
+          "summary": "Vol interne via Makassar jusqu'à Sorong, puis bateau vers l'éco-resort : détente sur la plage et snorkeling autour du récif.",
+          "stops": [
+            {
+              "name": "Aéroport de Lombok",
+              "coords": [
+                -8.757,
+                116.276
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Aéroport de Sorong",
+              "coords": [
+                -0.8946,
+                131.2876
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Port de Waisai",
+              "coords": [
+                -0.4335,
+                130.8155
+              ],
+              "hidden": true,
+              "by": "boat"
+            },
+            {
+              "name": "Raja Ampat",
+              "wiki": "Raja Ampat Islands",
+              "coords": [
+                -0.556,
+                130.69
+              ],
+              "by": "boat",
+              "culture": "Archipel de plus de 1 500 îles à la pointe ouest de la Papouasie, au cœur du « triangle de corail » : la plus grande diversité de coraux et de poissons de récif au monde."
+            }
+          ],
+          "stay": {
+            "name": "Éco-resort à Raja Ampat",
+            "coords": [
+              -0.556,
+              130.68
+            ],
+            "wiki": "Raja Ampat Islands",
+            "note": "Raja Ampat, 6 nuits : éco-resort sur une île"
+          },
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Lombok → Makassar → Sorong : vol interne, environ 5 h"
+            },
+            {
+              "mode": "boat",
+              "text": "Sorong → Waisai : ferry, environ 2 h, puis bateau de l'éco-resort"
+            }
+          ]
+        },
+        {
+          "title": "Raja Ampat : raies manta et récifs coralliens",
+          "route": "none",
+          "summary": "Plongée sous-marine avec les raies manta et sur les récifs coralliens, à la découverte des poissons tropicaux.",
+          "stops": [
+            {
+              "name": "Manta Sandy",
+              "coords": [
+                -0.57,
+                130.51
+              ],
+              "culture": "Station de nettoyage près de l'île d'Arborek, où les raies manta viennent se faire déparasiter par de petits poissons : on les observe posé sur le sable, sans les déranger."
+            },
+            {
+              "name": "Cape Kri",
+              "coords": [
+                -0.556,
+                130.695
+              ],
+              "culture": "Récif au large de l'île de Kri, où l'on a compté un record de 374 espèces de poissons en une seule plongée."
+            }
+          ],
+          "stay": {
+            "name": "Éco-resort à Raja Ampat",
+            "coords": [
+              -0.556,
+              130.68
+            ],
+            "wiki": "Raja Ampat Islands",
+            "note": "Même éco-resort que la veille"
+          },
+          "transport": [
+            {
+              "mode": "boat",
+              "text": "Bateau privé vers les sites de plongée"
+            }
+          ]
+        },
+        {
+          "title": "Raja Ampat : Pianemo",
+          "route": "none",
+          "summary": "Excursion à Pianemo et à ses paysages karstiques : des îlots de calcaire couverts de forêt dans un lagon turquoise, et un escalier jusqu'au point de vue.",
+          "stops": [
+            {
+              "name": "Pianemo",
+              "coords": [
+                -0.575,
+                130.27
+              ],
+              "culture": "Îlots karstiques des îles Fam, au milieu d'un lagon turquoise ; un escalier en bois mène au point de vue, l'image la plus connue de Raja Ampat."
+            }
+          ],
+          "stay": {
+            "name": "Éco-resort à Raja Ampat",
+            "coords": [
+              -0.556,
+              130.68
+            ],
+            "wiki": "Raja Ampat Islands",
+            "note": "Même éco-resort que la veille"
+          },
+          "transport": [
+            {
+              "mode": "boat",
+              "text": "Bateau vers Pianemo : environ 2 h depuis le sud de Waigeo"
+            }
+          ]
+        },
+        {
+          "title": "Raja Ampat : kayak et banc de sable",
+          "route": "none",
+          "summary": "Kayak autour des îlots, journée sur un banc de sable isolé, et observation des oiseaux tropicaux.",
+          "stops": [
+            {
+              "name": "Banc de sable de Pasir Timbul",
+              "coords": [
+                -0.603,
+                130.62
+              ],
+              "culture": "Banc de sable blanc qui n'émerge qu'à marée basse au milieu de la mer, entre Mansuar et Waigeo."
+            }
+          ],
+          "stay": {
+            "name": "Éco-resort à Raja Ampat",
+            "coords": [
+              -0.556,
+              130.68
+            ],
+            "wiki": "Raja Ampat Islands",
+            "note": "Même éco-resort que la veille"
+          },
+          "ideas": [
+            "Paradisiers : sortie à l'aube dans la forêt de Waigeo pour voir la parade des oiseaux de paradis."
+          ]
+        },
+        {
+          "title": "Raja Ampat : plongée et village de pêcheurs",
+          "route": "none",
+          "summary": "Journée de plongée, visite d'un village de pêcheurs et pêche traditionnelle, puis détente au spa.",
+          "stops": [
+            {
+              "name": "Village d'Arborek",
+              "coords": [
+                -0.565,
+                130.52
+              ],
+              "culture": "Petit village de pêcheurs sur une île minuscule, connu pour son artisanat et pour la gestion de ses récifs par la communauté."
+            }
+          ],
+          "stay": {
+            "name": "Éco-resort à Raja Ampat",
+            "coords": [
+              -0.556,
+              130.68
+            ],
+            "wiki": "Raja Ampat Islands",
+            "note": "Même éco-resort que la veille"
+          }
+        },
+        {
+          "title": "Raja Ampat : dernier jour",
+          "route": "none",
+          "summary": "Snorkeling autour du resort, et dîner sur la plage.",
+          "stops": [],
+          "stay": {
+            "name": "Éco-resort à Raja Ampat",
+            "coords": [
+              -0.556,
+              130.68
+            ],
+            "wiki": "Raja Ampat Islands",
+            "note": "Même éco-resort que la veille"
+          }
+        },
+        {
+          "title": "Retour à Paris",
+          "route": "drive",
+          "summary": "Bateau vers Sorong, puis vol retour via Jakarta.",
+          "stops": [
+            {
+              "name": "Port de Waisai",
+              "coords": [
+                -0.4335,
+                130.8155
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Aéroport de Sorong",
+              "coords": [
+                -0.8946,
+                131.2876
+              ],
+              "hidden": true,
+              "by": "boat"
+            },
+            {
+              "name": "Aéroport de Jakarta-Soekarno-Hatta",
+              "coords": [
+                -6.1239,
+                106.6429
+              ],
+              "hidden": true,
+              "by": "flight"
+            }
+          ],
+          "stay": null,
+          "transport": [
+            {
+              "mode": "boat",
+              "text": "Waisai → Sorong : ferry, environ 2 h"
+            },
+            {
+              "mode": "flight",
+              "text": "Sorong → Jakarta → Paris"
+            }
+          ],
+          "end": "Vol retour vers Paris, via Jakarta"
+        }
+      ]
     }
   ]
 }

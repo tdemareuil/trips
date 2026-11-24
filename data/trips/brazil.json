@@ -1303,108 +1303,6 @@
       ]
     },
     {
-      "id": "variante-nordeste",
-      "title": "Variante : Recife, Maragogi et Fernando de Noronha",
-      "summary": "Une autre troisième semaine, sur la côte du Nordeste, au lieu de la Chapada Diamantina, des Lençóis Maranhenses et de Jericoacoara.",
-      "blocks": [
-        {
-          "type": "table",
-          "columns": [
-            "Jour",
-            "Lieu",
-            "Trajet",
-            "Durée du trajet",
-            "Transport (pour 2)",
-            "Hébergement (pour 2)",
-            "Activités",
-            "Points d'intérêt"
-          ],
-          "rows": [
-            [
-              "Jour 15",
-              "Arrivée à Recife",
-              "-",
-              "-",
-              "-",
-              "Hôtel de charme à Recife (100 EUR)",
-              "Détente et découverte",
-              "Olinda (centre historique), plage de Boa Viagem"
-            ],
-            [
-              "Jour 16",
-              "Maragogi",
-              "Bus Recife → Maragogi",
-              "2 h 30",
-              "Bus (20 EUR)",
-              "Pousada en bord de mer (120 EUR)",
-              "Snorkeling",
-              "Piscines naturelles de Galés (plongée en apnée dans les récifs)"
-            ],
-            [
-              "Jour 17",
-              "Maragogi",
-              "-",
-              "-",
-              "-",
-              "Pousada (120 EUR)",
-              "Journée de snorkeling et détente, exploration des plages isolées",
-              "Plage d'Antunes (calme et peu fréquentée), croisière en catamaran, plage de Barra Grande (idyllique et moins touristique)"
-            ],
-            [
-              "Jour 18",
-              "Porto de Galinhas",
-              "Bus Maragogi → Porto de Galinhas",
-              "1 h 30",
-              "Bus (20 EUR)",
-              "Hôtel de charme (130 EUR)",
-              "Snorkeling et détente",
-              "Piscines naturelles, plage de Muro Alto"
-            ],
-            [
-              "Jour 19",
-              "Recife → Fernando de Noronha",
-              "Bus pour Recife + vol Recife → Fernando de Noronha",
-              "2 h 30 de bus + 1 h 15 de vol",
-              "Bus + vol (500 EUR)",
-              "Pousada Maravilha (550 EUR)",
-              "Détente à la pousada",
-              "Plage de Sueste (plongée, observation des tortues)"
-            ],
-            [
-              "Jour 20",
-              "Fernando de Noronha",
-              "-",
-              "-",
-              "-",
-              "Pousada Maravilha (550 EUR)",
-              "Excursion en bateau",
-              "Baía do Sancho (élue plus belle plage du monde), Baía dos Porcos"
-            ],
-            [
-              "Jour 21",
-              "Fernando de Noronha",
-              "-",
-              "-",
-              "-",
-              "Pousada Maravilha (550 EUR)",
-              "Journée libre et plongée",
-              "Plongée sous-marine à la Baía do Sueste (raies et dauphins)"
-            ],
-            [
-              "Jour 22",
-              "Recife",
-              "Vol retour Fernando de Noronha → Recife",
-              "1 h 15 de vol",
-              "Vol (500 EUR)",
-              "-",
-              "Vol retour",
-              "Shopping souvenirs (marché de São José)"
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "budget",
       "title": "Résumé des coûts",
       "summary": "Estimation du budget pour deux personnes.",
@@ -1483,6 +1381,379 @@
     {
       "from": 16,
       "title": "Le Nordeste : Lençóis Maranhenses et Jericoacoara"
+    }
+  ],
+  "variantLabel": "Chapada et Lençóis",
+  "variants": [
+    {
+      "id": "noronha",
+      "label": "Recife et Noronha",
+      "from": 12,
+      "to": 21,
+      "subtitle": "De Rio à Fernando de Noronha : Ilha Grande, chutes d'Iguaçu, Bahia, piscines naturelles de Maragogi et Noronha",
+      "cover": "Fernando de Noronha",
+      "sections": [
+        {
+          "from": 1,
+          "title": "Rio de Janeiro"
+        },
+        {
+          "from": 4,
+          "title": "Ilha Grande"
+        },
+        {
+          "from": 7,
+          "title": "Les chutes d'Iguaçu"
+        },
+        {
+          "from": 9,
+          "title": "Bahia : Salvador et Boipeba"
+        },
+        {
+          "from": 12,
+          "title": "Recife, Maragogi et Porto de Galinhas"
+        },
+        {
+          "from": 16,
+          "title": "Fernando de Noronha"
+        }
+      ],
+      "days": [
+        {
+          "title": "Boipeba ➔ Salvador ➔ Recife",
+          "route": "drive",
+          "summary": "Matinée à Boipeba, retour à Salvador, puis vol vers Recife et première soirée sur la plage de Boa Viagem.",
+          "parts": [
+            {
+              "label": "Matin",
+              "text": "Dernière matinée à Boipeba."
+            },
+            {
+              "label": "Après-midi",
+              "text": "Retour à Salvador et vol vers Recife."
+            },
+            {
+              "label": "Soir",
+              "text": "Promenade sur le front de mer de Boa Viagem."
+            }
+          ],
+          "stops": [
+            {
+              "name": "Aéroport de Salvador",
+              "coords": [
+                -12.9086,
+                -38.3225
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Aéroport de Recife",
+              "coords": [
+                -8.1265,
+                -34.9236
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Plage de Boa Viagem",
+              "coords": [
+                -8.12,
+                -34.895
+              ],
+              "culture": "Grande plage urbaine de Recife, bordée d'immeubles et protégée par un récif ; promenade animée le soir. Baignade déconseillée au-delà du récif à cause des requins."
+            }
+          ],
+          "stay": {
+            "name": "Recife",
+            "coords": [
+              -8.11,
+              -34.89
+            ],
+            "note": "Hôtel de charme à Recife",
+            "price": "100 EUR (pour 2)",
+            "wiki": "Recife"
+          },
+          "transport": [
+            {
+              "mode": "bus",
+              "text": "Boipeba → Salvador : ~4 h",
+              "after": 0
+            },
+            {
+              "mode": "flight",
+              "text": "Salvador → Recife : ~1 h 30",
+              "after": 1
+            }
+          ]
+        },
+        {
+          "title": "Olinda, puis Maragogi",
+          "route": "drive",
+          "summary": "Le centre historique d'Olinda le matin, puis le bus vers Maragogi et sa côte de récifs.",
+          "stops": [
+            {
+              "name": "Olinda",
+              "wiki": "Olinda",
+              "coords": [
+                -8.0089,
+                -34.8553
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Maragogi",
+            "coords": [
+              -9.012,
+              -35.222
+            ],
+            "note": "Pousada en bord de mer",
+            "price": "120 EUR (pour 2)",
+            "wiki": "Maragogi"
+          },
+          "transport": [
+            {
+              "mode": "bus",
+              "text": "Bus Recife → Maragogi : ~2 h 30 (20 EUR pour 2)"
+            }
+          ]
+        },
+        {
+          "title": "Maragogi : piscines naturelles et plages",
+          "route": "drive",
+          "summary": "Snorkeling dans les piscines naturelles de Galés, au milieu des récifs, puis les plages calmes d'Antunes et de Barra Grande.",
+          "stops": [
+            {
+              "name": "Piscines naturelles de Galés",
+              "coords": [
+                -8.99,
+                -35.17
+              ],
+              "culture": "Bassins d'eau turquoise au milieu du récif, à environ 6 km au large, accessibles seulement à marée basse : snorkeling parmi les poissons."
+            },
+            {
+              "name": "Plage d'Antunes",
+              "coords": [
+                -8.975,
+                -35.19
+              ]
+            },
+            {
+              "name": "Plage de Barra Grande",
+              "coords": [
+                -9.035,
+                -35.205
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Maragogi",
+            "coords": [
+              -9.012,
+              -35.222
+            ],
+            "note": "Même pousada que la veille",
+            "price": "120 EUR (pour 2)",
+            "wiki": "Maragogi"
+          },
+          "ideas": [
+            "Croisière en catamaran le long de la côte."
+          ]
+        },
+        {
+          "title": "Maragogi ➔ Porto de Galinhas",
+          "route": "drive",
+          "summary": "Bus vers Porto de Galinhas, ses piscines naturelles à marée basse et la plage de Muro Alto.",
+          "stops": [
+            {
+              "name": "Porto de Galinhas",
+              "wiki": "Porto de Galinhas",
+              "coords": [
+                -8.505,
+                -35.004
+              ],
+              "culture": "Ancien village de pêcheurs au sud de Recife, connu pour ses piscines naturelles à marée basse, que l'on rejoint en jangada, la barque à voile locale."
+            },
+            {
+              "name": "Plage de Muro Alto",
+              "coords": [
+                -8.43,
+                -34.98
+              ],
+              "culture": "Plage abritée par une barrière de récif qui forme une longue lagune calme, au nord de Porto de Galinhas."
+            }
+          ],
+          "stay": {
+            "name": "Porto de Galinhas",
+            "coords": [
+              -8.505,
+              -35.004
+            ],
+            "note": "Hôtel de charme",
+            "price": "130 EUR (pour 2)"
+          },
+          "transport": [
+            {
+              "mode": "bus",
+              "text": "Bus Maragogi → Porto de Galinhas : ~1 h 30 (20 EUR pour 2)"
+            }
+          ]
+        },
+        {
+          "title": "Porto de Galinhas ➔ Recife ➔ Fernando de Noronha",
+          "route": "drive",
+          "summary": "Bus vers Recife et vol vers l'archipel de Fernando de Noronha, puis la plage de Sueste et ses tortues.",
+          "stops": [
+            {
+              "name": "Aéroport de Recife",
+              "coords": [
+                -8.1265,
+                -34.9236
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Aéroport de Fernando de Noronha",
+              "coords": [
+                -3.8549,
+                -32.4233
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Baía do Sueste",
+              "coords": [
+                -3.866,
+                -32.423
+              ],
+              "culture": "Baie abritée de la côte sud de Noronha, avec une mangrove et des herbiers où les tortues vertes viennent brouter : snorkeling en eau calme."
+            }
+          ],
+          "stay": {
+            "name": "Pousada Maravilha, Fernando de Noronha",
+            "coords": [
+              -3.862,
+              -32.43
+            ],
+            "note": "Pousada Maravilha",
+            "price": "550 EUR (pour 2)"
+          },
+          "transport": [
+            {
+              "mode": "bus",
+              "text": "Bus Porto de Galinhas → Recife : ~1 h 30"
+            },
+            {
+              "mode": "flight",
+              "text": "Recife → Fernando de Noronha : ~1 h 15 (bus et vol : 500 EUR pour 2)"
+            }
+          ],
+          "notes": [
+            "Fernando de Noronha : prévoir en plus la taxe de préservation environnementale (TPA), payée par jour de séjour, et l'entrée du parc national."
+          ]
+        },
+        {
+          "title": "Fernando de Noronha : excursion en bateau",
+          "route": "none",
+          "summary": "Excursion en bateau le long de l'archipel, puis la Baía do Sancho, souvent élue plus belle plage du monde, et la Baía dos Porcos.",
+          "stops": [
+            {
+              "name": "Baía do Sancho",
+              "coords": [
+                -3.8546,
+                -32.443
+              ],
+              "culture": "Baie au pied d'une falaise couverte de végétation, accessible par une échelle dans la roche ou en bateau : eau turquoise, tortues et poissons, souvent classée parmi les plus belles plages du monde.",
+              "photo": "Fernando de Noronha"
+            },
+            {
+              "name": "Baía dos Porcos",
+              "coords": [
+                -3.851,
+                -32.439
+              ],
+              "culture": "Petite crique au pied des pitons rocheux des Dois Irmãos, avec des piscines naturelles à marée basse."
+            }
+          ],
+          "stay": {
+            "name": "Pousada Maravilha, Fernando de Noronha",
+            "coords": [
+              -3.862,
+              -32.43
+            ],
+            "note": "Même pousada que la veille",
+            "price": "550 EUR (pour 2)"
+          }
+        },
+        {
+          "title": "Fernando de Noronha : journée libre et plongée",
+          "route": "none",
+          "summary": "Journée libre et plongée sous-marine : raies et dauphins autour de l'archipel.",
+          "stops": [
+            {
+              "name": "Baía do Sueste",
+              "coords": [
+                -3.866,
+                -32.423
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Pousada Maravilha, Fernando de Noronha",
+            "coords": [
+              -3.862,
+              -32.43
+            ],
+            "note": "Même pousada que la veille",
+            "price": "550 EUR (pour 2)"
+          }
+        },
+        {
+          "title": "Fernando de Noronha ➔ Recife ➔ retour en France",
+          "route": "drive",
+          "summary": "Vol vers Recife, souvenirs au marché de São José, puis vol retour vers Paris.",
+          "stops": [
+            {
+              "name": "Aéroport de Fernando de Noronha",
+              "coords": [
+                -3.8549,
+                -32.4233
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Aéroport de Recife",
+              "coords": [
+                -8.1265,
+                -34.9236
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Marché de São José",
+              "coords": [
+                -8.068,
+                -34.879
+              ],
+              "culture": "Marché couvert de Recife, sous une halle de fer de 1875, avec artisanat, épices et produits du Nordeste."
+            }
+          ],
+          "stay": null,
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Fernando de Noronha → Recife : ~1 h 15 (500 EUR pour 2)"
+            },
+            {
+              "mode": "flight",
+              "text": "Recife → Paris"
+            }
+          ],
+          "end": "Vol retour vers Paris depuis Recife"
+        }
+      ]
     }
   ]
 }
