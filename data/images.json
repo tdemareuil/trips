@@ -8003,5 +8003,332 @@
   "lon": -32.425,
   "extract": "Fernando de Noronha est un archipel brésilien situé dans l’océan Atlantique, au large de Natal, inscrit au patrimoine mondial de l'UNESCO depuis 2001. L'île principale de l'archipel est Fernando de Noronha.",
   "article": "https://fr.wikipedia.org/wiki/Fernando_de_Noronha_(archipel)"
+ },
+ "Banaue Rice Terraces": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Banaue-terrace.JPG/1920px-Banaue-terrace.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Banaue-terrace.JPG",
+  "artist": "User: (WT-shared) Roundtheworld at  wts wikivoyage",
+  "license": "Public domain",
+  "lat": 16.9,
+  "lon": 121.05,
+  "extract": "Les rizières de Banaue sont des rizières vieilles de 2 000 ans construites sur les montagnes Ifugao par les ancêtres de l'ethnie Batad, aux Philippines. Elles sont souvent appelées « la huitième merveille du monde ».",
+  "article": "https://fr.wikipedia.org/wiki/Rizi%C3%A8res_de_Banaue"
+ },
+ "Batad": {},
+ "Black River Gorges National Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Black_River_Gorges_National_Park_IMG_0912.jpg/1920px-Black_River_Gorges_National_Park_IMG_0912.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Black_River_Gorges_National_Park_IMG_0912.jpg",
+  "artist": "User 72622",
+  "license": "CC0",
+  "lat": -20.41667,
+  "lon": 57.41667,
+  "extract": "Le parc national des gorges de Rivière Noire, ou Black River Gorges National Park en anglais, est un parc national de Maurice. Créé le 5 juin 1994, il est situé dans le sud-ouest de l'île Maurice.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_des_gorges_de_Rivi%C3%A8re_Noire"
+ },
+ "Blue Bay Marine Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Blue_Bay_Mauritius_%2823456132492%29.jpg/1920px-Blue_Bay_Mauritius_%2823456132492%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Blue_Bay_Mauritius_(23456132492).jpg",
+  "artist": "Lukas von Daeniken from Schweiz",
+  "license": "CC BY-SA 2.0"
+ },
+ "Cagsawa Ruins": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Cagsawa_ruins.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cagsawa_ruins.jpg",
+  "artist": "Alienscream",
+  "license": "CC BY-SA 3.0",
+  "lat": 13.16611,
+  "lon": 123.70111
+ },
+ "Canal des Pangalanes": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Canal_des_Pangalanes_-_Mananjary_-_Nosy_Varika_%281%29.jpg/1920px-Canal_des_Pangalanes_-_Mananjary_-_Nosy_Varika_%281%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Canal_des_Pangalanes_-_Mananjary_-_Nosy_Varika_(1).jpg",
+  "artist": "User:Hardscarf",
+  "license": "CC BY-SA 3.0",
+  "lat": -22.8,
+  "lon": 47.83333,
+  "extract": "Le canal des Pangalanes est un canal de l'est de Madagascar construit au XXe siècle. Long de près de 700 kilomètres, il relie Farafangana à Toamasina, ville portuaire constituant son débouché.",
+  "article": "https://fr.wikipedia.org/wiki/Canal_des_Pangalanes"
+ },
+ "Chamarel": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/2006-10-02_Chamarel_Waterfalls.jpg/1920px-2006-10-02_Chamarel_Waterfalls.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:2006-10-02_Chamarel_Waterfalls.jpg",
+  "artist": "Hansueli Krapf",
+  "license": "CC BY-SA 3.0",
+  "lat": -20.425,
+  "lon": 57.3911,
+  "extract": "Chamarel est une plaine et un village de l'île Maurice qui doit son nom à Charles-Antoine de Chazal de Chamarel.",
+  "article": "https://fr.wikipedia.org/wiki/Chamarel"
+ },
+ "Coin de Mire": {
+  "lat": -20.40528,
+  "lon": 57.71194,
+  "extract": "Voici une liste des îles Maurice.",
+  "article": "https://fr.wikipedia.org/wiki/Liste_des_%C3%AEles_de_Maurice"
+ },
+ "Conservatory of Flowers": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Conservatory_of_Flowers_-_panoramio.jpg/1920px-Conservatory_of_Flowers_-_panoramio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Conservatory_of_Flowers_-_panoramio.jpg",
+  "artist": "harley photo",
+  "license": "CC BY-SA 3.0",
+  "lat": 37.772,
+  "lon": -122.46,
+  "extract": "Le Conservatory of Flowers est un jardin botanique qui collecte et préserve une collection de plantes rares et de plantes exotiques, situé dans le Golden Gate Park à San Francisco. Le bâtiment a été construit en 1878 par Lord & Burnham.",
+  "article": "https://fr.wikipedia.org/wiki/Conservatory_of_Flowers"
+ },
+ "Donsol": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Donsol_-Philippines_-_panoramio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Donsol_-Philippines_-_panoramio.jpg",
+  "artist": "jackylim",
+  "license": "CC BY-SA 3.0",
+  "lat": 12.9083,
+  "lon": 123.5981,
+  "extract": "Donsol est une municipalité de la province de Sorsogon aux Philippines. Selon le recensement de 2007, sa population s'élève à 39 995 habitants.",
+  "article": "https://fr.wikipedia.org/wiki/Donsol"
+ },
+ "Flic en Flac": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Mauritius_flic_en_flac_beach.jpg/1920px-Mauritius_flic_en_flac_beach.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mauritius_flic_en_flac_beach.jpg",
+  "artist": "Arne Müseler",
+  "license": "CC BY-SA 3.0 de",
+  "lat": -20.27978,
+  "lon": 57.36645,
+  "extract": "Flic en Flac est un village situé sur le littoral ouest de l'île Maurice. Réputé pour ses hôtels luxueux, cet endroit attire de nombreux touristes du monde entier pour sa diversité et son paysage. Flic en Flac fait partie du district de Rivière Noire.",
+  "article": "https://fr.wikipedia.org/wiki/Flic_en_Flac"
+ },
+ "Grand Baie": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Grand_Baie%2C_La_Croisette.jpg/1920px-Grand_Baie%2C_La_Croisette.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Grand_Baie,_La_Croisette.jpg",
+  "artist": "Karsten Ratzke",
+  "license": "CC0",
+  "lat": -20.01306,
+  "lon": 57.58444,
+  "extract": "Grand Baie est une des principales baies de Maurice. Elle abrite un village du même nom, très touristique, qui a accueilli un Sommet de la Francophonie du 16 au 18 octobre 1993.",
+  "article": "https://fr.wikipedia.org/wiki/Grand_Baie"
+ },
+ "Japanese Tea Garden (San Francisco)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Japanese_tea_garden_Golden_Gate_Park.JPG/1920px-Japanese_tea_garden_Golden_Gate_Park.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Japanese_tea_garden_Golden_Gate_Park.JPG",
+  "artist": "Asamudra (talk)",
+  "license": "CC BY 3.0",
+  "lat": 37.77012,
+  "lon": -122.47023
+ },
+ "Jozani Chwaka Bay National Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%28128%29_-_Jozani_Chwaka_National_Park.jpg/1920px-%28128%29_-_Jozani_Chwaka_National_Park.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:(128)_-_Jozani_Chwaka_National_Park.jpg",
+  "artist": "lecucurbitacee",
+  "license": "CC BY 2.0",
+  "lat": -6.233,
+  "lon": 39.404,
+  "extract": "Le parc national Jozani Chwaka Bay est un parc national de 50 km2 se trouvant sur l'île d'Unguja dans l'archipel de Zanzibar en Tanzanie. Il est le seul parc national de Zanzibar.",
+  "article": "https://fr.wikipedia.org/wiki/Parc_national_Jozani_Chwaka_Bay"
+ },
+ "Lands End (San Francisco)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Coastal_Trail_and_Golden_Gate_Bridge%2C_April_2019.JPG/1920px-Coastal_Trail_and_Golden_Gate_Bridge%2C_April_2019.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Coastal_Trail_and_Golden_Gate_Bridge,_April_2019.JPG",
+  "artist": "Pi.1415926535",
+  "license": "CC BY-SA 3.0",
+  "lat": 37.78493,
+  "lon": -122.50553
+ },
+ "Le Morne Brabant": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Le_Morne_Peninsula_in_Mauritius_%2853697779236%29.jpg/1920px-Le_Morne_Peninsula_in_Mauritius_%2853697779236%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Le_Morne_Peninsula_in_Mauritius_(53697779236).jpg",
+  "artist": "\"dronepicr\"",
+  "license": "CC BY 2.0",
+  "lat": -20.45194,
+  "lon": 57.32833,
+  "extract": "Le morne Brabant est une montagne du Sud-Ouest de l’île Maurice, classée patrimoine mondial par l’UNESCO depuis le 6 juillet 2008 sous le nom de « Paysage culturel du Morne ».",
+  "article": "https://fr.wikipedia.org/wiki/Morne_Brabant"
+ },
+ "Mayon": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Mount_Mayon_Cagsawa_field_view_close-up_%28Busay%2C_Daraga%2C_Albay%3B_04-21-2023%29.jpg/1920px-Mount_Mayon_Cagsawa_field_view_close-up_%28Busay%2C_Daraga%2C_Albay%3B_04-21-2023%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mount_Mayon_Cagsawa_field_view_close-up_(Busay,_Daraga,_Albay;_04-21-2023).jpg",
+  "artist": "Patrickroque01",
+  "license": "CC BY-SA 4.0",
+  "lat": 13.25667,
+  "lon": 123.685,
+  "extract": "Le Mayon est un volcan actif des Philippines, sur l'île de Luçon, dans la province d'Albay, entre les villes de Legazpi au sud-est, Tabaco au nord-est et Ligao à l'ouest.",
+  "article": "https://fr.wikipedia.org/wiki/Mayon"
+ },
+ "Mission District, San Francisco": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Mission_High_School_%28cropped%29.jpg/1920px-Mission_High_School_%28cropped%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mission_High_School_(cropped).jpg",
+  "artist": "Dale Cruse from San Francisco, CA, USA",
+  "license": "CC BY 2.0",
+  "lat": 37.76,
+  "lon": -122.42,
+  "extract": "Mission District est le quartier le plus ancien de San Francisco : aménagé par les Espagnols, il doit son nom à la première mission espagnole fondée en 1791. Celle-ci a été le centre de l'évangélisation franciscaine dans la région.",
+  "article": "https://fr.wikipedia.org/wiki/Mission_District_(San_Francisco)"
+ },
+ "Mnemba Island": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Mnemba_island_water.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mnemba_island_water.jpg",
+  "artist": "Frequenttravellerrands",
+  "license": "CC BY-SA 4.0",
+  "lat": -5.82061,
+  "lon": 39.38369
+ },
+ "Napa Valley AVA": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/TTB_Map_Napa_Valley_AVA.png",
+  "page": "https://commons.wikimedia.org/wiki/File:TTB_Map_Napa_Valley_AVA.png",
+  "artist": "Unknown authorUnknown author",
+  "license": "Public domain",
+  "lat": 38.4012,
+  "lon": -122.33018,
+  "extract": "Napa Valley est une région viticole américaine dans le comté de Napa, en Californie. Elle est reconnue par l’Alcohol and Tobacco Tax and Trade Bureau.",
+  "article": "https://fr.wikipedia.org/wiki/Napa_Valley"
+ },
+ "North Beach, San Francisco": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/SF_Filbert_St_North_Beach_CA.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SF_Filbert_St_North_Beach_CA.jpg",
+  "artist": "Daniel Schwen",
+  "license": "CC BY-SA 2.5",
+  "lat": 37.80029,
+  "lon": -122.41018,
+  "extract": "North Beach est un quartier de San Francisco, en Californie.",
+  "article": "https://fr.wikipedia.org/wiki/North_Beach_(San_Francisco)"
+ },
+ "Nungwi": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Original_4b713299-08fb-4d32-9299-6844e8a97a78_IMG_20211201_154556.jpg/1920px-Original_4b713299-08fb-4d32-9299-6844e8a97a78_IMG_20211201_154556.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Original_4b713299-08fb-4d32-9299-6844e8a97a78_IMG_20211201_154556.jpg",
+  "artist": "Sansibar-freundeskreis.de",
+  "license": "CC BY-SA 4.0",
+  "lat": -5.726,
+  "lon": 39.296,
+  "extract": "Nungwi, ou Ras Nungwi, est un grand village situé à l’extrémité nord de l’île de Zanzibar. Avec une population de 30 762 habitants, Nungwi est la deuxième plus grande agglomération de l’île.",
+  "article": "https://fr.wikipedia.org/wiki/Nungwi"
+ },
+ "Painted ladies": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg/1920px-Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg",
+  "artist": "King of Hearts",
+  "license": "CC BY-SA 3.0",
+  "lat": 37.77639,
+  "lon": -122.43306,
+  "extract": "L'expression Painted Ladies est une appellation générique américaine désignant les maisons de style victorien et édouardien peintes en trois couleurs ou plus afin de rehausser leurs détails architecturaux.",
+  "article": "https://fr.wikipedia.org/wiki/Painted_Ladies"
+ },
+ "Point Reyes Lighthouse": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Point_Reyes_Lighthouse_in_December_2019.jpg/1920px-Point_Reyes_Lighthouse_in_December_2019.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Point_Reyes_Lighthouse_in_December_2019.jpg",
+  "artist": "Frank Schulenburg",
+  "license": "CC BY-SA 4.0",
+  "lat": 37.99562,
+  "lon": -123.02321,
+  "extract": "Le phare de Point Reyes est un phare maritime situé à la pointe du cap de Point Reyes dans le golfe des Farallones sur les côtes du nord de la Californie aux États-Unis. Il a été en service de 1870 à 1975.",
+  "article": "https://fr.wikipedia.org/wiki/Phare_de_Point_Reyes"
+ },
+ "Port Louis": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Port_Louis_Skyline.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Port_Louis_Skyline.JPG",
+  "artist": "Thierry",
+  "license": "CC BY-SA 3.0",
+  "lat": -20.16444,
+  "lon": 57.50417,
+  "extract": "Port-Louis est la capitale de Maurice. Située dans son propre district, peuplée de 149 194 habitants au recensement de 2015, la ville est aussi un port ouvert sur l'océan Indien et la plus grande ville du pays.",
+  "article": "https://fr.wikipedia.org/wiki/Port-Louis_(Maurice)"
+ },
+ "Redwood Regional Park": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/RedwoodRegional.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:RedwoodRegional.jpg",
+  "artist": "Binksternet (talk)",
+  "license": "Public domain",
+  "lat": 37.81356,
+  "lon": -122.16592
+ },
+ "Rockridge, Oakland, California": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/College_Avenue%2C_Rockridge_1.jpg/1920px-College_Avenue%2C_Rockridge_1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:College_Avenue,_Rockridge_1.jpg",
+  "artist": "Mx. Granger",
+  "license": "CC0",
+  "lat": 37.84278,
+  "lon": -122.24611
+ },
+ "Sir Seewoosagur Ramgoolam Botanical Garden": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Giant_water_lilies.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Giant_water_lilies.JPG",
+  "artist": "Condem at English Wikipedia",
+  "license": "Public domain",
+  "lat": -20.10815,
+  "lon": 57.57725,
+  "extract": "Le jardin botanique de Pamplemousses est un jardin botanique de trente-sept hectares situé à Maurice dans le district de Pamplemousses et la ville du même nom.",
+  "article": "https://fr.wikipedia.org/wiki/Jardin_botanique_Sir_Seewoosagur_Ramgoolam"
+ },
+ "Sonoma Plaza": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Sonoma_Plaza_west_lawn_%28cropped%29.jpg/1920px-Sonoma_Plaza_west_lawn_%28cropped%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sonoma_Plaza_west_lawn_(cropped).jpg",
+  "artist": "Carlton A. Lear",
+  "license": "CC BY-SA 4.0",
+  "lat": 38.29278,
+  "lon": -122.45778
+ },
+ "Souillac, Mauritius": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Souillac1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Souillac1.jpg",
+  "artist": "Public domainPublic domainfalsefalse\n\n\n\n  \n\nThis work has been released into the public domain by its author, Arasennaik, at the English Wikipedia project. This applies worldwide.\nIn case this is not legally possible: Arasennaik grants anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.\n\n.",
+  "license": "Public domain",
+  "lat": -20.51667,
+  "lon": 57.51667,
+  "extract": "Souillac est le chef-lieu du district de Savanne, un district de Maurice situé dans le sud de l'île principale. Elle doit son nom à François de Souillac, gouverneur de l'ile de 1779 à 1787.",
+  "article": "https://fr.wikipedia.org/wiki/Souillac_(Maurice)"
+ },
+ "Stone Town": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Zanzibar_sultan_palace.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Zanzibar_sultan_palace.jpg",
+  "artist": "No machine-readable author provided. Mbz1 assumed (based on copyright claims).",
+  "license": "CC BY-SA 3.0",
+  "lat": -6.1624,
+  "lon": 39.1913,
+  "extract": "Stone Town, c'est-à-dire la « ville de pierre », est le vieux quartier de Zanzibar, situé sur l'île d'Unguja,",
+  "article": "https://fr.wikipedia.org/wiki/Stone_Town"
+ },
+ "Sutro Baths": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sutro_Baths_in_San_Francisco.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sutro_Baths_in_San_Francisco.jpg",
+  "artist": "W. C. Billington, photographer",
+  "license": "Public domain",
+  "lat": 37.78,
+  "lon": -122.51361,
+  "extract": "Les Sutro Baths était un large complexe de piscine à San Francisco en Californie.",
+  "article": "https://fr.wikipedia.org/wiki/Sutro_Baths"
+ },
+ "Twin Peaks (San Francisco)": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Twin_Peaks_2022_Aerial.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Twin_Peaks_2022_Aerial.png",
+  "artist": "InvadingInvader",
+  "license": "CC BY-SA 4.0",
+  "lat": 37.75159,
+  "lon": -122.44772,
+  "extract": "Les Twin Peaks, littéralement les « pics jumeaux », sont deux collines culminant à 281 mètres et situées à San Francisco, en Californie. Elles représentent le deuxième point le plus haut de la ville après le mont Davidson.",
+  "article": "https://fr.wikipedia.org/wiki/Twin_Peaks_(San_Francisco)"
+ },
+ "University of California Botanical Garden": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Botanischer_Garten_in_Berkeley%2C_California.JPG/1920px-Botanischer_Garten_in_Berkeley%2C_California.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Botanischer_Garten_in_Berkeley,_California.JPG",
+  "artist": "Burkhard Mücke",
+  "license": "CC BY-SA 4.0",
+  "lat": 37.875,
+  "lon": -122.2375
+ },
+ "Île Sainte-Marie": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Beache_of_La_Crique_Sainte_Marie.jpg/1920px-Beache_of_La_Crique_Sainte_Marie.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Beache_of_La_Crique_Sainte_Marie.jpg",
+  "artist": "M worm",
+  "license": "Public domain",
+  "lat": -16.96667,
+  "lon": 49.86667,
+  "extract": "L'île Sainte-Marie, autrefois nommée Nosy-Ibrahim et devenue aujourd'hui en malgache Nosy Boraha, est une île et commune urbaine de Madagascar, située au nord-est de Fenoarivo Atsinanana dans la région d'Analanjirofo en face de Soanierana Ivongo dont elle est séparée par un chenal maritime de 30 km de large.",
+  "article": "https://fr.wikipedia.org/wiki/%C3%8Ele_Sainte-Marie"
+ },
+ "Île aux Cerfs": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Mauritius_%C3%8Ele_aux_Cerfs.jpg/1920px-Mauritius_%C3%8Ele_aux_Cerfs.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mauritius_%C3%8Ele_aux_Cerfs.jpg",
+  "artist": "Arne Müseler",
+  "license": "CC BY-SA 3.0 de",
+  "lat": -20.27222,
+  "lon": 57.80417,
+  "extract": "L’île aux Cerfs est un îlot côtier situé à l'est de l'île principale de la république de Maurice, dans l'océan Indien. L'île aux Cerfs doit son nom aux nombreux cerfs de java qui ont peuplé le centre de l'île.",
+  "article": "https://fr.wikipedia.org/wiki/%C3%8Ele_aux_Cerfs_(Maurice)"
  }
 }

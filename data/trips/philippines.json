@@ -1099,139 +1099,6 @@
       ]
     },
     {
-      "id": "alternatives-luzon",
-      "title": "Alternatives à Luzon",
-      "summary": "Deux idées pour remplacer ou compléter le début du voyage : Banaue et ses rizières, ou le volcan Mayon et les requins-baleines de Donsol.",
-      "blocks": [
-        {
-          "type": "heading",
-          "text": "Banaue et Batad"
-        },
-        {
-          "type": "table",
-          "columns": [
-            "Jour",
-            "Lieu",
-            "Transport",
-            "Hébergement",
-            "Activités",
-            "Points d'intérêt"
-          ],
-          "rows": [
-            [
-              "0",
-              "Manille → Banaue",
-              "Bus de nuit (9 h)",
-              "Bus de nuit",
-              "Trajet",
-              "Manille la journée, trajet le soir"
-            ],
-            [
-              "1",
-              "Banaue",
-              "-",
-              "Auberge à Banaue ou Batad",
-              "Exploration et randonnée",
-              "Rizières de Banaue et de Batad, cascade de Tappiya"
-            ],
-            [
-              "2",
-              "Banaue → Manille",
-              "Bus de nuit (9 h)",
-              "Bus de nuit",
-              "Exploration et randonnée",
-              "Terrasses de Bangaan, village de Batad"
-            ]
-          ]
-        },
-        {
-          "type": "heading",
-          "text": "Mont Mayon et Donsol"
-        },
-        {
-          "type": "table",
-          "columns": [
-            "Jour",
-            "Lieu",
-            "Transport",
-            "Hébergement",
-            "Activités",
-            "Points d'intérêt"
-          ],
-          "rows": [
-            [
-              "1",
-              "Manille → Legazpi (mont Mayon)",
-              "Vol",
-              "Hôtel à Legazpi",
-              "Découverte du volcan Mayon",
-              "Mont Mayon, parc écologique de Ligñon Hill, ruines de Cagsawa, balade en ATV"
-            ],
-            [
-              "2",
-              "Legazpi → Donsol",
-              "Transfert privé",
-              "Hôtel à Donsol",
-              "Détente et exploration",
-              "Quitinday Hills, plages environnantes"
-            ],
-            [
-              "3",
-              "Donsol",
-              "Tour requins-baleines + lucioles",
-              "Hôtel à Donsol",
-              "Exploration marine",
-              "Tour des requins-baleines, tour des lucioles de l'Ogod River"
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "alternative-camiguin",
-      "title": "Alternative : Camiguin",
-      "summary": "Trois jours à Camiguin, à la place de Siquijor.",
-      "blocks": [
-        {
-          "type": "table",
-          "columns": [
-            "Jour",
-            "Lieu",
-            "Transport",
-            "Hébergement",
-            "Activités",
-            "Points d'intérêt"
-          ],
-          "rows": [
-            [
-              "1",
-              "Panglao → Camiguin",
-              "Ferry + van local",
-              "Hôtel à Camiguin (Balai sa Baibai)",
-              "Exploration marine",
-              "White Island, snorkeling"
-            ],
-            [
-              "2",
-              "Camiguin",
-              "-",
-              "Hôtel à Camiguin",
-              "Exploration nature",
-              "Sources chaudes d'Ardent, cascade de Katibawasan"
-            ],
-            [
-              "3",
-              "Camiguin",
-              "-",
-              "Hôtel à Camiguin",
-              "Découverte culturelle et marine",
-              "Île de Mantigue, Sunken Cemetery"
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "reserver-sur-agoda",
       "title": "Astuce : réserver sur Agoda",
       "summary": "Comment obtenir les meilleurs tarifs d'hôtel sur Agoda, d'après un professionnel qui y réserve environ 20 chambres par semaine.",
@@ -1316,6 +1183,556 @@
     {
       "from": 12,
       "title": "Siquijor"
+    }
+  ],
+  "variantLabel": "Principal",
+  "variants": [
+    {
+      "id": "banaue",
+      "label": "Banaue",
+      "from": 1,
+      "to": 2,
+      "subtitle": "De Luzon à Siquijor : rizières de Banaue, lagons de Palawan, croisière vers Coron, Bohol et île mystique",
+      "sections": [
+        {
+          "from": 1,
+          "title": "Luzon : Banaue et Batad"
+        },
+        {
+          "from": 4,
+          "title": "Palawan : El Nido et la croisière"
+        },
+        {
+          "from": 8,
+          "title": "Coron"
+        },
+        {
+          "from": 11,
+          "title": "Bohol"
+        },
+        {
+          "from": 13,
+          "title": "Siquijor"
+        }
+      ],
+      "days": [
+        {
+          "title": "Manille, puis bus de nuit vers Banaue",
+          "summary": "Arrivée à Manille le matin, après le vol de nuit. Journée à Manille, puis bus de nuit vers Banaue.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Aéroport de Manille (NAIA)",
+              "coords": [
+                14.5122,
+                121.0219
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Intramuros",
+              "wiki": "Intramuros",
+              "culture": "Ville fortifiée fondée par les Espagnols en 1571, cœur historique de Manille, ceinte de remparts d'environ 4 km. Elle a été presque détruite pendant la bataille de Manille, en 1945.",
+              "optional": true
+            },
+            {
+              "name": "Rizal Park",
+              "wiki": "Rizal Park",
+              "culture": "Grand parc de Manille consacré au héros national José Rizal, fusillé à cet endroit en 1896. Son monument abrite ses restes.",
+              "optional": true
+            },
+            {
+              "name": "Greenhills",
+              "coords": [
+                14.601,
+                121.0466
+              ],
+              "culture": "Quartier de San Juan, dans l'agglomération de Manille, connu pour son centre commercial où l'on marchande perles, gadgets et vêtements.",
+              "optional": true
+            },
+            {
+              "name": "Quartier BGC",
+              "coords": [
+                14.5504,
+                121.0485
+              ],
+              "culture": "Quartier d'affaires moderne bâti sur l'ancienne base militaire de Fort Bonifacio, avec ses tours, ses parcs et ses fresques de rue.",
+              "optional": true
+            }
+          ],
+          "stay": {
+            "name": "Bus de nuit",
+            "coords": [
+              16.92,
+              121.06
+            ],
+            "note": "Nuit dans le bus, arrivée à Banaue au matin"
+          },
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Paris → Manille : 10 h en direct, 17 à 20 h avec escale"
+            },
+            {
+              "mode": "bus",
+              "text": "Bus de nuit Manille → Banaue : environ 9 h"
+            }
+          ]
+        },
+        {
+          "title": "Banaue et Batad",
+          "summary": "Randonnée dans les rizières en terrasses de Banaue et de Batad, classées par l'UNESCO, jusqu'à la cascade de Tappiya.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Rizières de Banaue",
+              "coords": [
+                16.92,
+                121.06
+              ],
+              "wiki": "Banaue Rice Terraces"
+            },
+            {
+              "name": "Batad",
+              "coords": [
+                16.96,
+                121.11
+              ],
+              "wiki": "Batad"
+            },
+            {
+              "name": "Cascade de Tappiya",
+              "coords": [
+                16.955,
+                121.12
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Auberge à Batad",
+            "coords": [
+              16.96,
+              121.11
+            ],
+            "note": "Auberge à Banaue ou à Batad"
+          }
+        },
+        {
+          "title": "Bangaan, puis bus de nuit vers Manille",
+          "summary": "Les terrasses de Bangaan et le village de Batad, puis bus de nuit vers Manille.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Rizières de Bangaan",
+              "coords": [
+                16.98,
+                121.14
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Bus de nuit",
+            "coords": [
+              14.5995,
+              120.9842
+            ],
+            "note": "Nuit dans le bus, arrivée à Manille au matin"
+          },
+          "transport": [
+            {
+              "mode": "bus",
+              "text": "Bus de nuit Banaue → Manille : environ 9 h"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mayon",
+      "label": "Mayon et Donsol",
+      "from": 1,
+      "to": 3,
+      "subtitle": "Du volcan Mayon à Siquijor : requins-baleines de Donsol, lagons de Palawan, croisière vers Coron, Bohol et île mystique",
+      "sections": [
+        {
+          "from": 1,
+          "title": "Bicol : Mayon et Donsol"
+        },
+        {
+          "from": 4,
+          "title": "Palawan : El Nido et la croisière"
+        },
+        {
+          "from": 8,
+          "title": "Coron"
+        },
+        {
+          "from": 11,
+          "title": "Bohol"
+        },
+        {
+          "from": 13,
+          "title": "Siquijor"
+        }
+      ],
+      "days": [
+        {
+          "title": "Manille ➔ Legazpi et le volcan Mayon",
+          "summary": "Arrivée à Manille le matin et vol vers Legazpi, au pied du Mayon, le volcan au cône parfait : parc de Ligñon Hill, ruines de Cagsawa, et balade en quad.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Aéroport de Manille (NAIA)",
+              "coords": [
+                14.5122,
+                121.0219
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Aéroport de Bicol",
+              "coords": [
+                13.111,
+                123.677
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Volcan Mayon",
+              "coords": [
+                13.257,
+                123.685
+              ],
+              "wiki": "Mayon"
+            },
+            {
+              "name": "Ligñon Hill",
+              "coords": [
+                13.16,
+                123.73
+              ]
+            },
+            {
+              "name": "Ruines de Cagsawa",
+              "coords": [
+                13.166,
+                123.666
+              ],
+              "wiki": "Cagsawa Ruins"
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Legazpi",
+            "coords": [
+              13.14,
+              123.74
+            ],
+            "note": "Hôtel à Legazpi"
+          },
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Paris → Manille : 10 h en direct, 17 à 20 h avec escale"
+            },
+            {
+              "mode": "flight",
+              "text": "Manille → Legazpi : environ 1 h 15"
+            }
+          ]
+        },
+        {
+          "title": "Legazpi ➔ Donsol",
+          "summary": "Transfert vers Donsol par les collines de Quitinday, et les plages des environs.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Collines de Quitinday",
+              "coords": [
+                13.17,
+                123.62
+              ]
+            },
+            {
+              "name": "Donsol",
+              "coords": [
+                12.91,
+                123.59
+              ],
+              "wiki": "Donsol"
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Donsol",
+            "coords": [
+              12.91,
+              123.59
+            ],
+            "note": "Hôtel à Donsol"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Transfert privé : environ 1 h 30"
+            }
+          ]
+        },
+        {
+          "title": "Donsol : requins-baleines et lucioles",
+          "summary": "Sortie en mer avec les requins-baleines, puis le soir les lucioles de la rivière Ogod.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Baie de Donsol (requins-baleines)",
+              "coords": [
+                12.88,
+                123.55
+              ],
+              "by": "boat"
+            },
+            {
+              "name": "Rivière Ogod",
+              "coords": [
+                12.9,
+                123.6
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Donsol",
+            "coords": [
+              12.91,
+              123.59
+            ],
+            "note": "Même hébergement que la veille"
+          },
+          "transport": [
+            {
+              "mode": "boat",
+              "text": "Sortie requins-baleines, puis tour des lucioles"
+            }
+          ],
+          "notes": [
+            "Les requins-baleines sont à Donsol à peu près de novembre à juin, avec un pic de février à mai ; snorkeling seulement, sans les toucher."
+          ]
+        },
+        {
+          "use": 3,
+          "title": "Donsol ➔ Legazpi ➔ Manille ➔ Puerto Princesa",
+          "summary": "Route vers Legazpi et vol vers Palawan, via Manille. Puis Puerto Princesa : rivière souterraine, tour des lucioles et du plancton bioluminescent sur l'Iwahig River, plage de Nagtabon.",
+          "stops": [
+            {
+              "name": "Aéroport de Bicol",
+              "coords": [
+                13.111,
+                123.677
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Aéroport de Manille (NAIA)",
+              "coords": [
+                14.5122,
+                121.0219
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Aéroport de Puerto Princesa",
+              "coords": [
+                9.7424,
+                118.7584
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Rivière souterraine de Puerto Princesa",
+              "wiki": "Puerto Princesa Underground River",
+              "culture": "Rivière d'environ 8 km qui traverse des grottes et se jette directement dans la mer. Inscrite à l'UNESCO en 1999, elle a été élue l'une des Sept nouvelles merveilles de la nature."
+            },
+            {
+              "name": "Iwahig River",
+              "coords": [
+                9.7,
+                118.7
+              ],
+              "culture": "Rivière de la côte de Puerto Princesa, où des bateaux emmènent le soir observer des lucioles dans la mangrove.",
+              "photo": "File:Iwahig River, Puerto Princesa.jpg"
+            },
+            {
+              "name": "Plage de Nagtabon",
+              "photo": "File:Nagtabon Beach, Puerto Princesa (Unsplash).jpg",
+              "coords": [
+                9.733,
+                118.583
+              ],
+              "culture": "Plage de sable blanc sauvage, à l'ouest de Puerto Princesa, adossée à la forêt."
+            }
+          ],
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Donsol → aéroport de Bicol : environ 1 h 30"
+            },
+            {
+              "mode": "flight",
+              "text": "Legazpi → Manille → Puerto Princesa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camiguin",
+      "label": "Camiguin",
+      "from": 12,
+      "to": 15,
+      "subtitle": "De Luzon à Camiguin : volcan Pinatubo, lagons de Palawan, croisière vers Coron, Bohol et île volcanique",
+      "sections": [
+        {
+          "from": 1,
+          "title": "Luzon : Pinatubo et Manille"
+        },
+        {
+          "from": 3,
+          "title": "Palawan : El Nido et la croisière"
+        },
+        {
+          "from": 7,
+          "title": "Coron"
+        },
+        {
+          "from": 10,
+          "title": "Bohol"
+        },
+        {
+          "from": 12,
+          "title": "Camiguin"
+        }
+      ],
+      "days": [
+        {
+          "title": "Panglao ➔ Camiguin",
+          "summary": "Ferry et van jusqu'à Camiguin, puis White Island, un banc de sable blanc face au volcan, avec snorkeling.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Port de Jagna",
+              "coords": [
+                9.65,
+                124.37
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Port de Benoni",
+              "coords": [
+                9.13,
+                124.79
+              ],
+              "hidden": true,
+              "by": "boat"
+            },
+            {
+              "name": "White Island",
+              "coords": [
+                9.255,
+                124.66
+              ],
+              "by": "boat"
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Camiguin",
+            "coords": [
+              9.25,
+              124.67
+            ],
+            "note": "Hôtel Balai sa Baibai",
+            "options": [
+              "Balai sa Baibai"
+            ]
+          },
+          "transport": [
+            {
+              "mode": "boat",
+              "text": "Ferry Jagna → Camiguin, puis van local"
+            }
+          ]
+        },
+        {
+          "title": "Camiguin : sources chaudes et cascades",
+          "summary": "Les sources chaudes d'Ardent et la cascade de Katibawasan, dans la forêt au pied du volcan.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Sources chaudes d'Ardent",
+              "coords": [
+                9.21,
+                124.71
+              ]
+            },
+            {
+              "name": "Cascade de Katibawasan",
+              "coords": [
+                9.21,
+                124.73
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Camiguin",
+            "coords": [
+              9.25,
+              124.67
+            ],
+            "note": "Même hébergement que la veille"
+          }
+        },
+        {
+          "title": "Camiguin : Mantigue et le cimetière englouti",
+          "summary": "L'îlot de Mantigue et son récif, puis le Sunken Cemetery, englouti lors d'une éruption en 1871.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Île de Mantigue",
+              "coords": [
+                9.17,
+                124.82
+              ],
+              "by": "boat"
+            },
+            {
+              "name": "Sunken Cemetery",
+              "coords": [
+                9.22,
+                124.63
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Camiguin",
+            "coords": [
+              9.25,
+              124.67
+            ],
+            "note": "Même hébergement que la veille"
+          }
+        },
+        {
+          "use": 15,
+          "title": "Camiguin ➔ Manille ➔ Paris",
+          "summary": "Vol retour vers Paris, via Manille.",
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Camiguin → Manille → Paris"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

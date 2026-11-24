@@ -1266,156 +1266,6 @@
       ]
     },
     {
-      "id": "option-ile-maurice",
-      "title": "Option : l'île Maurice (10 jours)",
-      "summary": "Semaine 3 à l'île Maurice plutôt qu'aux Seychelles.",
-      "blocks": [
-        {
-          "type": "table",
-          "columns": [
-            "Jour",
-            "Lieu",
-            "Transport",
-            "Hébergement",
-            "Activités et points d'intérêt"
-          ],
-          "rows": [
-            [
-              "1",
-              "Arrivée à l'île Maurice",
-              "Vol",
-              "Hôtel à Flic-en-Flac",
-              "Installation à l'hôtel, détente sur la plage de Flic-en-Flac et exploration des environs. Option : plongée au coucher du soleil."
-            ],
-            [
-              "2",
-              "Sud-Ouest de l'île",
-              "Voiture de location",
-              "Hôtel à Flic-en-Flac",
-              "Randonnée dans les gorges de Rivière Noire, Terres des 7 couleurs de Chamarel et chutes de Chamarel, visite d'une rhumerie locale."
-            ],
-            [
-              "3",
-              "Sud de l'île",
-              "Voiture de location",
-              "Hôtel à Bel Ombre",
-              "Parc de la Vanille (tortues et crocodiles), Gris-Gris, La Roche qui Pleure, promenade à Souillac, balade à Heritage Nature Reserve en quad ou en safari, déjeuner au cœur de la nature, château de Bel Ombre."
-            ],
-            [
-              "4",
-              "Île aux Cerfs",
-              "Voiture + bateau",
-              "Hôtel à Trou d'Eau Douce",
-              "Journée à l'île aux Cerfs : activités nautiques (kayak, jet ski), baignade, barbecue sur la plage. Retour en soirée."
-            ],
-            [
-              "5",
-              "Nord-Est et Grand Baie",
-              "Voiture de location",
-              "Resort à Grand Baie",
-              "Pointe aux Canonniers, plage de Mont Choisy, château de Labourdonnais, shopping à Grand Baie."
-            ],
-            [
-              "6",
-              "Nord de l'île",
-              "Voiture de location",
-              "Resort à Grand Baie",
-              "Excursion en bateau pour observer dauphins et baleines, snorkeling à Coin de Mire, détente sur la plage de Pereybère."
-            ],
-            [
-              "7",
-              "Île Plate et îlot Gabriel",
-              "Bateau privé ou excursion organisée",
-              "Resort à Grand Baie",
-              "Journée farniente sur des plages isolées, snorkeling ou plongée dans des eaux turquoise."
-            ],
-            [
-              "8",
-              "Port Louis et centre",
-              "Voiture de location",
-              "Hôtel à Port Louis",
-              "Marché central, La Citadelle, Blue Penny Museum, après-midi au jardin botanique de Pamplemousses."
-            ],
-            [
-              "9",
-              "Sud-Est de l'île",
-              "Voiture de location",
-              "Hôtel à Blue Bay ou Bel Ombre",
-              "Journée détente à Blue Bay Marine Park, snorkeling dans les eaux cristallines, exploration de l'île des Deux Cocos."
-            ],
-            [
-              "10",
-              "Départ",
-              "Voiture + vol",
-              "-",
-              "Derniers moments à l'hôtel ou sur une plage proche, vol retour."
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "option-zanzibar",
-      "title": "Option : Zanzibar, plages et culture (6 jours)",
-      "summary": "Semaine 3 à Zanzibar, depuis Nairobi.",
-      "blocks": [
-        {
-          "type": "table",
-          "columns": [
-            "Jour",
-            "Lieu",
-            "Transport",
-            "Hébergement",
-            "Activités et points d'intérêt"
-          ],
-          "rows": [
-            [
-              "Lundi 15",
-              "Nairobi → Stone Town (Zanzibar)",
-              "Vol domestique (2 h)",
-              "Hôtel à Stone Town (ex. Emerson Spice Hotel)",
-              "Découverte historique de la vieille ville : fort arabe, ruelles labyrinthiques, marchés d'épices (Darajani Market, mais beaucoup de sollicitations, façon Marrakech), boutiques d'artisanat, dîner traditionnel (6 Degrees South). Banc de sable de Nakupenda, ou Nakupenda bis, en excursion."
-            ],
-            [
-              "Mardi 16",
-              "Kendwa / Nungwi (plus touristique)",
-              "Voiture (1 h 30)",
-              "Hôtel à Kendwa (ex. Karafuu Beach Resort & Spa) ou à Nungwi (ex. Zuri Zanzibar)",
-              "Plage, snorkeling (mais pas incroyable), coucher du soleil, ferme aux tortues, villages locaux. Kendwa : plages immaculées, eaux turquoise, plongée. Nungwi : plages de sable blanc, réserve de tortues marines, coucher de soleil mémorable."
-            ],
-            [
-              "Mercredi 17",
-              "Matemwe et atoll de Mnemba",
-              "Excursion en bateau (1 h)",
-              "Hôtel à Matemwe (ex. Matemwe Retreat, Sunrise Beach at Bandas, Sevi Boutique Hôtel, Salama & Mbuyuni Bungalows)",
-              "Plongée ou snorkeling sur l'atoll de Mnemba : biodiversité marine exceptionnelle, poissons colorés, coraux. Accessible aussi depuis Kiwengwa."
-            ],
-            [
-              "Jeudi 18",
-              "Forêt de Jozani (parc national de Jozani Chwaka Bay) et Jambiani",
-              "Voiture (2 h)",
-              "Lodge près de Jambiani (ex. The Residence, Sharazād Boutique Hôtel, Kijani Beach Villas, Mwezi Boutique Resort)",
-              "Rencontre avec les colobes rouges, randonnée dans les mangroves, plantes médicinales. Sur la route du sud : Pongwe Beach, ou Pingwe Beach (différente) et le fameux restaurant The Rock."
-            ],
-            [
-              "Vendredi 19",
-              "Jambiani et plage de Mtende",
-              "-",
-              "-",
-              "Plage, villages environnants : plages de sable blanc, vie locale authentique (récolte d'algues), excursion en dhow dans le lagon. Mtende (Secret Beach) : la plus belle de l'île selon la page, avec l'excellent restaurant Usumba Rock."
-            ],
-            [
-              "Samedi 20",
-              "Zanzibar → retour",
-              "Vol international",
-              "-",
-              "Derniers moments sur la plage avant le départ, shopping artisanal dans les marchés locaux."
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "liens",
       "title": "Liens utiles",
       "summary": "Itinéraires et récits de voyage consultés.",
@@ -1459,6 +1309,790 @@
     {
       "from": 18,
       "title": "La Digue, puis retour à Mahé"
+    }
+  ],
+  "variantLabel": "Seychelles",
+  "variants": [
+    {
+      "id": "maurice",
+      "label": "Île Maurice",
+      "from": 12,
+      "to": 22,
+      "subtitle": "Safaris du Kilimandjaro au Masai Mara, puis dix jours à l'île Maurice",
+      "sections": [
+        {
+          "from": 1,
+          "title": "Kilimandjaro et Amboseli"
+        },
+        {
+          "from": 4,
+          "title": "Tarangire, lac Natron et Ngorongoro"
+        },
+        {
+          "from": 8,
+          "title": "Serengeti et Masai Mara"
+        },
+        {
+          "from": 12,
+          "title": "L'île Maurice"
+        }
+      ],
+      "days": [
+        {
+          "title": "Départ vers l'île Maurice",
+          "summary": "Vol depuis la savane ou route jusqu'à Nairobi, puis vol vers l'île Maurice, installation à Flic-en-Flac et premier coucher de soleil sur la plage.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Aéroport du Serengeti",
+              "wiki": "Seronera Airstrip",
+              "coords": [
+                -2.458,
+                34.813
+              ],
+              "culture": "Piste de Seronera, au centre du parc, utilisée pour les vols de safari.",
+              "hidden": true
+            },
+            {
+              "name": "Nairobi",
+              "wiki": "Nairobi"
+            },
+            {
+              "name": "Aéroport de Maurice (MRU)",
+              "coords": [
+                -20.4302,
+                57.6836
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Plage de Flic-en-Flac",
+              "coords": [
+                -20.274,
+                57.365
+              ],
+              "wiki": "Flic en Flac"
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Flic-en-Flac",
+            "coords": [
+              -20.274,
+              57.371
+            ],
+            "note": "Hôtel à Flic-en-Flac"
+          },
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Vol depuis la savane (aéroport du Serengeti), ou voiture jusqu'à Arusha ou Nairobi"
+            },
+            {
+              "mode": "flight",
+              "text": "Nairobi → île Maurice"
+            }
+          ]
+        },
+        {
+          "title": "Le sud-ouest : Rivière Noire et Chamarel",
+          "summary": "Randonnée dans les gorges de Rivière Noire, les Terres des 7 couleurs et les chutes de Chamarel, puis la visite d'une rhumerie.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Gorges de Rivière Noire",
+              "coords": [
+                -20.42,
+                57.43
+              ],
+              "wiki": "Black River Gorges National Park"
+            },
+            {
+              "name": "Terres des 7 couleurs de Chamarel",
+              "coords": [
+                -20.44,
+                57.373
+              ],
+              "wiki": "Chamarel"
+            },
+            {
+              "name": "Chutes de Chamarel",
+              "coords": [
+                -20.4424,
+                57.3855
+              ]
+            },
+            {
+              "name": "Rhumerie de Chamarel",
+              "coords": [
+                -20.43,
+                57.39
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Flic-en-Flac",
+            "coords": [
+              -20.274,
+              57.371
+            ],
+            "note": "Même hébergement que la veille"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Voiture de location"
+            }
+          ]
+        },
+        {
+          "title": "Le sud : Gris-Gris, Souillac et Bel Ombre",
+          "summary": "La côte sauvage du sud : le parc de la Vanille et ses tortues géantes, Gris-Gris et La Roche qui Pleure, Souillac, puis la réserve de Bel Ombre et son château.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "La Vanille Nature Park",
+              "coords": [
+                -20.499,
+                57.564
+              ]
+            },
+            {
+              "name": "Gris-Gris",
+              "coords": [
+                -20.523,
+                57.528
+              ]
+            },
+            {
+              "name": "La Roche qui Pleure",
+              "coords": [
+                -20.518,
+                57.52
+              ]
+            },
+            {
+              "name": "Souillac",
+              "coords": [
+                -20.517,
+                57.517
+              ],
+              "wiki": "Souillac, Mauritius"
+            },
+            {
+              "name": "Heritage Nature Reserve",
+              "coords": [
+                -20.47,
+                57.42
+              ]
+            },
+            {
+              "name": "Château de Bel Ombre",
+              "coords": [
+                -20.502,
+                57.41
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Bel Ombre",
+            "coords": [
+              -20.502,
+              57.41
+            ],
+            "note": "Hôtel à Bel Ombre"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Voiture de location"
+            }
+          ],
+          "ideas": [
+            "Balade en quad ou en 4x4 dans la réserve, et déjeuner au cœur de la nature."
+          ]
+        },
+        {
+          "title": "L'île aux Cerfs",
+          "summary": "Journée à l'île aux Cerfs : baignade, kayak et barbecue sur la plage, puis retour en soirée.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Embarcadère de Trou d'Eau Douce",
+              "coords": [
+                -20.24,
+                57.79
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Île aux Cerfs",
+              "coords": [
+                -20.272,
+                57.805
+              ],
+              "wiki": "Île aux Cerfs",
+              "by": "boat"
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Trou d'Eau Douce",
+            "coords": [
+              -20.24,
+              57.79
+            ],
+            "note": "Hôtel à Trou d'Eau Douce"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Bel Ombre → Trou d'Eau Douce : environ 1 h 15"
+            },
+            {
+              "mode": "boat",
+              "text": "Bateau vers l'île aux Cerfs : environ 20 min"
+            }
+          ],
+          "notes": [
+            "L'île aux Cerfs est la sortie la plus fréquentée de l'île, avec jet-skis et parachute ascensionnel : y aller tôt, ou préférer un tour en bateau des îlots de la côte est."
+          ]
+        },
+        {
+          "title": "Le nord-est et Grand Baie",
+          "summary": "La pointe aux Canonniers, la plage de Mont Choisy, le château de Labourdonnais et ses vergers, puis Grand Baie.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Pointe aux Canonniers",
+              "coords": [
+                -20.0,
+                57.56
+              ]
+            },
+            {
+              "name": "Plage de Mont Choisy",
+              "coords": [
+                -20.02,
+                57.55
+              ]
+            },
+            {
+              "name": "Château de Labourdonnais",
+              "coords": [
+                -20.07,
+                57.65
+              ]
+            },
+            {
+              "name": "Grand Baie",
+              "coords": [
+                -20.01,
+                57.58
+              ],
+              "wiki": "Grand Baie"
+            }
+          ],
+          "stay": {
+            "name": "Resort à Grand Baie",
+            "coords": [
+              -20.01,
+              57.58
+            ],
+            "note": "Resort à Grand Baie"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Voiture de location"
+            }
+          ]
+        },
+        {
+          "title": "Le nord : dauphins et Coin de Mire",
+          "summary": "Sortie en bateau pour voir les dauphins, snorkeling au pied du Coin de Mire, puis la plage de Pereybère.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Port de Grand Baie",
+              "coords": [
+                -20.01,
+                57.58
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Coin de Mire",
+              "coords": [
+                -19.94,
+                57.62
+              ],
+              "wiki": "Coin de Mire",
+              "by": "boat"
+            },
+            {
+              "name": "Plage de Pereybère",
+              "coords": [
+                -19.99,
+                57.59
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Resort à Grand Baie",
+            "coords": [
+              -20.01,
+              57.58
+            ],
+            "note": "Même hébergement que la veille"
+          },
+          "transport": [
+            {
+              "mode": "boat",
+              "text": "Sortie en bateau à la demi-journée"
+            }
+          ]
+        },
+        {
+          "title": "L'île Plate et l'îlot Gabriel",
+          "summary": "Journée sur les plages isolées de l'île Plate et de l'îlot Gabriel, avec snorkeling ou plongée.",
+          "route": "none",
+          "stops": [
+            {
+              "name": "Port de Grand Baie",
+              "coords": [
+                -20.01,
+                57.58
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Île Plate",
+              "coords": [
+                -19.87,
+                57.65
+              ],
+              "by": "boat"
+            },
+            {
+              "name": "Îlot Gabriel",
+              "coords": [
+                -19.89,
+                57.66
+              ],
+              "by": "boat"
+            }
+          ],
+          "stay": {
+            "name": "Resort à Grand Baie",
+            "coords": [
+              -20.01,
+              57.58
+            ],
+            "note": "Même hébergement que la veille"
+          },
+          "transport": [
+            {
+              "mode": "boat",
+              "text": "Bateau privé ou excursion organisée"
+            }
+          ]
+        },
+        {
+          "title": "Port Louis et Pamplemousses",
+          "summary": "Le marché central, la Citadelle et le Blue Penny Museum à Port Louis, puis l'après-midi au jardin botanique de Pamplemousses.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Marché central de Port Louis",
+              "coords": [
+                -20.161,
+                57.503
+              ],
+              "wiki": "Port Louis"
+            },
+            {
+              "name": "La Citadelle (Fort Adélaïde)",
+              "coords": [
+                -20.164,
+                57.508
+              ]
+            },
+            {
+              "name": "Blue Penny Museum",
+              "coords": [
+                -20.16,
+                57.4985
+              ]
+            },
+            {
+              "name": "Jardin botanique de Pamplemousses",
+              "coords": [
+                -20.104,
+                57.58
+              ],
+              "wiki": "Sir Seewoosagur Ramgoolam Botanical Garden"
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Port Louis",
+            "coords": [
+              -20.16,
+              57.5
+            ],
+            "note": "Hôtel à Port Louis"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Voiture de location"
+            }
+          ]
+        },
+        {
+          "title": "Le sud-est : Blue Bay",
+          "summary": "Journée détente au parc marin de Blue Bay, snorkeling dans l'eau claire et l'île des Deux Cocos.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Parc marin de Blue Bay",
+              "coords": [
+                -20.444,
+                57.716
+              ],
+              "wiki": "Blue Bay Marine Park"
+            },
+            {
+              "name": "Île des Deux Cocos",
+              "coords": [
+                -20.45,
+                57.72
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Blue Bay",
+            "coords": [
+              -20.444,
+              57.71
+            ],
+            "note": "Hôtel à Blue Bay ou à Bel Ombre"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Port Louis → Blue Bay : environ 1 h"
+            }
+          ]
+        },
+        {
+          "title": "Départ",
+          "summary": "Derniers moments sur une plage proche, puis vol retour.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Aéroport de Maurice (MRU)",
+              "coords": [
+                -20.4302,
+                57.6836
+              ],
+              "hidden": true
+            }
+          ],
+          "stay": null,
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Vol retour"
+            }
+          ],
+          "end": "Vol retour depuis l'île Maurice"
+        }
+      ]
+    },
+    {
+      "id": "zanzibar",
+      "label": "Zanzibar",
+      "from": 12,
+      "to": 22,
+      "subtitle": "Safaris du Kilimandjaro au Masai Mara, puis Zanzibar : Stone Town, l'atoll de Mnemba et les plages du sud",
+      "sections": [
+        {
+          "from": 1,
+          "title": "Kilimandjaro et Amboseli"
+        },
+        {
+          "from": 4,
+          "title": "Tarangire, lac Natron et Ngorongoro"
+        },
+        {
+          "from": 8,
+          "title": "Serengeti et Masai Mara"
+        },
+        {
+          "from": 12,
+          "title": "Zanzibar"
+        }
+      ],
+      "days": [
+        {
+          "title": "Départ vers Zanzibar, Stone Town",
+          "summary": "Vol depuis la savane ou route jusqu'à Nairobi, puis vol vers Zanzibar et la vieille ville de Stone Town : fort arabe, ruelles et marché d'épices.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Aéroport du Serengeti",
+              "wiki": "Seronera Airstrip",
+              "coords": [
+                -2.458,
+                34.813
+              ],
+              "culture": "Piste de Seronera, au centre du parc, utilisée pour les vols de safari.",
+              "hidden": true
+            },
+            {
+              "name": "Nairobi",
+              "wiki": "Nairobi"
+            },
+            {
+              "name": "Aéroport de Zanzibar",
+              "coords": [
+                -6.222,
+                39.2249
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Stone Town",
+              "coords": [
+                -6.162,
+                39.188
+              ],
+              "wiki": "Stone Town"
+            },
+            {
+              "name": "Fort arabe",
+              "coords": [
+                -6.1625,
+                39.1877
+              ]
+            },
+            {
+              "name": "Marché de Darajani",
+              "coords": [
+                -6.159,
+                39.196
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Stone Town",
+            "coords": [
+              -6.162,
+              39.188
+            ],
+            "note": "Hôtel à Stone Town",
+            "options": [
+              "Emerson Spice Hotel"
+            ]
+          },
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Vol depuis la savane (aéroport du Serengeti), ou voiture jusqu'à Arusha ou Nairobi"
+            },
+            {
+              "mode": "flight",
+              "text": "Nairobi → Zanzibar : vol domestique, environ 2 h"
+            }
+          ]
+        },
+        {
+          "title": "Kendwa et Nungwi",
+          "summary": "Plages du nord, coucher du soleil sur l'océan, réserve de tortues marines et villages voisins. C'est la partie la plus touristique de l'île.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Nungwi",
+              "coords": [
+                -5.727,
+                39.298
+              ],
+              "wiki": "Nungwi"
+            },
+            {
+              "name": "Plage de Kendwa",
+              "coords": [
+                -5.75,
+                39.29
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Kendwa",
+            "coords": [
+              -5.75,
+              39.29
+            ],
+            "note": "Hôtel à Kendwa ou à Nungwi",
+            "options": [
+              "Zuri Zanzibar, à Kendwa"
+            ]
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Stone Town → Kendwa : environ 1 h 30"
+            }
+          ],
+          "notes": [
+            "Le snorkeling n'y est pas extraordinaire : mieux vaut le garder pour Mnemba le lendemain."
+          ]
+        },
+        {
+          "title": "Matemwe et l'atoll de Mnemba",
+          "summary": "Plongée ou snorkeling sur l'atoll de Mnemba, l'un des plus riches de l'océan Indien : poissons colorés, coraux, parfois dauphins.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Atoll de Mnemba",
+              "coords": [
+                -5.82,
+                39.38
+              ],
+              "wiki": "Mnemba Island",
+              "by": "boat"
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Matemwe",
+            "coords": [
+              -5.87,
+              39.35
+            ],
+            "note": "Hôtel à Matemwe",
+            "options": [
+              "Matemwe Retreat",
+              "Sunrise Beach at Bandas",
+              "Sevi Boutique Hotel",
+              "Salama & Mbuyuni Bungalows"
+            ]
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Kendwa → Matemwe : environ 45 min"
+            },
+            {
+              "mode": "boat",
+              "text": "Bateau vers Mnemba : environ 1 h (accessible aussi depuis Kiwengwa)"
+            }
+          ]
+        },
+        {
+          "title": "La forêt de Jozani, puis Jambiani",
+          "summary": "Les colobes rouges de la forêt de Jozani, une marche dans la mangrove et les plantes médicinales, puis la route du sud par Pingwe et le restaurant The Rock.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Forêt de Jozani",
+              "coords": [
+                -6.27,
+                39.41
+              ],
+              "wiki": "Jozani Chwaka Bay National Park"
+            },
+            {
+              "name": "The Rock (Pingwe)",
+              "coords": [
+                -6.2437,
+                39.5372
+              ]
+            },
+            {
+              "name": "Jambiani",
+              "coords": [
+                -6.32,
+                39.54
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Lodge près de Jambiani",
+            "coords": [
+              -6.32,
+              39.54
+            ],
+            "note": "Lodge près de Jambiani",
+            "options": [
+              "The Residence",
+              "Sharazād Boutique Hotel",
+              "Kijani Beach Villas",
+              "Mwezi Boutique Resort"
+            ]
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Matemwe → Jozani → Jambiani : environ 2 h"
+            }
+          ]
+        },
+        {
+          "title": "Jambiani et la plage de Mtende",
+          "summary": "Plages de sable blanc et vie des villages (récolte des algues), sortie en dhow dans le lagon, puis Mtende, la « plage secrète ».",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Plage de Mtende",
+              "coords": [
+                -6.4,
+                39.505
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Lodge près de Jambiani",
+            "coords": [
+              -6.32,
+              39.54
+            ],
+            "note": "Même hébergement que la veille"
+          },
+          "transport": [
+            {
+              "mode": "boat",
+              "text": "Sortie en dhow dans le lagon"
+            }
+          ],
+          "ideas": [
+            "Banc de sable de Nakupenda, en excursion depuis Stone Town, si l'on ajoute un jour."
+          ]
+        },
+        {
+          "title": "Zanzibar → retour",
+          "summary": "Derniers moments sur la plage, puis vol retour.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Aéroport de Zanzibar",
+              "coords": [
+                -6.222,
+                39.2249
+              ],
+              "hidden": true
+            }
+          ],
+          "stay": null,
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Vol international"
+            }
+          ],
+          "end": "Vol retour depuis Zanzibar"
+        }
+      ]
     }
   ]
 }

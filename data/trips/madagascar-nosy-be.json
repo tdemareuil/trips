@@ -634,171 +634,6 @@
       ]
     },
     {
-      "id": "option-ile-maurice",
-      "title": "Option : l'île Maurice pour la semaine 2",
-      "summary": "Semaine 2 à l'île Maurice plutôt qu'à Nosy Be, avec les variantes de la première version.",
-      "blocks": [
-        {
-          "type": "heading",
-          "text": "Vols entre Madagascar et l'île Maurice"
-        },
-        {
-          "type": "text",
-          "text": "Il existe des vols directs entre Antananarivo et l'île Maurice, d'environ 1 h 30, assurés par Air Mauritius, Air Austral et Tsaradia (filiale d'Air Madagascar). Ils sont généralement quotidiens ou plusieurs fois par semaine selon la saison ; à réserver à l'avance, surtout pendant les vacances (été austral et fêtes de fin d'année)."
-        },
-        {
-          "type": "table",
-          "columns": [
-            "Jour",
-            "Lieu",
-            "Transport",
-            "Hébergement",
-            "Activités et points d'intérêt"
-          ],
-          "rows": [
-            [
-              "8",
-              "Antananarivo → île Maurice",
-              "Vol (1 h 30)",
-              "Resort à Flic-en-Flac",
-              "Détente sur la plage de Flic-en-Flac, plongée avec tuba, balade en catamaran."
-            ],
-            [
-              "9",
-              "Île Maurice (Sud-Ouest)",
-              "Voiture de location",
-              "Resort à Bel Ombre",
-              "Randonnée au Morne Brabant (UNESCO, vue panoramique), détente à la plage du Morne."
-            ],
-            [
-              "10",
-              "Île Maurice (île aux Cerfs)",
-              "Bateau (30 min)",
-              "Resort à Trou d'Eau Douce",
-              "Journée à l'île aux Cerfs (sports nautiques : jet ski, parachute ascensionnel), barbecue sur la plage."
-            ],
-            [
-              "11",
-              "Île Maurice (parc national des Gorges de Rivière Noire)",
-              "Voiture de location",
-              "Lodge à Chamarel",
-              "Randonnée dans le parc national des Gorges de Rivière Noire (forêt luxuriante, cascades, faune unique)."
-            ],
-            [
-              "12",
-              "Île Maurice (Nord)",
-              "Voiture de location",
-              "Resort à Grand Baie",
-              "Snorkeling à Coin de Mire, jardins de Pamplemousses, coucher de soleil à Mont Choisy."
-            ],
-            [
-              "13",
-              "Île Maurice (Sud-Est)",
-              "Voiture de location",
-              "Resort à Blue Bay",
-              "Détente à Blue Bay Marine Park, sortie en bateau pour découvrir les îlots environnants."
-            ],
-            [
-              "14",
-              "Île Maurice → retour",
-              "Vol vers votre destination",
-              "-",
-              "Fin du voyage."
-            ],
-            [
-              "Variante",
-              "Île Maurice (Sud-Ouest), première version",
-              "Voiture de location",
-              "Resort à Bel Ombre",
-              "Gorges de Rivière Noire, Terres des 7 couleurs de Chamarel, chutes de Chamarel."
-            ],
-            [
-              "Variante",
-              "Île Maurice (Port Louis)",
-              "Voiture de location",
-              "Hôtel à Port Louis",
-              "Marché central, La Citadelle, jardin botanique de Pamplemousses."
-            ],
-            [
-              "Variante",
-              "Île Maurice (Nord), première version",
-              "Voiture de location",
-              "Resort à Grand Baie",
-              "Excursion en bateau pour observer dauphins et baleines, snorkeling à Coin de Mire."
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "variante-cote-est",
-      "title": "Variante : côte est et île Sainte-Marie",
-      "summary": "Première version de la semaine 1 : Hautes Terres et côte est, au lieu des parcs du Sud.",
-      "blocks": [
-        {
-          "type": "table",
-          "columns": [
-            "Jour",
-            "Lieu",
-            "Transport",
-            "Hébergement",
-            "Activités et points d'intérêt"
-          ],
-          "rows": [
-            [
-              "1",
-              "Antananarivo (arrivée)",
-              "-",
-              "Hôtel à Antananarivo",
-              "Visite du Palais de la Reine, marché artisanal de la Digue."
-            ],
-            [
-              "2",
-              "Antananarivo → Andasibe",
-              "Voiture (3 h)",
-              "Lodge à Andasibe",
-              "Randonnée au parc national d'Andasibe-Mantadia (lémuriens Indri-Indri, caméléons, oiseaux)."
-            ],
-            [
-              "3",
-              "Andasibe → Akanin'ny Nofy",
-              "Voiture (2 h) puis bateau (1 h)",
-              "Écolodge à Akanin'ny Nofy",
-              "Palmarium Reserve (lémuriens à proximité), balade sur le canal des Pangalanes."
-            ],
-            [
-              "4",
-              "Akanin'ny Nofy",
-              "-",
-              "Écolodge à Akanin'ny Nofy",
-              "Excursion en bateau sur le canal des Pangalanes, villages de pêcheurs, détente sur la plage."
-            ],
-            [
-              "5",
-              "Akanin'ny Nofy → Tamatave → île Sainte-Marie",
-              "Bateau (1 h) puis vol (1 h)",
-              "Hôtel à Sainte-Marie",
-              "Exploration de l'île aux Nattes (plages paradisiaques), plongée avec tuba."
-            ],
-            [
-              "6",
-              "Île Sainte-Marie",
-              "-",
-              "Hôtel à Sainte-Marie",
-              "Observation des baleines (juillet à septembre), cimetière des Pirates, baignade à Coco Bay."
-            ],
-            [
-              "7",
-              "Île Sainte-Marie → Antananarivo",
-              "Vol (1 h 30)",
-              "Hôtel à Antananarivo",
-              "Détente et shopping au Lemur's Park, dîner dans l'un des meilleurs restaurants locaux."
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "budget",
       "title": "Budget estimatif",
       "summary": "Budget pour 2 personnes, en euros.",
@@ -855,6 +690,606 @@
     {
       "from": 8,
       "title": "Nosy Be et ses îles"
+    }
+  ],
+  "variantLabel": "Principal",
+  "variants": [
+    {
+      "id": "cote-est",
+      "label": "Côte est et Sainte-Marie",
+      "from": 1,
+      "to": 8,
+      "subtitle": "Les Hautes Terres, le canal des Pangalanes et l'île Sainte-Marie, puis Nosy Be",
+      "sections": [
+        {
+          "from": 1,
+          "title": "Les Hautes Terres et Andasibe"
+        },
+        {
+          "from": 3,
+          "title": "Le canal des Pangalanes"
+        },
+        {
+          "from": 5,
+          "title": "Île Sainte-Marie"
+        },
+        {
+          "from": 8,
+          "title": "Nosy Be et ses îles"
+        }
+      ],
+      "days": [
+        {
+          "use": 1
+        },
+        {
+          "use": 2
+        },
+        {
+          "title": "Andasibe → Akanin'ny Nofy",
+          "summary": "Route vers la côte est, puis bateau sur le canal des Pangalanes jusqu'à Akanin'ny Nofy, et la réserve du Palmarium, où les lémuriens s'approchent.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Embarcadère de Manambato",
+              "coords": [
+                -18.71,
+                49.12
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Réserve du Palmarium",
+              "coords": [
+                -18.64,
+                49.21
+              ],
+              "by": "boat"
+            }
+          ],
+          "stay": {
+            "name": "Écolodge à Akanin'ny Nofy",
+            "coords": [
+              -18.65,
+              49.2
+            ],
+            "note": "Écolodge à Akanin'ny Nofy"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Voiture : environ 2 h"
+            },
+            {
+              "mode": "boat",
+              "text": "Bateau : environ 1 h"
+            }
+          ]
+        },
+        {
+          "title": "Le canal des Pangalanes",
+          "summary": "Excursion en bateau sur le canal des Pangalanes, villages de pêcheurs, et détente sur la plage.",
+          "route": "none",
+          "stops": [
+            {
+              "name": "Canal des Pangalanes",
+              "coords": [
+                -18.6,
+                49.25
+              ],
+              "wiki": "Canal des Pangalanes"
+            }
+          ],
+          "stay": {
+            "name": "Écolodge à Akanin'ny Nofy",
+            "coords": [
+              -18.65,
+              49.2
+            ],
+            "note": "Même hébergement que la veille"
+          }
+        },
+        {
+          "title": "Akanin'ny Nofy → Tamatave → île Sainte-Marie",
+          "summary": "Bateau jusqu'à Tamatave, vol vers l'île Sainte-Marie, puis l'île aux Nattes et ses plages, avec masque et tuba.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Aéroport de Tamatave",
+              "coords": [
+                -18.1095,
+                49.3925
+              ],
+              "hidden": true,
+              "by": "boat"
+            },
+            {
+              "name": "Aéroport de Sainte-Marie",
+              "coords": [
+                -17.0939,
+                49.8158
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Île aux Nattes",
+              "coords": [
+                -17.1,
+                49.81
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Sainte-Marie",
+            "coords": [
+              -17.06,
+              49.83
+            ],
+            "note": "Hôtel à Sainte-Marie"
+          },
+          "transport": [
+            {
+              "mode": "boat",
+              "text": "Bateau : environ 1 h"
+            },
+            {
+              "mode": "flight",
+              "text": "Tamatave → Sainte-Marie : environ 1 h"
+            }
+          ]
+        },
+        {
+          "title": "Île Sainte-Marie",
+          "summary": "Le cimetière des pirates, la baignade à Coco Bay, et les baleines à bosse, de juillet à septembre.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Île Sainte-Marie",
+              "coords": [
+                -17.0,
+                49.85
+              ],
+              "wiki": "Île Sainte-Marie"
+            },
+            {
+              "name": "Cimetière des pirates",
+              "coords": [
+                -17.005,
+                49.855
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Sainte-Marie",
+            "coords": [
+              -17.06,
+              49.83
+            ],
+            "note": "Même hébergement que la veille"
+          },
+          "ideas": [
+            "Observation des baleines à bosse : de juillet à septembre seulement."
+          ]
+        },
+        {
+          "title": "Île Sainte-Marie → Antananarivo",
+          "summary": "Vol retour vers la capitale, le Lemur's Park, et un dîner dans l'un des meilleurs restaurants de la ville.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Aéroport de Sainte-Marie",
+              "coords": [
+                -17.0939,
+                49.8158
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Aéroport d'Antananarivo-Ivato",
+              "coords": [
+                -18.7969,
+                47.4788
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Lemur's Park",
+              "coords": [
+                -18.95,
+                47.38
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à Antananarivo",
+            "coords": [
+              -18.91,
+              47.525
+            ],
+            "note": "Hôtel à Antananarivo"
+          },
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Sainte-Marie → Antananarivo : environ 1 h 30"
+            }
+          ]
+        },
+        {
+          "use": 8,
+          "title": "Antananarivo → Nosy Be",
+          "summary": "Vol vers Nosy Be, détente sur la plage d'Ambatoloaka et coucher de soleil depuis le mont Passot.",
+          "stops": [
+            {
+              "name": "Aéroport d'Antananarivo-Ivato",
+              "coords": [
+                -18.7969,
+                47.4788
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Aéroport de Nosy Be",
+              "coords": [
+                -13.312,
+                48.314
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Nosy Be",
+              "wiki": "Nosy Be",
+              "culture": "Île du nord-ouest de Madagascar, surnommée « l'île aux parfums » pour ses plantations d'ylang-ylang."
+            },
+            {
+              "name": "Plage d'Ambatoloaka",
+              "wiki": "Ambatoloaka",
+              "coords": [
+                -13.4,
+                48.24
+              ],
+              "culture": "Station balnéaire la plus animée de Nosy Be, avec restaurants et bars face à la mer."
+            },
+            {
+              "name": "Mont Passot",
+              "coords": [
+                -13.32,
+                48.23
+              ],
+              "culture": "Point culminant de l'île, avec vue sur les lacs de cratère et l'archipel.",
+              "photo": "File:Mirador de Mont Passot, Nosy Be, Madagascar, 2025-09-21, DD 108.jpg"
+            }
+          ],
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Vol Antananarivo → Nosy Be",
+              "after": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maurice",
+      "label": "Île Maurice",
+      "from": 8,
+      "to": 14,
+      "subtitle": "Parcs nationaux de Madagascar, de Ranomafana à l'Isalo, puis une semaine à l'île Maurice",
+      "sections": [
+        {
+          "from": 1,
+          "title": "Les Hautes Terres et les forêts"
+        },
+        {
+          "from": 5,
+          "title": "Isalo et Tuléar"
+        },
+        {
+          "from": 8,
+          "title": "L'île Maurice"
+        }
+      ],
+      "days": [
+        {
+          "title": "Tuléar → Antananarivo → île Maurice",
+          "summary": "Vol vers Antananarivo, puis vol direct vers l'île Maurice, et première soirée sur la plage de Flic-en-Flac.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Aéroport de Tuléar",
+              "coords": [
+                -23.3834,
+                43.7285
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Aéroport d'Antananarivo-Ivato",
+              "coords": [
+                -18.7969,
+                47.4788
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Aéroport de Maurice (MRU)",
+              "coords": [
+                -20.4302,
+                57.6836
+              ],
+              "hidden": true,
+              "by": "flight"
+            },
+            {
+              "name": "Plage de Flic-en-Flac",
+              "coords": [
+                -20.274,
+                57.365
+              ],
+              "wiki": "Flic en Flac"
+            }
+          ],
+          "stay": {
+            "name": "Resort à Flic-en-Flac",
+            "coords": [
+              -20.274,
+              57.371
+            ],
+            "note": "Resort à Flic-en-Flac"
+          },
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Tuléar → Antananarivo → île Maurice (environ 1 h 30 pour le vol direct)"
+            }
+          ],
+          "notes": [
+            "Il existe des vols directs entre Antananarivo et l'île Maurice, d'environ 1 h 30, assurés par Air Mauritius, Air Austral et Tsaradia (filiale d'Air Madagascar). Ils sont généralement quotidiens ou plusieurs fois par semaine selon la saison ; à réserver à l'avance, surtout pendant les vacances (été austral et fêtes de fin d'année)."
+          ],
+          "ideas": [
+            "Le lendemain matin : snorkeling et balade en catamaran à Flic-en-Flac."
+          ]
+        },
+        {
+          "title": "Le sud-ouest : le Morne Brabant",
+          "summary": "Randonnée au Morne Brabant, classé par l'UNESCO, pour la vue sur le lagon, puis la plage du Morne.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Le Morne Brabant",
+              "coords": [
+                -20.455,
+                57.316
+              ],
+              "wiki": "Le Morne Brabant"
+            },
+            {
+              "name": "Plage du Morne",
+              "coords": [
+                -20.46,
+                57.31
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Resort à Bel Ombre",
+            "coords": [
+              -20.502,
+              57.41
+            ],
+            "note": "Resort à Bel Ombre"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Voiture de location"
+            }
+          ],
+          "ideas": [
+            {
+              "label": "Variante (première version) :",
+              "text": "les gorges de Rivière Noire, les Terres des 7 couleurs et les chutes de Chamarel."
+            }
+          ]
+        },
+        {
+          "title": "L'île aux Cerfs",
+          "summary": "Journée à l'île aux Cerfs, baignade et barbecue sur la plage.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Embarcadère de Trou d'Eau Douce",
+              "coords": [
+                -20.24,
+                57.79
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Île aux Cerfs",
+              "coords": [
+                -20.272,
+                57.805
+              ],
+              "wiki": "Île aux Cerfs",
+              "by": "boat"
+            }
+          ],
+          "stay": {
+            "name": "Resort à Trou d'Eau Douce",
+            "coords": [
+              -20.24,
+              57.79
+            ],
+            "note": "Resort à Trou d'Eau Douce"
+          },
+          "transport": [
+            {
+              "mode": "boat",
+              "text": "Bateau : environ 30 min"
+            }
+          ],
+          "notes": [
+            "L'île aux Cerfs est la sortie la plus fréquentée de l'île, avec jet-skis et parachute ascensionnel : y aller tôt, ou préférer un tour en bateau des îlots de la côte est."
+          ]
+        },
+        {
+          "title": "Les gorges de Rivière Noire",
+          "summary": "Randonnée dans le parc national des gorges de Rivière Noire : forêt, cascades et faune endémique.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Gorges de Rivière Noire",
+              "coords": [
+                -20.42,
+                57.43
+              ],
+              "wiki": "Black River Gorges National Park"
+            },
+            {
+              "name": "Chutes de Chamarel",
+              "coords": [
+                -20.4424,
+                57.3855
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Lodge à Chamarel",
+            "coords": [
+              -20.43,
+              57.39
+            ],
+            "note": "Lodge à Chamarel"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Voiture de location"
+            }
+          ]
+        },
+        {
+          "title": "Le nord : Coin de Mire et Pamplemousses",
+          "summary": "Snorkeling au pied du Coin de Mire, le jardin botanique de Pamplemousses, et le coucher du soleil à Mont Choisy.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Coin de Mire",
+              "coords": [
+                -19.94,
+                57.62
+              ],
+              "wiki": "Coin de Mire",
+              "by": "boat"
+            },
+            {
+              "name": "Jardin botanique de Pamplemousses",
+              "coords": [
+                -20.104,
+                57.58
+              ],
+              "wiki": "Sir Seewoosagur Ramgoolam Botanical Garden"
+            },
+            {
+              "name": "Plage de Mont Choisy",
+              "coords": [
+                -20.02,
+                57.55
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Resort à Grand Baie",
+            "coords": [
+              -20.01,
+              57.58
+            ],
+            "note": "Resort à Grand Baie"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Voiture de location"
+            }
+          ],
+          "ideas": [
+            {
+              "label": "Variante (première version) :",
+              "text": "sortie en bateau pour voir les dauphins, et snorkeling au Coin de Mire."
+            },
+            {
+              "label": "Variante :",
+              "text": "une journée à Port Louis : marché central, Citadelle, et jardin de Pamplemousses."
+            }
+          ]
+        },
+        {
+          "title": "Le sud-est : Blue Bay",
+          "summary": "Le parc marin de Blue Bay, et une sortie en bateau vers les îlots.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Parc marin de Blue Bay",
+              "coords": [
+                -20.444,
+                57.716
+              ],
+              "wiki": "Blue Bay Marine Park"
+            },
+            {
+              "name": "Île des Deux Cocos",
+              "coords": [
+                -20.45,
+                57.72
+              ],
+              "by": "boat"
+            }
+          ],
+          "stay": {
+            "name": "Resort à Blue Bay",
+            "coords": [
+              -20.444,
+              57.71
+            ],
+            "note": "Resort à Blue Bay"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Voiture de location"
+            }
+          ]
+        },
+        {
+          "title": "Île Maurice → retour",
+          "summary": "Fin du voyage.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Aéroport de Maurice (MRU)",
+              "coords": [
+                -20.4302,
+                57.6836
+              ],
+              "hidden": true
+            }
+          ],
+          "stay": null,
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Vol retour"
+            }
+          ],
+          "end": "Vol retour depuis l'île Maurice"
+        }
+      ]
     }
   ]
 }

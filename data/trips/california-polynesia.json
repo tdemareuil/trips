@@ -1191,81 +1191,6 @@
   ],
   "guides": [
     {
-      "id": "california-san-francisco",
-      "title": "Variante : Californie centrale autour de San Francisco",
-      "summary": "Une autre moitié de séjour californien : 5 jours autour de San Francisco, plus 3 jours optionnels.",
-      "blocks": [
-        {
-          "type": "table",
-          "columns": [
-            "Jour",
-            "Destination",
-            "Distance depuis SF",
-            "Type de paysage",
-            "Activités et points d'intérêt"
-          ],
-          "rows": [
-            [
-              "1",
-              "San Francisco",
-              "-",
-              "Urbain, vue sur la baie",
-              "Visite des quartiers emblématiques : Chinatown, North Beach, Mission District, balade le long des Painted Ladies, montée à Twin Peaks pour une vue panoramique."
-            ],
-            [
-              "2",
-              "Golden Gate Park et Land's End",
-              "20 min dans SF",
-              "Urbain, parcs, littoral",
-              "Journée dans le Golden Gate Park (jardin japonais, conservatoire des fleurs), randonnée le long du sentier de Land's End avec vue sur le Golden Gate Bridge et les ruines des bains Sutro, Ocean Beach."
-            ],
-            [
-              "3",
-              "Muir Woods et Sausalito",
-              "30 à 45 min au nord",
-              "Forêt de séquoias",
-              "Randonnée parmi les séquoias géants, sentiers ombragés, arrêt à Sausalito pour une promenade en bord de mer (waterfront) en revenant."
-            ],
-            [
-              "4",
-              "Point Reyes National Seashore",
-              "1 h 30 au nord-ouest",
-              "Littoral, falaises, plages",
-              "Randonnée sur les falaises escarpées, exploration des North et South beaches, pique-nique à Tomales Bay (Tomales Point Hike), phare de Point Reyes, Cypress Tree Tunnel, Alamere Falls, observation des animaux marins (Elephant Seal Overlook Trail, près de Chimney Rock), Drakes Beach (fin janvier à mi-février, quand les bébés éléphants de mer sont sur la plage), Drakes Estero trail (fleurs sauvages au printemps, baies comestibles selon la saison, raies et requins-léopards à repérer depuis la rive, Sunset Beach au bout du sentier pour les flaques de marée et les crabes violets), Abbott's Lagoon pour les oiseaux et les loutres."
-            ],
-            [
-              "5",
-              "Wine Country : Napa et Sonoma",
-              "1 h 30 au nord",
-              "Vignobles",
-              "Napa Valley : routes panoramiques comme la Silverado Trail. Sonoma Valley : paysages vallonnés et domaines historiques. Déjeuner gastronomique au Brix Restaurant (Napa) ou au Girl & the Fig (Sonoma), avec des produits locaux. Balade dans le centre de Yountville ou sur Sonoma Plaza pour les boutiques et galeries d'art. Napa : Castello di Amorosa (château médiéval avec dégustation) et Robert Mondavi Winery (dégustations guidées). Sonoma : Buena Vista Winery (l'une des plus anciennes caves) et Gundlach Bundschu Winery (vignoble pittoresque)."
-            ],
-            [
-              "6 (option)",
-              "Berkeley et Oakland Hills",
-              "30 min à l'est",
-              "Collines, forêt urbaine",
-              "Berkeley Botanical Garden, balade dans les Oakland Hills (Redwood Regional Park), Temescal et dîner dans le quartier animé de Rockridge."
-            ],
-            [
-              "7 (option)",
-              "Big Basin Redwoods State Park",
-              "1 h 30 au sud",
-              "Forêt ancienne, séquoias",
-              "Randonnée au cœur des séquoias géants dans le plus ancien State Park de Californie : Skyline to the Sea Trail (longue) ou Redwood Loop Trail (plus courte). Le parc a été gravement touché par les incendies de 2020 (CZU Lightning Complex Fire), qui ont détruit presque toutes les infrastructures. Les séquoias anciens ont survécu, mais le paysage est marqué par les dégâts."
-            ],
-            [
-              "8 (option)",
-              "Pinnacles National Park",
-              "2 h 30 au sud-est",
-              "Formations rocheuses, grottes",
-              "Randonnée sur le High Peaks Trail pour des vues à couper le souffle, exploration des Balconies Cave, observation des condors de Californie."
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "id": "paysages-la-sf",
       "title": "Paysages à moins de 3 heures de LA ou SF",
       "summary": "Sorties possibles depuis Los Angeles et San Francisco, avec des résumés par type de paysage et par direction.",
@@ -1860,6 +1785,395 @@
     {
       "from": 15,
       "title": "Les atolls des Tuamotu"
+    }
+  ],
+  "variantLabel": "Californie du Sud",
+  "variants": [
+    {
+      "id": "san-francisco",
+      "label": "Autour de San Francisco",
+      "from": 1,
+      "to": 7,
+      "subtitle": "San Francisco, les séquoias, Point Reyes et les vignobles, puis Tahiti, Moorea, Bora Bora et les atolls des Tuamotu",
+      "sections": [
+        {
+          "from": 1,
+          "title": "Autour de San Francisco"
+        },
+        {
+          "from": 8,
+          "title": "Tahiti et les îles de la Société"
+        },
+        {
+          "from": 15,
+          "title": "Les atolls des Tuamotu"
+        }
+      ],
+      "days": [
+        {
+          "title": "Arrivée à San Francisco",
+          "summary": "Les quartiers de la ville : Chinatown, North Beach, Mission District, les Painted Ladies, et la montée à Twin Peaks pour la vue.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Aéroport de San Francisco (SFO)",
+              "coords": [
+                37.6213,
+                -122.379
+              ],
+              "hidden": true
+            },
+            {
+              "name": "Chinatown",
+              "coords": [
+                37.7941,
+                -122.4078
+              ],
+              "wiki": "Chinatown, San Francisco"
+            },
+            {
+              "name": "North Beach",
+              "coords": [
+                37.8061,
+                -122.4103
+              ],
+              "wiki": "North Beach, San Francisco"
+            },
+            {
+              "name": "Mission District",
+              "coords": [
+                37.7599,
+                -122.4148
+              ],
+              "wiki": "Mission District, San Francisco"
+            },
+            {
+              "name": "Painted Ladies",
+              "coords": [
+                37.7762,
+                -122.4328
+              ],
+              "wiki": "Painted ladies"
+            },
+            {
+              "name": "Twin Peaks",
+              "coords": [
+                37.7544,
+                -122.4477
+              ],
+              "wiki": "Twin Peaks (San Francisco)"
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à San Francisco",
+            "coords": [
+              37.7879,
+              -122.4075
+            ],
+            "note": "Hôtel à San Francisco"
+          },
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Vol international (1 000 EUR pour 2)"
+            }
+          ]
+        },
+        {
+          "title": "Golden Gate Park et Lands End",
+          "summary": "Le Golden Gate Park (jardin japonais, conservatoire des fleurs), puis le sentier de Lands End, avec la vue sur le Golden Gate et les ruines des bains Sutro, et Ocean Beach.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Jardin de thé japonais",
+              "coords": [
+                37.7702,
+                -122.4703
+              ],
+              "wiki": "Japanese Tea Garden (San Francisco)"
+            },
+            {
+              "name": "Conservatoire des fleurs",
+              "coords": [
+                37.7726,
+                -122.4603
+              ],
+              "wiki": "Conservatory of Flowers"
+            },
+            {
+              "name": "Lands End",
+              "coords": [
+                37.7876,
+                -122.5048
+              ],
+              "wiki": "Lands End (San Francisco)"
+            },
+            {
+              "name": "Bains Sutro",
+              "coords": [
+                37.7804,
+                -122.5138
+              ],
+              "wiki": "Sutro Baths"
+            },
+            {
+              "name": "Ocean Beach",
+              "coords": [
+                37.7594,
+                -122.5107
+              ],
+              "wiki": "Ocean Beach, San Francisco"
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à San Francisco",
+            "coords": [
+              37.7879,
+              -122.4075
+            ],
+            "note": "Même hébergement que la veille"
+          }
+        },
+        {
+          "title": "Muir Woods et Sausalito",
+          "summary": "Randonnée parmi les séquoias de Muir Woods, puis la promenade du front de mer de Sausalito en revenant.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Muir Woods",
+              "coords": [
+                37.8912,
+                -122.5719
+              ],
+              "wiki": "Muir Woods National Monument"
+            },
+            {
+              "name": "Sausalito",
+              "coords": [
+                37.8591,
+                -122.4853
+              ],
+              "wiki": "Sausalito, California"
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à San Francisco",
+            "coords": [
+              37.7879,
+              -122.4075
+            ],
+            "note": "Même hébergement que la veille"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Environ 30 à 45 min au nord"
+            }
+          ]
+        },
+        {
+          "title": "Point Reyes",
+          "summary": "Les falaises et les plages de Point Reyes : le phare, le Cypress Tree Tunnel, les éléphants de mer près de Chimney Rock et sur Drakes Beach, et Tomales Point.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Phare de Point Reyes",
+              "coords": [
+                37.9955,
+                -123.0232
+              ],
+              "wiki": "Point Reyes Lighthouse"
+            },
+            {
+              "name": "Cypress Tree Tunnel",
+              "coords": [
+                38.0787,
+                -122.9413
+              ]
+            },
+            {
+              "name": "Elephant Seal Overlook",
+              "coords": [
+                37.9945,
+                -122.9737
+              ]
+            },
+            {
+              "name": "Drakes Beach",
+              "coords": [
+                38.0285,
+                -122.9625
+              ]
+            },
+            {
+              "name": "Tomales Point",
+              "coords": [
+                38.2385,
+                -122.9925
+              ],
+              "optional": true
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à San Francisco",
+            "coords": [
+              37.7879,
+              -122.4075
+            ],
+            "note": "Même hébergement que la veille"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Environ 1 h 30 au nord-ouest"
+            }
+          ],
+          "ideas": [
+            "Drakes Beach : de fin janvier à mi-février, les bébés éléphants de mer sont sur la plage.",
+            "Drakes Estero Trail, jusqu'à Sunset Beach : raies et requins-léopards visibles depuis la rive, flaques de marée.",
+            "Abbott's Lagoon pour les oiseaux et les loutres ; Alamere Falls, la cascade qui tombe sur la plage."
+          ]
+        },
+        {
+          "title": "Napa et Sonoma",
+          "summary": "Les routes des vignobles : la Silverado Trail dans la Napa Valley, les domaines historiques de Sonoma, et un déjeuner au Brix (Napa) ou au Girl & the Fig (Sonoma).",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Napa Valley",
+              "coords": [
+                38.5025,
+                -122.2654
+              ],
+              "wiki": "Napa Valley AVA"
+            },
+            {
+              "name": "Yountville",
+              "coords": [
+                38.4016,
+                -122.3608
+              ],
+              "wiki": "Yountville, California"
+            },
+            {
+              "name": "Sonoma Plaza",
+              "coords": [
+                38.2926,
+                -122.458
+              ],
+              "wiki": "Sonoma Plaza"
+            },
+            {
+              "name": "Buena Vista Winery",
+              "coords": [
+                38.2992,
+                -122.4365
+              ]
+            },
+            {
+              "name": "Gundlach Bundschu",
+              "coords": [
+                38.3035,
+                -122.4229
+              ]
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à San Francisco",
+            "coords": [
+              37.7879,
+              -122.4075
+            ],
+            "note": "Même hébergement que la veille"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Environ 1 h 30 au nord"
+            }
+          ],
+          "ideas": [
+            "Napa : Castello di Amorosa (château médiéval avec dégustation) et Robert Mondavi Winery (dégustations guidées)."
+          ]
+        },
+        {
+          "title": "Berkeley et les collines d'Oakland",
+          "summary": "Le jardin botanique de Berkeley, une balade dans les Oakland Hills (Redwood Regional Park), puis Temescal et un dîner à Rockridge.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Jardin botanique de Berkeley",
+              "coords": [
+                37.8753,
+                -122.2387
+              ],
+              "wiki": "University of California Botanical Garden"
+            },
+            {
+              "name": "Redwood Regional Park",
+              "coords": [
+                37.8077,
+                -122.1694
+              ],
+              "wiki": "Redwood Regional Park"
+            },
+            {
+              "name": "Rockridge",
+              "coords": [
+                37.8445,
+                -122.2516
+              ],
+              "wiki": "Rockridge, Oakland, California"
+            }
+          ],
+          "stay": {
+            "name": "Hôtel à San Francisco",
+            "coords": [
+              37.7879,
+              -122.4075
+            ],
+            "note": "Même hébergement que la veille"
+          },
+          "transport": [
+            {
+              "mode": "car",
+              "text": "Environ 30 min à l'est"
+            }
+          ],
+          "ideas": [
+            {
+              "label": "Ou Big Basin Redwoods :",
+              "text": "1 h 30 au sud, le plus ancien State Park de Californie, gravement touché par l'incendie de 2020 : les séquoias anciens ont survécu, mais le paysage en garde la trace."
+            },
+            {
+              "label": "Ou Pinnacles National Park :",
+              "text": "2 h 30 au sud-est : High Peaks Trail, grottes des Balconies et condors de Californie."
+            }
+          ]
+        },
+        {
+          "title": "San Francisco → Tahiti",
+          "summary": "Dernière matinée en ville, puis vol vers Papeete.",
+          "route": "drive",
+          "stops": [
+            {
+              "name": "Aéroport de San Francisco (SFO)",
+              "coords": [
+                37.6213,
+                -122.379
+              ],
+              "hidden": true
+            }
+          ],
+          "stay": null,
+          "transport": [
+            {
+              "mode": "flight",
+              "text": "Vol vers Papeete (environ 8 h 30)"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
