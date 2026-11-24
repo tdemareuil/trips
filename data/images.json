@@ -7935,5 +7935,13 @@
   "lon": -122.1705,
   "extract": "Le Stanford Memorial Church est une église située au cœur de l'université Stanford en Californie, aux États-Unis, construite en mémoire de Leland Stanford.",
   "article": "https://fr.wikipedia.org/wiki/Stanford_Memorial_Church"
+ },
+ "Palacio de los Capitanes Generales, Antigua Guatemala": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Pal%C3%A1c_kapit%C3%A1n%C5%AF.jpg/1920px-Pal%C3%A1c_kapit%C3%A1n%C5%AF.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1c_kapit%C3%A1n%C5%AF.jpg",
+  "artist": "Ondřej Žváček",
+  "license": "CC BY 2.5",
+  "lat": 14.55583,
+  "lon": -90.73389
  }
 }
