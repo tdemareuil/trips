@@ -209,10 +209,13 @@ button:disabled { cursor: default; }
 .cta:hover { transform: translateY(-2px); box-shadow: 0 14px 36px rgba(232, 97, 58, 0.5); }
 .cta span { transition: transform 0.25s; }
 .cta:hover span { transform: translateX(4px); }
-.versions { display: inline-flex; flex-wrap: wrap; gap: 2px; margin: 0 0 14px; padding: 3px; border-radius: 18px; background: rgba(27, 33, 48, 0.07); }
-.versions a, .versions span { padding: 6px 14px; border-radius: 999px; font-size: 13px; font-weight: 600; color: var(--muted); text-decoration: none; }
-.versions a:hover { color: var(--ink, #1b2130); }
-.versions .on { background: #fff; color: var(--ink, #1b2130); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12); }
+.versions { position: relative; display: inline-flex; flex-wrap: wrap; gap: 2px; margin: 0 0 14px; padding: 3px; border-radius: 18px; background: rgba(27, 33, 48, 0.07); }
+.versions a { position: relative; padding: 6px 14px; border-radius: 999px; font-size: 13px; font-weight: 600; color: var(--muted); text-decoration: none; transition: color 0.3s; }
+.versions a:hover, .versions .on { color: var(--ink, #1b2130); }
+.versions .on { cursor: default; }
+.versions .thumb { position: absolute; top: 0; left: 0; border-radius: 999px; background: #fff; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12); transition: transform 0.45s cubic-bezier(0.3, 0.9, 0.3, 1), width 0.45s cubic-bezier(0.3, 0.9, 0.3, 1), height 0.45s; }
+.card .swap { animation: swap 0.5s ease both; animation-delay: calc(var(--k, 0) * 30ms); }
+@keyframes swap { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
 .overview { list-style: none; margin: 0; padding: 0; }
 .overview a { display: flex; align-items: center; gap: 12px; padding: 9px 0; border-bottom: 1px solid var(--line); font-size: 14.5px; transition: padding 0.2s, color 0.2s; }
 .overview a:hover { padding-left: 8px; color: var(--c); }

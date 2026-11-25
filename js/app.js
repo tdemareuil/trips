@@ -172,8 +172,8 @@ function tripFeatures(trip) {
   return { routes: fc(routes), points: fc(points) };
 }
 
-function addTripLayers(map, trip) {
-  const { routes, points } = tripFeatures(trip);
+function addTripLayers(map, getTrip) {
+  const { routes, points } = tripFeatures(getTrip());
   const layout = { 'line-cap': 'round', 'line-join': 'round' };
   // A cream veil over the basemap (below its labels) tones down its greens and blues
   // while routes and points, added after, keep their colours.
@@ -203,7 +203,7 @@ function addTripLayers(map, trip) {
   map.on('click', 'points', e => {
     const f = e.features[0];
     new maplibregl.Popup({ offset: 12, closeButton: false, maxWidth: '240px' })
-      .setLngLat(f.geometry.coordinates).setHTML(popupHTML(trip, f.properties)).addTo(map);
+      .setLngLat(f.geometry.coordinates).setHTML(popupHTML(getTrip(), f.properties)).addTo(map);
   });
 }
 
@@ -211,11 +211,21 @@ function createMap(container, trip) {
   const map = new maplibregl.Map({ container, style: STYLE_URL, center: [-119.5, 36.5], zoom: 5, attributionControl: false });
   map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
   map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
+  let shown = trip;
   const ready = new Promise(resolve => map.on('load', () => {
-    addTripLayers(map, trip);
+    addTripLayers(map, () => shown);
     resolve();
   }));
-  return { map, ready };
+  // Show another trip (a version of this one) on the same map.
+  const setTrip = async next => {
+    shown = next;
+    await ready;
+    if (shown !== next) return;
+    const { routes, points } = tripFeatures(next);
+    map.getSource('routes').setData(routes);
+    map.getSource('points').setData(points);
+  };
+  return { map, ready, setTrip };
 }
 
 function popupHTML(trip, p) {
@@ -327,6 +337,13 @@ function route() {
 function show(kind, trip, slide) { // `slide` is the day for a story, the guide id for a guide
   if (current && kind === 'story' && current.kind === 'story' && current.tripId === trip.id) {
     current.goTo(slide);
+    return;
+  }
+  // Another version of the same trip: keep the page and the map, swap the content.
+  const base = id => id.split('~')[0];
+  if (current && kind === 'story' && current.kind === 'story' && base(current.tripId) === base(trip.id)) {
+    document.title = `${trip.title} · Trips`;
+    current.switchTrip(trip, slide);
     return;
   }
   if (current) current.destroy();
@@ -526,11 +543,11 @@ function guideMap(container, trip, guide, block) {
 // --- Story -----------------------------------------------------------------
 
 function mountStory(trip, start) {
-  const days = trip.days;
-  const N = days.length;
+  let days = trip.days; // trip, days and N change when switching to another version
+  let N = days.length;
   const credit = '<p class="credits">Photos : Wikipédia / Wikimedia Commons, sous licences libres, sauf mention « Photo personnelle ». Le © de chaque photo renvoie à son auteur.</p>';
 
-  const dots = ['Aperçu', ...days.map(d => `Jour ${d.n}${d.dateLong ? ` · ${d.dateLong}` : ''}`)].map((label, i) => `
+  const dotsHTML = () => ['Aperçu', ...days.map(d => `Jour ${d.n}${d.dateLong ? ` · ${d.dateLong}` : ''}`)].map((label, i) => `
     <a class="dot" href="#/${trip.id}/${i}" data-i="${i}" data-label="${esc(label)}" style="left:${(i / N) * 100}%;--c:${i ? days[i - 1].color : '#1b2130'}" aria-label="${esc(label)}">${i || '◎'}</a>`).join('');
 
   app.innerHTML = `<section class="story">
@@ -543,7 +560,7 @@ function mountStory(trip, start) {
     <button class="nav nav-next" type="button" aria-label="Jour suivant">›</button>
     <nav class="rail">
       <button class="rail-btn" data-d="-1" type="button" aria-label="Jour précédent">‹</button>
-      <div class="track"><div class="track-fill"></div>${dots}</div>
+      <div class="track"><div class="track-fill"></div>${dotsHTML()}</div>
       <button class="rail-btn" data-d="1" type="button" aria-label="Jour suivant">›</button>
     </nav>
   </section>`;
@@ -552,7 +569,7 @@ function mountStory(trip, start) {
   const card = $('.card');
   const stage = $('.stage');
   const layers = [...app.querySelectorAll('.bg-layer')];
-  const { map, ready } = createMap($('.map'), trip);
+  const { map, ready, setTrip } = createMap($('.map'), trip);
   const anim = { raf: 0 };
   let idx = -1;
   let front = 0;
@@ -575,6 +592,7 @@ function mountStory(trip, start) {
       if (token !== bgToken) return;
       const next = layers[1 - front];
       next.style.backgroundImage = url ? `url("${url}")` : '';
+      next.dataset.url = img?.url || '';
       next.style.backgroundPosition = img?.pos || '';
       next.classList.add('on');
       layers[front].classList.remove('on');
@@ -609,8 +627,8 @@ function mountStory(trip, start) {
     const list = days.map(d => `${sectionHead(d)}
       <li><a href="#/${trip.id}/${d.n}" style="--c:${d.color}"><span class="swatch"></span><b>${d.n}</b><span>${esc(d.title)}</span>${d.dateShort ? `<time>${esc(d.dateShort)}</time>` : ''}</a></li>`).join('');
     // Switch between the versions of the trip (see withVariants).
-    const versions = trip.versions ? `<nav class="versions" aria-label="Itinéraire">${trip.versions.map(v => v.id === trip.id
-      ? `<span class="on" aria-current="true">${esc(v.label)}</span>`
+    const versions = trip.versions ? `<nav class="versions" aria-label="Itinéraire"><span class="thumb" aria-hidden="true"></span>${trip.versions.map(v => v.id === trip.id
+      ? `<a class="on" href="#/${v.id}/0" aria-current="true">${esc(v.label)}</a>`
       : `<a href="#/${v.id}/0">${esc(v.label)}</a>`).join('')}</nav>` : '';
     const guides = trip.guides?.length ? `
       <h2 class="section">Guides &amp; comparatifs</h2>
@@ -686,11 +704,97 @@ function mountStory(trip, start) {
     void card.offsetWidth; // restart the CSS entrance animation
     card.classList.add('enter');
     // After a switch between versions of the trip, keep the switch where it was on screen.
-    const nav = i === 0 && switchedFrom != null && card.querySelector('.versions');
+    placeThumb(false);
+    keepSwitchInPlace();
+  }
+
+  // After a switch between versions of the trip, keep the switch where it was on screen.
+  function keepSwitchInPlace() {
+    const nav = idx === 0 && switchedFrom != null && card.querySelector('.versions');
     if (nav) {
       for (const box of [card, stage]) box.scrollTop += nav.getBoundingClientRect().top - switchedFrom;
     }
     switchedFrom = null;
+  }
+
+  // The white pill behind the selected version slides from one version to the next.
+  function placeThumb(animate) {
+    const nav = card.querySelector('.versions');
+    const on = nav?.querySelector('.on');
+    const thumb = nav?.querySelector('.thumb');
+    if (!on || !thumb) return;
+    if (!animate) thumb.style.transition = 'none';
+    thumb.style.width = `${on.offsetWidth}px`;
+    thumb.style.height = `${on.offsetHeight}px`;
+    thumb.style.transform = `translate(${on.offsetLeft}px, ${on.offsetTop}px)`;
+    if (!animate) { void thumb.offsetWidth; thumb.style.transition = ''; }
+  }
+  const onResize = () => placeThumb(false);
+  window.addEventListener('resize', onResize);
+
+  // Swap the overview to another version without rebuilding the page: parts that are
+  // the same stay put, the switch slides, and only what changed fades in.
+  function morphIntro() {
+    const fresh = document.createElement('div');
+    fresh.innerHTML = introHTML();
+    const next = [...fresh.children];
+    const prev = [...card.children];
+    if (next.length !== prev.length || next.some((el, n) => el.tagName !== prev[n].tagName)) {
+      renderCard(0, 'next');
+      return;
+    }
+    card.classList.remove('enter');
+    const navTop = card.querySelector('.versions')?.getBoundingClientRect().top;
+    let k = 0;
+    const fadeIn = el => { el.classList.add('swap'); el.style.setProperty('--k', Math.min(k++, 12)); };
+    next.forEach((el, n) => {
+      const old = prev[n];
+      el.style.setProperty('--n', n);
+      if (old.isEqualNode(el)) return;
+      if (old.matches('.versions')) {
+        old.querySelectorAll('a').forEach(a => {
+          const on = a.getAttribute('href') === `#/${trip.id}/0`;
+          a.classList.toggle('on', on);
+          a.toggleAttribute('aria-current', on);
+        });
+        placeThumb(true);
+        return;
+      }
+      if (old.matches('.overview')) {
+        const before = [...old.children];
+        [...el.children].forEach((li, j) => { if (!before[j]?.isEqualNode(li)) fadeIn(li); });
+      } else {
+        fadeIn(el);
+      }
+      old.replaceWith(el);
+    });
+    keepSwitchInPlace();
+    // When scrolling cannot absorb a change of height above the switch (at the top of
+    // the card), glide the switch and the list to their new place instead of jumping.
+    const nav = card.querySelector('.versions');
+    const shift = nav && navTop != null ? nav.getBoundingClientRect().top - navTop : 0;
+    if (Math.abs(shift) > 1) {
+      [...card.children].slice([...card.children].indexOf(nav)).filter(el => !el.classList.contains('swap'))
+        .forEach(el => el.animate([{ transform: `translateY(${-shift}px)` }, { transform: 'none' }], { duration: 450, easing: 'cubic-bezier(0.3, 0.9, 0.3, 1)' }));
+    }
+  }
+
+  function switchTrip(next, slide) {
+    trip = next;
+    days = next.days;
+    N = days.length;
+    renderTopbar(trip);
+    app.querySelector('.track').innerHTML = `<div class="track-fill"></div>${dotsHTML()}`;
+    setTrip(trip);
+    if (slide !== 0 || idx !== 0) {
+      idx = -1;
+      goTo(slide);
+      return;
+    }
+    if (trip.coverImg?.url !== layers[front].dataset.url) setBg(trip.coverImg);
+    morphIntro();
+    updateRail(0);
+    updateMap(0);
   }
 
   // --- Rail
@@ -815,10 +919,12 @@ function mountStory(trip, start) {
   goTo(start);
   return {
     kind: 'story',
-    tripId: trip.id,
+    get tripId() { return trip.id; },
     goTo,
+    switchTrip,
     destroy() {
       document.removeEventListener('keydown', onKey);
+      window.removeEventListener('resize', onResize);
       cancelAnimationFrame(anim.raf);
       map.remove();
     },
